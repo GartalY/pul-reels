@@ -82,5 +82,16 @@
  },
  "fixes": [
   "18:30 Eiffel card re-rendered as 3_eiffel_card_v2.jpg (title QÜLLƏSI -> QÜLLƏSİ, AZ dotted capital İ) and swapped in Metricool"
- ]
+ ],
+ "metricool": {
+  "13:00 card": 397016996,
+  "14:00 poll": 397017022,
+  "15:00 answer": 397017060,
+  "18:30 card (v2)": 397017110,
+  "19:30 poll": 396984551,
+  "20:30 answer": 396982697,
+  "21:30 reel": 396868215,
+  "22:30 poll": 396984570,
+  "23:30 answer": 396982715
+ }
 }

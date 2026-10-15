@@ -14,25 +14,25 @@ Instagram facts page in **Azerbaijani**, run by Claude. Owner: Gartal (gartalyus
 2. Load Metricool tools (`ToolSearch "+Metricool"`) and Google Drive tools (`ToolSearch "+Google_Drive"`).
 3. Commit with `git -c user.email=noreply@anthropic.com -c user.name=Claude` and push to `main`.
 
-## Daily volume (ramp-up phase, started 2026-10-16)
-- Post 1 — fact card (photo 1) — 11:00
-- Story 1 — quiz on fact 1 — 12:00
-- Post 2 — fact reel (photo 2) — 14:00
-- Story 2 — quiz on fact 2 — 15:00
-- Post 3 — fact card (photo 3) — 17:00
-- Story 3 — quiz on fact 3 — 18:00
-(After ~2 weeks, if growing: 2 reels + 3 cards, 5 stories 10–18 every 2h. Only change when Gartal agrees.)
+## Daily volume and times (ramp-up phase, started 2026-10-16)
+Times chosen 2026-10-15 from research: evenings (20:00–24:00) beat daytime, Reels most of all
+(Sociality.io 2025–26 study incl. Istanbul-time accounts). Re-check with Metricool/Instagram data after 2 weeks.
+- 13:00 — Post 1: fact card (photo 1)        · 14:00 — Story 1/3: quiz on fact 1
+- 18:30 — Post 2: fact card (photo 2)        · 19:30 — Story 2/3: quiz on fact 2
+- 21:30 — Post 3: fact REEL (photo 3)        · 22:30 — Story 3/3: quiz on fact 3
+Fact 3 is always the most surprising one (it becomes the reel).
+(After ~2 weeks, if growing: 2 reels + 3 cards, 5 stories. Only change when the data supports it.)
 
 ## A. Morning task (09:00) — pick tomorrow's facts
 1. Read `facts/used.md` so no topic repeats.
 2. Pick 3 facts for TOMORROW: mix categories (history, animals/nature, space, science, human body,
    geography/places, inventions, famous people, Azerbaijan when good). Each must have a clear, iconic
-   subject that a photo can show. Fact 2 should be the most surprising one (it becomes the reel).
+   subject that a photo can show. Fact 3 must be the most surprising one (it becomes the 21:30 reel).
 3. **Verify every fact with WebSearch** (at least one reliable source: encyclopedia, museum, university,
    NASA/NatGeo, official site). Use conservative wording ("up to", "about"). Drop anything disputed or
    myth-like (e.g. "we use 10% of our brain", "Great Wall visible from space").
 4. For each fact write: subject, photo request (what exactly to photograph/search), card title, card text
-   (≤ 30 words, AZ), reel hook (≤ 6 words) and reel fact text (≤ 35 words) for fact 2, caption
+   (≤ 30 words, AZ), reel hook (≤ 6 words) and reel fact text (≤ 35 words) for fact 3, caption
    (2–4 short lines + question to followers + 6–8 hashtags incl. #bilirdinizmi #maraqlıfaktlar #faktlar),
    quiz question (≤ 10 words) with 3 options and the correct one, and source URL(s).
 5. Save as `facts/YYYY-MM-DD.json` (date = tomorrow), commit, push.
@@ -51,8 +51,8 @@ Instagram facts page in **Azerbaijani**, run by Claude. Owner: Gartal (gartalyus
    (branded fallback) and say so in the summary.
 3. Build into `out/YYYY-MM-DD/` with `factgen.py`:
    - `python3 factgen.py card <photo1> out/D/1_card.jpg '{"title":..,"text":..,"cy":..}'`
-   - `python3 factgen.py reel <photo2> out/D/2_reel.mp4 '{"hook":..,"fact":..,"seed":<day number>,"cy":..}'`
-   - `python3 factgen.py card <photo3> out/D/3_card.jpg '{...}'`
+   - `python3 factgen.py card <photo2> out/D/2_card.jpg '{...}'`
+   - `python3 factgen.py reel <photo3> out/D/3_reel.mp4 '{"hook":..,"fact":..,"seed":<day number>,"cy":..}'`
    - `python3 factgen.py story <photoN> out/D/sN.jpg '{"n":"N/3","q":..}'` for N = 1..3
 4. **Check the output**: open both cards, all 3 stories and 2 frames of the reel (ffmpeg -ss 1.2 and -ss 9.8)
    with Read. Fix text overflow, unreadable text or bad crops before scheduling.

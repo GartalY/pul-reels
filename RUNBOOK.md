@@ -84,6 +84,8 @@ Fact 3 is always the most surprising one (it becomes the reel).
 Pull Metricool analytics for the week; note best reel/card, best posting hours; adjust next week.
 
 ## Rules
+- Whenever Gartal needs to do something (photos, reconnect, a decision), notify him: SendUserMessage
+  plus a push notification (PushNotification tool if available). Put the action in the FIRST line.
 - Gartal is awake roughly 09:00–23:59 Baku time. Never schedule anything that needs him (story stickers,
   messages that need action) outside that window.
 - Accuracy over volume. If not sure a fact is true, don't post it.

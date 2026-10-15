@@ -130,7 +130,25 @@ def story(photo, out, c):
     d.text(((W - d.textlength(HANDLE, font=F("SemiBold", 36))) / 2, 1760), HANDLE, font=F("SemiBold", 36), fill=GOLD)
     im.save(out, quality=92)
 
+# ---------- answer story 1080x1920 (auto-published after the poll) ----------
+def answer(photo, out, c):
+    W, H = 1080, 1920
+    im = cover(load(photo), W, H, cy=c.get("cy", 0.4)).filter(ImageFilter.GaussianBlur(6))
+    im = Image.blend(im, Image.new("RGB", (W, H), INK), 0.6)
+    d = ImageDraw.Draw(im)
+    pill(d, 70, 250, f"CAVAB {c['n']}", F("Black", 42), (72, 214, 150), INK)
+    y = text_block(d, 70, 380, c["q"], F("Bold", 58), (200, 204, 215), W - 140)
+    d.rounded_rectangle([70, y + 60, W - 70, y + 260], 40, fill=(72, 214, 150))
+    a = "✓  " + c["a"]
+    fa = F("Black", 96)
+    d.text(((W - d.textlength(a, font=fa)) / 2, y + 100), a, font=fa, fill=INK)
+    text_block(d, 70, y + 340, c["why"], F("SemiBold", 54), WHITE, W - 140)
+    msg = "Sən düz tapdın?"
+    d.text(((W - d.textlength(msg, font=F("Bold", 50))) / 2, 1620), msg, font=F("Bold", 50), fill=GOLD)
+    d.text(((W - d.textlength(HANDLE, font=F("SemiBold", 36))) / 2, 1760), HANDLE, font=F("SemiBold", 36), fill=GOLD)
+    im.save(out, quality=92)
+
 if __name__ == "__main__":
     kind, photo, out, cfg = sys.argv[1], sys.argv[2], sys.argv[3], json.loads(sys.argv[4])
-    dict(card=card, reel=reel, story=story)[kind](photo, out, cfg)
+    dict(card=card, reel=reel, story=story, answer=answer)[kind](photo, out, cfg)
     print(out)

@@ -14,7 +14,16 @@ def F(w, s): return ImageFont.truetype(FD + f"InterDisplay-{w}.otf", s)
 GOLD = (255, 196, 61); WHITE = (250, 250, 252); INK = (14, 17, 28)
 HANDLE = "@bilirdinizmi_az"
 
-def load(p): return ImageOps.exif_transpose(Image.open(p)).convert("RGB")
+def load(p):
+    """Photo, or a branded background when p is 'none' (photo missing)."""
+    if p in (None, "", "none") or not os.path.exists(p):
+        im = Image.new("RGB", (1080, 1920), INK); d = ImageDraw.Draw(im)
+        for r in range(900, 0, -12):
+            a = int(60 * (1 - r / 900)); d.ellipse([540 - r, 700 - r, 540 + r, 700 + r], fill=(14 + a, 17 + a // 2, 28))
+        f = F("Black", 520); w = d.textlength("?!", font=f)
+        d.text(((1080 - w) / 2, 380), "?!", font=f, fill=(60, 52, 30))
+        return im
+    return ImageOps.exif_transpose(Image.open(p)).convert("RGB")
 
 def cover(im, w, h, zoom=1.0, cx=0.5, cy=0.5):
     s = max(w / im.width, h / im.height) * zoom

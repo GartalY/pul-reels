@@ -1,0 +1,75 @@
+# @bilirdinizmi_az — daily runbook
+
+Instagram facts page in **Azerbaijani**, run by Claude. Owner: Gartal (gartalyusifov@gmail.com).
+
+## Fixed IDs
+- Metricool brand / blogId: **7443266** (Instagram `bilirdinizmi_az`, timezone Asia/Baku)
+- GitHub repo: **GartalY/pul-reels** (public; media served from
+  `https://raw.githubusercontent.com/GartalY/pul-reels/main/<path>`)
+- Google Drive photo folder: **"Bilirdinizmi - Şəkillər"**, id `1IWpjrwR5xiL5GKJAQpIE1nKLT511z_7a`
+  — one subfolder per post day, named `YYYY-MM-DD`, photos named `1`, `2`, `3` (any extension)
+
+## Setup in a fresh session
+1. `add_repo` GartalY/pul-reels with push access; clone to /home/claude/pul-reels.
+2. Load Metricool tools (`ToolSearch "+Metricool"`) and Google Drive tools (`ToolSearch "+Google_Drive"`).
+3. Commit with `git -c user.email=noreply@anthropic.com -c user.name=Claude` and push to `main`.
+
+## Daily volume (ramp-up phase, started 2026-10-16)
+- Post 1 — fact card (photo 1) — 11:00
+- Story 1 — quiz on fact 1 — 12:00
+- Post 2 — fact reel (photo 2) — 14:00
+- Story 2 — quiz on fact 2 — 15:00
+- Post 3 — fact card (photo 3) — 17:00
+- Story 3 — quiz on fact 3 — 18:00
+(After ~2 weeks, if growing: 2 reels + 3 cards, 5 stories 10–18 every 2h. Only change when Gartal agrees.)
+
+## A. Morning task (09:00) — pick tomorrow's facts
+1. Read `facts/used.md` so no topic repeats.
+2. Pick 3 facts for TOMORROW: mix categories (history, animals/nature, space, science, human body,
+   geography/places, inventions, famous people, Azerbaijan when good). Each must have a clear, iconic
+   subject that a photo can show. Fact 2 should be the most surprising one (it becomes the reel).
+3. **Verify every fact with WebSearch** (at least one reliable source: encyclopedia, museum, university,
+   NASA/NatGeo, official site). Use conservative wording ("up to", "about"). Drop anything disputed or
+   myth-like (e.g. "we use 10% of our brain", "Great Wall visible from space").
+4. For each fact write: subject, photo request (what exactly to photograph/search), card title, card text
+   (≤ 30 words, AZ), reel hook (≤ 6 words) and reel fact text (≤ 35 words) for fact 2, caption
+   (2–4 short lines + question to followers + 6–8 hashtags incl. #bilirdinizmi #maraqlıfaktlar #faktlar),
+   quiz question (≤ 10 words) with 3 options and the correct one, and source URL(s).
+5. Save as `facts/YYYY-MM-DD.json` (date = tomorrow), commit, push.
+6. Create Drive subfolder `YYYY-MM-DD` inside the photo folder.
+7. Message Gartal (this is what he reads on his phone — keep it short, Azerbaijani or English is fine):
+   "Sabahın şəkilləri (YYYY-MM-DD qovluğuna 1, 2, 3 adı ilə yüklə): 1) … 2) … 3) …" plus one line
+   suggesting Wikimedia Commons / Unsplash / Pexels for copyright-safe photos.
+
+## B. Evening task (20:45) — build and schedule tomorrow
+1. Load `facts/YYYY-MM-DD.json` for TOMORROW. If missing, do step A first.
+2. List the Drive subfolder; download photos 1, 2, 3 (`download_file_content` saves big results to a file —
+   decode the base64 `content` with python into `photos/`). Look at each photo (Read) to confirm it
+   matches the fact and choose a sensible crop (`cy`). If a photo is missing or wrong, use `none`
+   (branded fallback) and say so in the summary.
+3. Build into `out/YYYY-MM-DD/` with `factgen.py`:
+   - `python3 factgen.py card <photo1> out/D/1_card.jpg '{"title":..,"text":..,"cy":..}'`
+   - `python3 factgen.py reel <photo2> out/D/2_reel.mp4 '{"hook":..,"fact":..,"seed":<day number>,"cy":..}'`
+   - `python3 factgen.py card <photo3> out/D/3_card.jpg '{...}'`
+   - `python3 factgen.py story <photoN> out/D/sN.jpg '{"n":"N/3","q":..}'` for N = 1..3
+4. **Check the output**: open both cards, all 3 stories and 2 frames of the reel (ffmpeg -ss 1.2 and -ss 9.8)
+   with Read. Fix text overflow, unreadable text or bad crops before scheduling.
+5. Commit and push `out/D/` and the JSON.
+6. Schedule in Metricool (blogId 7443266, timezone Asia/Baku, media = raw GitHub URL):
+   - posts: `autoPublish: true`, `instagramData.type` POST (cards) / REEL (reel), `isAiGenerated: false`
+     (real photos with text overlay)
+   - stories: `autoPublish: false` (Gartal gets a phone notification and adds the quiz sticker),
+     `instagramData.type: STORY`, no text
+   Before scheduling, `getScheduledPosts` for tomorrow so nothing is scheduled twice.
+7. Append the 3 subjects to `facts/used.md`, commit, push.
+8. Message Gartal a short summary: what posts at which time, any fallback used, and the **quiz sticker
+   answers** table (question · options · ✅ correct).
+
+## Weekly (Sunday evening task, add when ready)
+Pull Metricool analytics for the week; note best reel/card, best posting hours; adjust next week.
+
+## Rules
+- Accuracy over volume. If not sure a fact is true, don't post it.
+- No politics, religion, tragedies or anything about real private people.
+- Never schedule anything into the past; never delete Gartal's posts.
+- If a tool or connection fails, stop and tell Gartal exactly what failed (e.g. "Metricool reconnect needed").

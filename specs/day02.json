@@ -1,0 +1,9 @@
+{"music_seed": 22, "scenes": [
+ {"type": "hook", "dur": 3.0, "lines": [["Kartla ödəyəndə", "fg"], ["daha çox", "gold"], ["xərcləyirsən?", "fg"]]},
+ {"type": "quiz", "dur": 8.5, "reveal": 3.6,
+  "q": "MIT araşdırması: insanlar eyni bilet üçün kartla nə qədər ödəməyə hazır idi?",
+  "opts": ["Nağdla eyni", "2 dəfəyə qədər çox"], "ans": 1,
+  "why": "Kartla ödəyəndə pulun «getdiyini» az hiss edirik — ödəmənin ağrısı zəifləyir.",
+  "note": "Prelec & Simester, MIT, 2001"},
+ {"type": "cta", "dur": 3.5, "lines": [["Böyük alışdan əvvəl", "fg"], ["nağd kimi düşün.", "gold"]]}
+]}

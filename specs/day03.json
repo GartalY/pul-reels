@@ -1,0 +1,7 @@
+{"music_seed": 33, "scenes": [
+ {"type": "hook", "dur": 2.8, "lines": [["Gündə bir kofe", "fg"], ["nə qədər edir?", "gold"]]},
+ {"type": "calc", "dur": 7.5, "title": "Kofe: 5 ₼ / gün",
+  "rows": [["Ayda (30 gün)", 150, "₼", "fg"], ["İldə (365 gün)", 1825, "₼", "gold"], ["5 ildə", 9125, "₼", "green"]],
+  "punch": "Kiçik xərclər böyük məbləğə çevrilir."},
+ {"type": "cta", "dur": 3.5, "lines": [["Kofeni at demirik.", "fg"], ["Sadəcə hesabla.", "gold"]]}
+]}

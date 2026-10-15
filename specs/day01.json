@@ -1,0 +1,7 @@
+{"music_seed": 11, "scenes": [
+ {"type": "hook", "dur": 3.0, "lines": [["Maaşın artdı,", "fg"], ["amma pulun", "fg"], ["yenə çatmır?", "gold"]]},
+ {"type": "myth", "dur": 7.5, "myth": "Çox qazansam, pul problemim həll olar",
+  "fact": "Gəlir artanda xərclər də onunla birgə böyüyür. Buna «həyat tərzi inflyasiyası» deyilir.",
+  "note": "Həll: hər artımın ən azı yarısını yığıma ayır."},
+ {"type": "cta", "dur": 3.5, "lines": [["Problem pulda yox,", "fg"], ["vərdişdədir.", "gold"]]}
+]}

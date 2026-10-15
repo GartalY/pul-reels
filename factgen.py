@@ -71,7 +71,8 @@ def card(photo, out, c):
     lines = wrap(d, c["text"], F("Bold", 58), W - 120)
     y = H - 90 - len(lines) * 58 * 1.22
     if c.get("title"):
-        d.text((60, y - 90), c["title"].upper(), font=F("Black", 46), fill=GOLD)
+        d.text((60, y - 90), c["title"].replace("i", "İ").upper(),  # AZ dotted capital İ
+               font=F("Black", 46), fill=GOLD)
     text_block(d, 60, y, c["text"], F("Bold", 58), WHITE, W - 120)
     im.save(out, quality=92)
 

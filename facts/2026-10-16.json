@@ -66,7 +66,21 @@
   "sources": [
    "https://jam-news.net/worlds-first-mechanically-drilled-oil-well-restored-in-baku/",
    "https://jpt.spe.org/azerbaijan-the-land-of-unquenchable-fire"
-  ]
+  ],
+  "photo": "none (branded fallback) - Drive folder 2026-10-16 was empty at 20:45 on 2026-10-15",
+  "media": {
+   "card": "out/2026-10-16/0_bibiheybet_card.jpg",
+   "poll_story": "out/2026-10-16/s0_bibiheybet.jpg",
+   "answer_story": "out/2026-10-16/a0_bibiheybet.jpg"
+  }
  },
- "note": "Slots 18:30 and 21:30 already scheduled. extra_13_00 is built by hand in the setup chat (photo in Drive folder 2026-10-16 named 1)."
+ "note": "All 9 slots scheduled in Metricool on 2026-10-15 evening run (13:00 set added then).",
+ "trend_check": {
+  "checked": "2026-10-15 20:50 Asia/Baku",
+  "result": "no swap",
+  "why": "Main stories were wars/attacks (Hormuz shipping, Ukraine, Black Sea tanker), Azerbaijan hijab-ban dispute and Armenia-Azerbaijan peace talks - all excluded by section T (tragedy / AZ politics / religion). No big safe story (sports, space, science)."
+ },
+ "fixes": [
+  "18:30 Eiffel card re-rendered as 3_eiffel_card_v2.jpg (title QÜLLƏSI -> QÜLLƏSİ, AZ dotted capital İ) and swapped in Metricool"
+ ]
 }

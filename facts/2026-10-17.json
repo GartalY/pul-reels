@@ -1,0 +1,74 @@
+{
+ "date": "2026-10-17",
+ "status": "planned",
+ "facts": [
+  {
+   "n": 1,
+   "type": "card",
+   "subject": "Venus",
+   "photo_request": "Venera planeti (NASA şəkli)",
+   "title": "Venera",
+   "text": "Venerada bir gün bir ildən uzundur: öz oxu ətrafında 243 Yer gününə, Günəş ətrafında isə 225 günə fırlanır.",
+   "caption": "Veneranın günü ilindən uzundur 🪐\n\nPlanet öz oxu ətrafında çox yavaş fırlanır — 243 Yer günü. Günəşin ətrafını isə cəmi 225 günə dolanır. Üstəlik, əks istiqamətdə fırlanır!\n\nSən Venerada neçə yaşında olardın? 😄👇\n\n#bilirdinizmi #maraqlıfaktlar #faktlar #kosmos #venera #planetlər",
+   "quiz": {
+    "q": "Venerada bir gün neçə Yer günü çəkir?",
+    "options": [
+     "24",
+     "100",
+     "243"
+    ],
+    "answer": "243",
+    "why": "Venera öz oxu ətrafında 243 günə, Günəş ətrafında isə 225 günə fırlanır."
+   },
+   "sources": [
+    "https://science.nasa.gov/venus/venus-facts/"
+   ]
+  },
+  {
+   "n": 2,
+   "type": "card",
+   "subject": "Flamingo",
+   "photo_request": "Çəhrayı flaminqo",
+   "title": "Flaminqo",
+   "text": "Flaminqolar çəhrayı doğulmur. Rənglərini yedikləri karides və yosunlardakı piqmentlərdən alırlar.",
+   "caption": "Flaminqo niyə çəhrayıdır? 🦩\n\nBalaları boz-ağ rəngdə doğulur. Çəhrayı rəng yedikləri xırda karides və yosunlardakı karotenoid piqmentlərdən gəlir. Az yesələr, rəngləri solur.\n\nBunu bilirdin? 👇\n\n#bilirdinizmi #maraqlıfaktlar #faktlar #təbiət #quşlar #flaminqo",
+   "quiz": {
+    "q": "Flaminqoların çəhrayı rəngi haradan gəlir?",
+    "options": [
+     "Genlərdən",
+     "Qidadan",
+     "Günəşdən"
+    ],
+    "answer": "Qidadan",
+    "why": "Karides və yosunlardakı piqmentlər onları çəhrayı edir. Balaları boz doğulur."
+   },
+   "sources": [
+    "https://www.nationalgeographic.com/animals/birds/facts/flamingos"
+   ]
+  },
+  {
+   "n": 3,
+   "type": "reel",
+   "subject": "Banana vs strawberry",
+   "photo_request": "Banan və çiyələk (ikisi bir şəkildə və ya ayrı-ayrı)",
+   "title": "Banan",
+   "text": "Botaniklərə görə banan giləmeyvədir, çiyələk isə yox! Çiyələyin toxumları meyvənin içində deyil, üstündədir.",
+   "caption": "Banan — giləmeyvə, çiyələk — yox 🍌🍓\n\nBotanikada giləmeyvə bir çiçəkdən yaranan və toxumları içində olan meyvədir. Banan bu tərifə uyur. Çiyələyin isə toxumları çöldədir — ona görə əsl giləmeyvə sayılmır.\n\nŞoka düşdün? 👇\n\n#bilirdinizmi #maraqlıfaktlar #faktlar #elm #meyvə #biologiya",
+   "quiz": {
+    "q": "Hansı botanik baxımdan giləmeyvədir?",
+    "options": [
+     "Çiyələk",
+     "Banan",
+     "Moruq"
+    ],
+    "answer": "Banan",
+    "why": "Banan bir çiçəkdən yaranır və toxumları içindədir. Çiyələk və moruq əsl giləmeyvə deyil."
+   },
+   "sources": [
+    "https://www.britannica.com/story/is-a-banana-a-berry"
+   ],
+   "reel_hook": "Banan əslində giləmeyvədir?!",
+   "reel_fact": "Botaniklərə görə banan giləmeyvədir, çiyələk isə yox! Çiyələyin toxumları meyvənin içində deyil, üstündədir."
+  }
+ ]
+}

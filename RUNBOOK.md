@@ -27,6 +27,9 @@ Fact 3 is always the most surprising one (it becomes the reel).
 (After ~2 weeks, if growing: 2 reels + 3 cards, 5 stories. Only change when the data supports it.)
 
 ## A. Morning task (09:10) — pick tomorrow's facts
+0. If `facts/YYYY-MM-DD.json` for TOMORROW already exists (status `planned`), do NOT pick new facts:
+   make sure the Drive subfolder exists, check which photos (1, 2, 3) are already uploaded, and message Gartal
+   only the missing photo requests (or "all photos already uploaded"). Then stop.
 1. Read `facts/used.md` so no topic repeats.
 2. Pick 3 facts for TOMORROW: mix categories (history, animals/nature, space, science, human body,
    geography/places, inventions, famous people, Azerbaijan when good). Each must have a clear, iconic

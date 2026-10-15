@@ -1,0 +1,74 @@
+{
+ "date": "2026-10-18",
+ "status": "planned",
+ "facts": [
+  {
+   "n": 1,
+   "type": "card",
+   "subject": "Pyramids of Giza / Cleopatra",
+   "photo_request": "Giza piramidaları",
+   "title": "Kleopatra və piramidalar",
+   "text": "Kleopatra piramidaların tikilişindən çox, Aya enişə daha yaxın dövrdə yaşayıb. Böyük Piramida ondan ~2500 il əvvəl tikilib.",
+   "caption": "Kleopatra bizə piramidalardan daha yaxındır 🏛️\n\nBöyük Piramida təxminən e.ə. 2560-cı ildə tikilib. Kleopatra e.ə. 30-cu ildə vəfat edib — yəni piramidadan ~2500 il sonra. Aya eniş (1969) isə ondan ~2000 il sonra olub.\n\nTarix nə qədər uzundur, elə deyil? 👇\n\n#bilirdinizmi #maraqlıfaktlar #faktlar #tarix #misir #piramidalar",
+   "quiz": {
+    "q": "Kleopatra hansına daha yaxın dövrdə yaşayıb?",
+    "options": [
+     "Piramidaların tikilişi",
+     "Aya eniş"
+    ],
+    "answer": "Aya eniş",
+    "why": "Piramida ondan ~2500 il əvvəl, Aya eniş isə ~2000 il sonra olub."
+   },
+   "sources": [
+    "https://www.britannica.com/topic/Pyramids-of-Giza",
+    "https://www.britannica.com/biography/Cleopatra-queen-of-Egypt"
+   ]
+  },
+  {
+   "n": 2,
+   "type": "card",
+   "subject": "Shark",
+   "photo_request": "Köpəkbalığı (dənizdə)",
+   "title": "Köpəkbalığı",
+   "text": "Köpəkbalıqları ağaclardan daha qədimdir: onlar ~450 milyon ildir var, ilk ağaclar isə ~385 milyon il əvvəl yaranıb.",
+   "caption": "Köpəkbalıqları ağaclardan yaşlıdır 🦈\n\nİlk köpəkbalıqları təxminən 450 milyon il əvvəl yaranıb. İlk ağaclar isə ~385 milyon il əvvəl. Onlar dinozavrlardan da qədimdir və 5 böyük kütləvi məhvdən sağ çıxıblar.\n\nBunu bilirdin? 👇\n\n#bilirdinizmi #maraqlıfaktlar #faktlar #təbiət #okean #heyvanlar",
+   "quiz": {
+    "q": "Hansı daha qədimdir?",
+    "options": [
+     "Ağaclar",
+     "Köpəkbalıqları",
+     "Dinozavrlar"
+    ],
+    "answer": "Köpəkbalıqları",
+    "why": "Köpəkbalıqları ~450, ağaclar ~385 milyon il əvvəl yaranıb."
+   },
+   "sources": [
+    "https://www.discoverwildlife.com/prehistoric-life/are-sharks-older-than-trees"
+   ]
+  },
+  {
+   "n": 3,
+   "type": "reel",
+   "subject": "Sea otters",
+   "photo_request": "Dəniz samurları (suda arxası üstə üzərkən, mümkünsə əl-ələ)",
+   "title": "Dəniz samuru",
+   "text": "Dəniz samurları yatanda bəzən bir-birinin əlindən tutur ki, su onları bir-birindən ayırmasın.",
+   "caption": "Əl-ələ yatan heyvanlar 🦦\n\nDəniz samurları suyun üstündə yatır. Axıntı onları aparmasın deyə bəzən bir-birinin əlindən tutur və ya özlərini dəniz yosununa dolayırlar.\n\nEtiketlə kimi əlindən tutardın 👇\n\n#bilirdinizmi #maraqlıfaktlar #faktlar #təbiət #heyvanlar #samur",
+   "quiz": {
+    "q": "Dəniz samurları yatanda niyə əl-ələ tuturlar?",
+    "options": [
+     "İsinmək üçün",
+     "Ayrılmamaq üçün",
+     "Oyun üçün"
+    ],
+    "answer": "Ayrılmamaq üçün",
+    "why": "Suyun üstündə yatırlar; əl-ələ tutmaq onları axıntıda bir yerdə saxlayır."
+   },
+   "sources": [
+    "https://www.discovermagazine.com/sea-otters-hold-hands-while-sleeping-and-they-even-cuddle-46115"
+   ],
+   "reel_hook": "Bu heyvanlar əl-ələ yatır",
+   "reel_fact": "Dəniz samurları yatanda bəzən bir-birinin əlindən tutur ki, su onları bir-birindən ayırmasın."
+  }
+ ]
+}

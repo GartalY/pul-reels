@@ -44,5 +44,28 @@
     "answer": "15 sm"
    }
   }
- ]
+ ],
+ "extra_13_00": {
+  "n": 1,
+  "type": "card",
+  "subject": "Moon",
+  "photo_request": "Aydın yaxın planda şəkli (bütöv Ay)",
+  "title": "Ay",
+  "text": "Ay hər il Yerdən təxminən 3,8 sm uzaqlaşır — təxminən dırnaqlarımızın uzanma sürəti qədər.",
+  "caption": "Ay bizdən yavaş-yavaş uzaqlaşır 🌕\n\nAlimlər Ayda qoyulmuş güzgülərə lazer göndərib məsafəni ölçürlər: hər il təxminən 3,8 sm. Səbəb — Yerdəki okean qabarmaları.\n\nMilyonlarla il sonra Günəş tutulmaları belə dəyişəcək. Bunu bilirdin? 👇\n\n#bilirdinizmi #maraqlıfaktlar #faktlar #kosmos #ay #elm",
+  "quiz": {
+   "q": "Ay hər il Yerdən nə qədər uzaqlaşır?",
+   "options": [
+    "3,8 mm",
+    "3,8 sm",
+    "3,8 m"
+   ],
+   "answer": "3,8 sm",
+   "why": "Alimlər bunu Aydakı güzgülərə lazer göndərərək ölçürlər."
+  },
+  "sources": [
+   "https://www.futura-sciences.com/en/the-moon-is-drifting-1-5-inches-farther-each-year-heres-how-it-could-affect-earth_22207/"
+  ]
+ },
+ "note": "Slots 18:30 and 21:30 already scheduled. extra_13_00 is built by hand in the setup chat (photo in Drive folder 2026-10-16 named 1)."
 }

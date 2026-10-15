@@ -123,10 +123,10 @@ def story(photo, out, c):
     im = Image.blend(im, Image.new("RGB", (W, H), INK), 0.55)
     d = ImageDraw.Draw(im)
     pill(d, 70, 250, f"VİKTORİNA {c['n']}", F("Black", 42), GOLD, INK)
-    text_block(d, 70, 380, c["q"], F("Black", 84), WHITE, W - 140, lh=1.15)
-    # space left free (≈ y 900-1500) for the Instagram quiz sticker
+    y = text_block(d, 70, 380, c["q"], F("Black", 84), WHITE, W - 140, lh=1.15)
+    # hint directly under the question, pointing down at the poll sticker placed below it
     hint = "Cavabı seç ↓"
-    d.text(((W - d.textlength(hint, font=F("SemiBold", 44))) / 2, 1640), hint, font=F("SemiBold", 44), fill=(200, 204, 215))
+    d.text(((W - d.textlength(hint, font=F("SemiBold", 48))) / 2, y + 60), hint, font=F("SemiBold", 48), fill=GOLD)
     d.text(((W - d.textlength(HANDLE, font=F("SemiBold", 36))) / 2, 1760), HANDLE, font=F("SemiBold", 36), fill=GOLD)
     im.save(out, quality=92)
 

@@ -23,7 +23,7 @@ Times chosen 2026-10-15 from research: evenings (20:00–24:00) beat daytime, Re
 Fact 3 is always the most surprising one (it becomes the reel).
 (After ~2 weeks, if growing: 2 reels + 3 cards, 5 stories. Only change when the data supports it.)
 
-## A. Morning task (09:00) — pick tomorrow's facts
+## A. Morning task (09:10) — pick tomorrow's facts
 1. Read `facts/used.md` so no topic repeats.
 2. Pick 3 facts for TOMORROW: mix categories (history, animals/nature, space, science, human body,
    geography/places, inventions, famous people, Azerbaijan when good). Each must have a clear, iconic
@@ -71,6 +71,8 @@ Fact 3 is always the most surprising one (it becomes the reel).
 Pull Metricool analytics for the week; note best reel/card, best posting hours; adjust next week.
 
 ## Rules
+- Gartal is awake roughly 09:00–23:59 Baku time. Never schedule anything that needs him (story stickers,
+  messages that need action) outside that window.
 - Accuracy over volume. If not sure a fact is true, don't post it.
 - No politics, religion, tragedies or anything about real private people.
 - Never schedule anything into the past; never delete Gartal's posts.

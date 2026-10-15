@@ -26,6 +26,20 @@ IMPORTANT: Gartal's Instagram has NO quiz sticker, only Poll (checked 2026-10-15
 Fact 3 is always the most surprising one (it becomes the reel).
 (After ~2 weeks, if growing: 2 reels + 3 cards, 5 stories. Only change when the data supports it.)
 
+## T. Trend check (in every morning, midday and evening run)
+Goal: keep up with the real world. Before doing the main task, search the news (WebSearch: "news today",
+"Azerbaijan news today", "Xəbərlər bu gün", world events, viral/trending topics, big sports/space/science news).
+- If something big is happening that a large share of our Azerbaijani audience is talking about TODAY, replace
+  one not-yet-published post of today (prefer the 21:30 reel, else the 18:30 card) with a verified fact that
+  connects to it. Update it in Metricool with `updateScheduledPost` (keep the time), and its poll + answer story.
+- Photos: ask Gartal for a related photo (notify him, action in first line, with a deadline ~2 h before posting).
+  If no photo arrives in time, use a photo-free design: `reelgen.py` text/chart reel, or `factgen.py` with `none`.
+- Tragedies (earthquakes, crashes, wars, attacks, deaths): respectful, useful angle only — how/why it happens,
+  safety tips, science, or Azerbaijan's own history (e.g. Shamakhi 1902 earthquake). NO "worst ever" lists or
+  death-toll rankings on the day, no victim/damage photos, no jokes, no emoji in the caption. If unsure, skip.
+- Never politics, elections, religion or conflicts between countries — skip those trends entirely.
+- Log every swap in facts/<date>.json ("trend_swap": what, why) and put the replaced fact back into a later day.
+
 ## A. Morning task (09:10) — pick tomorrow's facts
 0. If `facts/YYYY-MM-DD.json` for TOMORROW already exists (status `planned`), do NOT pick new facts:
    make sure the Drive subfolder exists, check which photos (1, 2, 3) are already uploaded, and message Gartal
@@ -89,6 +103,6 @@ Pull Metricool analytics for the week; note best reel/card, best posting hours; 
 - Gartal is awake roughly 09:00–23:59 Baku time. Never schedule anything that needs him (story stickers,
   messages that need action) outside that window.
 - Accuracy over volume. If not sure a fact is true, don't post it.
-- No politics, religion, tragedies or anything about real private people.
+- No politics, religion or anything about real private people; tragedies only per section T.
 - Never schedule anything into the past; never delete Gartal's posts.
 - If a tool or connection fails, stop and tell Gartal exactly what failed (e.g. "Metricool reconnect needed").

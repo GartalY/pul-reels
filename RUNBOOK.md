@@ -42,6 +42,8 @@ Instagram facts page in **Azerbaijani**, run by Claude. Owner: Gartal (gartalyus
    suggesting Wikimedia Commons / Unsplash / Pexels for copyright-safe photos.
 
 ## B. Evening task (20:45) — build and schedule tomorrow
+0. If `facts/YYYY-MM-DD.json` for TOMORROW has `"status": "scheduled"`, do nothing else: confirm with
+   `getScheduledPosts` that the posts exist and report "already scheduled" to Gartal.
 1. Load `facts/YYYY-MM-DD.json` for TOMORROW. If missing, do step A first.
 2. List the Drive subfolder; download photos 1, 2, 3 (`download_file_content` saves big results to a file —
    decode the base64 `content` with python into `photos/`). Look at each photo (Read) to confirm it
@@ -61,7 +63,7 @@ Instagram facts page in **Azerbaijani**, run by Claude. Owner: Gartal (gartalyus
    - stories: `autoPublish: false` (Gartal gets a phone notification and adds the quiz sticker),
      `instagramData.type: STORY`, no text
    Before scheduling, `getScheduledPosts` for tomorrow so nothing is scheduled twice.
-7. Append the 3 subjects to `facts/used.md`, commit, push.
+7. Set `"status": "scheduled"` in the JSON, append the 3 subjects to `facts/used.md`, commit, push.
 8. Message Gartal a short summary: what posts at which time, any fallback used, and the **quiz sticker
    answers** table (question · options · ✅ correct).
 

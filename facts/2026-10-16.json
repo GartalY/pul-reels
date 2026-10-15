@@ -1,0 +1,48 @@
+{
+ "date": "2026-10-16",
+ "status": "scheduled",
+ "facts": [
+  {
+   "n": 1,
+   "type": "card",
+   "subject": "Alexander the Great",
+   "quiz": {
+    "q": "İskəndər neçə yaşında taxta çıxıb?",
+    "options": [
+     "20",
+     "30",
+     "45"
+    ],
+    "answer": "20"
+   }
+  },
+  {
+   "n": 2,
+   "type": "reel",
+   "subject": "Octopus",
+   "quiz": {
+    "q": "Ahtapotun neçə ürəyi var?",
+    "options": [
+     "1",
+     "2",
+     "3"
+    ],
+    "answer": "3"
+   }
+  },
+  {
+   "n": 3,
+   "type": "card",
+   "subject": "Eiffel Tower",
+   "quiz": {
+    "q": "Eyfel qülləsi yayda nə qədər hündürləşir?",
+    "options": [
+     "1 mm",
+     "15 sm",
+     "2 m"
+    ],
+    "answer": "15 sm"
+   }
+  }
+ ]
+}

@@ -34,6 +34,10 @@ Fact 3 is always the most surprising one (it becomes the reel).
 2. Pick 3 facts for TOMORROW: mix categories (history, animals/nature, space, science, human body,
    geography/places, inventions, famous people, Azerbaijan when good). Each must have a clear, iconic
    subject that a photo can show. Fact 3 must be the most surprising one (it becomes the 21:30 reel).
+2b. **Quality bar (Gartal, 2026-10-15): no widely known trivia** ("sharks older than trees", "honey never
+   spoils", "octopus 3 hearts"-level is too common). Prefer specific, surprising facts with a number, a date or a
+   twist, that most people have NOT heard. Include an Azerbaijan/Baku angle about 1–2 times a week when it is
+   genuinely surprising (e.g. Bibiheybət 1846, Nobel & Baku oil). Ask: "would someone screenshot this to a friend?"
 3. **Verify every fact with WebSearch** (at least one reliable source: encyclopedia, museum, university,
    NASA/NatGeo, official site). Use conservative wording ("up to", "about"). Drop anything disputed or
    myth-like (e.g. "we use 10% of our brain", "Great Wall visible from space").

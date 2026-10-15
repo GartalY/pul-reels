@@ -5,70 +5,71 @@
   {
    "n": 1,
    "type": "card",
-   "subject": "Pyramids of Giza / Cleopatra",
-   "photo_request": "Giza piramidaları",
-   "title": "Kleopatra və piramidalar",
-   "text": "Kleopatra piramidaların tikilişindən çox, Aya enişə daha yaxın dövrdə yaşayıb. Böyük Piramida ondan ~2500 il əvvəl tikilib.",
-   "caption": "Kleopatra bizə piramidalardan daha yaxındır 🏛️\n\nBöyük Piramida təxminən e.ə. 2560-cı ildə tikilib. Kleopatra e.ə. 30-cu ildə vəfat edib — yəni piramidadan ~2500 il sonra. Aya eniş (1969) isə ondan ~2000 il sonra olub.\n\nTarix nə qədər uzundur, elə deyil? 👇\n\n#bilirdinizmi #maraqlıfaktlar #faktlar #tarix #misir #piramidalar",
+   "subject": "Bluetooth / Harald Bluetooth",
+   "photo_request": "Danimarka kralı Harald Göydiş — Yellinq run daşı (Jelling stone, Wikimedia)",
+   "title": "Bluetooth adı haradan gəlir?",
+   "text": "Bluetooth texnologiyası X əsrin Danimarka kralı Harald \"Göydiş\"in (Bluetooth) adını daşıyır. Loqosu isə onun adının iki run hərfidir: ᚼ və ᛒ.",
+   "caption": "Telefonundakı Bluetooth — 1000 illik kraldır 👑\n\nX əsrdə yaşamış Danimarka kralı Harald Bluetooth (Göydiş) Skandinaviya tayfalarını birləşdirmişdi. Texnologiyanı yaradanlar da cihazları \"birləşdirən\" sistemə onun adını verdilər. Loqo — H və B hərflərinin qədim run variantıdır.\n\nBunu bilirdin? 👇\n\n#bilirdinizmi #maraqlıfaktlar #faktlar #texnologiya #tarix #bluetooth",
    "quiz": {
-    "q": "Kleopatra hansına daha yaxın dövrdə yaşayıb?",
+    "q": "Bluetooth adı haradan gəlir?",
     "options": [
-     "Piramidaların tikilişi",
-     "Aya eniş"
+     "Mavi diş həkimi",
+     "Danimarka kralı",
+     "İxtiraçının adı"
     ],
-    "answer": "Aya eniş",
-    "why": "Piramida ondan ~2500 il əvvəl, Aya eniş isə ~2000 il sonra olub."
+    "answer": "Danimarka kralı",
+    "why": "X əsrin kralı Harald Bluetooth; loqo onun adının run hərfləridir (H və B)."
    },
    "sources": [
-    "https://www.britannica.com/topic/Pyramids-of-Giza",
-    "https://www.britannica.com/biography/Cleopatra-queen-of-Egypt"
+    "https://www.bluetooth.com/about-us/bluetooth-origin/"
    ]
   },
   {
    "n": 2,
    "type": "card",
-   "subject": "Shark",
-   "photo_request": "Köpəkbalığı (dənizdə)",
-   "title": "Köpəkbalığı",
-   "text": "Köpəkbalıqları ağaclardan daha qədimdir: onlar ~450 milyon ildir var, ilk ağaclar isə ~385 milyon il əvvəl yaranıb.",
-   "caption": "Köpəkbalıqları ağaclardan yaşlıdır 🦈\n\nİlk köpəkbalıqları təxminən 450 milyon il əvvəl yaranıb. İlk ağaclar isə ~385 milyon il əvvəl. Onlar dinozavrlardan da qədimdir və 5 böyük kütləvi məhvdən sağ çıxıblar.\n\nBunu bilirdin? 👇\n\n#bilirdinizmi #maraqlıfaktlar #faktlar #təbiət #okean #heyvanlar",
+   "subject": "Krakatoa 1883",
+   "photo_request": "Krakatau vulkanı (və ya püskürmənin tarixi təsviri)",
+   "title": "Krakatau, 1883",
+   "text": "1883-cü ildə Krakatau vulkanının partlayışı 4 800 km uzaqda — Rodriges adasında eşidilib. Bu, tarixdə qeydə alınmış ən güclü səsdir.",
+   "caption": "Tarixin ən güclü səsi 🌋\n\n1883-cü ildə İndoneziyadakı Krakatau partladı. Səsi 4 800 km uzaqda, Hind okeanındakı Rodriges adasında top atəşi kimi eşidildi. Təzyiq dalğası isə Yer kürəsini bir neçə dəfə dövrə vurdu.\n\nBunu bilirdin? 👇\n\n#bilirdinizmi #maraqlıfaktlar #faktlar #vulkan #tarix #elm",
    "quiz": {
-    "q": "Hansı daha qədimdir?",
+    "q": "Krakatau partlayışı nə qədər uzaqda eşidilib?",
     "options": [
-     "Ağaclar",
-     "Köpəkbalıqları",
-     "Dinozavrlar"
+     "480 km",
+     "1 500 km",
+     "4 800 km"
     ],
-    "answer": "Köpəkbalıqları",
-    "why": "Köpəkbalıqları ~450, ağaclar ~385 milyon il əvvəl yaranıb."
+    "answer": "4 800 km",
+    "why": "Hind okeanındakı Rodriges adasında top səsi kimi eşidilib."
    },
    "sources": [
-    "https://www.discoverwildlife.com/prehistoric-life/are-sharks-older-than-trees"
+    "https://www.discovermagazine.com/the-loudest-sound-ever-heard-198",
+    "https://volcano.oregonstate.edu/historical-eruption-sounds"
    ]
   },
   {
    "n": 3,
    "type": "reel",
-   "subject": "Sea otters",
-   "photo_request": "Dəniz samurları (suda arxası üstə üzərkən, mümkünsə əl-ələ)",
-   "title": "Dəniz samuru",
-   "text": "Dəniz samurları yatanda bəzən bir-birinin əlindən tutur ki, su onları bir-birindən ayırmasın.",
-   "caption": "Əl-ələ yatan heyvanlar 🦦\n\nDəniz samurları suyun üstündə yatır. Axıntı onları aparmasın deyə bəzən bir-birinin əlindən tutur və ya özlərini dəniz yosununa dolayırlar.\n\nEtiketlə kimi əlindən tutardın 👇\n\n#bilirdinizmi #maraqlıfaktlar #faktlar #təbiət #heyvanlar #samur",
+   "subject": "Nobel Prize & Baku oil",
+   "photo_request": "Alfred Nobel portreti (Wikimedia) və ya Bakıdakı Villa Petrolea",
+   "title": "Nobel və Bakı nefti",
+   "text": "Nobel mükafatının arxasında Bakı nefti var: Nobel Fondunu yaratmaq üçün istifadə olunan vəsaitin təxminən beşdə biri Alfredin Bakıdakı \"Branobel\" neft şirkətindəki səhmlərindən gəlib.",
+   "caption": "Nobel mükafatı və Bakı nefti 🏅🛢️\n\nAlfred Nobelin qardaşları Lüdviq və Robert XIX əsrdə Bakıda \"Branobel\" neft şirkətini qurdular. Alfred də şirkətin səhmdarı idi. Arxiv sənədlərinə görə, Nobel Fondunun başlanğıc vəsaitinin təxminən 20–22%-i məhz bu səhmlərdən gəlib.\n\nYəni hər Nobel mükafatında bir az Bakı var. 👇\n\n#bilirdinizmi #maraqlıfaktlar #faktlar #bakı #azərbaycan #nobel #tarix",
    "quiz": {
-    "q": "Dəniz samurları yatanda niyə əl-ələ tuturlar?",
+    "q": "Nobel Fondu vəsaitinin bir hissəsi haradan gəlib?",
     "options": [
-     "İsinmək üçün",
-     "Ayrılmamaq üçün",
-     "Oyun üçün"
+     "Bakı neftindən",
+     "İsveç qızılından",
+     "Alman bankından"
     ],
-    "answer": "Ayrılmamaq üçün",
-    "why": "Suyun üstündə yatırlar; əl-ələ tutmaq onları axıntıda bir yerdə saxlayır."
+    "answer": "Bakı neftindən",
+    "why": "Təxminən beşdə biri Alfredin \"Branobel\" (Bakı) səhmlərindən gəlib."
    },
    "sources": [
-    "https://www.discovermagazine.com/sea-otters-hold-hands-while-sleeping-and-they-even-cuddle-46115"
+    "https://www.aljazeera.com/economy/2017/12/9/alfred-nobels-lesser-known-azerbaijan-connection"
    ],
-   "reel_hook": "Bu heyvanlar əl-ələ yatır",
-   "reel_fact": "Dəniz samurları yatanda bəzən bir-birinin əlindən tutur ki, su onları bir-birindən ayırmasın."
+   "reel_hook": "Nobel mükafatında Bakı izi",
+   "reel_fact": "Nobel mükafatının arxasında Bakı nefti var: Nobel Fondunu yaratmaq üçün istifadə olunan vəsaitin təxminən beşdə biri Alfredin Bakıdakı \"Branobel\" neft şirkətindəki səhmlərindən gəlib."
   }
  ]
 }

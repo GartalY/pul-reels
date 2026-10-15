@@ -5,70 +5,72 @@
   {
    "n": 1,
    "type": "card",
-   "subject": "Venus",
-   "photo_request": "Venera planeti (NASA şəkli)",
-   "title": "Venera",
-   "text": "Venerada bir gün bir ildən uzundur: öz oxu ətrafında 243 Yer gününə, Günəş ətrafında isə 225 günə fırlanır.",
-   "caption": "Veneranın günü ilindən uzundur 🪐\n\nPlanet öz oxu ətrafında çox yavaş fırlanır — 243 Yer günü. Günəşin ətrafını isə cəmi 225 günə dolanır. Üstəlik, əks istiqamətdə fırlanır!\n\nSən Venerada neçə yaşında olardın? 😄👇\n\n#bilirdinizmi #maraqlıfaktlar #faktlar #kosmos #venera #planetlər",
+   "subject": "Diomede Islands",
+   "photo_request": "Diomed adaları (Böyük və Kiçik Diomed, Berinq boğazı)",
+   "title": "Diomed adaları",
+   "text": "Rusiya və ABŞ arasında cəmi 3,8 km var: Böyük Diomed (Rusiya) və Kiçik Diomed (ABŞ) adaları. Amma aralarında 21 saat vaxt fərqi var.",
+   "caption": "3,8 km məsafə, 21 saat fərq ⏰\n\nBerinq boğazında iki ada var: Böyük Diomed Rusiyaya, Kiçik Diomed ABŞ-a aiddir. Aralarından Beynəlxalq Tarix Xətti keçir, ona görə də birindən o birinə baxanda sözün əsl mənasında \"sabahı\" görürsən.\n\nYerlilər onlara \"Sabah adası\" və \"Dünən adası\" deyir. Bunu bilirdin? 👇\n\n#bilirdinizmi #maraqlıfaktlar #faktlar #coğrafiya #rusiya #abş",
    "quiz": {
-    "q": "Venerada bir gün neçə Yer günü çəkir?",
+    "q": "Diomed adaları arasında neçə saat vaxt fərqi var?",
     "options": [
-     "24",
-     "100",
-     "243"
+     "1 saat",
+     "12 saat",
+     "21 saat"
     ],
-    "answer": "243",
-    "why": "Venera öz oxu ətrafında 243 günə, Günəş ətrafında isə 225 günə fırlanır."
+    "answer": "21 saat",
+    "why": "Aralarından Beynəlxalq Tarix Xətti keçir — 3,8 km-də 21 saat fərq."
    },
    "sources": [
-    "https://science.nasa.gov/venus/venus-facts/"
+    "https://en.wikipedia.org/wiki/Diomede_Islands",
+    "https://geographyrealm.com/separated-by-2-4-miles-and-21-hours"
    ]
   },
   {
    "n": 2,
    "type": "card",
-   "subject": "Flamingo",
-   "photo_request": "Çəhrayı flaminqo",
-   "title": "Flaminqo",
-   "text": "Flaminqolar çəhrayı doğulmur. Rənglərini yedikləri karides və yosunlardakı piqmentlərdən alırlar.",
-   "caption": "Flaminqo niyə çəhrayıdır? 🦩\n\nBalaları boz-ağ rəngdə doğulur. Çəhrayı rəng yedikləri xırda karides və yosunlardakı karotenoid piqmentlərdən gəlir. Az yesələr, rəngləri solur.\n\nBunu bilirdin? 👇\n\n#bilirdinizmi #maraqlıfaktlar #faktlar #təbiət #quşlar #flaminqo",
+   "subject": "Everest marine fossils",
+   "photo_request": "Everest dağı",
+   "title": "Everest",
+   "text": "Everestin zirvəsindəki daşlar bir vaxtlar okeanın dibi olub. Orada ~450 milyon illik dəniz canlılarının fosilləri tapılıb.",
+   "caption": "Dünyanın zirvəsi — keçmişin okean dibi 🏔️\n\nEverestin ən üst qatı dəniz əhəngdaşından ibarətdir. İçində trilobit və dəniz zanbağı kimi qədim dəniz canlılarının fosilləri var. Hindistan Asiyaya toqquşanda okean dibi 8 849 metrə qədər qalxıb.\n\nBunu bilirdin? 👇\n\n#bilirdinizmi #maraqlıfaktlar #faktlar #everest #geologiya #elm",
    "quiz": {
-    "q": "Flaminqoların çəhrayı rəngi haradan gəlir?",
+    "q": "Everestin zirvəsində hansı fosillər tapılıb?",
     "options": [
-     "Genlərdən",
-     "Qidadan",
-     "Günəşdən"
+     "Dinozavr",
+     "Dəniz canlıları",
+     "Mamont"
     ],
-    "answer": "Qidadan",
-    "why": "Karides və yosunlardakı piqmentlər onları çəhrayı edir. Balaları boz doğulur."
+    "answer": "Dəniz canlıları",
+    "why": "Zirvədəki əhəngdaşı qədim okean dibidir; içində dəniz canlılarının fosilləri var."
    },
    "sources": [
-    "https://www.nationalgeographic.com/animals/birds/facts/flamingos"
+    "https://www.denver7.com/why-are-there-marine-fossils-top-mt-everest"
    ]
   },
   {
    "n": 3,
    "type": "reel",
-   "subject": "Banana vs strawberry",
-   "photo_request": "Banan və çiyələk (ikisi bir şəkildə və ya ayrı-ayrı)",
-   "title": "Banan",
-   "text": "Botaniklərə görə banan giləmeyvədir, çiyələk isə yox! Çiyələyin toxumları meyvənin içində deyil, üstündədir.",
-   "caption": "Banan — giləmeyvə, çiyələk — yox 🍌🍓\n\nBotanikada giləmeyvə bir çiçəkdən yaranan və toxumları içində olan meyvədir. Banan bu tərifə uyur. Çiyələyin isə toxumları çöldədir — ona görə əsl giləmeyvə sayılmır.\n\nŞoka düşdün? 👇\n\n#bilirdinizmi #maraqlıfaktlar #faktlar #elm #meyvə #biologiya",
+   "subject": "Greenland shark",
+   "photo_request": "Qrenlandiya köpəkbalığı (Greenland shark, NOAA/Wikimedia)",
+   "title": "Qrenlandiya köpəkbalığı",
+   "text": "Qrenlandiya köpəkbalığı 400 ilə qədər yaşaya bilər — bu gün üzənlərin bəziləri Nyutonun dövründə doğulub. Yetkinləşməsi isə ~150 il çəkir.",
+   "caption": "Ən uzun yaşayan onurğalı 🦈\n\n2016-cı ildə alimlər Qrenlandiya köpəkbalıqlarının göz lensini radiokarbon üsulu ilə tədqiq etdilər: ən yaşlısının ~400 yaşı ola bilər. Bu köpəkbalıqları ildə cəmi ~1 sm böyüyür və təxminən 150 yaşında yetkinləşir.\n\nTəsəvvür et: 1600-cü illərdə doğulub, hələ də okeanda üzür. 👇\n\n#bilirdinizmi #maraqlıfaktlar #faktlar #okean #heyvanlar #elm",
    "quiz": {
-    "q": "Hansı botanik baxımdan giləmeyvədir?",
+    "q": "Qrenlandiya köpəkbalığı nə qədər yaşaya bilər?",
     "options": [
-     "Çiyələk",
-     "Banan",
-     "Moruq"
+     "50 il",
+     "150 il",
+     "400 il"
     ],
-    "answer": "Banan",
-    "why": "Banan bir çiçəkdən yaranır və toxumları içindədir. Çiyələk və moruq əsl giləmeyvə deyil."
+    "answer": "400 il",
+    "why": "2016-cı il tədqiqatı: göz lensinin radiokarbon analizi ~400 yaş göstərdi."
    },
    "sources": [
-    "https://www.britannica.com/story/is-a-banana-a-berry"
+    "https://news.mongabay.com/2016/08/400-year-old-greenland-shark-is-the-longest-living-vertebrate/",
+    "https://www.sci.news/biology/greenland-sharks-longest-lived-vertebrates-04099.html"
    ],
-   "reel_hook": "Banan əslində giləmeyvədir?!",
-   "reel_fact": "Botaniklərə görə banan giləmeyvədir, çiyələk isə yox! Çiyələyin toxumları meyvənin içində deyil, üstündədir."
+   "reel_hook": "400 yaşlı köpəkbalığı?!",
+   "reel_fact": "Qrenlandiya köpəkbalığı 400 ilə qədər yaşaya bilər — bu gün üzənlərin bəziləri Nyutonun dövründə doğulub. Yetkinləşməsi isə ~150 il çəkir."
   }
  ]
 }

@@ -48,23 +48,24 @@
  "extra_13_00": {
   "n": 1,
   "type": "card",
-  "subject": "Moon",
-  "photo_request": "Aydın yaxın planda şəkli (bütöv Ay)",
-  "title": "Ay",
-  "text": "Ay hər il Yerdən təxminən 3,8 sm uzaqlaşır — təxminən dırnaqlarımızın uzanma sürəti qədər.",
-  "caption": "Ay bizdən yavaş-yavaş uzaqlaşır 🌕\n\nAlimlər Ayda qoyulmuş güzgülərə lazer göndərib məsafəni ölçürlər: hər il təxminən 3,8 sm. Səbəb — Yerdəki okean qabarmaları.\n\nMilyonlarla il sonra Günəş tutulmaları belə dəyişəcək. Bunu bilirdin? 👇\n\n#bilirdinizmi #maraqlıfaktlar #faktlar #kosmos #ay #elm",
+  "subject": "Bibiheybət oil well 1846",
+  "photo_request": "Bibiheybətin köhnə neft buruqları (tarixi foto, Wikimedia)",
+  "title": "Bibiheybət, 1846",
+  "text": "Dünyada mexaniki üsulla qazılmış ilk neft quyusu 1846-cı ildə Bakıda, Bibiheybətdə qazılıb — cəmi 21 metr dərinliyində. Amerikadakı məşhur Dreyk quyusundan 13 il əvvəl!",
+  "caption": "Dünya neft sənayesi Bakıda başlayıb 🛢️\n\n1846-cı ildə Bibiheybətdə dünyada ilk dəfə mexaniki üsulla neft quyusu qazıldı — 21 metr dərinliyində. Çox vaxt \"ilk\" sayılan Pensilvaniyadakı Dreyk quyusu isə yalnız 1859-cu ildə qazılıb.\n\nBunu bilirdin? 👇\n\n#bilirdinizmi #maraqlıfaktlar #faktlar #bakı #azərbaycan #tarix #neft",
   "quiz": {
-   "q": "Ay hər il Yerdən nə qədər uzaqlaşır?",
+   "q": "İlk mexaniki neft quyusu harada qazılıb?",
    "options": [
-    "3,8 mm",
-    "3,8 sm",
-    "3,8 m"
+    "Texas",
+    "Bakı",
+    "Səudiyyə Ərəbistanı"
    ],
-   "answer": "3,8 sm",
-   "why": "Alimlər bunu Aydakı güzgülərə lazer göndərərək ölçürlər."
+   "answer": "Bakı",
+   "why": "1846-cı ildə Bibiheybətdə — Amerikadakı Dreyk quyusundan 13 il əvvəl."
   },
   "sources": [
-   "https://www.futura-sciences.com/en/the-moon-is-drifting-1-5-inches-farther-each-year-heres-how-it-could-affect-earth_22207/"
+   "https://jam-news.net/worlds-first-mechanically-drilled-oil-well-restored-in-baku/",
+   "https://jpt.spe.org/azerbaijan-the-land-of-unquenchable-fire"
   ]
  },
  "note": "Slots 18:30 and 21:30 already scheduled. extra_13_00 is built by hand in the setup chat (photo in Drive folder 2026-10-16 named 1)."

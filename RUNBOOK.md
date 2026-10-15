@@ -37,7 +37,11 @@ Goal: keep up with the real world. Before doing the main task, search the news (
 - Tragedies (earthquakes, crashes, wars, attacks, deaths): respectful, useful angle only — how/why it happens,
   safety tips, science, or Azerbaijan's own history (e.g. Shamakhi 1902 earthquake). NO "worst ever" lists or
   death-toll rankings on the day, no victim/damage photos, no jokes, no emoji in the caption. If unsure, skip.
-- Never politics, elections, religion or conflicts between countries — skip those trends entirely.
+- Politics and elections OUTSIDE Azerbaijan are allowed (Gartal, 2026-10-15), but strictly neutral and factual:
+  how the system works, history, records, numbers (e.g. "how the US Electoral College works", "the shortest
+  term in office"). No opinions, no praising or mocking candidates/parties, no predictions.
+- NEVER anything about Azerbaijan's politics, elections, government or its conflicts/relations with other
+  countries. Also skip religion. Wars elsewhere follow the tragedy rules above.
 - Log every swap in facts/<date>.json ("trend_swap": what, why) and put the replaced fact back into a later day.
 
 ## A. Morning task (09:10) — pick tomorrow's facts
@@ -103,6 +107,6 @@ Pull Metricool analytics for the week; note best reel/card, best posting hours; 
 - Gartal is awake roughly 09:00–23:59 Baku time. Never schedule anything that needs him (story stickers,
   messages that need action) outside that window.
 - Accuracy over volume. If not sure a fact is true, don't post it.
-- No politics, religion or anything about real private people; tragedies only per section T.
+- Politics only per section T (never Azerbaijani politics); no religion; nothing about private people; tragedies only per section T.
 - Never schedule anything into the past; never delete Gartal's posts.
 - If a tool or connection fails, stop and tell Gartal exactly what failed (e.g. "Metricool reconnect needed").

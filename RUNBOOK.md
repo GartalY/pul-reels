@@ -26,6 +26,17 @@ Instagram facts page in **Azerbaijani**, run by Claude. Owner: Gartal (gartalyus
 - Gartal's Instagram has NO quiz sticker, only Poll (checked 2026-10-15).
 Why: Gartal said one-sentence facts were too thin and the quizzes too easy (photo gave the answer away).
 
+### Caption rules (Gartal, 2026-10-16)
+- Structure: hook line (with 1 emoji) · 2–4 sentences of extra story · a SHARE line · max 5 hashtags.
+- SHARE line (always, its own line, starts with 📩): a playful, specific "send it to the friend who…" tied
+  to THIS fact, e.g. Alexander → "20 yaşında hələ nə edəcəyini bilməyən dostuna göndər". Never generic
+  ("dostlarınla paylaş"). Shares/DMs push reach the most, so this line matters more than hashtags.
+- Hashtags: Instagram allows max 5 (since Dec 2025). Use exactly 5: #bilirdinizmi #maraqlıfaktlar
+  + 3 specific ones in Azerbaijani for the topic/place/person (e.g. #paris #tarix #futbol). No English
+  filler tags (#facts #didyouknow), no banned/spammy tags. The weekly review checks which tags bring reach.
+- First comment: every post gets `firstCommentText` = one easy question that invites replies
+  ("Sən 20 yaşında nə edirdin? 👇"). It posts automatically with the post.
+
 ### Content rules v2
 - Carousel = cover (photo + title + 1–2 sentence hook, "Sürüşdür →") + 3–4 detail slides + outro slide.
   Each detail slide: `h` = a short big headline, ideally a number/date ("3,8 km", "1948", "0 sakin"),
@@ -90,7 +101,7 @@ Goal: keep up with the real world. Before doing the main task, search the news (
    NASA/NatGeo, official site). Use conservative wording ("up to", "about"). Drop anything disputed or
    myth-like (e.g. "we use 10% of our brain", "Great Wall visible from space").
 4. For each fact write (v2): subject, `cat`, photo request, title, cover text (≤ 30 words, AZ), `slides`
-   (facts 1–2) or `reel_hook` + `reel_beats` (fact 3), caption (3–5 full sentences of extra story + question to followers +
+   (facts 1–2) or `reel_hook` + `reel_beats` (fact 3), caption (per the caption rules: hook, 2–4 sentences, 📩 share line, 5 hashtags) + `first_comment` (one question) — legacy text: (3–5 full sentences of extra story + question to followers +
    6–8 hashtags incl. #bilirdinizmi #maraqlıfaktlar #faktlar), `quizzes` (2–3), and source URL(s).
    Set `"format": "v2"`.
 5. Save as `facts/YYYY-MM-DD.json` (date = tomorrow), commit, push.
@@ -121,7 +132,7 @@ Goal: keep up with the real world. Before doing the main task, search the news (
 5. Commit and push `out/D/`, `facts/D.json` and `facts/db.json`.
 6. Schedule in Metricool (blogId 7443266, timezone Asia/Baku, media = raw GitHub URLs):
    - carousels: ONE post with all slide URLs in order in `media`, `instagramData.type: POST`,
-     `autoPublish: true`, `isAiGenerated: false`
+     `autoPublish: true`, `isAiGenerated: false`, `firstCommentText` = the fact's `first_comment`
    - reel: `instagramData.type: REEL`, `autoPublish: true`
    - quiz stories: `instagramData.type: STORY`, `autoPublish: false`, no text, at the times in `stories`,
      `media` = [question image URL, answer image URL]

@@ -81,12 +81,13 @@
   "why": "Main stories were wars/attacks (Hormuz shipping, Ukraine, Black Sea tanker), Azerbaijan hijab-ban dispute and Armenia-Azerbaijan peace talks - all excluded by section T (tragedy / AZ politics / religion). No big safe story (sports, space, science)."
  },
  "fixes": [
-  "18:30 Eiffel card re-rendered as 3_eiffel_card_v2.jpg (title QÜLLƏSI -> QÜLLƏSİ, AZ dotted capital İ) and swapped in Metricool"
+  "18:30 Eiffel card re-rendered as 3_eiffel_card_v2.jpg (title QÜLLƏSI -> QÜLLƏSİ, AZ dotted capital İ) and swapped in Metricool",
+  "12:17: 13:00 card, 14:00 poll, 15:00 answer re-rendered with Gartal's derrick photo (*_v2.jpg) and swapped in Metricool"
  ],
  "metricool": {
-  "13:00 card": 397016996,
-  "14:00 poll": 397017022,
-  "15:00 answer": 397017060,
+  "13:00 card": 397518354,
+  "14:00 poll": 397518379,
+  "15:00 answer": 397518413,
   "18:30 card (v2)": 397017110,
   "19:30 poll": 396984551,
   "20:30 answer": 396982697,

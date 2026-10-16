@@ -149,13 +149,13 @@
  "metricool": {
   "13:00 card": 397518354,
   "14:00 poll": 397518379,
-  "18:30 card (v2)": 397017110,
-  "19:30 poll": 396984551,
-  "20:30 answer": 396982697,
   "21:30 reel": 396868215,
   "22:30 poll": 396984570,
   "23:30 answer": 396982715,
-  "15:30 answer (moved, poll not yet posted at 14:59)": 397640178
+  "15:30 answer (moved, poll not yet posted at 14:59)": 397640178,
+  "18:30 trend carousel": 397665406,
+  "19:30 poll (trend)": 397665434,
+  "20:30 answer (trend)": 397665447
  },
  "trend_check_2": {
   "checked": "2026-10-16 09:15 Asia/Baku",
@@ -272,10 +272,15 @@
   }
  },
  "trend_swap": {
-  "when": "2026-10-16 15:50 Asia/Baku",
+  "when": "2026-10-16 15:32 Asia/Baku",
   "slot": "18:30 card + 19:30 poll + 20:30 answer",
   "what": "Eiffel Tower summer growth -> Tesla flying Roadster unveil / Starman Roadster in space",
   "why": "Tesla showed the new Roadster flying at a SpaceX site in Texas on 15 Oct (US) - top viral tech story today; safe topic (tech/space). Morning check had found nothing.",
   "backup_moved_to": "2026-10-18 (spare)"
+ },
+ "trend_check_3": {
+  "checked": "2026-10-16 15:30 Asia/Baku",
+  "result": "swap 18:30",
+  "why": "Tesla flying Roadster unveil - viral tech story; other news wars/politics (excluded)."
  }
 }

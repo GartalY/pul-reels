@@ -310,7 +310,8 @@
   "19:30 quiz q4 (auto)": 397990093,
   "19:40 answer a4": 397990291,
   "22:30 quiz q5 (auto)": 397990117,
-  "22:40 answer a5": 397990315
+  "22:40 answer a5": 397990315,
+  "10:00 tarixdə bu gün": 397994085
  },
  "quiz_fix": "16:30 recall changed from Eiffel Tower (never posted: replaced by the 16 Oct trend) to the posted Tesla/Starman trend fact; db.json: Eiffel entry removed (it returns when posted), trend added as 2026-10-16-T",
  "trend_check_evening": {

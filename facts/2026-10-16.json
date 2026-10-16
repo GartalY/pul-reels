@@ -33,15 +33,77 @@
   {
    "n": 3,
    "type": "card",
-   "subject": "Eiffel Tower",
-   "quiz": {
-    "q": "Eyfel qülləsi yayda nə qədər hündürləşir?",
-    "options": [
-     "1 mm",
-     "15 sm",
-     "2 m"
+   "format": "v2",
+   "subject": "Tesla Roadster unveil (flying) / Starman Roadster in space",
+   "cat": "Texnologiya",
+   "title": "Uçan Tesla",
+   "text": "Tesla yeni Roadster-i göstərdi: maşın havaya qalxıb çevrilir. Şəkildəki isə əvvəlki Roadster-dir — 8 ildir kosmosda uçur.",
+   "slides": [
+    {
+     "h": "Texas",
+     "t": "Təqdimat 15 oktyabrda SpaceX-in Texasdakı sınaq meydançasında oldu. Maşın sıxılmış hava üfürən itələyicilərlə tullanıb havada çevrildi, maşınların və yük maşınının üstündən keçib yerə endi."
+    },
+    {
+     "h": "0,8 san",
+     "t": "Tesla deyir ki, yeni Roadster sıfırdan saatda 96 km sürətə 1 saniyədən az vaxtda çatır, maksimal sürəti isə saatda 370 km-dən çoxdur. Musk özü də deyir ki, bu, ən təhlükəsiz maşın deyil."
+    },
+    {
+     "h": "2017 → 2028",
+     "t": "Bu maşın ilk dəfə 2017-ci ildə göstərilmişdi: qiyməti 200 000 dollar, satışı 2020-ci ildə vəd olunurdu. İndi istehsalın 2028-də başlayacağı deyilir. Uçan versiyanın adi yollara çıxmağa icazəsi yoxdur."
+    },
+    {
+     "h": "2018",
+     "t": "6 fevral 2018-də Falcon Heavy raketi Muskun öz qırmızı Roadster-ini sükanda Starman manekeni ilə kosmosa göndərdi. Maşın indi də Günəşin ətrafında fırlanır: bir dövrə təxminən 557 gün çəkir."
+    }
+   ],
+   "caption": "Tesla “uçan” maşın göstərdi 🚀\n\nYeni Roadster Texasda havaya qalxıb çevrildi və yerə endi — sıxılmış hava üfürən itələyicilər sayəsində. Tesla deyir ki, saatda 96 km sürətə 1 saniyədən az vaxtda çatır, istehsal isə 2028-də başlayacaq. Ən maraqlısı: Muskun əvvəlki Roadster-i 2018-dən bəri Günəşin ətrafında fırlanır, sükanda isə Starman manekeni oturur.\n\n📩 “Uçan maşınlar nə vaxt olacaq?” deyə hər gün soruşan dostuna göndər\n\nFoto: SpaceX (CC0)\n\n#bilirdinizmi #maraqlıfaktlar #tesla #kosmos #texnologiya",
+   "first_comment": "Uçan maşının olsaydı, ilk hara uçardın? 👇",
+   "quizzes": [
+    {
+     "q": "Yeni Tesla Roadster nə ilə havaya qalxır?",
+     "options": [
+      "Raket yanacağı",
+      "Sıxılmış hava",
+      "Pervanələr"
+     ],
+     "answer": "Sıxılmış hava",
+     "why": "Tesla-ya görə, SpaceX ilə birgə hazırlanan itələyicilər yanacaq yox, sıxılmış hava üfürür."
+    },
+    {
+     "q": "Kosmosdakı Roadster Günəşi neçə günə dövr edir?",
+     "options": [
+      "365 gün",
+      "557 gün",
+      "1000 gün"
+     ],
+     "answer": "557 gün",
+     "why": "Starman-lı Roadster 2018-dən bəri Günəş ətrafında təxminən 1,5 ildə bir dövrə vurur."
+    }
+   ],
+   "photo": {
+    "path": "fetch/img/2026-10-16_T_starman_crop.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Elon_Musk%27s_Tesla_Roadster_(40143096241).jpg",
+    "credit": "Foto: SpaceX (CC0)",
+    "cy": 0.5,
+    "full": true
+   },
+   "sources": [
+    "https://www.foxbusiness.com/technology/teslas-new-roadster-makes-flying-debut-hitting-60-mph-under-second",
+    "https://www.axios.com/2026/10/16/tesla-roadster-elon-musk-flying-car",
+    "https://autos.yahoo.com/ev-and-future-tech/articles/elon-musk-flying-tesla-roadster-050045232.html",
+    "https://en.wikipedia.org/wiki/Elon_Musk%27s_Tesla_Roadster"
+   ],
+   "media": {
+    "carousel": [
+     "out/2026-10-16/T_1.jpg",
+     "out/2026-10-16/T_2.jpg",
+     "out/2026-10-16/T_3.jpg",
+     "out/2026-10-16/T_4.jpg",
+     "out/2026-10-16/T_5.jpg",
+     "out/2026-10-16/T_6.jpg"
     ],
-    "answer": "15 sm"
+    "poll_story": "out/2026-10-16/q_T.jpg",
+    "answer_story": "out/2026-10-16/q_T_a.jpg"
    }
   }
  ],
@@ -113,13 +175,14 @@
   },
   {
    "time": "19:30",
-   "q": "Eyfel qülləsi yayda nə qədər hündürləşir?",
+   "q": "Yeni Tesla Roadster nə ilə havaya qalxır?",
    "options": [
-    "1 mm",
-    "15 sm",
-    "2 m"
+    "Raket yanacağı",
+    "Sıxılmış hava",
+    "Pervanələr"
    ],
-   "answer": "15 sm-ə qədər"
+   "answer": "Sıxılmış hava",
+   "answer_time": "20:30"
   },
   {
    "time": "22:30",
@@ -131,5 +194,88 @@
    ],
    "answer": "3"
   }
- ]
+ ],
+ "trend": {
+  "n": 3,
+  "type": "card",
+  "format": "v2",
+  "subject": "Tesla Roadster unveil (flying) / Starman Roadster in space",
+  "cat": "Texnologiya",
+  "title": "Uçan Tesla",
+  "text": "Tesla yeni Roadster-i göstərdi: maşın havaya qalxıb çevrilir. Şəkildəki isə əvvəlki Roadster-dir — 8 ildir kosmosda uçur.",
+  "slides": [
+   {
+    "h": "Texas",
+    "t": "Təqdimat 15 oktyabrda SpaceX-in Texasdakı sınaq meydançasında oldu. Maşın sıxılmış hava üfürən itələyicilərlə tullanıb havada çevrildi, maşınların və yük maşınının üstündən keçib yerə endi."
+   },
+   {
+    "h": "0,8 san",
+    "t": "Tesla deyir ki, yeni Roadster sıfırdan saatda 96 km sürətə 1 saniyədən az vaxtda çatır, maksimal sürəti isə saatda 370 km-dən çoxdur. Musk özü də deyir ki, bu, ən təhlükəsiz maşın deyil."
+   },
+   {
+    "h": "2017 → 2028",
+    "t": "Bu maşın ilk dəfə 2017-ci ildə göstərilmişdi: qiyməti 200 000 dollar, satışı 2020-ci ildə vəd olunurdu. İndi istehsalın 2028-də başlayacağı deyilir. Uçan versiyanın adi yollara çıxmağa icazəsi yoxdur."
+   },
+   {
+    "h": "2018",
+    "t": "6 fevral 2018-də Falcon Heavy raketi Muskun öz qırmızı Roadster-ini sükanda Starman manekeni ilə kosmosa göndərdi. Maşın indi də Günəşin ətrafında fırlanır: bir dövrə təxminən 557 gün çəkir."
+   }
+  ],
+  "caption": "Tesla “uçan” maşın göstərdi 🚀\n\nYeni Roadster Texasda havaya qalxıb çevrildi və yerə endi — sıxılmış hava üfürən itələyicilər sayəsində. Tesla deyir ki, saatda 96 km sürətə 1 saniyədən az vaxtda çatır, istehsal isə 2028-də başlayacaq. Ən maraqlısı: Muskun əvvəlki Roadster-i 2018-dən bəri Günəşin ətrafında fırlanır, sükanda isə Starman manekeni oturur.\n\n📩 “Uçan maşınlar nə vaxt olacaq?” deyə hər gün soruşan dostuna göndər\n\nFoto: SpaceX (CC0)\n\n#bilirdinizmi #maraqlıfaktlar #tesla #kosmos #texnologiya",
+  "first_comment": "Uçan maşının olsaydı, ilk hara uçardın? 👇",
+  "quizzes": [
+   {
+    "q": "Yeni Tesla Roadster nə ilə havaya qalxır?",
+    "options": [
+     "Raket yanacağı",
+     "Sıxılmış hava",
+     "Pervanələr"
+    ],
+    "answer": "Sıxılmış hava",
+    "why": "Tesla-ya görə, SpaceX ilə birgə hazırlanan itələyicilər yanacaq yox, sıxılmış hava üfürür."
+   },
+   {
+    "q": "Kosmosdakı Roadster Günəşi neçə günə dövr edir?",
+    "options": [
+     "365 gün",
+     "557 gün",
+     "1000 gün"
+    ],
+    "answer": "557 gün",
+    "why": "Starman-lı Roadster 2018-dən bəri Günəş ətrafında təxminən 1,5 ildə bir dövrə vurur."
+   }
+  ],
+  "photo": {
+   "path": "fetch/img/2026-10-16_T_starman_crop.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Elon_Musk%27s_Tesla_Roadster_(40143096241).jpg",
+   "credit": "Foto: SpaceX (CC0)",
+   "cy": 0.5,
+   "full": true
+  },
+  "sources": [
+   "https://www.foxbusiness.com/technology/teslas-new-roadster-makes-flying-debut-hitting-60-mph-under-second",
+   "https://www.axios.com/2026/10/16/tesla-roadster-elon-musk-flying-car",
+   "https://autos.yahoo.com/ev-and-future-tech/articles/elon-musk-flying-tesla-roadster-050045232.html",
+   "https://en.wikipedia.org/wiki/Elon_Musk%27s_Tesla_Roadster"
+  ],
+  "media": {
+   "carousel": [
+    "out/2026-10-16/T_1.jpg",
+    "out/2026-10-16/T_2.jpg",
+    "out/2026-10-16/T_3.jpg",
+    "out/2026-10-16/T_4.jpg",
+    "out/2026-10-16/T_5.jpg",
+    "out/2026-10-16/T_6.jpg"
+   ],
+   "poll_story": "out/2026-10-16/q_T.jpg",
+   "answer_story": "out/2026-10-16/q_T_a.jpg"
+  }
+ },
+ "trend_swap": {
+  "when": "2026-10-16 15:50 Asia/Baku",
+  "slot": "18:30 card + 19:30 poll + 20:30 answer",
+  "what": "Eiffel Tower summer growth -> Tesla flying Roadster unveil / Starman Roadster in space",
+  "why": "Tesla showed the new Roadster flying at a SpaceX site in Texas on 15 Oct (US) - top viral tech story today; safe topic (tech/space). Morning check had found nothing.",
+  "backup_moved_to": "2026-10-18 (spare)"
+ }
 }

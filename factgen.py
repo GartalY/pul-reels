@@ -210,7 +210,7 @@ def quizstory(photo, out, c):
                                       fill=tuple(int(INK[i] + (col[i] - INK[i]) * 0.22 * a) for i in range(3)))
     pill(d, 70, 200, f"VİKTORİNA {c['n']}", F("Black", 42), GOLD, INK)
     x = 70 + d.textlength(f"VİKTORİNA {c['n']}", font=F("Black", 42)) + 56 + 20
-    pill(d, x, 200, c.get("cat", "Fakt").upper().replace("I", "I"), F("Black", 42), col, INK)
+    pill(d, x, 200, c.get("cat", "Fakt").replace("i", "İ").upper(), F("Black", 42), col, INK)
     if c.get("recall"):
         d.text((70, 310), "Keçən paylaşımlarımızdan", font=F("SemiBold", 40), fill=(200, 204, 215))
     y = text_block(d, 70, 380, c["q"], F("Black", 80), WHITE, W - 140, lh=1.15)
@@ -239,7 +239,7 @@ def answerstory(photo, out, c):
                                       fill=tuple(int(INK[i] + (GREEN[i] - INK[i]) * 0.2 * a) for i in range(3)))
     pill(d, 70, 200, f"CAVAB {c['n']}", F("Black", 42), GREEN, INK)
     x = 70 + d.textlength(f"CAVAB {c['n']}", font=F("Black", 42)) + 56 + 20
-    pill(d, x, 200, c.get("cat", "Fakt").upper(), F("Black", 42), col, INK)
+    pill(d, x, 200, c.get("cat", "Fakt").replace("i", "İ").upper(), F("Black", 42), col, INK)
     y = text_block(d, 70, 360, c["q"], F("Bold", 56), (200, 204, 215), W - 140)
     fa = F("Black", 104 if len(c["a"]) <= 12 else 76)
     al = wrap(d, "✓ " + c["a"], fa, W - 220)

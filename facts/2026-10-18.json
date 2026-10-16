@@ -71,5 +71,22 @@
    "reel_hook": "Nobel mükafatında Bakı izi",
    "reel_fact": "Nobel mükafatının arxasında Bakı nefti var: Nobel Fondunu yaratmaq üçün istifadə olunan vəsaitin təxminən beşdə biri Alfredin Bakıdakı \"Branobel\" neft şirkətindəki səhmlərindən gəlib."
   }
+ ],
+ "spare": [
+  {
+   "n": 3,
+   "type": "card",
+   "subject": "Eiffel Tower",
+   "quiz": {
+    "q": "Eyfel qülləsi yayda nə qədər hündürləşir?",
+    "options": [
+     "1 mm",
+     "15 sm",
+     "2 m"
+    ],
+    "answer": "15 sm"
+   },
+   "from": "2026-10-16 18:30 (replaced by trend)"
+  }
  ]
 }

@@ -7,3 +7,7 @@ search_diomede.json https://commons.wikimedia.org/w/api.php?action=query&format=
 2026-10-17_1_diomede.jpg https://upload.wikimedia.org/wikipedia/commons/5/50/Diomede_Islands%2C_Bering_Strait_%28ASTER%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 2026-10-17_1_diomede_b.jpg https://upload.wikimedia.org/wikipedia/commons/3/33/Wfm_diomede_islands.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 search_starman.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Starman%20Roadster%20Earth
+2026-10-16_T_starman_a.jpg https://upload.wikimedia.org/wikipedia/commons/1/1a/Elon_Musk%27s_Tesla_Roadster_%2840110297852%29.jpg
+2026-10-16_T_starman_b.jpg https://upload.wikimedia.org/wikipedia/commons/1/17/Elon_Musk%27s_Tesla_Roadster_%2840110298232%29.jpg
+2026-10-16_T_starman_c.jpg https://upload.wikimedia.org/wikipedia/commons/2/20/Elon_Musk%27s_Tesla_Roadster_%2840110304192%29.jpg
+2026-10-16_T_starman_d.jpg https://upload.wikimedia.org/wikipedia/commons/8/87/Elon_Musk%27s_Tesla_Roadster_%2840143096241%29.jpg

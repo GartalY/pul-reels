@@ -19,12 +19,11 @@ Instagram facts page in **Azerbaijani**, run by Claude. Owner: Gartal (gartalyus
 3 posts + 5 quiz stories a day. No separate answer stories any more.
 - 13:00 — Post 1: CAROUSEL (photo 1)      · 18:30 — Post 2: CAROUSEL (photo 2)
 - 21:30 — Post 3: REEL with 3 beats (photo 3, the most surprising fact)
-- Quiz stories (all `autoPublish: false`, Gartal adds a Poll sticker with the 3 options):
+- Quiz stories — FULLY AUTOMATIC since 2026-10-17 (Gartal, 2026-10-16: "I'm not posting stories any more"):
+  the question image has the options printed (A/B/C, no poll sticker), `autoPublish: true`; the ANSWER
+  story is a separate auto post exactly 10 minutes later. At least 5 quizzes a day:
   11:00 recall (random older fact from facts/db.json) · 14:00 post 1 · 16:30 recall · 19:30 post 2 · 22:30 post 3
-- Each quiz is ONE Metricool story post with TWO images in `media`: [qN.jpg, qN_a.jpg] — the question
-  (Gartal adds the Poll sticker) and the answer card right after it, so viewers tap once to see the answer.
-  Both come in the same notification (verified 2026-10-16 that Metricool accepts 2 media in a STORY).
-- Gartal's Instagram has NO quiz sticker, only Poll (checked 2026-10-15).
+  (+ answers at 11:10, 14:10, 16:40, 19:40, 22:40). Gartal does nothing for stories.
 Why: Gartal said one-sentence facts were too thin and the quizzes too easy (photo gave the answer away).
 
 ### Caption rules (Gartal, 2026-10-16)
@@ -63,7 +62,7 @@ he worked in a factory" + the details. Slot: the **18:30 carousel**.
 - 15:23 (midday task): build the trend carousel (photo `T` or the `none` fallback), push, replace the 18:30
   post in Metricool (`updateScheduledPost`, keep the time), put the backup fact into a later day, then
   replace `facts[1]` with the trend fact in the JSON, re-run `quizplan.py <today>` and update ONLY the
-  19:30 quiz story in Metricool (earlier ones may already be live).
+  19:30 quiz story AND its 19:40 answer story in Metricool (earlier ones may already be live).
 - If the trend story breaks after 15:23, it can still go into tomorrow's 13:00 slot.
 
 ## P. Photos — Claude finds them himself (from 2026-10-16; Gartal only as a last resort)
@@ -144,7 +143,7 @@ Goal: keep up with the real world. Before doing the main task, search the news (
      `factgen.py slide <photoK> out/D/K_<i>.jpg '{"i":i,"n":N,"h":..,"t":..,"cy":..}'` for i = 2..N-1
      `factgen.py outro none out/D/K_<N>.jpg '{"i":N,"n":N}'`
    - Reel for fact 3: `factgen.py reel <photo3> out/D/3_reel.mp4 '{"hook":..,"beats":[..],"seed":<day>,"cy":..}'`
-   - Quiz stories: `python3 quizplan.py D` (renders out/D/q1..q5.jpg, writes `stories` into the JSON and
+   - Quiz stories: `python3 quizplan.py D` (renders out/D/q1..q5.jpg with printed options + q1_a..q5_a.jpg answers, writes `stories` into the JSON and
      updates facts/db.json). Safe to re-run.
      No emoji in image text — the font can't draw them.
 4. **Check the output**: open every carousel slide (a contact sheet is fine), all 5 quiz stories and
@@ -154,8 +153,8 @@ Goal: keep up with the real world. Before doing the main task, search the news (
    - carousels: ONE post with all slide URLs in order in `media`, `instagramData.type: POST`,
      `autoPublish: true`, `isAiGenerated: false`, `firstCommentText` = the fact's `first_comment`
    - reel: `instagramData.type: REEL`, `autoPublish: true`
-   - quiz stories: `instagramData.type: STORY`, `autoPublish: false`, no text, at the times in `stories`,
-     `media` = [question image URL, answer image URL]
+   - quiz stories: `instagramData.type: STORY`, `autoPublish: true`, no text, `media` = [qN.jpg] at the time
+     in `stories`; answer stories: same but `media` = [qN_a.jpg] at time + 10 min
    Order: carousels and reel FIRST, then quiz stories (posts matter more if a limit is hit).
    If Metricool refuses because of a plan/post limit, do NOT retry in a loop: list every unscheduled item
    under `pending_schedule` in the JSON (type, time, media URLs, text, first comment) and tell Gartal in the
@@ -165,9 +164,8 @@ Goal: keep up with the real world. Before doing the main task, search the news (
    Before scheduling, `getScheduledPosts` for tomorrow AND check `metricool` in the JSON — skip any slot
    that is already scheduled, so nothing is scheduled twice. Record every new post ID under `metricool`.
 7. Set `"status": "scheduled"` in the JSON, append the 3 subjects to `facts/used.md`, commit, push.
-8. Message Gartal a short summary: what posts at which time, any fallback used, and the **poll table**
-   for the 5 stories (time · the 3 options to type into the Poll sticker). Answers appear automatically
-   on the next story.
+8. Message Gartal a short summary: what posts at which time and any fallback used. No action needed from
+   him for stories.
 
 ## Weekly (Sunday evening task, add when ready)
 Pull Metricool analytics for the week; note best reel/card, best posting hours; adjust next week.
@@ -185,8 +183,8 @@ Pull Metricool analytics for the week; note best reel/card, best posting hours; 
   afterwards. Ask him only for photos, things only he can do in the app, and decisions that cost money.
 - Whenever Gartal needs to do something (photos, reconnect, a decision), notify him: SendUserMessage
   plus a push notification (PushNotification tool if available). Put the action in the FIRST line.
-- Gartal is awake roughly 09:00–23:59 Baku time. Never schedule anything that needs him (story stickers,
-  messages that need action) outside that window.
+- Gartal is awake roughly 09:00–23:59 Baku time. Never send him anything that needs action outside that window.
+  Nothing on the page needs his manual action any more (posts and stories are all automatic).
 - Accuracy over volume. If not sure a fact is true, don't post it.
 - Politics only per section T (never Azerbaijani politics); no religion; nothing about private people; tragedies only per section T.
 - Never schedule anything into the past; never delete Gartal's posts.

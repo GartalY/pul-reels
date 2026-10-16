@@ -11,3 +11,4 @@ search_starman.json https://commons.wikimedia.org/w/api.php?action=query&format=
 2026-10-16_T_starman_b.jpg https://upload.wikimedia.org/wikipedia/commons/1/17/Elon_Musk%27s_Tesla_Roadster_%2840110298232%29.jpg
 2026-10-16_T_starman_c.jpg https://upload.wikimedia.org/wikipedia/commons/2/20/Elon_Musk%27s_Tesla_Roadster_%2840110304192%29.jpg
 2026-10-16_T_starman_d.jpg https://upload.wikimedia.org/wikipedia/commons/8/87/Elon_Musk%27s_Tesla_Roadster_%2840143096241%29.jpg
+2026-10-17_tbg_chess.jpg https://images.unsplash.com/photo-1606594914778-09d99f53ecf7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1400

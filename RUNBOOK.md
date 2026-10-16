@@ -37,7 +37,7 @@ Why: Gartal said one-sentence facts were too thin and the quizzes too easy (phot
 - Quiz stories never use the post photo (branded background by category: Tarix, Təbiət, Kosmos, Elm,
   Coğrafiya, Texnologiya, Azərbaycan) → set `cat` on every fact.
 
-## D. Daily trend post (EVERY day — Gartal, 2026-10-16)
+## D. Daily trend post (EVERY day from 2026-10-17 — Gartal, 2026-10-16; on 2026-10-16 itself do nothing)
 At least one post per day is about something people are talking about TODAY, told as a richer story
 (3–4+ sentences / 3–4 detail slides). Example of the style: a footballer in the news → "before he was famous,
 he worked in a factory" + the details. Slot: the **18:30 carousel**.

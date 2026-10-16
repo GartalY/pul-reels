@@ -1,6 +1,6 @@
 {
  "date": "2026-10-17",
- "status": "planned",
+ "status": "scheduled",
  "facts": [
   {
    "n": 1,
@@ -298,7 +298,19 @@
   }
  ],
  "metricool": {
-  "11:00 quiz q1+answer": 397612661
+  "11:00 quiz q1+answer": 397612661,
+  "13:00 carousel": 397942326,
+  "18:30 carousel": 397942402,
+  "21:30 reel": 397942452,
+  "14:00 quiz q2+answer": 397942551,
+  "16:30 quiz q3+answer": 397942588,
+  "19:30 quiz q4+answer": 397942619,
+  "22:30 quiz q5+answer": 397942654
  },
- "quiz_fix": "16:30 recall changed from Eiffel Tower (never posted: replaced by the 16 Oct trend) to the posted Tesla/Starman trend fact; db.json: Eiffel entry removed (it returns when posted), trend added as 2026-10-16-T"
+ "quiz_fix": "16:30 recall changed from Eiffel Tower (never posted: replaced by the 16 Oct trend) to the posted Tesla/Starman trend fact; db.json: Eiffel entry removed (it returns when posted), trend added as 2026-10-16-T",
+ "trend_check_evening": {
+  "checked": "2026-10-16 20:50 Asia/Baku",
+  "result": "no swap",
+  "why": "No big story for tomorrow found in the evening news check; 18:30 Everest stays as the evergreen backup for the 09:10 trend pick."
+ }
 }

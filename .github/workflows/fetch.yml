@@ -1,0 +1,26 @@
+name: fetch-photos
+on:
+  push:
+    paths: ["fetch/queue.txt"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download queued photos
+        run: |
+          mkdir -p fetch/img
+          while read -r name url; do
+            [ -z "$name" ] && continue
+            [ -f "fetch/img/$name" ] && continue
+            curl -sSL --max-time 60 -o "fetch/img/$name" "$url" || echo "failed $name"
+          done < fetch/queue.txt
+      - name: Commit
+        run: |
+          git config user.name "photo-fetcher"; git config user.email "noreply@github.com"
+          git add fetch/img
+          git diff --cached --quiet || git commit -m "Fetched photos"
+          git push

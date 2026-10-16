@@ -79,11 +79,13 @@ def main():
 
     os.makedirs(os.path.join(ROOT, f"out/{D}"), exist_ok=True)
     for i, s in enumerate(stories, 1):
-        cfg = {"n": f"{i}/5", "cat": s["cat"], "q": s["q"], "prev": None, "recall": s["recall"]}
+        cfg = {"n": f"{i}/{len(stories)}", "cat": s["cat"], "q": s["q"], "prev": None, "recall": s["recall"],
+               "options": s["options"]}
         out = f"out/{D}/q{i}.jpg"; outa = f"out/{D}/q{i}_a.jpg"
         subprocess.run([sys.executable, os.path.join(ROOT, "factgen.py"), "quizstory", "none",
                         os.path.join(ROOT, out), json.dumps(cfg, ensure_ascii=False)], check=True)
-        acfg = {"n": f"{i}/5", "cat": s["cat"], "q": s["q"], "a": s["answer"], "why": s["why"]}
+        L = "ABCD"[s["options"].index(s["answer"])] if s["answer"] in s["options"] else ""
+        acfg = {"n": f"{i}/{len(stories)}", "cat": s["cat"], "q": s["q"], "a": (f"{L}) " if L else "") + s["answer"], "why": s["why"]}
         subprocess.run([sys.executable, os.path.join(ROOT, "factgen.py"), "answerstory", "none",
                         os.path.join(ROOT, outa), json.dumps(acfg, ensure_ascii=False)], check=True)
         s["image"] = out; s["answer_image"] = outa

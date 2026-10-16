@@ -214,9 +214,20 @@ def quizstory(photo, out, c):
     if c.get("recall"):
         d.text((70, 310), "Keçən paylaşımlarımızdan", font=F("SemiBold", 40), fill=(200, 204, 215))
     y = text_block(d, 70, 380, c["q"], F("Black", 80), WHITE, W - 140, lh=1.15)
-    hint = "Cavabı seç ↓"
-    d.text(((W - d.textlength(hint, font=F("SemiBold", 48))) / 2, y + 50), hint, font=F("SemiBold", 48), fill=GOLD)
-    # poll sticker goes in the free band below the hint (≈ y+150 … 1440)
+    if c.get("options"):   # printed options (fully automatic stories, no poll sticker)
+        oy = max(y + 90, 760); fo = F("Bold", 58); fl = F("Black", 58)
+        for i, opt in enumerate(c["options"]):
+            d.rounded_rectangle([70, oy, W - 70, oy + 150], 36, fill=(32, 38, 56))
+            d.rounded_rectangle([100, oy + 30, 190, oy + 120], 24, fill=col)
+            L = "ABCD"[i]; d.text((145 - d.textlength(L, font=fl) / 2, oy + 38), L, font=fl, fill=INK)
+            d.text((225, oy + 42), opt, font=fo, fill=WHITE)
+            oy += 180
+        hint = "Fikirləş… cavab növbəti hekayədə →"
+        d.text(((W - d.textlength(hint, font=F("SemiBold", 46))) / 2, oy + 50), hint, font=F("SemiBold", 46), fill=GOLD)
+    else:
+        hint = "Cavabı seç ↓"
+        d.text(((W - d.textlength(hint, font=F("SemiBold", 48))) / 2, y + 50), hint, font=F("SemiBold", 48), fill=GOLD)
+    # (without options) poll sticker goes in the free band below the hint (≈ y+150 … 1440)
     if c.get("prev"):
         p = c["prev"]; top = 1470
         d.rounded_rectangle([70, top, W - 70, top + 250], 36, fill=(28, 34, 50))

@@ -8,21 +8,22 @@
    "subject": "Diomede Islands",
    "photo_request": "Diomed adaları (Böyük və Kiçik Diomed, Berinq boğazı)",
    "title": "Diomed adaları",
-   "text": "Rusiya və ABŞ arasında cəmi 3,8 km var: Böyük Diomed (Rusiya) və Kiçik Diomed (ABŞ) adaları. Amma aralarında 21 saat vaxt fərqi var.",
-   "caption": "3,8 km məsafə, 21 saat fərq ⏰\n\nBerinq boğazında iki ada var: Böyük Diomed Rusiyaya, Kiçik Diomed ABŞ-a aiddir. Aralarından Beynəlxalq Tarix Xətti keçir, ona görə də birindən o birinə baxanda sözün əsl mənasında \"sabahı\" görürsən.\n\nYerlilər onlara \"Sabah adası\" və \"Dünən adası\" deyir. Bunu bilirdin? 👇\n\n#bilirdinizmi #maraqlıfaktlar #faktlar #coğrafiya #rusiya #abş",
+   "text": "Rusiya və ABŞ arasında cəmi 3,8 km var: Böyük Diomed (Rusiya) və Kiçik Diomed (ABŞ) adaları. Amma aralarında təxminən bir sutka — 20-21 saat vaxt fərqi var.",
+   "caption": "3,8 km məsafə, demək olar ki, bir sutka fərq ⏰\n\nBerinq boğazında iki ada var: Böyük Diomed Rusiyaya, Kiçik Diomed ABŞ-a aiddir. Aralarından Beynəlxalq Tarix Xətti keçir: Alyaskada yay vaxtı olanda fərq 20 saat, qışda isə 21 saatdır. Birindən o birinə baxanda sözün əsl mənasında \"sabahı\" görürsən.\n\nOnlara \"Sabah adası\" və \"Dünən adası\" da deyirlər. Bunu bilirdin? 👇\n\n#bilirdinizmi #maraqlıfaktlar #faktlar #coğrafiya #rusiya #abş",
    "quiz": {
-    "q": "Diomed adaları arasında neçə saat vaxt fərqi var?",
+    "q": "Diomed adaları arasında vaxt fərqi nə qədərdir?",
     "options": [
      "1 saat",
      "12 saat",
-     "21 saat"
+     "Təxminən 1 sutka"
     ],
-    "answer": "21 saat",
-    "why": "Aralarından Beynəlxalq Tarix Xətti keçir — 3,8 km-də 21 saat fərq."
+    "answer": "Təxminən 1 sutka",
+    "why": "Aralarından Tarix Xətti keçir: yayda 20, qışda 21 saat fərq."
    },
    "sources": [
     "https://en.wikipedia.org/wiki/Diomede_Islands",
-    "https://geographyrealm.com/separated-by-2-4-miles-and-21-hours"
+    "https://geographyrealm.com/separated-by-2-4-miles-and-21-hours",
+    "https://www.snopes.com/fact-check/russia-alaska-diomedes"
    ]
   },
   {
@@ -31,7 +32,7 @@
    "subject": "Everest marine fossils",
    "photo_request": "Everest dağı",
    "title": "Everest",
-   "text": "Everestin zirvəsindəki daşlar bir vaxtlar okeanın dibi olub. Orada ~450 milyon illik dəniz canlılarının fosilləri tapılıb.",
+   "text": "Everestin zirvəsindəki daşlar bir vaxtlar okeanın dibi olub. Orada ~470 milyon illik dəniz canlılarının fosilləri tapılıb.",
    "caption": "Dünyanın zirvəsi — keçmişin okean dibi 🏔️\n\nEverestin ən üst qatı dəniz əhəngdaşından ibarətdir. İçində trilobit və dəniz zanbağı kimi qədim dəniz canlılarının fosilləri var. Hindistan Asiyaya toqquşanda okean dibi 8 849 metrə qədər qalxıb.\n\nBunu bilirdin? 👇\n\n#bilirdinizmi #maraqlıfaktlar #faktlar #everest #geologiya #elm",
    "quiz": {
     "q": "Everestin zirvəsində hansı fosillər tapılıb?",
@@ -44,7 +45,8 @@
     "why": "Zirvədəki əhəngdaşı qədim okean dibidir; içində dəniz canlılarının fosilləri var."
    },
    "sources": [
-    "https://www.denver7.com/why-are-there-marine-fossils-top-mt-everest"
+    "https://www.denver7.com/why-are-there-marine-fossils-top-mt-everest",
+    "https://montana.edu/everest/facts/summit-limestone.html"
    ]
   },
   {
@@ -72,5 +74,13 @@
    "reel_hook": "400 yaşlı köpəkbalığı?!",
    "reel_fact": "Qrenlandiya köpəkbalığı 400 ilə qədər yaşaya bilər — bu gün üzənlərin bəziləri Nyutonun dövründə doğulub. Yetkinləşməsi isə ~150 il çəkir."
   }
- ]
+ ],
+ "reverified": {
+  "when": "2026-10-16 09:10 Asia/Baku",
+  "changes": [
+   "Diomede: 21 h is winter only; on 17 Oct Alaska is on daylight time (UTC-8 vs UTC+12) so the gap is 20 h -> text/caption/quiz now say ~1 day (20-21 h)",
+   "Everest: fossil age corrected ~450 -> ~470 million years (Montana State Univ.)",
+   "Greenland shark: confirmed (392 y largest, ~1 cm/yr, maturity >=150 y)"
+  ]
+ }
 }

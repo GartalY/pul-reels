@@ -14,24 +14,33 @@ Instagram facts page in **Azerbaijani**, run by Claude. Owner: Gartal (gartalyus
 2. Load Metricool tools (`ToolSearch "+Metricool"`) and Google Drive tools (`ToolSearch "+Google_Drive"`).
 3. Commit with `git -c user.email=noreply@anthropic.com -c user.name=Claude` and push to `main`.
 
-## Daily volume and times (ramp-up phase, started 2026-10-16)
-Times chosen 2026-10-15 from research: evenings (20:00–24:00) beat daytime, Reels most of all
-(Sociality.io 2025–26 study incl. Istanbul-time accounts). Re-check with Metricool/Instagram data after 2 weeks.
-- 13:00 — Post 1: fact card (photo 1)   · 14:00 — Poll story 1/3 · 15:00 — Answer story 1/3
-- 18:30 — Post 2: fact card (photo 2)   · 19:30 — Poll story 2/3 · 20:30 — Answer story 2/3
-- 21:30 — Post 3: fact REEL (photo 3)   · 22:30 — Poll story 3/3 · 23:30 — Answer story 3/3
-IMPORTANT: Gartal's Instagram has NO quiz sticker, only Poll (checked 2026-10-15). So: poll stories are
-`autoPublish: false` (he adds a Poll sticker with the 3 options), and an ANSWER story is auto-published
-1 hour later (`autoPublish: true`) showing the correct answer + one-line explanation.
-Fact 3 is always the most surprising one (it becomes the reel).
-(After ~2 weeks, if growing: 2 reels + 3 cards, 5 stories. Only change when the data supports it.)
+## Daily volume and times — FORMAT v2 (from 2026-10-17, Gartal's request 2026-10-16)
+3 posts + 5 quiz stories a day. No separate answer stories any more.
+- 13:00 — Post 1: CAROUSEL (photo 1)      · 18:30 — Post 2: CAROUSEL (photo 2)
+- 21:30 — Post 3: REEL with 3 beats (photo 3, the most surprising fact)
+- Quiz stories (all `autoPublish: false`, Gartal adds a Poll sticker with the 3 options):
+  11:00 recall (random older fact from facts/db.json) · 14:00 post 1 · 16:30 recall · 19:30 post 2 · 22:30 post 3
+- Each quiz story shows the ANSWER TO THE PREVIOUS quiz at the bottom (first one of the day: yesterday's last).
+- Gartal's Instagram has NO quiz sticker, only Poll (checked 2026-10-15).
+Why: Gartal said one-sentence facts were too thin and the quizzes too easy (photo gave the answer away).
+
+### Content rules v2
+- Carousel = cover (photo + title + 1–2 sentence hook, "Sürüşdür →") + 3–4 detail slides + outro slide.
+  Each detail slide: `h` = a short big headline, ideally a number/date ("3,8 km", "1948", "0 sakin"),
+  `t` = ≤ 40 words with a NEW detail (not a repeat). Every detail must be verified like the main fact.
+- Reel = hook + 3 beats (each ≤ 30 words, each a new detail) → `reel_beats`.
+- Quizzes: 2–3 questions per fact in `quizzes` (q ≤ 12 words, 3 plausible options of the same type,
+  exactly one correct). Ask about a DETAIL from the slides/beats (a number, date, name, cause), never
+  something the photo or the title gives away. Avoid yes/no and avoid joke options.
+- Quiz stories never use the post photo (branded background by category: Tarix, Təbiət, Kosmos, Elm,
+  Coğrafiya, Texnologiya, Azərbaycan) → set `cat` on every fact.
 
 ## T. Trend check (in every morning, midday and evening run)
 Goal: keep up with the real world. Before doing the main task, search the news (WebSearch: "news today",
 "Azerbaijan news today", "Xəbərlər bu gün", world events, viral/trending topics, big sports/space/science news).
 - If something big is happening that a large share of our Azerbaijani audience is talking about TODAY, replace
   one not-yet-published post of today (prefer the 21:30 reel, else the 18:30 card) with a verified fact that
-  connects to it. Update it in Metricool with `updateScheduledPost` (keep the time), and its poll + answer story.
+  connects to it. Update it in Metricool with `updateScheduledPost` (keep the time), and the quiz story about it (re-render its question; keep the previous-answer chain correct).
 - Photos: ask Gartal for a related photo (notify him, action in first line, with a deadline ~2 h before posting).
   If no photo arrives in time, use a photo-free design: `reelgen.py` text/chart reel, or `factgen.py` with `none`.
 - Tragedies (earthquakes, crashes, wars, attacks, deaths): respectful, useful angle only — how/why it happens,
@@ -47,7 +56,9 @@ Goal: keep up with the real world. Before doing the main task, search the news (
 ## A. Morning task (09:10) — pick tomorrow's facts
 0. If `facts/YYYY-MM-DD.json` for TOMORROW already exists (status `planned`), do NOT pick new facts:
    make sure the Drive subfolder exists, check which photos (1, 2, 3) are already uploaded, and message Gartal
-   only the missing photo requests (or "all photos already uploaded"). Then stop.
+   only the missing photo requests (or "all photos already uploaded"). If that file has no `"format": "v2"`,
+   first UPGRADE it: add `cat`, `slides` (cards) / `reel_beats` (reel) and `quizzes` per the content rules
+   v2, verifying every new detail; set `"format": "v2"`. Then stop.
 1. Read `facts/used.md` so no topic repeats.
 2. Pick 3 facts for TOMORROW: mix categories (history, animals/nature, space, science, human body,
    geography/places, inventions, famous people, Azerbaijan when good). Each must have a clear, iconic
@@ -59,10 +70,10 @@ Goal: keep up with the real world. Before doing the main task, search the news (
 3. **Verify every fact with WebSearch** (at least one reliable source: encyclopedia, museum, university,
    NASA/NatGeo, official site). Use conservative wording ("up to", "about"). Drop anything disputed or
    myth-like (e.g. "we use 10% of our brain", "Great Wall visible from space").
-4. For each fact write: subject, photo request (what exactly to photograph/search), card title, card text
-   (≤ 30 words, AZ), reel hook (≤ 6 words) and reel fact text (≤ 35 words) for fact 3, caption
-   (2–4 short lines + question to followers + 6–8 hashtags incl. #bilirdinizmi #maraqlıfaktlar #faktlar),
-   quiz question (≤ 10 words) with 3 options and the correct one, and source URL(s).
+4. For each fact write (v2): subject, `cat`, photo request, title, cover text (≤ 30 words, AZ), `slides`
+   (facts 1–2) or `reel_hook` + `reel_beats` (fact 3), caption (3–5 short lines + question to followers +
+   6–8 hashtags incl. #bilirdinizmi #maraqlıfaktlar #faktlar), `quizzes` (2–3), and source URL(s).
+   Set `"format": "v2"`.
 5. Save as `facts/YYYY-MM-DD.json` (date = tomorrow), commit, push.
 6. Create Drive subfolder `YYYY-MM-DD` inside the photo folder.
 7. Message Gartal (this is what he reads on his phone — keep it short, Azerbaijani or English is fine):
@@ -77,26 +88,28 @@ Goal: keep up with the real world. Before doing the main task, search the news (
    decode the base64 `content` with python into `photos/`). Look at each photo (Read) to confirm it
    matches the fact and choose a sensible crop (`cy`). If a photo is missing or wrong, use `none`
    (branded fallback) and say so in the summary.
-3. Build into `out/YYYY-MM-DD/` with `factgen.py`:
-   - `python3 factgen.py card <photo1> out/D/1_card.jpg '{"title":..,"text":..,"cy":..}'`
-   - `python3 factgen.py card <photo2> out/D/2_card.jpg '{...}'`
-   - `python3 factgen.py reel <photo3> out/D/3_reel.mp4 '{"hook":..,"fact":..,"seed":<day number>,"cy":..}'`
-   - `python3 factgen.py story <photoN> out/D/sN.jpg '{"n":"N/3","q":..}'` for N = 1..3
-   - `python3 factgen.py answer <photoN> out/D/aN.jpg '{"n":"N/3","q":..,"a":"<short answer>","why":"<≤ 20 words>"}'`
-     for N = 1..3 (no emoji in image text — the font can't draw them)
-4. **Check the output**: open both cards, all 3 stories and 2 frames of the reel (ffmpeg -ss 1.2 and -ss 9.8)
-   with Read. Fix text overflow, unreadable text or bad crops before scheduling.
-5. Commit and push `out/D/` and the JSON.
-6. Schedule in Metricool (blogId 7443266, timezone Asia/Baku, media = raw GitHub URL):
-   - posts: `autoPublish: true`, `instagramData.type` POST (cards) / REEL (reel), `isAiGenerated: false`
-     (real photos with text overlay)
-   - poll stories: `autoPublish: false` (Gartal gets a notification and adds a Poll sticker),
-     `instagramData.type: STORY`, no text
-   - answer stories: `autoPublish: true`, `instagramData.type: STORY`, no text, 1 hour after each poll
+3. Build into `out/YYYY-MM-DD/` (D = date):
+   - Carousels for facts 1 and 2 (K = 1, 2; N = len(slides) + 2):
+     `factgen.py card <photoK> out/D/K_1.jpg '{"title":..,"text":..,"cy":..,"swipe":true}'`
+     `factgen.py slide <photoK> out/D/K_<i>.jpg '{"i":i,"n":N,"h":..,"t":..,"cy":..}'` for i = 2..N-1
+     `factgen.py outro none out/D/K_<N>.jpg '{"i":N,"n":N}'`
+   - Reel for fact 3: `factgen.py reel <photo3> out/D/3_reel.mp4 '{"hook":..,"beats":[..],"seed":<day>,"cy":..}'`
+   - Quiz stories: `python3 quizplan.py D` (renders out/D/q1..q5.jpg, writes `stories` into the JSON and
+     updates facts/db.json). Safe to re-run.
+     No emoji in image text — the font can't draw them.
+4. **Check the output**: open every carousel slide (a contact sheet is fine), all 5 quiz stories and
+   3–4 frames of the reel with Read. Fix text overflow, unreadable text or bad crops before scheduling.
+5. Commit and push `out/D/`, `facts/D.json` and `facts/db.json`.
+6. Schedule in Metricool (blogId 7443266, timezone Asia/Baku, media = raw GitHub URLs):
+   - carousels: ONE post with all slide URLs in order in `media`, `instagramData.type: POST`,
+     `autoPublish: true`, `isAiGenerated: false`
+   - reel: `instagramData.type: REEL`, `autoPublish: true`
+   - quiz stories: `instagramData.type: STORY`, `autoPublish: false`, no text, at the times in `stories`
    Before scheduling, `getScheduledPosts` for tomorrow so nothing is scheduled twice.
 7. Set `"status": "scheduled"` in the JSON, append the 3 subjects to `facts/used.md`, commit, push.
-8. Message Gartal a short summary: what posts at which time, any fallback used, and the **poll options**
-   table (question · the 3 options to type into the Poll sticker; answers are posted automatically).
+8. Message Gartal a short summary: what posts at which time, any fallback used, and the **poll table**
+   for the 5 stories (time · the 3 options to type into the Poll sticker). Answers appear automatically
+   on the next story.
 
 ## Weekly (Sunday evening task, add when ready)
 Pull Metricool analytics for the week; note best reel/card, best posting hours; adjust next week.

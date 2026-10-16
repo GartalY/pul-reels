@@ -74,12 +74,18 @@ def card(photo, out, c):
         d.text((60, y - 90), c["title"].replace("i", "İ").upper(),  # AZ dotted capital İ
                font=F("Black", 46), fill=GOLD)
     text_block(d, 60, y, c["text"], F("Bold", 58), WHITE, W - 120)
+    if c.get("swipe"):
+        sw = "Sürüşdür  →"; f = F("Black", 34); w = d.textlength(sw, font=f) + 56
+        d.rounded_rectangle([W - 60 - w, H - 74, W - 60, H - 74 + 62], 31, fill=GOLD)
+        d.text((W - 60 - w + 28, H - 74 + 12), sw, font=f, fill=INK)
     im.save(out, quality=92)
 
 # ---------- reel 1080x1920 ----------
 def reel(photo, out, c):
     W, H, FPS = 1080, 1920, 30
-    src = load(photo); dur = c.get("dur", 11.0)
+    src = load(photo)
+    beats = c.get("beats") or [c["fact"]]
+    dur = c.get("dur", 2.6 + 4.3 * len(beats) + 2.4)
     base = cover(src, W, H, cy=c.get("cy", 0.5)) if c.get("full", True) else fit_on_blur(src, W, H)
     tmp = tempfile.mkdtemp()
     hook_end = 2.6
@@ -100,9 +106,11 @@ def reel(photo, out, c):
                        fill=tuple(int(x * a) for x in GOLD))
         s = t - hook_end
         if s > 0:
-            a = ease(s / 0.5)
-            pill(d, 70, 1250, "BİLİRDİNİZMİ?", F("Black", 40), GOLD, INK) if a > 0.05 else None
-            text_block(d, 70, 1360 + (1 - a) * 40, c["fact"], F("Bold", 62), tuple(int(x * a) for x in WHITE), W - 140)
+            k = min(int(s // 4.3), len(beats) - 1); sb = s - k * 4.3
+            a = ease(sb / 0.5)
+            if k < len(beats) - 1: a *= 1 - ease((sb - 4.0) / 0.3)
+            pill(d, 70, 1180, "BİLİRDİNİZMİ?" if k == 0 else f"{k + 1}/{len(beats)}", F("Black", 40), GOLD, INK)
+            text_block(d, 70, 1290 + (1 - a) * 40, beats[k], F("Bold", 60), tuple(int(x * a) for x in WHITE), W - 140)
         if t > dur - 2.3:
             a = ease((t - (dur - 2.3)) / 0.4)
             msg = c.get("cta", "Hekayədə viktorina var — yoxla özünü!")
@@ -149,7 +157,79 @@ def answer(photo, out, c):
     d.text(((W - d.textlength(HANDLE, font=F("SemiBold", 36))) / 2, 1760), HANDLE, font=F("SemiBold", 36), fill=GOLD)
     im.save(out, quality=92)
 
+# ---------- carousel detail slide 1080x1350 ----------
+def slide(photo, out, c):
+    """c: {"i": 2, "n": 5, "h": heading/number, "t": text, "cy": ..}"""
+    W, H = 1080, 1350
+    im = cover(load(photo), W, H, cy=c.get("cy", 0.4)).filter(ImageFilter.GaussianBlur(14))
+    im = Image.blend(im, Image.new("RGB", (W, H), INK), 0.78)
+    d = ImageDraw.Draw(im)
+    pill(d, 60, 56, f"{c['i']}/{c['n']}", F("Black", 36), GOLD, INK)
+    d.text((W - 60 - d.textlength(HANDLE, font=F("SemiBold", 32)), 66), HANDLE, font=F("SemiBold", 32), fill=WHITE)
+    h = c["h"]; fh = F("Black", 150 if len(h) <= 9 else 84)
+    hl = wrap(d, h, fh, W - 120)
+    th = wrap(d, c["t"], F("Bold", 56), W - 120)
+    total = len(hl) * fh.size * 1.1 + 50 + len(th) * 56 * 1.25
+    y = (H - total) / 2
+    for ln in hl:
+        d.text((60, y), ln, font=fh, fill=GOLD); y += fh.size * 1.1
+    d.rectangle([60, y + 34, 180, y + 42], fill=GOLD)
+    y += 76
+    text_block(d, 60, y, c["t"], F("Bold", 56), WHITE, W - 120, lh=1.25)
+    if c["i"] < c["n"]:
+        sw = "→"; d.text((W - 60 - d.textlength(sw, font=F("Black", 60)), H - 110), sw, font=F("Black", 60), fill=GOLD)
+    im.save(out, quality=92)
+
+# ---------- carousel last slide ----------
+def outro(photo, out, c):
+    W, H = 1080, 1350
+    im = cover(load("none"), W, H); d = ImageDraw.Draw(im)
+    pill(d, 60, 56, f"{c['i']}/{c['n']}", F("Black", 36), GOLD, INK)
+    y = 430
+    for ln, f, col in [("Bunu bilirdin?", F("Black", 96), WHITE),
+                       ("Yadda saxla və", F("Bold", 60), (200, 204, 215)),
+                       ("bilməyən dostuna göndər", F("Bold", 60), (200, 204, 215))]:
+        d.text(((W - d.textlength(ln, font=f)) / 2, y), ln, font=f, fill=col); y += f.size * 1.35
+    y += 70
+    msg = "Hekayələrdə viktorina — yoxla özünü"; f = F("Bold", 42); w = d.textlength(msg, font=f) + 70
+    d.rounded_rectangle([(W - w) / 2, y, (W + w) / 2, y + 84], 42, fill=GOLD)
+    d.text(((W - w) / 2 + 35, y + 18), msg, font=f, fill=INK)
+    d.text(((W - d.textlength(HANDLE, font=F("Black", 54))) / 2, H - 200), HANDLE, font=F("Black", 54), fill=GOLD)
+    im.save(out, quality=92)
+
+# ---------- quiz story v2 1080x1920 (no giveaway photo, previous answer at the bottom) ----------
+CAT_COL = {"Tarix": (255, 160, 90), "Təbiət": (72, 214, 150), "Kosmos": (140, 150, 255), "Elm": (90, 200, 255),
+           "Coğrafiya": (255, 120, 160), "Texnologiya": (180, 140, 255), "Azərbaycan": (255, 196, 61)}
+def quizstory(photo, out, c):
+    """c: {"n":"2/5","cat":"Tarix","q":..,"prev":{"q":..,"a":..} | None, "recall": bool}"""
+    W, H = 1080, 1920
+    col = CAT_COL.get(c.get("cat"), GOLD)
+    im = Image.new("RGB", (W, H), INK); d = ImageDraw.Draw(im)
+    for r in range(1100, 0, -14):
+        a = (1 - r / 1100); d.ellipse([540 - r, 520 - r, 540 + r, 520 + r],
+                                      fill=tuple(int(INK[i] + (col[i] - INK[i]) * 0.22 * a) for i in range(3)))
+    pill(d, 70, 200, f"VİKTORİNA {c['n']}", F("Black", 42), GOLD, INK)
+    x = 70 + d.textlength(f"VİKTORİNA {c['n']}", font=F("Black", 42)) + 56 + 20
+    pill(d, x, 200, c.get("cat", "Fakt").upper().replace("I", "I"), F("Black", 42), col, INK)
+    if c.get("recall"):
+        d.text((70, 310), "Keçən paylaşımlarımızdan", font=F("SemiBold", 40), fill=(200, 204, 215))
+    y = text_block(d, 70, 380, c["q"], F("Black", 80), WHITE, W - 140, lh=1.15)
+    hint = "Cavabı seç ↓"
+    d.text(((W - d.textlength(hint, font=F("SemiBold", 48))) / 2, y + 50), hint, font=F("SemiBold", 48), fill=GOLD)
+    # poll sticker goes in the free band below the hint (≈ y+150 … 1440)
+    if c.get("prev"):
+        p = c["prev"]; top = 1470
+        d.rounded_rectangle([70, top, W - 70, top + 250], 36, fill=(28, 34, 50))
+        d.text((110, top + 30), "ƏVVƏLKİ SUALIN CAVABI", font=F("Black", 32), fill=(72, 214, 150))
+        qq = wrap(d, p["q"], F("SemiBold", 36), W - 220)[0]
+        if len(wrap(d, p["q"], F("SemiBold", 36), W - 220)) > 1: qq = qq.rstrip(" ,.") + "…"
+        d.text((110, top + 82), qq, font=F("SemiBold", 36), fill=(200, 204, 215))
+        d.text((110, top + 140), "✓ " + p["a"], font=F("Black", 62), fill=WHITE)
+    d.text(((W - d.textlength(HANDLE, font=F("SemiBold", 36))) / 2, 1790), HANDLE, font=F("SemiBold", 36), fill=GOLD)
+    im.save(out, quality=92)
+
 if __name__ == "__main__":
     kind, photo, out, cfg = sys.argv[1], sys.argv[2], sys.argv[3], json.loads(sys.argv[4])
-    dict(card=card, reel=reel, story=story, answer=answer)[kind](photo, out, cfg)
+    dict(card=card, reel=reel, story=story, answer=answer, slide=slide, outro=outro,
+         quizstory=quizstory)[kind](photo, out, cfg)
     print(out)

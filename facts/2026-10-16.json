@@ -99,5 +99,37 @@
   "checked": "2026-10-16 09:15 Asia/Baku",
   "result": "no swap",
   "why": "Top stories: Peshawar school roof collapse (tragedy - skip), WHO lead-exposure call, UBS/IMF business, Mbappe youngest to 100 UCL games (minor), SpaceX classified launch. Azerbaijan: budget 2027 / politics (excluded). Nothing big and safe enough to replace a planned post."
- }
+ },
+ "stories": [
+  {
+   "time": "14:00",
+   "q": "İlk mexaniki neft quyusu harada qazılıb?",
+   "options": [
+    "Texas",
+    "Bakı",
+    "Səudiyyə Ərəbistanı"
+   ],
+   "answer": "Bakı"
+  },
+  {
+   "time": "19:30",
+   "q": "Eyfel qülləsi yayda nə qədər hündürləşir?",
+   "options": [
+    "1 mm",
+    "15 sm",
+    "2 m"
+   ],
+   "answer": "15 sm-ə qədər"
+  },
+  {
+   "time": "22:30",
+   "q": "Ahtapotun neçə ürəyi var?",
+   "options": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": "3"
+  }
+ ]
 }

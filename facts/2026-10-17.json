@@ -8,22 +8,61 @@
    "subject": "Diomede Islands",
    "photo_request": "Diomed adaları (Böyük və Kiçik Diomed, Berinq boğazı)",
    "title": "Diomed adaları",
-   "text": "Rusiya və ABŞ arasında cəmi 3,8 km var: Böyük Diomed (Rusiya) və Kiçik Diomed (ABŞ) adaları. Amma aralarında təxminən bir sutka — 20-21 saat vaxt fərqi var.",
+   "text": "Rusiya ilə ABŞ arasında cəmi 3,8 km var. Amma bu 3,8 km-də demək olar ki, bir sutka vaxt fərqi var.",
    "caption": "3,8 km məsafə, demək olar ki, bir sutka fərq ⏰\n\nBerinq boğazında iki ada var: Böyük Diomed Rusiyaya, Kiçik Diomed ABŞ-a aiddir. Aralarından Beynəlxalq Tarix Xətti keçir: Alyaskada yay vaxtı olanda fərq 20 saat, qışda isə 21 saatdır. Birindən o birinə baxanda sözün əsl mənasında \"sabahı\" görürsən.\n\nOnlara \"Sabah adası\" və \"Dünən adası\" da deyirlər. Bunu bilirdin? 👇\n\n#bilirdinizmi #maraqlıfaktlar #faktlar #coğrafiya #rusiya #abş",
-   "quiz": {
-    "q": "Diomed adaları arasında vaxt fərqi nə qədərdir?",
-    "options": [
-     "1 saat",
-     "12 saat",
-     "Təxminən 1 sutka"
-    ],
-    "answer": "Təxminən 1 sutka",
-    "why": "Aralarından Tarix Xətti keçir: yayda 20, qışda 21 saat fərq."
-   },
    "sources": [
     "https://en.wikipedia.org/wiki/Diomede_Islands",
     "https://geographyrealm.com/separated-by-2-4-miles-and-21-hours",
-    "https://www.snopes.com/fact-check/russia-alaska-diomedes"
+    "https://www.snopes.com/fact-check/russia-alaska-diomedes",
+    "https://en.wikipedia.org/wiki/Lynne_Cox"
+   ],
+   "cat": "Coğrafiya",
+   "slides": [
+    {
+     "h": "3,8 km",
+     "t": "Berinq boğazında iki ada: Böyük Diomed Rusiyanın, Kiçik Diomed ABŞ-ın (Alyaska) ərazisidir. Aralarından həm sərhəd, həm də Beynəlxalq Tarix Xətti keçir."
+    },
+    {
+     "h": "20–21 saat",
+     "t": "Kiçik Diomeddən baxanda qarşı sahildə artıq sabahdır. Ona görə adalara «Sabah adası» və «Dünən adası» deyirlər."
+    },
+    {
+     "h": "0 sakin",
+     "t": "Böyük Diomeddə mülki əhali yoxdur: 1948-ci ildə orada Sovet hərbi bazası qurulanda yerli sakinlər materikə köçürülüb. Kiçik Diomeddə isə təxminən 77 nəfər yaşayır."
+    },
+    {
+     "h": "2 saat 6 dəq.",
+     "t": "1987-ci ildə amerikalı üzgüçü Lynne Cox 6–7 °C suda bir adadan o birinə üzdü. Qorbaçov sonra dedi: o, xalqlarımızın bir-birinə nə qədər yaxın yaşadığını sübut etdi."
+    }
+   ],
+   "quizzes": [
+    {
+     "q": "Böyük Diomed adasında neçə mülki sakin yaşayır?",
+     "options": [
+      "0",
+      "Təxminən 80",
+      "Təxminən 1 000"
+     ],
+     "answer": "0"
+    },
+    {
+     "q": "Lynne Cox iki ada arasını təxminən neçə saata üzüb?",
+     "options": [
+      "2 saat",
+      "8 saat",
+      "20 saat"
+     ],
+     "answer": "2 saat"
+    },
+    {
+     "q": "Diomed adaları arasında vaxt fərqi nə qədərdir?",
+     "options": [
+      "1 saat",
+      "12 saat",
+      "Təxminən 1 sutka"
+     ],
+     "answer": "Təxminən 1 sutka"
+    }
    ]
   },
   {
@@ -32,21 +71,58 @@
    "subject": "Everest marine fossils",
    "photo_request": "Everest dağı",
    "title": "Everest",
-   "text": "Everestin zirvəsindəki daşlar bir vaxtlar okeanın dibi olub. Orada ~470 milyon illik dəniz canlılarının fosilləri tapılıb.",
+   "text": "Dünyanın ən hündür nöqtəsi əslində qədim okeanın dibidir. Everestin zirvəsindəki daşda dəniz canlılarının fosilləri var.",
    "caption": "Dünyanın zirvəsi — keçmişin okean dibi 🏔️\n\nEverestin ən üst qatı dəniz əhəngdaşından ibarətdir. İçində trilobit və dəniz zanbağı kimi qədim dəniz canlılarının fosilləri var. Hindistan Asiyaya toqquşanda okean dibi 8 849 metrə qədər qalxıb.\n\nBunu bilirdin? 👇\n\n#bilirdinizmi #maraqlıfaktlar #faktlar #everest #geologiya #elm",
-   "quiz": {
-    "q": "Everestin zirvəsində hansı fosillər tapılıb?",
-    "options": [
-     "Dinozavr",
-     "Dəniz canlıları",
-     "Mamont"
-    ],
-    "answer": "Dəniz canlıları",
-    "why": "Zirvədəki əhəngdaşı qədim okean dibidir; içində dəniz canlılarının fosilləri var."
-   },
    "sources": [
-    "https://www.denver7.com/why-are-there-marine-fossils-top-mt-everest",
     "https://montana.edu/everest/facts/summit-limestone.html"
+   ],
+   "cat": "Elm",
+   "slides": [
+    {
+     "h": "470 milyon il",
+     "t": "Zirvədəki boz əhəngdaşı təxminən 470 milyon il əvvəl dənizin dibində yaranıb. Geoloqlar ona «Qomolanqma əhəngdaşı» deyir."
+    },
+    {
+     "h": "Trilobitlər",
+     "t": "Daşın içində trilobit, braxiopod, ostrakod və dəniz zanbaqlarının qırıntıları var — hamısı okeanda yaşayan canlılardır."
+    },
+    {
+     "h": "Dinozavrlardan əvvəl",
+     "t": "Bu daşlar ilk dinozavrlardan təxminən 240 milyon il əvvəl yaranıb."
+    },
+    {
+     "h": "Necə qalxdı?",
+     "t": "Hindistan plitəsi Asiyaya toqquşanda okean dibi qırışaraq 8 849 metrə qalxdı. Bu toqquşma bu gün də davam edir."
+    }
+   ],
+   "quizzes": [
+    {
+     "q": "Everestin zirvəsindəki daşın yaşı təxminən nə qədərdir?",
+     "options": [
+      "47 min il",
+      "4,7 milyon il",
+      "470 milyon il"
+     ],
+     "answer": "470 milyon il"
+    },
+    {
+     "q": "Everestin zirvə daşında hansı canlının fosili var?",
+     "options": [
+      "Mamont",
+      "Trilobit",
+      "Dinozavr"
+     ],
+     "answer": "Trilobit"
+    },
+    {
+     "q": "Everesti hansı toqquşma qaldırıb?",
+     "options": [
+      "Hindistan və Asiya",
+      "Afrika və Avropa",
+      "Amerika və Asiya"
+     ],
+     "answer": "Hindistan və Asiya"
+    }
    ]
   },
   {
@@ -57,22 +133,48 @@
    "title": "Qrenlandiya köpəkbalığı",
    "text": "Qrenlandiya köpəkbalığı 400 ilə qədər yaşaya bilər — bu gün üzənlərin bəziləri Nyutonun dövründə doğulub. Yetkinləşməsi isə ~150 il çəkir.",
    "caption": "Ən uzun yaşayan onurğalı 🦈\n\n2016-cı ildə alimlər Qrenlandiya köpəkbalıqlarının göz lensini radiokarbon üsulu ilə tədqiq etdilər: ən yaşlısının ~400 yaşı ola bilər. Bu köpəkbalıqları ildə cəmi ~1 sm böyüyür və təxminən 150 yaşında yetkinləşir.\n\nTəsəvvür et: 1600-cü illərdə doğulub, hələ də okeanda üzür. 👇\n\n#bilirdinizmi #maraqlıfaktlar #faktlar #okean #heyvanlar #elm",
-   "quiz": {
-    "q": "Qrenlandiya köpəkbalığı nə qədər yaşaya bilər?",
-    "options": [
-     "50 il",
-     "150 il",
-     "400 il"
-    ],
-    "answer": "400 il",
-    "why": "2016-cı il tədqiqatı: göz lensinin radiokarbon analizi ~400 yaş göstərdi."
-   },
    "sources": [
     "https://news.mongabay.com/2016/08/400-year-old-greenland-shark-is-the-longest-living-vertebrate/",
-    "https://www.sci.news/biology/greenland-sharks-longest-lived-vertebrates-04099.html"
+    "https://www.sci.news/biology/greenland-sharks-longest-lived-vertebrates-04099.html",
+    "https://www.pbs.org/wgbh/nova/article/greenland-shark-is-officially-the-longest-living-vertebrate-on-earth"
    ],
    "reel_hook": "400 yaşlı köpəkbalığı?!",
-   "reel_fact": "Qrenlandiya köpəkbalığı 400 ilə qədər yaşaya bilər — bu gün üzənlərin bəziləri Nyutonun dövründə doğulub. Yetkinləşməsi isə ~150 il çəkir."
+   "reel_fact": "Qrenlandiya köpəkbalığı 400 ilə qədər yaşaya bilər — bu gün üzənlərin bəziləri Nyutonun dövründə doğulub. Yetkinləşməsi isə ~150 il çəkir.",
+   "cat": "Təbiət",
+   "reel_beats": [
+    "Qrenlandiya köpəkbalığı 400 ilə qədər yaşaya bilər — bu gün okeanda üzənlərin bəziləri Nyutonun dövründə doğulub.",
+    "Yaşını göz lensindən ölçürlər: alimlər 28 köpəkbalığının göz lensini radiokarbon üsulu ilə analiz ediblər. Ən yaşlısı təxminən 392 yaşında çıxıb.",
+    "İldə cəmi ~1 sm böyüyür və təxminən 150 yaşında yetkinləşir. Yəni 100 yaşında hələ «yeniyetmədir»."
+   ],
+   "quizzes": [
+    {
+     "q": "Qrenlandiya köpəkbalığının yaşını bədəninin hansı hissəsindən ölçürlər?",
+     "options": [
+      "Dişindən",
+      "Göz lensindən",
+      "Üzgəcindən"
+     ],
+     "answer": "Göz lensindən"
+    },
+    {
+     "q": "Ən yaşlı Qrenlandiya köpəkbalığı təxminən neçə yaşında hesablanıb?",
+     "options": [
+      "92",
+      "192",
+      "392"
+     ],
+     "answer": "392"
+    },
+    {
+     "q": "Qrenlandiya köpəkbalığı ildə təxminən nə qədər böyüyür?",
+     "options": [
+      "1 sm",
+      "10 sm",
+      "1 metr"
+     ],
+     "answer": "1 sm"
+    }
+   ]
   }
  ],
  "reverified": {
@@ -82,5 +184,78 @@
    "Everest: fossil age corrected ~450 -> ~470 million years (Montana State Univ.)",
    "Greenland shark: confirmed (392 y largest, ~1 cm/yr, maturity >=150 y)"
   ]
- }
+ },
+ "format": "v2",
+ "stories": [
+  {
+   "time": "11:00",
+   "fact_id": "2026-10-16-1",
+   "recall": true,
+   "cat": "Azərbaycan",
+   "q": "Bibiheybətdəki ilk mexaniki neft quyusu neçə metr dərinliyində idi?",
+   "options": [
+    "21",
+    "210",
+    "2 100"
+   ],
+   "answer": "21",
+   "image": "out/2026-10-17/q1.jpg"
+  },
+  {
+   "time": "14:00",
+   "fact_id": "2026-10-17-1",
+   "recall": false,
+   "cat": "Coğrafiya",
+   "q": "Böyük Diomed adasında neçə mülki sakin yaşayır?",
+   "options": [
+    "0",
+    "Təxminən 80",
+    "Təxminən 1 000"
+   ],
+   "answer": "0",
+   "image": "out/2026-10-17/q2.jpg"
+  },
+  {
+   "time": "16:30",
+   "fact_id": "2026-10-16-2",
+   "recall": true,
+   "cat": "Elm",
+   "q": "Eyfel qülləsi təxminən neçə ton dəmirdən ibarətdir?",
+   "options": [
+    "700",
+    "7 000",
+    "70 000"
+   ],
+   "answer": "7 000",
+   "image": "out/2026-10-17/q3.jpg"
+  },
+  {
+   "time": "19:30",
+   "fact_id": "2026-10-17-2",
+   "recall": false,
+   "cat": "Elm",
+   "q": "Everestin zirvəsindəki daşın yaşı təxminən nə qədərdir?",
+   "options": [
+    "47 min il",
+    "4,7 milyon il",
+    "470 milyon il"
+   ],
+   "answer": "470 milyon il",
+   "image": "out/2026-10-17/q4.jpg"
+  },
+  {
+   "time": "22:30",
+   "fact_id": "2026-10-17-3",
+   "recall": false,
+   "cat": "Təbiət",
+   "q": "Qrenlandiya köpəkbalığının yaşını bədəninin hansı hissəsindən ölçürlər?",
+   "options": [
+    "Dişindən",
+    "Göz lensindən",
+    "Üzgəcindən"
+   ],
+   "answer": "Göz lensindən",
+   "image": "out/2026-10-17/q5.jpg"
+  }
+ ]
 }

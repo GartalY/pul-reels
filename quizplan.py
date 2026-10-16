@@ -14,7 +14,8 @@ import json, os, random, subprocess, sys
 from datetime import date, timedelta
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
-SLOTS = [("11:00", "recall"), ("14:00", 0), ("16:30", "recall"), ("19:30", 1), ("22:30", 2)]
+SLOTS = [("11:00", "recall"), ("14:00", 0), ("16:30", "recall"), ("19:30", 1), ("22:30", 2)]   # 3 facts (v2)
+SLOTS_V3 = [("11:00", "recall"), ("14:00", 0), ("17:00", 1), ("19:30", 2), ("22:30", 3)]   # 4 facts (v3, from 2026-10-19)
 
 def load(p, default=None):
     p = os.path.join(ROOT, p)
@@ -56,7 +57,8 @@ def main():
         recall_pool += [by_id[f"{D}-{f['n']}"] for f in day["facts"]][: 2 - len(recall_pool)]
 
     stories, ri = [], 0
-    for t, src in SLOTS:
+    slots = SLOTS_V3 if len(day["facts"]) >= 4 else SLOTS
+    for t, src in slots:
         e = recall_pool[ri] if src == "recall" else by_id[f"{D}-{day['facts'][src]['n']}"]
         if src == "recall": ri += 1
         qi = next_q(e)

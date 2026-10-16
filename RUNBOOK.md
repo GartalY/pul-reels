@@ -15,7 +15,19 @@ Instagram facts page in **Azerbaijani**, run by Claude. Owner: Gartal (gartalyus
 2. Load Metricool tools (`ToolSearch "+Metricool"`) and Google Drive tools (`ToolSearch "+Google_Drive"`).
 3. Commit with `git -c user.email=noreply@anthropic.com -c user.name=Claude` and push to `main`.
 
-## Daily volume and times — FORMAT v2 (from 2026-10-17, Gartal's request 2026-10-16)
+## Daily volume and times — FORMAT v3 (from 2026-10-19, decided 2026-10-16): 5 posts + 5 quizzes
+Feed posts (all automatic):
+- 10:00 — "Tarixdə bu gün" CAROUSEL (`history` in the JSON; cover = date + year, 2–3 detail slides, outro)
+  + the same-day 10:00 story (section H)
+- 13:00 — facts[0]: CAROUSEL            · 16:00 — facts[1]: REEL (3 beats)
+- 18:30 — facts[2]: CAROUSEL = evergreen backup, replaced by the TREND post (section D)
+- 21:30 — facts[3]: REEL (3 beats, the most surprising fact of the day)
+Quiz stories (automatic, printed options, answer +10 min): 11:00 recall · 14:00 facts[0] · 17:00 facts[1]
+· 19:30 facts[2]/trend · 22:30 facts[3]  (quizplan.py picks these slots automatically when there are 4 facts).
+So the morning task picks FOUR facts (2 carousels + 2 reels) plus the `history` event for tomorrow.
+Ramp: if the weekly review shows reach per post falling sharply, step back to 4 posts.
+
+## (previous) FORMAT v2 — used 2026-10-17 and 2026-10-18 (from 2026-10-17, Gartal's request 2026-10-16)
 3 posts + 5 quiz stories a day. No separate answer stories any more.
 - 13:00 — Post 1: CAROUSEL (photo 1)      · 18:30 — Post 2: CAROUSEL (photo 2)
 - 21:30 — Post 3: REEL with 3 beats (photo 3, the most surprising fact)
@@ -73,7 +85,7 @@ he worked in a factory" + the details. Slot: the **18:30 carousel**.
   only if nothing usable exists.
 - 15:23 (midday task): build the trend carousel (photo `T` or the `none` fallback), push, replace the 18:30
   post in Metricool (`updateScheduledPost`, keep the time), put the backup fact into a later day, then
-  replace `facts[1]` with the trend fact in the JSON, re-run `quizplan.py <today>` and update ONLY the
+  replace the 18:30 fact (`facts[1]` in v2, `facts[2]` in v3) with the trend fact in the JSON, re-run `quizplan.py <today>` and update ONLY the
   19:30 quiz story AND its 19:40 answer story in Metricool (earlier ones may already be live).
 - If the trend story breaks after 15:23, it can still go into tomorrow's 13:00 slot.
 
@@ -122,7 +134,9 @@ Goal: keep up with the real world. Before doing the main task, search the news (
 1. Read `facts/used.md` so no topic repeats.
 2. Pick 3 facts for TOMORROW: mix categories (history, animals/nature, space, science, human body,
    geography/places, inventions, famous people, Azerbaijan when good). Each must have a clear, iconic
-   subject that a photo can show. Fact 3 must be the most surprising one (it becomes the 21:30 reel).
+   subject that a photo can show. v3 (from 2026-10-19): FOUR facts — facts[0] carousel, facts[1] reel,
+   facts[2] carousel (trend backup), facts[3] reel = the most surprising one — plus `history` (section H)
+   with title/text/slides/caption/quizzes like a carousel fact. (v2 days had 3 facts.)
 2b. **Quality bar (Gartal, 2026-10-15): no widely known trivia** ("sharks older than trees", "honey never
    spoils", "octopus 3 hearts"-level is too common). Prefer specific, surprising facts with a number, a date or a
    twist, that most people have NOT heard. Include an Azerbaijan/Baku angle about 1–2 times a week when it is
@@ -154,7 +168,9 @@ Goal: keep up with the real world. Before doing the main task, search the news (
      `factgen.py card <photoK> out/D/K_1.jpg '{"title":..,"text":..,"cy":..,"swipe":true}'`
      `factgen.py slide <photoK> out/D/K_<i>.jpg '{"i":i,"n":N,"h":..,"t":..,"cy":..}'` for i = 2..N-1
      `factgen.py outro none out/D/K_<N>.jpg '{"i":N,"n":N}'`
-   - Reel for fact 3: `factgen.py reel <photo3> out/D/3_reel.mp4 '{"hook":..,"beats":[..],"seed":<day>,"cy":..}'`
+   - Reels (v2: fact 3; v3: facts[1] and facts[3]): `factgen.py reel <photo> out/D/<n>_reel.mp4 '{"hook":..,"beats":[..],"seed":<day>,"cy":..}'`
+   - v3: the 10:00 "Tarixdə bu gün" carousel from `history` (cover via `card` with title like
+     "17 OKTYABR 1956", then `slide`s and `outro`), plus the 10:00 story via `todaystory` (section H).
    - Quiz stories: `python3 quizplan.py D` (renders out/D/q1..q5.jpg with printed options + q1_a..q5_a.jpg answers, writes `stories` into the JSON and
      updates facts/db.json). Safe to re-run.
      No emoji in image text — the font can't draw them.

@@ -3,7 +3,8 @@
 Instagram facts page in **Azerbaijani**, run by Claude. Owner: Gartal (gartalyusifov@gmail.com).
 
 ## Fixed IDs
-- Metricool brand / blogId: **7443266** (Instagram `bilirdinizmi_az`, timezone Asia/Baku)
+- Metricool brand / blogId: **7443266** (Instagram `bilirdinizmi_az`, timezone Asia/Baku). Plan: Starter 5 (€20/mo,
+  unlimited publishing) since 2026-10-16, renews monthly on the 16th.
 - GitHub repo: **GartalY/pul-reels** (public; media served from
   `https://raw.githubusercontent.com/GartalY/pul-reels/main/<path>`)
 - Google Drive photo folder: **"Bilirdinizmi - Şəkillər"**, id `1IWpjrwR5xiL5GKJAQpIE1nKLT511z_7a`

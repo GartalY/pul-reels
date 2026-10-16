@@ -136,6 +136,12 @@ Goal: keep up with the real world. Before doing the main task, search the news (
    - reel: `instagramData.type: REEL`, `autoPublish: true`
    - quiz stories: `instagramData.type: STORY`, `autoPublish: false`, no text, at the times in `stories`,
      `media` = [question image URL, answer image URL]
+   Order: carousels and reel FIRST, then quiz stories (posts matter more if a limit is hit).
+   If Metricool refuses because of a plan/post limit, do NOT retry in a loop: list every unscheduled item
+   under `pending_schedule` in the JSON (type, time, media URLs, text, first comment) and tell Gartal in the
+   first line: "Metricool limit reached — upgrade to Starter; N posts are waiting". Every later run
+   (09:10, 15:23, 20:45) first retries `pending_schedule` for today/tomorrow and clears what succeeds
+   (skip items whose time has passed).
    Before scheduling, `getScheduledPosts` for tomorrow AND check `metricool` in the JSON — skip any slot
    that is already scheduled, so nothing is scheduled twice. Record every new post ID under `metricool`.
 7. Set `"status": "scheduled"` in the JSON, append the 3 subjects to `facts/used.md`, commit, push.

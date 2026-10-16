@@ -69,9 +69,10 @@
    ],
    "first_comment": "Sən hansı adada yaşamaq istərdin — Sabah, yoxsa Dünən? 👇",
    "photo": {
-    "path": "fetch/img/2026-10-17_1_diomede.jpg",
+    "path": "fetch/img/2026-10-17_1_diomede_pad.jpg",
     "credit": "NASA (ASTER)",
-    "cy": 0.5
+    "cy": 0.5,
+    "note": "padded to 4:5 so both islands show"
    }
   },
   {
@@ -249,17 +250,17 @@
   },
   {
    "time": "16:30",
-   "fact_id": "2026-10-16-2",
+   "fact_id": "2026-10-16-T",
    "recall": true,
-   "cat": "Elm",
-   "q": "Eyfel qülləsi təxminən neçə ton dəmirdən ibarətdir?",
+   "cat": "Texnologiya",
+   "q": "Kosmosdakı Roadster Günəşi neçə günə dövr edir?",
    "options": [
-    "700",
-    "7 000",
-    "70 000"
+    "365 gün",
+    "557 gün",
+    "1000 gün"
    ],
-   "answer": "7 000",
-   "why": "Qüllənin metal konstruksiyası təxminən 7 300 tondur.",
+   "answer": "557 gün",
+   "why": "Starman-lı Roadster 2018-dən bəri Günəş ətrafında təxminən 1,5 ildə bir dövrə vurur.",
    "image": "out/2026-10-17/q3.jpg",
    "answer_image": "out/2026-10-17/q3_a.jpg"
   },
@@ -298,5 +299,6 @@
  ],
  "metricool": {
   "11:00 quiz q1+answer": 397612661
- }
+ },
+ "quiz_fix": "16:30 recall changed from Eiffel Tower (never posted: replaced by the 16 Oct trend) to the posted Tesla/Starman trend fact; db.json: Eiffel entry removed (it returns when posted), trend added as 2026-10-16-T"
 }

@@ -31,40 +31,6 @@
    ]
   },
   {
-   "id": "2026-10-16-2",
-   "date": "2026-10-16",
-   "subject": "Eiffel Tower",
-   "cat": "Elm",
-   "asked": [
-    {
-     "date": "2026-10-17",
-     "qi": 0
-    }
-   ],
-   "quizzes": [
-    {
-     "q": "Eyfel qülləsi təxminən neçə ton dəmirdən ibarətdir?",
-     "options": [
-      "700",
-      "7 000",
-      "70 000"
-     ],
-     "answer": "7 000",
-     "why": "Qüllənin metal konstruksiyası təxminən 7 300 tondur."
-    },
-    {
-     "q": "Eyfel qülləsi yayda nə qədər hündürləşir?",
-     "options": [
-      "1 sm",
-      "15 sm",
-      "1 metr"
-     ],
-     "answer": "15 sm",
-     "why": "İstidə dəmir genişlənir — qüllə 15 sm-ə qədər uzanır."
-    }
-   ]
-  },
-  {
    "id": "2026-10-16-3",
    "date": "2026-10-16",
    "subject": "Octopus",
@@ -256,6 +222,44 @@
     {
      "date": "2026-10-17",
      "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-16-T",
+   "date": "2026-10-16",
+   "subject": "Tesla Roadster unveil (flying) / Starman Roadster in space",
+   "cat": "Texnologiya",
+   "quizzes": [
+    {
+     "q": "Yeni Tesla Roadster nə ilə havaya qalxır?",
+     "options": [
+      "Raket yanacağı",
+      "Sıxılmış hava",
+      "Pervanələr"
+     ],
+     "answer": "Sıxılmış hava",
+     "why": "Tesla-ya görə, SpaceX ilə birgə hazırlanan itələyicilər yanacaq yox, sıxılmış hava üfürür."
+    },
+    {
+     "q": "Kosmosdakı Roadster Günəşi neçə günə dövr edir?",
+     "options": [
+      "365 gün",
+      "557 gün",
+      "1000 gün"
+     ],
+     "answer": "557 gün",
+     "why": "Starman-lı Roadster 2018-dən bəri Günəş ətrafında təxminən 1,5 ildə bir dövrə vurur."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-16",
+     "qi": 0
+    },
+    {
+     "date": "2026-10-17",
+     "qi": 1
     }
    ]
   }

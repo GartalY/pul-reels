@@ -276,5 +276,8 @@
    "image": "out/2026-10-17/q5.jpg",
    "answer_image": "out/2026-10-17/q5_a.jpg"
   }
- ]
+ ],
+ "metricool": {
+  "11:00 quiz q1+answer": 397612661
+ }
 }

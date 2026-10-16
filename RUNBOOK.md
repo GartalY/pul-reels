@@ -104,9 +104,8 @@ Goal: keep up with the real world. Before doing the main task, search the news (
 
 ## A. Morning task (09:10) — pick tomorrow's facts
 0. If `facts/YYYY-MM-DD.json` for TOMORROW already exists (status `planned`), do NOT pick new facts:
-   make sure the Drive subfolder exists, check which photos (1, 2, 3) are already uploaded, and message Gartal
-   (from 2026-10-16: find the photos yourself per section P and record `photo` on each fact; only ask Gartal
-   for what you truly can't find)  If that file has no `"format": "v2"`,
+   find any missing photos yourself (section P) and record `photo` on each fact; ask Gartal only for what you
+   truly can't find. If that file has no `"format": "v2"`,
    first UPGRADE it: add `cat`, `slides` (cards) / `reel_beats` (reel) and `quizzes` per the content rules
    v2, verifying every new detail; set `"format": "v2"`. Then stop.
 1. Read `facts/used.md` so no topic repeats.

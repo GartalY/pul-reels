@@ -15,7 +15,8 @@
       "Hindistan",
       "Çin"
      ],
-     "answer": "Hindistan"
+     "answer": "Hindistan",
+     "why": "E.ə. 326-cı ildə İskəndərin ordusu Hindistana çatdı."
     },
     {
      "q": "Makedoniyalı İskəndər neçə yaşında taxta çıxıb?",
@@ -24,7 +25,8 @@
       "20",
       "25"
      ],
-     "answer": "20"
+     "answer": "20",
+     "why": "E.ə. 336-cı ildə, cəmi 20 yaşında."
     }
    ]
   },
@@ -47,7 +49,8 @@
       "7 000",
       "70 000"
      ],
-     "answer": "7 000"
+     "answer": "7 000",
+     "why": "Qüllənin metal konstruksiyası təxminən 7 300 tondur."
     },
     {
      "q": "Eyfel qülləsi yayda nə qədər hündürləşir?",
@@ -56,7 +59,8 @@
       "15 sm",
       "1 metr"
      ],
-     "answer": "15 sm"
+     "answer": "15 sm",
+     "why": "İstidə dəmir genişlənir — qüllə 15 sm-ə qədər uzanır."
     }
    ]
   },
@@ -74,7 +78,8 @@
       "Mis",
       "Sink"
      ],
-     "answer": "Mis"
+     "answer": "Mis",
+     "why": "Oksigeni mis əsaslı hemosianin daşıyır, ona görə qanı mavidir."
     },
     {
      "q": "Ahtapotun neçə ürəyi var?",
@@ -83,7 +88,8 @@
       "3",
       "4"
      ],
-     "answer": "3"
+     "answer": "3",
+     "why": "İki ürək qanı qəlsəmələrə, biri bütün bədənə vurur."
     }
    ]
   },
@@ -106,7 +112,8 @@
       "210",
       "2 100"
      ],
-     "answer": "21"
+     "answer": "21",
+     "why": "1846-cı ildə qazılan quyu cəmi 21 metr idi — bugünkü quyular kilometrlərlə dərindir."
     },
     {
      "q": "Bibiheybət quyusu Amerikadakı Dreyk quyusundan neçə il əvvəl qazılıb?",
@@ -115,7 +122,8 @@
       "13",
       "30"
      ],
-     "answer": "13"
+     "answer": "13",
+     "why": "Bibiheybət 1846, Dreyk quyusu 1859 — fərq 13 il."
     }
    ]
   },
@@ -132,7 +140,8 @@
       "Təxminən 80",
       "Təxminən 1 000"
      ],
-     "answer": "0"
+     "answer": "0",
+     "why": "1948-ci ildə yerli sakinlər köçürülüb; adada yalnız hərbçilər var."
     },
     {
      "q": "Lynne Cox iki ada arasını təxminən neçə saata üzüb?",
@@ -141,7 +150,8 @@
       "8 saat",
       "20 saat"
      ],
-     "answer": "2 saat"
+     "answer": "2 saat",
+     "why": "1987-ci ildə 6–7 °C suda 2 saat 6 dəqiqəyə."
     },
     {
      "q": "Diomed adaları arasında vaxt fərqi nə qədərdir?",
@@ -150,7 +160,8 @@
       "12 saat",
       "Təxminən 1 sutka"
      ],
-     "answer": "Təxminən 1 sutka"
+     "answer": "Təxminən 1 sutka",
+     "why": "Aralarından Tarix Xətti keçir: yayda 20, qışda 21 saat."
     }
    ],
    "asked": [
@@ -173,7 +184,8 @@
       "4,7 milyon il",
       "470 milyon il"
      ],
-     "answer": "470 milyon il"
+     "answer": "470 milyon il",
+     "why": "Zirvə daşı ~470 milyon il əvvəl okean dibində yaranıb."
     },
     {
      "q": "Everestin zirvə daşında hansı canlının fosili var?",
@@ -182,7 +194,8 @@
       "Trilobit",
       "Dinozavr"
      ],
-     "answer": "Trilobit"
+     "answer": "Trilobit",
+     "why": "Trilobitlər — 470 milyon il əvvəl dənizdə yaşayan canlılar."
     },
     {
      "q": "Everesti hansı toqquşma qaldırıb?",
@@ -191,7 +204,8 @@
       "Afrika və Avropa",
       "Amerika və Asiya"
      ],
-     "answer": "Hindistan və Asiya"
+     "answer": "Hindistan və Asiya",
+     "why": "Hindistan plitəsi Asiyaya toqquşub və bu gün də itələyir."
     }
    ],
    "asked": [
@@ -214,7 +228,8 @@
       "Göz lensindən",
       "Üzgəcindən"
      ],
-     "answer": "Göz lensindən"
+     "answer": "Göz lensindən",
+     "why": "Göz lensinin mərkəzi doğulduğu andan dəyişmir — radiokarbonla yaş ölçülür."
     },
     {
      "q": "Ən yaşlı Qrenlandiya köpəkbalığı təxminən neçə yaşında hesablanıb?",
@@ -223,7 +238,8 @@
       "192",
       "392"
      ],
-     "answer": "392"
+     "answer": "392",
+     "why": "2016-cı il tədqiqatında ən yaşlısı ~392 yaş çıxıb."
     },
     {
      "q": "Qrenlandiya köpəkbalığı ildə təxminən nə qədər böyüyür?",
@@ -232,7 +248,8 @@
       "10 sm",
       "1 metr"
      ],
-     "answer": "1 sm"
+     "answer": "1 sm",
+     "why": "İldə cəmi ~1 sm — ona görə yetkinləşməsi ~150 il çəkir."
     }
    ],
    "asked": [

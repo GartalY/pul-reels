@@ -228,8 +228,34 @@ def quizstory(photo, out, c):
     d.text(((W - d.textlength(HANDLE, font=F("SemiBold", 36))) / 2, 1790), HANDLE, font=F("SemiBold", 36), fill=GOLD)
     im.save(out, quality=92)
 
+# ---------- answer card shown right after the quiz story (same notification) ----------
+def answerstory(photo, out, c):
+    """c: {"n":"2/5","cat":..,"q":..,"a":..,"why":..}"""
+    W, H = 1080, 1920
+    col = CAT_COL.get(c.get("cat"), GOLD); GREEN = (72, 214, 150)
+    im = Image.new("RGB", (W, H), INK); d = ImageDraw.Draw(im)
+    for r in range(1100, 0, -14):
+        a = (1 - r / 1100); d.ellipse([540 - r, 760 - r, 540 + r, 760 + r],
+                                      fill=tuple(int(INK[i] + (GREEN[i] - INK[i]) * 0.2 * a) for i in range(3)))
+    pill(d, 70, 200, f"CAVAB {c['n']}", F("Black", 42), GREEN, INK)
+    x = 70 + d.textlength(f"CAVAB {c['n']}", font=F("Black", 42)) + 56 + 20
+    pill(d, x, 200, c.get("cat", "Fakt").upper(), F("Black", 42), col, INK)
+    y = text_block(d, 70, 360, c["q"], F("Bold", 56), (200, 204, 215), W - 140)
+    fa = F("Black", 104 if len(c["a"]) <= 12 else 76)
+    al = wrap(d, "✓ " + c["a"], fa, W - 220)
+    bh = len(al) * fa.size * 1.15 + 110
+    d.rounded_rectangle([70, y + 60, W - 70, y + 60 + bh], 44, fill=GREEN)
+    yy = y + 60 + 55
+    for ln in al:
+        d.text(((W - d.textlength(ln, font=fa)) / 2, yy), ln, font=fa, fill=INK); yy += fa.size * 1.15
+    text_block(d, 70, y + 60 + bh + 70, c.get("why", ""), F("SemiBold", 54), WHITE, W - 140, lh=1.25)
+    msg = "Sən düz tapdın?"
+    d.text(((W - d.textlength(msg, font=F("Black", 60))) / 2, 1600), msg, font=F("Black", 60), fill=GOLD)
+    d.text(((W - d.textlength(HANDLE, font=F("SemiBold", 36))) / 2, 1790), HANDLE, font=F("SemiBold", 36), fill=GOLD)
+    im.save(out, quality=92)
+
 if __name__ == "__main__":
     kind, photo, out, cfg = sys.argv[1], sys.argv[2], sys.argv[3], json.loads(sys.argv[4])
     dict(card=card, reel=reel, story=story, answer=answer, slide=slide, outro=outro,
-         quizstory=quizstory)[kind](photo, out, cfg)
+         quizstory=quizstory, answerstory=answerstory)[kind](photo, out, cfg)
     print(out)

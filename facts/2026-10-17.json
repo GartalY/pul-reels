@@ -43,7 +43,8 @@
       "Təxminən 80",
       "Təxminən 1 000"
      ],
-     "answer": "0"
+     "answer": "0",
+     "why": "1948-ci ildə yerli sakinlər köçürülüb; adada yalnız hərbçilər var."
     },
     {
      "q": "Lynne Cox iki ada arasını təxminən neçə saata üzüb?",
@@ -52,7 +53,8 @@
       "8 saat",
       "20 saat"
      ],
-     "answer": "2 saat"
+     "answer": "2 saat",
+     "why": "1987-ci ildə 6–7 °C suda 2 saat 6 dəqiqəyə."
     },
     {
      "q": "Diomed adaları arasında vaxt fərqi nə qədərdir?",
@@ -61,7 +63,8 @@
       "12 saat",
       "Təxminən 1 sutka"
      ],
-     "answer": "Təxminən 1 sutka"
+     "answer": "Təxminən 1 sutka",
+     "why": "Aralarından Tarix Xətti keçir: yayda 20, qışda 21 saat."
     }
    ]
   },
@@ -103,7 +106,8 @@
       "4,7 milyon il",
       "470 milyon il"
      ],
-     "answer": "470 milyon il"
+     "answer": "470 milyon il",
+     "why": "Zirvə daşı ~470 milyon il əvvəl okean dibində yaranıb."
     },
     {
      "q": "Everestin zirvə daşında hansı canlının fosili var?",
@@ -112,7 +116,8 @@
       "Trilobit",
       "Dinozavr"
      ],
-     "answer": "Trilobit"
+     "answer": "Trilobit",
+     "why": "Trilobitlər — 470 milyon il əvvəl dənizdə yaşayan canlılar."
     },
     {
      "q": "Everesti hansı toqquşma qaldırıb?",
@@ -121,7 +126,8 @@
       "Afrika və Avropa",
       "Amerika və Asiya"
      ],
-     "answer": "Hindistan və Asiya"
+     "answer": "Hindistan və Asiya",
+     "why": "Hindistan plitəsi Asiyaya toqquşub və bu gün də itələyir."
     }
    ]
   },
@@ -154,7 +160,8 @@
       "Göz lensindən",
       "Üzgəcindən"
      ],
-     "answer": "Göz lensindən"
+     "answer": "Göz lensindən",
+     "why": "Göz lensinin mərkəzi doğulduğu andan dəyişmir — radiokarbonla yaş ölçülür."
     },
     {
      "q": "Ən yaşlı Qrenlandiya köpəkbalığı təxminən neçə yaşında hesablanıb?",
@@ -163,7 +170,8 @@
       "192",
       "392"
      ],
-     "answer": "392"
+     "answer": "392",
+     "why": "2016-cı il tədqiqatında ən yaşlısı ~392 yaş çıxıb."
     },
     {
      "q": "Qrenlandiya köpəkbalığı ildə təxminən nə qədər böyüyür?",
@@ -172,7 +180,8 @@
       "10 sm",
       "1 metr"
      ],
-     "answer": "1 sm"
+     "answer": "1 sm",
+     "why": "İldə cəmi ~1 sm — ona görə yetkinləşməsi ~150 il çəkir."
     }
    ]
   }
@@ -199,7 +208,9 @@
     "2 100"
    ],
    "answer": "21",
-   "image": "out/2026-10-17/q1.jpg"
+   "why": "1846-cı ildə qazılan quyu cəmi 21 metr idi — bugünkü quyular kilometrlərlə dərindir.",
+   "image": "out/2026-10-17/q1.jpg",
+   "answer_image": "out/2026-10-17/q1_a.jpg"
   },
   {
    "time": "14:00",
@@ -213,7 +224,9 @@
     "Təxminən 1 000"
    ],
    "answer": "0",
-   "image": "out/2026-10-17/q2.jpg"
+   "why": "1948-ci ildə yerli sakinlər köçürülüb; adada yalnız hərbçilər var.",
+   "image": "out/2026-10-17/q2.jpg",
+   "answer_image": "out/2026-10-17/q2_a.jpg"
   },
   {
    "time": "16:30",
@@ -227,7 +240,9 @@
     "70 000"
    ],
    "answer": "7 000",
-   "image": "out/2026-10-17/q3.jpg"
+   "why": "Qüllənin metal konstruksiyası təxminən 7 300 tondur.",
+   "image": "out/2026-10-17/q3.jpg",
+   "answer_image": "out/2026-10-17/q3_a.jpg"
   },
   {
    "time": "19:30",
@@ -241,7 +256,9 @@
     "470 milyon il"
    ],
    "answer": "470 milyon il",
-   "image": "out/2026-10-17/q4.jpg"
+   "why": "Zirvə daşı ~470 milyon il əvvəl okean dibində yaranıb.",
+   "image": "out/2026-10-17/q4.jpg",
+   "answer_image": "out/2026-10-17/q4_a.jpg"
   },
   {
    "time": "22:30",
@@ -255,7 +272,9 @@
     "Üzgəcindən"
    ],
    "answer": "Göz lensindən",
-   "image": "out/2026-10-17/q5.jpg"
+   "why": "Göz lensinin mərkəzi doğulduğu andan dəyişmir — radiokarbonla yaş ölçülür.",
+   "image": "out/2026-10-17/q5.jpg",
+   "answer_image": "out/2026-10-17/q5_a.jpg"
   }
  ]
 }

@@ -6,8 +6,8 @@ python3 quizplan.py YYYY-MM-DD [--seed N]
   facts/db.json (older posts, least recently quizzed first), so old posts keep getting attention.
 - Time order: 11:00 recall · 14:00 post 1 · 16:30 recall · 19:30 post 2 · 22:30 post 3
   (each post-quiz is ~1 hour after its post: posts are 13:00, 18:30, 21:30).
-- Every story shows the answer to the PREVIOUS story (the first one shows yesterday's last answer),
-  so no separate answer stories are needed.
+- Each quiz is TWO images posted together from one Metricool notification: qN.jpg (question, Gartal adds
+  the Poll sticker) and qN_a.jpg (answer + explanation) — viewers tap once to see the answer.
 - Writes "stories" into facts/<date>.json, adds today's facts to facts/db.json, renders out/<date>/qN.jpg.
 """
 import json, os, random, subprocess, sys
@@ -65,7 +65,7 @@ def main():
         q = e["quizzes"][qi]
         e["asked"].append({"date": D, "qi": qi})
         stories.append({"time": t, "fact_id": e["id"], "recall": src == "recall", "cat": e["cat"],
-                        "q": q["q"], "options": q["options"], "answer": q["answer"]})
+                        "q": q["q"], "options": q["options"], "answer": q["answer"], "why": q.get("why", "")})
 
     # 3) previous-answer chain
     prev_day = (date.fromisoformat(D) - timedelta(days=1)).isoformat()
@@ -79,12 +79,14 @@ def main():
 
     os.makedirs(os.path.join(ROOT, f"out/{D}"), exist_ok=True)
     for i, s in enumerate(stories, 1):
-        cfg = {"n": f"{i}/5", "cat": s["cat"], "q": s["q"], "prev": prev, "recall": s["recall"]}
-        out = f"out/{D}/q{i}.jpg"
+        cfg = {"n": f"{i}/5", "cat": s["cat"], "q": s["q"], "prev": None, "recall": s["recall"]}
+        out = f"out/{D}/q{i}.jpg"; outa = f"out/{D}/q{i}_a.jpg"
         subprocess.run([sys.executable, os.path.join(ROOT, "factgen.py"), "quizstory", "none",
                         os.path.join(ROOT, out), json.dumps(cfg, ensure_ascii=False)], check=True)
-        s["image"] = out
-        prev = {"q": s["q"], "a": s["answer"]}
+        acfg = {"n": f"{i}/5", "cat": s["cat"], "q": s["q"], "a": s["answer"], "why": s["why"]}
+        subprocess.run([sys.executable, os.path.join(ROOT, "factgen.py"), "answerstory", "none",
+                        os.path.join(ROOT, outa), json.dumps(acfg, ensure_ascii=False)], check=True)
+        s["image"] = out; s["answer_image"] = outa
 
     day["stories"] = stories
     save(f"facts/{D}.json", day); save("facts/db.json", db)

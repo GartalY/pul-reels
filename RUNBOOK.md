@@ -172,6 +172,12 @@ Goal: keep up with the real world. Before doing the main task, search the news (
 ## Weekly (Sunday evening task, add when ready)
 Pull Metricool analytics for the week; note best reel/card, best posting hours; adjust next week.
 
+## Roadmap (decided 2026-10-16)
+- ~2026-10-30 two-week check (weekly review): if the Azerbaijani page is growing, propose launching a
+  TURKISH facts page as a 2nd Metricool brand (plan allows 5): same verified facts adapted to Turkish,
+  lighter format (posts + reels, no manual poll stickers at first). English (dailyhustlepsych) later.
+- Future test (Gartal's idea): HeyGen digital-twin reels in his voice — free-plan test first, label as AI.
+
 ## Rules
 - Claude is the page manager (Gartal, 2026-10-16): decide what is best for the page, act, and tell him
   afterwards. Ask him only for photos, things only he can do in the app, and decisions that cost money.

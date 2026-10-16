@@ -265,8 +265,28 @@ def answerstory(photo, out, c):
     d.text(((W - d.textlength(HANDLE, font=F("SemiBold", 36))) / 2, 1790), HANDLE, font=F("SemiBold", 36), fill=GOLD)
     im.save(out, quality=92)
 
+# ---------- "Tarixdə bu gün" story 1080x1920 ----------
+AZ_MONTHS = ["yanvar","fevral","mart","aprel","may","iyun","iyul","avqust","sentyabr","oktyabr","noyabr","dekabr"]
+def todaystory(photo, out, c):
+    """c: {"day":17,"month":10,"year":1956,"title":..,"text":..,"cy":..}"""
+    W, H = 1080, 1920
+    im = cover(load(photo), W, H, cy=c.get("cy", 0.5)).filter(ImageFilter.GaussianBlur(3))
+    im = shade(Image.blend(im, Image.new("RGB", (W, H), INK), 0.35), top=0.3, start=0.35)
+    d = ImageDraw.Draw(im)
+    date = f"{c['day']} {AZ_MONTHS[c['month'] - 1].upper()}"
+    pill(d, 70, 200, "TARİXDƏ BU GÜN", F("Black", 42), GOLD, INK)
+    d.text((70, 300), date, font=F("Black", 120), fill=WHITE)
+    d.text((70, 440), str(c["year"]), font=F("Black", 220), fill=GOLD)
+    y = 1000
+    y = text_block(d, 70, y, c["title"], F("Black", 76), WHITE, W - 140, lh=1.12) + 40
+    text_block(d, 70, y, c["text"], F("SemiBold", 50), (225, 228, 236), W - 140, lh=1.28)
+    if c.get("credit"):
+        d.text((70, 1730), "Foto: " + c["credit"], font=F("Medium", 28), fill=(170, 175, 190))
+    d.text(((W - d.textlength(HANDLE, font=F("SemiBold", 36))) / 2, 1790), HANDLE, font=F("SemiBold", 36), fill=GOLD)
+    im.save(out, quality=92)
+
 if __name__ == "__main__":
     kind, photo, out, cfg = sys.argv[1], sys.argv[2], sys.argv[3], json.loads(sys.argv[4])
     dict(card=card, reel=reel, story=story, answer=answer, slide=slide, outro=outro,
-         quizstory=quizstory, answerstory=answerstory)[kind](photo, out, cfg)
+         quizstory=quizstory, answerstory=answerstory, todaystory=todaystory)[kind](photo, out, cfg)
     print(out)

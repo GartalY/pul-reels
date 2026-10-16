@@ -48,6 +48,18 @@ Why: Gartal said one-sentence facts were too thin and the quizzes too easy (phot
 - Quiz stories never use the post photo (branded background by category: Tarix, Təbiət, Kosmos, Elm,
   Coğrafiya, Texnologiya, Azərbaycan) → set `cat` on every fact.
 
+## H. "Tarixdə bu gün" (on this day) — daily story at 10:00 (decided 2026-10-16, Gartal's idea)
+- One story every morning at 10:00 (`autoPublish: true`): something surprising that happened on this calendar
+  date in history. Built in the evening task for tomorrow:
+  `factgen.py todaystory <photo> out/D/tbg.jpg '{"day":..,"month":..,"year":..,"title":..,"text":..,"credit":..}'`
+  (title ≤ 8 words, text ≤ 45 words, verified with WebSearch, photo per section P; no photos of victims).
+- Pick events people will find surprising (science, sport incl. chess, inventions, discoveries, records,
+  famous "firsts", Azerbaijan cultural/science history). Avoid tragedies/disasters/deaths, wars, religion and
+  Azerbaijani politics. No alcohol-centred stories.
+- Log it in `facts/history_log.json` under "MM-DD". Next year on the same date choose a DIFFERENT event.
+- On a round anniversary (25, 50, 75, 100, 150, 200… years) of a big event, ALSO make it the 13:00 carousel
+  that day (the planned fact moves to a later day).
+
 ## D. Daily trend post (EVERY day from 2026-10-17 — Gartal, 2026-10-16; on 2026-10-16 itself do nothing)
 At least one post per day is about something people are talking about TODAY, told as a richer story
 (3–4+ sentences / 3–4 detail slides). Example of the style: a footballer in the news → "before he was famous,

@@ -58,13 +58,31 @@ he worked in a factory" + the details. Slot: the **18:30 carousel**.
   film/music/game releases, tech launches, space, viral moments, notable "today in history" anniversaries,
   world (non-AZ) politics/elections per section T. Find a surprising, verified angle with 3–4 details,
   write it as `trend` in facts/<today>.json (same fields as a v2 carousel fact: title, text, slides, caption,
-  cat, quizzes, sources). Ask Gartal for a photo in the 2026-…/<today> Drive folder named `T`,
-  deadline 15:00 (action in the first line of the message).
+  cat, quizzes, sources). Find the photo yourself (section P); ask Gartal (Drive folder <today>, file `T`, deadline 15:00)
+  only if nothing usable exists.
 - 15:23 (midday task): build the trend carousel (photo `T` or the `none` fallback), push, replace the 18:30
   post in Metricool (`updateScheduledPost`, keep the time), put the backup fact into a later day, then
   replace `facts[1]` with the trend fact in the JSON, re-run `quizplan.py <today>` and update ONLY the
   19:30 quiz story in Metricool (earlier ones may already be live).
 - If the trend story breaks after 15:23, it can still go into tomorrow's 13:00 slot.
+
+## P. Photos — Claude finds them himself (from 2026-10-16; Gartal only as a last resort)
+Order of sources:
+1. **Unsplash** connector (`search_photos`, short query). Results can be MISLABELED (an "Everest" search
+   returned Mount Cook) — use only photos whose description/alt text names the subject AND that look right
+   when you open them. Prefer portrait or large images.
+2. **Wikimedia Commons** for history, animals, places, satellite/NASA/NOAA images (public domain or CC BY/
+   CC BY-SA). The workspace can't reach Commons directly: queue the API search through the fetch job, e.g.
+   `search_x.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=<terms>`
+   then pick a file (check license + size ≥ ~900 px) and queue its `url`.
+3. Gartal's Drive folder (only if 1–2 have nothing usable; ask with a deadline).
+4. `none` branded fallback.
+**Fetch job:** the workspace can't download from images.unsplash.com or upload.wikimedia.org. Append lines
+`<name> <url>` to `fetch/queue.txt`, commit, push; GitHub Actions (`.github/workflows/fetch.yml`) downloads
+them into `fetch/img/<name>` within ~1 min; then `git pull origin main`. Name photos `<date>_<n>_<subject>.jpg`.
+Record in the fact: `"photo": {"path":..,"credit":..,"cy":..,"full":true/false}`, and add a credit line
+`Foto: <author> / Unsplash` or `Foto: NASA` etc. above the hashtags (required for CC BY/BY-SA, polite always).
+Look at every photo with Read before using it. No photos of private people; no copyrighted press photos.
 
 ## T. Trend check (in every morning, midday and evening run)
 Goal: keep up with the real world. Before doing the main task, search the news (WebSearch: "news today",
@@ -87,7 +105,8 @@ Goal: keep up with the real world. Before doing the main task, search the news (
 ## A. Morning task (09:10) — pick tomorrow's facts
 0. If `facts/YYYY-MM-DD.json` for TOMORROW already exists (status `planned`), do NOT pick new facts:
    make sure the Drive subfolder exists, check which photos (1, 2, 3) are already uploaded, and message Gartal
-   only the missing photo requests (or "all photos already uploaded"). If that file has no `"format": "v2"`,
+   (from 2026-10-16: find the photos yourself per section P and record `photo` on each fact; only ask Gartal
+   for what you truly can't find)  If that file has no `"format": "v2"`,
    first UPGRADE it: add `cat`, `slides` (cards) / `reel_beats` (reel) and `quizzes` per the content rules
    v2, verifying every new detail; set `"format": "v2"`. Then stop.
 1. Read `facts/used.md` so no topic repeats.
@@ -106,17 +125,18 @@ Goal: keep up with the real world. Before doing the main task, search the news (
    6–8 hashtags incl. #bilirdinizmi #maraqlıfaktlar #faktlar), `quizzes` (2–3), and source URL(s).
    Set `"format": "v2"`.
 5. Save as `facts/YYYY-MM-DD.json` (date = tomorrow), commit, push.
-6. Create Drive subfolder `YYYY-MM-DD` inside the photo folder.
-7. Message Gartal (this is what he reads on his phone — keep it short, Azerbaijani or English is fine):
-   "Sabahın şəkilləri (YYYY-MM-DD qovluğuna 1, 2, 3 adı ilə yüklə): 1) … 2) … 3) …" plus one line
-   suggesting Wikimedia Commons / Unsplash / Pexels for copyright-safe photos.
+6. Find all photos yourself (section P), fetch them, look at them, record `photo` on each fact. Create the
+   Drive subfolder `YYYY-MM-DD` only if you need Gartal for a photo.
+7. Message Gartal only if he must do something (a photo you couldn't find). Otherwise one line:
+   "Sabahın 3 faktı hazırdır: …" — no action needed.
 
 ## B. Evening task (20:45) — build and schedule tomorrow
 0. If `facts/YYYY-MM-DD.json` for TOMORROW has `"status": "scheduled"`, do nothing else: confirm with
    `getScheduledPosts` that the posts exist and report "already scheduled" to Gartal.
 1. Load `facts/YYYY-MM-DD.json` for TOMORROW. If missing, do step A first.
-2. List the Drive subfolder; download photos 1, 2, 3 (`download_file_content` saves big results to a file —
-   decode the base64 `content` with python into `photos/`). Look at each photo (Read) to confirm it
+2. Photos: use each fact's `photo.path` if set (fetched in the morning, section P). Otherwise find one now
+   (section P). Gartal's Drive subfolder overrides when he uploaded 1/2/3 there (`download_file_content`
+   saves big results to a file — decode the base64 `content` with python into `photos/`). Look at each photo (Read) to confirm it
    matches the fact and choose a sensible crop (`cy`). If a photo is missing or wrong, use `none`
    (branded fallback) and say so in the summary.
 3. Build into `out/YYYY-MM-DD/` (D = date):

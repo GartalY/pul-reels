@@ -6,3 +6,4 @@ search_diomede.json https://commons.wikimedia.org/w/api.php?action=query&format=
 2026-10-17_3_shark_b.jpg https://upload.wikimedia.org/wikipedia/commons/7/77/Somniosus_microcephalus_okeanos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 2026-10-17_1_diomede.jpg https://upload.wikimedia.org/wikipedia/commons/5/50/Diomede_Islands%2C_Bering_Strait_%28ASTER%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 2026-10-17_1_diomede_b.jpg https://upload.wikimedia.org/wikipedia/commons/3/33/Wfm_diomede_islands.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+search_starman.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Starman%20Roadster%20Earth

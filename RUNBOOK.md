@@ -179,6 +179,8 @@ Pull Metricool analytics for the week; note best reel/card, best posting hours; 
 - Future test (Gartal's idea): HeyGen digital-twin reels in his voice — free-plan test first, label as AI.
 
 ## Rules
+- Metricool's story statistics lag by an hour or more (2026-10-16: a story posted at ~14:07 was not visible
+  at 14:59). Never conclude "Gartal hasn't posted it" from them; check later or ask.
 - Claude is the page manager (Gartal, 2026-10-16): decide what is best for the page, act, and tell him
   afterwards. Ask him only for photos, things only he can do in the app, and decisions that cost money.
 - Whenever Gartal needs to do something (photos, reconnect, a decision), notify him: SendUserMessage

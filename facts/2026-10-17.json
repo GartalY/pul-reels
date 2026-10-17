@@ -321,5 +321,89 @@
  },
  "fixes": [
   "2026-10-16 21:47: stories switched to fully automatic (options printed, *_auto.jpg) + answer stories 10 min later, per Gartal"
- ]
+ ],
+ "trend": {
+  "n": "T",
+  "type": "card",
+  "format": "v2",
+  "subject": "Lamine Yamal (before Real Betis vs Barcelona, 17 Oct 2026)",
+  "cat": "İdman",
+  "title": "Lamine Yamal",
+  "text": "Bu axşam Real Betisə qarşı oynayacaq. Amma onun hekayəsi 2007-ci ildə — Messinin əllərində başlayıb.",
+  "slides": [
+   {
+    "h": "2007",
+    "t": "UNICEF və «Sport» qəzetinin xeyriyyə təqvimi üçün 20 yaşlı Messi bir neçə aylıq Lamini vannada çimizdirib. Ailə bu çəkilişi Mataroda keçirilən lotereyada udmuşdu."
+   },
+   {
+    "h": "304",
+    "t": "Qol vuranda əlləri ilə «304» göstərir. Bu, uşaqlığının keçdiyi Rokafonda məhəlləsinin (Mataro) poçt indeksinin — 08304 — son üç rəqəmidir."
+   },
+   {
+    "h": "16 yaş 362 gün",
+    "t": "Avro-2024-ə məktəb ev tapşırıqları ilə gəlmişdi. Yarımfinalda Fransaya vurduğu qolla Avropa çempionatları tarixinin ən gənc qolçusu oldu."
+   },
+   {
+    "h": "Yenə Betis",
+    "t": "Barselonada ilk rəsmi oyununu 29 aprel 2023-də, 15 yaşında məhz Real Betisə qarşı keçirib (4:0). Bu axşam yenə Betislə qarşılaşır."
+   }
+  ],
+  "caption": "Messi onu körpə ikən çimizdirib 👶⚽\n\nLamine Yamal bu axşam Barselona ilə Real Betisin qonağıdır. 2007-ci ildə xeyriyyə təqvimi üçün 20 yaşlı Messi onu vannada çimizdirmişdi. 16 yaşında Avro-2024-ə ev tapşırıqları ilə gəldi və turnir tarixinin ən gənc qolçusu oldu. Barselonada ilk oyununu da məhz Betisə qarşı keçirib.\n\n📩 Yamalı hələ də «uşaq» sayan dostuna göndər 😄\n\nFoto: Bryan Berlin / Wikimedia Commons (CC BY-SA 4.0)\n\n#bilirdinizmi #maraqlıfaktlar #futbol #barselona #laminyamal",
+  "first_comment": "Bu axşam Betis–Barselona: sənin hesab proqnozun? 👇",
+  "quizzes": [
+   {
+    "q": "Messi körpə Yamalı çimizdirəndə neçə yaşında idi?",
+    "options": [
+     "15",
+     "20",
+     "25"
+    ],
+    "answer": "20",
+    "why": "2007-ci ildə xeyriyyə təqvimi üçün çəkiliş; Messi 20 yaşında idi."
+   },
+   {
+    "q": "Yamalın «304» jesti nəyi bildirir?",
+    "options": [
+     "Məhəlləsinin poçt indeksini",
+     "Forma nömrəsini",
+     "Doğum tarixini"
+    ],
+    "answer": "Məhəlləsinin poçt indeksini",
+    "why": "Rokafonda (Mataro) məhəlləsinin indeksi 08304-dür."
+   },
+   {
+    "q": "Yamal Barselonada ilk rəsmi oyununu kimə qarşı keçirib?",
+    "options": [
+     "Real Madrid",
+     "Real Betis",
+     "Sevilya"
+    ],
+    "answer": "Real Betis",
+    "why": "29 aprel 2023, 15 yaşında, 4:0 qələbə."
+   }
+  ],
+  "photo": {
+   "path": "fetch/img/2026-10-17_T_yamal_b.jpg",
+   "credit": "Bryan Berlin / Wikimedia Commons (CC BY-SA 4.0)",
+   "cy": 0.35,
+   "full": false,
+   "source": "https://commons.wikimedia.org/wiki/File:Lamine_Yamal_Argentina_v_Spain_19_July_2026-319.jpg"
+  },
+  "sources": [
+   "https://www.cbsnews.com/amp/miami/news/lionel-messi-lamine-yamal-baby-barcelona-photos-joan-monfort",
+   "https://www.beinsports.com/en-us/soccer/la-liga/articles-video/why-does-lamine-yamal-celebrate-his-goals-with-a-304-2024-09-24",
+   "https://www.ksat.com/sports/2024/07/09/spains-lamine-yamal-becomes-the-youngest-player-to-score-at-mens-european-championship-at-age-16/",
+   "https://news.wfsu.org/all-npr-news/2024-06-15/16-year-old-soccer-player-lamine-yamal-brings-his-homework-to-euro-2024",
+   "https://www.fcbarcelona.es/es/futbol/primer-equipo/noticias/3246834/lamine-yamal-un-debut-de-record",
+   "https://en.wikipedia.org/wiki/Lamine_Yamal",
+   "https://www.si.com/soccer/real-betis-vs-barcelona-preview-predictions-lineups-10-17-26"
+  ],
+  "why_trend": "Real Betis vs Barcelona (LaLiga MD9) tonight 17 Oct, kick-off 17:30 BST = 20:30 Baku, at La Cartuja; Barça 8/8 wins, Betis 3rd. Post at 18:30 goes out before kick-off.",
+  "picked": "2026-10-17 09:10 Asia/Baku"
+ },
+ "trend_check_morning": {
+  "checked": "2026-10-17 09:15 Asia/Baku",
+  "result": "no swap",
+  "why": "Headlines: M6.9 quake off Kamchatka (no major damage reported in sources seen), Houthi strikes in Aden, US school shooting, US politics. None is something a large share of our AZ audience is discussing that fits section T; trend slot covers the football weekend."
+ }
 }

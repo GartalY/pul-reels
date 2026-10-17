@@ -8,21 +8,72 @@
    "subject": "Bluetooth / Harald Bluetooth",
    "photo_request": "Danimarka kralı Harald Göydiş — Yellinq run daşı (Jelling stone, Wikimedia)",
    "title": "Bluetooth adı haradan gəlir?",
-   "text": "Bluetooth texnologiyası X əsrin Danimarka kralı Harald \"Göydiş\"in (Bluetooth) adını daşıyır. Loqosu isə onun adının iki run hərfidir: ᚼ və ᛒ.",
-   "caption": "Telefonundakı Bluetooth — 1000 illik kraldır 👑\n\nX əsrdə yaşamış Danimarka kralı Harald Bluetooth (Göydiş) Skandinaviya tayfalarını birləşdirmişdi. Texnologiyanı yaradanlar da cihazları \"birləşdirən\" sistemə onun adını verdilər. Loqo — H və B hərflərinin qədim run variantıdır.\n\nBunu bilirdin? 👇\n\n#bilirdinizmi #maraqlıfaktlar #faktlar #texnologiya #tarix #bluetooth",
-   "quiz": {
-    "q": "Bluetooth adı haradan gəlir?",
-    "options": [
-     "Mavi diş həkimi",
-     "Danimarka kralı",
-     "İxtiraçının adı"
-    ],
-    "answer": "Danimarka kralı",
-    "why": "X əsrin kralı Harald Bluetooth; loqo onun adının run hərfləridir (H və B)."
-   },
+   "text": "Telefonundakı Bluetooth X əsrdə yaşamış Danimarka kralı Harald «Göydiş»in adını daşıyır. Loqosu isə onun adının baş hərfləridir — run əlifbası ilə.",
+   "caption": "Telefonundakı Bluetooth — 1000 illik vikinq kralıdır 👑\n\n1997-ci ildə Intel mühəndisi Cim Kardax yeni simsiz texnologiyaya müvəqqəti ad axtarırdı və o vaxt vikinqlər haqqında kitab oxuyurdu. Seçim X əsrin Danimarka kralı Harald «Göydiş» oldu: o, torpaqları birləşdirmişdi, Bluetooth da cihazları birləşdirir. Loqo isə kralın adının iki run hərfidir — H və B.\n\n📩 Qulaqcığını telefona heç cür qoşa bilməyən dostuna göndər 😄\n\nFoto: Roberto Fortuna / Danimarka Milli Muzeyi (CC BY-SA 3.0)\n\n#bilirdinizmi #maraqlıfaktlar #texnologiya #tarix #vikinqlər",
    "sources": [
-    "https://www.bluetooth.com/about-us/bluetooth-origin/"
-   ]
+    "https://www.bluetooth.com/about-us/bluetooth-origin/",
+    "https://www.snopes.com/bluetooth-etymology/",
+    "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/the-monuments-at-jelling/the-jelling-stone"
+   ],
+   "cat": "Texnologiya",
+   "slides": [
+    {
+     "h": "1997",
+     "t": "Adı Intel mühəndisi Cim Kardax təklif edib. O, vikinqlər haqqında kitab oxuyurdu. Ad müvəqqəti iş adı kimi düşünülmüşdü, amma qalıcı oldu."
+    },
+    {
+     "h": "«Göy diş»",
+     "t": "Kralın ləqəbi danimarkaca Blåtand — «göy diş» idi. Ehtimala görə, dişlərindən biri ölüb göyərmişdi."
+    },
+    {
+     "h": "H + B",
+     "t": "Loqo iki run hərfinin birləşməsidir: H (Harald) və B (Blåtand). Yəni hər telefonda vikinq kralının baş hərfləri var."
+    },
+    {
+     "h": "~965",
+     "t": "Harald təxminən 965-ci ildə Yellinq run daşını qoydurub: orada Danimarkanı və Norveçi ələ keçirdiyi yazılıb. Bluetooth da cihazları «birləşdirir» — adın mənası budur."
+    }
+   ],
+   "first_comment": "Bluetooth-un adının mənasını əvvəldən bilirdin? 👇",
+   "quizzes": [
+    {
+     "q": "Bluetooth adı hansı ildə təklif edilib?",
+     "options": [
+      "1977",
+      "1997",
+      "2007"
+     ],
+     "answer": "1997",
+     "why": "Intel mühəndisi Cim Kardax 1997-ci ildə müvəqqəti ad kimi təklif edib."
+    },
+    {
+     "q": "Bluetooth loqosu nədən yaranıb?",
+     "options": [
+      "İki run hərfindən",
+      "Diş şəklindən",
+      "Antenna simvolundan"
+     ],
+     "answer": "İki run hərfindən",
+     "why": "Run əlifbasında H (Harald) və B (Blåtand) birləşib."
+    },
+    {
+     "q": "Kral Haraldın run daşı təxminən hansı ilə aiddir?",
+     "options": [
+      "665",
+      "965",
+      "1265"
+     ],
+     "answer": "965",
+     "why": "Yellinq daşı təxminən 965-ci ildə qoyulub."
+    }
+   ],
+   "photo": {
+    "path": "fetch/img/2026-10-18_1_jelling_a.jpg",
+    "credit": "Roberto Fortuna / Danimarka Milli Muzeyi (CC BY-SA 3.0)",
+    "cy": 0.5,
+    "full": false,
+    "source": "https://commons.wikimedia.org/wiki/File:Jellingsten_stor_2.jpg"
+   }
   },
   {
    "n": 2,
@@ -30,22 +81,72 @@
    "subject": "Krakatoa 1883",
    "photo_request": "Krakatau vulkanı (və ya püskürmənin tarixi təsviri)",
    "title": "Krakatau, 1883",
-   "text": "1883-cü ildə Krakatau vulkanının partlayışı 4 800 km uzaqda — Rodriges adasında eşidilib. Bu, tarixdə qeydə alınmış ən güclü səsdir.",
-   "caption": "Tarixin ən güclü səsi 🌋\n\n1883-cü ildə İndoneziyadakı Krakatau partladı. Səsi 4 800 km uzaqda, Hind okeanındakı Rodriges adasında top atəşi kimi eşidildi. Təzyiq dalğası isə Yer kürəsini bir neçə dəfə dövrə vurdu.\n\nBunu bilirdin? 👇\n\n#bilirdinizmi #maraqlıfaktlar #faktlar #vulkan #tarix #elm",
-   "quiz": {
-    "q": "Krakatau partlayışı nə qədər uzaqda eşidilib?",
-    "options": [
-     "480 km",
-     "1 500 km",
-     "4 800 km"
-    ],
-    "answer": "4 800 km",
-    "why": "Hind okeanındakı Rodriges adasında top səsi kimi eşidilib."
-   },
+   "text": "1883-cü ildə Krakatau vulkanının partlayışı 4 800 km uzaqda eşidilib. Bu, tarixdə qeydə alınmış ən güclü səs sayılır.",
+   "caption": "Tarixin ən güclü səsi 🌋\n\n1883-cü ilin 27 avqustunda İndoneziyadakı Krakatau vulkanı partladı. Səsi 4 800 km uzaqda — Hind okeanındakı Rodriges adasında top atəşi kimi eşidildi. 64 km aralıdakı gəmidə dənizçilərin qulaq pərdələri partladı, təzyiq dalğası isə Yer kürəsini 3 dəfədən çox dövrə vurdu.\n\n📩 Qulaqcıqda musiqini həmişə sonuna qədər açan dostuna göndər 🔊\n\nFoto: Parker & Coward litoqrafiyası (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #vulkan #tarix #elm",
    "sources": [
-    "https://www.discovermagazine.com/the-loudest-sound-ever-heard-198",
-    "https://volcano.oregonstate.edu/historical-eruption-sounds"
-   ]
+    "https://en.wikipedia.org/wiki/1883_eruption_of_Krakatoa",
+    "https://www.discoverwildlife.com/environment/loudest-recorded-noise",
+    "https://www.discovermagazine.com/the-loudest-sound-ever-heard-198"
+   ],
+   "cat": "Elm",
+   "slides": [
+    {
+     "h": "4 800 km",
+     "t": "27 avqust 1883. Hind okeanındakı Rodriges adasında insanlar partlayışı yaxınlıqdakı gəminin top atəşi sandılar. Bu, Bakıdan Londona qədər olan məsafədən (~4 000 km) də çoxdur."
+    },
+    {
+     "h": "64 km",
+     "t": "Sumatra yaxınlığında, vulkandan ~64 km aralıda dayanan «Norham Castle» gəmisində dənizçilərin qulaq pərdələri partladı."
+    },
+    {
+     "h": "7 dəfə",
+     "t": "Təzyiq dalğası Yer kürəsini 3 dəfədən çox dövrə vurdu: dünyadakı barometrlər onu 5 gün ərzində 7 dəfə qeydə aldı."
+    },
+    {
+     "h": "Qırmızı səma",
+     "t": "Atmosferə qalxan kül aylarla qeyri-adi qırmızı gün batımları yaratdı. Nyu-Yorkda yanğın olduğunu düşünüb yanğınsöndürənləri çağırdılar."
+    }
+   ],
+   "first_comment": "Sən indiyə qədər eşitdiyin ən güclü səs nə olub? 👇",
+   "quizzes": [
+    {
+     "q": "Rodriges adasında Krakatau partlayışını nə sanıblar?",
+     "options": [
+      "Top atəşi",
+      "Göy gurultusu",
+      "Zəlzələ"
+     ],
+     "answer": "Top atəşi",
+     "why": "4 800 km uzaqda səs yaxındakı gəminin top atəşi kimi eşidilib."
+    },
+    {
+     "q": "Barometrlər Krakatau təzyiq dalğasını neçə dəfə qeydə alıb?",
+     "options": [
+      "2",
+      "7",
+      "20"
+     ],
+     "answer": "7",
+     "why": "Dalğa 5 gün ərzində dünyanı 3 dəfədən çox dövrə vurub."
+    },
+    {
+     "q": "Krakatau partlayışından sonra Nyu-Yorkda niyə yanğınsöndürən çağırıblar?",
+     "options": [
+      "Qırmızı səmaya görə",
+      "Kül yağışına görə",
+      "Zəlzələyə görə"
+     ],
+     "answer": "Qırmızı səmaya görə",
+     "why": "Kül qeyri-adi qırmızı gün batımları yaradıb, insanlar yanğın sanıb."
+    }
+   ],
+   "photo": {
+    "path": "fetch/img/2026-10-18_2_krakatoa.jpg",
+    "credit": "Parker & Coward litoqrafiyası (ictimai mülkiyyət)",
+    "cy": 0.45,
+    "full": false,
+    "source": "https://commons.wikimedia.org/wiki/File:Krakatoa_eruption_lithograph.jpg"
+   }
   },
   {
    "n": 3,
@@ -53,23 +154,64 @@
    "subject": "Nobel Prize & Baku oil",
    "photo_request": "Alfred Nobel portreti (Wikimedia) və ya Bakıdakı Villa Petrolea",
    "title": "Nobel və Bakı nefti",
-   "text": "Nobel mükafatının arxasında Bakı nefti var: Nobel Fondunu yaratmaq üçün istifadə olunan vəsaitin təxminən beşdə biri Alfredin Bakıdakı \"Branobel\" neft şirkətindəki səhmlərindən gəlib.",
-   "caption": "Nobel mükafatı və Bakı nefti 🏅🛢️\n\nAlfred Nobelin qardaşları Lüdviq və Robert XIX əsrdə Bakıda \"Branobel\" neft şirkətini qurdular. Alfred də şirkətin səhmdarı idi. Arxiv sənədlərinə görə, Nobel Fondunun başlanğıc vəsaitinin təxminən 20–22%-i məhz bu səhmlərdən gəlib.\n\nYəni hər Nobel mükafatında bir az Bakı var. 👇\n\n#bilirdinizmi #maraqlıfaktlar #faktlar #bakı #azərbaycan #nobel #tarix",
-   "quiz": {
-    "q": "Nobel Fondu vəsaitinin bir hissəsi haradan gəlib?",
-    "options": [
-     "Bakı neftindən",
-     "İsveç qızılından",
-     "Alman bankından"
-    ],
-    "answer": "Bakı neftindən",
-    "why": "Təxminən beşdə biri Alfredin \"Branobel\" (Bakı) səhmlərindən gəlib."
-   },
+   "text": "Nobel mükafatının arxasında Bakı nefti də var: Nobel Fondunun ilkin kapitalının təxminən 12%-i Alfredin Bakıdakı «Branobel» şirkətindəki səhmlərindən gəlib.",
+   "caption": "Nobel mükafatı və Bakı nefti 🏅\n\nHər şey 1873-cü ildə başladı: Robert Nobel Qafqaza tüfəng qundağı üçün qoz ağacı almağa gəldi, amma pulu Bakıda neft zavoduna xərclədi. Qardaşlar «Branobel»i qurdular, Alfred də şirkətin səhmdarı oldu. Bu səhmlərdən gələn pul Nobel Fondunun ilkin kapitalının təxminən 12%-ni təşkil edib (bəzi tədqiqatçılar 20%-ə qədər deyir).\n\n📩 Bir şey almağa gedib tamam başqa şeylə qayıdan dostuna göndər 😄\n\nFoto: Gösta Florman (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #bakı #nobel #tarix",
    "sources": [
+    "https://www.branobelhistory.com/timeline",
+    "https://www.branobelhistory.com/?p=139",
+    "https://en.wikipedia.org/wiki/Branobel",
+    "https://en.wikipedia.org/wiki/Ludvig_Nobel",
     "https://www.aljazeera.com/economy/2017/12/9/alfred-nobels-lesser-known-azerbaijan-connection"
    ],
    "reel_hook": "Nobel mükafatında Bakı izi",
-   "reel_fact": "Nobel mükafatının arxasında Bakı nefti var: Nobel Fondunu yaratmaq üçün istifadə olunan vəsaitin təxminən beşdə biri Alfredin Bakıdakı \"Branobel\" neft şirkətindəki səhmlərindən gəlib."
+   "reel_fact": "Nobel mükafatının arxasında Bakı nefti də var: Nobel Fondunun ilkin kapitalının təxminən 12%-i Alfredin Bakıdakı «Branobel» şirkətindəki səhmlərindən gəlib.",
+   "cat": "Azərbaycan",
+   "reel_beats": [
+    "1873-cü ildə Lüdviq Nobel qardaşı Robertı Qafqaza tüfəng qundağı üçün qoz ağacı almağa göndərdi. Robert isə pulu Bakıda kiçik neft zavoduna verdi.",
+    "Belə yarandı «Branobel». 1878-ci ildə şirkətin dünyada ilk neft tankeri — «Zoroastr» — Xəzərdə işə düşdü.",
+    "Alfred Nobel də şirkətin səhmdarı idi. Bu səhmlərdən gələn pul Nobel Fondunun ilkin kapitalının təxminən 12%-ni təşkil edib."
+   ],
+   "first_comment": "Bakıdakı Villa Petroleanı (Nobel qardaşlarının evi) görmüsən? 👇",
+   "quizzes": [
+    {
+     "q": "Robert Nobel 1873-cü ildə Qafqaza nə almağa gəlmişdi?",
+     "options": [
+      "Qoz ağacı",
+      "Neft",
+      "İpək"
+     ],
+     "answer": "Qoz ağacı",
+     "why": "Tüfəng qundaqları üçün; pulu isə Bakıda neft zavoduna verdi."
+    },
+    {
+     "q": "Dünyanın ilk neft tankeri «Zoroastr» harada işləyib?",
+     "options": [
+      "Xəzər dənizində",
+      "Qara dənizdə",
+      "Atlantik okeanında"
+     ],
+     "answer": "Xəzər dənizində",
+     "why": "1878-ci ildə Branobel üçün İsveçdə tikilib, Bakı–Həştərxan xəttində işləyib."
+    },
+    {
+     "q": "Nobel Fondu kapitalının təxminən neçə faizi Branobel səhmlərindən gəlib?",
+     "options": [
+      "1%",
+      "12%",
+      "50%"
+     ],
+     "answer": "12%",
+     "why": "Alfredin Branobel səhmləri 3,84 milyon kron edib — ilkin kapitalın ~12%-i."
+    }
+   ],
+   "photo": {
+    "path": "fetch/img/2026-10-18_3_nobel.jpg",
+    "credit": "Gösta Florman (ictimai mülkiyyət)",
+    "cy": 0.35,
+    "full": false,
+    "source": "https://commons.wikimedia.org/wiki/File:AlfredNobel_adjusted.jpg"
+   },
+   "verify_note": "Share of Nobel Foundation capital: Branobel History/Wikipedia say ~12%; Al Jazeera cites 20-22% (Bagirov). Using ~12% (conservative) and mentioning 20% claim only in caption."
   }
  ],
  "spare": [
@@ -88,5 +230,13 @@
    },
    "from": "2026-10-16 18:30 (replaced by trend)"
   }
- ]
+ ],
+ "format": "v2",
+ "upgraded": {
+  "when": "2026-10-17 09:40 Asia/Baku",
+  "notes": [
+   "Nobel share corrected from ~1/5 to ~12% (conservative; sources disagree)",
+   "all slides/beats/quizzes verified; captions rewritten per caption rules (share line, 5 tags, photo credit)"
+  ]
+ }
 }

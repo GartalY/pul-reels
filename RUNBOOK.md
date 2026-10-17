@@ -19,12 +19,16 @@ Instagram facts page in **Azerbaijani**, run by Claude. Owner: Gartal (gartalyus
 Feed posts (all automatic):
 - 10:00 — "Tarixdə bu gün" CAROUSEL (`history` in the JSON; cover = date + year, 2–3 detail slides, outro)
   + the same-day 10:00 story (section H)
-- 13:00 — facts[0]: CAROUSEL            · 16:00 — facts[1]: REEL (3 beats)
+- 13:00 — facts[0]: REEL (3 beats; changed from carousel on 2026-10-18: reels reached ~119 people on
+  average vs ~33 for posts in the first days, so discovery goes through reels)   · 16:00 — facts[1]: REEL (3 beats)
+- Reel rules (2026-10-18): the first frame is the hook (the surprising claim, big text, no intro); 8–12 s total;
+  last beat ends on a question that the first_comment repeats, to pull comments.
 - 18:30 — facts[2]: CAROUSEL = evergreen backup, replaced by the TREND post (section D)
 - 21:30 — facts[3]: REEL (3 beats, the most surprising fact of the day)
 Quiz stories (automatic, printed options, answer +10 min): 11:00 recall · 14:00 facts[0] · 17:00 facts[1]
 · 19:30 facts[2]/trend · 22:30 facts[3]  (quizplan.py picks these slots automatically when there are 4 facts).
-So the morning task picks FOUR facts (2 carousels + 2 reels) plus the `history` event for tomorrow.
+So the morning task picks FOUR facts (facts[0], [1], [3] as reels, facts[2] carousel/trend) plus the `history` event.
+Mix = 3 reels (reach new people) + 2 carousels (saves/shares from followers). Re-check in the weekly review.
 Ramp: if the weekly review shows reach per post falling sharply, step back to 4 posts.
 
 ## (previous) FORMAT v2 — used 2026-10-17 and 2026-10-18 (from 2026-10-17, Gartal's request 2026-10-16)

@@ -6,7 +6,12 @@
    "date": "2026-10-15",
    "subject": "Alexander the Great",
    "cat": "Tarix",
-   "asked": [],
+   "asked": [
+    {
+     "date": "2026-10-18",
+     "qi": 0
+    }
+   ],
    "quizzes": [
     {
      "q": "Makedoniyalı İskəndərin ordusu şərqdə hansı ölkəyə qədər çatmışdı?",
@@ -35,7 +40,12 @@
    "date": "2026-10-16",
    "subject": "Octopus",
    "cat": "Təbiət",
-   "asked": [],
+   "asked": [
+    {
+     "date": "2026-10-18",
+     "qi": 0
+    }
+   ],
    "quizzes": [
     {
      "q": "Ahtapotun qanını mavi edən hansı metaldır?",
@@ -259,6 +269,138 @@
    "asked": [
     {
      "date": "2026-10-17",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-18-1",
+   "date": "2026-10-18",
+   "subject": "Bluetooth / Harald Bluetooth",
+   "cat": "Texnologiya",
+   "quizzes": [
+    {
+     "q": "Bluetooth adı hansı ildə təklif edilib?",
+     "options": [
+      "1977",
+      "1997",
+      "2007"
+     ],
+     "answer": "1997",
+     "why": "Intel mühəndisi Cim Kardax 1997-ci ildə müvəqqəti ad kimi təklif edib."
+    },
+    {
+     "q": "Bluetooth loqosu nədən yaranıb?",
+     "options": [
+      "İki run hərfindən",
+      "Diş şəklindən",
+      "Antenna simvolundan"
+     ],
+     "answer": "İki run hərfindən",
+     "why": "Run əlifbasında H (Harald) və B (Blåtand) birləşib."
+    },
+    {
+     "q": "Kral Haraldın run daşı təxminən hansı ilə aiddir?",
+     "options": [
+      "665",
+      "965",
+      "1265"
+     ],
+     "answer": "965",
+     "why": "Yellinq daşı təxminən 965-ci ildə qoyulub."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-18",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-18-2",
+   "date": "2026-10-18",
+   "subject": "Krakatoa 1883",
+   "cat": "Elm",
+   "quizzes": [
+    {
+     "q": "Rodriges adasında Krakatau partlayışını nə sanıblar?",
+     "options": [
+      "Top atəşi",
+      "Göy gurultusu",
+      "Zəlzələ"
+     ],
+     "answer": "Top atəşi",
+     "why": "4 800 km uzaqda səs yaxındakı gəminin top atəşi kimi eşidilib."
+    },
+    {
+     "q": "Barometrlər Krakatau təzyiq dalğasını neçə dəfə qeydə alıb?",
+     "options": [
+      "2",
+      "7",
+      "20"
+     ],
+     "answer": "7",
+     "why": "Dalğa 5 gün ərzində dünyanı 3 dəfədən çox dövrə vurub."
+    },
+    {
+     "q": "Krakatau partlayışından sonra Nyu-Yorkda niyə yanğınsöndürən çağırıblar?",
+     "options": [
+      "Qırmızı səmaya görə",
+      "Kül yağışına görə",
+      "Zəlzələyə görə"
+     ],
+     "answer": "Qırmızı səmaya görə",
+     "why": "Kül qeyri-adi qırmızı gün batımları yaradıb, insanlar yanğın sanıb."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-18",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-18-3",
+   "date": "2026-10-18",
+   "subject": "Nobel Prize & Baku oil",
+   "cat": "Azərbaycan",
+   "quizzes": [
+    {
+     "q": "Robert Nobel 1873-cü ildə Qafqaza nə almağa gəlmişdi?",
+     "options": [
+      "Qoz ağacı",
+      "Neft",
+      "İpək"
+     ],
+     "answer": "Qoz ağacı",
+     "why": "Tüfəng qundaqları üçün; pulu isə Bakıda neft zavoduna verdi."
+    },
+    {
+     "q": "Dünyanın ilk neft tankeri «Zoroastr» harada işləyib?",
+     "options": [
+      "Xəzər dənizində",
+      "Qara dənizdə",
+      "Atlantik okeanında"
+     ],
+     "answer": "Xəzər dənizində",
+     "why": "1878-ci ildə Branobel üçün İsveçdə tikilib, Bakı–Həştərxan xəttində işləyib."
+    },
+    {
+     "q": "Nobel Fondu kapitalının təxminən neçə faizi Branobel səhmlərindən gəlib?",
+     "options": [
+      "1%",
+      "12%",
+      "50%"
+     ],
+     "answer": "12%",
+     "why": "Alfredin Branobel səhmləri 3,84 milyon kron edib — ilkin kapitalın ~12%-i."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-18",
      "qi": 0
     }
    ]

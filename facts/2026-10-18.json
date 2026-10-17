@@ -96,7 +96,7 @@
     },
     {
      "h": "64 km",
-     "t": "Sumatra yaxınlığında, vulkandan ~64 km aralıda dayanan «Norham Castle» gəmisində dənizçilərin qulaq pərdələri partladı."
+     "t": "Sumatra yaxınlığında, vulkandan təxminən 64 km aralıda dayanan «Norham Castle» gəmisində dənizçilərin qulaq pərdələri partladı."
     },
     {
      "h": "7 dəfə",
@@ -163,7 +163,7 @@
     "https://en.wikipedia.org/wiki/Ludvig_Nobel",
     "https://www.aljazeera.com/economy/2017/12/9/alfred-nobels-lesser-known-azerbaijan-connection"
    ],
-   "reel_hook": "Nobel mükafatında Bakı izi",
+   "reel_hook": "Nobel və Bakı nefti",
    "reel_fact": "Nobel mükafatının arxasında Bakı nefti də var: Nobel Fondunun ilkin kapitalının təxminən 12%-i Alfredin Bakıdakı «Branobel» şirkətindəki səhmlərindən gəlib.",
    "cat": "Azərbaycan",
    "reel_beats": [
@@ -308,5 +308,111 @@
    "Nobel share corrected from ~1/5 to ~12% (conservative; sources disagree)",
    "all slides/beats/quizzes verified; captions rewritten per caption rules (share line, 5 tags, photo credit)"
   ]
+ },
+ "stories": [
+  {
+   "time": "11:00",
+   "fact_id": "2026-10-15-1",
+   "recall": true,
+   "cat": "Tarix",
+   "q": "Makedoniyalı İskəndərin ordusu şərqdə hansı ölkəyə qədər çatmışdı?",
+   "options": [
+    "Misir",
+    "Hindistan",
+    "Çin"
+   ],
+   "answer": "Hindistan",
+   "why": "E.ə. 326-cı ildə İskəndərin ordusu Hindistana çatdı.",
+   "image": "out/2026-10-18/q1.jpg",
+   "answer_image": "out/2026-10-18/q1_a.jpg"
+  },
+  {
+   "time": "14:00",
+   "fact_id": "2026-10-18-1",
+   "recall": false,
+   "cat": "Texnologiya",
+   "q": "Bluetooth adı hansı ildə təklif edilib?",
+   "options": [
+    "1977",
+    "1997",
+    "2007"
+   ],
+   "answer": "1997",
+   "why": "Intel mühəndisi Cim Kardax 1997-ci ildə müvəqqəti ad kimi təklif edib.",
+   "image": "out/2026-10-18/q2.jpg",
+   "answer_image": "out/2026-10-18/q2_a.jpg"
+  },
+  {
+   "time": "16:30",
+   "fact_id": "2026-10-16-3",
+   "recall": true,
+   "cat": "Təbiət",
+   "q": "Ahtapotun qanını mavi edən hansı metaldır?",
+   "options": [
+    "Dəmir",
+    "Mis",
+    "Sink"
+   ],
+   "answer": "Mis",
+   "why": "Oksigeni mis əsaslı hemosianin daşıyır, ona görə qanı mavidir.",
+   "image": "out/2026-10-18/q3.jpg",
+   "answer_image": "out/2026-10-18/q3_a.jpg"
+  },
+  {
+   "time": "19:30",
+   "fact_id": "2026-10-18-2",
+   "recall": false,
+   "cat": "Elm",
+   "q": "Rodriges adasında Krakatau partlayışını nə sanıblar?",
+   "options": [
+    "Top atəşi",
+    "Göy gurultusu",
+    "Zəlzələ"
+   ],
+   "answer": "Top atəşi",
+   "why": "4 800 km uzaqda səs yaxındakı gəminin top atəşi kimi eşidilib.",
+   "image": "out/2026-10-18/q4.jpg",
+   "answer_image": "out/2026-10-18/q4_a.jpg"
+  },
+  {
+   "time": "22:30",
+   "fact_id": "2026-10-18-3",
+   "recall": false,
+   "cat": "Azərbaycan",
+   "q": "Robert Nobel 1873-cü ildə Qafqaza nə almağa gəlmişdi?",
+   "options": [
+    "Qoz ağacı",
+    "Neft",
+    "İpək"
+   ],
+   "answer": "Qoz ağacı",
+   "why": "Tüfəng qundaqları üçün; pulu isə Bakıda neft zavoduna verdi.",
+   "image": "out/2026-10-18/q5.jpg",
+   "answer_image": "out/2026-10-18/q5_a.jpg"
+  }
+ ],
+ "history_story": {
+  "time": "10:00",
+  "day": 18,
+  "month": 10,
+  "year": 1958,
+  "title": "«Tennis for Two»: Pong-dan 14 il əvvəl",
+  "text": "ABŞ-ın Brukheyven laboratoriyasında fizik Uilyam Hiqinbotem ziyarətçilər günü üçün 5 düymlük osilloqraf ekranında tennis oyunu qurdu. Yüzlərlə adam növbəyə durdu. Patent almadı — ilk əyləncə video oyunlarından biri belə doğuldu.",
+  "image": "out/2026-10-18/tbg.jpg",
+  "photo": {
+   "path": "fetch/img/2026-10-18_tbg_tennis_osc.jpg",
+   "credit": "Brookhaven National Laboratory (ictimai mülkiyyət)",
+   "source": "https://commons.wikimedia.org/wiki/File:Tennis_For_Two_on_a_DuMont_Lab_Oscilloscope_Type_304-A.jpg"
+  },
+  "sources": [
+   "https://www.bnl.gov/about/history/firstvideo.php",
+   "https://en.wikipedia.org/wiki/Tennis_for_Two"
+  ],
+  "verify_note": "BNL: first shown 18 Oct 1958 visitors' day, 5-inch display, hundreds lined up, no patent. Worded as 'one of the first entertainment video games' (1948 CRT amusement device / OXO precede it)."
+ },
+ "trend_check_evening": {
+  "checked": "2026-10-17 20:50 Asia/Baku",
+  "result": "no swap",
+  "why": "Headlines: US politics (White House press secretary change, Russia sanctions pause), France protests, US East Coast nor'easter. Nothing a large share of the AZ audience is discussing that fits section T; 18:30 Krakatau stays as evergreen backup for the 09:10 trend pick."
  }
 }

@@ -25,3 +25,4 @@ search_petrolea.json https://commons.wikimedia.org/w/api.php?action=query&format
 2026-10-18_2_krakatoa.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Krakatoa_eruption_lithograph.jpg/1920px-Krakatoa_eruption_lithograph.jpg
 2026-10-18_3_nobel.jpg https://upload.wikimedia.org/wikipedia/commons/6/6e/AlfredNobel_adjusted.jpg
 2026-10-18_3_petrolea.jpg https://upload.wikimedia.org/wikipedia/commons/3/34/Villa_Petrolea_in_1897.jpg
+search_tennis2.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Tennis%20for%20Two

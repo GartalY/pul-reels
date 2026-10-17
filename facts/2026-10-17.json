@@ -76,73 +76,91 @@
    }
   },
   {
-   "n": 2,
+   "n": "T",
    "type": "card",
-   "subject": "Everest marine fossils",
-   "photo_request": "Everest dağı",
-   "title": "Everest",
-   "text": "Dünyanın ən hündür nöqtəsi əslində qədim okeanın dibidir. Everestin zirvəsindəki daşda dəniz canlılarının fosilləri var.",
-   "caption": "Dünyanın zirvəsi — keçmişin okean dibi 🏔️\n\nEverestin ən üst qatı dəniz əhəngdaşından ibarətdir. İçində trilobit və dəniz zanbağı kimi qədim dəniz canlılarının fosilləri var. Hindistan Asiyaya toqquşanda okean dibi 8 849 metrə qədər qalxıb.\n\n📩 Dağa çıxmağı sevən dostuna göndər — qoy bilsin, əslində dənizin dibinə çıxır 😄\n\nFoto: Slava Auchynnikau / Unsplash\n\n#bilirdinizmi #maraqlıfaktlar #everest #geologiya #elm",
-   "sources": [
-    "https://montana.edu/everest/facts/summit-limestone.html"
-   ],
-   "cat": "Elm",
+   "format": "v2",
+   "subject": "Lamine Yamal (before Real Betis vs Barcelona, 17 Oct 2026)",
+   "cat": "İdman",
+   "title": "Lamine Yamal",
+   "text": "Bu axşam Real Betisə qarşı oynayacaq. Amma onun hekayəsi 2007-ci ildə — Messinin əllərində başlayıb.",
    "slides": [
     {
-     "h": "470 milyon il",
-     "t": "Zirvədəki boz əhəngdaşı təxminən 470 milyon il əvvəl dənizin dibində yaranıb. Geoloqlar ona «Qomolanqma əhəngdaşı» deyir."
+     "h": "2007",
+     "t": "UNICEF və «Sport» qəzetinin xeyriyyə təqvimi üçün 20 yaşlı Messi bir neçə aylıq Lamini vannada çimizdirib. Ailə bu çəkilişi Mataroda keçirilən lotereyada udmuşdu."
     },
     {
-     "h": "Trilobitlər",
-     "t": "Daşın içində trilobit, braxiopod, ostrakod və dəniz zanbaqlarının qırıntıları var — hamısı okeanda yaşayan canlılardır."
+     "h": "304",
+     "t": "Qol vuranda əlləri ilə «304» göstərir. Bu, uşaqlığının keçdiyi Rokafonda məhəlləsinin (Mataro) poçt indeksinin — 08304 — son üç rəqəmidir."
     },
     {
-     "h": "Dinozavrlardan əvvəl",
-     "t": "Bu daşlar ilk dinozavrlardan təxminən 240 milyon il əvvəl yaranıb."
+     "h": "16 yaş 362 gün",
+     "t": "Avro-2024-ə məktəb ev tapşırıqları ilə gəlmişdi. Yarımfinalda Fransaya vurduğu qolla Avropa çempionatları tarixinin ən gənc qolçusu oldu."
     },
     {
-     "h": "Necə qalxdı?",
-     "t": "Hindistan plitəsi Asiyaya toqquşanda okean dibi qırışaraq 8 849 metrə qalxdı. Bu toqquşma bu gün də davam edir."
+     "h": "Yenə Betis",
+     "t": "Barselonada ilk rəsmi oyununu 29 aprel 2023-də, 15 yaşında məhz Real Betisə qarşı keçirib (4:0). Bu axşam yenə Betislə qarşılaşır."
     }
    ],
+   "caption": "Messi onu körpə ikən çimizdirib 👶⚽\n\nLamine Yamal bu axşam Barselona ilə Real Betisin qonağıdır. 2007-ci ildə xeyriyyə təqvimi üçün 20 yaşlı Messi onu vannada çimizdirmişdi. 16 yaşında Avro-2024-ə ev tapşırıqları ilə gəldi və turnir tarixinin ən gənc qolçusu oldu. Barselonada ilk oyununu da məhz Betisə qarşı keçirib.\n\n📩 Yamalı hələ də «uşaq» sayan dostuna göndər 😄\n\nFoto: Bryan Berlin / Wikimedia Commons (CC BY-SA 4.0)\n\n#bilirdinizmi #maraqlıfaktlar #futbol #barselona #laminyamal",
+   "first_comment": "Bu axşam Betis–Barselona: sənin hesab proqnozun? 👇",
    "quizzes": [
     {
-     "q": "Everestin zirvəsindəki daşın yaşı təxminən nə qədərdir?",
+     "q": "Messi körpə Yamalı çimizdirəndə neçə yaşında idi?",
      "options": [
-      "47 min il",
-      "4,7 milyon il",
-      "470 milyon il"
+      "15",
+      "20",
+      "25"
      ],
-     "answer": "470 milyon il",
-     "why": "Zirvə daşı ~470 milyon il əvvəl okean dibində yaranıb."
+     "answer": "20",
+     "why": "2007-ci ildə xeyriyyə təqvimi üçün çəkiliş; Messi 20 yaşında idi."
     },
     {
-     "q": "Everestin zirvə daşında hansı canlının fosili var?",
+     "q": "Yamalın «304» jesti nəyi bildirir?",
      "options": [
-      "Mamont",
-      "Trilobit",
-      "Dinozavr"
+      "Məhəlləsinin poçt indeksini",
+      "Forma nömrəsini",
+      "Doğum tarixini"
      ],
-     "answer": "Trilobit",
-     "why": "Trilobitlər — 470 milyon il əvvəl dənizdə yaşayan canlılar."
+     "answer": "Məhəlləsinin poçt indeksini",
+     "why": "Rokafonda (Mataro) məhəlləsinin indeksi 08304-dür."
     },
     {
-     "q": "Everesti hansı toqquşma qaldırıb?",
+     "q": "Yamal Barselonada ilk rəsmi oyununu kimə qarşı keçirib?",
      "options": [
-      "Hindistan və Asiya",
-      "Afrika və Avropa",
-      "Amerika və Asiya"
+      "Real Madrid",
+      "Real Betis",
+      "Sevilya"
      ],
-     "answer": "Hindistan və Asiya",
-     "why": "Hindistan plitəsi Asiyaya toqquşub və bu gün də itələyir."
+     "answer": "Real Betis",
+     "why": "29 aprel 2023, 15 yaşında, 4:0 qələbə."
     }
    ],
-   "first_comment": "Bunu bilirdin, yoxsa indi öyrəndin? 👇",
    "photo": {
-    "path": "fetch/img/2026-10-17_2_everest.jpg",
-    "credit": "Slava Auchynnikau / Unsplash",
-    "cy": 0.5
-   }
+    "path": "fetch/img/2026-10-17_T_yamal_b.jpg",
+    "credit": "Bryan Berlin / Wikimedia Commons (CC BY-SA 4.0)",
+    "cy": 0.35,
+    "full": false,
+    "source": "https://commons.wikimedia.org/wiki/File:Lamine_Yamal_Argentina_v_Spain_19_July_2026-319.jpg"
+   },
+   "sources": [
+    "https://www.cbsnews.com/amp/miami/news/lionel-messi-lamine-yamal-baby-barcelona-photos-joan-monfort",
+    "https://www.beinsports.com/en-us/soccer/la-liga/articles-video/why-does-lamine-yamal-celebrate-his-goals-with-a-304-2024-09-24",
+    "https://www.ksat.com/sports/2024/07/09/spains-lamine-yamal-becomes-the-youngest-player-to-score-at-mens-european-championship-at-age-16/",
+    "https://news.wfsu.org/all-npr-news/2024-06-15/16-year-old-soccer-player-lamine-yamal-brings-his-homework-to-euro-2024",
+    "https://www.fcbarcelona.es/es/futbol/primer-equipo/noticias/3246834/lamine-yamal-un-debut-de-record",
+    "https://en.wikipedia.org/wiki/Lamine_Yamal",
+    "https://www.si.com/soccer/real-betis-vs-barcelona-preview-predictions-lineups-10-17-26"
+   ],
+   "why_trend": "Real Betis vs Barcelona (LaLiga MD9) tonight 17 Oct, kick-off 17:30 BST = 20:30 Baku, at La Cartuja; Barça 8/8 wins, Betis 3rd. Post at 18:30 goes out before kick-off.",
+   "picked": "2026-10-17 09:10 Asia/Baku",
+   "carousel": [
+    "out/2026-10-17/T_1.jpg",
+    "out/2026-10-17/T_2.jpg",
+    "out/2026-10-17/T_3.jpg",
+    "out/2026-10-17/T_4.jpg",
+    "out/2026-10-17/T_5.jpg",
+    "out/2026-10-17/T_6.jpg"
+   ]
   },
   {
    "n": 3,
@@ -266,19 +284,19 @@
   },
   {
    "time": "19:30",
-   "fact_id": "2026-10-17-2",
+   "fact_id": "2026-10-17-T",
    "recall": false,
-   "cat": "Elm",
-   "q": "Everestin zirvəsindəki daşın yaşı təxminən nə qədərdir?",
+   "cat": "İdman",
+   "q": "Messi körpə Yamalı çimizdirəndə neçə yaşında idi?",
    "options": [
-    "47 min il",
-    "4,7 milyon il",
-    "470 milyon il"
+    "15",
+    "20",
+    "25"
    ],
-   "answer": "470 milyon il",
-   "why": "Zirvə daşı ~470 milyon il əvvəl okean dibində yaranıb.",
-   "image": "out/2026-10-17/q4.jpg",
-   "answer_image": "out/2026-10-17/q4_a.jpg"
+   "answer": "20",
+   "why": "2007-ci ildə xeyriyyə təqvimi üçün çəkiliş; Messi 20 yaşında idi.",
+   "image": "out/2026-10-17/q4_trend.jpg",
+   "answer_image": "out/2026-10-17/q4_trend_a.jpg"
   },
   {
    "time": "22:30",
@@ -405,5 +423,12 @@
   "checked": "2026-10-17 09:15 Asia/Baku",
   "result": "no swap",
   "why": "Headlines: M6.9 quake off Kamchatka (no major damage reported in sources seen), Houthi strikes in Aden, US school shooting, US politics. None is something a large share of our AZ audience is discussing that fits section T; trend slot covers the football weekend."
+ },
+ "trend_swap": {
+  "when": "2026-10-17 15:30 Asia/Baku",
+  "slot": "18:30 carousel + 19:30 quiz + 19:40 answer",
+  "what": "Everest marine fossils -> Lamine Yamal (Betis vs Barcelona tonight)",
+  "why": "Betis-Barça LaLiga MD9 confirmed for 17 Oct 18:30 CEST (20:30 Baku); Yamal in Barça's plans. Midday news check: nothing bigger.",
+  "backup_moved_to": "2026-10-18 (spare)"
  }
 }

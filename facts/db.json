@@ -138,50 +138,6 @@
    ]
   },
   {
-   "id": "2026-10-17-2",
-   "date": "2026-10-17",
-   "subject": "Everest marine fossils",
-   "cat": "Elm",
-   "quizzes": [
-    {
-     "q": "Everestin zirvəsindəki daşın yaşı təxminən nə qədərdir?",
-     "options": [
-      "47 min il",
-      "4,7 milyon il",
-      "470 milyon il"
-     ],
-     "answer": "470 milyon il",
-     "why": "Zirvə daşı ~470 milyon il əvvəl okean dibində yaranıb."
-    },
-    {
-     "q": "Everestin zirvə daşında hansı canlının fosili var?",
-     "options": [
-      "Mamont",
-      "Trilobit",
-      "Dinozavr"
-     ],
-     "answer": "Trilobit",
-     "why": "Trilobitlər — 470 milyon il əvvəl dənizdə yaşayan canlılar."
-    },
-    {
-     "q": "Everesti hansı toqquşma qaldırıb?",
-     "options": [
-      "Hindistan və Asiya",
-      "Afrika və Avropa",
-      "Amerika və Asiya"
-     ],
-     "answer": "Hindistan və Asiya",
-     "why": "Hindistan plitəsi Asiyaya toqquşub və bu gün də itələyir."
-    }
-   ],
-   "asked": [
-    {
-     "date": "2026-10-17",
-     "qi": 0
-    }
-   ]
-  },
-  {
    "id": "2026-10-17-3",
    "date": "2026-10-17",
    "subject": "Greenland shark",
@@ -260,6 +216,50 @@
     {
      "date": "2026-10-17",
      "qi": 1
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-T",
+   "date": "2026-10-17",
+   "subject": "Lamine Yamal (before Real Betis vs Barcelona, 17 Oct 2026)",
+   "cat": "İdman",
+   "quizzes": [
+    {
+     "q": "Messi körpə Yamalı çimizdirəndə neçə yaşında idi?",
+     "options": [
+      "15",
+      "20",
+      "25"
+     ],
+     "answer": "20",
+     "why": "2007-ci ildə xeyriyyə təqvimi üçün çəkiliş; Messi 20 yaşında idi."
+    },
+    {
+     "q": "Yamalın «304» jesti nəyi bildirir?",
+     "options": [
+      "Məhəlləsinin poçt indeksini",
+      "Forma nömrəsini",
+      "Doğum tarixini"
+     ],
+     "answer": "Məhəlləsinin poçt indeksini",
+     "why": "Rokafonda (Mataro) məhəlləsinin indeksi 08304-dür."
+    },
+    {
+     "q": "Yamal Barselonada ilk rəsmi oyununu kimə qarşı keçirib?",
+     "options": [
+      "Real Madrid",
+      "Real Betis",
+      "Sevilya"
+     ],
+     "answer": "Real Betis",
+     "why": "29 aprel 2023, 15 yaşında, 4:0 qələbə."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-17",
+     "qi": 0
     }
    ]
   }

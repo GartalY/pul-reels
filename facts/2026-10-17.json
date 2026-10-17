@@ -317,7 +317,7 @@
  ],
  "metricool": {
   "13:00 carousel": 397942326,
-  "18:30 carousel": 397942402,
+  "18:30 carousel": 398450130,
   "21:30 reel": 397942452,
   "11:00 quiz q1 (auto)": 397989920,
   "11:10 answer a1": 397990196,
@@ -325,8 +325,8 @@
   "14:10 answer a2": 397990213,
   "16:30 quiz q3 (auto)": 397990065,
   "16:40 answer a3": 397990268,
-  "19:30 quiz q4 (auto)": 397990093,
-  "19:40 answer a4": 397990291,
+  "19:30 quiz q4 (auto)": 398450144,
+  "19:40 answer a4": 398450158,
   "22:30 quiz q5 (auto)": 397990117,
   "22:40 answer a5": 397990315,
   "10:00 tarixdə bu gün": 397994085
@@ -429,6 +429,7 @@
   "slot": "18:30 carousel + 19:30 quiz + 19:40 answer",
   "what": "Everest marine fossils -> Lamine Yamal (Betis vs Barcelona tonight)",
   "why": "Betis-Barça LaLiga MD9 confirmed for 17 Oct 18:30 CEST (20:30 Baku); Yamal in Barça's plans. Midday news check: nothing bigger.",
-  "backup_moved_to": "2026-10-18 (spare)"
+  "backup_moved_to": "2026-10-18 (spare)",
+  "metricool": "updated 15:26 (18:30 post, 19:30 q4_trend, 19:40 q4_trend_a); times kept"
  }
 }

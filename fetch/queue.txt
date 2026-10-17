@@ -17,3 +17,11 @@ search_jelling.json https://commons.wikimedia.org/w/api.php?action=query&format=
 search_krakatoa.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1400&gsrsearch=Krakatoa%201883%20eruption
 search_nobel.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1400&gsrsearch=Alfred%20Nobel%20portrait
 search_petrolea.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1400&gsrsearch=Villa%20Petrolea%20Baku
+2026-10-17_T_yamal_a.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Lamine_Yamal_in_2025.jpg/1920px-Lamine_Yamal_in_2025.jpg
+2026-10-17_T_yamal_b.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Lamine_Yamal_Argentina_v_Spain_19_July_2026-319.jpg/1920px-Lamine_Yamal_Argentina_v_Spain_19_July_2026-319.jpg
+2026-10-17_T_yamal_c.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Lamine_Yamal_France_v_Spain_7.24.26-058.jpg/1920px-Lamine_Yamal_France_v_Spain_7.24.26-058.jpg
+2026-10-18_1_jelling_a.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Jellingsten_stor_2.jpg/1920px-Jellingsten_stor_2.jpg
+2026-10-18_1_jelling_b.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jelling%2C_viking_stone%2C_July_2015.jpg/1920px-Jelling%2C_viking_stone%2C_July_2015.jpg
+2026-10-18_2_krakatoa.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Krakatoa_eruption_lithograph.jpg/1920px-Krakatoa_eruption_lithograph.jpg
+2026-10-18_3_nobel.jpg https://upload.wikimedia.org/wikipedia/commons/6/6e/AlfredNobel_adjusted.jpg
+2026-10-18_3_petrolea.jpg https://upload.wikimedia.org/wikipedia/commons/3/34/Villa_Petrolea_in_1897.jpg

@@ -26,3 +26,6 @@ search_petrolea.json https://commons.wikimedia.org/w/api.php?action=query&format
 2026-10-18_3_nobel.jpg https://upload.wikimedia.org/wikipedia/commons/6/6e/AlfredNobel_adjusted.jpg
 2026-10-18_3_petrolea.jpg https://upload.wikimedia.org/wikipedia/commons/3/34/Villa_Petrolea_in_1897.jpg
 search_tennis2.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Tennis%20for%20Two
+2026-10-18_tbg_tennis1958.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Tennis_For_Two_in_1958.jpg/1920px-Tennis_For_Two_in_1958.jpg
+2026-10-18_tbg_tennis_cc0.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Tennis_for_two.jpg/1440px-Tennis_for_two.jpg
+2026-10-18_tbg_tennis_osc.jpg https://upload.wikimedia.org/wikipedia/commons/5/50/Tennis_For_Two_on_a_DuMont_Lab_Oscilloscope_Type_304-A.jpg

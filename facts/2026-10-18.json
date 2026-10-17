@@ -1,6 +1,6 @@
 {
  "date": "2026-10-18",
- "status": "planned",
+ "status": "scheduled",
  "facts": [
   {
    "n": 1,
@@ -414,5 +414,21 @@
   "checked": "2026-10-17 20:50 Asia/Baku",
   "result": "no swap",
   "why": "Headlines: US politics (White House press secretary change, Russia sanctions pause), France protests, US East Coast nor'easter. Nothing a large share of the AZ audience is discussing that fits section T; 18:30 Krakatau stays as evergreen backup for the 09:10 trend pick."
+ },
+ "metricool": {
+  "13:00 carousel": 398624716,
+  "18:30 carousel": 398624809,
+  "21:30 reel": 398624866,
+  "10:00 tarixdə bu gün": 398624916,
+  "11:00 quiz q1 (auto)": 398624940,
+  "11:10 answer a1": 398624959,
+  "14:00 quiz q2 (auto)": 398624979,
+  "14:10 answer a2": 398625003,
+  "16:30 quiz q3 (auto)": 398625022,
+  "16:40 answer a3": 398625042,
+  "19:30 quiz q4 (auto)": 398625061,
+  "19:40 answer a4": 398625083,
+  "22:30 quiz q5 (auto)": 398625103,
+  "22:40 answer a5": 398625119
  }
 }

@@ -12,7 +12,7 @@
   "subject": "Santos-Dumont wins the Deutsch Prize: airship No. 6 around the Eiffel Tower (19 Oct 1901, 125 years)",
   "card_title": "19 OKTYABR 1901",
   "title": "Eyfel qülləsi ətrafında 30 dəqiqə",
-  "text": "Braziliyalı Alberto Santos-Dümon öz dirijablı ilə Sen-Kluddan havalanıb Eyfel qülləsini dövrə vurdu və 30 dəqiqədən tez geri döndü. Mükafatın yarısını komandasına, yarısını Parisin yoxsullarına verdi.",
+  "text": "Braziliyalı Santos-Dümon dirijablla Eyfel qülləsini dövrə vurub 30 dəqiqədən tez geri döndü. Mükafatın yarısını Parisin yoxsullarına verdi.",
   "slides": [
    {
     "h": "11 km",
@@ -93,7 +93,7 @@
    "reel_hook": "5 aylıq quş 11 gün dayanmadan uçdu",
    "reel_beats": [
     "13 oktyabr 2022, Alyaska. Peyk izləyicisi taxılmış 234684 nömrəli cavan sahil quşu (ingiliscə bar-tailed godwit) yola çıxdı. Cəmi 5 aylıq idi.",
-    "11 gün 1 saat ərzində okean üzərindən heç yerə enmədən 13 560 km uçdu və Tasmaniyaya çatdı. Bu, Ginnes rekordudur.",
+    "11 gün 1 saat ərzində okean üzərindən heç yerə enmədən 13 560 km uçdu və Tasmaniyaya çatdı. Bu, Ginnes rekordudur.",
     "Yolda bədən çəkisinin təxminən yarısını itirdi. Sən ən çox neçə saat yatmadan qalmısan?"
    ],
    "caption": "5 aylıq quş 11 gün heç yerə enmədən uçdu 🐦\n\n2022-ci ilin oktyabrında peyk izləyicisi taxılmış cavan bir sahil quşu (bar-tailed godwit) Alyaskadan havalandı və 11 gün 1 saat sonra Tasmaniyaya endi — arada heç bir dayanacaq olmadan, 13 560 km. Bu, quşların fasiləsiz miqrasiyası üzrə Ginnes rekordudur. Yolda çəkisinin təxminən yarısını itirdi.\n\n📩 5 dəqiqəlik yola da taksi çağıran dostuna göndər 😄\n\nFoto: Hobbyfotowiki / Wikimedia Commons (CC0)\n\n#bilirdinizmi #maraqlıfaktlar #quşlar #təbiət #rekord",
@@ -153,7 +153,7 @@
    "reel_hook": "Dünyanın ilk veb-kamerası bir qəhvədana baxırdı",
    "reel_beats": [
     "1991, Kembric Universiteti. Laboratoriyada tək qəhvədan vardı. Alimlər boşuna getməmək üçün ona kamera yönəltdilər: 128×128 piksellik ağ-qara şəkil, dəqiqədə 3 dəfə.",
-    "1993-cü ildə görüntü internetə çıxdı. 1998-ə qədər səhifəyə 2 milyondan çox baxış olmuşdu — dünyanın hər yerindən bir qəhvədana baxırdılar.",
+    "1993-cü ildə görüntü internetə çıxdı və milyonlarla insan ona baxdı — dünyanın hər yerindən bir qəhvədana baxırdılar.",
     "2001-ci ildə kamera söndürüldü, qəhvədan isə eBay-də 3 350 funta satıldı. Sən köhnə bir əşyanı ən baha neçəyə satmısan?"
    ],
    "caption": "Dünyanın ilk veb-kamerası... qəhvədana baxırdı ☕\n\n1991-ci ildə Kembric Universitetinin alimləri laboratoriyadakı yeganə qəhvədanın boş olub-olmadığını yerlərindən görmək üçün ona kamera yönəltdilər. 1993-cü ildə görüntü internetə çıxdı və milyonlarla baxış topladı. 2001-ci ildə kamera söndürüldü, qəhvədan isə eBay-də 3 350 funta satıldı.\n\n📩 Qəhvəsiz səhər işə başlaya bilməyən dostuna göndər ☕\n\nFoto: Ronan Furuta / Unsplash\n\n#bilirdinizmi #maraqlıfaktlar #texnologiya #internet #qəhvə",
@@ -201,7 +201,8 @@
     "cy": 0.55,
     "full": false,
     "source": "https://unsplash.com/photos/AjcABUQ7WuA"
-   }
+   },
+   "reverified": "2026-10-18 evening: cl.cam.ac.uk/coffee (128x128 greyscale, ~3/min), theregister.com (eBay £3,350); '2 million views by 1998' softened to 'milyonlarla'"
   },
   {
    "n": 3,
@@ -333,6 +334,89 @@
     "full": false,
     "source": "https://commons.wikimedia.org/wiki/File:Voyager_spacecraft.jpg"
    }
+  }
+ ],
+ "trend_check": "2026-10-18 20:50 evening run: news checked (France youth protests, Real Madrid–Sevilla tonight = today's trend already). Nothing big for the AZ audience that needs a swap of tomorrow's plan; the 18:30 trend is picked by the 09:10 morning task.",
+ "stories": [
+  {
+   "time": "11:00",
+   "fact_id": "2026-10-17-T",
+   "recall": true,
+   "cat": "İdman",
+   "q": "Yamalın «304» jesti nəyi bildirir?",
+   "options": [
+    "Məhəlləsinin poçt indeksini",
+    "Forma nömrəsini",
+    "Doğum tarixini"
+   ],
+   "answer": "Məhəlləsinin poçt indeksini",
+   "why": "Rokafonda (Mataro) məhəlləsinin indeksi 08304-dür.",
+   "image": "out/2026-10-19/q1.jpg",
+   "answer_image": "out/2026-10-19/q1_a.jpg"
+  },
+  {
+   "time": "14:00",
+   "fact_id": "2026-10-19-1",
+   "recall": false,
+   "cat": "Təbiət",
+   "q": "Rekordçu quş neçə gün dayanmadan uçdu?",
+   "options": [
+    "5",
+    "11",
+    "30"
+   ],
+   "answer": "11",
+   "why": "11 gün 1 saat ərzində 13 560 km.",
+   "image": "out/2026-10-19/q2.jpg",
+   "answer_image": "out/2026-10-19/q2_a.jpg"
+  },
+  {
+   "time": "17:00",
+   "fact_id": "2026-10-19-2",
+   "recall": false,
+   "cat": "Texnologiya",
+   "q": "Kembric qəhvədanının şəkli dəqiqədə neçə dəfə yenilənirdi?",
+   "options": [
+    "3",
+    "30",
+    "300"
+   ],
+   "answer": "3",
+   "why": "128×128 piksellik ağ-qara şəkil dəqiqədə 3 dəfə yenilənirdi.",
+   "image": "out/2026-10-19/q3.jpg",
+   "answer_image": "out/2026-10-19/q3_a.jpg"
+  },
+  {
+   "time": "19:30",
+   "fact_id": "2026-10-19-3",
+   "recall": false,
+   "cat": "Elm",
+   "q": "Everestin zirvəsindəki daşın yaşı təxminən nə qədərdir?",
+   "options": [
+    "47 min il",
+    "4,7 milyon il",
+    "470 milyon il"
+   ],
+   "answer": "470 milyon il",
+   "why": "Zirvə daşı ~470 milyon il əvvəl okean dibində yaranıb.",
+   "image": "out/2026-10-19/q4.jpg",
+   "answer_image": "out/2026-10-19/q4_a.jpg"
+  },
+  {
+   "time": "22:30",
+   "fact_id": "2026-10-19-4",
+   "recall": false,
+   "cat": "Kosmos",
+   "q": "Voyager 1 hansı ildə buraxılıb?",
+   "options": [
+    "1969",
+    "1977",
+    "1990"
+   ],
+   "answer": "1977",
+   "why": "5 sentyabr 1977-də buraxılıb.",
+   "image": "out/2026-10-19/q5.jpg",
+   "answer_image": "out/2026-10-19/q5_a.jpg"
   }
  ]
 }

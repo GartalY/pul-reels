@@ -270,6 +270,10 @@
     {
      "date": "2026-10-17",
      "qi": 0
+    },
+    {
+     "date": "2026-10-19",
+     "qi": 1
     }
    ]
   },
@@ -316,45 +320,6 @@
      "qi": 0
     }
    ]
-  },
-  {
-   "id": "2026-10-18-2",
-   "date": "2026-10-18",
-   "subject": "Krakatoa 1883",
-   "cat": "Elm",
-   "quizzes": [
-    {
-     "q": "Rodriges adasında Krakatau partlayışını nə sanıblar?",
-     "options": [
-      "Top atəşi",
-      "Göy gurultusu",
-      "Zəlzələ"
-     ],
-     "answer": "Top atəşi",
-     "why": "4 800 km uzaqda səs yaxındakı gəminin top atəşi kimi eşidilib."
-    },
-    {
-     "q": "Barometrlər Krakatau təzyiq dalğasını neçə dəfə qeydə alıb?",
-     "options": [
-      "2",
-      "7",
-      "20"
-     ],
-     "answer": "7",
-     "why": "Dalğa 5 gün ərzində dünyanı 3 dəfədən çox dövrə vurub."
-    },
-    {
-     "q": "Krakatau partlayışından sonra Nyu-Yorkda niyə yanğınsöndürən çağırıblar?",
-     "options": [
-      "Qırmızı səmaya görə",
-      "Kül yağışına görə",
-      "Zəlzələyə görə"
-     ],
-     "answer": "Qırmızı səmaya görə",
-     "why": "Kül qeyri-adi qırmızı gün batımları yaradıb, insanlar yanğın sanıb."
-    }
-   ],
-   "asked": []
   },
   {
    "id": "2026-10-18-3",
@@ -440,6 +405,182 @@
    "asked": [
     {
      "date": "2026-10-18",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-19-1",
+   "date": "2026-10-19",
+   "subject": "Bar-tailed godwit 234684: 13,560 km nonstop in 11 days (2022)",
+   "cat": "Təbiət",
+   "quizzes": [
+    {
+     "q": "Rekordçu quş neçə gün dayanmadan uçdu?",
+     "options": [
+      "5",
+      "11",
+      "30"
+     ],
+     "answer": "11",
+     "why": "11 gün 1 saat ərzində 13 560 km."
+    },
+    {
+     "q": "Quş rekord uçuşa başlayanda neçə aylıq idi?",
+     "options": [
+      "5 aylıq",
+      "2 yaşında",
+      "10 yaşında"
+     ],
+     "answer": "5 aylıq",
+     "why": "Bu, cavan quşun ilk köçü idi."
+    },
+    {
+     "q": "Rekord uçuş harada başa çatdı?",
+     "options": [
+      "Tasmaniyada",
+      "Yaponiyada",
+      "Havayda"
+     ],
+     "answer": "Tasmaniyada",
+     "why": "Alyaskadan Avstraliyanın Tasmaniya adasına qədər uçdu."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-19",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-19-2",
+   "date": "2026-10-19",
+   "subject": "Trojan Room coffee pot — first webcam (Cambridge 1991)",
+   "cat": "Texnologiya",
+   "quizzes": [
+    {
+     "q": "Kembric qəhvədanının şəkli dəqiqədə neçə dəfə yenilənirdi?",
+     "options": [
+      "3",
+      "30",
+      "300"
+     ],
+     "answer": "3",
+     "why": "128×128 piksellik ağ-qara şəkil dəqiqədə 3 dəfə yenilənirdi."
+    },
+    {
+     "q": "Məşhur qəhvədan eBay-də neçəyə satıldı?",
+     "options": [
+      "335 funt",
+      "3 350 funt",
+      "33 500 funt"
+     ],
+     "answer": "3 350 funt",
+     "why": "2001-ci ildə «Spiegel Online» aldı."
+    },
+    {
+     "q": "Qəhvədan kamerası hansı ildə söndürüldü?",
+     "options": [
+      "1995",
+      "2001",
+      "2010"
+     ],
+     "answer": "2001",
+     "why": "Son şəkil 22 avqust 2001-də çəkilib."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-19",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-19-3",
+   "date": "2026-10-19",
+   "subject": "Everest marine fossils",
+   "cat": "Elm",
+   "quizzes": [
+    {
+     "q": "Everestin zirvəsindəki daşın yaşı təxminən nə qədərdir?",
+     "options": [
+      "47 min il",
+      "4,7 milyon il",
+      "470 milyon il"
+     ],
+     "answer": "470 milyon il",
+     "why": "Zirvə daşı ~470 milyon il əvvəl okean dibində yaranıb."
+    },
+    {
+     "q": "Everestin zirvə daşında hansı canlının fosili var?",
+     "options": [
+      "Mamont",
+      "Trilobit",
+      "Dinozavr"
+     ],
+     "answer": "Trilobit",
+     "why": "Trilobitlər — 470 milyon il əvvəl dənizdə yaşayan canlılar."
+    },
+    {
+     "q": "Everesti hansı toqquşma qaldırıb?",
+     "options": [
+      "Hindistan və Asiya",
+      "Afrika və Avropa",
+      "Amerika və Asiya"
+     ],
+     "answer": "Hindistan və Asiya",
+     "why": "Hindistan plitəsi Asiyaya toqquşub və bu gün də itələyir."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-19",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-19-4",
+   "date": "2026-10-19",
+   "subject": "Voyager 1 reaches one light-day from Earth on 18 Nov 2026",
+   "cat": "Kosmos",
+   "quizzes": [
+    {
+     "q": "Voyager 1 hansı ildə buraxılıb?",
+     "options": [
+      "1969",
+      "1977",
+      "1990"
+     ],
+     "answer": "1977",
+     "why": "5 sentyabr 1977-də buraxılıb."
+    },
+    {
+     "q": "Bir işıq-günü təxminən neçə kilometrdir?",
+     "options": [
+      "2,6 milyard",
+      "25,9 milyard",
+      "259 milyard"
+     ],
+     "answer": "25,9 milyard",
+     "why": "İşığın 24 saatda qət etdiyi yol."
+    },
+    {
+     "q": "Voyager 1 ulduzlararası fəzaya hansı ildə çıxıb?",
+     "options": [
+      "2001",
+      "2012",
+      "2020"
+     ],
+     "answer": "2012",
+     "why": "2012-ci ildə heliopauzanı keçib."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-19",
      "qi": 0
     }
    ]

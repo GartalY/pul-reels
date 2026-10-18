@@ -104,13 +104,17 @@ Why: Gartal said one-sentence facts were too thin and the quizzes too easy (phot
 - On a round anniversary (25, 50, 75, 100, 150, 200… years) of a big event, ALSO make it the 13:00 carousel
   that day (the planned fact moves to a later day).
 
-## D. Trend post (from 2026-10-20: ONLY WHEN STRONG — decision 2026-10-18, Claude as manager)
-Change: the trend card was the weakest card on both measured days (Tesla 27, Yamal 17 reach, 0 shares vs
-~38 for evergreen cards). From 2026-10-20 swap the 18:30 backup for a trend ONLY if the story is (a) huge
-— most people in Azerbaijan are talking about it today — or (b) has a real Azerbaijani/Turkish link.
-Otherwise keep the evergreen backup and log `"trend_swap": "none — no strong trend"`. Section T (big news)
-still applies. Re-check in the 2026-10-25 review (the 18 Oct Mourinho card is the 3rd data point).
-(Original rule: EVERY day from 2026-10-17 — Gartal, 2026-10-16.)
+## D. Daily trend post — EVERY day (Gartal, 2026-10-16; re-confirmed 2026-10-18 evening, overriding Claude's
+## "only when strong" idea from earlier that evening)
+Keep doing a trend post every day. To make it work better (the Tesla and Yamal trend cards had the lowest reach):
+pick the story most people in Azerbaijan are talking about, prefer an Azerbaijani/Turkish link when there is one,
+and use a strong surprising angle (a number, a "before he was famous", a history twist).
+- World political news is a valid trend topic (Gartal, 2026-10-18), e.g. protests or a government crisis in
+  France. Tell it NEUTRALLY: (1) what happened — the facts only, (2) the history behind it (has it happened
+  before, how the system works), (3) the commonly reported reasons, attributed ("according to Reuters…",
+  "critics say… / the government says…") and always giving BOTH/all sides. Never take a side, no opinions,
+  no loaded words, no predictions, no mocking or praising anyone, no emoji that judge. Verify with 2+ reliable
+  sources. Azerbaijani politics stays off-limits (section T).
 At least one post per day is about something people are talking about TODAY, told as a richer story
 (3–4+ sentences / 3–4 detail slides). Example of the style: a footballer in the news → "before he was famous,
 he worked in a factory" + the details. Slot: the **18:30 carousel**.
@@ -163,6 +167,8 @@ Goal: keep up with the real world. Before doing the main task, search the news (
 - Politics and elections OUTSIDE Azerbaijan are allowed (Gartal, 2026-10-15), but strictly neutral and factual:
   how the system works, history, records, numbers (e.g. "how the US Electoral College works", "the shortest
   term in office"). No opinions, no praising or mocking candidates/parties, no predictions.
+  Current political news abroad is also fine (Gartal, 2026-10-18): what happened, its history, and the
+  reported reasons from all sides — see section D.
 - NEVER anything about Azerbaijan's politics, elections, government or its conflicts/relations with other
   countries. Also skip religion. Wars elsewhere follow the tragedy rules above.
 - Log every swap in facts/<date>.json ("trend_swap": what, why) and put the replaced fact back into a later day.

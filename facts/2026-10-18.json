@@ -76,76 +76,81 @@
    }
   },
   {
-   "n": 2,
+   "n": "T",
    "type": "card",
-   "subject": "Krakatoa 1883",
-   "photo_request": "Krakatau vulkanı (və ya püskürmənin tarixi təsviri)",
-   "title": "Krakatau, 1883",
-   "text": "1883-cü ildə Krakatau vulkanının partlayışı 4 800 km uzaqda eşidilib. Bu, tarixdə qeydə alınmış ən güclü səs sayılır.",
-   "caption": "Tarixin ən güclü səsi 🌋\n\n1883-cü ilin 27 avqustunda İndoneziyadakı Krakatau vulkanı partladı. Səsi 4 800 km uzaqda — Hind okeanındakı Rodriges adasında top atəşi kimi eşidildi. 64 km aralıdakı gəmidə dənizçilərin qulaq pərdələri partladı, təzyiq dalğası isə Yer kürəsini 3 dəfədən çox dövrə vurdu.\n\n📩 Qulaqcıqda musiqini həmişə sonuna qədər açan dostuna göndər 🔊\n\nFoto: Parker & Coward litoqrafiyası (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #vulkan #tarix #elm",
-   "sources": [
-    "https://en.wikipedia.org/wiki/1883_eruption_of_Krakatoa",
-    "https://www.discoverwildlife.com/environment/loudest-recorded-noise",
-    "https://www.discovermagazine.com/the-loudest-sound-ever-heard-198"
-   ],
-   "cat": "Elm",
+   "format": "v2",
+   "subject": "José Mourinho (Real Madrid vs Sevilla tonight, 18 Oct 2026, 21:00 CEST = 23:00 Baku)",
+   "cat": "İdman",
+   "title": "Joze Mourinyo",
+   "text": "Bu axşam «Real Madrid» «Sevilya»nı qəbul edir. Amma onun məşqçisinin karyerası futbolçu kimi yox, tərcüməçi kimi başlayıb.",
    "slides": [
     {
-     "h": "4 800 km",
-     "t": "27 avqust 1883. Hind okeanındakı Rodriges adasında insanlar partlayışı yaxınlıqdakı gəminin top atəşi sandılar. Bu, Bakıdan Londona qədər olan məsafədən (~4 000 km) də çoxdur."
+     "h": "1992",
+     "t": "Lissabon hava limanında «Sportinq» ona yeni ingilis məşqçi Bobbi Robsonu qarşılamağı tapşırdı. Mourinyo o vaxt məktəb müəllimi idi — Robsonun tərcüməçisi oldu."
     },
     {
-     "h": "64 km",
-     "t": "Sumatra yaxınlığında, vulkandan təxminən 64 km aralıda dayanan «Norham Castle» gəmisində dənizçilərin qulaq pərdələri partladı."
+     "h": "Barselona, 1996",
+     "t": "Robsonun ardınca əvvəl «Porto»ya, sonra «Barselona»ya getdi — tərcüməçi və köməkçi kimi. Komandanın liderlərindən biri o zaman oyunçu Pep Qvardiola idi."
     },
     {
-     "h": "7 dəfə",
-     "t": "Təzyiq dalğası Yer kürəsini 3 dəfədən çox dövrə vurdu: dünyadakı barometrlər onu 5 gün ərzində 7 dəfə qeydə aldı."
+     "h": "2004",
+     "t": "«Porto» ilə Çempionlar Liqasını qazandı və «Çelsi»yə gəldi. İlk mətbuat konfransında dedi: «Məni təkəbbürlü saymayın, amma mən Avropa çempionuyam və məncə, xüsusi biriyəm»."
     },
     {
-     "h": "Qırmızı səma",
-     "t": "Atmosferə qalxan kül aylarla qeyri-adi qırmızı gün batımları yaratdı. Nyu-Yorkda yanğın olduğunu düşünüb yanğınsöndürənləri çağırdılar."
+     "h": "100 xal",
+     "t": "«Real»dakı ilk dövründə (2011/12) La Liqa tarixində 100 xal toplayan ilk komanda oldu və 121 qol vurdu. 2026-cı ilin yayında Madridə qayıtdı."
     }
    ],
-   "first_comment": "Sən indiyə qədər eşitdiyin ən güclü səs nə olub? 👇",
+   "caption": "Futbolun ən məşhur məşqçilərindən biri tərcüməçi kimi başlayıb 🎙️\n\nJoze Mourinyonun «Real Madrid»i bu axşam «Sevilya»nı qəbul edir. 1992-ci ildə isə o, məktəb müəllimi idi və «Sportinq» onu yeni ingilis məşqçi Bobbi Robsona tərcüməçi təyin etdi. Robsonun ardınca «Porto» və «Barselona»ya getdi, 2004-cü ildə isə özünü «xüsusi biri» adlandırdı.\n\n📩 «Mən sadəcə köməkçiyəm» deyib hər şeyi idarə edən dostuna göndər 😄\n\nFoto: Steffen Prößdorf / Wikimedia Commons (CC BY-SA 4.0)\n\n#bilirdinizmi #maraqlıfaktlar #futbol #realmadrid #mourinyo",
+   "first_comment": "Bu axşam «Real» — «Sevilya»: sənin hesab proqnozun? 👇",
    "quizzes": [
     {
-     "q": "Rodriges adasında Krakatau partlayışını nə sanıblar?",
+     "q": "Mourinyo 1992-ci ildə kimin tərcüməçisi oldu?",
      "options": [
-      "Top atəşi",
-      "Göy gurultusu",
-      "Zəlzələ"
+      "Bobbi Robson",
+      "Aleks Ferqyuson",
+      "Yohan Kroyf"
      ],
-     "answer": "Top atəşi",
-     "why": "4 800 km uzaqda səs yaxındakı gəminin top atəşi kimi eşidilib."
+     "answer": "Bobbi Robson",
+     "why": "«Sportinq» onu yeni ingilis məşqçiyə tərcüməçi təyin etmişdi."
     },
     {
-     "q": "Barometrlər Krakatau təzyiq dalğasını neçə dəfə qeydə alıb?",
+     "q": "Mourinyo «Barselona»ya hansı ildə gəldi?",
      "options": [
-      "2",
-      "7",
-      "20"
+      "1990",
+      "1996",
+      "2004"
      ],
-     "answer": "7",
-     "why": "Dalğa 5 gün ərzində dünyanı 3 dəfədən çox dövrə vurub."
+     "answer": "1996",
+     "why": "Robsonun ardınca tərcüməçi və köməkçi kimi gəldi."
     },
     {
-     "q": "Krakatau partlayışından sonra Nyu-Yorkda niyə yanğınsöndürən çağırıblar?",
+     "q": "«Real» 2011/12 La Liqa mövsümündə neçə xal topladı?",
      "options": [
-      "Qırmızı səmaya görə",
-      "Kül yağışına görə",
-      "Zəlzələyə görə"
+      "88",
+      "95",
+      "100"
      ],
-     "answer": "Qırmızı səmaya görə",
-     "why": "Kül qeyri-adi qırmızı gün batımları yaradıb, insanlar yanğın sanıb."
+     "answer": "100",
+     "why": "La Liqa tarixində 100 xala çatan ilk komanda oldu."
     }
    ],
+   "sources": [
+    "https://www.realmadrid.com/en-US/news/football/first-team/fixtures/real-madrid-sevilla-a-prolongar-la-racha-de-victorias-en-el-bernabeu-18-10-2026",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Real_Madrid_CF_season",
+    "https://www.fourfourtwo.com/features/long-read-making-jose-mourinho-translator-bobbys-boy-special-one-and-beyond",
+    "https://www.fourfourtwo.com/us/features/barcelona-real-madrid-pep-guardiola-jose-mourinho-feud-friendship-rivalry-el-clasico-la-liga-champions-league-timeline",
+    "https://www.skysports.com/football/news/15116/11522231/special-one-remembering-jose-mourinho-s-first-ever-chelsea-press-conference",
+    "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/real-madrid-claimed-their-32nd-liga-title-11-years-ago"
+   ],
+   "verify_note": "Kickoff 21:00 CEST (realmadrid.com) = 23:00 Baku, so 'bu axşam' is right at 18:30. Mourinho appointed 11 Jun 2026 (contract to 2029). Robson: 'He was a schoolteacher' (FourFourTwo). Special One quote 2 Jun 2004 (Sky Sports). 2011/12: 100 pts, 121 goals (realmadrid.com).",
    "photo": {
-    "path": "fetch/img/2026-10-18_2_krakatoa.jpg",
-    "credit": "Parker & Coward litoqrafiyası (ictimai mülkiyyət)",
-    "cy": 0.45,
+    "path": "fetch/img/2026-10-18_T_mourinho_b.jpg",
+    "credit": "Steffen Prößdorf / Wikimedia Commons (CC BY-SA 4.0)",
+    "cy": 0.3,
     "full": false,
-    "source": "https://commons.wikimedia.org/wiki/File:Krakatoa_eruption_lithograph.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Mourinho_2020_(cropped).jpg",
+    "alt": "fetch/img/2026-10-18_T_mourinho_a.jpg (Zafer, CC BY 4.0)"
    }
   },
   {
@@ -300,6 +305,80 @@
    },
    "from": "2026-10-17 18:30 (replaced by trend Lamine Yamal)",
    "used_on": "2026-10-19 facts[2] (18:30 carousel backup)"
+  },
+  {
+   "n": 2,
+   "type": "card",
+   "subject": "Krakatoa 1883",
+   "photo_request": "Krakatau vulkanı (və ya püskürmənin tarixi təsviri)",
+   "title": "Krakatau, 1883",
+   "text": "1883-cü ildə Krakatau vulkanının partlayışı 4 800 km uzaqda eşidilib. Bu, tarixdə qeydə alınmış ən güclü səs sayılır.",
+   "caption": "Tarixin ən güclü səsi 🌋\n\n1883-cü ilin 27 avqustunda İndoneziyadakı Krakatau vulkanı partladı. Səsi 4 800 km uzaqda — Hind okeanındakı Rodriges adasında top atəşi kimi eşidildi. 64 km aralıdakı gəmidə dənizçilərin qulaq pərdələri partladı, təzyiq dalğası isə Yer kürəsini 3 dəfədən çox dövrə vurdu.\n\n📩 Qulaqcıqda musiqini həmişə sonuna qədər açan dostuna göndər 🔊\n\nFoto: Parker & Coward litoqrafiyası (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #vulkan #tarix #elm",
+   "sources": [
+    "https://en.wikipedia.org/wiki/1883_eruption_of_Krakatoa",
+    "https://www.discoverwildlife.com/environment/loudest-recorded-noise",
+    "https://www.discovermagazine.com/the-loudest-sound-ever-heard-198"
+   ],
+   "cat": "Elm",
+   "slides": [
+    {
+     "h": "4 800 km",
+     "t": "27 avqust 1883. Hind okeanındakı Rodriges adasında insanlar partlayışı yaxınlıqdakı gəminin top atəşi sandılar. Bu, Bakıdan Londona qədər olan məsafədən (~4 000 km) də çoxdur."
+    },
+    {
+     "h": "64 km",
+     "t": "Sumatra yaxınlığında, vulkandan təxminən 64 km aralıda dayanan «Norham Castle» gəmisində dənizçilərin qulaq pərdələri partladı."
+    },
+    {
+     "h": "7 dəfə",
+     "t": "Təzyiq dalğası Yer kürəsini 3 dəfədən çox dövrə vurdu: dünyadakı barometrlər onu 5 gün ərzində 7 dəfə qeydə aldı."
+    },
+    {
+     "h": "Qırmızı səma",
+     "t": "Atmosferə qalxan kül aylarla qeyri-adi qırmızı gün batımları yaratdı. Nyu-Yorkda yanğın olduğunu düşünüb yanğınsöndürənləri çağırdılar."
+    }
+   ],
+   "first_comment": "Sən indiyə qədər eşitdiyin ən güclü səs nə olub? 👇",
+   "quizzes": [
+    {
+     "q": "Rodriges adasında Krakatau partlayışını nə sanıblar?",
+     "options": [
+      "Top atəşi",
+      "Göy gurultusu",
+      "Zəlzələ"
+     ],
+     "answer": "Top atəşi",
+     "why": "4 800 km uzaqda səs yaxındakı gəminin top atəşi kimi eşidilib."
+    },
+    {
+     "q": "Barometrlər Krakatau təzyiq dalğasını neçə dəfə qeydə alıb?",
+     "options": [
+      "2",
+      "7",
+      "20"
+     ],
+     "answer": "7",
+     "why": "Dalğa 5 gün ərzində dünyanı 3 dəfədən çox dövrə vurub."
+    },
+    {
+     "q": "Krakatau partlayışından sonra Nyu-Yorkda niyə yanğınsöndürən çağırıblar?",
+     "options": [
+      "Qırmızı səmaya görə",
+      "Kül yağışına görə",
+      "Zəlzələyə görə"
+     ],
+     "answer": "Qırmızı səmaya görə",
+     "why": "Kül qeyri-adi qırmızı gün batımları yaradıb, insanlar yanğın sanıb."
+    }
+   ],
+   "photo": {
+    "path": "fetch/img/2026-10-18_2_krakatoa.jpg",
+    "credit": "Parker & Coward litoqrafiyası (ictimai mülkiyyət)",
+    "cy": 0.45,
+    "full": false,
+    "source": "https://commons.wikimedia.org/wiki/File:Krakatoa_eruption_lithograph.jpg"
+   },
+   "from": "2026-10-18 18:30 (replaced by trend)"
   }
  ],
  "format": "v2",
@@ -361,19 +440,19 @@
   },
   {
    "time": "19:30",
-   "fact_id": "2026-10-18-2",
+   "fact_id": "2026-10-18-T",
    "recall": false,
-   "cat": "Elm",
-   "q": "Rodriges adasında Krakatau partlayışını nə sanıblar?",
+   "cat": "İdman",
+   "q": "Mourinyo 1992-ci ildə kimin tərcüməçisi oldu?",
    "options": [
-    "Top atəşi",
-    "Göy gurultusu",
-    "Zəlzələ"
+    "Bobbi Robson",
+    "Aleks Ferqyuson",
+    "Yohan Kroyf"
    ],
-   "answer": "Top atəşi",
-   "why": "4 800 km uzaqda səs yaxındakı gəminin top atəşi kimi eşidilib.",
-   "image": "out/2026-10-18/q4.jpg",
-   "answer_image": "out/2026-10-18/q4_a.jpg"
+   "answer": "Bobbi Robson",
+   "why": "«Sportinq» onu yeni ingilis məşqçiyə tərcüməçi təyin etmişdi.",
+   "image": "out/2026-10-18/q4_trend.jpg",
+   "answer_image": "out/2026-10-18/q4_trend_a.jpg"
   },
   {
    "time": "22:30",

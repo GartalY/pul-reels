@@ -354,12 +354,7 @@
      "why": "Kül qeyri-adi qırmızı gün batımları yaradıb, insanlar yanğın sanıb."
     }
    ],
-   "asked": [
-    {
-     "date": "2026-10-18",
-     "qi": 0
-    }
-   ]
+   "asked": []
   },
   {
    "id": "2026-10-18-3",
@@ -396,6 +391,50 @@
      ],
      "answer": "12%",
      "why": "Alfredin Branobel səhmləri 3,84 milyon kron edib — ilkin kapitalın ~12%-i."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-18",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-18-T",
+   "date": "2026-10-18",
+   "subject": "José Mourinho (Real Madrid vs Sevilla tonight, 18 Oct 2026, 21:00 CEST = 23:00 Baku)",
+   "cat": "İdman",
+   "quizzes": [
+    {
+     "q": "Mourinyo 1992-ci ildə kimin tərcüməçisi oldu?",
+     "options": [
+      "Bobbi Robson",
+      "Aleks Ferqyuson",
+      "Yohan Kroyf"
+     ],
+     "answer": "Bobbi Robson",
+     "why": "«Sportinq» onu yeni ingilis məşqçiyə tərcüməçi təyin etmişdi."
+    },
+    {
+     "q": "Mourinyo «Barselona»ya hansı ildə gəldi?",
+     "options": [
+      "1990",
+      "1996",
+      "2004"
+     ],
+     "answer": "1996",
+     "why": "Robsonun ardınca tərcüməçi və köməkçi kimi gəldi."
+    },
+    {
+     "q": "«Real» 2011/12 La Liqa mövsümündə neçə xal topladı?",
+     "options": [
+      "88",
+      "95",
+      "100"
+     ],
+     "answer": "100",
+     "why": "La Liqa tarixində 100 xala çatan ilk komanda oldu."
     }
    ],
    "asked": [

@@ -34,3 +34,12 @@ search_santosdumont6.json https://commons.wikimedia.org/w/api.php?action=query&f
 search_godwit.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Limosa%20lapponica
 search_voyager.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Voyager%20spacecraft%20NASA
 search_coffeepot.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Trojan%20Room%20coffee%20pot
+2026-10-18_T_mourinho_a.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Jos%C3%A9_Mourinho_20250206_%281%29.jpg/1920px-Jos%C3%A9_Mourinho_20250206_%281%29.jpg
+2026-10-18_T_mourinho_b.jpg https://upload.wikimedia.org/wikipedia/commons/e/e0/Jos%C3%A9_Mourinho_2020_%28cropped%29.jpg
+2026-10-19_h_santos_a.jpg https://upload.wikimedia.org/wikipedia/commons/c/c5/Luftschiff_von_Santos_Dumont_umkreist_Eiffelturm.jpg
+2026-10-19_h_santos_b.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Contorno_da_Torre_Eiffel_com_o_Dirig%C3%ADvel_N%C2%BA6_-_1-13651-0000-0000%2C_Acervo_do_Museu_Paulista_da_USP.jpg/1920px-Contorno_da_Torre_Eiffel_com_o_Dirig%C3%ADvel_N%C2%BA6_-_1-13651-0000-0000%2C_Acervo_do_Museu_Paulista_da_USP.jpg
+2026-10-19_1_godwit_a.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Limosa_lapponica_%28Bar-tailed_godwit%29%2C_Heligoland.jpg/1920px-Limosa_lapponica_%28Bar-tailed_godwit%29%2C_Heligoland.jpg
+2026-10-19_1_godwit_b.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Limosa_lapponica_2_-_Taren_Point.jpg/1920px-Limosa_lapponica_2_-_Taren_Point.jpg
+2026-10-19_2_coffee_a.jpg https://images.unsplash.com/photo-1565452344518-47faca79dc69?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=1600
+2026-10-19_2_coffee_b.jpg https://images.unsplash.com/photo-1534516484460-0b6099615d5a?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=1600
+2026-10-19_4_voyager.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Voyager_spacecraft.jpg/1920px-Voyager_spacecraft.jpg

@@ -497,7 +497,7 @@
  },
  "metricool": {
   "13:00 carousel": 398624716,
-  "18:30 carousel": 398624809,
+  "18:30 carousel": 399070898,
   "21:30 reel": 398624866,
   "10:00 tarixdə bu gün": 398624916,
   "11:00 quiz q1 (auto)": 398624940,
@@ -506,8 +506,8 @@
   "14:10 answer a2": 398625003,
   "16:30 quiz q3 (auto)": 398625022,
   "16:40 answer a3": 398625042,
-  "19:30 quiz q4 (auto)": 398625061,
-  "19:40 answer a4": 398625083,
+  "19:30 quiz q4 (auto)": 399070921,
+  "19:40 answer a4": 399070958,
   "22:30 quiz q5 (auto)": 398625103,
   "22:40 answer a5": 398625119
  },
@@ -593,5 +593,13 @@
   "when": "2026-10-18 09:10 Asia/Baku",
   "checked": "world news (France cost-of-living protests, Albania protests, Hormuz shipping attacks, US inflation, Oregon school shooting), F1 (no race this weekend, US GP 25 Oct), football (LaLiga MD9, PL Sunday games)",
   "result": "No swap needed: nothing big that the AZ audience is talking about and that fits our rules (protests/attacks = skip per section T). Trend topic for 18:30: Mourinho / Real Madrid vs Sevilla tonight 23:00 Baku."
+ },
+ "trend_swap": {
+  "when": "2026-10-18 15:25 Asia/Baku",
+  "slot": "18:30 carousel + 19:30 quiz + 19:40 answer",
+  "what": "Krakatoa 1883 -> José Mourinho (Real Madrid vs Sevilla tonight)",
+  "why": "Real Madrid vs Sevilla LaLiga confirmed for 18 Oct 21:00 CEST (23:00 Baku); midday news check: nothing bigger.",
+  "backup_moved_to": "2026-10-18 spare (use on a later day)",
+  "metricool": "updated 15:25 (18:30 post T_1..T_6, 19:30 q4_trend, 19:40 q4_trend_a); times kept"
  }
 }

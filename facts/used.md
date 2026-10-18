@@ -3,3 +3,4 @@
 - 2026-10-16 (13:00 extra): First mechanically drilled oil well, Bibiheybət 1846
 - 2026-10-17 (scheduled): Diomede Islands 3.8 km / 21 h, Lamine Yamal (trend: Messi bath photo, 304, youngest Euro scorer), Greenland shark ~400 years (Everest marine fossils moved to spare)
 - 2026-10-18 (scheduled): Bluetooth named after King Harald, Krakatoa heard 4,800 km away, Nobel Foundation money from Baku oil; TBG 10:00 story: Tennis for Two 1958
+- 2026-10-19 (scheduled, v3): bar-tailed godwit 11 days nonstop, Trojan Room coffee pot (first webcam), Everest marine fossils (backup 18:30), Voyager 1 one light-day; TBG 10:00 carousel+story: Santos-Dumont Eiffel flight 1901

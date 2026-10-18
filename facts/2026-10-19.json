@@ -1,6 +1,6 @@
 {
  "date": "2026-10-19",
- "status": "planned",
+ "status": "scheduled",
  "format": "v3",
  "history": {
   "n": "H",
@@ -418,5 +418,23 @@
    "image": "out/2026-10-19/q5.jpg",
    "answer_image": "out/2026-10-19/q5_a.jpg"
   }
- ]
+ ],
+ "metricool": {
+  "10:00 tarixdə bu gün carousel": 399268740,
+  "13:00 reel (godwit)": 399268816,
+  "16:00 reel (coffee pot)": 399268861,
+  "18:30 carousel (Everest, trend backup)": 399268926,
+  "21:30 reel (Voyager 1)": 399269024,
+  "10:00 tarixdə bu gün story": 399269215,
+  "11:00 quiz q1 (auto)": 399269243,
+  "11:10 answer a1": 399269266,
+  "14:00 quiz q2 (auto)": 399269295,
+  "14:10 answer a2": 399269333,
+  "17:00 quiz q3 (auto)": 399269356,
+  "17:10 answer a3": 399269383,
+  "19:30 quiz q4 (auto)": 399269471,
+  "19:40 answer a4": 399269490,
+  "22:30 quiz q5 (auto)": 399269522,
+  "22:40 answer a5": 399269534
+ }
 }

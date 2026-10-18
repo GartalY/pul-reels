@@ -15,8 +15,8 @@ from datetime import date, timedelta
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 SLOTS = [("11:00", "recall"), ("14:00", 0), ("16:30", "recall"), ("19:30", 1), ("22:30", 2)]   # 3 facts (v2)
-SLOTS_V3 = [("11:00", "recall"), ("14:00", 0), ("17:00", 1), ("19:30", 2), ("22:30", 3)]   # 4 facts (v3, 2026-10-19 only)
-# From 2026-10-20 (weekly review 2026-10-18: 1 reply in a week; late stories got the fewest taps): 3 quizzes a day
+SLOTS_V3 = [("11:00", "recall"), ("14:00", 0), ("17:00", 1), ("19:30", 2), ("22:30", 3)]   # 4 facts (v3, from 2026-10-19)
+# Parked option (not active): 3 quizzes a day. Decide only after 2+ weeks of complete story data.
 SLOTS_V3B = [("11:00", "recall"), ("14:00", 0), ("19:30", 2)]
 
 def load(p, default=None):
@@ -59,7 +59,7 @@ def main():
         recall_pool += [by_id[f"{D}-{f['n']}"] for f in day["facts"]][: 2 - len(recall_pool)]
 
     stories, ri = [], 0
-    slots = (SLOTS_V3B if D >= "2026-10-20" else SLOTS_V3) if len(day["facts"]) >= 4 else SLOTS
+    slots = SLOTS_V3 if len(day["facts"]) >= 4 else SLOTS   # SLOTS_V3B (3 quizzes) parked until enough data
     for t, src in slots:
         e = recall_pool[ri] if src == "recall" else by_id[f"{D}-{day['facts'][src]['n']}"]
         if src == "recall": ri += 1

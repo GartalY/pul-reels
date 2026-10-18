@@ -34,7 +34,7 @@ Every text (caption, slide, reel beat, quiz, story, first comment) must read lik
 2. Load Metricool tools (`ToolSearch "+Metricool"`) and Google Drive tools (`ToolSearch "+Google_Drive"`).
 3. Commit with `git -c user.email=noreply@anthropic.com -c user.name=Claude` and push to `main`.
 
-## Daily volume and times — FORMAT v3 (from 2026-10-19, decided 2026-10-16): 5 posts + 5 quizzes (3 quizzes from 2026-10-20)
+## Daily volume and times — FORMAT v3 (from 2026-10-19, decided 2026-10-16): 5 posts + 5 quizzes
 Feed posts (all automatic):
 - 10:00 — "Tarixdə bu gün" CAROUSEL (`history` in the JSON; cover = date + year, 2–3 detail slides, outro)
   + the same-day 10:00 story (section H)
@@ -47,11 +47,10 @@ Feed posts (all automatic):
   Target: >3 s view rate (IGRE28) ≥ 40%.
 - 18:30 — facts[2]: CAROUSEL = evergreen backup, replaced by the TREND post (section D)
 - 21:30 — facts[3]: REEL (3 beats, the most surprising fact of the day)
-Quiz stories (automatic, printed options, answer +10 min). FROM 2026-10-20: THREE a day —
-11:00 recall · 14:00 facts[0] · 19:30 facts[2]/trend (quizplan.py `SLOTS_V3B` does this automatically).
-Why (decision 2026-10-18): 1 reply in a whole week from ~30 quiz stories, and the late-evening stories got the
-fewest taps; 10 stories a day was crowding the tray. (2026-10-19 still runs the old 5: 11:00, 14:00, 17:00,
-19:30, 22:30.) Re-check replies/taps in the weekly review; go back to 5 only if replies clearly grow.
+Quiz stories (automatic, printed options, answer +10 min): 11:00 recall · 14:00 facts[0] · 17:00 facts[1]
+· 19:30 facts[2]/trend · 22:30 facts[3]  (quizplan.py picks these slots automatically when there are 4 facts).
+A cut to 3 a day was considered on 2026-10-18 and PARKED: story metrics were still incomplete (most reach = 0).
+Revisit only once 2+ weeks of complete story data exist.
 So the morning task picks FOUR facts (facts[0], [1], [3] as reels, facts[2] carousel/trend) plus the `history` event.
 Mix = 3 reels (reach new people) + 2 carousels (saves/shares from followers). Re-check in the weekly review.
 Decision 2026-10-18 (Claude as manager, Gartal delegated all format decisions): keep v3 (5 posts: 3 reels +
@@ -131,8 +130,7 @@ he worked in a factory" + the details. Slot: the **18:30 carousel**.
 - 15:23 (midday task): build the trend carousel (photo `T` or the `none` fallback), push, replace the 18:30
   post in Metricool (`updateScheduledPost`, keep the time), put the backup fact into a later day, then
   replace the 18:30 fact (`facts[1]` in v2, `facts[2]` in v3) with the trend fact in the JSON, re-run `quizplan.py <today>` and update ONLY the
-  19:30 quiz story AND its 19:40 answer story in Metricool (earlier ones may already be live; with 3 quizzes
-  a day the 19:30 one is q3).
+  19:30 quiz story AND its 19:40 answer story in Metricool (earlier ones may already be live).
 - If the trend story breaks after 15:23, it can still go into tomorrow's 13:00 slot.
 
 ## P. Photos — Claude finds them himself (from 2026-10-16; Gartal only as a last resort)
@@ -220,7 +218,7 @@ Goal: keep up with the real world. Before doing the main task, search the news (
    - Reels (v2: fact 3; v3: facts[1] and facts[3]): `factgen.py reel <photo> out/D/<n>_reel.mp4 '{"hook":..,"beats":[..],"seed":<day>,"cy":..}'`
    - v3: the 10:00 "Tarixdə bu gün" carousel from `history` (cover via `card` with title like
      "17 OKTYABR 1956", then `slide`s and `outro`), plus the 10:00 story via `todaystory` (section H).
-   - Quiz stories: `python3 quizplan.py D` (renders out/D/q1..qN.jpg with printed options + q1_a..qN_a.jpg answers — N = 3 from 2026-10-20, writes `stories` into the JSON and
+   - Quiz stories: `python3 quizplan.py D` (renders out/D/q1..qN.jpg with printed options + q1_a..qN_a.jpg answers, writes `stories` into the JSON and
      updates facts/db.json). Safe to re-run.
      No emoji in image text — the font can't draw them.
 4. **Check the output** (and the Azerbaijani per section L): open every carousel slide (a contact sheet is fine), all quiz stories and
@@ -258,6 +256,10 @@ small data-backed changes here; recommend bigger ones (times, volume, format mix
 - Future test (Gartal's idea): HeyGen digital-twin reels in his voice — free-plan test first, label as AI.
 
 ## Rules
+- DATA BEFORE DECISIONS (Gartal, 2026-10-18): Instagram numbers keep growing for days after a post, and
+  Metricool syncs late. Only judge a post once it is ≥ 3 days old. Make no sharp format/volume/time/topic-mix
+  change until there are ≥ 2 full weeks of data and ≥ 5 posts in each group being compared; before that,
+  write findings as "early signal" and keep watching. Small wording/quality fixes need no data.
 - Metricool's story statistics lag by an hour or more (2026-10-16: a story posted at ~14:07 was not visible
   at 14:59). Never conclude "Gartal hasn't posted it" from them; check later or ask.
 - Claude is the page manager (Gartal, 2026-10-16; confirmed 2026-10-18 for ALL format decisions: posting times,

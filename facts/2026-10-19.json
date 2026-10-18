@@ -421,10 +421,10 @@
  ],
  "metricool": {
   "10:00 tarixdə bu gün carousel": 399268740,
-  "13:00 reel (godwit)": 399268816,
-  "16:00 reel (coffee pot)": 399268861,
-  "18:30 carousel (Everest, trend backup)": 399268926,
-  "21:30 reel (Voyager 1)": 399269024,
+  "13:00 reel (godwit)": 399303934,
+  "16:00 reel (coffee pot)": 399303959,
+  "18:30 carousel (Everest, trend backup)": 399304020,
+  "21:30 reel (Voyager 1)": 399304062,
   "10:00 tarixdə bu gün story": 399269215,
   "11:00 quiz q1 (auto)": 399269243,
   "11:10 answer a1": 399269266,
@@ -437,5 +437,5 @@
   "22:30 quiz q5 (auto)": 399269522,
   "22:40 answer a5": 399269534
  },
- "language_fix": "2026-10-18 evening: Gartal said the Azerbaijani is sometimes hard to understand/wrong. Fixed: godwit reel+caption, coffee reel beats+caption, Everest slide 5+caption, Voyager caption. Voyager hook: 'Bu zonda' (reads like 'in this zone') -> 'Voyager 1-ə göndərilən'."
+ "language_fix": "2026-10-18 evening: Gartal said the Azerbaijani is sometimes hard to understand/wrong. Fixed: godwit reel+caption, coffee reel beats+caption, Everest slide 5+caption, Voyager caption. Voyager hook: 'Bu zonda' (reads like 'in this zone') -> 'Voyager 1-ə göndərilən'. Metricool updated 21:44 18 Oct (new IDs recorded)."
 }

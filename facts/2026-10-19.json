@@ -1,0 +1,338 @@
+{
+ "date": "2026-10-19",
+ "status": "planned",
+ "format": "v3",
+ "history": {
+  "n": "H",
+  "type": "card",
+  "cat": "Tarix",
+  "day": 19,
+  "month": 10,
+  "year": 1901,
+  "subject": "Santos-Dumont wins the Deutsch Prize: airship No. 6 around the Eiffel Tower (19 Oct 1901, 125 years)",
+  "card_title": "19 OKTYABR 1901",
+  "title": "Eyfel qülləsi ətrafında 30 dəqiqə",
+  "text": "Braziliyalı Alberto Santos-Dümon öz dirijablı ilə Sen-Kluddan havalanıb Eyfel qülləsini dövrə vurdu və 30 dəqiqədən tez geri döndü. Mükafatın yarısını komandasına, yarısını Parisin yoxsullarına verdi.",
+  "slides": [
+   {
+    "h": "11 km",
+    "t": "Deyç mükafatının şərti: Sen-Kluddan Eyfel qülləsinə uçub onu dövrə vurmaq və 30 dəqiqədən az müddətdə geri qayıtmaq. Santos-Dümonun uçuşu 29 dəqiqə 30 saniyə çəkdi."
+   },
+   {
+    "h": "Mübahisə",
+    "t": "Münsiflər əvvəlcə mükafatı vermək istəmədi: dirijablın ipinin bağlanması gecikmişdi. Camaat etiraz etdi və nəhayət qələbə Santos-Dümona verildi."
+   },
+   {
+    "h": "1904",
+    "t": "Uçarkən vaxtı bilmək istəyirdi. Dostu Lui Kartye onun üçün qol saatı düzəltdi — ilk qol saatlarından biri. Bu model bu gün də «Santos» adı ilə satılır."
+   }
+  ],
+  "caption": "125 il əvvəl bu gün: Eyfel qülləsi ətrafında 30 dəqiqəlik yarış 🎈\n\n1901-ci il 19 oktyabrda braziliyalı Alberto Santos-Dümon 6 nömrəli dirijablı ilə Sen-Kluddan havalanıb Eyfel qülləsini dövrə vurdu və 29 dəqiqə 30 saniyəyə geri döndü. Deyç mükafatını qazandı, pulun yarısını komandasına, yarısını Parisin yoxsullarına payladı. Üç il sonra dostu Lui Kartye məhz onun üçün ilk qol saatlarından birini düzəltdi.\n\n📩 Hər yerə gecikən, amma «5 dəqiqəyə ordayam» deyən dostuna göndər ⏱️\n\nFoto: Museu Paulista da USP (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #tarixdəbugün #aviasiya #paris",
+  "first_comment": "Sən ilk dəfə nə vaxt təyyarəyə minmisən? 👇",
+  "quizzes": [
+   {
+    "q": "Santos-Dümon Eyfel ətrafındakı uçuşu nə qədər vaxta başa vurdu?",
+    "options": [
+     "29 dəq 30 san",
+     "45 dəqiqə",
+     "2 saat"
+    ],
+    "answer": "29 dəq 30 san",
+    "why": "Şərt 30 dəqiqədən az idi — cəmi 30 saniyə ehtiyatı qalmışdı."
+   },
+   {
+    "q": "Santos-Dümon mükafatın yarısını kimə verdi?",
+    "options": [
+     "Parisin yoxsullarına",
+     "Fransa ordusuna",
+     "Universitetə"
+    ],
+    "answer": "Parisin yoxsullarına",
+    "why": "Qalan yarısını komandasına payladı."
+   },
+   {
+    "q": "Lui Kartye 1904-cü ildə Santos-Dümon üçün nə düzəltdi?",
+    "options": [
+     "Qol saatı",
+     "Uçuş eynəyi",
+     "Kompas"
+    ],
+    "answer": "Qol saatı",
+    "why": "Uçarkən vaxtı bilmək üçün — ilk qol saatlarından biri."
+   }
+  ],
+  "story": {
+   "title": "Eyfel qülləsi ətrafında 30 dəqiqə",
+   "text": "1901-ci ildə Alberto Santos-Dümon dirijablla Eyfel qülləsini dövrə vurub 29 dəqiqə 30 saniyəyə geri döndü. Mükafatın yarısını Parisin yoxsullarına verdi.",
+   "credit": "Museu Paulista da USP (ictimai mülkiyyət)"
+  },
+  "sources": [
+   "https://en.wikipedia.org/wiki/Henri_Deutsch_de_la_Meurthe",
+   "https://earlyaviators.com/edumon3.htm",
+   "https://www.cartier.com/en-in/watches/collections/santos-de-cartier/santos-dumont-watch-CRWGSA0082.html"
+  ],
+  "verify_note": "Prize amount differs between sources (100,000 vs 50,000 francs) so no amount is stated. 125th anniversary: not in the runbook's round-number list (25/50/75/100/150/200), so it stays at 10:00 only.",
+  "photo": {
+   "path": "fetch/img/2026-10-19_h_santos_b.jpg",
+   "credit": "Museu Paulista da USP (ictimai mülkiyyət)",
+   "cy": 0.4,
+   "full": false,
+   "source": "https://commons.wikimedia.org/wiki/File:Contorno_da_Torre_Eiffel_com_o_Dirig%C3%ADvel_N%C2%BA6_-_1-13651-0000-0000,_Acervo_do_Museu_Paulista_da_USP.jpg",
+   "alt": "fetch/img/2026-10-19_h_santos_a.jpg (PD postcard)"
+  }
+ },
+ "facts": [
+  {
+   "n": 1,
+   "type": "reel",
+   "cat": "Təbiət",
+   "subject": "Bar-tailed godwit 234684: 13,560 km nonstop in 11 days (2022)",
+   "photo_request": "bar-tailed godwit (Limosa lapponica)",
+   "title": "11 gün dayanmadan uçan quş",
+   "text": "2022-ci ildə 5 aylıq bir sahil quşu Alyaskadan Tasmaniyaya 13 560 km yolu 11 gün ərzində heç yerə enmədən uçdu.",
+   "reel_hook": "5 aylıq quş 11 gün dayanmadan uçdu",
+   "reel_beats": [
+    "13 oktyabr 2022, Alyaska. Peyk izləyicisi taxılmış 234684 nömrəli cavan sahil quşu (ingiliscə bar-tailed godwit) yola çıxdı. Cəmi 5 aylıq idi.",
+    "11 gün 1 saat ərzində okean üzərindən heç yerə enmədən 13 560 km uçdu və Tasmaniyaya çatdı. Bu, Ginnes rekordudur.",
+    "Yolda bədən çəkisinin təxminən yarısını itirdi. Sən ən çox neçə saat yatmadan qalmısan?"
+   ],
+   "caption": "5 aylıq quş 11 gün heç yerə enmədən uçdu 🐦\n\n2022-ci ilin oktyabrında peyk izləyicisi taxılmış cavan bir sahil quşu (bar-tailed godwit) Alyaskadan havalandı və 11 gün 1 saat sonra Tasmaniyaya endi — arada heç bir dayanacaq olmadan, 13 560 km. Bu, quşların fasiləsiz miqrasiyası üzrə Ginnes rekordudur. Yolda çəkisinin təxminən yarısını itirdi.\n\n📩 5 dəqiqəlik yola da taksi çağıran dostuna göndər 😄\n\nFoto: Hobbyfotowiki / Wikimedia Commons (CC0)\n\n#bilirdinizmi #maraqlıfaktlar #quşlar #təbiət #rekord",
+   "first_comment": "Sən ən çox neçə saat yatmadan qalmısan? 👇",
+   "quizzes": [
+    {
+     "q": "Rekordçu quş neçə gün dayanmadan uçdu?",
+     "options": [
+      "5",
+      "11",
+      "30"
+     ],
+     "answer": "11",
+     "why": "11 gün 1 saat ərzində 13 560 km."
+    },
+    {
+     "q": "Quş rekord uçuşa başlayanda neçə aylıq idi?",
+     "options": [
+      "5 aylıq",
+      "2 yaşında",
+      "10 yaşında"
+     ],
+     "answer": "5 aylıq",
+     "why": "Bu, cavan quşun ilk köçü idi."
+    },
+    {
+     "q": "Rekord uçuş harada başa çatdı?",
+     "options": [
+      "Tasmaniyada",
+      "Yaponiyada",
+      "Havayda"
+     ],
+     "answer": "Tasmaniyada",
+     "why": "Alyaskadan Avstraliyanın Tasmaniya adasına qədər uçdu."
+    }
+   ],
+   "sources": [
+    "https://www.guinnessworldrecords.com/world-records/86385-longest-non-stop%20-migration%20-by-a-bird",
+    "https://www.mtpr.org/2022-10-28/a-non-stop-flight-from-alaska-to-tasmania-may-be-for-the-birds-and-a-possible-record"
+   ],
+   "photo": {
+    "path": "fetch/img/2026-10-19_1_godwit_a.jpg",
+    "credit": "Hobbyfotowiki / Wikimedia Commons (CC0)",
+    "cy": 0.5,
+    "full": false,
+    "source": "https://commons.wikimedia.org/wiki/File:Limosa_lapponica_(Bar-tailed_godwit),_Heligoland.jpg"
+   }
+  },
+  {
+   "n": 2,
+   "type": "reel",
+   "cat": "Texnologiya",
+   "subject": "Trojan Room coffee pot — first webcam (Cambridge 1991)",
+   "photo_request": "filter coffee machine / coffee pot",
+   "title": "İlk veb-kamera nəyi göstərirdi?",
+   "text": "1991-ci ildə Kembric alimləri qəhvədanın boş olub-olmadığını görmək üçün ona kamera yönəltdilər. Bu, ilk veb-kamera sayılır.",
+   "reel_hook": "Dünyanın ilk veb-kamerası bir qəhvədana baxırdı",
+   "reel_beats": [
+    "1991, Kembric Universiteti. Laboratoriyada tək qəhvədan vardı. Alimlər boşuna getməmək üçün ona kamera yönəltdilər: 128×128 piksellik ağ-qara şəkil, dəqiqədə 3 dəfə.",
+    "1993-cü ildə görüntü internetə çıxdı. 1998-ə qədər səhifəyə 2 milyondan çox baxış olmuşdu — dünyanın hər yerindən bir qəhvədana baxırdılar.",
+    "2001-ci ildə kamera söndürüldü, qəhvədan isə eBay-də 3 350 funta satıldı. Sən köhnə bir əşyanı ən baha neçəyə satmısan?"
+   ],
+   "caption": "Dünyanın ilk veb-kamerası... qəhvədana baxırdı ☕\n\n1991-ci ildə Kembric Universitetinin alimləri laboratoriyadakı yeganə qəhvədanın boş olub-olmadığını yerlərindən görmək üçün ona kamera yönəltdilər. 1993-cü ildə görüntü internetə çıxdı və milyonlarla baxış topladı. 2001-ci ildə kamera söndürüldü, qəhvədan isə eBay-də 3 350 funta satıldı.\n\n📩 Qəhvəsiz səhər işə başlaya bilməyən dostuna göndər ☕\n\nFoto: Ronan Furuta / Unsplash\n\n#bilirdinizmi #maraqlıfaktlar #texnologiya #internet #qəhvə",
+   "first_comment": "Sən köhnə bir əşyanı ən baha neçəyə satmısan? 👇",
+   "quizzes": [
+    {
+     "q": "Kembric qəhvədanının şəkli dəqiqədə neçə dəfə yenilənirdi?",
+     "options": [
+      "3",
+      "30",
+      "300"
+     ],
+     "answer": "3",
+     "why": "128×128 piksellik ağ-qara şəkil dəqiqədə 3 dəfə yenilənirdi."
+    },
+    {
+     "q": "Məşhur qəhvədan eBay-də neçəyə satıldı?",
+     "options": [
+      "335 funt",
+      "3 350 funt",
+      "33 500 funt"
+     ],
+     "answer": "3 350 funt",
+     "why": "2001-ci ildə «Spiegel Online» aldı."
+    },
+    {
+     "q": "Qəhvədan kamerası hansı ildə söndürüldü?",
+     "options": [
+      "1995",
+      "2001",
+      "2010"
+     ],
+     "answer": "2001",
+     "why": "Son şəkil 22 avqust 2001-də çəkilib."
+    }
+   ],
+   "sources": [
+    "https://www.theregister.com/2001/08/13/trojan_room_coffee_pot_sells/",
+    "https://www.digitalcameraworld.com/tech/webcams/the-worlds-first-webcam-was-set-up-by-caffeine-starved-computer-scientists-to-watch-a-coffee-pot"
+   ],
+   "verify_note": "Generic coffee-machine photo (Unsplash) — the original pot images on Commons are only 128 px. Caption does not claim the photo is the original pot.",
+   "photo": {
+    "path": "fetch/img/2026-10-19_2_coffee_a.jpg",
+    "credit": "Ronan Furuta / Unsplash",
+    "cy": 0.55,
+    "full": false,
+    "source": "https://unsplash.com/photos/AjcABUQ7WuA"
+   }
+  },
+  {
+   "n": 3,
+   "type": "card",
+   "subject": "Everest marine fossils",
+   "photo_request": "Everest dağı",
+   "title": "Everest",
+   "text": "Dünyanın ən hündür nöqtəsi əslində qədim okeanın dibidir. Everestin zirvəsindəki daşda dəniz canlılarının fosilləri var.",
+   "caption": "Dünyanın zirvəsi — keçmişin okean dibi 🏔️\n\nEverestin ən üst qatı dəniz əhəngdaşından ibarətdir. İçində trilobit və dəniz zanbağı kimi qədim dəniz canlılarının fosilləri var. Hindistan Asiyaya toqquşanda okean dibi 8 849 metrə qədər qalxıb.\n\n📩 Dağa çıxmağı sevən dostuna göndər — qoy bilsin, əslində dənizin dibinə çıxır 😄\n\nFoto: Slava Auchynnikau / Unsplash\n\n#bilirdinizmi #maraqlıfaktlar #everest #geologiya #elm",
+   "sources": [
+    "https://montana.edu/everest/facts/summit-limestone.html"
+   ],
+   "cat": "Elm",
+   "slides": [
+    {
+     "h": "470 milyon il",
+     "t": "Zirvədəki boz əhəngdaşı təxminən 470 milyon il əvvəl dənizin dibində yaranıb. Geoloqlar ona «Qomolanqma əhəngdaşı» deyir."
+    },
+    {
+     "h": "Trilobitlər",
+     "t": "Daşın içində trilobit, braxiopod, ostrakod və dəniz zanbaqlarının qırıntıları var — hamısı okeanda yaşayan canlılardır."
+    },
+    {
+     "h": "Dinozavrlardan əvvəl",
+     "t": "Bu daşlar ilk dinozavrlardan təxminən 240 milyon il əvvəl yaranıb."
+    },
+    {
+     "h": "Necə qalxdı?",
+     "t": "Hindistan plitəsi Asiyaya toqquşanda okean dibi qırışaraq 8 849 metrə qalxdı. Bu toqquşma bu gün də davam edir."
+    }
+   ],
+   "quizzes": [
+    {
+     "q": "Everestin zirvəsindəki daşın yaşı təxminən nə qədərdir?",
+     "options": [
+      "47 min il",
+      "4,7 milyon il",
+      "470 milyon il"
+     ],
+     "answer": "470 milyon il",
+     "why": "Zirvə daşı ~470 milyon il əvvəl okean dibində yaranıb."
+    },
+    {
+     "q": "Everestin zirvə daşında hansı canlının fosili var?",
+     "options": [
+      "Mamont",
+      "Trilobit",
+      "Dinozavr"
+     ],
+     "answer": "Trilobit",
+     "why": "Trilobitlər — 470 milyon il əvvəl dənizdə yaşayan canlılar."
+    },
+    {
+     "q": "Everesti hansı toqquşma qaldırıb?",
+     "options": [
+      "Hindistan və Asiya",
+      "Afrika və Avropa",
+      "Amerika və Asiya"
+     ],
+     "answer": "Hindistan və Asiya",
+     "why": "Hindistan plitəsi Asiyaya toqquşub və bu gün də itələyir."
+    }
+   ],
+   "first_comment": "Bunu bilirdin, yoxsa indi öyrəndin? 👇",
+   "photo": {
+    "path": "fetch/img/2026-10-17_2_everest.jpg",
+    "credit": "Slava Auchynnikau / Unsplash",
+    "cy": 0.5
+   },
+   "moved_from": "2026-10-17 18:30 (replaced by trend Lamine Yamal)",
+   "reverified": "2026-10-18: montana.edu summit-limestone page (Qomolangma Formation, Ordovician ~470 Ma marine limestone with trilobites/crinoids)"
+  },
+  {
+   "n": 4,
+   "type": "reel",
+   "cat": "Kosmos",
+   "subject": "Voyager 1 reaches one light-day from Earth on 18 Nov 2026",
+   "photo_request": "Voyager spacecraft (NASA/JPL)",
+   "title": "Bir işıq-günü uzaqda",
+   "text": "18 noyabr 2026-da NASA-nın Voyager 1 zondu Yerdən bir işıq-günü — təxminən 25,9 milyard km uzaqlaşacaq. Siqnal ona tam 24 saata çatacaq.",
+   "reel_hook": "Bu zonda göndərilən mesaj tezliklə tam 1 gün yol gedəcək",
+   "reel_beats": [
+    "1977-ci ildə buraxılan Voyager 1 insanın düzəltdiyi ən uzaq cisimdir. 2012-ci ildə ulduzlararası fəzaya çıxıb.",
+    "18 noyabr 2026: məsafə 1 işıq-gününə — təxminən 25,9 milyard km-ə çatacaq. Bu, Yerdən Günəşə qədər olan məsafədən 173 dəfə çoxdur.",
+    "Yəni ona «Salam» göndərsən, cavabı ən tezi 2 gün sonra gələcək. Sən ona hansı mesajı göndərərdin?"
+   ],
+   "caption": "Bu zonda göndərilən mesaj tezliklə tam 1 gün yol gedəcək 🛰️\n\nNASA-nın 1977-ci ildə buraxdığı Voyager 1 insanın düzəltdiyi ən uzaq cisimdir. 18 noyabr 2026-da o, Yerdən bir işıq-günü — təxminən 25,9 milyard km uzaqda olacaq: radiosiqnal ona 24 saata çatacaq, cavab da bir o qədər yol gələcək. Enerjiyə qənaət üçün cihazlarının çoxu artıq söndürülüb.\n\n📩 Mesajına 2 gün sonra cavab yazan dostuna göndər 😄\n\nFoto: NASA/JPL (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #kosmos #nasa #voyager",
+   "first_comment": "Voyager 1-ə bir mesaj göndərə bilsəydin, nə yazardın? 👇",
+   "quizzes": [
+    {
+     "q": "Voyager 1 hansı ildə buraxılıb?",
+     "options": [
+      "1969",
+      "1977",
+      "1990"
+     ],
+     "answer": "1977",
+     "why": "5 sentyabr 1977-də buraxılıb."
+    },
+    {
+     "q": "Bir işıq-günü təxminən neçə kilometrdir?",
+     "options": [
+      "2,6 milyard",
+      "25,9 milyard",
+      "259 milyard"
+     ],
+     "answer": "25,9 milyard",
+     "why": "İşığın 24 saatda qət etdiyi yol."
+    },
+    {
+     "q": "Voyager 1 ulduzlararası fəzaya hansı ildə çıxıb?",
+     "options": [
+      "2001",
+      "2012",
+      "2020"
+     ],
+     "answer": "2012",
+     "why": "2012-ci ildə heliopauzanı keçib."
+    }
+   ],
+   "sources": [
+    "https://iflscience.com/its-official-voyager-1-will-cross-the-1-light-day-threshold-on-november-18-2026-82733",
+    "https://earthsky.org/space/voyager-1-1-light-day-from-earth-november-17-18-2026/"
+   ],
+   "photo": {
+    "path": "fetch/img/2026-10-19_4_voyager.jpg",
+    "credit": "NASA/JPL (ictimai mülkiyyət)",
+    "cy": 0.5,
+    "full": false,
+    "source": "https://commons.wikimedia.org/wiki/File:Voyager_spacecraft.jpg"
+   }
+  }
+ ]
+}

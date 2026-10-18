@@ -430,5 +430,88 @@
   "19:40 answer a4": 398625083,
   "22:30 quiz q5 (auto)": 398625103,
   "22:40 answer a5": 398625119
+ },
+ "trend": {
+  "n": "T",
+  "type": "card",
+  "format": "v2",
+  "subject": "José Mourinho (Real Madrid vs Sevilla tonight, 18 Oct 2026, 21:00 CEST = 23:00 Baku)",
+  "cat": "İdman",
+  "title": "Joze Mourinyo",
+  "text": "Bu axşam «Real Madrid» «Sevilya»nı qəbul edir. Amma onun məşqçisinin karyerası futbolçu kimi yox, tərcüməçi kimi başlayıb.",
+  "slides": [
+   {
+    "h": "1992",
+    "t": "Lissabon hava limanında «Sportinq» ona yeni ingilis məşqçi Bobbi Robsonu qarşılamağı tapşırdı. Mourinyo o vaxt məktəb müəllimi idi — Robsonun tərcüməçisi oldu."
+   },
+   {
+    "h": "Barselona, 1996",
+    "t": "Robsonun ardınca əvvəl «Porto»ya, sonra «Barselona»ya getdi — tərcüməçi və köməkçi kimi. Komandanın liderlərindən biri o zaman oyunçu Pep Qvardiola idi."
+   },
+   {
+    "h": "2004",
+    "t": "«Porto» ilə Çempionlar Liqasını qazandı və «Çelsi»yə gəldi. İlk mətbuat konfransında dedi: «Məni təkəbbürlü saymayın, amma mən Avropa çempionuyam və məncə, xüsusi biriyəm»."
+   },
+   {
+    "h": "100 xal",
+    "t": "«Real»dakı ilk dövründə (2011/12) La Liqa tarixində 100 xal toplayan ilk komanda oldu və 121 qol vurdu. 2026-cı ilin yayında Madridə qayıtdı."
+   }
+  ],
+  "caption": "Futbolun ən məşhur məşqçilərindən biri tərcüməçi kimi başlayıb 🎙️\n\nJoze Mourinyonun «Real Madrid»i bu axşam «Sevilya»nı qəbul edir. 1992-ci ildə isə o, məktəb müəllimi idi və «Sportinq» onu yeni ingilis məşqçi Bobbi Robsona tərcüməçi təyin etdi. Robsonun ardınca «Porto» və «Barselona»ya getdi, 2004-cü ildə isə özünü «xüsusi biri» adlandırdı.\n\n📩 «Mən sadəcə köməkçiyəm» deyib hər şeyi idarə edən dostuna göndər 😄\n\nFoto: Steffen Prößdorf / Wikimedia Commons (CC BY-SA 4.0)\n\n#bilirdinizmi #maraqlıfaktlar #futbol #realmadrid #mourinyo",
+  "first_comment": "Bu axşam «Real» — «Sevilya»: sənin hesab proqnozun? 👇",
+  "quizzes": [
+   {
+    "q": "Mourinyo 1992-ci ildə kimin tərcüməçisi oldu?",
+    "options": [
+     "Bobbi Robson",
+     "Aleks Ferqyuson",
+     "Yohan Kroyf"
+    ],
+    "answer": "Bobbi Robson",
+    "why": "«Sportinq» onu yeni ingilis məşqçiyə tərcüməçi təyin etmişdi."
+   },
+   {
+    "q": "Mourinyo «Barselona»ya hansı ildə gəldi?",
+    "options": [
+     "1990",
+     "1996",
+     "2004"
+    ],
+    "answer": "1996",
+    "why": "Robsonun ardınca tərcüməçi və köməkçi kimi gəldi."
+   },
+   {
+    "q": "«Real» 2011/12 La Liqa mövsümündə neçə xal topladı?",
+    "options": [
+     "88",
+     "95",
+     "100"
+    ],
+    "answer": "100",
+    "why": "La Liqa tarixində 100 xala çatan ilk komanda oldu."
+   }
+  ],
+  "sources": [
+   "https://www.realmadrid.com/en-US/news/football/first-team/fixtures/real-madrid-sevilla-a-prolongar-la-racha-de-victorias-en-el-bernabeu-18-10-2026",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Real_Madrid_CF_season",
+   "https://www.fourfourtwo.com/features/long-read-making-jose-mourinho-translator-bobbys-boy-special-one-and-beyond",
+   "https://www.fourfourtwo.com/us/features/barcelona-real-madrid-pep-guardiola-jose-mourinho-feud-friendship-rivalry-el-clasico-la-liga-champions-league-timeline",
+   "https://www.skysports.com/football/news/15116/11522231/special-one-remembering-jose-mourinho-s-first-ever-chelsea-press-conference",
+   "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/real-madrid-claimed-their-32nd-liga-title-11-years-ago"
+  ],
+  "verify_note": "Kickoff 21:00 CEST (realmadrid.com) = 23:00 Baku, so 'bu axşam' is right at 18:30. Mourinho appointed 11 Jun 2026 (contract to 2029). Robson: 'He was a schoolteacher' (FourFourTwo). Special One quote 2 Jun 2004 (Sky Sports). 2011/12: 100 pts, 121 goals (realmadrid.com).",
+  "photo": {
+   "path": "fetch/img/2026-10-18_T_mourinho_b.jpg",
+   "credit": "Steffen Prößdorf / Wikimedia Commons (CC BY-SA 4.0)",
+   "cy": 0.3,
+   "full": false,
+   "source": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Mourinho_2020_(cropped).jpg",
+   "alt": "fetch/img/2026-10-18_T_mourinho_a.jpg (Zafer, CC BY 4.0)"
+  }
+ },
+ "trend_check_morning": {
+  "when": "2026-10-18 09:10 Asia/Baku",
+  "checked": "world news (France cost-of-living protests, Albania protests, Hormuz shipping attacks, US inflation, Oregon school shooting), F1 (no race this weekend, US GP 25 Oct), football (LaLiga MD9, PL Sunday games)",
+  "result": "No swap needed: nothing big that the AZ audience is talking about and that fits our rules (protests/attacks = skip per section T). Trend topic for 18:30: Mourinho / Real Madrid vs Sevilla tonight 23:00 Baku."
  }
 }

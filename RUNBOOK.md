@@ -2,6 +2,25 @@
 
 Instagram facts page in **Azerbaijani**, run by Claude. Owner: Gartal (gartalyusifov@gmail.com).
 
+## L. Azerbaijani language — TOP PRIORITY (Gartal, 2026-10-18: "sometimes difficult to understand, some words
+## are wrong, some sentences don't make sense")
+Every text (caption, slide, reel beat, quiz, story, first comment) must read like a Baku native wrote it.
+- Write simple, spoken-style Azerbaijani: short sentences (≤ 15 words), one idea per sentence, common
+  everyday words. If a simpler word exists, use it ("qoydular", not "yönəltdilər"; "uçdu", not "havalandı").
+- Never translate English word by word. Think the sentence in Azerbaijani first. No English words in
+  brackets ("(bar-tailed godwit)"); if a species/thing has no common AZ name, describe it ("bir sahil quşu").
+- No Türkiye-Turkish words or endings in place of Azerbaijani ones ("çok" → "çox", "-yor" → "-ır/-ir"),
+  no Russian calques.
+- Check verb cases: "X ilə toqquşmaq" (not "X-a toqquşmaq"), "X-dan istifadə etmək", "X-a baxmaq",
+  "qənaət etmək üçün" (not "qənaət üçün"). Check ı/i, ə/e, ö/o, ü/u and q/k spellings.
+- Numbers: use a non-breaking space inside numbers on images ("13\u00a0560") so they never split across lines.
+- SELF-CHECK before saving the JSON: re-read every text aloud-style, one sentence at a time, and ask
+  "would a 20-year-old in Baku say it like this and understand it at once?" If not, rewrite it shorter.
+  Log rewrites in the day's JSON under `language_fix` when fixing already-built content.
+- If Gartal points out a wrong word, add it to the list below so it never comes back.
+  Known fixes: "boşuna getməmək" → "boş yerə getməmək"; "Asiyaya toqquşanda" → "Asiya ilə toqquşanda";
+  "peyk izləyicisi taxılmış" → "üzərinə GPS cihazı taxılmış"; "yerlərindən görmək" → "öz otaqlarından görmək".
+
 ## Fixed IDs
 - Metricool brand / blogId: **7443266** (Instagram `bilirdinizmi_az`, timezone Asia/Baku). Plan: Starter 5 (€20/mo,
   unlimited publishing) since 2026-10-16, renews monthly on the 16th.
@@ -15,7 +34,7 @@ Instagram facts page in **Azerbaijani**, run by Claude. Owner: Gartal (gartalyus
 2. Load Metricool tools (`ToolSearch "+Metricool"`) and Google Drive tools (`ToolSearch "+Google_Drive"`).
 3. Commit with `git -c user.email=noreply@anthropic.com -c user.name=Claude` and push to `main`.
 
-## Daily volume and times — FORMAT v3 (from 2026-10-19, decided 2026-10-16): 5 posts + 5 quizzes
+## Daily volume and times — FORMAT v3 (from 2026-10-19, decided 2026-10-16): 5 posts + 5 quizzes (3 quizzes from 2026-10-20)
 Feed posts (all automatic):
 - 10:00 — "Tarixdə bu gün" CAROUSEL (`history` in the JSON; cover = date + year, 2–3 detail slides, outro)
   + the same-day 10:00 story (section H)
@@ -28,10 +47,16 @@ Feed posts (all automatic):
   Target: >3 s view rate (IGRE28) ≥ 40%.
 - 18:30 — facts[2]: CAROUSEL = evergreen backup, replaced by the TREND post (section D)
 - 21:30 — facts[3]: REEL (3 beats, the most surprising fact of the day)
-Quiz stories (automatic, printed options, answer +10 min): 11:00 recall · 14:00 facts[0] · 17:00 facts[1]
-· 19:30 facts[2]/trend · 22:30 facts[3]  (quizplan.py picks these slots automatically when there are 4 facts).
+Quiz stories (automatic, printed options, answer +10 min). FROM 2026-10-20: THREE a day —
+11:00 recall · 14:00 facts[0] · 19:30 facts[2]/trend (quizplan.py `SLOTS_V3B` does this automatically).
+Why (decision 2026-10-18): 1 reply in a whole week from ~30 quiz stories, and the late-evening stories got the
+fewest taps; 10 stories a day was crowding the tray. (2026-10-19 still runs the old 5: 11:00, 14:00, 17:00,
+19:30, 22:30.) Re-check replies/taps in the weekly review; go back to 5 only if replies clearly grow.
 So the morning task picks FOUR facts (facts[0], [1], [3] as reels, facts[2] carousel/trend) plus the `history` event.
 Mix = 3 reels (reach new people) + 2 carousels (saves/shares from followers). Re-check in the weekly review.
+Decision 2026-10-18 (Claude as manager, Gartal delegated all format decisions): keep v3 (5 posts: 3 reels +
+2 carousels) and ALL posting times unchanged until the 2026-10-25 review — too little data, and Metricool's
+best-time tool is still empty. Do not add more reels or a 6th post before then.
 Ramp: if the weekly review shows reach per post falling sharply, step back to 4 posts.
 
 ## (previous) FORMAT v2 — used 2026-10-17 and 2026-10-18 (from 2026-10-17, Gartal's request 2026-10-16)
@@ -79,7 +104,13 @@ Why: Gartal said one-sentence facts were too thin and the quizzes too easy (phot
 - On a round anniversary (25, 50, 75, 100, 150, 200… years) of a big event, ALSO make it the 13:00 carousel
   that day (the planned fact moves to a later day).
 
-## D. Daily trend post (EVERY day from 2026-10-17 — Gartal, 2026-10-16; on 2026-10-16 itself do nothing)
+## D. Trend post (from 2026-10-20: ONLY WHEN STRONG — decision 2026-10-18, Claude as manager)
+Change: the trend card was the weakest card on both measured days (Tesla 27, Yamal 17 reach, 0 shares vs
+~38 for evergreen cards). From 2026-10-20 swap the 18:30 backup for a trend ONLY if the story is (a) huge
+— most people in Azerbaijan are talking about it today — or (b) has a real Azerbaijani/Turkish link.
+Otherwise keep the evergreen backup and log `"trend_swap": "none — no strong trend"`. Section T (big news)
+still applies. Re-check in the 2026-10-25 review (the 18 Oct Mourinho card is the 3rd data point).
+(Original rule: EVERY day from 2026-10-17 — Gartal, 2026-10-16.)
 At least one post per day is about something people are talking about TODAY, told as a richer story
 (3–4+ sentences / 3–4 detail slides). Example of the style: a footballer in the news → "before he was famous,
 he worked in a factory" + the details. Slot: the **18:30 carousel**.
@@ -96,7 +127,8 @@ he worked in a factory" + the details. Slot: the **18:30 carousel**.
 - 15:23 (midday task): build the trend carousel (photo `T` or the `none` fallback), push, replace the 18:30
   post in Metricool (`updateScheduledPost`, keep the time), put the backup fact into a later day, then
   replace the 18:30 fact (`facts[1]` in v2, `facts[2]` in v3) with the trend fact in the JSON, re-run `quizplan.py <today>` and update ONLY the
-  19:30 quiz story AND its 19:40 answer story in Metricool (earlier ones may already be live).
+  19:30 quiz story AND its 19:40 answer story in Metricool (earlier ones may already be live; with 3 quizzes
+  a day the 19:30 one is q3).
 - If the trend story breaks after 15:23, it can still go into tomorrow's 13:00 slot.
 
 ## P. Photos — Claude finds them himself (from 2026-10-16; Gartal only as a last resort)
@@ -182,10 +214,10 @@ Goal: keep up with the real world. Before doing the main task, search the news (
    - Reels (v2: fact 3; v3: facts[1] and facts[3]): `factgen.py reel <photo> out/D/<n>_reel.mp4 '{"hook":..,"beats":[..],"seed":<day>,"cy":..}'`
    - v3: the 10:00 "Tarixdə bu gün" carousel from `history` (cover via `card` with title like
      "17 OKTYABR 1956", then `slide`s and `outro`), plus the 10:00 story via `todaystory` (section H).
-   - Quiz stories: `python3 quizplan.py D` (renders out/D/q1..q5.jpg with printed options + q1_a..q5_a.jpg answers, writes `stories` into the JSON and
+   - Quiz stories: `python3 quizplan.py D` (renders out/D/q1..qN.jpg with printed options + q1_a..qN_a.jpg answers — N = 3 from 2026-10-20, writes `stories` into the JSON and
      updates facts/db.json). Safe to re-run.
      No emoji in image text — the font can't draw them.
-4. **Check the output**: open every carousel slide (a contact sheet is fine), all 5 quiz stories and
+4. **Check the output** (and the Azerbaijani per section L): open every carousel slide (a contact sheet is fine), all quiz stories and
    3–4 frames of the reel with Read. Fix text overflow, unreadable text or bad crops before scheduling.
 5. Commit and push `out/D/`, `facts/D.json` and `facts/db.json`.
 6. Schedule in Metricool (blogId 7443266, timezone Asia/Baku, media = raw GitHub URLs):
@@ -222,8 +254,9 @@ small data-backed changes here; recommend bigger ones (times, volume, format mix
 ## Rules
 - Metricool's story statistics lag by an hour or more (2026-10-16: a story posted at ~14:07 was not visible
   at 14:59). Never conclude "Gartal hasn't posted it" from them; check later or ask.
-- Claude is the page manager (Gartal, 2026-10-16): decide what is best for the page, act, and tell him
-  afterwards. Ask him only for photos, things only he can do in the app, and decisions that cost money.
+- Claude is the page manager (Gartal, 2026-10-16; confirmed 2026-10-18 for ALL format decisions: posting times,
+  trend posts, quiz stories, number of reels/posts): decide from the data, act, and tell him afterwards —
+  don't ask him to decide these. Ask him only for photos, things only he can do in the app, and decisions that cost money.
 - Whenever Gartal needs to do something (photos, reconnect, a decision), notify him: SendUserMessage
   plus a push notification (PushNotification tool if available). Put the action in the FIRST line.
 - Gartal is awake roughly 09:00–23:59 Baku time. Never send him anything that needs action outside that window.

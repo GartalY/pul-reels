@@ -283,13 +283,13 @@
    "photo_request": "Voyager spacecraft (NASA/JPL)",
    "title": "Bir işıq-günü uzaqda",
    "text": "18 noyabr 2026-da NASA-nın Voyager 1 zondu Yerdən bir işıq-günü — təxminən 25,9 milyard km uzaqlaşacaq. Siqnal ona tam 24 saata çatacaq.",
-   "reel_hook": "Bu zonda göndərilən mesaj tezliklə tam 1 gün yol gedəcək",
+   "reel_hook": "Voyager 1-ə göndərilən mesaj tezliklə tam 1 gün yol gedəcək",
    "reel_beats": [
     "1977-ci ildə buraxılan Voyager 1 insanın düzəltdiyi ən uzaq cisimdir. 2012-ci ildə ulduzlararası fəzaya çıxıb.",
     "18 noyabr 2026: məsafə 1 işıq-gününə — təxminən 25,9 milyard km-ə çatacaq. Bu, Yerdən Günəşə qədər olan məsafədən 173 dəfə çoxdur.",
     "Yəni ona «Salam» göndərsən, cavabı ən tezi 2 gün sonra gələcək. Sən ona hansı mesajı göndərərdin?"
    ],
-   "caption": "Bu zonda göndərilən mesaj tezliklə tam 1 gün yol gedəcək 🛰️\n\nNASA-nın 1977-ci ildə buraxdığı Voyager 1 insanın düzəltdiyi ən uzaq cisimdir. 18 noyabr 2026-da o, Yerdən bir işıq-günü — təxminən 25,9 milyard km uzaqda olacaq: radiosiqnal ona 24 saata çatacaq, cavab da 24 saata qayıdacaq. Enerjiyə qənaət etmək üçün cihazlarının çoxu artıq söndürülüb.\n\n📩 Mesajına 2 gün sonra cavab yazan dostuna göndər 😄\n\nFoto: NASA/JPL (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #kosmos #nasa #voyager",
+   "caption": "Voyager 1-ə göndərilən mesaj tezliklə tam 1 gün yol gedəcək 🛰️\n\nNASA-nın 1977-ci ildə buraxdığı Voyager 1 insanın düzəltdiyi ən uzaq cisimdir. 18 noyabr 2026-da o, Yerdən bir işıq-günü — təxminən 25,9 milyard km uzaqda olacaq: radiosiqnal ona 24 saata çatacaq, cavab da 24 saata qayıdacaq. Enerjiyə qənaət etmək üçün cihazlarının çoxu artıq söndürülüb.\n\n📩 Mesajına 2 gün sonra cavab yazan dostuna göndər 😄\n\nFoto: NASA/JPL (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #kosmos #nasa #voyager",
    "first_comment": "Voyager 1-ə bir mesaj göndərə bilsəydin, nə yazardın? 👇",
    "quizzes": [
     {
@@ -437,5 +437,5 @@
   "22:30 quiz q5 (auto)": 399269522,
   "22:40 answer a5": 399269534
  },
- "language_fix": "2026-10-18 evening: Gartal said the Azerbaijani is sometimes hard to understand/wrong. Fixed: godwit reel+caption, coffee reel beats+caption, Everest slide 5+caption, Voyager caption."
+ "language_fix": "2026-10-18 evening: Gartal said the Azerbaijani is sometimes hard to understand/wrong. Fixed: godwit reel+caption, coffee reel beats+caption, Everest slide 5+caption, Voyager caption. Voyager hook: 'Bu zonda' (reads like 'in this zone') -> 'Voyager 1-ə göndərilən'."
 }

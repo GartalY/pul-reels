@@ -29,3 +29,8 @@ search_tennis2.json https://commons.wikimedia.org/w/api.php?action=query&format=
 2026-10-18_tbg_tennis1958.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Tennis_For_Two_in_1958.jpg/1920px-Tennis_For_Two_in_1958.jpg
 2026-10-18_tbg_tennis_cc0.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Tennis_for_two.jpg/1440px-Tennis_for_two.jpg
 2026-10-18_tbg_tennis_osc.jpg https://upload.wikimedia.org/wikipedia/commons/5/50/Tennis_For_Two_on_a_DuMont_Lab_Oscilloscope_Type_304-A.jpg
+search_mourinho.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Jos%C3%A9%20Mourinho
+search_santosdumont6.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Santos-Dumont%20Eiffel%201901
+search_godwit.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Limosa%20lapponica
+search_voyager.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Voyager%20spacecraft%20NASA
+search_coffeepot.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Trojan%20Room%20coffee%20pot

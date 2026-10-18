@@ -23,6 +23,9 @@ Feed posts (all automatic):
   average vs ~33 for posts in the first days, so discovery goes through reels)   · 16:00 — facts[1]: REEL (3 beats)
 - Reel rules (2026-10-18): the first frame is the hook (the surprising claim, big text, no intro); 8–12 s total;
   last beat ends on a question that the first_comment repeats, to pull comments.
+  Weekly review 2026-10-18: only ~30% of reel views lasted >3 s (avg watch 3.2–3.7 s) → the hook must be the
+  NUMBER or twist itself as huge text ("400 YAŞ", "3 ÜRƏK"), visible from frame 1; aim for the short end (8–9 s).
+  Target: >3 s view rate (IGRE28) ≥ 40%.
 - 18:30 — facts[2]: CAROUSEL = evergreen backup, replaced by the TREND post (section D)
 - 21:30 — facts[3]: REEL (3 beats, the most surprising fact of the day)
 Quiz stories (automatic, printed options, answer +10 min): 11:00 recall · 14:00 facts[0] · 17:00 facts[1]
@@ -81,6 +84,9 @@ At least one post per day is about something people are talking about TODAY, tol
 (3–4+ sentences / 3–4 detail slides). Example of the style: a footballer in the news → "before he was famous,
 he worked in a factory" + the details. Slot: the **18:30 carousel**.
 - Night before (evening task): fact 2 is built as an evergreen BACKUP for 18:30.
+- Weekly review 2026-10-18: both measured trend cards (Tesla, Yamal) were the weakest cards (avg reach 22 vs 38,
+  0 shares). When choosing between candidate trends, prefer one with an Azerbaijani/Turkish link or a big
+  "everyone is talking about it" story over a niche foreign one.
 - 09:10 (morning task): pick TODAY's trend topic: football/sports results and transfers, celebrities' news,
   film/music/game releases, tech launches, space, viral moments, notable "today in history" anniversaries,
   world (non-AZ) politics/elections per section T. Find a surprising, verified angle with 3–4 details,
@@ -143,8 +149,9 @@ Goal: keep up with the real world. Before doing the main task, search the news (
    with title/text/slides/caption/quizzes like a carousel fact. (v2 days had 3 facts.)
 2b. **Quality bar (Gartal, 2026-10-15): no widely known trivia** ("sharks older than trees", "honey never
    spoils", "octopus 3 hearts"-level is too common). Prefer specific, surprising facts with a number, a date or a
-   twist, that most people have NOT heard. Include an Azerbaijan/Baku angle about 1–2 times a week when it is
-   genuinely surprising (e.g. Bibiheybət 1846, Nobel & Baku oil). Ask: "would someone screenshot this to a friend?"
+   twist, that most people have NOT heard. Include an Azerbaijan/Baku or history angle about 2–3 times a week when it is
+   genuinely surprising (e.g. Bibiheybət 1846, Nobel & Baku oil) — raised from 1–2 in the 2026-10-18 weekly
+   review: history/AZ cards were the only ones with shares (6) and follows (2). Ask: "would someone screenshot this to a friend?"
 3. **Verify every fact with WebSearch** (at least one reliable source: encyclopedia, museum, university,
    NASA/NatGeo, official site). Use conservative wording ("up to", "about"). Drop anything disputed or
    myth-like (e.g. "we use 10% of our brain", "Great Wall visible from space").
@@ -199,8 +206,12 @@ Goal: keep up with the real world. Before doing the main task, search the news (
 8. Message Gartal a short summary: what posts at which time and any fallback used. No action needed from
    him for stories.
 
-## Weekly (Sunday evening task, add when ready)
-Pull Metricool analytics for the week; note best reel/card, best posting hours; adjust next week.
+## Weekly (Sunday evening task)
+Pull Metricool analytics for Mon–Sun (metric IDs listed at the end of reviews/2026-10-18.md; timestamps come back
+in UTC, +4 h for Baku), plus `getBestTimeToPostByNetwork` for the next 7 days. Write reviews/YYYY-MM-DD.md:
+followers, per-post table, best/worst, card vs reel, categories, times, story replies, 1–3 changes. Apply only
+small data-backed changes here; recommend bigger ones (times, volume, format mix) to Gartal.
+- Sunday's own posts are usually not synced yet at review time — count them in the next week's review.
 
 ## Roadmap (decided 2026-10-16)
 - ~2026-10-30 two-week check (weekly review): if the Azerbaijani page is growing, propose launching a

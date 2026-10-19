@@ -1,6 +1,6 @@
 {
  "date": "2026-10-20",
- "status": "planned",
+ "status": "scheduled",
  "format": "v3",
  "content_format": "v2",
  "history": {
@@ -32,7 +32,7 @@
     "t": "Bina 102 milyon dollara başa gəldi. Bu, planlaşdırılandan təxminən 14 dəfə çoxdur. 2003-cü ildə Utzon memarlığın ən böyük mükafatını — Pritzker mükafatını aldı."
    }
   ],
-  "caption": "53 il əvvəl bu gün Sidney Opera Teatrı açıldı 🎭\n\n1973-cü il 20 oktyabrda Kraliça II Elizabet binanı açdı. Tikintiyə əvvəlcə 7 milyon dollar ayrılmışdı, sonda isə 102 milyon dollar xərcləndi. İş 1963-də bitməli idi, amma 10 il uzandı. Binanı çəkən danimarkalı memar Yorn Utzon 1966-da layihədən getdi və bitmiş binanı heç vaxt görmədi.\n\n📩 «Təmir 2 həftəyə bitəcək» deyən dostuna göndər 😄\n\nFoto: Nico Smit / Unsplash\n\n#bilirdinizmi #maraqlıfaktlar #tarixdəbugün #memarlıq #sidney",
+  "caption": "53 il əvvəl bu gün Sidney Opera Teatrı açıldı 🎭\n\n1973-cü il 20 oktyabrda Kraliça II Elizabet binanı açdı. Tikintiyə əvvəlcə 7 milyon Avstraliya dolları ayrılmışdı, sonda isə 102 milyon xərcləndi. İş 1963-də bitməli idi, amma 10 il uzandı. Binanı layihələndirən danimarkalı memar Yorn Utzon 1966-da layihədən getdi və bitmiş binanı heç vaxt görmədi.\n\n📩 «Təmir 2 həftəyə bitəcək» deyən dostuna göndər 😄\n\nFoto: Nico Smit / Unsplash\n\n#bilirdinizmi #maraqlıfaktlar #tarixdəbugün #memarlıq #sidney",
   "first_comment": "Sənin evdə təmir planlaşdırdığından neçə dəfə uzun çəkib? 👇",
   "quizzes": [
    {
@@ -101,7 +101,7 @@
     "Dənizin üstündə, dəmir dirəklərin üzərində körpülər çəkildi. Onların uzunluğu 200 km-i keçdi. Otellər, çörək zavodu, elektrik stansiyası da tikildi.",
     "Ginnes onu dünyanın ən köhnə dəniz neft platforması sayır. Ceyms Bond filmində də görünüb. Sən Neft Daşlarını görmüsən?"
    ],
-   "caption": "Xəzərin ortasında 200 km yolu olan şəhər 🌊\n\n1949-cu ildə Xəzər dənizində, sahildən uzaqda neft tapıldı. Dəniz üstündə dəmir dirəklərə körpülər, evlər, otellər, hətta çörək zavodu tikildi. Körpülərin uzunluğu bir vaxtlar 200 km-i keçirdi. Ginnes Neft Daşlarını dünyanın ən köhnə dəniz neft platforması kimi qeyd edir. 1999-cu ildə Ceyms Bond filmlərindən birinin bir səhnəsi də burada çəkilib.\n\n📩 Hər həftə «dənizə gedək» deyən dostuna göndər 🌊\n\nFoto: Interfase / Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #neftdaşları #azərbaycan #xəzər",
+   "caption": "Xəzərin ortasında 200 km yolu olan şəhər 🌊\n\n1949-cu ildə Xəzər dənizində, sahildən uzaqda neft tapıldı. Dənizin üstündə, dəmir dirəklərin üzərində körpülər, evlər, otellər, hətta çörək zavodu tikildi. Körpülərin uzunluğu bir vaxtlar 200 km-i keçirdi. Ginnes Neft Daşlarını dünyanın ən köhnə dəniz neft platforması kimi qeyd edir. 1999-cu ildə Ceyms Bond filmlərindən birinin bir səhnəsi də burada çəkilib.\n\n📩 Hər həftə «dənizə gedək» deyən dostuna göndər 🌊\n\nFoto: Interfase / Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #neftdaşları #azərbaycan #xəzər",
    "first_comment": "Sən Neft Daşlarını görmüsən? 👇",
    "quizzes": [
     {
@@ -508,5 +508,23 @@
    "image": "out/2026-10-20/q5.jpg",
    "answer_image": "out/2026-10-20/q5_a.jpg"
   }
- ]
+ ],
+ "metricool": {
+  "10:00 tarixdə bu gün carousel (Sydney Opera)": 400258495,
+  "13:00 reel (Neft Daşları)": 400258581,
+  "16:00 reel (beaked whale)": 400258654,
+  "18:30 carousel (Dagen H, trend backup)": 400258737,
+  "21:30 reel (Pluto)": 400258798,
+  "10:00 tarixdə bu gün story": 400258894,
+  "11:00 quiz q1 (recall Bibiheybət)": 400258926,
+  "11:10 answer a1": 400258962,
+  "14:00 quiz q2": 400258995,
+  "14:10 answer a2": 400259047,
+  "17:00 quiz q3": 400259082,
+  "17:10 answer a3": 400259124,
+  "19:30 quiz q4": 400259160,
+  "19:40 answer a4": 400259191,
+  "22:30 quiz q5": 400259219,
+  "22:40 answer a5": 400259253
+ }
 }

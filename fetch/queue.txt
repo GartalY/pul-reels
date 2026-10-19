@@ -51,3 +51,11 @@ search_limoges.json https://commons.wikimedia.org/w/api.php?action=query&format=
 2026-10-20_h_opera.jpg https://images.unsplash.com/photo-1494948141550-221698c089c2?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=1600
 2026-10-20_4_pluto.jpg https://images.unsplash.com/photo-1614314107768-6018061b5b72?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=1600
 2026-10-19_T_flag.jpg https://images.unsplash.com/photo-1743107924367-50a73310950a?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=1600
+2026-10-20_1_neft_a.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Oil_Rocks_estacades.jpg/1920px-Oil_Rocks_estacades.jpg
+2026-10-20_1_neft_b.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Oil_Rocks_panorama.jpg/1920px-Oil_Rocks_panorama.jpg
+2026-10-20_2_whale_a.jpg https://upload.wikimedia.org/wikipedia/commons/3/33/Cuvier%E2%80%99s_Beaked_Whale_%28Ziphius_cavirostris%29.jpg
+2026-10-20_2_whale_b.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Ziphius_cavirostris_in_the_Ligurian_Sea.jpg/1920px-Ziphius_cavirostris_in_the_Ligurian_Sea.jpg
+2026-10-20_3_dagenh_a.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Kungsgatan_1967.jpg/1920px-Kungsgatan_1967.jpg
+2026-10-20_3_dagenh_b.jpg https://upload.wikimedia.org/wikipedia/commons/f/fc/Kungsgatan_3_september_1967_Dagen_H.jpg
+2026-10-19_T_limoges_a.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Limoges_-_H%C3%B4tel_de_ville_3.jpg/1920px-Limoges_-_H%C3%B4tel_de_ville_3.jpg
+2026-10-19_T_limoges_b.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Limoges_Mairie.jpg/1920px-Limoges_Mairie.jpg

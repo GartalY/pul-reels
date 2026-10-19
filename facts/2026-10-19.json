@@ -437,5 +437,84 @@
   "22:30 quiz q5 (auto)": 399269522,
   "22:40 answer a5": 399269534
  },
- "language_fix": "2026-10-18 evening: Gartal said the Azerbaijani is sometimes hard to understand/wrong. Fixed: godwit reel+caption, coffee reel beats+caption, Everest slide 5+caption, Voyager caption. Voyager hook: 'Bu zonda' (reads like 'in this zone') -> 'Voyager 1-ə göndərilən'. Metricool updated 21:44 18 Oct (new IDs recorded)."
+ "language_fix": "2026-10-18 evening: Gartal said the Azerbaijani is sometimes hard to understand/wrong. Fixed: godwit reel+caption, coffee reel beats+caption, Everest slide 5+caption, Voyager caption. Voyager hook: 'Bu zonda' (reads like 'in this zone') -> 'Voyager 1-ə göndərilən'. Metricool updated 21:44 18 Oct (new IDs recorded).",
+ "trend": {
+  "n": "T",
+  "type": "card",
+  "format": "v2",
+  "subject": "France nationwide protests, 17 Oct 2026 (cost of living + student/school grievances; 1,800+ arrests; Limoges city hall fire)",
+  "cat": "Dünya",
+  "title": "Fransada etiraz həftəsonu",
+  "text": "Şənbə günü Fransada yarım milyondan çox insan küçəyə çıxdı. 1 800-dən çox adam saxlanıldı. Nə baş verir?",
+  "slides": [
+   {
+    "h": "Səbəb nədir?",
+    "t": "Etirazları həftələr əvvəl tələbələr başladıb. Onlar məktəblərdə müəllim çatışmazlığından və köhnə binalardan şikayət edir. Sonra «sarı jiletlilər» də qoşuldu. Onlar bahalığa və yanacaq qiymətlərinə etiraz edir."
+   },
+   {
+    "h": "1883",
+    "t": "Limoj şəhərinin bələdiyyə binası 1883-cü ildə açılmışdı. 1975-dən tarixi abidədir. Şənbə günü bina yandı, damı çökdü. Prefekt deyir ki, yanğını qəsdən törədiblər."
+   },
+   {
+    "h": "2018",
+    "t": "Bu, ilk dəfə deyil. 2018-ci ildə «sarı jiletlilər» yanacaq vergisinin artmasına qarşı çıxmışdı. Təkcə 8 dekabrda 1 723 nəfər saxlanılmışdı. Hökumət sonda vergini artırmadı."
+   },
+   {
+    "h": "Tərəflər nə deyir?",
+    "t": "Prezident Makron deyir ki, haqlı tələbi olanlar var, amma zorakılığa bəraət yoxdur. Hökumət zorakılıqda radikal sol qrupları günahlandırır. Müxalifət isə hökuməti qaydanı qoruya bilməməkdə ittiham edir."
+   }
+  ],
+  "caption": "Fransada etiraz həftəsonu: 1 800-dən çox adam saxlanıldı 🇫🇷\n\n17 oktyabr şənbə günü Fransada yarım milyondan çox insan bahalığa və məktəblərin vəziyyətinə etiraz etdi. Rəsmi rəqəm 550 min, həmkarlar ittifaqına görə isə 800 min nəfərdir. Çox yürüşlər dinc keçdi, amma bəzi şəhərlərdə mağazalar talan edildi. Limojda 1883-cü ildə açılmış bələdiyyə binası yandı. Prezident Makron zorakılığı pisləyib, müxalifət isə hökuməti tənqid edir. Ölkədə prezident seçkilərinə təxminən 6 ay qalıb.\n\n📩 Fransada oxuyan və ya yaşayan dostuna göndər\n\nFoto: Aratar / Wikimedia Commons (CC BY-SA 3.0)\n\n#bilirdinizmi #maraqlıfaktlar #fransa #paris #dünyaxəbərləri",
+  "first_comment": "Sən Fransada olmusan? Hansı şəhərdə? 👇",
+  "quizzes": [
+   {
+    "q": "Limoj bələdiyyə binası hansı ildə açılmışdı?",
+    "options": [
+     "1883",
+     "1955",
+     "1999"
+    ],
+    "answer": "1883",
+    "why": "1975-ci ildən tarixi abidə sayılır."
+   },
+   {
+    "q": "Fransada etirazları ilk kimlər başladıb?",
+    "options": [
+     "Tələbələr",
+     "Fermerlər",
+     "Taksi sürücüləri"
+    ],
+    "answer": "Tələbələr",
+    "why": "Müəllim çatışmazlığı və köhnə məktəb binalarına görə."
+   },
+   {
+    "q": "2018-ci ildə «sarı jiletlilər» nəyə qarşı çıxmışdı?",
+    "options": [
+     "Yanacaq vergisinə",
+     "Pensiya islahatına",
+     "Məktəb formasına"
+    ],
+    "answer": "Yanacaq vergisinə",
+    "why": "Hökumət sonda vergini artırmadı."
+   }
+  ],
+  "photo": {
+   "path": "fetch/img/2026-10-19_T_limoges_b.jpg",
+   "credit": "Aratar / Wikimedia Commons (CC BY-SA 3.0)",
+   "cy": 0.4,
+   "full": false,
+   "source": "https://commons.wikimedia.org/wiki/File:Limoges_Mairie.jpg",
+   "note": "Limoges city hall BEFORE the fire (no damage/victim photos). Alt: fetch/img/2026-10-19_T_flag.jpg (Panthéon + French flag, Maxence Pira / Unsplash)."
+  },
+  "sources": [
+   "https://www.cbsnews.com/news/protests-france-rising-living-costs-students/",
+   "https://www.tpr.org/criminal-justice/2026-10-18/french-police-arrest-1-800-after-violent-clashes-and-looting-mar-protests",
+   "https://www.abc.net.au/news/2026-10-19/france-reels-from-protests-violence-as-1800-arrested/107281138",
+   "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting",
+   "https://en.wikipedia.org/wiki/H%C3%B4tel_de_Ville,_Limoges",
+   "https://www.dailysabah.com/europe/2018/12/08/1723-arrested-179-injured-as-yellow-vest-protesters-clash-with-police-across-france"
+  ],
+  "verify_note": "Arrest totals differ (AP/CBS/ABC: at least 1,800; Al Jazeera: nearly 2,400 on Saturday) -> wrote '1 800-dən çox'. Turnout given with both sides (ministry 550k / CGT 800k). Neutral per section D: facts, history (2018 yellow vests), reasons attributed to each side; no opinions, no damage photos. Election 'about six months' per ABC/AP."
+ },
+ "trend_check_morning": "2026-10-19 09:15 morning run: news checked (France weekend protests 1,800+ arrests = top world story -> today's 18:30 trend; Real Madrid 4-1 Sevilla (Real already trend 10-18); Qarabağ–Neftçi 3-3 with brawls = violence, skipped; Asian Para Games; nothing AZ-wide breaking). No immediate swap needed: the trend replaces the 18:30 Everest backup at the 15:23 midday task."
 }

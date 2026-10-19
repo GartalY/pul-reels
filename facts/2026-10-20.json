@@ -1,0 +1,348 @@
+{
+ "date": "2026-10-20",
+ "status": "planned",
+ "format": "v3",
+ "content_format": "v2",
+ "history": {
+  "n": "H",
+  "type": "card",
+  "cat": "Tarix",
+  "day": 20,
+  "month": 10,
+  "year": 1973,
+  "subject": "Sydney Opera House opened by Queen Elizabeth II (20 Oct 1973): budget $7m -> $102m, Utzon never saw it finished",
+  "card_title": "20 OKTYABR 1973",
+  "title": "7 milyon dedilər, 102 milyon oldu",
+  "text": "1973-cü il 20 oktyabrda Kraliça II Elizabet Sidney Opera Teatrını açdı. Tikinti 10 il gec bitdi və 14 dəfə baha başa gəldi.",
+  "slides": [
+   {
+    "h": "1957",
+    "t": "Danimarkalı memar Yorn Utzon beynəlxalq müsabiqədə qalib gəldi. Tikintiyə 7 milyon dollar ayrıldı. İşin 1963-cü ildə bitməsi planlaşdırılırdı."
+   },
+   {
+    "h": "2 194",
+    "t": "Damın məşhur «yelkənləri» 2 194 hazır beton hissədən yığıldı. Hər biri 15 ton çəkirdi. Bu hissələri elə tikinti yerində tökürdülər."
+   },
+   {
+    "h": "1966",
+    "t": "Pul mübahisəsindən sonra Utzon 1966-cı ildə istefa verib Avstraliyadan getdi. Açılışa dəvət olunmadı. Bitmiş binanı heç vaxt öz gözü ilə görmədi."
+   },
+   {
+    "h": "102 milyon",
+    "t": "Bina 102 milyon dollara başa gəldi — planlaşdırılandan təxminən 14 dəfə baha. 2003-cü ildə Utzon bu binaya görə memarlığın ən böyük mükafatını — Pritzker mükafatını aldı."
+   }
+  ],
+  "caption": "53 il əvvəl bu gün Sidney Opera Teatrı açıldı 🎭\n\n1973-cü il 20 oktyabrda Kraliça II Elizabet binanı açdı. Tikintiyə əvvəlcə 7 milyon dollar ayrılmışdı, sonda isə 102 milyon dollar xərcləndi. İş 1963-də bitməli idi, amma 10 il uzandı. Binanı çəkən danimarkalı memar Yorn Utzon 1966-da layihədən getdi və bitmiş binanı heç vaxt görmədi.\n\n📩 «Təmir 2 həftəyə bitəcək» deyən dostuna göndər 😄\n\nFoto: Annie Spratt / Unsplash\n\n#bilirdinizmi #maraqlıfaktlar #tarixdəbugün #memarlıq #sidney",
+  "first_comment": "Sənin evdə təmir planlaşdırdığından neçə dəfə uzun çəkib? 👇",
+  "quizzes": [
+   {
+    "q": "Sidney Opera Teatrına əvvəlcə nə qədər pul ayrılmışdı?",
+    "options": [
+     "7 milyon dollar",
+     "70 milyon dollar",
+     "700 milyon dollar"
+    ],
+    "answer": "7 milyon dollar",
+    "why": "Sonda 102 milyon dollar xərcləndi — 14 dəfə çox."
+   },
+   {
+    "q": "Opera teatrının memarı Yorn Utzon haralı idi?",
+    "options": [
+     "Danimarkalı",
+     "İtalyan",
+     "Avstraliyalı"
+    ],
+    "answer": "Danimarkalı",
+    "why": "1957-ci ildə beynəlxalq müsabiqədə qalib gəldi."
+   },
+   {
+    "q": "Opera teatrının damı neçə beton hissədən yığılıb?",
+    "options": [
+     "194",
+     "2 194",
+     "21 940"
+    ],
+    "answer": "2 194",
+    "why": "Hər hissə təxminən 15 ton çəkirdi."
+   }
+  ],
+  "story": {
+   "title": "7 milyon dedilər, 102 milyon oldu",
+   "text": "1973-cü il 20 oktyabrda Sidney Opera Teatrı açıldı. Plana görə 7 milyon dollara 1963-də bitməli idi. Sonda 102 milyon dollara, 10 il gec tikildi.",
+   "credit": "Annie Spratt / Unsplash"
+  },
+  "sources": [
+   "https://www.nma.gov.au/defining-moments/resources/sydney-opera-house",
+   "https://www.smithsonianmag.com/smart-news/architect-sydney-opera-house-wasnt-invited-opening-180956175/",
+   "https://cphpost.dk/2016-01-25/business-education/the-soap-opera-behind-the-construction-of-australias-most-iconic-building"
+  ],
+  "verify_note": "53 years: not a round anniversary -> 10:00 only. Smithsonian says Utzon 'apparently never saw' it; CPH Post: 'never saw his project in its completed state'. Competition entries closed Dec 1956, judged Jan 1957.",
+  "photo": {
+   "path": "fetch/img/2026-10-20_h_opera.jpg",
+   "credit": "Annie Spratt / Unsplash",
+   "cy": 0.85,
+   "full": false,
+   "source": "https://unsplash.com/photos/sydney-opera-house-australia-pbrQvuKJQf8"
+  }
+ },
+ "facts": [
+  {
+   "n": 1,
+   "type": "reel",
+   "cat": "Azərbaycan",
+   "subject": "Neft Daşları: city on stilts in the Caspian, oil found 7 Nov 1949, 200+ km of trestle roads, Guinness oldest offshore oil platform, James Bond 1999",
+   "photo_request": "Neft Daşları estakadaları",
+   "title": "Dənizin ortasında şəhər",
+   "text": "1949-cu ildə Xəzərin ortasında neft tapıldı. Orada dəmir dirəklər üstündə bütöv bir şəhər salındı.",
+   "reel_hook": "Dənizin ortasında 200 km yol",
+   "reel_beats": [
+    "7 noyabr 1949. Xəzər dənizində, sahildən uzaqda neft tapıldı. Bu yerə «Neft Daşları» adı verildi.",
+    "Dəniz üstündə dəmir dirəklərə körpülər çəkildi. Onların uzunluğu 200 km-i keçdi. Otellər, çörək zavodu, elektrik stansiyası da tikildi.",
+    "Ginnes onu dünyanın ən köhnə dəniz neft platforması sayır. Ceyms Bond filmində də görünüb. Sən Neft Daşlarını görmüsən?"
+   ],
+   "caption": "Xəzərin ortasında 200 km yolu olan şəhər 🌊\n\n1949-cu ildə Xəzər dənizində, sahildən uzaqda neft tapıldı. Dəniz üstündə dəmir dirəklərə körpülər, evlər, otellər, hətta çörək zavodu tikildi. Körpülərin uzunluğu bir vaxtlar 200 km-i keçirdi. Ginnes Neft Daşlarını dünyanın ən köhnə dəniz neft platforması kimi qeyd edir. 1999-cu ildə Ceyms Bond filmlərindən birinin bir səhnəsi də burada çəkilib.\n\n📩 Hər həftə «dənizə gedək» deyən dostuna göndər 🌊\n\nFoto: Interfase / Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #neftdaşları #azərbaycan #xəzər",
+   "first_comment": "Sən Neft Daşlarını görmüsən? 👇",
+   "quizzes": [
+    {
+     "q": "Neft Daşlarında neft hansı ildə tapıldı?",
+     "options": [
+      "1901",
+      "1949",
+      "1971"
+     ],
+     "answer": "1949",
+     "why": "7 noyabr 1949-da, dəniz dibindən 1 100 metr dərinlikdə."
+    },
+    {
+     "q": "Neft Daşlarının körpüləri bir vaxtlar nə qədər uzunluqda idi?",
+     "options": [
+      "2 km",
+      "20 km",
+      "200 km-dən çox"
+     ],
+     "answer": "200 km-dən çox",
+     "why": "Körpülərin çoxu indi dənizə çöküb."
+    },
+    {
+     "q": "Neft Daşları hansı filmdə görünüb?",
+     "options": [
+      "Ceyms Bond filmində",
+      "«Titanik»də",
+      "«Harri Potter»də"
+     ],
+     "answer": "Ceyms Bond filmində",
+     "why": "1999-cu ildə çəkilən Bond filmində."
+    }
+   ],
+   "sources": [
+    "https://www.guinnessworldrecords.com/world-records/oldest-offshore-oil-platform",
+    "https://en.wikipedia.org/wiki/Neft_Da%C5%9Flar%C4%B1"
+   ],
+   "verify_note": "Distance from shore differs (Guinness 55 km, Wikipedia 39 km to nearest shore / 86 km from Baku) -> no distance stated. Guinness: oldest offshore oil platform, >200 km trestle bridges, hotels, bakery, power station. Oil found 7 Nov 1949 at 1,100 m (Wikipedia). Bond: The World Is Not Enough (1999).",
+   "photo": {
+    "path": "fetch/img/2026-10-20_1_neft_a.jpg",
+    "credit": "Interfase / Wikimedia Commons (ictimai mülkiyyət)",
+    "cy": 0.5,
+    "full": false,
+    "source": "https://commons.wikimedia.org/wiki/File:Oil_Rocks_estacades.jpg",
+    "alt": "fetch/img/2026-10-20_1_neft_b.jpg (panorama, same author/PD)"
+   }
+  },
+  {
+   "n": 2,
+   "type": "reel",
+   "cat": "Təbiət",
+   "subject": "Cuvier's beaked whale: deepest mammal dive 2,992 m and longest 137.5 min (Schorr/Falcone et al., PLOS ONE 2014)",
+   "photo_request": "Cuvier's beaked whale",
+   "title": "Nəfəs almadan 2 saat",
+   "text": "Bir dimdikli balina 2 992 metr dərinliyə endi. Başqası isə nəfəs almadan 2 saat 17 dəqiqə su altında qaldı.",
+   "reel_hook": "2 saat 17 dəqiqə nəfəs almadı",
+   "reel_beats": [
+    "Kaliforniya sahili. Alimlər 8 dimdikli balinanın üzərinə izləmə cihazı taxdılar. Onları 3 aya qədər izlədilər.",
+    "Biri 2 992 metr dərinliyə endi. Bu, məməlilər arasında rekorddur. Yuxarıda isə adətən 2 dəqiqədən az dincəlib yenə enirlər.",
+    "Başqa biri nəfəs almadan 2 saat 17 dəqiqə su altında qaldı. Sən nəfəsini neçə saniyə saxlaya bilirsən?"
+   ],
+   "caption": "Bu balina nəfəs almadan 2 saatdan çox su altında qaldı 🐋\n\nAlimlər Kaliforniya sahilində 8 dimdikli balinanı izləyiblər. Biri 2 992 metr dərinliyə enib — bu, məməlilər arasında rekorddur. Başqası 2 saat 17 dəqiqə nəfəs almadan su altında qalıb. Alimlərin fikrincə, bədənlərində hava boşluqlarının az olması onlara təzyiqə dözməyə kömək edir.\n\n📩 Hovuzda 10 saniyə də suyun altında qala bilməyən dostuna göndər 😄\n\nFoto: Francesca Grossi / Wikimedia Commons (CC BY 4.0)\n\n#bilirdinizmi #maraqlıfaktlar #balina #okean #təbiət",
+   "first_comment": "Sən nəfəsini neçə saniyə saxlaya bilirsən? 👇",
+   "quizzes": [
+    {
+     "q": "Rekordçu balina neçə metr dərinliyə endi?",
+     "options": [
+      "299",
+      "2 992",
+      "29 920"
+     ],
+     "answer": "2 992",
+     "why": "Təxminən 3 km — məməlilər arasında rekord."
+    },
+    {
+     "q": "Balina nəfəs almadan ən çox nə qədər qaldı?",
+     "options": [
+      "17 dəqiqə",
+      "2 saat 17 dəqiqə",
+      "12 saat"
+     ],
+     "answer": "2 saat 17 dəqiqə",
+     "why": "137,5 dəqiqə — bu da məməlilər üçün rekorddur."
+    },
+    {
+     "q": "Alimlər neçə balinanı izlədilər?",
+     "options": [
+      "8",
+      "80",
+      "800"
+     ],
+     "answer": "8",
+     "why": "Kaliforniya sahilində, 3 aya qədər."
+    }
+   ],
+   "sources": [
+    "https://www.guinnessworldrecords.com/world-records/70515-deepest-dive-by-a-mammal",
+    "https://csmonitor.com/Science/2014/0327/Whale-sets-deep-dive-record-for-mammals"
+   ],
+   "verify_note": "Species has no common AZ name -> 'dimdikli balina'. Surface recovery <2 min average (CS Monitor). Depth record 2,992 m and duration 137.5 min were different whales.",
+   "photo": {
+    "path": "fetch/img/2026-10-20_2_whale_b.jpg",
+    "credit": "Francesca Grossi / Wikimedia Commons (CC BY 4.0)",
+    "cy": 0.65,
+    "full": false,
+    "source": "https://commons.wikimedia.org/wiki/File:Ziphius_cavirostris_in_the_Ligurian_Sea.jpg",
+    "alt": "fetch/img/2026-10-20_2_whale_a.jpg (USGS, public domain, aerial)"
+   }
+  },
+  {
+   "n": 3,
+   "type": "card",
+   "cat": "Tarix",
+   "subject": "Dagen H: Sweden switched from left- to right-hand traffic, 3 Sept 1967 (04:50 stop, 05:00 restart; 83% voted no in 1955)",
+   "photo_request": "Kungsgatan, Stockholm, 3 September 1967",
+   "title": "İsveç bir səhərdə sağa keçdi",
+   "text": "1967-ci ilə qədər İsveçdə maşınlar yolun sol tərəfi ilə gedirdi. 3 sentyabr səhəri hamı birdən sağa keçdi.",
+   "slides": [
+    {
+     "h": "83%",
+     "t": "1955-ci ildə referendum keçirildi. İsveçlilərin 83 faizi solda qalmaq istədi. Amma parlament 1963-cü ildə yenə də sağa keçməyə qərar verdi."
+    },
+    {
+     "h": "04:50",
+     "t": "3 sentyabr 1967, saat 04:50. Bütün maşınlar dayandı və yolun o biri tərəfinə keçdi. Saat 05:00-da hərəkət yenidən başladı — artıq sağ tərəflə."
+    },
+    {
+     "h": "Niyə?",
+     "t": "Qonşu Norveç və Finlandiyada maşınlar sağla gedirdi. İsveç maşınlarının 90 faizdən çoxunun sükanı isə onsuz da solda idi. Bu, yolda ötməyi təhlükəli edirdi."
+    },
+    {
+     "h": "−40%",
+     "t": "Keçiddən sonra sürücülər çox ehtiyatlı oldu. Sığorta müraciətləri əvvəlcə təxminən 40 faiz azaldı. Amma 6 həftə sonra hər şey köhnə səviyyəyə qayıtdı."
+    }
+   ],
+   "caption": "İsveç bir səhər yolun o biri tərəfinə keçdi 🚗\n\n1967-ci il 3 sentyabr səhəri İsveçdə bütün maşınlar saat 04:50-də dayandı, yolun sağ tərəfinə keçdi və 05:00-da yenidən yola düşdü. Bunun üçün təxminən 350 min yol nişanı dəyişdirildi. Maraqlıdır ki, 1955-ci ildəki referendumda xalqın 83 faizi buna «yox» demişdi. Bir il sonra İslandiya da sağa keçdi.\n\n📩 Hələ də sağı-solu qarışdıran dostuna göndər 😄\n\nFoto: Jan Collsiöö / Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #isveç #tarix #avtomobil",
+   "first_comment": "Sən sükanı sağda olan maşın sürmüsən? 👇",
+   "quizzes": [
+    {
+     "q": "İsveç hansı ildə yolun sağ tərəfinə keçdi?",
+     "options": [
+      "1945",
+      "1967",
+      "1989"
+     ],
+     "answer": "1967",
+     "why": "3 sentyabr 1967 — «H günü»."
+    },
+    {
+     "q": "1955-ci il referendumunda isveçlilərin neçə faizi «yox» dedi?",
+     "options": [
+      "33%",
+      "53%",
+      "83%"
+     ],
+     "answer": "83%",
+     "why": "Parlament buna baxmayaraq 1963-də sağa keçməyə qərar verdi."
+    },
+    {
+     "q": "Keçid günü maşınlar saat neçədə dayandı?",
+     "options": [
+      "04:50",
+      "12:00",
+      "23:59"
+     ],
+     "answer": "04:50",
+     "why": "10 dəqiqə sonra, 05:00-da sağ tərəflə yola düşdülər."
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Dagen_H"
+   ],
+   "verify_note": "Wikipedia: Riksdag approved 10 May 1963; 83% no in 1955; ~350,000 signs; >90% of cars left-hand drive; insurance claims down ~40% then normal within six weeks; Iceland switched 26 May 1968.",
+   "photo": {
+    "path": "fetch/img/2026-10-20_3_dagenh_a.jpg",
+    "credit": "Jan Collsiöö / Wikimedia Commons (ictimai mülkiyyət)",
+    "cy": 0.55,
+    "full": false,
+    "source": "https://commons.wikimedia.org/wiki/File:Kungsgatan_1967.jpg",
+    "alt": "fetch/img/2026-10-20_3_dagenh_b.jpg (Jacob Forsell, PD)"
+   }
+  },
+  {
+   "n": 4,
+   "type": "reel",
+   "cat": "Kosmos",
+   "subject": "Pluto has not completed one orbit since its 1930 discovery; first full orbit on 23 March 2178 (period ~248 years)",
+   "photo_request": "Pluto (New Horizons)",
+   "title": "Pluton hələ bir «il» yaşamayıb",
+   "text": "Pluton 1930-cu ildə kəşf edilib. O vaxtdan Günəşin ətrafında bir dəfə də tam dövr vurmayıb. Bu, yalnız 2178-ci ildə olacaq.",
+   "reel_hook": "Plutonda 1 il = 248 il",
+   "reel_beats": [
+    "18 fevral 1930. Amerikalı astronom Klayd Tombo Neptundan uzaqda hərəkət edən kiçik bir nöqtə tapdı. Bu, Pluton idi.",
+    "Pluton Günəşin ətrafını təxminən 248 ilə bir dəfə dövr edir. Kəşfindən 96 il keçib, amma dövrün yarısı da tamamlanmayıb.",
+    "İlk tam dövrünü 23 mart 2178-ci ildə bitirəcək. Səncə, o vaxta insanlar Plutona uçacaq?"
+   ],
+   "caption": "Pluton kəşf ediləndən bəri hələ bir «il» yaşamayıb 🪐\n\n1930-cu ildə kəşf edilən Pluton Günəşin ətrafını təxminən 248 ilə bir dəfə dövr edir. Yəni kəşfindən 96 il keçsə də, hələ dövrün yarısını belə tamamlamayıb. İlk tam dövr 23 mart 2178-ci ildə başa çatacaq. 2006-cı ildən Pluton planet yox, cırtdan planet sayılır.\n\n📩 Hər işi «sabah» deyib təxirə salan dostuna göndər 😄\n\nFoto: NASA\n\n#bilirdinizmi #maraqlıfaktlar #kosmos #pluton #astronomiya",
+   "first_comment": "Səncə, 2178-ci ilə qədər insanlar Plutona uçacaq? 👇",
+   "quizzes": [
+    {
+     "q": "Pluton Günəşin ətrafını təxminən neçə ilə dövr edir?",
+     "options": [
+      "24",
+      "248",
+      "2 480"
+     ],
+     "answer": "248",
+     "why": "Kəşfindən bəri hələ bir dövrü tamamlamayıb."
+    },
+    {
+     "q": "Pluton hansı ildə kəşf edilib?",
+     "options": [
+      "1830",
+      "1930",
+      "1980"
+     ],
+     "answer": "1930",
+     "why": "18 fevral 1930, Klayd Tombo."
+    },
+    {
+     "q": "Pluton ilk tam dövrünü hansı ildə bitirəcək?",
+     "options": [
+      "2030",
+      "2178",
+      "2500"
+     ],
+     "answer": "2178",
+     "why": "23 mart 2178-ci ildə."
+    }
+   ],
+   "sources": [
+    "https://www.livescience.com/33390-pluto-first-complete-orbit.html"
+   ],
+   "verify_note": "Orbital period 248.09 years; 23 March 2178 per timeanddate.com (cited by Live Science). Dwarf-planet reclassification by IAU in 2006 (well established).",
+   "photo": {
+    "path": "fetch/img/2026-10-20_4_pluto.jpg",
+    "credit": "NASA",
+    "cy": 0.5,
+    "full": false,
+    "source": "https://unsplash.com/photos/pluto-on-a-black-background--5V6VZxSQRo"
+   }
+  }
+ ],
+ "planned_note": "Planned in the 2026-10-19 09:10 morning run. Mix: Azerbaijan (Neft Daşları), nature, history/geography, space + TBG history. facts[2] (Dagen H) is the 18:30 evergreen trend backup."
+}

@@ -215,75 +215,90 @@
    ]
   },
   {
-   "n": 3,
+   "n": "T",
    "type": "card",
-   "subject": "Everest marine fossils",
-   "photo_request": "Everest dağı",
-   "title": "Everest",
-   "text": "Dünyanın ən hündür nöqtəsi əslində qədim okeanın dibidir. Everestin zirvəsindəki daşda dəniz canlılarının fosilləri var.",
-   "caption": "Dünyanın zirvəsi — keçmişin okean dibi 🏔️\n\nEverestin ən üst qatı dəniz əhəngdaşından ibarətdir. İçində trilobit və dəniz zanbağı kimi qədim dəniz canlılarının fosilləri var. Hindistan Asiya ilə toqquşanda okeanın dibi 8 849 metr hündürlüyə qalxdı.\n\n📩 Dağa çıxmağı sevən dostuna göndər — qoy bilsin, əslində dənizin dibinə çıxır 😄\n\nFoto: Slava Auchynnikau / Unsplash\n\n#bilirdinizmi #maraqlıfaktlar #everest #geologiya #elm",
-   "sources": [
-    "https://montana.edu/everest/facts/summit-limestone.html"
-   ],
-   "cat": "Elm",
+   "format": "v2",
+   "subject": "France nationwide protests, 17 Oct 2026 (cost of living + student/school grievances; 1,800+ arrests; Limoges city hall fire)",
+   "cat": "Dünya",
+   "title": "Fransada etiraz həftəsonu",
+   "text": "Şənbə günü Fransada yarım milyondan çox insan küçəyə çıxdı. 1 800-dən çox adam saxlanıldı. Nə baş verir?",
    "slides": [
     {
-     "h": "470 milyon il",
-     "t": "Zirvədəki boz əhəngdaşı təxminən 470 milyon il əvvəl dənizin dibində yaranıb. Geoloqlar ona «Qomolanqma əhəngdaşı» deyir."
+     "h": "Səbəb nədir?",
+     "t": "Etirazları həftələr əvvəl tələbələr başladıb. Onlar məktəblərdə müəllim çatışmazlığından və köhnə binalardan şikayət edir. Sonra «sarı jiletlilər» də qoşuldu. Onlar bahalığa və yanacaq qiymətlərinə etiraz edir."
     },
     {
-     "h": "Trilobitlər",
-     "t": "Daşın içində trilobit, braxiopod, ostrakod və dəniz zanbaqlarının qırıntıları var — hamısı okeanda yaşayan canlılardır."
+     "h": "1883",
+     "t": "Limoj şəhərinin bələdiyyə binası 1883-cü ildə açılmışdı. 1975-dən tarixi abidədir. Şənbə günü bina yandı, damı çökdü. Prefekt deyir ki, yanğını qəsdən törədiblər."
     },
     {
-     "h": "Dinozavrlardan əvvəl",
-     "t": "Bu daşlar ilk dinozavrlardan təxminən 240 milyon il əvvəl yaranıb."
+     "h": "2018",
+     "t": "Bu, ilk dəfə deyil. 2018-ci ildə «sarı jiletlilər» yanacaq vergisinin artmasına qarşı çıxmışdı. Təkcə 8 dekabrda 1 723 nəfər saxlanılmışdı. Hökumət sonda vergini artırmadı."
     },
     {
-     "h": "Necə qalxdı?",
-     "t": "Hindistan plitəsi Asiya ilə toqquşanda okeanın dibi qırışdı və 8 849 metrə qalxdı. Bu toqquşma bu gün də davam edir."
+     "h": "Tərəflər nə deyir?",
+     "t": "Prezident Makron deyir ki, haqlı tələbi olanlar var, amma zorakılığa bəraət yoxdur. Hökumət zorakılıqda radikal sol qrupları günahlandırır. Müxalifət isə hökuməti qaydanı qoruya bilməməkdə ittiham edir."
     }
    ],
+   "caption": "Fransada etiraz həftəsonu: 1 800-dən çox adam saxlanıldı 🇫🇷\n\n17 oktyabr şənbə günü Fransada yarım milyondan çox insan bahalığa və məktəblərin vəziyyətinə etiraz etdi. Rəsmi rəqəm 550 min, həmkarlar ittifaqına görə isə 800 min nəfərdir. Çox yürüşlər dinc keçdi, amma bəzi şəhərlərdə mağazalar talan edildi. Limojda 1883-cü ildə açılmış bələdiyyə binası yandı. Prezident Makron zorakılığı pisləyib, müxalifət isə hökuməti tənqid edir. Ölkədə prezident seçkilərinə təxminən 6 ay qalıb.\n\n📩 Fransada oxuyan və ya yaşayan dostuna göndər\n\nFoto: Aratar / Wikimedia Commons (CC BY-SA 3.0)\n\n#bilirdinizmi #maraqlıfaktlar #fransa #paris #dünyaxəbərləri",
+   "first_comment": "Sən Fransada olmusan? Hansı şəhərdə? 👇",
    "quizzes": [
     {
-     "q": "Everestin zirvəsindəki daşın yaşı təxminən nə qədərdir?",
+     "q": "Limoj bələdiyyə binası hansı ildə açılmışdı?",
      "options": [
-      "47 min il",
-      "4,7 milyon il",
-      "470 milyon il"
+      "1883",
+      "1955",
+      "1999"
      ],
-     "answer": "470 milyon il",
-     "why": "Zirvə daşı ~470 milyon il əvvəl okean dibində yaranıb."
+     "answer": "1883",
+     "why": "1975-ci ildən tarixi abidə sayılır."
     },
     {
-     "q": "Everestin zirvə daşında hansı canlının fosili var?",
+     "q": "Fransada etirazları ilk kimlər başladıb?",
      "options": [
-      "Mamont",
-      "Trilobit",
-      "Dinozavr"
+      "Tələbələr",
+      "Fermerlər",
+      "Taksi sürücüləri"
      ],
-     "answer": "Trilobit",
-     "why": "Trilobitlər — 470 milyon il əvvəl dənizdə yaşayan canlılar."
+     "answer": "Tələbələr",
+     "why": "Müəllim çatışmazlığı və köhnə məktəb binalarına görə."
     },
     {
-     "q": "Everesti hansı toqquşma qaldırıb?",
+     "q": "2018-ci ildə «sarı jiletlilər» nəyə qarşı çıxmışdı?",
      "options": [
-      "Hindistan və Asiya",
-      "Afrika və Avropa",
-      "Amerika və Asiya"
+      "Yanacaq vergisinə",
+      "Pensiya islahatına",
+      "Məktəb formasına"
      ],
-     "answer": "Hindistan və Asiya",
-     "why": "Hindistan plitəsi Asiya ilə toqquşub və bu gün də onu itələyir."
+     "answer": "Yanacaq vergisinə",
+     "why": "Hökumət sonda vergini artırmadı."
     }
    ],
-   "first_comment": "Bunu bilirdin, yoxsa indi öyrəndin? 👇",
    "photo": {
-    "path": "fetch/img/2026-10-17_2_everest.jpg",
-    "credit": "Slava Auchynnikau / Unsplash",
-    "cy": 0.5
+    "path": "fetch/img/2026-10-19_T_limoges_b.jpg",
+    "credit": "Aratar / Wikimedia Commons (CC BY-SA 3.0)",
+    "cy": 0.4,
+    "full": false,
+    "source": "https://commons.wikimedia.org/wiki/File:Limoges_Mairie.jpg",
+    "note": "Limoges city hall BEFORE the fire (no damage/victim photos). Alt: fetch/img/2026-10-19_T_flag.jpg (Panthéon + French flag, Maxence Pira / Unsplash)."
    },
-   "moved_from": "2026-10-17 18:30 (replaced by trend Lamine Yamal)",
-   "reverified": "2026-10-18: montana.edu summit-limestone page (Qomolangma Formation, Ordovician ~470 Ma marine limestone with trilobites/crinoids)"
+   "sources": [
+    "https://www.cbsnews.com/news/protests-france-rising-living-costs-students/",
+    "https://www.tpr.org/criminal-justice/2026-10-18/french-police-arrest-1-800-after-violent-clashes-and-looting-mar-protests",
+    "https://www.abc.net.au/news/2026-10-19/france-reels-from-protests-violence-as-1800-arrested/107281138",
+    "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting",
+    "https://en.wikipedia.org/wiki/H%C3%B4tel_de_Ville,_Limoges",
+    "https://www.dailysabah.com/europe/2018/12/08/1723-arrested-179-injured-as-yellow-vest-protesters-clash-with-police-across-france"
+   ],
+   "verify_note": "Arrest totals differ (AP/CBS/ABC: at least 1,800; Al Jazeera: nearly 2,400 on Saturday) -> wrote '1 800-dən çox'. Turnout given with both sides (ministry 550k / CGT 800k). Neutral per section D: facts, history (2018 yellow vests), reasons attributed to each side; no opinions, no damage photos. Election 'about six months' per ABC/AP.",
+   "slides_out": [
+    "out/2026-10-19/T_1.jpg",
+    "out/2026-10-19/T_2.jpg",
+    "out/2026-10-19/T_3.jpg",
+    "out/2026-10-19/T_4.jpg",
+    "out/2026-10-19/T_5.jpg",
+    "out/2026-10-19/T_6.jpg"
+   ]
   },
   {
    "n": 4,
@@ -403,19 +418,19 @@
   },
   {
    "time": "19:30",
-   "fact_id": "2026-10-19-3",
+   "fact_id": "2026-10-19-T",
    "recall": false,
-   "cat": "Elm",
-   "q": "Everestin zirvəsindəki daşın yaşı təxminən nə qədərdir?",
+   "cat": "Dünya",
+   "q": "Fransada etirazları ilk kimlər başladıb?",
    "options": [
-    "47 min il",
-    "4,7 milyon il",
-    "470 milyon il"
+    "Tələbələr",
+    "Fermerlər",
+    "Taksi sürücüləri"
    ],
-   "answer": "470 milyon il",
-   "why": "Zirvə daşı ~470 milyon il əvvəl okean dibində yaranıb.",
-   "image": "out/2026-10-19/q4.jpg",
-   "answer_image": "out/2026-10-19/q4_a.jpg"
+   "answer": "Tələbələr",
+   "why": "Müəllim çatışmazlığı və köhnə məktəb binalarına görə.",
+   "image": "out/2026-10-19/q4_trend.jpg",
+   "answer_image": "out/2026-10-19/q4_trend_a.jpg"
   },
   {
    "time": "22:30",
@@ -529,8 +544,24 @@
    "https://en.wikipedia.org/wiki/H%C3%B4tel_de_Ville,_Limoges",
    "https://www.dailysabah.com/europe/2018/12/08/1723-arrested-179-injured-as-yellow-vest-protesters-clash-with-police-across-france"
   ],
-  "verify_note": "Arrest totals differ (AP/CBS/ABC: at least 1,800; Al Jazeera: nearly 2,400 on Saturday) -> wrote '1 800-dən çox'. Turnout given with both sides (ministry 550k / CGT 800k). Neutral per section D: facts, history (2018 yellow vests), reasons attributed to each side; no opinions, no damage photos. Election 'about six months' per ABC/AP."
+  "verify_note": "Arrest totals differ (AP/CBS/ABC: at least 1,800; Al Jazeera: nearly 2,400 on Saturday) -> wrote '1 800-dən çox'. Turnout given with both sides (ministry 550k / CGT 800k). Neutral per section D: facts, history (2018 yellow vests), reasons attributed to each side; no opinions, no damage photos. Election 'about six months' per ABC/AP.",
+  "slides_out": [
+   "out/2026-10-19/T_1.jpg",
+   "out/2026-10-19/T_2.jpg",
+   "out/2026-10-19/T_3.jpg",
+   "out/2026-10-19/T_4.jpg",
+   "out/2026-10-19/T_5.jpg",
+   "out/2026-10-19/T_6.jpg"
+  ]
  },
  "trend_check_morning": "2026-10-19 09:15 morning run: news checked (France weekend protests 1,800+ arrests = top world story -> today's 18:30 trend; Real Madrid 4-1 Sevilla (Real already trend 10-18); Qarabağ–Neftçi 3-3 with brawls = violence, skipped; Asian Para Games; nothing AZ-wide breaking). No immediate swap needed: the trend replaces the 18:30 Everest backup at the 15:23 midday task.",
- "note_reels": "2026-10-19 12:20: reels re-rendered (*_reel_v3.mp4: hook on frame 0, beats <=13 words) and swapped in Metricool"
+ "note_reels": "2026-10-19 12:20: reels re-rendered (*_reel_v3.mp4: hook on frame 0, beats <=13 words) and swapped in Metricool",
+ "trend_swap": {
+  "when": "2026-10-19 15:30 Asia/Baku",
+  "slot": "18:30 carousel + 19:30 quiz + 19:40 answer",
+  "what": "Everest marine fossils -> France protest weekend (neutral, section D)",
+  "why": "Morning trend confirmed; midday news check: story still current, nothing bigger.",
+  "backup_moved_to": "2026-10-20 spare",
+  "photo": "Limoges city hall (Wikimedia, before the fire)"
+ }
 }

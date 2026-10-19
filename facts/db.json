@@ -534,12 +534,7 @@
      "why": "Hindistan plitəsi Asiya ilə toqquşub və bu gün də onu itələyir."
     }
    ],
-   "asked": [
-    {
-     "date": "2026-10-19",
-     "qi": 0
-    }
-   ]
+   "asked": []
   },
   {
    "id": "2026-10-19-4",
@@ -582,6 +577,50 @@
     {
      "date": "2026-10-19",
      "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-19-T",
+   "date": "2026-10-19",
+   "subject": "France nationwide protests, 17 Oct 2026 (cost of living + student/school grievances; 1,800+ arrests; Limoges city hall fire)",
+   "cat": "Dünya",
+   "quizzes": [
+    {
+     "q": "Limoj bələdiyyə binası hansı ildə açılmışdı?",
+     "options": [
+      "1883",
+      "1955",
+      "1999"
+     ],
+     "answer": "1883",
+     "why": "1975-ci ildən tarixi abidə sayılır."
+    },
+    {
+     "q": "Fransada etirazları ilk kimlər başladıb?",
+     "options": [
+      "Tələbələr",
+      "Fermerlər",
+      "Taksi sürücüləri"
+     ],
+     "answer": "Tələbələr",
+     "why": "Müəllim çatışmazlığı və köhnə məktəb binalarına görə."
+    },
+    {
+     "q": "2018-ci ildə «sarı jiletlilər» nəyə qarşı çıxmışdı?",
+     "options": [
+      "Yanacaq vergisinə",
+      "Pensiya islahatına",
+      "Məktəb formasına"
+     ],
+     "answer": "Yanacaq vergisinə",
+     "why": "Hökumət sonda vergini artırmadı."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-19",
+     "qi": 1
     }
    ]
   }

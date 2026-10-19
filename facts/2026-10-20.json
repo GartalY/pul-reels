@@ -344,5 +344,78 @@
    }
   }
  ],
- "planned_note": "Planned in the 2026-10-19 09:10 morning run. Mix: Azerbaijan (Neft Daşları), nature, history/geography, space + TBG history. facts[2] (Dagen H) is the 18:30 evergreen trend backup."
+ "planned_note": "Planned in the 2026-10-19 09:10 morning run. Mix: Azerbaijan (Neft Daşları), nature, history/geography, space + TBG history. facts[2] (Dagen H) is the 18:30 evergreen trend backup.",
+ "spare": [
+  {
+   "n": 3,
+   "type": "card",
+   "subject": "Everest marine fossils",
+   "photo_request": "Everest dağı",
+   "title": "Everest",
+   "text": "Dünyanın ən hündür nöqtəsi əslində qədim okeanın dibidir. Everestin zirvəsindəki daşda dəniz canlılarının fosilləri var.",
+   "caption": "Dünyanın zirvəsi — keçmişin okean dibi 🏔️\n\nEverestin ən üst qatı dəniz əhəngdaşından ibarətdir. İçində trilobit və dəniz zanbağı kimi qədim dəniz canlılarının fosilləri var. Hindistan Asiya ilə toqquşanda okeanın dibi 8 849 metr hündürlüyə qalxdı.\n\n📩 Dağa çıxmağı sevən dostuna göndər — qoy bilsin, əslində dənizin dibinə çıxır 😄\n\nFoto: Slava Auchynnikau / Unsplash\n\n#bilirdinizmi #maraqlıfaktlar #everest #geologiya #elm",
+   "sources": [
+    "https://montana.edu/everest/facts/summit-limestone.html"
+   ],
+   "cat": "Elm",
+   "slides": [
+    {
+     "h": "470 milyon il",
+     "t": "Zirvədəki boz əhəngdaşı təxminən 470 milyon il əvvəl dənizin dibində yaranıb. Geoloqlar ona «Qomolanqma əhəngdaşı» deyir."
+    },
+    {
+     "h": "Trilobitlər",
+     "t": "Daşın içində trilobit, braxiopod, ostrakod və dəniz zanbaqlarının qırıntıları var — hamısı okeanda yaşayan canlılardır."
+    },
+    {
+     "h": "Dinozavrlardan əvvəl",
+     "t": "Bu daşlar ilk dinozavrlardan təxminən 240 milyon il əvvəl yaranıb."
+    },
+    {
+     "h": "Necə qalxdı?",
+     "t": "Hindistan plitəsi Asiya ilə toqquşanda okeanın dibi qırışdı və 8 849 metrə qalxdı. Bu toqquşma bu gün də davam edir."
+    }
+   ],
+   "quizzes": [
+    {
+     "q": "Everestin zirvəsindəki daşın yaşı təxminən nə qədərdir?",
+     "options": [
+      "47 min il",
+      "4,7 milyon il",
+      "470 milyon il"
+     ],
+     "answer": "470 milyon il",
+     "why": "Zirvə daşı ~470 milyon il əvvəl okean dibində yaranıb."
+    },
+    {
+     "q": "Everestin zirvə daşında hansı canlının fosili var?",
+     "options": [
+      "Mamont",
+      "Trilobit",
+      "Dinozavr"
+     ],
+     "answer": "Trilobit",
+     "why": "Trilobitlər — 470 milyon il əvvəl dənizdə yaşayan canlılar."
+    },
+    {
+     "q": "Everesti hansı toqquşma qaldırıb?",
+     "options": [
+      "Hindistan və Asiya",
+      "Afrika və Avropa",
+      "Amerika və Asiya"
+     ],
+     "answer": "Hindistan və Asiya",
+     "why": "Hindistan plitəsi Asiya ilə toqquşub və bu gün də onu itələyir."
+    }
+   ],
+   "first_comment": "Bunu bilirdin, yoxsa indi öyrəndin? 👇",
+   "photo": {
+    "path": "fetch/img/2026-10-17_2_everest.jpg",
+    "credit": "Slava Auchynnikau / Unsplash",
+    "cy": 0.5
+   },
+   "moved_from": "2026-10-17 18:30 (replaced by trend Lamine Yamal)",
+   "reverified": "2026-10-18: montana.edu summit-limestone page (Qomolangma Formation, Ordovician ~470 Ma marine limestone with trilobites/crinoids)"
+  }
+ ]
 }

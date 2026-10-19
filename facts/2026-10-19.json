@@ -453,7 +453,6 @@
   "10:00 tarixdə bu gün carousel": 399268740,
   "13:00 reel (godwit)": 399752095,
   "16:00 reel (coffee pot)": 399752184,
-  "18:30 carousel (Everest, trend backup)": 399304020,
   "21:30 reel (Voyager 1)": 399752296,
   "10:00 tarixdə bu gün story": 399269215,
   "11:00 quiz q1 (auto)": 399269243,
@@ -462,10 +461,11 @@
   "14:10 answer a2": 399269333,
   "17:00 quiz q3 (auto)": 399269356,
   "17:10 answer a3": 399269383,
-  "19:30 quiz q4 (auto)": 399269471,
-  "19:40 answer a4": 399269490,
   "22:30 quiz q5 (auto)": 399269522,
-  "22:40 answer a5": 399269534
+  "22:40 answer a5": 399269534,
+  "18:30 carousel (TREND France protests)": 399914385,
+  "19:30 quiz q4_trend (auto)": 399914406,
+  "19:40 answer q4_trend_a": 399914439
  },
  "language_fix": "2026-10-18 evening: Gartal said the Azerbaijani is sometimes hard to understand/wrong. Fixed: godwit reel+caption, coffee reel beats+caption, Everest slide 5+caption, Voyager caption. Voyager hook: 'Bu zonda' (reads like 'in this zone') -> 'Voyager 1-ə göndərilən'. Metricool updated 21:44 18 Oct (new IDs recorded).",
  "trend": {
@@ -562,6 +562,7 @@
   "what": "Everest marine fossils -> France protest weekend (neutral, section D)",
   "why": "Morning trend confirmed; midday news check: story still current, nothing bigger.",
   "backup_moved_to": "2026-10-20 spare",
-  "photo": "Limoges city hall (Wikimedia, before the fire)"
+  "photo": "Limoges city hall (Wikimedia, before the fire)",
+  "metricool": "updated 15:26 (18:30 post T_1..T_6, 19:30 q4_trend, 19:40 q4_trend_a); times kept"
  }
 }

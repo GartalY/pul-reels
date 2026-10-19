@@ -282,3 +282,9 @@ small data-backed changes here; recommend bigger ones (times, volume, format mix
 - Politics only per section T (never Azerbaijani politics); no religion; nothing about private people; tragedies only per section T.
 - Never schedule anything into the past; never delete Gartal's posts.
 - If a tool or connection fails, stop and tell Gartal exactly what failed (e.g. "Metricool reconnect needed").
+
+## Checkpoint for the 2026-10-25 weekly review (promised to Gartal 2026-10-19)
+Compare reels from 2026-10-19 on (hook-first, natural sentences) with reels before: >3 s view rate (IGRE28),
+avg watch time (IGRE24), reach, shares, followers gained. If the >3 s rate is still < 40% AND followers are still
+~24–30, do NOT keep the same plan: pick one bigger change (new reel style, trend-driven reels, or propose a small
+paid boost test — Gartal's money, so ask him first) and tell him plainly what changed and why.

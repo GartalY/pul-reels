@@ -43,3 +43,11 @@ search_coffeepot.json https://commons.wikimedia.org/w/api.php?action=query&forma
 2026-10-19_2_coffee_a.jpg https://images.unsplash.com/photo-1565452344518-47faca79dc69?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=1600
 2026-10-19_2_coffee_b.jpg https://images.unsplash.com/photo-1534516484460-0b6099615d5a?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=1600
 2026-10-19_4_voyager.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Voyager_spacecraft.jpg/1920px-Voyager_spacecraft.jpg
+search_neft.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Neft%20Daslari
+search_oilrocks.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Oil%20Rocks%20Caspian
+search_ziphius.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Ziphius%20cavirostris
+search_dagenh.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Dagen%20H%201967
+search_limoges.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Hotel%20de%20ville%20Limoges
+2026-10-20_h_opera.jpg https://images.unsplash.com/photo-1494948141550-221698c089c2?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=1600
+2026-10-20_4_pluto.jpg https://images.unsplash.com/photo-1614314107768-6018061b5b72?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=1600
+2026-10-19_T_flag.jpg https://images.unsplash.com/photo-1743107924367-50a73310950a?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=1600

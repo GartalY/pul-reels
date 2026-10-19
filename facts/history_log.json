@@ -23,5 +23,13 @@
    "event": "Santos-Dumont wins the Deutsch Prize: airship No. 6 round the Eiffel Tower in 29 min 30 s",
    "source": "https://en.wikipedia.org/wiki/Henri_Deutsch_de_la_Meurthe"
   }
+ ],
+ "10-20": [
+  {
+   "year_posted": 2026,
+   "event_year": 1973,
+   "event": "Sydney Opera House opened by Queen Elizabeth II (budget A$7m -> A$102m, Utzon never saw it finished)",
+   "source": "https://www.nma.gov.au/defining-moments/resources/sydney-opera-house"
+  }
  ]
 }

@@ -78,6 +78,10 @@
     {
      "date": "2026-10-17",
      "qi": 0
+    },
+    {
+     "date": "2026-10-20",
+     "qi": 1
     }
    ],
    "quizzes": [
@@ -498,45 +502,6 @@
    ]
   },
   {
-   "id": "2026-10-19-3",
-   "date": "2026-10-19",
-   "subject": "Everest marine fossils",
-   "cat": "Elm",
-   "quizzes": [
-    {
-     "q": "Everestin zirvəsindəki daşın yaşı təxminən nə qədərdir?",
-     "options": [
-      "47 min il",
-      "4,7 milyon il",
-      "470 milyon il"
-     ],
-     "answer": "470 milyon il",
-     "why": "Zirvə daşı ~470 milyon il əvvəl okean dibində yaranıb."
-    },
-    {
-     "q": "Everestin zirvə daşında hansı canlının fosili var?",
-     "options": [
-      "Mamont",
-      "Trilobit",
-      "Dinozavr"
-     ],
-     "answer": "Trilobit",
-     "why": "Trilobitlər — 470 milyon il əvvəl dənizdə yaşayan canlılar."
-    },
-    {
-     "q": "Everesti hansı toqquşma qaldırıb?",
-     "options": [
-      "Hindistan və Asiya",
-      "Afrika və Avropa",
-      "Amerika və Asiya"
-     ],
-     "answer": "Hindistan və Asiya",
-     "why": "Hindistan plitəsi Asiya ilə toqquşub və bu gün də onu itələyir."
-    }
-   ],
-   "asked": []
-  },
-  {
    "id": "2026-10-19-4",
    "date": "2026-10-19",
    "subject": "Voyager 1 reaches one light-day from Earth on 18 Nov 2026",
@@ -621,6 +586,182 @@
     {
      "date": "2026-10-19",
      "qi": 1
+    }
+   ]
+  },
+  {
+   "id": "2026-10-20-1",
+   "date": "2026-10-20",
+   "subject": "Neft Daşları: city on stilts in the Caspian, oil found 7 Nov 1949, 200+ km of trestle roads, Guinness oldest offshore oil platform, James Bond 1999",
+   "cat": "Azərbaycan",
+   "quizzes": [
+    {
+     "q": "Neft Daşlarında neft hansı ildə tapıldı?",
+     "options": [
+      "1929",
+      "1939",
+      "1949"
+     ],
+     "answer": "1949",
+     "why": "7 noyabr 1949-da, dəniz dibindən 1 100 metr dərinlikdə."
+    },
+    {
+     "q": "Neft Daşlarının körpüləri bir vaxtlar nə qədər uzunluqda idi?",
+     "options": [
+      "2 km",
+      "20 km",
+      "200 km-dən çox"
+     ],
+     "answer": "200 km-dən çox",
+     "why": "Körpülərin çoxu indi dənizə çöküb."
+    },
+    {
+     "q": "Neft Daşları hansı filmdə görünüb?",
+     "options": [
+      "Ceyms Bond filmində",
+      "«Titanik»də",
+      "«Harri Potter»də"
+     ],
+     "answer": "Ceyms Bond filmində",
+     "why": "1999-cu ildə çəkilən Bond filmində."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-20",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-20-2",
+   "date": "2026-10-20",
+   "subject": "Cuvier's beaked whale: deepest mammal dive 2,992 m and longest 137.5 min (Schorr/Falcone et al., PLOS ONE 2014)",
+   "cat": "Təbiət",
+   "quizzes": [
+    {
+     "q": "Rekordçu balina neçə metr dərinliyə endi?",
+     "options": [
+      "992",
+      "1 992",
+      "2 992"
+     ],
+     "answer": "2 992",
+     "why": "Təxminən 3 km — məməlilər arasında rekord."
+    },
+    {
+     "q": "Balina nəfəs almadan ən çox nə qədər qaldı?",
+     "options": [
+      "17 dəqiqə",
+      "2 saat 17 dəqiqə",
+      "12 saat"
+     ],
+     "answer": "2 saat 17 dəqiqə",
+     "why": "137,5 dəqiqə — bu da məməlilər üçün rekorddur."
+    },
+    {
+     "q": "Alimlər neçə balinanı izlədilər?",
+     "options": [
+      "8",
+      "80",
+      "800"
+     ],
+     "answer": "8",
+     "why": "Kaliforniya sahilində, 3 aya qədər."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-20",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-20-3",
+   "date": "2026-10-20",
+   "subject": "Dagen H: Sweden switched from left- to right-hand traffic, 3 Sept 1967 (04:50 stop, 05:00 restart; 83% voted no in 1955)",
+   "cat": "Tarix",
+   "quizzes": [
+    {
+     "q": "İsveç hansı ildə yolun sağ tərəfinə keçdi?",
+     "options": [
+      "1967",
+      "1977",
+      "1987"
+     ],
+     "answer": "1967",
+     "why": "3 sentyabr 1967 — «H günü»."
+    },
+    {
+     "q": "1955-ci il referendumunda isveçlilərin neçə faizi «yox» dedi?",
+     "options": [
+      "33%",
+      "53%",
+      "83%"
+     ],
+     "answer": "83%",
+     "why": "Parlament buna baxmayaraq 1963-də sağa keçməyə qərar verdi."
+    },
+    {
+     "q": "Keçid günü maşınlar saat neçədə dayandı?",
+     "options": [
+      "04:50",
+      "12:00",
+      "23:59"
+     ],
+     "answer": "04:50",
+     "why": "10 dəqiqə sonra, 05:00-da sağ tərəflə yola düşdülər."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-20",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-20-4",
+   "date": "2026-10-20",
+   "subject": "Pluto has not completed one orbit since its 1930 discovery; first full orbit on 23 March 2178 (period ~248 years)",
+   "cat": "Kosmos",
+   "quizzes": [
+    {
+     "q": "Pluton Günəşin ətrafını təxminən neçə ilə dövr edir?",
+     "options": [
+      "124",
+      "248",
+      "496"
+     ],
+     "answer": "248",
+     "why": "Kəşfindən bəri hələ bir dövrü tamamlamayıb."
+    },
+    {
+     "q": "Pluton hansı ildə kəşf edilib?",
+     "options": [
+      "1830",
+      "1930",
+      "1980"
+     ],
+     "answer": "1930",
+     "why": "18 fevral 1930, Klayd Tombo."
+    },
+    {
+     "q": "Pluton ilk tam dövrünü hansı ildə bitirəcək?",
+     "options": [
+      "2030",
+      "2178",
+      "2500"
+     ],
+     "answer": "2178",
+     "why": "23 mart 2178-ci ildə."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-20",
+     "qi": 0
     }
    ]
   }

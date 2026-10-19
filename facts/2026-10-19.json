@@ -436,10 +436,10 @@
  ],
  "metricool": {
   "10:00 tarixdə bu gün carousel": 399268740,
-  "13:00 reel (godwit)": 399303934,
-  "16:00 reel (coffee pot)": 399303959,
+  "13:00 reel (godwit)": 399752095,
+  "16:00 reel (coffee pot)": 399752184,
   "18:30 carousel (Everest, trend backup)": 399304020,
-  "21:30 reel (Voyager 1)": 399304062,
+  "21:30 reel (Voyager 1)": 399752296,
   "10:00 tarixdə bu gün story": 399269215,
   "11:00 quiz q1 (auto)": 399269243,
   "11:10 answer a1": 399269266,
@@ -531,5 +531,6 @@
   ],
   "verify_note": "Arrest totals differ (AP/CBS/ABC: at least 1,800; Al Jazeera: nearly 2,400 on Saturday) -> wrote '1 800-dən çox'. Turnout given with both sides (ministry 550k / CGT 800k). Neutral per section D: facts, history (2018 yellow vests), reasons attributed to each side; no opinions, no damage photos. Election 'about six months' per ABC/AP."
  },
- "trend_check_morning": "2026-10-19 09:15 morning run: news checked (France weekend protests 1,800+ arrests = top world story -> today's 18:30 trend; Real Madrid 4-1 Sevilla (Real already trend 10-18); Qarabağ–Neftçi 3-3 with brawls = violence, skipped; Asian Para Games; nothing AZ-wide breaking). No immediate swap needed: the trend replaces the 18:30 Everest backup at the 15:23 midday task."
+ "trend_check_morning": "2026-10-19 09:15 morning run: news checked (France weekend protests 1,800+ arrests = top world story -> today's 18:30 trend; Real Madrid 4-1 Sevilla (Real already trend 10-18); Qarabağ–Neftçi 3-3 with brawls = violence, skipped; Asian Para Games; nothing AZ-wide breaking). No immediate swap needed: the trend replaces the 18:30 Everest backup at the 15:23 midday task.",
+ "note_reels": "2026-10-19 12:20: reels re-rendered (*_reel_v3.mp4: hook on frame 0, beats <=13 words) and swapped in Metricool"
 }

@@ -45,6 +45,9 @@ Feed posts (all automatic):
   Weekly review 2026-10-18: only ~30% of reel views lasted >3 s (avg watch 3.2–3.7 s) → the hook must be the
   NUMBER or twist itself as huge text ("400 YAŞ", "3 ÜRƏK"), visible from frame 1; aim for the short end (8–9 s).
   Target: >3 s view rate (IGRE28) ≥ 40%.
+  Renderer (factgen.py reel, 2026-10-19): hook is fully visible on frame 0 (no fade-in), beat time = reading time
+  (0.3 s/word + 0.6 s, min 2.2 s). So EACH BEAT MUST BE ≤ 12–13 WORDS (old beats were ~20 words = slow reels).
+  Long detail goes in the caption, not the reel. Schedule reels with "videoCoverMilliseconds": 300 (hook as cover).
 - 18:30 — facts[2]: CAROUSEL = evergreen backup, replaced by the TREND post (section D)
 - 21:30 — facts[3]: REEL (3 beats, the most surprising fact of the day)
 Quiz stories (automatic, printed options, answer +10 min): 11:00 recall · 14:00 facts[0] · 17:00 facts[1]
@@ -84,7 +87,7 @@ Why: Gartal said one-sentence facts were too thin and the quizzes too easy (phot
 - Carousel = cover (photo + title + 1–2 sentence hook, "Sürüşdür →") + 3–4 detail slides + outro slide.
   Each detail slide: `h` = a short big headline, ideally a number/date ("3,8 km", "1948", "0 sakin"),
   `t` = ≤ 40 words with a NEW detail (not a repeat). Every detail must be verified like the main fact.
-- Reel = hook + 3 beats (each ≤ 30 words, each a new detail) → `reel_beats`.
+- Reel = hook + 3 beats (each ≤ 12–13 words, each a new detail) → `reel_beats`.
 - Quizzes: 2–3 questions per fact in `quizzes` (q ≤ 12 words, 3 plausible options of the same type,
   exactly one correct). Ask about a DETAIL from the slides/beats (a number, date, name, cause), never
   something the photo or the title gives away. Avoid yes/no and avoid joke options.

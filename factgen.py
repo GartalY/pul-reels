@@ -85,20 +85,24 @@ def reel(photo, out, c):
     W, H, FPS = 1080, 1920, 30
     src = load(photo)
     beats = c.get("beats") or [c["fact"]]
-    dur = c.get("dur", 2.6 + 4.3 * len(beats) + 2.4)
+    # v2 (2026-10-19): first 3 s were losing ~70% of viewers -> hook fully visible on frame 0, faster beats, ~12 s total
+    HK, OUT = 2.0, 1.6
+    BTS = [max(2.2, 0.3 * len(b.split()) + 0.6) for b in beats]   # reading time per beat (~3.3 words/s)
+    START = [sum(BTS[:j]) for j in range(len(beats))]
+    dur = c.get("dur", HK + sum(BTS) + OUT)
     base = cover(src, W, H, cy=c.get("cy", 0.5)) if c.get("full", True) else fit_on_blur(src, W, H)
     tmp = tempfile.mkdtemp()
-    hook_end = 2.6
+    hook_end = HK
     for i in range(int(dur * FPS)):
         t = i / FPS
-        z = 1.0 + 0.10 * t / dur
+        z = 1.0 + 0.16 * t / dur
         fr = base.resize((int(W * z), int(H * z)), Image.BILINEAR)
         fr = fr.crop(((fr.width - W) // 2, (fr.height - H) // 2, (fr.width - W) // 2 + W, (fr.height - H) // 2 + H))
         fr = shade(fr, top=0.26, start=0.48)
         d = ImageDraw.Draw(fr)
         d.text(((W - d.textlength(HANDLE, font=F("SemiBold", 34))) / 2, 110), HANDLE, font=F("SemiBold", 34), fill=WHITE)
         if t < hook_end + 0.3:
-            a = ease(t / 0.35) * (1 - ease((t - hook_end) / 0.3))
+            a = 1 - ease((t - hook_end) / 0.3)   # no fade-in: frame 0 = thumbnail = hook
             col = tuple(int(255 * a) for _ in range(3))
             lines = wrap(d, c["hook"], F("Black", 84), W - 100)
             for k, ln in enumerate(lines):
@@ -106,13 +110,13 @@ def reel(photo, out, c):
                        fill=tuple(int(x * a) for x in GOLD))
         s = t - hook_end
         if s > 0:
-            k = min(int(s // 4.3), len(beats) - 1); sb = s - k * 4.3
-            a = ease(sb / 0.5)
-            if k < len(beats) - 1: a *= 1 - ease((sb - 4.0) / 0.3)
+            k = max(j for j in range(len(beats)) if START[j] <= s); sb = s - START[k]
+            a = ease(sb / 0.25)
+            if k < len(beats) - 1: a *= 1 - ease((sb - (BTS[k] - 0.25)) / 0.25)
             pill(d, 70, 1180, "BİLİRDİNİZMİ?" if k == 0 else f"{k + 1}/{len(beats)}", F("Black", 40), GOLD, INK)
             text_block(d, 70, 1290 + (1 - a) * 40, beats[k], F("Bold", 60), tuple(int(x * a) for x in WHITE), W - 140)
-        if t > dur - 2.3:
-            a = ease((t - (dur - 2.3)) / 0.4)
+        if t > dur - OUT:
+            a = ease((t - (dur - OUT)) / 0.3)
             msg = c.get("cta", "Hekayədə viktorina var — yoxla özünü!")
             fw = d.textlength(msg, font=F("Bold", 44))
             d.rounded_rectangle([(W - fw) / 2 - 30, 1760, (W + fw) / 2 + 30, 1840], 40, fill=tuple(int(x * a) for x in GOLD))

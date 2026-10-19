@@ -59,3 +59,5 @@ search_limoges.json https://commons.wikimedia.org/w/api.php?action=query&format=
 2026-10-20_3_dagenh_b.jpg https://upload.wikimedia.org/wikipedia/commons/f/fc/Kungsgatan_3_september_1967_Dagen_H.jpg
 2026-10-19_T_limoges_a.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Limoges_-_H%C3%B4tel_de_ville_3.jpg/1920px-Limoges_-_H%C3%B4tel_de_ville_3.jpg
 2026-10-19_T_limoges_b.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Limoges_Mairie.jpg/1920px-Limoges_Mairie.jpg
+2026-10-20_h_opera_b.jpg https://images.unsplash.com/photo-1590716209211-ea74d5f63573?crop=entropy&cs=srgb&fm=jpg&q=85&w=1600
+2026-10-20_h_opera_c.jpg https://images.unsplash.com/photo-1549180030-48bf079fb38a?crop=entropy&cs=srgb&fm=jpg&q=85&w=1600

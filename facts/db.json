@@ -192,6 +192,10 @@
     {
      "date": "2026-10-17",
      "qi": 0
+    },
+    {
+     "date": "2026-10-21",
+     "qi": 1
     }
    ]
   },
@@ -761,6 +765,182 @@
    "asked": [
     {
      "date": "2026-10-20",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-21-1",
+   "date": "2026-10-21",
+   "subject": "Shollar–Baku water pipeline: Lindley hired 1899, Taghiyev gave 25,000 rubles, ~177 km from Guba springs, water reached Baku 1917, still supplies central Baku",
+   "cat": "Azərbaycan",
+   "quizzes": [
+    {
+     "q": "Şollar suyu Bakıya hansı ildə çatdı?",
+     "options": [
+      "1897",
+      "1917",
+      "1937"
+     ],
+     "answer": "1917",
+     "why": "Kəmər təxminən 177 km uzanır."
+    },
+    {
+     "q": "Şollar kəmərini hansı ölkədən olan mühəndis layihələndirib?",
+     "options": [
+      "Britaniya",
+      "Fransa",
+      "İsveç"
+     ],
+     "answer": "Britaniya",
+     "why": "Mühəndis Vilyam Lindli 1899-cu ildə dəvət olunmuşdu."
+    },
+    {
+     "q": "Şollar kəmərinin uzunluğu təxminən nə qədərdir?",
+     "options": [
+      "17 km",
+      "77 km",
+      "177 km"
+     ],
+     "answer": "177 km",
+     "why": "Quba yaxınlığındakı bulaqlardan Bakıya qədər."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-21",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-21-2",
+   "date": "2026-10-21",
+   "subject": "Bubble Wrap: invented 1957 in Hawthorne NJ by Fielding & Chavannes from two shower curtains sealed together; failed as textured wallpaper, then as greenhouse insulation; IBM used it to ship the 1401 computer; Sealed Air 1960",
+   "cat": "Texnologiya",
+   "quizzes": [
+    {
+     "q": "Qabarcıqlı plyonka əvvəlcə nə üçün icad edilmişdi?",
+     "options": [
+      "Divar kağızı",
+      "Yağış paltarı",
+      "Uşaq oyuncağı"
+     ],
+     "answer": "Divar kağızı",
+     "why": "1957-ci ildə iki duş pərdəsini yapışdırıb düzəltdilər."
+    },
+    {
+     "q": "Qabarcıqlı plyonka hansı ildə icad edilib?",
+     "options": [
+      "1927",
+      "1957",
+      "1987"
+     ],
+     "answer": "1957",
+     "why": "ABŞ-da, Nyu-Cersi ştatında."
+    },
+    {
+     "q": "Plyonkanı ilk böyük alan şirkət hansı idi?",
+     "options": [
+      "IBM",
+      "Coca-Cola",
+      "Ford"
+     ],
+     "answer": "IBM",
+     "why": "Yeni kompüterlərini daşıyanda qorumaq üçün."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-21",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-21-3",
+   "date": "2026-10-21",
+   "subject": "Pando, Utah: one quaking aspen clone, ~47,000 genetically identical stems on one root system, ~106 acres (~43 ha), ~6,000 t (13.3 million lb); stems live ~130-150 years; deer/elk browsing, ~80% fenced",
+   "cat": "Təbiət",
+   "quizzes": [
+    {
+     "q": "Pandoda təxminən neçə gövdə var?",
+     "options": [
+      "4 700",
+      "47 000",
+      "470 000"
+     ],
+     "answer": "47 000",
+     "why": "Hamısı eyni kök sistemindən çıxır."
+    },
+    {
+     "q": "Pandonun çəkisi təxminən nə qədərdir?",
+     "options": [
+      "60 ton",
+      "600 ton",
+      "6 000 ton"
+     ],
+     "answer": "6 000 ton",
+     "why": "Dünyanın ən ağır canlılarından biri sayılır."
+    },
+    {
+     "q": "Pandonun hər gövdəsi təxminən neçə il yaşayır?",
+     "options": [
+      "13–15 il",
+      "130–150 il",
+      "1 300–1 500 il"
+     ],
+     "answer": "130–150 il",
+     "why": "Sonra yerinə kökdən yeni gövdə çıxır."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-21",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-21-4",
+   "date": "2026-10-21",
+   "subject": "Blue sunset on Mars: Curiosity Mastcam, Gale Crater, sol 956 (15 Apr 2015); fine dust lets blue light through near the Sun's direction (Mark Lemmon, Texas A&M)",
+   "cat": "Kosmos",
+   "quizzes": [
+    {
+     "q": "Marsda qürub zamanı Günəşin ətrafı hansı rəngdə olur?",
+     "options": [
+      "Mavi",
+      "Yaşıl",
+      "Bənövşəyi"
+     ],
+     "answer": "Mavi",
+     "why": "Xırda toz mavi işığı daha asan keçirir."
+    },
+    {
+     "q": "Marsdakı mavi qürubu hansı robot çəkib?",
+     "options": [
+      "Curiosity",
+      "Voyager",
+      "Hubble"
+     ],
+     "answer": "Curiosity",
+     "why": "2015-ci ildə Qeyl kraterində."
+    },
+    {
+     "q": "Marsda qürubun mavi olmasının səbəbi nədir?",
+     "options": [
+      "Xırda toz",
+      "Buz kristalları",
+      "Okeanlar"
+     ],
+     "answer": "Xırda toz",
+     "why": "Mavi işıq bu tozdan daha asan keçir."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-21",
      "qi": 0
     }
    ]

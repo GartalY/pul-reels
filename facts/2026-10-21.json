@@ -85,12 +85,16 @@
    "full": true,
    "source": "https://unsplash.com/photos/i1i40Cv7jb4",
    "alt": "fetch/img/2026-10-21_h_gugg_b.jpg (portrait, Damiano Fiore / Unsplash)"
+  },
+  "cover": {
+   "hook": "16 il çalışdı, açılışı görmədi",
+   "sub": "21 oktyabr 1959 · Nyu-York, Guggenheim muzeyi"
   }
  },
  "facts": [
   {
    "n": 1,
-   "type": "card",
+   "type": "reel",
    "cat": "Azərbaycan",
    "subject": "Shollar–Baku water pipeline: Lindley hired 1899, Taghiyev gave 25,000 rubles, ~177 km from Guba springs, water reached Baku 1917, still supplies central Baku",
    "photo_request": "Şollar su kəməri (tarixi foto)",
@@ -161,7 +165,14 @@
     "full": false,
     "source": "https://commons.wikimedia.org/wiki/File:On_the_way_to_irrigation_structures_of_the_Shollar-Baku_water_system.jpg",
     "note": "Historic B/W photo, early 1900s, engineers with a car on the way to the Shollar system works (public domain). Alt: fetch/img/2026-10-21_shollar_a.jpg (modern pipeline route, weak)."
-   }
+   },
+   "reel_hook": "109 İLDİR BAKIYA SU VERİR",
+   "reel_beats": [
+    "1899-cu il. Bakıda təmiz içməli su çatmırdı. Şəhər britaniyalı mühəndis Vilyam Lindlini dəvət etdi, o da Quba yaxınlığındakı Şollar bulaqlarını seçdi.",
+    "Hacı Zeynalabdin Tağıyev layihəyə pul verdi. Ustalar təxminən 177 km-lik kəməri illərlə çəkdilər və su Bakıya 1917-ci ildə çatdı.",
+    "Açılışda kranı Tağıyev özü açdı. Bu kəmər bu gün də Bakıya su verir. Bəs sən evdə hansı suyu içirsən?"
+   ],
+   "format_note": "Evening 2026-10-20: converted card -> reel because v3 runbook puts facts[0] at 13:00 as a REEL (slides kept for reference). Beats use only verified details from slides/verify_note."
   },
   {
    "n": 2,
@@ -218,13 +229,15 @@
    ],
    "verify_note": "Two shower curtains, wallpaper -> greenhouse insulation -> IBM 1401 packaging: Wikipedia + TodayIFoundOut. Year of IBM use not stated exactly -> no year in the text.",
    "photo": {
-    "path": "fetch/img/2026-10-21_bubble_b.jpg",
+    "path": "fetch/img/2026-10-21_bubble_b_dark.jpg",
     "credit": "Kier in Sight Archives / Unsplash",
     "cy": 0.5,
     "full": true,
     "source": "https://unsplash.com/photos/uT4PzI2E_1Q",
-    "alt": "fetch/img/2026-10-21_bubble_a.jpg (landscape, Ingmar / Unsplash)"
-   }
+    "alt": "fetch/img/2026-10-21_bubble_a.jpg (landscape, Ingmar / Unsplash)",
+    "note": "Evening: darkened copy of bubble_b (brightness 0.42) so the gold hook and white beats stay readable."
+   },
+   "reel_hook_trial": "İKİ DUŞ PƏRDƏSİNDƏN YARANDI"
   },
   {
    "n": 3,
@@ -299,6 +312,10 @@
     "full": true,
     "source": "https://commons.wikimedia.org/wiki/File:Pando_in_the_Fall_(11937950814).jpg",
     "alt": "fetch/img/2026-10-21_pando_a.jpg (trunk close-up, Lance Oditt / Friends of Pando, CC BY-SA 4.0)"
+   },
+   "cover": {
+    "hook": "Bu meşə əslində tək bir ağacdır",
+    "sub": "Pando, Yuta (ABŞ) · 47 000 gövdə, bir kök"
    }
   },
   {
@@ -439,6 +456,96 @@
     "alt": "fetch/img/2026-10-20_3_dagenh_b.jpg (Jacob Forsell, PD)"
    },
    "moved_from": "2026-10-20 (trend backup, not posted)"
+  }
+ ],
+ "hook_test": {
+  "main": "ƏVVƏLCƏ DİVAR KAĞIZI İDİ",
+  "trial": "İKİ DUŞ PƏRDƏSİNDƏN YARANDI",
+  "fact": "facts[1] bubble wrap",
+  "main_time": "16:00",
+  "trial_time": "20:00"
+ },
+ "trend_check_evening": "2026-10-20 20:50: news searches (world, AZ, sports) showed no big story requiring a swap for tomorrow; Sabah vs Dortmund (UCL, Baku) result not in yet -> morning task decides the 18:30 trend. Pando stays as 18:30 backup.",
+ "stories": [
+  {
+   "time": "11:00",
+   "fact_id": "2026-10-17-3",
+   "recall": true,
+   "cat": "Təbiət",
+   "q": "Ən yaşlı Qrenlandiya köpəkbalığı təxminən neçə yaşında hesablanıb?",
+   "options": [
+    "92",
+    "192",
+    "392"
+   ],
+   "answer": "392",
+   "why": "2016-cı il tədqiqatında ən yaşlısı ~392 yaş çıxıb.",
+   "image": "out/2026-10-21/q1.jpg",
+   "answer_image": "out/2026-10-21/q1_a.jpg"
+  },
+  {
+   "time": "14:00",
+   "fact_id": "2026-10-21-1",
+   "recall": false,
+   "cat": "Azərbaycan",
+   "q": "Şollar suyu Bakıya hansı ildə çatdı?",
+   "options": [
+    "1897",
+    "1917",
+    "1937"
+   ],
+   "answer": "1917",
+   "why": "Kəmər təxminən 177 km uzanır.",
+   "image": "out/2026-10-21/q2.jpg",
+   "answer_image": "out/2026-10-21/q2_a.jpg"
+  },
+  {
+   "time": "17:00",
+   "fact_id": "2026-10-21-2",
+   "recall": false,
+   "cat": "Texnologiya",
+   "q": "Qabarcıqlı plyonka əvvəlcə nə üçün icad edilmişdi?",
+   "options": [
+    "Divar kağızı",
+    "Yağış paltarı",
+    "Uşaq oyuncağı"
+   ],
+   "answer": "Divar kağızı",
+   "why": "1957-ci ildə iki duş pərdəsini yapışdırıb düzəltdilər.",
+   "image": "out/2026-10-21/q3.jpg",
+   "answer_image": "out/2026-10-21/q3_a.jpg"
+  },
+  {
+   "time": "19:30",
+   "fact_id": "2026-10-21-3",
+   "recall": false,
+   "cat": "Təbiət",
+   "q": "Pandoda təxminən neçə gövdə var?",
+   "options": [
+    "4 700",
+    "47 000",
+    "470 000"
+   ],
+   "answer": "47 000",
+   "why": "Hamısı eyni kök sistemindən çıxır.",
+   "image": "out/2026-10-21/q4.jpg",
+   "answer_image": "out/2026-10-21/q4_a.jpg"
+  },
+  {
+   "time": "22:30",
+   "fact_id": "2026-10-21-4",
+   "recall": false,
+   "cat": "Kosmos",
+   "q": "Marsda qürub zamanı Günəşin ətrafı hansı rəngdə olur?",
+   "options": [
+    "Mavi",
+    "Yaşıl",
+    "Bənövşəyi"
+   ],
+   "answer": "Mavi",
+   "why": "Xırda toz mavi işığı daha asan keçirir.",
+   "image": "out/2026-10-21/q5.jpg",
+   "answer_image": "out/2026-10-21/q5_a.jpg"
   }
  ]
 }

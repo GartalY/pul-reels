@@ -69,3 +69,10 @@ search_bakustadium.json https://commons.wikimedia.org/w/api.php?action=query&for
 search_shollar.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Shollar
 search_pando.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Pando%20aspen
 search_marssunset.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=PIA19400%20sunset
+2026-10-20_T_stadium_a.jpg https://upload.wikimedia.org/wikipedia/commons/d/d6/Baku_Olympic_Stadium.JPG
+2026-10-20_T_stadium_b.jpg https://upload.wikimedia.org/wikipedia/commons/3/32/Baku_Olympic_Stadium2.JPG
+2026-10-21_shollar_a.jpg https://upload.wikimedia.org/wikipedia/commons/e/ea/Baku-Shollar_water_pipe.jpg
+2026-10-21_shollar_b.jpg https://upload.wikimedia.org/wikipedia/commons/c/c9/On_the_way_to_irrigation_structures_of_the_Shollar-Baku_water_system.jpg
+2026-10-21_pando_a.jpg https://upload.wikimedia.org/wikipedia/commons/7/79/Pando_2021_Official_Picture.jpg
+2026-10-21_pando_b.jpg https://upload.wikimedia.org/wikipedia/commons/0/0e/Pando_in_the_Fall_%2811937950814%29.jpg
+2026-10-21_mars_a.jpg https://upload.wikimedia.org/wikipedia/commons/c/c5/PIA19400-MarsCuriosityRover-GaleCrater-Sunset-20150415.jpg

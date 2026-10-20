@@ -64,10 +64,23 @@ def text_block(d, x, y, text, font, fill, maxw, lh=1.22):
 # ---------- feed card 1080x1350 ----------
 def card(photo, out, c):
     W, H = 1080, 1350
-    im = shade(cover(load(photo), W, H, cy=c.get("cy", 0.35)), top=0.14, start=0.42)
+    im = shade(cover(load(photo), W, H, cy=c.get("cy", 0.35)), top=0.48 if c.get("hook") else 0.14,
+               start=0.62 if c.get("hook") else 0.42)
     d = ImageDraw.Draw(im)
     pill(d, 60, 56, "BİLİRDİNİZMİ?", F("Black", 38), GOLD, INK)
     d.text((W - 60 - d.textlength(HANDLE, font=F("SemiBold", 32)), 66), HANDLE, font=F("SemiBold", 32), fill=WHITE)
+    if c.get("hook"):   # v2 cover (2026-10-20): big gold headline on top like the reels, short line at the bottom
+        fh = F("Black", 84)
+        for k, ln in enumerate(wrap(d, c["hook"], fh, W - 100)):
+            d.text(((W - d.textlength(ln, font=fh)) / 2, 150 + k * 104), ln, font=fh, fill=GOLD)
+        if c.get("sub"):
+            text_block(d, 60, H - 110 - len(wrap(d, c["sub"], F("Bold", 50), W - 120)) * 50 * 1.22 - 40,
+                       c["sub"], F("Bold", 50), WHITE, W - 120)
+        if c.get("swipe", True):
+            sw = "Sürüşdür  →"; f = F("Black", 34); w = d.textlength(sw, font=f) + 56
+            d.rounded_rectangle([W - 60 - w, H - 74, W - 60, H - 74 + 62], 31, fill=GOLD)
+            d.text((W - 60 - w + 28, H - 74 + 12), sw, font=f, fill=INK)
+        im.save(out, quality=92); return
     lines = wrap(d, c["text"], F("Bold", 58), W - 120)
     y = H - 90 - len(lines) * 58 * 1.22
     if c.get("title"):

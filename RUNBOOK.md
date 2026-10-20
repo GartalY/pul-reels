@@ -90,7 +90,12 @@ Why: Gartal said one-sentence facts were too thin and the quizzes too easy (phot
   ("Sən 20 yaşında nə edirdin? 👇"). It posts automatically with the post.
 
 ### Content rules v2
-- Carousel = cover (photo + title + 1–2 sentence hook, "Sürüşdür →") + 3–4 detail slides + outro slide.
+- Carousel = cover + 3–4 detail slides + outro slide.
+  COVER v2 (from 2026-10-20, all carousels incl. "Tarixdə bu gün" and trend): like the reels — the surprising
+  claim as a big gold headline at the top (≤ 8 words, natural Azerbaijani), the photo, and ONE short line at the
+  bottom (≤ 10 words; for TBG = the date + a detail). Render:
+  `factgen.py card <photo> out/D/K_1.jpg '{"hook":"<headline>","sub":"<short line>","cy":..}'`
+  (the old title+paragraph cover was unreadable in the profile grid). Longer text goes on slide 2.
   Each detail slide: `h` = a short big headline, ideally a number/date ("3,8 km", "1948", "0 sakin"),
   `t` = ≤ 40 words with a NEW detail (not a repeat). Every detail must be verified like the main fact.
 - Reel = hook + 3 beats (each 1–2 complete natural sentences, ~15–22 words, each a new detail; see LANGUAGE RULE) → `reel_beats`.
@@ -221,7 +226,7 @@ Goal: keep up with the real world. Before doing the main task, search the news (
    (branded fallback) and say so in the summary.
 3. Build into `out/YYYY-MM-DD/` (D = date):
    - Carousels for facts 1 and 2 (K = 1, 2; N = len(slides) + 2):
-     `factgen.py card <photoK> out/D/K_1.jpg '{"title":..,"text":..,"cy":..,"swipe":true}'`
+     `factgen.py card <photoK> out/D/K_1.jpg '{"hook":..,"sub":..,"cy":..}'` (COVER v2)
      `factgen.py slide <photoK> out/D/K_<i>.jpg '{"i":i,"n":N,"h":..,"t":..,"cy":..}'` for i = 2..N-1
      `factgen.py outro none out/D/K_<N>.jpg '{"i":N,"n":N}'`
    - Reels (v2: fact 3; v3: facts[1] and facts[3]): `factgen.py reel <photo> out/D/<n>_reel.mp4 '{"hook":..,"beats":[..],"seed":<day>,"cy":..}'`

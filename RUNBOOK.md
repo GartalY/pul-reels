@@ -293,3 +293,12 @@ Compare reels from 2026-10-19 on (hook-first, natural sentences) with reels befo
 avg watch time (IGRE24), reach, shares, followers gained. If the >3 s rate is still < 40% AND followers are still
 ~24–30, do NOT keep the same plan: pick one bigger change (new reel style, trend-driven reels, or propose a small
 paid boost test — Gartal's money, so ask him first) and tell him plainly what changed and why.
+
+## Trial reel hook test (from 2026-10-21, decided 2026-10-20)
+Instagram TRIAL reels are shown only to non-followers and do NOT appear on the profile grid, so they don't count
+as a 6th post. Every day: take the 16:00 reel (facts[1]), write a SECOND hook (different angle, same natural-language
+rules), render it as `out/D/2_reel_trial.mp4` (same beats, new hook) and schedule it at 20:00 with
+`instagramData.type: "TRIAL_REEL"`, same caption, `videoCoverMilliseconds: 300`. Log both hooks in the day JSON
+(`hook_test: {main, trial}`). In the daily report compare >3 s view rate (IGRE28) and reach of main vs trial;
+in the weekly review list which hook styles win (number-first, question, "you" framing, shock word…) and write the
+winning patterns into the reel rules.

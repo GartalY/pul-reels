@@ -61,3 +61,11 @@ search_limoges.json https://commons.wikimedia.org/w/api.php?action=query&format=
 2026-10-19_T_limoges_b.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Limoges_Mairie.jpg/1920px-Limoges_Mairie.jpg
 2026-10-20_h_opera_b.jpg https://images.unsplash.com/photo-1590716209211-ea74d5f63573?crop=entropy&cs=srgb&fm=jpg&q=85&w=1600
 2026-10-20_h_opera_c.jpg https://images.unsplash.com/photo-1549180030-48bf079fb38a?crop=entropy&cs=srgb&fm=jpg&q=85&w=1600
+2026-10-21_bubble_a.jpg https://images.unsplash.com/photo-1736979110904-d9d9efb35cf6?crop=entropy&cs=srgb&fm=jpg&q=85&w=1600
+2026-10-21_bubble_b.jpg https://images.unsplash.com/photo-1629076087430-5cb6dd40b447?crop=entropy&cs=srgb&fm=jpg&q=85&w=1600
+2026-10-21_h_gugg_a.jpg https://images.unsplash.com/photo-1580693793281-87824f53e3fd?crop=entropy&cs=srgb&fm=jpg&q=85&w=1600
+2026-10-21_h_gugg_b.jpg https://images.unsplash.com/photo-1663772846572-9ac75edb23d6?crop=entropy&cs=srgb&fm=jpg&q=85&w=1600
+search_bakustadium.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Baku%20Olympic%20Stadium
+search_shollar.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Shollar
+search_pando.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Pando%20aspen
+search_marssunset.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=PIA19400%20sunset

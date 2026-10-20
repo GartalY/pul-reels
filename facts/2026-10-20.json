@@ -523,7 +523,6 @@
   "10:00 tarixdə bu gün carousel (Sydney Opera)": 400258495,
   "13:00 reel (Neft Daşları)": 400258581,
   "16:00 reel (beaked whale)": 400258654,
-  "18:30 carousel (Dagen H, trend backup)": 400258737,
   "21:30 reel (Pluto)": 400258798,
   "10:00 tarixdə bu gün story": 400258894,
   "11:00 quiz q1 (recall Bibiheybət)": 400258926,
@@ -532,10 +531,11 @@
   "14:10 answer a2": 400259047,
   "17:00 quiz q3": 400259082,
   "17:10 answer a3": 400259124,
-  "19:30 quiz q4": 400259160,
-  "19:40 answer a4": 400259191,
   "22:30 quiz q5": 400259219,
-  "22:40 answer a5": 400259253
+  "22:40 answer a5": 400259253,
+  "18:30 carousel (TREND Sabah vs Dortmund)": 400989887,
+  "19:30 quiz q4_trend": 400989918,
+  "19:40 answer q4_trend_a": 400989952
  },
  "trend": {
   "n": "T",
@@ -627,6 +627,7 @@
   "what": "Dagen H -> Sabah FK vs Borussia Dortmund (UCL, Baku Olympic Stadium, 20:45)",
   "why": "Morning trend confirmed; midday check: match still on tonight, the biggest story for the AZ audience today.",
   "backup_moved_to": "2026-10-21 spare",
-  "photo": "Baku Olympic Stadium (Eminn / Wikimedia Commons, CC BY-SA 4.0)"
+  "photo": "Baku Olympic Stadium (Eminn / Wikimedia Commons, CC BY-SA 4.0)",
+  "metricool": "updated 15:26 (18:30 post T_1..T_6, 19:30 q4_trend, 19:40 q4_trend_a); times kept"
  }
 }

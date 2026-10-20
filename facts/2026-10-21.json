@@ -1,0 +1,368 @@
+{
+ "date": "2026-10-21",
+ "status": "planned",
+ "format": "v2",
+ "content_format": "v3",
+ "planned_note": "Planned in the 2026-10-20 09:10 morning run. Mix: Azerbaijan/history (Shollar water pipeline 1917), invention (bubble wrap), nature (Pando), space (blue Mars sunset) + TBG Guggenheim 1959. facts[2] (Pando) is the 18:30 evergreen trend backup.",
+ "history": {
+  "n": "H",
+  "type": "card",
+  "cat": "Tarix",
+  "day": 21,
+  "month": 10,
+  "year": 1959,
+  "subject": "Solomon R. Guggenheim Museum (Frank Lloyd Wright) opened in New York, 21 Oct 1959: 16 years of work from 1943, Wright died April 1959 six months before opening, ~quarter-mile spiral ramp, 1957 artists' protest, UNESCO 2019",
+  "card_title": "21 OKTYABR 1959",
+  "title": "16 il çalışdı, açılışı görmədi",
+  "text": "1959-cu il 21 oktyabrda Nyu-Yorkda Guggenheim muzeyi açıldı. Memar Frank Lloyd Rayt bu bina üzərində 16 il çalışdı, amma açılışa 6 ay qalmış dünyasını dəyişdi.",
+  "slides": [
+   {
+    "h": "1943",
+    "t": "Muzeyin direktoru Hilla Rebay 1943-cü ildə Rayta müraciət etdi. Rəsm əsərləri üçün tamamilə yeni, adi muzeylərə bənzəməyən bir bina istəyirdi."
+   },
+   {
+    "h": "400 metr",
+    "t": "Rəsmlər adi otaqlarda yox, spiral kimi yuxarı qalxan uzun yolun divarlarında asılır. Bu yol təxminən 400 metrdir və 28 metr hündürlüyə qalxır."
+   },
+   {
+    "h": "1957",
+    "t": "Binanı hamı bəyənmədi. 1957-ci ildə bir qrup məşhur rəssam etiraz məktubu yazdı. Onlara görə əyri divarlar rəsmləri göstərmək üçün yaramırdı."
+   },
+   {
+    "h": "6 ay",
+    "t": "Rayt 1959-cu ilin aprelində, 91 yaşında dünyasını dəyişdi. Muzey 6 ay sonra açıldı. 2019-cu ildən bina UNESCO-nun Ümumdünya İrsi siyahısındadır."
+   }
+  ],
+  "caption": "67 il əvvəl bu gün Guggenheim muzeyi açıldı 🏛️\n\n1959-cu il 21 oktyabrda Nyu-Yorkda spiral formalı muzey qapılarını açdı. Memar Frank Lloyd Rayt bu layihə üzərində 16 il çalışmışdı. İçəridə rəsmlər təxminən 400 metrlik spiral yolun divarlarında asılır. Rayt isə açılışa 6 ay qalmış, 91 yaşında dünyasını dəyişdi.\n\n📩 Bir layihəni illərlə bitirə bilməyən dostuna göndər 😄\n\nFoto: Reno Laithienne / Unsplash\n\n#bilirdinizmi #maraqlıfaktlar #tarixdəbugün #memarlıq #nyuyork",
+  "first_comment": "Sən belə spiral muzeyə getmək istərdin? 👇",
+  "quizzes": [
+   {
+    "q": "Rayt Guggenheim muzeyi üzərində neçə il çalışıb?",
+    "options": [
+     "6 il",
+     "16 il",
+     "26 il"
+    ],
+    "answer": "16 il",
+    "why": "1943-cü ildən 1959-cu ilə qədər."
+   },
+   {
+    "q": "Guggenheim muzeyində rəsmlər harada asılır?",
+    "options": [
+     "Spiral yolun divarlarında",
+     "Yeraltı zallarda",
+     "Şüşə damın altında"
+    ],
+    "answer": "Spiral yolun divarlarında",
+    "why": "Yol təxminən 400 metrdir və 28 metr yuxarı qalxır."
+   },
+   {
+    "q": "1957-ci ildə binaya kimlər etiraz etdi?",
+    "options": [
+     "Rəssamlar",
+     "Qonşular",
+     "Fəhlələr"
+    ],
+    "answer": "Rəssamlar",
+    "why": "Onlara görə əyri divarlar rəsmlər üçün yaramırdı."
+   }
+  ],
+  "story": {
+   "title": "16 il çalışdı, açılışı görmədi",
+   "text": "1959-cu il 21 oktyabrda Nyu-Yorkda Guggenheim muzeyi açıldı. Memar Frank Lloyd Rayt bina üzərində 16 il çalışdı, amma açılışa 6 ay qalmış dünyasını dəyişdi.",
+   "credit": "Reno Laithienne / Unsplash"
+  },
+  "sources": [
+   "https://www.history.com/this-day-in-history/october-21/guggenheim-museum-opens-in-new-york-city",
+   "https://www.ebsco.com/research-starters/history/wright-designed-guggenheim-museum-opens",
+   "https://www.nps.gov/orgs/1207/secretary-bernhardt-commends-designation-of-eight-buildings-by-frank-lloyd-wright-as-nation-s-24th-world-heritage-site.htm"
+  ],
+  "verify_note": "67 years: not a round anniversary -> 10:00 only. 16 years, Rebay contact 1943, death ~6 months before opening, quarter-mile ramp (≈400 m), 92 ft rise (≈28 m), 1957 artists' petition (de Kooning, Motherwell, Avery): History.com + EBSCO. Wright b. 8 Jun 1867, d. Apr 1959 -> 91. UNESCO 2019 (NPS release). No round-number artists count used.",
+  "photo": {
+   "path": "fetch/img/2026-10-21_h_gugg_a.jpg",
+   "credit": "Reno Laithienne / Unsplash",
+   "cy": 0.5,
+   "full": true,
+   "source": "https://unsplash.com/photos/i1i40Cv7jb4",
+   "alt": "fetch/img/2026-10-21_h_gugg_b.jpg (portrait, Damiano Fiore / Unsplash)"
+  }
+ },
+ "facts": [
+  {
+   "n": 1,
+   "type": "card",
+   "cat": "Azərbaycan",
+   "subject": "Shollar–Baku water pipeline: Lindley hired 1899, Taghiyev gave 25,000 rubles, ~177 km from Guba springs, water reached Baku 1917, still supplies central Baku",
+   "photo_request": "Şollar su kəməri (tarixi foto)",
+   "title": "109 yaşlı su kəməri",
+   "text": "1917-ci ildə Quba dağlarından Bakıya 177 km-lik su kəməri çəkildi. Bu kəmər bu gün də Bakıya su verir.",
+   "slides": [
+    {
+     "h": "1899",
+     "t": "Bakıda təmiz içməli su çatmırdı. Şəhər 1899-cu ildə britaniyalı mühəndis Vilyam Lindlini dəvət etdi. O, Quba yaxınlığındakı Şollar bulaqlarını seçdi."
+    },
+    {
+     "h": "25 000 rubl",
+     "t": "Hacı Zeynalabdin Tağıyev layihəni əvvəldən dəstəklədi. Lindlinin işi üçün lazım olan pulun 25 000 rublunu o verdi. Şəhər rəhbərliyində layihəyə qarşı çıxanlar da var idi."
+    },
+    {
+     "h": "177 km",
+     "t": "Kəmər təxminən 177 km uzanır. Ustalar onu həftədə təxminən 1,5 km sürətlə çəkirdilər. İş illərlə davam etdi."
+    },
+    {
+     "h": "1917",
+     "t": "Su Bakıya 1917-ci ildə çatdı. Açılışda kranı Tağıyev özü açdı. Bu gün də Şollar suyu Bakının ən etibarlı su mənbələrindən biri sayılır."
+    }
+   ],
+   "caption": "Bakı 109 ildir bu kəmərdən su alır 💧\n\n1917-ci ildə Quba dağlarındakı Şollar bulaqlarından Bakıya təxminən 177 km-lik su kəməri çəkildi. Layihəni britaniyalı mühəndis Vilyam Lindli hazırladı, Hacı Zeynalabdin Tağıyev isə pulla dəstək verdi. Açılışda kranı Tağıyev özü açdı. Kəmər bu gün də Bakının mərkəzinə su verir.\n\n📩 Hər gün Şollar suyu içən dostuna göndər — qoy bilsin, o su haradan gəlir 😄\n\nFoto: Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #bakı #tarix #şollar",
+   "first_comment": "Sən evdə hansı suyu içirsən? 👇",
+   "quizzes": [
+    {
+     "q": "Şollar suyu Bakıya hansı ildə çatdı?",
+     "options": [
+      "1897",
+      "1917",
+      "1937"
+     ],
+     "answer": "1917",
+     "why": "Kəmər təxminən 177 km uzanır."
+    },
+    {
+     "q": "Şollar kəmərini hansı ölkədən olan mühəndis layihələndirib?",
+     "options": [
+      "Britaniya",
+      "Fransa",
+      "İsveç"
+     ],
+     "answer": "Britaniya",
+     "why": "Mühəndis Vilyam Lindli 1899-cu ildə dəvət olunmuşdu."
+    },
+    {
+     "q": "Şollar kəmərinin uzunluğu təxminən nə qədərdir?",
+     "options": [
+      "17 km",
+      "77 km",
+      "177 km"
+     ],
+     "answer": "177 km",
+     "why": "Quba yaxınlığındakı bulaqlardan Bakıya qədər."
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Shollar_water",
+    "https://azer.com/aiweb/categories/magazine/ai102_folder/102_articles/102_shollar_zelichowski.html",
+    "https://azer.com/aiweb/categories/magazine/ai102_folder/102_articles/102_shollar_chronology.html"
+   ],
+   "verify_note": "Length ~177 km (110 miles) per Wikipedia + Azerbaijan International (one caption 170 km -> 'təxminən'). Lindley hired 1899, water reached Baku 1917 with Taghiyev opening the tap (AI chronology). 25,000 rubles from Taghiyev: AI chronology + Zelichowski article. ~1 mile/week -> '~1,5 km'. Still vital for central Baku (Wikipedia + AI). 2026-1917 = 109.",
+   "photo": {
+    "path": "fetch/img/2026-10-21_shollar_b.jpg",
+    "credit": "Wikimedia Commons (ictimai mülkiyyət)",
+    "cy": 0.55,
+    "full": false,
+    "source": "https://commons.wikimedia.org/wiki/File:On_the_way_to_irrigation_structures_of_the_Shollar-Baku_water_system.jpg",
+    "note": "Historic B/W photo, early 1900s, engineers with a car on the way to the Shollar system works (public domain). Alt: fetch/img/2026-10-21_shollar_a.jpg (modern pipeline route, weak)."
+   }
+  },
+  {
+   "n": 2,
+   "type": "reel",
+   "cat": "Texnologiya",
+   "subject": "Bubble Wrap: invented 1957 in Hawthorne NJ by Fielding & Chavannes from two shower curtains sealed together; failed as textured wallpaper, then as greenhouse insulation; IBM used it to ship the 1401 computer; Sealed Air 1960",
+   "photo_request": "qabarcıqlı plyonka",
+   "title": "Divar kağızı olmalı idi",
+   "text": "Partlatmağı sevdiyimiz qabarcıqlı plyonka 1957-ci ildə divar kağızı kimi icad edilib. Amma heç kim onu almayıb.",
+   "reel_hook": "ƏVVƏLCƏ DİVAR KAĞIZI İDİ",
+   "reel_beats": [
+    "1957-ci il, Amerika. İki mühəndis iki duş pərdəsini bir-birinə yapışdırdı və arasında hava qabarcıqları qaldı.",
+    "Onu divar kağızı kimi satmaq istədilər, amma heç kim almadı. Sonra istixanalar üçün istilik saxlayan örtük kimi təklif etdilər, o da alınmadı.",
+    "Sonda IBM yeni kompüterlərini yolda qorumaq üçün ondan istifadə etdi. Sən də o qabarcıqları partlatmağı sevirsən?"
+   ],
+   "caption": "Bu plyonka əslində divar kağızı olmalı idi 🫧\n\n1957-ci ildə iki amerikalı mühəndis iki duş pərdəsini yapışdırıb arasında hava saxladı. Onu divar kağızı kimi satmaq istədilər, alan olmadı. Sonra istixana örtüyü kimi sınadılar, yenə alınmadı. Sonda IBM onunla kompüterlərini qablaşdırdı və plyonka bütün dünyaya yayıldı.\n\n📩 Hər bağlamada qabarcıqları partlatmağa tələsən dostuna göndər 😄\n\nFoto: Kier in Sight Archives / Unsplash\n\n#bilirdinizmi #maraqlıfaktlar #ixtira #texnologiya #tarix",
+   "first_comment": "Sən də o qabarcıqları partlatmağı sevirsən? 👇",
+   "quizzes": [
+    {
+     "q": "Qabarcıqlı plyonka əvvəlcə nə üçün icad edilmişdi?",
+     "options": [
+      "Divar kağızı",
+      "Yağış paltarı",
+      "Uşaq oyuncağı"
+     ],
+     "answer": "Divar kağızı",
+     "why": "1957-ci ildə iki duş pərdəsini yapışdırıb düzəltdilər."
+    },
+    {
+     "q": "Qabarcıqlı plyonka hansı ildə icad edilib?",
+     "options": [
+      "1927",
+      "1957",
+      "1987"
+     ],
+     "answer": "1957",
+     "why": "ABŞ-da, Nyu-Cersi ştatında."
+    },
+    {
+     "q": "Plyonkanı ilk böyük alan şirkət hansı idi?",
+     "options": [
+      "IBM",
+      "Coca-Cola",
+      "Ford"
+     ],
+     "answer": "IBM",
+     "why": "Yeni kompüterlərini daşıyanda qorumaq üçün."
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Bubble_Wrap_(brand)",
+    "https://www.todayifoundout.com/index.php/2011/11/bubble-wrap-was-originally-designed-to-be-used-as-w",
+    "https://www.mentalfloss.com/history/bubble-wrap-was-originally-supposed-be-wallpaper"
+   ],
+   "verify_note": "Two shower curtains, wallpaper -> greenhouse insulation -> IBM 1401 packaging: Wikipedia + TodayIFoundOut. Year of IBM use not stated exactly -> no year in the text.",
+   "photo": {
+    "path": "fetch/img/2026-10-21_bubble_b.jpg",
+    "credit": "Kier in Sight Archives / Unsplash",
+    "cy": 0.5,
+    "full": true,
+    "source": "https://unsplash.com/photos/uT4PzI2E_1Q",
+    "alt": "fetch/img/2026-10-21_bubble_a.jpg (landscape, Ingmar / Unsplash)"
+   }
+  },
+  {
+   "n": 3,
+   "type": "card",
+   "cat": "Təbiət",
+   "subject": "Pando, Utah: one quaking aspen clone, ~47,000 genetically identical stems on one root system, ~106 acres (~43 ha), ~6,000 t (13.3 million lb); stems live ~130-150 years; deer/elk browsing, ~80% fenced",
+   "photo_request": "Pando ağcaqovaq meşəsi",
+   "title": "Bu meşə bir ağacdır",
+   "text": "ABŞ-ın Yuta ştatında 47 000 ağac kimi görünən şey əslində tək bir canlıdır. Hamısının kökü birdir.",
+   "slides": [
+    {
+     "h": "47 000",
+     "t": "Pandoda təxminən 47 000 gövdə var. Hamısı genetik olaraq eynidir və eyni kökdən çıxır. Yəni bu, meşə yox, bir ağacdır."
+    },
+    {
+     "h": "43 hektar",
+     "t": "Pando təxminən 43 hektar yer tutur. Bu, təxminən 60 futbol meydançası qədərdir."
+    },
+    {
+     "h": "6 000 ton",
+     "t": "Alimlər onun çəkisini təxminən 6 000 ton hesablayır. Bu, onu dünyanın ən ağır canlılarından biri edir."
+    },
+    {
+     "h": "130 il",
+     "t": "Hər gövdə təxminən 130–150 il yaşayır, sonra kökdən yenisi çıxır. Amma marallar cavan gövdələri yeyir. Ona görə ərazinin çox hissəsi hasara alınıb."
+    }
+   ],
+   "caption": "Bu meşə əslində tək bir ağacdır 🌳\n\nYuta ştatındakı Pando adlı ağcaqovaq meşəsində təxminən 47 000 gövdə var. Hamısı genetik olaraq eynidir və bir kök sistemindən böyüyür. Bu canlı təxminən 6 000 ton çəkir və 43 hektar yer tutur. Hər gövdə 130–150 il yaşayır, sonra yerinə kökdən yenisi çıxır.\n\n📩 Meşəyə gedib «ağaclar çox gözəldir» deyən dostuna göndər — qoy bilsin, ağac birdir 😄\n\nFoto: USDA Forest Service / Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #təbiət #ağac #amerika",
+   "first_comment": "Bunu bilirdin, yoxsa indi öyrəndin? 👇",
+   "quizzes": [
+    {
+     "q": "Pandoda təxminən neçə gövdə var?",
+     "options": [
+      "4 700",
+      "47 000",
+      "470 000"
+     ],
+     "answer": "47 000",
+     "why": "Hamısı eyni kök sistemindən çıxır."
+    },
+    {
+     "q": "Pandonun çəkisi təxminən nə qədərdir?",
+     "options": [
+      "60 ton",
+      "600 ton",
+      "6 000 ton"
+     ],
+     "answer": "6 000 ton",
+     "why": "Dünyanın ən ağır canlılarından biri sayılır."
+    },
+    {
+     "q": "Pandonun hər gövdəsi təxminən neçə il yaşayır?",
+     "options": [
+      "13–15 il",
+      "130–150 il",
+      "1 300–1 500 il"
+     ],
+     "answer": "130–150 il",
+     "why": "Sonra yerinə kökdən yeni gövdə çıxır."
+    }
+   ],
+   "sources": [
+    "https://www.friendsofpando.org/thepandotree/facts-about-pando/",
+    "https://www.earthdate.org/pando-a-forest-of-one",
+    "https://www.sciencealert.com/the-world-s-largest-organism-is-slowly-being-eaten-scientist-says"
+   ],
+   "verify_note": "47,000 stems, 106 acres (=42.9 ha), 13.3 million lb dry weight (≈6,000 t), stems 130–150 years, deer/elk browsing, ~80% fenced: Friends of Pando; 47,000 / 6,000 t also in the search-result summaries of other outlets. Age estimates vary widely (9,000 to tens of thousands of years) -> age NOT used. 43 ha / 0.714 ha per pitch ≈ 60.",
+   "photo": {
+    "path": "fetch/img/2026-10-21_pando_b.jpg",
+    "credit": "USDA Forest Service / Wikimedia Commons (ictimai mülkiyyət)",
+    "cy": 0.5,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Pando_in_the_Fall_(11937950814).jpg",
+    "alt": "fetch/img/2026-10-21_pando_a.jpg (trunk close-up, Lance Oditt / Friends of Pando, CC BY-SA 4.0)"
+   }
+  },
+  {
+   "n": 4,
+   "type": "reel",
+   "cat": "Kosmos",
+   "subject": "Blue sunset on Mars: Curiosity Mastcam, Gale Crater, sol 956 (15 Apr 2015); fine dust lets blue light through near the Sun's direction (Mark Lemmon, Texas A&M)",
+   "photo_request": "Marsda qürub (NASA PIA19400)",
+   "title": "Qırmızı planetdə mavi qürub",
+   "text": "Yerdə günəş qırmızı batır, Marsda isə mavi. Bunu 2015-ci ildə NASA-nın Curiosity robotu çəkib.",
+   "reel_hook": "MARSDA GÜN MAVİ BATIR",
+   "reel_beats": [
+    "15 aprel 2015. NASA-nın Curiosity robotu Marsda, Qeyl kraterində ilk dəfə rəngli qürub şəklini çəkdi.",
+    "Şəkildə Günəşin ətrafı mavi idi. Səbəb Marsın havasındakı çox xırda tozdur: mavi işıq bu tozdan daha asan keçir.",
+    "Yerdə isə əksinədir, qürub qırmızı və narıncı olur. Sən hansı qürubu görmək istərdin, Yerdəkini, yoxsa Marsdakını?"
+   ],
+   "caption": "Qırmızı planetdə günəş mavi batır 🌅\n\n2015-ci il aprelin 15-də NASA-nın Curiosity robotu Marsda rəngli qürub şəklini çəkdi. Şəkildə Günəşin ətrafı mavi görünür. Alimlər deyir ki, səbəb Marsın havasındakı çox xırda tozdur: mavi işıq bu tozdan daha asan keçir. Səmanın qalan hissəsi isə sarı-narıncı olur.\n\n📩 Qürub şəkli çəkməyi sevən dostuna göndər 😄\n\nFoto: NASA/JPL-Caltech/MSSS\n\n#bilirdinizmi #maraqlıfaktlar #mars #kosmos #nasa",
+   "first_comment": "Sən hansı qürubu görmək istərdin — Yerdəkini, yoxsa Marsdakını? 👇",
+   "quizzes": [
+    {
+     "q": "Marsda qürub zamanı Günəşin ətrafı hansı rəngdə olur?",
+     "options": [
+      "Mavi",
+      "Yaşıl",
+      "Bənövşəyi"
+     ],
+     "answer": "Mavi",
+     "why": "Xırda toz mavi işığı daha asan keçirir."
+    },
+    {
+     "q": "Marsdakı mavi qürubu hansı robot çəkib?",
+     "options": [
+      "Curiosity",
+      "Voyager",
+      "Hubble"
+     ],
+     "answer": "Curiosity",
+     "why": "2015-ci ildə Qeyl kraterində."
+    },
+    {
+     "q": "Marsda qürubun mavi olmasının səbəbi nədir?",
+     "options": [
+      "Xırda toz",
+      "Buz kristalları",
+      "Okeanlar"
+     ],
+     "answer": "Xırda toz",
+     "why": "Mavi işıq bu tozdan daha asan keçir."
+    }
+   ],
+   "sources": [
+    "https://spaceflightnow.com/2015/05/11/curiosity-rover-sees-blue-on-the-red-planet/",
+    "https://photojournal.jpl.nasa.gov/catalog/PIA19400",
+    "https://science.nasa.gov/image-article/apod-2015-may-12-two-worlds-one-sun/"
+   ],
+   "verify_note": "Sol 956 = 15 April 2015, Mastcam, Gale Crater, explanation by Mark Lemmon (Texas A&M): Spaceflight Now; image PIA19400 (NASA/JPL-Caltech/MSSS, public domain). 'first colour sunset recorded by Curiosity' per KOLD/NASA headline -> beat says 'ilk dəfə rəngli qürub şəklini çəkdi' (Curiosity's first).",
+   "photo": {
+    "path": "fetch/img/2026-10-21_mars_a.jpg",
+    "credit": "NASA/JPL-Caltech/MSSS",
+    "cy": 0.5,
+    "full": false,
+    "source": "https://commons.wikimedia.org/wiki/File:PIA19400-MarsCuriosityRover-GaleCrater-Sunset-20150415.jpg",
+    "note": "1344x1080, dark at the bottom; consider a centred crop."
+   }
+  }
+ ]
+}

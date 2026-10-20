@@ -526,5 +526,85 @@
   "19:40 answer a4": 400259191,
   "22:30 quiz q5": 400259219,
   "22:40 answer a5": 400259253
- }
+ },
+ "trend": {
+  "n": "T",
+  "type": "card",
+  "format": "v2",
+  "subject": "Sabah FK vs Borussia Dortmund, UCL league phase MD3, Baku Olympic Stadium, 20 Oct 2026 20:45 Baku (club founded Sept 2017, first AZ title 2026, 6 qualifying wins = national record, coach Dambrauskas' 2002 quiz-show money)",
+  "cat": "Azərbaycan",
+  "title": "Sabah bu axşam Dortmundla",
+  "text": "Cəmi 9 il əvvəl yaranan klub bu axşam Bakıda Borussiya Dortmundu qəbul edir. Bu mərhələyə ondan əvvəl Azərbaycandan yalnız Qarabağ çıxmışdı.",
+  "slides": [
+   {
+    "h": "2017",
+    "t": "Sabah 2017-ci ilin sentyabrında yaranıb. İlk mövsümünü aşağı liqada oynadı və elə həmin il Premyer Liqaya yüksəldi."
+   },
+   {
+    "h": "6 qələbə",
+    "t": "Əsas mərhələyə çatmaq üçün Sabah 4 təsnifat mərhələsi keçdi və 6 oyunda qalib gəldi. Bu, Azərbaycan klubları üçün rekorddur. Əvvəlki rekord 5 qələbə idi."
+   },
+   {
+    "h": "2002",
+    "t": "Baş məşqçi Valdas Dambrauskas heç vaxt peşəkar futbol oynamayıb. 2002-ci ildə Litvada «Kim milyonçu olmaq istəyir?» verilişində pul qazandı. O pulla İngiltərəyə gedib məşqçilik oxudu."
+   },
+   {
+    "h": "20:45",
+    "t": "Oyun bu axşam saat 20:45-də Bakı Olimpiya Stadionunda başlayır. Sabah bu mərhələdə Slaviyanı 2:0 udub, «Mançester Yunayted»ə isə 0:4 uduzub."
+   }
+  ],
+  "caption": "9 yaşlı klub bu axşam Dortmundla oynayır ⚽\n\nSabah 2017-ci ildə yaranıb və bu il ilk dəfə Azərbaycan çempionu olub. Çempionlar Liqasının əsas mərhələsinə çatmaq üçün 4 mərhələ keçib, 6 oyunda qalib gəlib. Bu mərhələyə ondan əvvəl Azərbaycandan yalnız Qarabağ çıxmışdı. Oyun bu axşam saat 20:45-də Bakı Olimpiya Stadionunda başlayır.\n\n📩 Dortmund azarkeşi olan dostuna göndər 😄\n\nFoto: Eminn / Wikimedia Commons (CC BY-SA 4.0)\n\n#bilirdinizmi #maraqlıfaktlar #sabah #çempionlarliqası #futbol",
+  "first_comment": "Sənə görə oyun neçə hesabla bitəcək? 👇",
+  "quizzes": [
+   {
+    "q": "Sabah klubu hansı ildə yaranıb?",
+    "options": [
+     "2009",
+     "2017",
+     "2021"
+    ],
+    "answer": "2017",
+    "why": "2017-ci ilin sentyabrında yaranıb, bu il ilk dəfə çempion olub."
+   },
+   {
+    "q": "Sabah əsas mərhələyə yolda neçə oyunda qalib gəldi?",
+    "options": [
+     "4",
+     "5",
+     "6"
+    ],
+    "answer": "6",
+    "why": "Bu, Azərbaycan klubları üçün rekorddur."
+   },
+   {
+    "q": "Sabahın məşqçisi 2002-ci ildə pulu harada qazandı?",
+    "options": [
+     "Televiziya verilişində",
+     "Şahmat turnirində",
+     "Lotereyada"
+    ],
+    "answer": "Televiziya verilişində",
+    "why": "Litvada «Kim milyonçu olmaq istəyir?» verilişində."
+   }
+  ],
+  "photo": {
+   "path": "fetch/img/2026-10-20_T_stadium_a.jpg",
+   "credit": "Eminn / Wikimedia Commons (CC BY-SA 4.0)",
+   "cy": 0.55,
+   "full": false,
+   "source": "https://commons.wikimedia.org/wiki/File:Baku_Olympic_Stadium.JPG",
+   "note": "Baku Olympic Stadium during a match (crowd far away, no identifiable people). Alt: fetch/img/2026-10-20_T_stadium_b.jpg (same author/licence)."
+  },
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sabah_FK_(Azerbaijan)",
+   "https://www.sportsmole.co.uk/football/sabah/champions-league/preview/sabah-vs-dortmund-prediction-team-news-lineups_607181.html",
+   "https://sports.yahoo.com/articles/where-sabah-know-man-uniteds-080001820.html",
+   "https://www.azernews.az/sports/262890.html",
+   "https://africasoccer.com/from-tv-quiz-winner-to-champions-league-coach-the-unlikely-rise-of-valdas-dambrauskas/",
+   "https://en.wikipedia.org/wiki/Qaraba%C4%9F_FK_in_European_football",
+   "https://www.t-online.de/sport/live-ticker/fussball/champions-league-m/sdc_fm-62318/sabah-dortmund-champions-league-m-im-liveticker.html"
+  ],
+  "verify_note": "Kickoff 17:45 UK (Sports Mole) = 18:45 CEST (t-online) = 20:45 Baku; venue Baku Olympic Stadium (Sports Mole text + t-online + Wikipedia; one fixture box said Azərsun Arena, ignored). Founded 8 Sep 2017 (Wikipedia), promoted in first season (Yahoo). 6 qualifying/play-off wins = AZ record, previous 5 (AzerNews). AzerNews also says 'third AZ club' but names only Qarabağ (2017-18, 2025-26 per Wikipedia) -> wrote 'only Qarabağ before', not 'second'. Quiz show 2002 + studied coaching in England: Yahoo + africasoccer; prize amount single-source -> omitted. Results 2:0 Slavia (home), 0:4 Man United (away). No prediction, no betting info. Opponent of play-off (Israeli club) omitted on purpose."
+ },
+ "trend_check_morning": "2026-10-20 09:15: news checked (world headlines, AZ news, football). Biggest AZ-audience story today: Sabah FK vs Borussia Dortmund in the Champions League at Baku Olympic Stadium tonight 20:45 -> chosen as today's trend (18:30 carousel, before kickoff). No tragedy/major breaking event needing a swap of any other post; no AZ-politics topics used. 21:30 Pluto reel stays."
 }

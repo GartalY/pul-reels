@@ -212,76 +212,86 @@
    }
   },
   {
-   "n": 3,
+   "n": "T",
    "type": "card",
-   "cat": "Tarix",
-   "subject": "Dagen H: Sweden switched from left- to right-hand traffic, 3 Sept 1967 (04:50 stop, 05:00 restart; 83% voted no in 1955)",
-   "photo_request": "Kungsgatan, Stockholm, 3 September 1967",
-   "title": "İsveç bir səhərdə sağa keçdi",
-   "text": "1967-ci ilə qədər İsveçdə maşınlar yolun sol tərəfi ilə gedirdi. 3 sentyabr səhəri hamı birdən sağa keçdi.",
+   "format": "v2",
+   "subject": "Sabah FK vs Borussia Dortmund, UCL league phase MD3, Baku Olympic Stadium, 20 Oct 2026 20:45 Baku (club founded Sept 2017, first AZ title 2026, 6 qualifying wins = national record, coach Dambrauskas' 2002 quiz-show money)",
+   "cat": "Azərbaycan",
+   "title": "Sabah bu axşam Dortmundla",
+   "text": "Cəmi 9 il əvvəl yaranan klub bu axşam Bakıda Borussiya Dortmundu qəbul edir. Bu mərhələyə ondan əvvəl Azərbaycandan yalnız Qarabağ çıxmışdı.",
    "slides": [
     {
-     "h": "83%",
-     "t": "1955-ci ildə referendum keçirildi. İsveçlilərin 83 faizi solda qalmaq istədi. Amma parlament 1963-cü ildə yenə də sağa keçməyə qərar verdi."
+     "h": "2017",
+     "t": "Sabah 2017-ci ilin sentyabrında yaranıb. İlk mövsümünü aşağı liqada oynadı və elə həmin il Premyer Liqaya yüksəldi."
     },
     {
-     "h": "04:50",
-     "t": "3 sentyabr 1967, saat 04:50. Bütün maşınlar dayandı və yolun o biri tərəfinə keçdi. Saat 05:00-da hərəkət yenidən başladı — artıq sağ tərəflə."
+     "h": "6 qələbə",
+     "t": "Əsas mərhələyə çatmaq üçün Sabah 4 təsnifat mərhələsi keçdi və 6 oyunda qalib gəldi. Bu, Azərbaycan klubları üçün rekorddur. Əvvəlki rekord 5 qələbə idi."
     },
     {
-     "h": "Niyə?",
-     "t": "Qonşu Norveç və Finlandiyada maşınlar sağla gedirdi. İsveç maşınlarının 90 faizdən çoxunun sükanı isə onsuz da solda idi. Bu, yolda ötməyi təhlükəli edirdi."
+     "h": "2002",
+     "t": "Baş məşqçi Valdas Dambrauskas heç vaxt peşəkar futbol oynamayıb. 2002-ci ildə Litvada «Kim milyonçu olmaq istəyir?» verilişində pul qazandı. O pulla İngiltərəyə gedib məşqçilik oxudu."
     },
     {
-     "h": "−40%",
-     "t": "Keçiddən sonra sürücülər çox ehtiyatlı oldu. Sığorta müraciətləri əvvəlcə təxminən 40 faiz azaldı. Amma 6 həftə sonra hər şey köhnə səviyyəyə qayıtdı."
+     "h": "20:45",
+     "t": "Oyun bu axşam saat 20:45-də Bakı Olimpiya Stadionunda başlayır. Sabah bu mərhələdə Slaviyanı 2:0 udub, «Mançester Yunayted»ə isə 0:4 uduzub."
     }
    ],
-   "caption": "İsveç bir səhər yolun o biri tərəfinə keçdi 🚗\n\n1967-ci il 3 sentyabr səhəri İsveçdə bütün maşınlar saat 04:50-də dayandı, yolun sağ tərəfinə keçdi və 05:00-da yenidən yola düşdü. Bunun üçün təxminən 350 min yol nişanı dəyişdirildi. Maraqlıdır ki, 1955-ci ildəki referendumda xalqın 83 faizi buna «yox» demişdi. Bir il sonra İslandiya da sağa keçdi.\n\n📩 Hələ də sağı-solu qarışdıran dostuna göndər 😄\n\nFoto: Jan Collsiöö / Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #isveç #tarix #avtomobil",
-   "first_comment": "Sən sükanı sağda olan maşın sürmüsən? 👇",
+   "caption": "9 yaşlı klub bu axşam Dortmundla oynayır ⚽\n\nSabah 2017-ci ildə yaranıb və bu il ilk dəfə Azərbaycan çempionu olub. Çempionlar Liqasının əsas mərhələsinə çatmaq üçün 4 mərhələ keçib, 6 oyunda qalib gəlib. Bu mərhələyə ondan əvvəl Azərbaycandan yalnız Qarabağ çıxmışdı. Oyun bu axşam saat 20:45-də Bakı Olimpiya Stadionunda başlayır.\n\n📩 Dortmund azarkeşi olan dostuna göndər 😄\n\nFoto: Eminn / Wikimedia Commons (CC BY-SA 4.0)\n\n#bilirdinizmi #maraqlıfaktlar #sabah #çempionlarliqası #futbol",
+   "first_comment": "Sənə görə oyun neçə hesabla bitəcək? 👇",
    "quizzes": [
     {
-     "q": "İsveç hansı ildə yolun sağ tərəfinə keçdi?",
+     "q": "Sabah klubu hansı ildə yaranıb?",
      "options": [
-      "1967",
-      "1977",
-      "1987"
+      "2009",
+      "2017",
+      "2021"
      ],
-     "answer": "1967",
-     "why": "3 sentyabr 1967 — «H günü»."
+     "answer": "2017",
+     "why": "2017-ci ilin sentyabrında yaranıb, bu il ilk dəfə çempion olub."
     },
     {
-     "q": "1955-ci il referendumunda isveçlilərin neçə faizi «yox» dedi?",
+     "q": "Sabah əsas mərhələyə yolda neçə oyunda qalib gəldi?",
      "options": [
-      "33%",
-      "53%",
-      "83%"
+      "4",
+      "5",
+      "6"
      ],
-     "answer": "83%",
-     "why": "Parlament buna baxmayaraq 1963-də sağa keçməyə qərar verdi."
+     "answer": "6",
+     "why": "Bu, Azərbaycan klubları üçün rekorddur."
     },
     {
-     "q": "Keçid günü maşınlar saat neçədə dayandı?",
+     "q": "Sabahın məşqçisi 2002-ci ildə pulu harada qazandı?",
      "options": [
-      "04:50",
-      "12:00",
-      "23:59"
+      "Televiziya verilişində",
+      "Şahmat turnirində",
+      "Lotereyada"
      ],
-     "answer": "04:50",
-     "why": "10 dəqiqə sonra, 05:00-da sağ tərəflə yola düşdülər."
+     "answer": "Televiziya verilişində",
+     "why": "Litvada «Kim milyonçu olmaq istəyir?» verilişində."
     }
    ],
-   "sources": [
-    "https://en.wikipedia.org/wiki/Dagen_H"
-   ],
-   "verify_note": "Wikipedia: Riksdag approved 10 May 1963; 83% no in 1955; ~350,000 signs; >90% of cars left-hand drive; insurance claims down ~40% then normal within six weeks; Iceland switched 26 May 1968.",
    "photo": {
-    "path": "fetch/img/2026-10-20_3_dagenh_a.jpg",
-    "credit": "Jan Collsiöö / Wikimedia Commons (ictimai mülkiyyət)",
+    "path": "fetch/img/2026-10-20_T_stadium_a.jpg",
+    "credit": "Eminn / Wikimedia Commons (CC BY-SA 4.0)",
     "cy": 0.55,
     "full": false,
-    "source": "https://commons.wikimedia.org/wiki/File:Kungsgatan_1967.jpg",
-    "alt": "fetch/img/2026-10-20_3_dagenh_b.jpg (Jacob Forsell, PD)"
+    "source": "https://commons.wikimedia.org/wiki/File:Baku_Olympic_Stadium.JPG",
+    "note": "Baku Olympic Stadium during a match (crowd far away, no identifiable people). Alt: fetch/img/2026-10-20_T_stadium_b.jpg (same author/licence)."
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Sabah_FK_(Azerbaijan)",
+    "https://www.sportsmole.co.uk/football/sabah/champions-league/preview/sabah-vs-dortmund-prediction-team-news-lineups_607181.html",
+    "https://sports.yahoo.com/articles/where-sabah-know-man-uniteds-080001820.html",
+    "https://www.azernews.az/sports/262890.html",
+    "https://africasoccer.com/from-tv-quiz-winner-to-champions-league-coach-the-unlikely-rise-of-valdas-dambrauskas/",
+    "https://en.wikipedia.org/wiki/Qaraba%C4%9F_FK_in_European_football",
+    "https://www.t-online.de/sport/live-ticker/fussball/champions-league-m/sdc_fm-62318/sabah-dortmund-champions-league-m-im-liveticker.html"
+   ],
+   "verify_note": "Kickoff 17:45 UK (Sports Mole) = 18:45 CEST (t-online) = 20:45 Baku; venue Baku Olympic Stadium (Sports Mole text + t-online + Wikipedia; one fixture box said Azərsun Arena, ignored). Founded 8 Sep 2017 (Wikipedia), promoted in first season (Yahoo). 6 qualifying/play-off wins = AZ record, previous 5 (AzerNews). AzerNews also says 'third AZ club' but names only Qarabağ (2017-18, 2025-26 per Wikipedia) -> wrote 'only Qarabağ before', not 'second'. Quiz show 2002 + studied coaching in England: Yahoo + africasoccer; prize amount single-source -> omitted. Results 2:0 Slavia (home), 0:4 Man United (away). No prediction, no betting info. Opponent of play-off (Israeli club) omitted on purpose.",
+   "cover": {
+    "hook": "9 YAŞLI KLUB BU AXŞAM DORTMUNDLA OYNAYIR",
+    "sub": "Sabah FK · 20:45 · Bakı Olimpiya Stadionu"
    }
   },
   {
@@ -478,19 +488,19 @@
   },
   {
    "time": "19:30",
-   "fact_id": "2026-10-20-3",
+   "fact_id": "2026-10-20-T",
    "recall": false,
-   "cat": "Tarix",
-   "q": "İsveç hansı ildə yolun sağ tərəfinə keçdi?",
+   "cat": "Azərbaycan",
+   "q": "Sabah klubu hansı ildə yaranıb?",
    "options": [
-    "1967",
-    "1977",
-    "1987"
+    "2009",
+    "2017",
+    "2021"
    ],
-   "answer": "1967",
-   "why": "3 sentyabr 1967 — «H günü».",
-   "image": "out/2026-10-20/q4.jpg",
-   "answer_image": "out/2026-10-20/q4_a.jpg"
+   "answer": "2017",
+   "why": "2017-ci ilin sentyabrında yaranıb, bu il ilk dəfə çempion olub.",
+   "image": "out/2026-10-20/q4_trend.jpg",
+   "answer_image": "out/2026-10-20/q4_trend_a.jpg"
   },
   {
    "time": "22:30",
@@ -604,7 +614,19 @@
    "https://en.wikipedia.org/wiki/Qaraba%C4%9F_FK_in_European_football",
    "https://www.t-online.de/sport/live-ticker/fussball/champions-league-m/sdc_fm-62318/sabah-dortmund-champions-league-m-im-liveticker.html"
   ],
-  "verify_note": "Kickoff 17:45 UK (Sports Mole) = 18:45 CEST (t-online) = 20:45 Baku; venue Baku Olympic Stadium (Sports Mole text + t-online + Wikipedia; one fixture box said Azərsun Arena, ignored). Founded 8 Sep 2017 (Wikipedia), promoted in first season (Yahoo). 6 qualifying/play-off wins = AZ record, previous 5 (AzerNews). AzerNews also says 'third AZ club' but names only Qarabağ (2017-18, 2025-26 per Wikipedia) -> wrote 'only Qarabağ before', not 'second'. Quiz show 2002 + studied coaching in England: Yahoo + africasoccer; prize amount single-source -> omitted. Results 2:0 Slavia (home), 0:4 Man United (away). No prediction, no betting info. Opponent of play-off (Israeli club) omitted on purpose."
+  "verify_note": "Kickoff 17:45 UK (Sports Mole) = 18:45 CEST (t-online) = 20:45 Baku; venue Baku Olympic Stadium (Sports Mole text + t-online + Wikipedia; one fixture box said Azərsun Arena, ignored). Founded 8 Sep 2017 (Wikipedia), promoted in first season (Yahoo). 6 qualifying/play-off wins = AZ record, previous 5 (AzerNews). AzerNews also says 'third AZ club' but names only Qarabağ (2017-18, 2025-26 per Wikipedia) -> wrote 'only Qarabağ before', not 'second'. Quiz show 2002 + studied coaching in England: Yahoo + africasoccer; prize amount single-source -> omitted. Results 2:0 Slavia (home), 0:4 Man United (away). No prediction, no betting info. Opponent of play-off (Israeli club) omitted on purpose.",
+  "cover": {
+   "hook": "9 YAŞLI KLUB BU AXŞAM DORTMUNDLA OYNAYIR",
+   "sub": "Sabah FK · 20:45 · Bakı Olimpiya Stadionu"
+  }
  },
- "trend_check_morning": "2026-10-20 09:15: news checked (world headlines, AZ news, football). Biggest AZ-audience story today: Sabah FK vs Borussia Dortmund in the Champions League at Baku Olympic Stadium tonight 20:45 -> chosen as today's trend (18:30 carousel, before kickoff). No tragedy/major breaking event needing a swap of any other post; no AZ-politics topics used. 21:30 Pluto reel stays."
+ "trend_check_morning": "2026-10-20 09:15: news checked (world headlines, AZ news, football). Biggest AZ-audience story today: Sabah FK vs Borussia Dortmund in the Champions League at Baku Olympic Stadium tonight 20:45 -> chosen as today's trend (18:30 carousel, before kickoff). No tragedy/major breaking event needing a swap of any other post; no AZ-politics topics used. 21:30 Pluto reel stays.",
+ "trend_swap": {
+  "when": "2026-10-20 15:30 Asia/Baku",
+  "slot": "18:30 carousel + 19:30 quiz + 19:40 answer",
+  "what": "Dagen H -> Sabah FK vs Borussia Dortmund (UCL, Baku Olympic Stadium, 20:45)",
+  "why": "Morning trend confirmed; midday check: match still on tonight, the biggest story for the AZ audience today.",
+  "backup_moved_to": "2026-10-21 spare",
+  "photo": "Baku Olympic Stadium (Eminn / Wikimedia Commons, CC BY-SA 4.0)"
+ }
 }

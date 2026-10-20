@@ -364,5 +364,81 @@
     "note": "1344x1080, dark at the bottom; consider a centred crop."
    }
   }
+ ],
+ "spare": [
+  {
+   "n": 3,
+   "type": "card",
+   "cat": "Tarix",
+   "subject": "Dagen H: Sweden switched from left- to right-hand traffic, 3 Sept 1967 (04:50 stop, 05:00 restart; 83% voted no in 1955)",
+   "photo_request": "Kungsgatan, Stockholm, 3 September 1967",
+   "title": "İsveç bir səhərdə sağa keçdi",
+   "text": "1967-ci ilə qədər İsveçdə maşınlar yolun sol tərəfi ilə gedirdi. 3 sentyabr səhəri hamı birdən sağa keçdi.",
+   "slides": [
+    {
+     "h": "83%",
+     "t": "1955-ci ildə referendum keçirildi. İsveçlilərin 83 faizi solda qalmaq istədi. Amma parlament 1963-cü ildə yenə də sağa keçməyə qərar verdi."
+    },
+    {
+     "h": "04:50",
+     "t": "3 sentyabr 1967, saat 04:50. Bütün maşınlar dayandı və yolun o biri tərəfinə keçdi. Saat 05:00-da hərəkət yenidən başladı — artıq sağ tərəflə."
+    },
+    {
+     "h": "Niyə?",
+     "t": "Qonşu Norveç və Finlandiyada maşınlar sağla gedirdi. İsveç maşınlarının 90 faizdən çoxunun sükanı isə onsuz da solda idi. Bu, yolda ötməyi təhlükəli edirdi."
+    },
+    {
+     "h": "−40%",
+     "t": "Keçiddən sonra sürücülər çox ehtiyatlı oldu. Sığorta müraciətləri əvvəlcə təxminən 40 faiz azaldı. Amma 6 həftə sonra hər şey köhnə səviyyəyə qayıtdı."
+    }
+   ],
+   "caption": "İsveç bir səhər yolun o biri tərəfinə keçdi 🚗\n\n1967-ci il 3 sentyabr səhəri İsveçdə bütün maşınlar saat 04:50-də dayandı, yolun sağ tərəfinə keçdi və 05:00-da yenidən yola düşdü. Bunun üçün təxminən 350 min yol nişanı dəyişdirildi. Maraqlıdır ki, 1955-ci ildəki referendumda xalqın 83 faizi buna «yox» demişdi. Bir il sonra İslandiya da sağa keçdi.\n\n📩 Hələ də sağı-solu qarışdıran dostuna göndər 😄\n\nFoto: Jan Collsiöö / Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #isveç #tarix #avtomobil",
+   "first_comment": "Sən sükanı sağda olan maşın sürmüsən? 👇",
+   "quizzes": [
+    {
+     "q": "İsveç hansı ildə yolun sağ tərəfinə keçdi?",
+     "options": [
+      "1967",
+      "1977",
+      "1987"
+     ],
+     "answer": "1967",
+     "why": "3 sentyabr 1967 — «H günü»."
+    },
+    {
+     "q": "1955-ci il referendumunda isveçlilərin neçə faizi «yox» dedi?",
+     "options": [
+      "33%",
+      "53%",
+      "83%"
+     ],
+     "answer": "83%",
+     "why": "Parlament buna baxmayaraq 1963-də sağa keçməyə qərar verdi."
+    },
+    {
+     "q": "Keçid günü maşınlar saat neçədə dayandı?",
+     "options": [
+      "04:50",
+      "12:00",
+      "23:59"
+     ],
+     "answer": "04:50",
+     "why": "10 dəqiqə sonra, 05:00-da sağ tərəflə yola düşdülər."
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Dagen_H"
+   ],
+   "verify_note": "Wikipedia: Riksdag approved 10 May 1963; 83% no in 1955; ~350,000 signs; >90% of cars left-hand drive; insurance claims down ~40% then normal within six weeks; Iceland switched 26 May 1968.",
+   "photo": {
+    "path": "fetch/img/2026-10-20_3_dagenh_a.jpg",
+    "credit": "Jan Collsiöö / Wikimedia Commons (ictimai mülkiyyət)",
+    "cy": 0.55,
+    "full": false,
+    "source": "https://commons.wikimedia.org/wiki/File:Kungsgatan_1967.jpg",
+    "alt": "fetch/img/2026-10-20_3_dagenh_b.jpg (Jacob Forsell, PD)"
+   },
+   "moved_from": "2026-10-20 (trend backup, not posted)"
+  }
  ]
 }

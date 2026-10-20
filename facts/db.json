@@ -678,50 +678,6 @@
    ]
   },
   {
-   "id": "2026-10-20-3",
-   "date": "2026-10-20",
-   "subject": "Dagen H: Sweden switched from left- to right-hand traffic, 3 Sept 1967 (04:50 stop, 05:00 restart; 83% voted no in 1955)",
-   "cat": "Tarix",
-   "quizzes": [
-    {
-     "q": "İsveç hansı ildə yolun sağ tərəfinə keçdi?",
-     "options": [
-      "1967",
-      "1977",
-      "1987"
-     ],
-     "answer": "1967",
-     "why": "3 sentyabr 1967 — «H günü»."
-    },
-    {
-     "q": "1955-ci il referendumunda isveçlilərin neçə faizi «yox» dedi?",
-     "options": [
-      "33%",
-      "53%",
-      "83%"
-     ],
-     "answer": "83%",
-     "why": "Parlament buna baxmayaraq 1963-də sağa keçməyə qərar verdi."
-    },
-    {
-     "q": "Keçid günü maşınlar saat neçədə dayandı?",
-     "options": [
-      "04:50",
-      "12:00",
-      "23:59"
-     ],
-     "answer": "04:50",
-     "why": "10 dəqiqə sonra, 05:00-da sağ tərəflə yola düşdülər."
-    }
-   ],
-   "asked": [
-    {
-     "date": "2026-10-20",
-     "qi": 0
-    }
-   ]
-  },
-  {
    "id": "2026-10-20-4",
    "date": "2026-10-20",
    "subject": "Pluto has not completed one orbit since its 1930 discovery; first full orbit on 23 March 2178 (period ~248 years)",
@@ -756,6 +712,50 @@
      ],
      "answer": "2178",
      "why": "23 mart 2178-ci ildə."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-20",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-20-T",
+   "date": "2026-10-20",
+   "subject": "Sabah FK vs Borussia Dortmund, UCL league phase MD3, Baku Olympic Stadium, 20 Oct 2026 20:45 Baku (club founded Sept 2017, first AZ title 2026, 6 qualifying wins = national record, coach Dambrauskas' 2002 quiz-show money)",
+   "cat": "Azərbaycan",
+   "quizzes": [
+    {
+     "q": "Sabah klubu hansı ildə yaranıb?",
+     "options": [
+      "2009",
+      "2017",
+      "2021"
+     ],
+     "answer": "2017",
+     "why": "2017-ci ilin sentyabrında yaranıb, bu il ilk dəfə çempion olub."
+    },
+    {
+     "q": "Sabah əsas mərhələyə yolda neçə oyunda qalib gəldi?",
+     "options": [
+      "4",
+      "5",
+      "6"
+     ],
+     "answer": "6",
+     "why": "Bu, Azərbaycan klubları üçün rekorddur."
+    },
+    {
+     "q": "Sabahın məşqçisi 2002-ci ildə pulu harada qazandı?",
+     "options": [
+      "Televiziya verilişində",
+      "Şahmat turnirində",
+      "Lotereyada"
+     ],
+     "answer": "Televiziya verilişində",
+     "why": "Litvada «Kim milyonçu olmaq istəyir?» verilişində."
     }
    ],
    "asked": [

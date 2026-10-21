@@ -100,7 +100,7 @@
    "photo_request": "Bir Tawil satellite image",
    "title": "Heç bir ölkənin istəmədiyi torpaq",
    "text": "Misir ilə Sudan arasında təxminən 2 060 km²-lik səhra var. Heç bir ölkə onu özününkü saymır.",
-   "reel_hook": "BU TORPAĞI HEÇ BİR ÖLKƏ İSTƏMİR",
+   "reel_hook": "2 060 KM² TORPAQ — HEÇ BİR ÖLKƏ İSTƏMİR",
    "reel_beats": [
     "Misir ilə Sudan arasında Bir-Təvil adlı bir səhra var. Təxminən 2 060 kvadrat kilometrdir, amma heç bir ölkə onu özününkü saymır.",
     "Səbəb iki köhnə sərhəddir: biri 1899-cu ildə, o biri 1902-ci ildə çəkilib. Hər iki ölkə yanındakı, on dəfə böyük Həlaib torpağını istəyir.",
@@ -162,7 +162,7 @@
    "photo_request": "First Computer Bug 1947 logbook",
    "title": "İlk kompüter «baqı» əsl böcək idi",
    "text": "1947-ci ildə Harvarddakı kompüter səhv işləməyə başladı. Səbəb içinə girmiş bir güvə idi.",
-   "reel_hook": "İLK «BAQ» ƏSL BÖCƏK İDİ",
+   "reel_hook": "1947: KOMPÜTERİ BİR GÜVƏ XARAB ETDİ",
    "reel_hook_trial": "KOMPÜTERİ BİR GÜVƏ XARAB ETDİ",
    "reel_beats": [
     "9 sentyabr 1947, Harvard Universiteti. Nəhəng Mark II kompüteri birdən səhv işləməyə başladı və mühəndislər səbəbi axtarmağa başladılar.",
@@ -172,6 +172,16 @@
    "caption": "İlk kompüter «baqı» əsl böcək idi 💻\n\n1947-ci il 9 sentyabrda Harvard Universitetindəki Mark II kompüteri səhv işləməyə başladı. Mühəndislər maşının içində, bir releyin arasında sıxılıb qalmış güvə tapdılar. Onu jurnala yapışdırıb altına yazdılar: «Əsl böcəyin tapıldığı ilk hal». Bu jurnal indi ABŞ-da, Smitsonian muzeyində saxlanılır.\n\n📩 Kompüteri hər gün donan dostuna göndər 😄\n\nFoto: Naval Surface Warfare Center, Dahlgren / Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #kompüter #texnologiya #proqramlaşdırma",
    "first_comment": "Səndə kompüter ən çox nə vaxt donur? 👇",
    "quizzes": [
+    {
+     "q": "Güvə hansı universitetin kompüterində tapıldı?",
+     "options": [
+      "Harvard",
+      "Oksford",
+      "Kembric"
+     ],
+     "answer": "Harvard",
+     "why": "Mark II kompüterində."
+    },
     {
      "q": "Kompüterin içində hansı böcək tapıldı?",
      "options": [
@@ -191,16 +201,6 @@
      ],
      "answer": "1947",
      "why": "9 sentyabr 1947, Harvard Universiteti."
-    },
-    {
-     "q": "Güvə hansı universitetin kompüterində tapıldı?",
-     "options": [
-      "Harvard",
-      "Oksford",
-      "Kembric"
-     ],
-     "answer": "Harvard",
-     "why": "Mark II kompüterində."
     }
    ],
    "sources": [
@@ -303,7 +303,7 @@
    "photo_request": "wood frog",
    "title": "Qışda donur, yazda oyanır",
    "text": "Meşə qurbağası qışda buz kimi donur, ürəyi dayanır. Yazda isə əriyib yenidən hoppanır.",
-   "reel_hook": "ÜRƏYİ DAYANIR, YAZDA YENƏ DÖYÜNÜR",
+   "reel_hook": "7 AY DONUB QALIR, SONRA YENƏ HOPPANIR",
    "reel_beats": [
     "Şimali Amerikada yaşayan meşə qurbağası qışda donub buza dönür. Ürəyi dayanır, nəfəs almır və aylarla belə qalır.",
     "Bədənindəki suyun 60 faizə qədəri buza çevrilir. Amma qanındakı şəkər çox artır və hüceyrələrin içini donmaqdan qoruyur.",
@@ -352,18 +352,19 @@
     "path": "fetch/img/2026-10-22_frog_a.jpg",
     "credit": "Jdshide / Wikimedia Commons (CC0)",
     "cy": 0.5,
-    "full": true,
+    "full": false,
     "source": "https://commons.wikimedia.org/wiki/File:Lithobates_sylvaticus_-_Wood_Frog_01.jpg",
     "note": "frog_b download failed (HTML returned), not needed"
    }
   }
  ],
  "hook_test": {
-  "main": "İLK «BAQ» ƏSL BÖCƏK İDİ",
+  "main": "1947: KOMPÜTERİ BİR GÜVƏ XARAB ETDİ",
   "trial": "KOMPÜTERİ BİR GÜVƏ XARAB ETDİ",
   "fact": "facts[1] first computer bug",
   "main_time": "16:00",
-  "trial_time": "20:00"
+  "trial_time": "20:00",
+  "status": "dropped: Instagram refused the 2026-10-21 20:00 TRIAL_REEL (account below trial-reel follower requirement); no trial reel until the account qualifies"
  },
  "spare": [
   {
@@ -445,5 +446,105 @@
     "sub": "Pando, Yuta (ABŞ) · 47 000 gövdə, bir kök"
    }
   }
- ]
+ ],
+ "language_fix": {
+  "reel_hooks_number_first": {
+   "0": {
+    "old": "BU TORPAĞI HEÇ BİR ÖLKƏ İSTƏMİR",
+    "new": "2 060 KM² TORPAQ — HEÇ BİR ÖLKƏ İSTƏMİR"
+   },
+   "1": {
+    "old": "İLK «BAQ» ƏSL BÖCƏK İDİ",
+    "new": "1947: KOMPÜTERİ BİR GÜVƏ XARAB ETDİ"
+   },
+   "3": {
+    "old": "ÜRƏYİ DAYANIR, YAZDA YENƏ DÖYÜNÜR",
+    "new": "7 AY DONUB QALIR, SONRA YENƏ HOPPANIR"
+   }
+  },
+  "why": "Runbook evidence 2026-10-20: precise number first wins (>3 s rate 49-60% vs 14%)."
+ },
+ "stories": [
+  {
+   "time": "11:00",
+   "fact_id": "2026-10-17-1",
+   "recall": true,
+   "cat": "Coğrafiya",
+   "q": "Lynne Cox iki ada arasını təxminən neçə saata üzüb?",
+   "options": [
+    "2 saat",
+    "8 saat",
+    "20 saat"
+   ],
+   "answer": "2 saat",
+   "why": "1987-ci ildə 6–7 °C suda 2 saat 6 dəqiqəyə.",
+   "image": "out/2026-10-22/q1.jpg",
+   "answer_image": "out/2026-10-22/q1_a.jpg"
+  },
+  {
+   "time": "14:00",
+   "fact_id": "2026-10-22-1",
+   "recall": false,
+   "cat": "Coğrafiya",
+   "q": "Bir-Təvil hansı iki ölkə arasındadır?",
+   "options": [
+    "Misir və Sudan",
+    "Liviya və Çad",
+    "Efiopiya və Keniya"
+   ],
+   "answer": "Misir və Sudan",
+   "why": "Heç biri onu özününkü saymır.",
+   "image": "out/2026-10-22/q2.jpg",
+   "answer_image": "out/2026-10-22/q2_a.jpg"
+  },
+  {
+   "time": "17:00",
+   "fact_id": "2026-10-22-2",
+   "recall": false,
+   "cat": "Texnologiya",
+   "q": "Güvə hansı universitetin kompüterində tapıldı?",
+   "options": [
+    "Harvard",
+    "Oksford",
+    "Kembric"
+   ],
+   "answer": "Harvard",
+   "why": "Mark II kompüterində.",
+   "image": "out/2026-10-22/q3.jpg",
+   "answer_image": "out/2026-10-22/q3_a.jpg"
+  },
+  {
+   "time": "19:30",
+   "fact_id": "2026-10-22-3",
+   "recall": false,
+   "cat": "Kosmos",
+   "q": "Ay ağaclarının toxumunu kosmosa kim apardı?",
+   "options": [
+    "Styuart Rusa",
+    "Nil Armstronq",
+    "Bazz Oldrin"
+   ],
+   "answer": "Styuart Rusa",
+   "why": "Apollo 14 uçuşunda, 1971-ci ildə.",
+   "image": "out/2026-10-22/q4.jpg",
+   "answer_image": "out/2026-10-22/q4_a.jpg"
+  },
+  {
+   "time": "22:30",
+   "fact_id": "2026-10-22-4",
+   "recall": false,
+   "cat": "Təbiət",
+   "q": "Meşə qurbağasının bədənindəki suyun nə qədəri donur?",
+   "options": [
+    "6 faizə qədər",
+    "60 faizə qədər",
+    "Hamısı"
+   ],
+   "answer": "60 faizə qədər",
+   "why": "Qanındakı şəkər hüceyrələri qoruyur.",
+   "image": "out/2026-10-22/q5.jpg",
+   "answer_image": "out/2026-10-22/q5_a.jpg"
+  }
+ ],
+ "trend_check_evening": "2026-10-21 20:50: news searches (world, Azerbaijan, Champions League) showed no big story our audience is talking about -> no swap; 18:30 Moon trees stays as trend backup for the 09:10 run."
 }

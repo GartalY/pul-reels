@@ -148,6 +148,10 @@
     {
      "date": "2026-10-17",
      "qi": 0
+    },
+    {
+     "date": "2026-10-22",
+     "qi": 1
     }
    ]
   },
@@ -941,6 +945,182 @@
    "asked": [
     {
      "date": "2026-10-21",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-22-1",
+   "date": "2026-10-22",
+   "subject": "Bir Tawil: ~2,060 km2 between Egypt and Sudan claimed by neither; 1899 line (22nd parallel) puts it in Sudan, 1902 administrative line in Egypt; both want the ~10x larger Halaib Triangle, so claiming Bir Tawil would mean giving up Halaib; no permanent settlements, no sea access",
+   "cat": "Coğrafiya",
+   "quizzes": [
+    {
+     "q": "Bir-Təvil hansı iki ölkə arasındadır?",
+     "options": [
+      "Misir və Sudan",
+      "Liviya və Çad",
+      "Efiopiya və Keniya"
+     ],
+     "answer": "Misir və Sudan",
+     "why": "Heç biri onu özününkü saymır."
+    },
+    {
+     "q": "Bir-Təvilin sahəsi təxminən nə qədərdir?",
+     "options": [
+      "206 km²",
+      "2 060 km²",
+      "20 600 km²"
+     ],
+     "answer": "2 060 km²",
+     "why": "Yanındakı Həlaib torpağı təxminən 10 dəfə böyükdür."
+    },
+    {
+     "q": "Mübahisəli sərhədlər hansı illərdə çəkilib?",
+     "options": [
+      "1899 və 1902",
+      "1919 və 1922",
+      "1956 və 1960"
+     ],
+     "answer": "1899 və 1902",
+     "why": "Misir 1899-cu il xəttini, Sudan 1902-ci il xəttini qəbul edir."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-22",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-22-2",
+   "date": "2026-10-22",
+   "subject": "First actual computer bug: 9 Sep 1947, Harvard Mark II, moth in Relay #70 Panel F, taped into the logbook 'First actual case of bug being found' (15:45); 'bug' already used by Edison 1878; logbook at the Smithsonian NMAH",
+   "cat": "Texnologiya",
+   "quizzes": [
+    {
+     "q": "Güvə hansı universitetin kompüterində tapıldı?",
+     "options": [
+      "Harvard",
+      "Oksford",
+      "Kembric"
+     ],
+     "answer": "Harvard",
+     "why": "Mark II kompüterində."
+    },
+    {
+     "q": "Kompüterin içində hansı böcək tapıldı?",
+     "options": [
+      "Güvə",
+      "Hörümçək",
+      "Qarışqa"
+     ],
+     "answer": "Güvə",
+     "why": "70 nömrəli releyin arasında sıxılıb qalmışdı."
+    },
+    {
+     "q": "Bu hadisə hansı ildə baş verdi?",
+     "options": [
+      "1937",
+      "1947",
+      "1967"
+     ],
+     "answer": "1947",
+     "why": "9 sentyabr 1947, Harvard Universiteti."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-22",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-22-3",
+   "date": "2026-10-22",
+   "subject": "Moon trees: Apollo 14 (1971) CMP Stuart Roosa, ex-USFS smokejumper, carried several hundred seeds (~500 per species per NASA) of 5 species (sycamore, loblolly pine, sweetgum, redwood, Douglas fir) in lunar orbit; bags burst during decontamination, seeds hand-sorted, most germinated; 1975-76 Bicentennial plantings in 40 states; ~90 trees accounted for",
+   "cat": "Kosmos",
+   "quizzes": [
+    {
+     "q": "Ay ağaclarının toxumunu kosmosa kim apardı?",
+     "options": [
+      "Styuart Rusa",
+      "Nil Armstronq",
+      "Bazz Oldrin"
+     ],
+     "answer": "Styuart Rusa",
+     "why": "Apollo 14 uçuşunda, 1971-ci ildə."
+    },
+    {
+     "q": "Toxumlar hansı uçuşda kosmosa getdi?",
+     "options": [
+      "Apollo 11",
+      "Apollo 14",
+      "Apollo 17"
+     ],
+     "answer": "Apollo 14",
+     "why": "Toxumlar Ayın ətrafında fırlanan gəmidə qaldı."
+    },
+    {
+     "q": "Rusa gəncliyində kim işləmişdi?",
+     "options": [
+      "Yanğınsöndürən",
+      "Aşpaz",
+      "Müəllim"
+     ],
+     "answer": "Yanğınsöndürən",
+     "why": "Meşə yanğınlarına paraşütlə enirdi."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-22",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-22-4",
+   "date": "2026-10-22",
+   "subject": "Wood frog (Lithobates sylvaticus) freezes in winter: heart stops, breathing stops for months; up to ~60% of body water freezes; glucose up to 10x normal acts as antifreeze; Alaska up to 7 months; thaws in spring, fully functional within ~10 hours",
+   "cat": "Təbiət",
+   "quizzes": [
+    {
+     "q": "Meşə qurbağasının bədənindəki suyun nə qədəri donur?",
+     "options": [
+      "6 faizə qədər",
+      "60 faizə qədər",
+      "Hamısı"
+     ],
+     "answer": "60 faizə qədər",
+     "why": "Qanındakı şəkər hüceyrələri qoruyur."
+    },
+    {
+     "q": "Donmuş qurbağanı nə qoruyur?",
+     "options": [
+      "Qanındakı şəkər",
+      "Qalın dərisi",
+      "Bədənindəki duz"
+     ],
+     "answer": "Qanındakı şəkər",
+     "why": "Adi haldan 10 dəfəyə qədər çox olur."
+    },
+    {
+     "q": "Alyaskada qurbağa donmuş halda nə qədər qala bilir?",
+     "options": [
+      "7 gün",
+      "7 həftə",
+      "7 ay"
+     ],
+     "answer": "7 ay",
+     "why": "Yazda əriyib yenidən hoppanır."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-22",
      "qi": 0
     }
    ]

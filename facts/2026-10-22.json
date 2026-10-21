@@ -1,0 +1,368 @@
+{
+ "date": "2026-10-22",
+ "status": "planned",
+ "format": "v2",
+ "content_format": "v3",
+ "planned_note": "Planned in the 2026-10-21 09:10 morning run. Mix: TBG Garnerin first parachute descent 1797 (Tarix), Bir Tawil (Coğrafiya, reel 13:00), first computer bug 1947 (Texnologiya, reel 16:00 + trial reel 20:00), Moon trees (Kosmos, 18:30 card = trend backup), wood frog freezes solid (Təbiət, reel 21:30). No AZ fact tomorrow: 20 and 21 Oct were both Azerbaijan facts plus the Sabah trend.",
+ "history": {
+  "n": "H",
+  "type": "card",
+  "cat": "Tarix",
+  "day": 22,
+  "month": 10,
+  "year": 1797,
+  "subject": "André-Jacques Garnerin, first parachute descent from a balloon, Parc Monceau, Paris, 22 Oct 1797: cut loose at ~900-1,000 m (3,000 ft), rode in a basket under a ~7 m umbrella-like canopy, violent swinging (vent added 1804), landed unhurt; Jeanne Labrosse first woman parachutist 1799",
+  "card_title": "22 OKTYABR 1797",
+  "title": "İlk paraşütçü səbətdə endi",
+  "text": "1797-ci il 22 oktyabrda fransız Andre-Jak Qarneren Parisdə hava şarından paraşütlə endi. Bu, hava şarından ilk paraşüt enişi idi.",
+  "cover": {
+   "hook": "İlk paraşütçü 900 metrdən səbətdə endi",
+   "sub": "22 oktyabr 1797 · Paris, Monso parkı"
+  },
+  "slides": [
+   {
+    "h": "900 metr",
+    "t": "Qarneren hava şarı ilə təxminən 900 metr yüksəkliyə qalxdı. Sonra paraşütü şara bağlayan ipi kəsdi və aşağı enməyə başladı."
+   },
+   {
+    "h": "Səbət",
+    "t": "O, indiki kimi kürəyində paraşütlə tullanmadı. Paraşütün altından asılan səbətdə oturmuşdu. Paraşüt çətir kimi idi, eni təxminən 7 metr."
+   },
+   {
+    "h": "Yırğalanma",
+    "t": "Enəndə səbət çox güclü yırğalanırdı. Bunu azaltmaq üçün 1804-cü ildə paraşütün ortasında deşik açdılar."
+   },
+   {
+    "h": "1799",
+    "t": "Qarneren yerə sağ-salamat endi. İki il sonra onun tələbəsi və gələcək həyat yoldaşı Janna Labross paraşütlə enən ilk qadın oldu."
+   }
+  ],
+  "caption": "229 il əvvəl bu gün ilk paraşüt enişi oldu 🪂\n\n1797-ci il 22 oktyabrda Andre-Jak Qarneren Parisdə hava şarı ilə təxminən 900 metrə qalxdı. Sonra ipi kəsib paraşütlə aşağı endi. O, kürəyində çanta ilə yox, paraşütün altındakı səbətdə oturmuşdu. Səbət yol boyu güclü yırğalandı, amma Qarneren yerə sağ-salamat endi.\n\n📩 Təyyarədə belə qorxan dostuna göndər 😄\n\nFoto: Library of Congress / Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #tarixdəbugün #paraşüt #paris",
+  "first_comment": "Sən paraşütlə tullanmağa cəsarət edərdin? 👇",
+  "quizzes": [
+   {
+    "q": "Qarneren paraşütlə təxminən hansı yüksəklikdən endi?",
+    "options": [
+     "90 metr",
+     "900 metr",
+     "9 000 metr"
+    ],
+    "answer": "900 metr",
+    "why": "Hava şarı ilə qalxıb ipi kəsdi."
+   },
+   {
+    "q": "Qarneren enəndə harada oturmuşdu?",
+    "options": [
+     "Səbətdə",
+     "Qayıqda",
+     "Kürsüdə"
+    ],
+    "answer": "Səbətdə",
+    "why": "Səbət paraşütün altından asılmışdı."
+   },
+   {
+    "q": "Paraşütlə enən ilk qadın hansı ildə endi?",
+    "options": [
+     "1799",
+     "1849",
+     "1899"
+    ],
+    "answer": "1799",
+    "why": "Janna Labross, Qarnerenin tələbəsi və gələcək həyat yoldaşı."
+   }
+  ],
+  "story": {
+   "title": "İlk paraşütçü səbətdə endi",
+   "text": "1797-ci il 22 oktyabrda Andre-Jak Qarneren Parisdə hava şarı ilə 900 metrə qalxdı və paraşütlə endi. O, paraşütün altındakı səbətdə oturmuşdu.",
+   "credit": "Library of Congress / Wikimedia Commons"
+  },
+  "sources": [
+   "https://en.wikipedia.org/wiki/Andr%C3%A9-Jacques_Garnerin",
+   "https://bonjourparis.com/archives/andre-jacques-garnerin-parachutist-parc-monceau/",
+   "https://www.guinnessworldrecords.com/world-records/381515-first-parachute-jump-from-a-balloon"
+  ],
+  "verify_note": "229 years: not a round anniversary -> 10:00 only. Height: Wikipedia 'about 3,000 ft (1,000 m)', Bonjour Paris 'about 900 m (3,000 ft)' -> used 'təxminən 900 metr' (3,000 ft = 914 m). Basket under the canopy, ~7 m (23 ft) diameter, violent swinging, landed unhurt, age 28: Wikipedia; basket/swinging/unhurt also Bonjour Paris. Vent 1804 (Lalande): Wikipedia + Bonjour Paris. Labrosse first woman, 12 Oct 1799 (900 m): Wikipedia; 'two years later' Bonjour Paris. Canopy material (silk vs canvas) disputed -> omitted. Claim worded as 'first parachute descent from a balloon' (Guinness).",
+  "photo": {
+   "path": "fetch/img/2026-10-22_h_garnerin_a.jpg",
+   "credit": "Library of Congress / Wikimedia Commons (ictimai mülkiyyət)",
+   "cy": 0.5,
+   "full": true,
+   "source": "https://commons.wikimedia.org/wiki/File:Premier_descente_en_parachute_..._Jacques_Garnerin_..._le_22_Octobre_1797_LCCN2003674131.jpg",
+   "alt": "fetch/img/2026-10-22_h_garnerin_b.jpg (contemporary print 'Descente Garnerin', public domain)"
+  }
+ },
+ "facts": [
+  {
+   "n": 1,
+   "type": "reel",
+   "cat": "Coğrafiya",
+   "subject": "Bir Tawil: ~2,060 km2 between Egypt and Sudan claimed by neither; 1899 line (22nd parallel) puts it in Sudan, 1902 administrative line in Egypt; both want the ~10x larger Halaib Triangle, so claiming Bir Tawil would mean giving up Halaib; no permanent settlements, no sea access",
+   "photo_request": "Bir Tawil satellite image",
+   "title": "Heç bir ölkənin istəmədiyi torpaq",
+   "text": "Misir ilə Sudan arasında təxminən 2 060 km²-lik səhra var. Heç bir ölkə onu özününkü saymır.",
+   "reel_hook": "BU TORPAĞI HEÇ BİR ÖLKƏ İSTƏMİR",
+   "reel_beats": [
+    "Misir ilə Sudan arasında Bir-Təvil adlı bir səhra var. Təxminən 2 060 kvadrat kilometrdir, amma heç bir ölkə onu özününkü saymır.",
+    "Səbəb iki köhnə sərhəddir: biri 1899-cu ildə, o biri 1902-ci ildə çəkilib. Hər iki ölkə yanındakı, on dəfə böyük Həlaib torpağını istəyir.",
+    "Bir-Təvili götürən ölkə Həlaibdən imtina etmiş olur. Ona görə heç kim onu götürmür. Sənin öz ölkən olsaydı, adını nə qoyardın?"
+   ],
+   "caption": "Bu torpağı heç bir ölkə istəmir 🏜️\n\nMisir ilə Sudan arasındakı Bir-Təvil səhrası təxminən 2 060 km²-dir. 1899-cu il sərhədinə görə o, Sudana, 1902-ci il sərhədinə görə isə Misirə düşür. Amma hər iki ölkə yanındakı, təxminən 10 dəfə böyük Həlaib torpağını istəyir. Bir-Təvili qəbul edən ölkə Həlaibdən imtina etmiş olur. Ona görə heç kim onu götürmür.\n\n📩 Həmişə «bir gün öz ölkəmi quracağam» deyən dostuna göndər 😄\n\nFoto: NASA / USGS Landsat 8 / Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #coğrafiya #afrika #xəritə",
+   "first_comment": "Sənin öz ölkən olsaydı, adını nə qoyardın? 👇",
+   "quizzes": [
+    {
+     "q": "Bir-Təvil hansı iki ölkə arasındadır?",
+     "options": [
+      "Misir və Sudan",
+      "Liviya və Çad",
+      "Efiopiya və Keniya"
+     ],
+     "answer": "Misir və Sudan",
+     "why": "Heç biri onu özününkü saymır."
+    },
+    {
+     "q": "Bir-Təvilin sahəsi təxminən nə qədərdir?",
+     "options": [
+      "206 km²",
+      "2 060 km²",
+      "20 600 km²"
+     ],
+     "answer": "2 060 km²",
+     "why": "Yanındakı Həlaib torpağı təxminən 10 dəfə böyükdür."
+    },
+    {
+     "q": "Mübahisəli sərhədlər hansı illərdə çəkilib?",
+     "options": [
+      "1899 və 1902",
+      "1919 və 1922",
+      "1956 və 1960"
+     ],
+     "answer": "1899 və 1902",
+     "why": "Misir 1899-cu il xəttini, Sudan 1902-ci il xəttini qəbul edir."
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Bir_Tawil",
+    "https://www.worldatlas.com/geography/the-egypt-sudan-border-dispute.html"
+   ],
+   "verify_note": "~2,060 km2, 1899 line = 22nd parallel (Egypt's claim, puts Bir Tawil in Sudan), 1902 administrative line (Sudan's claim, puts Bir Tawil in Egypt), both claim Halaib, neither Bir Tawil, Halaib ~10x larger (WorldAtlas 20,580 km2), no permanent settlements/no sea access: Wikipedia + WorldAtlas. Gold-mining camps / armed groups and micronation claims omitted on purpose.",
+   "photo": {
+    "path": "fetch/img/2026-10-22_birtawil_a.jpg",
+    "credit": "NASA / USGS Landsat 8 / Wikimedia Commons (ictimai mülkiyyət)",
+    "cy": 0.5,
+    "full": false,
+    "source": "https://commons.wikimedia.org/wiki/File:Satellite_image_of_Bir_Tawil.jpg",
+    "alt": "fetch/img/2026-10-22_birtawil_b.png (topographic map, Maps-For-Free, CC0)"
+   }
+  },
+  {
+   "n": 2,
+   "type": "reel",
+   "cat": "Texnologiya",
+   "subject": "First actual computer bug: 9 Sep 1947, Harvard Mark II, moth in Relay #70 Panel F, taped into the logbook 'First actual case of bug being found' (15:45); 'bug' already used by Edison 1878; logbook at the Smithsonian NMAH",
+   "photo_request": "First Computer Bug 1947 logbook",
+   "title": "İlk kompüter «baqı» əsl böcək idi",
+   "text": "1947-ci ildə Harvarddakı kompüter səhv işləməyə başladı. Səbəb içinə girmiş bir güvə idi.",
+   "reel_hook": "İLK «BAQ» ƏSL BÖCƏK İDİ",
+   "reel_hook_trial": "KOMPÜTERİ BİR GÜVƏ XARAB ETDİ",
+   "reel_beats": [
+    "9 sentyabr 1947, Harvard Universiteti. Nəhəng Mark II kompüteri birdən səhv işləməyə başladı və mühəndislər səbəbi axtarmağa başladılar.",
+    "Sonda maşının içində, 70 nömrəli releyin arasında sıxılıb qalmış bir güvə tapdılar. Onu jurnala yapışdırıb yazdılar: «Əsl böcəyin tapıldığı ilk hal».",
+    "Proqramçılar xətaya «baq», yəni böcək deyir. Bu söz əvvəldən vardı, amma ilk dəfə əsl böcək tapıldı. Səndə kompüter ən çox nə vaxt donur?"
+   ],
+   "caption": "İlk kompüter «baqı» əsl böcək idi 💻\n\n1947-ci il 9 sentyabrda Harvard Universitetindəki Mark II kompüteri səhv işləməyə başladı. Mühəndislər maşının içində, bir releyin arasında sıxılıb qalmış güvə tapdılar. Onu jurnala yapışdırıb altına yazdılar: «Əsl böcəyin tapıldığı ilk hal». Bu jurnal indi ABŞ-da, Smitsonian muzeyində saxlanılır.\n\n📩 Kompüteri hər gün donan dostuna göndər 😄\n\nFoto: Naval Surface Warfare Center, Dahlgren / Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #kompüter #texnologiya #proqramlaşdırma",
+   "first_comment": "Səndə kompüter ən çox nə vaxt donur? 👇",
+   "quizzes": [
+    {
+     "q": "Kompüterin içində hansı böcək tapıldı?",
+     "options": [
+      "Güvə",
+      "Hörümçək",
+      "Qarışqa"
+     ],
+     "answer": "Güvə",
+     "why": "70 nömrəli releyin arasında sıxılıb qalmışdı."
+    },
+    {
+     "q": "Bu hadisə hansı ildə baş verdi?",
+     "options": [
+      "1937",
+      "1947",
+      "1967"
+     ],
+     "answer": "1947",
+     "why": "9 sentyabr 1947, Harvard Universiteti."
+    },
+    {
+     "q": "Güvə hansı universitetin kompüterində tapıldı?",
+     "options": [
+      "Harvard",
+      "Oksford",
+      "Kembric"
+     ],
+     "answer": "Harvard",
+     "why": "Mark II kompüterində."
+    }
+   ],
+   "sources": [
+    "https://www.computinghistory.org.uk/det/5927/First-computer-bug-is-found/",
+    "https://sciencenotes.org/september-9-today-science-history-first-computer-bug/"
+   ],
+   "verify_note": "9 Sep 1947, Harvard Mark II, 15:45, note 'first actual case of bug being found', 'bug' already used by Edison 1878, Hopper probably not the finder: Centre for Computing History. Relay #70 Panel F, Smithsonian now displays the log (acquired 1991): Science Notes. Wording avoids 'Hopper found it' and avoids 'first use of the word'.",
+   "photo": {
+    "path": "fetch/img/2026-10-22_bug_a.jpg",
+    "credit": "Naval Surface Warfare Center, Dahlgren / Wikimedia Commons (ictimai mülkiyyət)",
+    "cy": 0.5,
+    "full": false,
+    "source": "https://commons.wikimedia.org/wiki/File:First_Computer_Bug,_1947.jpg"
+   }
+  },
+  {
+   "n": 3,
+   "type": "card",
+   "cat": "Kosmos",
+   "subject": "Moon trees: Apollo 14 (1971) CMP Stuart Roosa, ex-USFS smokejumper, carried several hundred seeds (~500 per species per NASA) of 5 species (sycamore, loblolly pine, sweetgum, redwood, Douglas fir) in lunar orbit; bags burst during decontamination, seeds hand-sorted, most germinated; 1975-76 Bicentennial plantings in 40 states; ~90 trees accounted for",
+   "photo_request": "Apollo 14 Moon Tree",
+   "title": "Ayın ətrafında uçan ağaclar",
+   "text": "1971-ci ildə astronavt Styuart Rusa özü ilə yüzlərlə ağac toxumu apardı. Sonra onlardan ABŞ-da ağaclar böyüdü.",
+   "cover": {
+    "hook": "Bu ağacların toxumu Ayın ətrafında uçub",
+    "sub": "Apollo 14 · 1971 · 5 növ ağac"
+   },
+   "slides": [
+    {
+     "h": "1971",
+     "t": "Apollo 14 uçuşunda Styuart Rusa Ayın ətrafında fırlanan gəmidə qaldı. Onun şəxsi çantasında 5 növ ağacın yüzlərlə toxumu var idi."
+    },
+    {
+     "h": "Yanğınsöndürən",
+     "t": "Rusa gəncliyində ABŞ Meşə Xidmətində işləmişdi. O, meşə yanğınlarına paraşütlə enən yanğınsöndürən idi. Toxumları da bu xidmət üçün aparmışdı."
+    },
+    {
+     "h": "Dağıldı",
+     "t": "Yerə qayıdandan sonra yoxlama zamanı toxum torbaları partladı və toxumlar dağıldı. Alimlər onları əllə yığıb ayırdılar. Çoxu cücərdi."
+    },
+    {
+     "h": "40 ştat",
+     "t": "1976-cı ildə bu tinglər ABŞ-ın 40 ştatında əkildi. Bu gün onlardan təxminən 90-ının yeri məlumdur. Onlara «Ay ağacları» deyirlər."
+    }
+   ],
+   "caption": "Bu ağacların toxumu Ayın ətrafında uçub 🌳\n\n1971-ci ildə Apollo 14 astronavtı Styuart Rusa özü ilə 5 növ ağacın yüzlərlə toxumunu apardı. Toxumlar Ayın ətrafında fırlanan gəmidə onunla birlikdə uçdu. Yerə qayıdandan sonra onları əkdilər və 1976-cı ildə tinglər ABŞ-ın 40 ştatında əkildi. Bu ağaclara indi «Ay ağacları» deyirlər.\n\n📩 Evdə bir gül belə saxlaya bilməyən dostuna göndər 😄\n\nFoto: Plefkag / Wikimedia Commons (CC0)\n\n#bilirdinizmi #maraqlıfaktlar #kosmos #ağac #nasa",
+   "first_comment": "Sən kosmosdan nə gətirmək istərdin? 👇",
+   "quizzes": [
+    {
+     "q": "Ay ağaclarının toxumunu kosmosa kim apardı?",
+     "options": [
+      "Styuart Rusa",
+      "Nil Armstronq",
+      "Bazz Oldrin"
+     ],
+     "answer": "Styuart Rusa",
+     "why": "Apollo 14 uçuşunda, 1971-ci ildə."
+    },
+    {
+     "q": "Toxumlar hansı uçuşda kosmosa getdi?",
+     "options": [
+      "Apollo 11",
+      "Apollo 14",
+      "Apollo 17"
+     ],
+     "answer": "Apollo 14",
+     "why": "Toxumlar Ayın ətrafında fırlanan gəmidə qaldı."
+    },
+    {
+     "q": "Rusa gəncliyində kim işləmişdi?",
+     "options": [
+      "Yanğınsöndürən",
+      "Aşpaz",
+      "Müəllim"
+     ],
+     "answer": "Yanğınsöndürən",
+     "why": "Meşə yanğınlarına paraşütlə enirdi."
+    }
+   ],
+   "sources": [
+    "https://nssdc.gsfc.nasa.gov/planetary/lunar/moon_trees/roosa_moon_tree_seeds.html",
+    "https://atlasobscura.com/articles/what-happened-to-moon-trees"
+   ],
+   "verify_note": "Roosa = Apollo 14 Command Module pilot (stayed in lunar orbit), USFS smokejumper 1953, 5 species, bags burst during vacuum decontamination, seeds sorted by hand, most began to grow, Bicentennial plantings in 40 states: NASA NSSDC. Seed count: NASA ~500 per species, Atlas Obscura 'several hundred, exact number unknown' -> 'yüzlərlə'. ~90 trees accounted for: Atlas Obscura. Never said the seeds landed on the Moon.",
+   "photo": {
+    "path": "fetch/img/2026-10-22_moontree_b.jpg",
+    "credit": "Plefkag / Wikimedia Commons (CC0)",
+    "cy": 0.45,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Sycamore_Moon_Tree_at_Core_Creek_State_Park,_Bucks_County_PA.jpg",
+    "note": "Original Apollo 14 sycamore Moon tree planted 1976, Core Creek State Park PA (portrait).",
+    "alt": "fetch/img/2026-10-22_moontree_a.jpg (2nd-generation loblolly seedling dedicated by the Artemis II crew at JSC, June 2026, NASA/James Blair, public domain)"
+   }
+  },
+  {
+   "n": 4,
+   "type": "reel",
+   "cat": "Təbiət",
+   "subject": "Wood frog (Lithobates sylvaticus) freezes in winter: heart stops, breathing stops for months; up to ~60% of body water freezes; glucose up to 10x normal acts as antifreeze; Alaska up to 7 months; thaws in spring, fully functional within ~10 hours",
+   "photo_request": "wood frog",
+   "title": "Qışda donur, yazda oyanır",
+   "text": "Meşə qurbağası qışda buz kimi donur, ürəyi dayanır. Yazda isə əriyib yenidən hoppanır.",
+   "reel_hook": "ÜRƏYİ DAYANIR, YAZDA YENƏ DÖYÜNÜR",
+   "reel_beats": [
+    "Şimali Amerikada yaşayan meşə qurbağası qışda donub buza dönür. Ürəyi dayanır, nəfəs almır və aylarla belə qalır.",
+    "Bədənindəki suyun 60 faizə qədəri buza çevrilir. Amma qanındakı şəkər çox artır və hüceyrələrin içini donmaqdan qoruyur.",
+    "Yazda hava isinəndə qurbağa əriyir və 10 saat ərzində yenidən hoppanmağa başlayır. Sən qışı bu qurbağa kimi yatıb keçirmək istərdin?"
+   ],
+   "caption": "Bu qurbağa qışda donur, yazda yenidən oyanır 🐸\n\nŞimali Amerikadakı meşə qurbağası qışda buza dönür: ürəyi dayanır, nəfəs almır. Bədənindəki suyun 60 faizə qədəri donur. Onu qanındakı şəkər qoruyur — adi haldan 10 dəfəyə qədər çox olur. Alyaskada bu qurbağalar 7 aya qədər donmuş qalır, yazda isə əriyib yenidən hoppanır.\n\n📩 Səhər yuxudan heç cür ayıla bilməyən dostuna göndər 😄\n\nFoto: Jdshide / Wikimedia Commons (CC0)\n\n#bilirdinizmi #maraqlıfaktlar #təbiət #heyvanlar #qurbağa",
+   "first_comment": "Sən qışı bu qurbağa kimi yatıb keçirmək istərdin? 👇",
+   "quizzes": [
+    {
+     "q": "Meşə qurbağasının bədənindəki suyun nə qədəri donur?",
+     "options": [
+      "6 faizə qədər",
+      "60 faizə qədər",
+      "Hamısı"
+     ],
+     "answer": "60 faizə qədər",
+     "why": "Qanındakı şəkər hüceyrələri qoruyur."
+    },
+    {
+     "q": "Donmuş qurbağanı nə qoruyur?",
+     "options": [
+      "Qanındakı şəkər",
+      "Qalın dərisi",
+      "Bədənindəki duz"
+     ],
+     "answer": "Qanındakı şəkər",
+     "why": "Adi haldan 10 dəfəyə qədər çox olur."
+    },
+    {
+     "q": "Alyaskada qurbağa donmuş halda nə qədər qala bilir?",
+     "options": [
+      "7 gün",
+      "7 həftə",
+      "7 ay"
+     ],
+     "answer": "7 ay",
+     "why": "Yazda əriyib yenidən hoppanır."
+    }
+   ],
+   "sources": [
+    "https://www.nsf.gov/news/frozen-frogs-dont-croak",
+    "https://audubon.org/news/frogs-freeze-survive-alaskan-winter"
+   ],
+   "verify_note": "Heart stops, breathing stops, for months, glucose antifreeze, fully functional within 10 hours of thawing, range to the Arctic Circle: NSF. Up to 60% of body frozen, glucose up to 10x normal, Alaska up to 7 months (Barnes & Larson, UAF): Audubon. 'Up to' wording kept everywhere.",
+   "photo": {
+    "path": "fetch/img/2026-10-22_frog_a.jpg",
+    "credit": "Jdshide / Wikimedia Commons (CC0)",
+    "cy": 0.5,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Lithobates_sylvaticus_-_Wood_Frog_01.jpg",
+    "note": "frog_b download failed (HTML returned), not needed"
+   }
+  }
+ ],
+ "hook_test": {
+  "main": "İLK «BAQ» ƏSL BÖCƏK İDİ",
+  "trial": "KOMPÜTERİ BİR GÜVƏ XARAB ETDİ",
+  "fact": "facts[1] first computer bug",
+  "main_time": "16:00",
+  "trial_time": "20:00"
+ }
+}

@@ -82,3 +82,14 @@ search_birtawil.json https://commons.wikimedia.org/w/api.php?action=query&format
 search_bug.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=First%20computer%20bug%20moth
 search_moontree.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Moon%20tree%20Apollo%2014
 search_woodfrog.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Lithobates%20sylvaticus%20wood%20frog
+2026-10-21_T_phobos_a.jpg https://upload.wikimedia.org/wikipedia/commons/5/5c/Phobos_colour_2008.jpg
+2026-10-21_T_phobos_b.jpg https://upload.wikimedia.org/wikipedia/commons/b/b9/Phobos_PIA10369.jpg
+2026-10-22_h_garnerin_a.jpg https://upload.wikimedia.org/wikipedia/commons/6/67/Premier_descente_en_parachute_..._Jacques_Garnerin_..._le_22_Octobre_1797_LCCN2003674131.jpg
+2026-10-22_h_garnerin_b.jpg https://upload.wikimedia.org/wikipedia/commons/c/c6/Descente_Garnerin%2C_23_octobre_1797.jpg
+2026-10-22_birtawil_a.jpg https://upload.wikimedia.org/wikipedia/commons/2/2e/Satellite_image_of_Bir_Tawil.jpg
+2026-10-22_birtawil_b.png https://upload.wikimedia.org/wikipedia/commons/7/70/Topographic_Map_of_Bir_Tawil.png
+2026-10-22_bug_a.jpg https://upload.wikimedia.org/wikipedia/commons/e/e7/First_Computer_Bug%2C_1947.jpg
+2026-10-22_moontree_a.jpg https://upload.wikimedia.org/wikipedia/commons/a/a6/Apollo_14_Moon_Tree_%28jsc2026e396708%29.jpg
+2026-10-22_moontree_b.jpg https://upload.wikimedia.org/wikipedia/commons/f/fa/Sycamore_Moon_Tree_at_Core_Creek_State_Park%2C_Bucks_County_PA.jpg
+2026-10-22_frog_a.jpg https://upload.wikimedia.org/wikipedia/commons/b/b9/Lithobates_sylvaticus_-_Wood_Frog_01.jpg
+2026-10-22_frog_b.jpg https://upload.wikimedia.org/wikipedia/commons/6/61/Lithobates_sylvaticus_%28wood_frog%29.jpg

@@ -76,3 +76,9 @@ search_marssunset.json https://commons.wikimedia.org/w/api.php?action=query&form
 2026-10-21_pando_a.jpg https://upload.wikimedia.org/wikipedia/commons/7/79/Pando_2021_Official_Picture.jpg
 2026-10-21_pando_b.jpg https://upload.wikimedia.org/wikipedia/commons/0/0e/Pando_in_the_Fall_%2811937950814%29.jpg
 2026-10-21_mars_a.jpg https://upload.wikimedia.org/wikipedia/commons/c/c5/PIA19400-MarsCuriosityRover-GaleCrater-Sunset-20150415.jpg
+search_phobos.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Phobos%20HiRISE%20color
+search_garnerin.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Garnerin%20parachute%201797
+search_birtawil.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Bir%20Tawil
+search_bug.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=First%20computer%20bug%20moth
+search_moontree.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Moon%20tree%20Apollo%2014
+search_woodfrog.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Lithobates%20sylvaticus%20wood%20frog

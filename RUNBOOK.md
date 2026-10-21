@@ -45,6 +45,9 @@ Feed posts (all automatic):
   Weekly review 2026-10-18: only ~30% of reel views lasted >3 s (avg watch 3.2–3.7 s) → the hook must be the
   NUMBER or twist itself as huge text ("400 YAŞ", "3 ÜRƏK"), visible from frame 1; aim for the short end (8–9 s).
   Target: >3 s view rate (IGRE28) ≥ 40%.
+  Evidence 2026-10-20: "Plutonda 1 il = 248 il" 60% · "2 saat 17 dəqiqə nəfəs almadı" 49% (avg watch 19 s, 4 shares)
+  vs "Dənizin ortasında 200 km yol" 14%. Winning hooks = a precise, impossible-sounding NUMBER + who/what it is about.
+  Vague place/description hooks lose even on Azerbaijani topics — put the number/claim first.
   Renderer (factgen.py reel, 2026-10-19): hook is fully visible on frame 0 (no fade-in), beat time = reading time
   (0.3 s/word + 0.6 s, min 2.2 s).
   LANGUAGE RULE (Gartal, 2026-10-19) — overrides any word limit: every beat is 1–2 COMPLETE, NATURAL Azerbaijani

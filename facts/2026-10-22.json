@@ -364,5 +364,86 @@
   "fact": "facts[1] first computer bug",
   "main_time": "16:00",
   "trial_time": "20:00"
- }
+ },
+ "spare": [
+  {
+   "n": 3,
+   "type": "card",
+   "cat": "Təbiət",
+   "subject": "Pando, Utah: one quaking aspen clone, ~47,000 genetically identical stems on one root system, ~106 acres (~43 ha), ~6,000 t (13.3 million lb); stems live ~130-150 years; deer/elk browsing, ~80% fenced",
+   "photo_request": "Pando ağcaqovaq meşəsi",
+   "title": "Bu meşə bir ağacdır",
+   "text": "ABŞ-ın Yuta ştatında 47 000 ağac kimi görünən şey əslində tək bir canlıdır. Hamısının kökü birdir.",
+   "slides": [
+    {
+     "h": "47 000",
+     "t": "Pandoda təxminən 47 000 gövdə var. Hamısı genetik olaraq eynidir və eyni kökdən çıxır. Yəni bu, meşə yox, bir ağacdır."
+    },
+    {
+     "h": "43 hektar",
+     "t": "Pando təxminən 43 hektar yer tutur. Bu, təxminən 60 futbol meydançası qədərdir."
+    },
+    {
+     "h": "6 000 ton",
+     "t": "Alimlər onun çəkisini təxminən 6 000 ton hesablayır. Bu, onu dünyanın ən ağır canlılarından biri edir."
+    },
+    {
+     "h": "130 il",
+     "t": "Hər gövdə təxminən 130–150 il yaşayır, sonra kökdən yenisi çıxır. Amma marallar cavan gövdələri yeyir. Ona görə ərazinin çox hissəsi hasara alınıb."
+    }
+   ],
+   "caption": "Bu meşə əslində tək bir ağacdır 🌳\n\nYuta ştatındakı Pando adlı ağcaqovaq meşəsində təxminən 47 000 gövdə var. Hamısı genetik olaraq eynidir və bir kök sistemindən böyüyür. Bu canlı təxminən 6 000 ton çəkir və 43 hektar yer tutur. Hər gövdə 130–150 il yaşayır, sonra yerinə kökdən yenisi çıxır.\n\n📩 Meşəyə gedib «ağaclar çox gözəldir» deyən dostuna göndər — qoy bilsin, ağac birdir 😄\n\nFoto: USDA Forest Service / Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #təbiət #ağac #amerika",
+   "first_comment": "Bunu bilirdin, yoxsa indi öyrəndin? 👇",
+   "quizzes": [
+    {
+     "q": "Pandoda təxminən neçə gövdə var?",
+     "options": [
+      "4 700",
+      "47 000",
+      "470 000"
+     ],
+     "answer": "47 000",
+     "why": "Hamısı eyni kök sistemindən çıxır."
+    },
+    {
+     "q": "Pandonun çəkisi təxminən nə qədərdir?",
+     "options": [
+      "60 ton",
+      "600 ton",
+      "6 000 ton"
+     ],
+     "answer": "6 000 ton",
+     "why": "Dünyanın ən ağır canlılarından biri sayılır."
+    },
+    {
+     "q": "Pandonun hər gövdəsi təxminən neçə il yaşayır?",
+     "options": [
+      "13–15 il",
+      "130–150 il",
+      "1 300–1 500 il"
+     ],
+     "answer": "130–150 il",
+     "why": "Sonra yerinə kökdən yeni gövdə çıxır."
+    }
+   ],
+   "sources": [
+    "https://www.friendsofpando.org/thepandotree/facts-about-pando/",
+    "https://www.earthdate.org/pando-a-forest-of-one",
+    "https://www.sciencealert.com/the-world-s-largest-organism-is-slowly-being-eaten-scientist-says"
+   ],
+   "verify_note": "47,000 stems, 106 acres (=42.9 ha), 13.3 million lb dry weight (≈6,000 t), stems 130–150 years, deer/elk browsing, ~80% fenced: Friends of Pando; 47,000 / 6,000 t also in the search-result summaries of other outlets. Age estimates vary widely (9,000 to tens of thousands of years) -> age NOT used. 43 ha / 0.714 ha per pitch ≈ 60.",
+   "photo": {
+    "path": "fetch/img/2026-10-21_pando_b.jpg",
+    "credit": "USDA Forest Service / Wikimedia Commons (ictimai mülkiyyət)",
+    "cy": 0.5,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Pando_in_the_Fall_(11937950814).jpg",
+    "alt": "fetch/img/2026-10-21_pando_a.jpg (trunk close-up, Lance Oditt / Friends of Pando, CC BY-SA 4.0)"
+   },
+   "cover": {
+    "hook": "Bu meşə əslində tək bir ağacdır",
+    "sub": "Pando, Yuta (ABŞ) · 47 000 gövdə, bir kök"
+   }
+  }
+ ]
 }

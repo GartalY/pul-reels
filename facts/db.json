@@ -858,50 +858,6 @@
    ]
   },
   {
-   "id": "2026-10-21-3",
-   "date": "2026-10-21",
-   "subject": "Pando, Utah: one quaking aspen clone, ~47,000 genetically identical stems on one root system, ~106 acres (~43 ha), ~6,000 t (13.3 million lb); stems live ~130-150 years; deer/elk browsing, ~80% fenced",
-   "cat": "Təbiət",
-   "quizzes": [
-    {
-     "q": "Pandoda təxminən neçə gövdə var?",
-     "options": [
-      "4 700",
-      "47 000",
-      "470 000"
-     ],
-     "answer": "47 000",
-     "why": "Hamısı eyni kök sistemindən çıxır."
-    },
-    {
-     "q": "Pandonun çəkisi təxminən nə qədərdir?",
-     "options": [
-      "60 ton",
-      "600 ton",
-      "6 000 ton"
-     ],
-     "answer": "6 000 ton",
-     "why": "Dünyanın ən ağır canlılarından biri sayılır."
-    },
-    {
-     "q": "Pandonun hər gövdəsi təxminən neçə il yaşayır?",
-     "options": [
-      "13–15 il",
-      "130–150 il",
-      "1 300–1 500 il"
-     ],
-     "answer": "130–150 il",
-     "why": "Sonra yerinə kökdən yeni gövdə çıxır."
-    }
-   ],
-   "asked": [
-    {
-     "date": "2026-10-21",
-     "qi": 0
-    }
-   ]
-  },
-  {
    "id": "2026-10-21-4",
    "date": "2026-10-21",
    "subject": "Blue sunset on Mars: Curiosity Mastcam, Gale Crater, sol 956 (15 Apr 2015); fine dust lets blue light through near the Sun's direction (Mark Lemmon, Texas A&M)",
@@ -936,6 +892,50 @@
      ],
      "answer": "Xırda toz",
      "why": "Mavi işıq bu tozdan daha asan keçir."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-21",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-21-T",
+   "date": "2026-10-21",
+   "subject": "JAXA Martian Moons eXploration (MMX) launched on H3 from Tanegashima, 19 Oct 2026 19:41 UTC (20 Oct 04:41 JST, 23:41 Baku 19 Oct): Mars Aug 2027, Phobos landing NET Dec 2028, >=10 g sample, return to Australia 2031, first sample from a moon other than ours; Phobos orbits 3x/day ~6,000 km above Mars, nears Mars ~1.8 m/century, crash or ring in ~50 million years",
+   "cat": "Kosmos",
+   "quizzes": [
+    {
+     "q": "Yapon zondu Fobosdan ən azı nə qədər torpaq gətirəcək?",
+     "options": [
+      "1 qram",
+      "10 qram",
+      "10 kq"
+     ],
+     "answer": "10 qram",
+     "why": "Torpaq 2031-ci ildə Avstraliyaya düşəcək."
+    },
+    {
+     "q": "Fobos Marsın ətrafında gündə neçə dəfə fırlanır?",
+     "options": [
+      "1 dəfə",
+      "3 dəfə",
+      "7 dəfə"
+     ],
+     "answer": "3 dəfə",
+     "why": "Səthdən cəmi 6 000 km yuxarıda fırlanır."
+    },
+    {
+     "q": "Fobos hər 100 ildə Marsa nə qədər yaxınlaşır?",
+     "options": [
+      "1,8 sm",
+      "1,8 metr",
+      "1,8 km"
+     ],
+     "answer": "1,8 metr",
+     "why": "Təxminən 50 milyon ilə Marsa düşəcək və ya halqaya çevriləcək."
     }
    ],
    "asked": [

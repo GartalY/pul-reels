@@ -240,82 +240,84 @@
    "reel_hook_trial": "İKİ DUŞ PƏRDƏSİNDƏN YARANDI"
   },
   {
-   "n": 3,
+   "n": "T",
    "type": "card",
-   "cat": "Təbiət",
-   "subject": "Pando, Utah: one quaking aspen clone, ~47,000 genetically identical stems on one root system, ~106 acres (~43 ha), ~6,000 t (13.3 million lb); stems live ~130-150 years; deer/elk browsing, ~80% fenced",
-   "photo_request": "Pando ağcaqovaq meşəsi",
-   "title": "Bu meşə bir ağacdır",
-   "text": "ABŞ-ın Yuta ştatında 47 000 ağac kimi görünən şey əslində tək bir canlıdır. Hamısının kökü birdir.",
+   "format": "v2",
+   "cat": "Kosmos",
+   "subject": "JAXA Martian Moons eXploration (MMX) launched on H3 from Tanegashima, 19 Oct 2026 19:41 UTC (20 Oct 04:41 JST, 23:41 Baku 19 Oct): Mars Aug 2027, Phobos landing NET Dec 2028, >=10 g sample, return to Australia 2031, first sample from a moon other than ours; Phobos orbits 3x/day ~6,000 km above Mars, nears Mars ~1.8 m/century, crash or ring in ~50 million years",
+   "title": "Yaponiya Marsın peykindən torpaq gətirəcək",
+   "text": "Bu həftə Yaponiya Marsın peyki Fobosa zond göndərdi. Zond oradan torpaq götürüb 2031-ci ildə Yerə gətirəcək.",
+   "cover": {
+    "hook": "Yaponiya Marsın peykindən torpaq gətirəcək",
+    "sub": "MMX zondu · Fobos · Yerə qayıdış 2031"
+   },
    "slides": [
     {
-     "h": "47 000",
-     "t": "Pandoda təxminən 47 000 gövdə var. Hamısı genetik olaraq eynidir və eyni kökdən çıxır. Yəni bu, meşə yox, bir ağacdır."
+     "h": "10 qram",
+     "t": "Zond Fobosa enib ən azı 10 qram torpaq götürəcək. Bu, bizim Aydan başqa bir peykdən gətirilən ilk torpaq olacaq."
     },
     {
-     "h": "43 hektar",
-     "t": "Pando təxminən 43 hektar yer tutur. Bu, təxminən 60 futbol meydançası qədərdir."
+     "h": "2031",
+     "t": "Zond 2027-ci ilin avqustunda Marsa çatacaq. Fobosa ən tez 2028-ci ilin dekabrında enəcək. Torpaq 2031-ci ildə Avstraliyaya düşəcək."
     },
     {
-     "h": "6 000 ton",
-     "t": "Alimlər onun çəkisini təxminən 6 000 ton hesablayır. Bu, onu dünyanın ən ağır canlılarından biri edir."
+     "h": "Gündə 3 dəfə",
+     "t": "Fobos Marsa çox yaxındır, səthdən cəmi 6 000 km yuxarıda. Ona görə Marsın ətrafında gündə 3 dəfə fırlanır. Marsdan baxanda qərbdən doğub şərqdə batır."
     },
     {
-     "h": "130 il",
-     "t": "Hər gövdə təxminən 130–150 il yaşayır, sonra kökdən yenisi çıxır. Amma marallar cavan gövdələri yeyir. Ona görə ərazinin çox hissəsi hasara alınıb."
+     "h": "50 milyon il",
+     "t": "Fobos hər 100 ildə Marsa təxminən 1,8 metr yaxınlaşır. Alimlərə görə, təxminən 50 milyon ilə ya Marsa düşəcək, ya da parçalanıb halqaya çevriləcək."
     }
    ],
-   "caption": "Bu meşə əslində tək bir ağacdır 🌳\n\nYuta ştatındakı Pando adlı ağcaqovaq meşəsində təxminən 47 000 gövdə var. Hamısı genetik olaraq eynidir və bir kök sistemindən böyüyür. Bu canlı təxminən 6 000 ton çəkir və 43 hektar yer tutur. Hər gövdə 130–150 il yaşayır, sonra yerinə kökdən yenisi çıxır.\n\n📩 Meşəyə gedib «ağaclar çox gözəldir» deyən dostuna göndər — qoy bilsin, ağac birdir 😄\n\nFoto: USDA Forest Service / Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #təbiət #ağac #amerika",
-   "first_comment": "Bunu bilirdin, yoxsa indi öyrəndin? 👇",
+   "caption": "Yaponiya Marsın peykindən torpaq gətirmək üçün yola çıxdı 🚀\n\nBu həftə Yaponiyanın MMX zondu H3 raketi ilə Tanegaşima adasından uçdu. Zond Marsın peyki Fobosa enib ən azı 10 qram torpaq götürəcək və 2031-ci ildə Yerə gətirəcək. Fobos Marsa o qədər yaxındır ki, gündə 3 dəfə onun ətrafında fırlanır. Hər 100 ildə isə Marsa təxminən 1,8 metr yaxınlaşır.\n\n📩 Hər işi «sonra edərəm» deyib 2031-ə saxlayan dostuna göndər 😄\n\nFoto: NASA/JPL-Caltech/University of Arizona\n\n#bilirdinizmi #maraqlıfaktlar #kosmos #mars #yaponiya",
+   "first_comment": "Sən Marsa getmək istərdin? 👇",
    "quizzes": [
     {
-     "q": "Pandoda təxminən neçə gövdə var?",
+     "q": "Yapon zondu Fobosdan ən azı nə qədər torpaq gətirəcək?",
      "options": [
-      "4 700",
-      "47 000",
-      "470 000"
+      "1 qram",
+      "10 qram",
+      "10 kq"
      ],
-     "answer": "47 000",
-     "why": "Hamısı eyni kök sistemindən çıxır."
+     "answer": "10 qram",
+     "why": "Torpaq 2031-ci ildə Avstraliyaya düşəcək."
     },
     {
-     "q": "Pandonun çəkisi təxminən nə qədərdir?",
+     "q": "Fobos Marsın ətrafında gündə neçə dəfə fırlanır?",
      "options": [
-      "60 ton",
-      "600 ton",
-      "6 000 ton"
+      "1 dəfə",
+      "3 dəfə",
+      "7 dəfə"
      ],
-     "answer": "6 000 ton",
-     "why": "Dünyanın ən ağır canlılarından biri sayılır."
+     "answer": "3 dəfə",
+     "why": "Səthdən cəmi 6 000 km yuxarıda fırlanır."
     },
     {
-     "q": "Pandonun hər gövdəsi təxminən neçə il yaşayır?",
+     "q": "Fobos hər 100 ildə Marsa nə qədər yaxınlaşır?",
      "options": [
-      "13–15 il",
-      "130–150 il",
-      "1 300–1 500 il"
+      "1,8 sm",
+      "1,8 metr",
+      "1,8 km"
      ],
-     "answer": "130–150 il",
-     "why": "Sonra yerinə kökdən yeni gövdə çıxır."
+     "answer": "1,8 metr",
+     "why": "Təxminən 50 milyon ilə Marsa düşəcək və ya halqaya çevriləcək."
     }
    ],
    "sources": [
-    "https://www.friendsofpando.org/thepandotree/facts-about-pando/",
-    "https://www.earthdate.org/pando-a-forest-of-one",
-    "https://www.sciencealert.com/the-world-s-largest-organism-is-slowly-being-eaten-scientist-says"
+    "https://spacepolicyonline.com/news/jaxas-mmx-enroute-to-mars-to-return-samples-of-phobos/",
+    "https://en.wikipedia.org/wiki/Martian_Moons_eXploration",
+    "https://science.nasa.gov/mars/moons",
+    "https://www.space.com/20346-phobos-moon.html"
    ],
-   "verify_note": "47,000 stems, 106 acres (=42.9 ha), 13.3 million lb dry weight (≈6,000 t), stems 130–150 years, deer/elk browsing, ~80% fenced: Friends of Pando; 47,000 / 6,000 t also in the search-result summaries of other outlets. Age estimates vary widely (9,000 to tens of thousands of years) -> age NOT used. 43 ha / 0.714 ha per pitch ≈ 60.",
+   "verify_note": "Launch 3:41 pm EDT 19 Oct = 04:41 JST 20 Oct = 23:41 Baku 19 Oct (SpacePolicyOnline; Wikipedia 19:41:03 UTC) -> caption says 'bu həftə' to avoid the date mix. Tanegashima, H3, Mars Aug 2027, Phobos landing NET Dec 2028, return 2031 to Australia, first sample from a moon other than ours: SpacePolicyOnline. >=10 g: Wikipedia (also tech-insider headline). Phobos 3 orbits/day, ~1.8 m per century, crash or ring in ~50 million years: NASA science.nasa.gov + Space.com. ~6,000 km above surface, rises in west/sets in east: Space.com. Why chosen over Sabah 1-2 Dortmund (Guirassy 10', 53'; McCarthy 39'): Sabah was already yesterday's 18:30 trend card; MMX is a world-first with a strong number angle and space reels/cards have done well (Voyager 47% >3 s).",
    "photo": {
-    "path": "fetch/img/2026-10-21_pando_b.jpg",
-    "credit": "USDA Forest Service / Wikimedia Commons (ictimai mülkiyyət)",
+    "path": "fetch/img/2026-10-21_T_phobos_a.jpg",
+    "credit": "NASA/JPL-Caltech/University of Arizona",
     "cy": 0.5,
-    "full": true,
-    "source": "https://commons.wikimedia.org/wiki/File:Pando_in_the_Fall_(11937950814).jpg",
-    "alt": "fetch/img/2026-10-21_pando_a.jpg (trunk close-up, Lance Oditt / Friends of Pando, CC BY-SA 4.0)"
-   },
-   "cover": {
-    "hook": "Bu meşə əslində tək bir ağacdır",
-    "sub": "Pando, Yuta (ABŞ) · 47 000 gövdə, bir kök"
+    "full": false,
+    "source": "https://commons.wikimedia.org/wiki/File:Phobos_colour_2008.jpg",
+    "alt": "fetch/img/2026-10-21_T_phobos_b.jpg (PIA10369, same credit, public domain)",
+    "used": true
    }
   },
   {
@@ -517,19 +519,19 @@
   },
   {
    "time": "19:30",
-   "fact_id": "2026-10-21-3",
+   "fact_id": "2026-10-21-T",
    "recall": false,
-   "cat": "Təbiət",
-   "q": "Pandoda təxminən neçə gövdə var?",
+   "cat": "Kosmos",
+   "q": "Yapon zondu Fobosdan ən azı nə qədər torpaq gətirəcək?",
    "options": [
-    "4 700",
-    "47 000",
-    "470 000"
+    "1 qram",
+    "10 qram",
+    "10 kq"
    ],
-   "answer": "47 000",
-   "why": "Hamısı eyni kök sistemindən çıxır.",
-   "image": "out/2026-10-21/q4.jpg",
-   "answer_image": "out/2026-10-21/q4_a.jpg"
+   "answer": "10 qram",
+   "why": "Torpaq 2031-ci ildə Avstraliyaya düşəcək.",
+   "image": "out/2026-10-21/q4_trend.jpg",
+   "answer_image": "out/2026-10-21/q4_trend_a.jpg"
   },
   {
    "time": "22:30",
@@ -644,8 +646,17 @@
    "cy": 0.5,
    "full": false,
    "source": "https://commons.wikimedia.org/wiki/File:Phobos_colour_2008.jpg",
-   "alt": "fetch/img/2026-10-21_T_phobos_b.jpg (PIA10369, same credit, public domain)"
+   "alt": "fetch/img/2026-10-21_T_phobos_b.jpg (PIA10369, same credit, public domain)",
+   "used": true
   }
  },
- "trend_check_morning": "2026-10-21 09:15 Baku: news searches (world, AZ, sports, space). Top items: Sabah 1-2 Borussia Dortmund last night (Guirassy x2, McCarthy); France cost-of-living unrest/curfews; Alberta referendum ~77% against separation; Japan MMX launch to Phobos. Nothing requires an immediate swap of today's posts (no breaking story bigger than the planned trend slot). Trend for 18:30 = MMX/Phobos (built at 15:23)."
+ "trend_check_morning": "2026-10-21 09:15 Baku: news searches (world, AZ, sports, space). Top items: Sabah 1-2 Borussia Dortmund last night (Guirassy x2, McCarthy); France cost-of-living unrest/curfews; Alberta referendum ~77% against separation; Japan MMX launch to Phobos. Nothing requires an immediate swap of today's posts (no breaking story bigger than the planned trend slot). Trend for 18:30 = MMX/Phobos (built at 15:23).",
+ "trend_swap": {
+  "when": "2026-10-21 15:25 Asia/Baku",
+  "slot": "18:30 carousel + 19:30 quiz + 19:40 answer",
+  "what": "Pando -> JAXA MMX launched to Phobos (T_1..T_6)",
+  "why": "Morning trend confirmed (MMX launch 19 Oct, world-first moon sample from another planet's moon); midday run built and swapped it.",
+  "backup_moved_to": "2026-10-22 spare",
+  "photo": "Phobos colour 2008 (NASA/JPL-Caltech/University of Arizona, public domain)"
+ }
 }

@@ -554,7 +554,6 @@
   "10:00 tarixdə bu gün carousel (Guggenheim)": 401317678,
   "13:00 reel (Şollar)": 401317791,
   "16:00 reel (bubble wrap, main hook)": 401317856,
-  "18:30 carousel (Pando, trend backup)": 401317931,
   "20:00 TRIAL_REEL (bubble wrap, trial hook)": 401317993,
   "21:30 reel (Mars blue sunset)": 401318062,
   "10:00 tarixdə bu gün story": 401318137,
@@ -564,10 +563,11 @@
   "14:10 answer a2": 401318260,
   "17:00 quiz q3": 401318286,
   "17:10 answer a3": 401318318,
-  "19:30 quiz q4": 401318387,
-  "19:40 answer a4": 401318410,
   "22:30 quiz q5": 401318445,
-  "22:40 answer a5": 401318471
+  "22:40 answer a5": 401318471,
+  "18:30 carousel (TREND: MMX/Phobos)": 402031189,
+  "19:30 quiz q4_trend": 402031212,
+  "19:40 answer a4_trend": 402031241
  },
  "trend": {
   "n": "T",
@@ -657,6 +657,7 @@
   "what": "Pando -> JAXA MMX launched to Phobos (T_1..T_6)",
   "why": "Morning trend confirmed (MMX launch 19 Oct, world-first moon sample from another planet's moon); midday run built and swapped it.",
   "backup_moved_to": "2026-10-22 spare",
-  "photo": "Phobos colour 2008 (NASA/JPL-Caltech/University of Arizona, public domain)"
+  "photo": "Phobos colour 2008 (NASA/JPL-Caltech/University of Arizona, public domain)",
+  "metricool": "updated 15:26 (18:30 post T_1..T_6, 19:30 q4_trend, 19:40 q4_trend_a); times kept"
  }
 }

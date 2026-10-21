@@ -297,7 +297,10 @@ avg watch time (IGRE24), reach, shares, followers gained. If the >3 s rate is st
 ~24–30, do NOT keep the same plan: pick one bigger change (new reel style, trend-driven reels, or propose a small
 paid boost test — Gartal's money, so ask him first) and tell him plainly what changed and why.
 
-## Trial reel hook test (from 2026-10-21, decided 2026-10-20)
+## Trial reel hook test (from 2026-10-21, decided 2026-10-20) — PAUSED 2026-10-21
+PAUSED: the first TRIAL_REEL (2026-10-21 20:00) failed in Metricool: "Trial Reel Not Enough Followers: the instagram
+account does not meet the trial reel follower requirement". Do not schedule TRIAL_REELs until the account qualifies
+(re-test once followers grow, e.g. at the weekly review). Until then, keep putting the number-first hook on the main reels.
 Instagram TRIAL reels are shown only to non-followers and do NOT appear on the profile grid, so they don't count
 as a 6th post. Every day: take the 16:00 reel (facts[1]), write a SECOND hook (different angle, same natural-language
 rules), render it as `out/D/2_reel_trial.mp4` (same beats, new hook) and schedule it at 20:00 with

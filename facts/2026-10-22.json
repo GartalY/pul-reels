@@ -1,6 +1,6 @@
 {
  "date": "2026-10-22",
- "status": "planned",
+ "status": "scheduled",
  "format": "v2",
  "content_format": "v3",
  "planned_note": "Planned in the 2026-10-21 09:10 morning run. Mix: TBG Garnerin first parachute descent 1797 (Tarix), Bir Tawil (Coğrafiya, reel 13:00), first computer bug 1947 (Texnologiya, reel 16:00 + trial reel 20:00), Moon trees (Kosmos, 18:30 card = trend backup), wood frog freezes solid (Təbiət, reel 21:30). No AZ fact tomorrow: 20 and 21 Oct were both Azerbaijan facts plus the Sabah trend.",
@@ -546,5 +546,23 @@
    "answer_image": "out/2026-10-22/q5_a.jpg"
   }
  ],
- "trend_check_evening": "2026-10-21 20:50: news searches (world, Azerbaijan, Champions League) showed no big story our audience is talking about -> no swap; 18:30 Moon trees stays as trend backup for the 09:10 run."
+ "trend_check_evening": "2026-10-21 20:50: news searches (world, Azerbaijan, Champions League) showed no big story our audience is talking about -> no swap; 18:30 Moon trees stays as trend backup for the 09:10 run.",
+ "metricool": {
+  "10:00 tarixdə bu gün carousel (Garnerin)": 402351477,
+  "13:00 reel (Bir Tawil)": 402351553,
+  "16:00 reel (first computer bug)": 402351602,
+  "18:30 carousel (Moon trees, trend backup)": 402351675,
+  "21:30 reel (wood frog)": 402351754,
+  "10:00 tarixdə bu gün story": 402351823,
+  "11:00 quiz q1 (recall Lynne Cox)": 402351846,
+  "11:10 answer a1": 402351860,
+  "14:00 quiz q2": 402351883,
+  "14:10 answer a2": 402351897,
+  "17:00 quiz q3": 402351927,
+  "17:10 answer a3": 402351963,
+  "19:30 quiz q4": 402351988,
+  "19:40 answer a4": 402352007,
+  "22:30 quiz q5": 402352042,
+  "22:40 answer a5": 402352064
+ }
 }

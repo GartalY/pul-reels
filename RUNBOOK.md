@@ -48,6 +48,13 @@ Feed posts (all automatic):
   Evidence 2026-10-20: "Plutonda 1 il = 248 il" 60% · "2 saat 17 dəqiqə nəfəs almadı" 49% (avg watch 19 s, 4 shares)
   vs "Dənizin ortasında 200 km yol" 14%. Winning hooks = a precise, impossible-sounding NUMBER + who/what it is about.
   Vague place/description hooks lose even on Azerbaijani topics — put the number/claim first.
+  BREAKTHROUGH 2026-10-21: "109 İLDİR BAKIYA SU VERİR" (Şollar, Tağıyev) = 972 views, 18 likes, 7 comments within
+  ~20 h (≈8× our normal reel) — strangers argued about the history in the comments. Formula: AZERBAIJANI/BAKU history
+  or everyday-life topic people personally touch (water, metro, buildings, famous Baku figures like Tağıyev) +
+  number-first hook. DECISION: from 2026-10-23 the 13:00 reel (facts[0]) is ALWAYS an Azerbaijan/Baku fact in this
+  formula (history, places, records, inventions, people — never current Azerbaijani politics). Fact-check twice:
+  locals know these stories and WILL correct us in the comments; prefer facts with 2+ independent sources and
+  mention the commonly believed myth if one exists (e.g. "Şollar" is a village, not a person's name).
   Renderer (factgen.py reel, 2026-10-19): hook is fully visible on frame 0 (no fade-in), beat time = reading time
   (0.3 s/word + 0.6 s, min 2.2 s).
   LANGUAGE RULE (Gartal, 2026-10-19) — overrides any word limit: every beat is 1–2 COMPLETE, NATURAL Azerbaijani

@@ -101,3 +101,10 @@ search_woodfrog.json https://commons.wikimedia.org/w/api.php?action=query&format
 2026-10-23_search_pheropsophus.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Pheropsophus%20jessoensis
 2026-10-23_earthrise_unsplash.jpg https://images.unsplash.com/photo-1614729939124-032f0b56c9ce?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=2000
 2026-10-23_ipod_unsplash.jpg https://images.unsplash.com/photo-1548122038-f8ba35ae8420?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=1600
+2026-10-22_T_como_a.jpg https://upload.wikimedia.org/wikipedia/commons/3/3e/The_Stadio_Sinigaglia_with_Lago_di_Como_in_the_background_during_a_Serie_B_match_between_Como_and_Reggina_in_1914_%282022%29.jpg
+2026-10-22_T_como_b.jpg https://upload.wikimedia.org/wikipedia/commons/5/53/Estadio_Giuseppe_Sinigaglia_2026.jpg
+2026-10-23_ipod_a.jpg https://upload.wikimedia.org/wikipedia/commons/0/05/Apple_historic_iPod.JPG
+2026-10-23_ipod_b.jpg https://upload.wikimedia.org/wikipedia/commons/f/f1/IPod_first_generation_click-wheel-2004-11-30.jpg
+2026-10-23_beetle_a.jpg https://upload.wikimedia.org/wikipedia/commons/6/68/Pheropsophus_%28Stenaptinus%29_jessoensis.jpg
+2026-10-23_beetle_b.jpg https://upload.wikimedia.org/wikipedia/commons/2/26/Manchaca_Brachinus_-_bombardier_beetle_02.jpg
+2026-10-23_zadeh_a.png https://upload.wikimedia.org/wikipedia/commons/3/3e/Lotfi_A._Zadeh_stamp_2021.png

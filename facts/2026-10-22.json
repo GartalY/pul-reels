@@ -366,87 +366,7 @@
   "trial_time": "20:00",
   "status": "dropped: Instagram refused the 2026-10-21 20:00 TRIAL_REEL (account below trial-reel follower requirement); no trial reel until the account qualifies"
  },
- "spare": [
-  {
-   "n": 3,
-   "type": "card",
-   "cat": "Təbiət",
-   "subject": "Pando, Utah: one quaking aspen clone, ~47,000 genetically identical stems on one root system, ~106 acres (~43 ha), ~6,000 t (13.3 million lb); stems live ~130-150 years; deer/elk browsing, ~80% fenced",
-   "photo_request": "Pando ağcaqovaq meşəsi",
-   "title": "Bu meşə bir ağacdır",
-   "text": "ABŞ-ın Yuta ştatında 47 000 ağac kimi görünən şey əslində tək bir canlıdır. Hamısının kökü birdir.",
-   "slides": [
-    {
-     "h": "47 000",
-     "t": "Pandoda təxminən 47 000 gövdə var. Hamısı genetik olaraq eynidir və eyni kökdən çıxır. Yəni bu, meşə yox, bir ağacdır."
-    },
-    {
-     "h": "43 hektar",
-     "t": "Pando təxminən 43 hektar yer tutur. Bu, təxminən 60 futbol meydançası qədərdir."
-    },
-    {
-     "h": "6 000 ton",
-     "t": "Alimlər onun çəkisini təxminən 6 000 ton hesablayır. Bu, onu dünyanın ən ağır canlılarından biri edir."
-    },
-    {
-     "h": "130 il",
-     "t": "Hər gövdə təxminən 130–150 il yaşayır, sonra kökdən yenisi çıxır. Amma marallar cavan gövdələri yeyir. Ona görə ərazinin çox hissəsi hasara alınıb."
-    }
-   ],
-   "caption": "Bu meşə əslində tək bir ağacdır 🌳\n\nYuta ştatındakı Pando adlı ağcaqovaq meşəsində təxminən 47 000 gövdə var. Hamısı genetik olaraq eynidir və bir kök sistemindən böyüyür. Bu canlı təxminən 6 000 ton çəkir və 43 hektar yer tutur. Hər gövdə 130–150 il yaşayır, sonra yerinə kökdən yenisi çıxır.\n\n📩 Meşəyə gedib «ağaclar çox gözəldir» deyən dostuna göndər — qoy bilsin, ağac birdir 😄\n\nFoto: USDA Forest Service / Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #təbiət #ağac #amerika",
-   "first_comment": "Bunu bilirdin, yoxsa indi öyrəndin? 👇",
-   "quizzes": [
-    {
-     "q": "Pandoda təxminən neçə gövdə var?",
-     "options": [
-      "4 700",
-      "47 000",
-      "470 000"
-     ],
-     "answer": "47 000",
-     "why": "Hamısı eyni kök sistemindən çıxır."
-    },
-    {
-     "q": "Pandonun çəkisi təxminən nə qədərdir?",
-     "options": [
-      "60 ton",
-      "600 ton",
-      "6 000 ton"
-     ],
-     "answer": "6 000 ton",
-     "why": "Dünyanın ən ağır canlılarından biri sayılır."
-    },
-    {
-     "q": "Pandonun hər gövdəsi təxminən neçə il yaşayır?",
-     "options": [
-      "13–15 il",
-      "130–150 il",
-      "1 300–1 500 il"
-     ],
-     "answer": "130–150 il",
-     "why": "Sonra yerinə kökdən yeni gövdə çıxır."
-    }
-   ],
-   "sources": [
-    "https://www.friendsofpando.org/thepandotree/facts-about-pando/",
-    "https://www.earthdate.org/pando-a-forest-of-one",
-    "https://www.sciencealert.com/the-world-s-largest-organism-is-slowly-being-eaten-scientist-says"
-   ],
-   "verify_note": "47,000 stems, 106 acres (=42.9 ha), 13.3 million lb dry weight (≈6,000 t), stems 130–150 years, deer/elk browsing, ~80% fenced: Friends of Pando; 47,000 / 6,000 t also in the search-result summaries of other outlets. Age estimates vary widely (9,000 to tens of thousands of years) -> age NOT used. 43 ha / 0.714 ha per pitch ≈ 60.",
-   "photo": {
-    "path": "fetch/img/2026-10-21_pando_b.jpg",
-    "credit": "USDA Forest Service / Wikimedia Commons (ictimai mülkiyyət)",
-    "cy": 0.5,
-    "full": true,
-    "source": "https://commons.wikimedia.org/wiki/File:Pando_in_the_Fall_(11937950814).jpg",
-    "alt": "fetch/img/2026-10-21_pando_a.jpg (trunk close-up, Lance Oditt / Friends of Pando, CC BY-SA 4.0)"
-   },
-   "cover": {
-    "hook": "Bu meşə əslində tək bir ağacdır",
-    "sub": "Pando, Yuta (ABŞ) · 47 000 gövdə, bir kök"
-   }
-  }
- ],
+ "spare": [],
  "language_fix": {
   "reel_hooks_number_first": {
    "0": {
@@ -564,5 +484,93 @@
   "19:40 answer a4": 402352007,
   "22:30 quiz q5": 402352042,
   "22:40 answer a5": 402352064
- }
+ },
+ "trend": {
+  "n": "T",
+  "type": "card",
+  "format": "v2",
+  "cat": "İdman",
+  "subject": "Como 4-1 Manchester United, UCL league phase MD3, Stadio Sinigaglia, 21 Oct 2026 (Paz 2' & 57', Douvikas 49', Jacobo Ramón 76'; Zirkzee 90+1'). Como bankrupt 2016-17, restarted in Serie D 2017/18; bought by SENT Entertainment (Hartono brothers, Indonesia) 4 Apr 2019 while in Serie D; Serie D title 2018/19, Serie C title 2020/21, Serie A 2024 after 21 years; 4th in Serie A 2025-26 -> first ever UCL season; coach Cesc Fàbregas",
+  "photo_request": "Stadio Sinigaglia, Como, lake",
+  "title": "7 il əvvəl 4-cü liqada idi",
+  "text": "İtaliyanın «Komo» klubu dünən Çempionlar Liqasında «Mançester Yunayted»i 4:1 hesabı ilə məğlub etdi. 2017-ci ildə bu klub 4-cü liqadan yenidən başlamışdı.",
+  "cover": {
+   "hook": "Bu klub 7 il əvvəl 4-cü liqada idi",
+   "sub": "Komo 4:1 Mançester Yunayted · Çempionlar Liqası"
+  },
+  "slides": [
+   {
+    "h": "4:1",
+    "t": "Dünən Çempionlar Liqasında İtaliyanın «Komo» klubu «Mançester Yunayted»i 4:1 hesabı ilə məğlub etdi. Niko Pas iki qol vurdu, ilk qolu 2-ci dəqiqədə."
+   },
+   {
+    "h": "2017",
+    "t": "2017-ci ildə klub müflis olmuşdu. Ona görə İtaliyanın 4-cü liqası olan Seriya D-dən yenidən başladı. 2019-cu ildə klubu İndoneziyalı Hartono qardaşlarının şirkəti aldı."
+   },
+   {
+    "h": "21 il",
+    "t": "Sonra Komo pillə-pillə yuxarı qalxdı: 2019-da Seriya C, 2021-də Seriya B. 2024-cü ildə isə 21 il sonra yenidən Seriya A-ya qayıtdı. Baş məşqçisi Sesk Fabreqasdır."
+   },
+   {
+    "h": "4-cü yer",
+    "t": "Keçən mövsüm Komo Seriya A-da 4-cü oldu və tarixində ilk dəfə Çempionlar Liqasına düşdü. Onun stadionu «Old Trafford»dan 6 dəfədən də kiçikdir."
+   }
+  ],
+  "caption": "7 il əvvəl 4-cü liqada oynayan klub «Mançester Yunayted»i 4:1 uddu ⚽\n\nDünən Çempionlar Liqasında «Komo» öz meydanında «Mançester Yunayted»i 4:1 hesabı ilə məğlub etdi. Niko Pas 2-ci və 57-ci dəqiqələrdə qol vurdu. 2017-ci ildə müflis olan klub İtaliyanın 4-cü liqasından yenidən başlamışdı. İndi isə tarixində ilk dəfə Çempionlar Liqasında oynayır.\n\n📩 Hər mövsüm «bu il bizim ilimizdir» deyən azarkeş dostuna göndər 😄\n\nFoto: Vincenzo.togni / Wikimedia Commons (CC BY-SA 4.0)\n\n#bilirdinizmi #maraqlıfaktlar #futbol #çempionlarliqası #italiya",
+  "first_comment": "Sənin sevdiyin komanda hansıdır? 👇",
+  "quizzes": [
+   {
+    "q": "Komo «Mançester Yunayted»i hansı hesabla uddu?",
+    "options": [
+     "2:1",
+     "3:0",
+     "4:1"
+    ],
+    "answer": "4:1",
+    "why": "Niko Pas iki qol vurdu."
+   },
+   {
+    "q": "2017-ci ildə Komo hansı liqadan yenidən başladı?",
+    "options": [
+     "Seriya B",
+     "Seriya C",
+     "Seriya D"
+    ],
+    "answer": "Seriya D",
+    "why": "Klub müflis olmuşdu, 4-cü liqadan başladı."
+   },
+   {
+    "q": "Komo neçə il sonra Seriya A-ya qayıtdı?",
+    "options": [
+     "7 il",
+     "14 il",
+     "21 il"
+    ],
+    "answer": "21 il",
+    "why": "2024-cü ildə yenidən Seriya A-ya çıxdı."
+   }
+  ],
+  "sources": [
+   "https://www.skysports.com/football/news/13600997/como-4-1-man-utd-michael-carricks-side-ripped-apart-in-italy-during-champions-league-hammering",
+   "https://www.uefa.com/uefachampionsleague/news/02aa-21e20b093685-f5cf9ebeb7a6-1000--champions-league-matchday-3-wednesday-highlights-and-rou/",
+   "https://www.espn.com/soccer/story/_/id/50242182/fabregas-paz-dedicate-como-historic-manchester-united-fans",
+   "https://comofootball.com/en/history/",
+   "https://www.calcioefinanza.it/?p=44588",
+   "https://www.flashscore.com/news/soccer-serie-a-como-1907-return-to-serie-a-with-ambitious-new-owners-and-familiar-faces/EaLzPJI0",
+   "https://seasia.co/2026/09/15/the-long-road-of-como-1907-to-the-uefa-champions-league"
+  ],
+  "verify_note": "Score/scorers/minutes: Sky Sports (Paz 2', Douvikas 49', Paz 57', Jacobo Ramón 76', Zirkzee 90+1') + UEFA round-up. Home match at Stadio Sinigaglia, debut UCL season, Paz POTM: ESPN. Bankruptcy after 2016-17, Serie D start 2017/18, SENT Entertainment takeover 4 Apr 2019, Serie D title 2018/19, Serie C title 2020-21, Serie A 2023-24: official comofootball.com history; takeover while in Serie D: Calcio e Finanza. 21 years away from Serie A, Djarum/Hartono owners: Flashscore. 4th in Serie A 2025-26, first UCL: seasia.co + soccernews (Paz helped Como finish fourth). '7 il əvvəl 4-cü liqada' = Serie D season 2018/19 (finished spring 2019). Stadium capacity varies by source (ESPN ~10,000; seasia ~12,064) vs Old Trafford ~74,000 -> wrote '6 dəfədən də kiçik' (true for both). Takeover price varies by source -> not used. Hartono death (Mar 2026) not used. Chosen over Galatasaray 4-2 Lille (Turkish link, but no strong twist) and world politics (Ukraine talks, European cost-of-living protests): Man United losing 4-1 to a club that was in the 4th tier 7 years ago is the most-talked-about, number-first story; Man Utd is widely followed in Azerbaijan.",
+  "photo": {
+   "path": "fetch/img/2026-10-22_T_como_a.jpg",
+   "credit": "Vincenzo.togni / Wikimedia Commons (CC BY-SA 4.0)",
+   "cy": 0.55,
+   "full": true,
+   "source": "https://commons.wikimedia.org/wiki/File:The_Stadio_Sinigaglia_with_Lago_di_Como_in_the_background_during_a_Serie_B_match_between_Como_and_Reggina_in_1914_(2022).jpg",
+   "alt": "fetch/img/2026-10-22_T_como_b.jpg (stadium gate, Byxelized, CC BY-SA 4.0; EXIF-rotated, needs transpose)"
+  }
+ },
+ "trend_check_morning": "2026-10-22 09:15-09:40 Baku: searched world news, Azerbaijan news, Champions League MD3. Big stories: Como 4-1 Man United (picked as trend), Galatasaray 4-2 at Lille, Real Madrid 4-1 Leipzig (Arda Güler scored), Bayern 2-2 Arsenal; world: Ukraine peace push, cost-of-living protests in Europe, Ebola in Nigeria. Nothing that needs an immediate swap of another slot (no AZ-wide breaking story); the 18:30 Moon trees backup will be replaced by the Como trend at 15:23.",
+ "spare_moved": [
+  "Pando -> 2026-10-23 facts[2] (18:30 backup)"
+ ]
 }

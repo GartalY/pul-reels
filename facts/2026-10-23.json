@@ -106,7 +106,7 @@
     "Adi kompüter yalnız «hə» və ya «yox» bilir. Zadənin ideyası ilə maşın «bir az isti», «təxminən dolu» kimi ara halları da başa düşür.",
     "Bu gün bəzi paltaryuyan maşınlar və kondisionerlər bu ideya ilə işləyir. Sənin evində belə ağıllı cihaz varmı?"
    ],
-   "caption": "Paltaryuyan maşınının «beynində» bakılı alimin ideyası ola bilər 🧠\n\nLütfi Zadə 1921-ci ildə Bakıda doğulub. 1965-ci ildə ABŞ-da «qeyri-səlis məntiq» ideyasını irəli sürdü: maşın təkcə «hə» və «yox» yox, ara halları da başa düşür. Onun bu məqaləsinə alimlər 90 mindən çox dəfə istinad ediblər. 1987-ci ildə Yaponiyanın Sendai şəhərində metro qatarları da bu ideya ilə idarə olunmağa başladı.\n\n📩 Hər suala «təxminən» deyə cavab verən dostuna göndər 😄\n\nFoto: Azərmarka / Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #azərbaycan #bakı #elm",
+   "caption": "Paltaryuyan maşınının «beynində» bakılı alimin ideyası ola bilər 🧠\n\nLütfi Zadə 1921-ci ildə Bakıda doğulub. 1965-ci ildə ABŞ-da «qeyri-səlis məntiq» ideyasını irəli sürdü: maşın təkcə «hə» və «yox» yox, ara halları da başa düşür. Onun bu məqaləsinə alimlər 90 mindən çox dəfə istinad ediblər. 1987-ci ildə Yaponiyanın Sendai şəhərində metro qatarları da bu ideya ilə idarə olunmağa başladı.\n\n📩 Hər suala «təxminən» deyə cavab verən dostuna göndər 😄\n\n👉 Hər gün 13:00-da Azərbaycan haqqında bilmədiyin bir fakt — izlə ki, qaçırmayasan\n\nFoto: Azərmarka / Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #azərbaycan #bakı #elm",
    "first_comment": "Lütfi Zadənin adını əvvəl eşitmişdin? 👇",
    "quizzes": [
     {
@@ -153,7 +153,9 @@
     "full": false,
     "source": "https://commons.wikimedia.org/wiki/File:Lotfi_A._Zadeh_stamp_2021.png",
     "note": "703x493 stamp (Azerbaijan 2021, 100th anniversary) -> use framed (full:false). Other Commons portraits are tiny (425 px) or press photos (NYT) -> not used."
-   }
+   },
+   "reel_cta": "Hər gün 13:00-da yeni Bakı faktı — izlə!",
+   "reel_hook_bg": true
   },
   {
    "n": 2,
@@ -358,7 +360,8 @@
     "full": true,
     "source": "https://commons.wikimedia.org/wiki/File:Pheropsophus_(Stenaptinus)_jessoensis.jpg",
     "alt": "fetch/img/2026-10-23_beetle_b.jpg (Brachinus, VPaleontologist, CC BY-SA 4.0)"
-   }
+   },
+   "reel_hook_bg": true
   }
  ],
  "language_fix": {
@@ -443,6 +446,89 @@
     "note": "Original Apollo 14 sycamore Moon tree planted 1976, Core Creek State Park PA (portrait).",
     "alt": "fetch/img/2026-10-22_moontree_a.jpg (2nd-generation loblolly seedling dedicated by the Artemis II crew at JSC, June 2026, NASA/James Blair, public domain)"
    }
+  }
+ ],
+ "trend_check_evening": "2026-10-22 20:50 Baku: searched world news, Azerbaijan news (AZ/EN), Qarabağ, breaking news. No big story our audience is talking about that needs a swap for 23 Oct; 18:30 Pando stays as trend backup for the 09:10 run. iPod 25th anniversary (10:00 TBG) is itself a timely hook.",
+ "stories": [
+  {
+   "time": "11:00",
+   "fact_id": "2026-10-16-T",
+   "recall": true,
+   "cat": "Texnologiya",
+   "q": "Yeni Tesla Roadster nə ilə havaya qalxır?",
+   "options": [
+    "Raket yanacağı",
+    "Sıxılmış hava",
+    "Pervanələr"
+   ],
+   "answer": "Sıxılmış hava",
+   "why": "Tesla-ya görə, SpaceX ilə birgə hazırlanan itələyicilər yanacaq yox, sıxılmış hava üfürür.",
+   "image": "out/2026-10-23/q1.jpg",
+   "answer_image": "out/2026-10-23/q1_a.jpg"
+  },
+  {
+   "time": "14:00",
+   "fact_id": "2026-10-23-1",
+   "recall": false,
+   "cat": "Azərbaycan",
+   "q": "Lütfi Zadə «qeyri-səlis məntiq» ideyasını hansı ildə irəli sürdü?",
+   "options": [
+    "1945",
+    "1965",
+    "1985"
+   ],
+   "answer": "1965",
+   "why": "«Fuzzy Sets» məqaləsi 1965-ci ildə çıxdı.",
+   "image": "out/2026-10-23/q2.jpg",
+   "answer_image": "out/2026-10-23/q2_a.jpg"
+  },
+  {
+   "time": "17:00",
+   "fact_id": "2026-10-23-2",
+   "recall": false,
+   "cat": "Kosmos",
+   "q": "1,4 milyard il əvvəl Yerdə bir gün təxminən neçə saat idi?",
+   "options": [
+    "12 saat",
+    "18 saat",
+    "30 saat"
+   ],
+   "answer": "18 saat",
+   "why": "Yer o vaxt daha sürətlə fırlanırdı.",
+   "image": "out/2026-10-23/q3.jpg",
+   "answer_image": "out/2026-10-23/q3_a.jpg"
+  },
+  {
+   "time": "19:30",
+   "fact_id": "2026-10-23-3",
+   "recall": false,
+   "cat": "Təbiət",
+   "q": "Pandoda təxminən neçə gövdə var?",
+   "options": [
+    "4 700",
+    "47 000",
+    "470 000"
+   ],
+   "answer": "47 000",
+   "why": "Hamısı eyni kök sistemindən çıxır.",
+   "image": "out/2026-10-23/q4.jpg",
+   "answer_image": "out/2026-10-23/q4_a.jpg"
+  },
+  {
+   "time": "22:30",
+   "fact_id": "2026-10-23-4",
+   "recall": false,
+   "cat": "Təbiət",
+   "q": "Bombardir böcəyinin mayesi təxminən neçə dərəcə olur?",
+   "options": [
+    "40 °C",
+    "70 °C",
+    "100 °C"
+   ],
+   "answer": "100 °C",
+   "why": "Qarnındakı kimyəvi reaksiya onu qızdırır.",
+   "image": "out/2026-10-23/q5.jpg",
+   "answer_image": "out/2026-10-23/q5_a.jpg"
   }
  ]
 }

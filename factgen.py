@@ -118,6 +118,11 @@ def reel(photo, out, c):
             a = 1 - ease((t - hook_end) / 0.3)   # no fade-in: frame 0 = thumbnail = hook
             col = tuple(int(255 * a) for _ in range(3))
             lines = wrap(d, c["hook"], F("Black", 84), W - 100)
+            if c.get("hook_bg"):   # 2026-10-22: dark band behind the hook for bright/busy photos
+                box = (30, 200, W - 30, 230 + len(lines) * 108 + 20)
+                reg = fr.crop(box)
+                fr.paste(Image.blend(reg, Image.new("RGB", reg.size, (12, 14, 22)), 0.72 * a), box[:2])
+                d = ImageDraw.Draw(fr)
             for k, ln in enumerate(lines):
                 d.text(((W - d.textlength(ln, font=F("Black", 84))) / 2, 230 + k * 108), ln, font=F("Black", 84),
                        fill=tuple(int(x * a) for x in GOLD))

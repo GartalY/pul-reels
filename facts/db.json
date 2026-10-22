@@ -238,6 +238,10 @@
     {
      "date": "2026-10-17",
      "qi": 1
+    },
+    {
+     "date": "2026-10-23",
+     "qi": 0
     }
    ]
   },
@@ -1038,45 +1042,6 @@
    ]
   },
   {
-   "id": "2026-10-22-3",
-   "date": "2026-10-22",
-   "subject": "Moon trees: Apollo 14 (1971) CMP Stuart Roosa, ex-USFS smokejumper, carried several hundred seeds (~500 per species per NASA) of 5 species (sycamore, loblolly pine, sweetgum, redwood, Douglas fir) in lunar orbit; bags burst during decontamination, seeds hand-sorted, most germinated; 1975-76 Bicentennial plantings in 40 states; ~90 trees accounted for",
-   "cat": "Kosmos",
-   "quizzes": [
-    {
-     "q": "Ay ağaclarının toxumunu kosmosa kim apardı?",
-     "options": [
-      "Styuart Rusa",
-      "Nil Armstronq",
-      "Bazz Oldrin"
-     ],
-     "answer": "Styuart Rusa",
-     "why": "Apollo 14 uçuşunda, 1971-ci ildə."
-    },
-    {
-     "q": "Toxumlar hansı uçuşda kosmosa getdi?",
-     "options": [
-      "Apollo 11",
-      "Apollo 14",
-      "Apollo 17"
-     ],
-     "answer": "Apollo 14",
-     "why": "Toxumlar Ayın ətrafında fırlanan gəmidə qaldı."
-    },
-    {
-     "q": "Rusa gəncliyində kim işləmişdi?",
-     "options": [
-      "Yanğınsöndürən",
-      "Aşpaz",
-      "Müəllim"
-     ],
-     "answer": "Yanğınsöndürən",
-     "why": "Meşə yanğınlarına paraşütlə enirdi."
-    }
-   ],
-   "asked": []
-  },
-  {
    "id": "2026-10-22-4",
    "date": "2026-10-22",
    "subject": "Wood frog (Lithobates sylvaticus) freezes in winter: heart stops, breathing stops for months; up to ~60% of body water freezes; glucose up to 10x normal acts as antifreeze; Alaska up to 7 months; thaws in spring, fully functional within ~10 hours",
@@ -1161,6 +1126,182 @@
     {
      "date": "2026-10-22",
      "qi": 1
+    }
+   ]
+  },
+  {
+   "id": "2026-10-23-1",
+   "date": "2026-10-23",
+   "subject": "Lotfi A. Zadeh (Lütfi Zadə), born in Baku 1921, Berkeley professor, published 'Fuzzy Sets' in 1965 (fuzzy logic: degrees of truth instead of only yes/no); cited >90,000 times; used in washing machines, air conditioners, rice cookers, car transmissions; Hitachi fuzzy train control on the Sendai subway from 1987; died 2017 aged 96",
+   "cat": "Azərbaycan",
+   "quizzes": [
+    {
+     "q": "Lütfi Zadə «qeyri-səlis məntiq» ideyasını hansı ildə irəli sürdü?",
+     "options": [
+      "1945",
+      "1965",
+      "1985"
+     ],
+     "answer": "1965",
+     "why": "«Fuzzy Sets» məqaləsi 1965-ci ildə çıxdı."
+    },
+    {
+     "q": "Lütfi Zadə hansı şəhərdə doğulub?",
+     "options": [
+      "Bakı",
+      "Gəncə",
+      "Təbriz"
+     ],
+     "answer": "Bakı",
+     "why": "1921-ci ildə Bakıda doğulub."
+    },
+    {
+     "q": "Hansı şəhərin metrosu 1987-ci ildə bu ideya ilə işləməyə başladı?",
+     "options": [
+      "Tokio",
+      "Sendai",
+      "Moskva"
+     ],
+     "answer": "Sendai",
+     "why": "Yaponiyada, Hitachi şirkətinin sistemi ilə."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-23",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-23-2",
+   "date": "2026-10-23",
+   "subject": "1.4 billion years ago a day on Earth lasted just over 18 hours (Meyers & Malinverno, PNAS, June 2018, astrochronology of the Xiamaling Formation, northern China); tidal friction from the Moon slows Earth's spin while the Moon recedes ~3.82 cm per year",
+   "cat": "Kosmos",
+   "quizzes": [
+    {
+     "q": "1,4 milyard il əvvəl Yerdə bir gün təxminən neçə saat idi?",
+     "options": [
+      "12 saat",
+      "18 saat",
+      "30 saat"
+     ],
+     "answer": "18 saat",
+     "why": "Yer o vaxt daha sürətlə fırlanırdı."
+    },
+    {
+     "q": "Ay hər il Yerdən təxminən nə qədər uzaqlaşır?",
+     "options": [
+      "3,8 mm",
+      "3,8 sm",
+      "3,8 m"
+     ],
+     "answer": "3,8 sm",
+     "why": "Bu zaman Yerin fırlanması da ləngiyir."
+    },
+    {
+     "q": "Alimlər qədim günün uzunluğunu nədən hesabladılar?",
+     "options": [
+      "Süxur qatlarından",
+      "Buzlaqlardan",
+      "Ağac köklərindən"
+     ],
+     "answer": "Süxur qatlarından",
+     "why": "Çində 1,4 milyard illik süxurları öyrəndilər."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-23",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-23-3",
+   "date": "2026-10-23",
+   "subject": "Pando, Utah: one quaking aspen clone, ~47,000 genetically identical stems on one root system, ~106 acres (~43 ha), ~6,000 t (13.3 million lb); stems live ~130-150 years; deer/elk browsing, ~80% fenced",
+   "cat": "Təbiət",
+   "quizzes": [
+    {
+     "q": "Pandoda təxminən neçə gövdə var?",
+     "options": [
+      "4 700",
+      "47 000",
+      "470 000"
+     ],
+     "answer": "47 000",
+     "why": "Hamısı eyni kök sistemindən çıxır."
+    },
+    {
+     "q": "Pandonun çəkisi təxminən nə qədərdir?",
+     "options": [
+      "60 ton",
+      "600 ton",
+      "6 000 ton"
+     ],
+     "answer": "6 000 ton",
+     "why": "Dünyanın ən ağır canlılarından biri sayılır."
+    },
+    {
+     "q": "Pandonun hər gövdəsi təxminən neçə il yaşayır?",
+     "options": [
+      "13–15 il",
+      "130–150 il",
+      "1 300–1 500 il"
+     ],
+     "answer": "130–150 il",
+     "why": "Sonra yerinə kökdən yeni gövdə çıxır."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-23",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-23-4",
+   "date": "2026-10-23",
+   "subject": "Bombardier beetles spray a boiling (~100 °C) irritating mix (hydroquinones + hydrogen peroxide meet enzymes in a reaction chamber -> p-benzoquinones), pulsed ~368-735 times per second (Arndt et al., Science 2015, MIT); in Japan (Sugiura & Sato, Biology Letters 2018) ~43% of toads that swallowed Pheropsophus jessoensis vomited them alive, after ~40 min on average, one after 107 min",
+   "cat": "Təbiət",
+   "quizzes": [
+    {
+     "q": "Bombardir böcəyinin mayesi təxminən neçə dərəcə olur?",
+     "options": [
+      "40 °C",
+      "70 °C",
+      "100 °C"
+     ],
+     "answer": "100 °C",
+     "why": "Qarnındakı kimyəvi reaksiya onu qızdırır."
+    },
+    {
+     "q": "Böcəyin içində saniyədə təxminən neçə partlayış olur?",
+     "options": [
+      "5",
+      "50",
+      "500"
+     ],
+     "answer": "500",
+     "why": "Hər partlayış mayeni çölə itələyir."
+    },
+    {
+     "q": "Böcəyi udan qurbağaların təxminən nə qədəri onu geri qusdu?",
+     "options": [
+      "4 faizi",
+      "43 faizi",
+      "93 faizi"
+     ],
+     "answer": "43 faizi",
+     "why": "Böcək qurbağanın mədəsində də püskürürdü."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-23",
+     "qi": 0
     }
    ]
   }

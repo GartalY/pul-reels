@@ -481,7 +481,6 @@
   "10:00 tarixdə bu gün carousel (Garnerin)": 402351477,
   "13:00 reel (Bir Tawil)": 402351553,
   "16:00 reel (first computer bug)": 402351602,
-  "18:30 carousel (Moon trees, trend backup)": 402351675,
   "21:30 reel (wood frog)": 402351754,
   "10:00 tarixdə bu gün story": 402351823,
   "11:00 quiz q1 (recall Lynne Cox)": 402351846,
@@ -490,10 +489,11 @@
   "14:10 answer a2": 402351897,
   "17:00 quiz q3": 402351927,
   "17:10 answer a3": 402351963,
-  "19:30 quiz q4": 402351988,
-  "19:40 answer a4": 402352007,
   "22:30 quiz q5": 402352042,
-  "22:40 answer a5": 402352064
+  "22:40 answer a5": 402352064,
+  "18:30 carousel (TREND: Como 4-1 Man Utd)": 403050542,
+  "19:30 quiz q4_trend": 403050580,
+  "19:40 answer a4_trend": 403050610
  },
  "trend": {
   "n": "T",
@@ -669,6 +669,6 @@
   "why": "Morning trend confirmed (UCL MD3, Man Utd widely followed in AZ); midday run built and swapped it.",
   "backup_moved_to": "2026-10-23 spare",
   "photo": "Stadio Sinigaglia + Lake Como (Vincenzo.togni / Wikimedia Commons, CC BY-SA 4.0)",
-  "metricool": "pending"
+  "metricool": "updated 15:27 (18:30 post T_1..T_6, 19:30 q4_trend, 19:40 q4_trend_a); times kept"
  }
 }

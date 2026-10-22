@@ -1,6 +1,6 @@
 {
  "date": "2026-10-23",
- "status": "planned",
+ "status": "scheduled",
  "format": "v2",
  "content_format": "v3",
  "planned_note": "Planned in the 2026-10-22 09:10 morning run. TBG iPod 25th anniversary (Texnologiya, 10:00 carousel + story), Lütfi Zadə fuzzy logic (Azərbaycan, reel 13:00), 18-hour day 1.4 billion years ago (Kosmos, reel 16:00), Pando one-tree forest (Təbiət, 18:30 card = trend backup, moved from 2026-10-22 spare; already verified, photo fetched), bombardier beetle 100 °C spray (Təbiət, reel 21:30, most surprising). AZ fact included (22 Oct had none). No trial reel (paused).",
@@ -530,5 +530,24 @@
    "image": "out/2026-10-23/q5.jpg",
    "answer_image": "out/2026-10-23/q5_a.jpg"
   }
- ]
+ ],
+ "metricool": {
+  "10:00 tarixdə bu gün carousel (iPod 25 il)": 403361058,
+  "13:00 reel (Lütfi Zadə)": 403361145,
+  "16:00 reel (18-hour day)": 403361265,
+  "18:30 carousel (Pando, trend backup)": 403361324,
+  "21:30 reel (bombardier beetle)": 403361409,
+  "10:00 tarixdə bu gün story": 403361501,
+  "11:00 quiz q1 (recall Tesla Roadster)": 403361516,
+  "11:10 answer a1": 403361563,
+  "14:00 quiz q2": 403361596,
+  "14:10 answer a2": 403361628,
+  "17:00 quiz q3": 403361669,
+  "17:10 answer a3": 403361710,
+  "19:30 quiz q4": 403361754,
+  "19:40 answer a4": 403361802,
+  "22:30 quiz q5": 403361833,
+  "22:40 answer a5": 403361865
+ },
+ "build_note": "2026-10-22 evening: reels 1 & 4 rendered with hook_bg (dark band behind hook: beetle photo too bright, Zadeh hook overlapped the stamp). Moon trees (2026-10-22-3, never posted) removed from facts/db.json recall pool."
 }

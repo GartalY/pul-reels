@@ -363,5 +363,86 @@
  ],
  "language_fix": {
   "note": "Self-check 2026-10-22 morning: beetle beats rewritten (removed 'qaynar … qaynardır' repeat and awkward 'fasilə ilə çıxır')."
- }
+ },
+ "spare": [
+  {
+   "n": 3,
+   "type": "card",
+   "cat": "Kosmos",
+   "subject": "Moon trees: Apollo 14 (1971) CMP Stuart Roosa, ex-USFS smokejumper, carried several hundred seeds (~500 per species per NASA) of 5 species (sycamore, loblolly pine, sweetgum, redwood, Douglas fir) in lunar orbit; bags burst during decontamination, seeds hand-sorted, most germinated; 1975-76 Bicentennial plantings in 40 states; ~90 trees accounted for",
+   "photo_request": "Apollo 14 Moon Tree",
+   "title": "Ayın ətrafında uçan ağaclar",
+   "text": "1971-ci ildə astronavt Styuart Rusa özü ilə yüzlərlə ağac toxumu apardı. Sonra onlardan ABŞ-da ağaclar böyüdü.",
+   "cover": {
+    "hook": "Bu ağacların toxumu Ayın ətrafında uçub",
+    "sub": "Apollo 14 · 1971 · 5 növ ağac"
+   },
+   "slides": [
+    {
+     "h": "1971",
+     "t": "Apollo 14 uçuşunda Styuart Rusa Ayın ətrafında fırlanan gəmidə qaldı. Onun şəxsi çantasında 5 növ ağacın yüzlərlə toxumu var idi."
+    },
+    {
+     "h": "Yanğınsöndürən",
+     "t": "Rusa gəncliyində ABŞ Meşə Xidmətində işləmişdi. O, meşə yanğınlarına paraşütlə enən yanğınsöndürən idi. Toxumları da bu xidmət üçün aparmışdı."
+    },
+    {
+     "h": "Dağıldı",
+     "t": "Yerə qayıdandan sonra yoxlama zamanı toxum torbaları partladı və toxumlar dağıldı. Alimlər onları əllə yığıb ayırdılar. Çoxu cücərdi."
+    },
+    {
+     "h": "40 ştat",
+     "t": "1976-cı ildə bu tinglər ABŞ-ın 40 ştatında əkildi. Bu gün onlardan təxminən 90-ının yeri məlumdur. Onlara «Ay ağacları» deyirlər."
+    }
+   ],
+   "caption": "Bu ağacların toxumu Ayın ətrafında uçub 🌳\n\n1971-ci ildə Apollo 14 astronavtı Styuart Rusa özü ilə 5 növ ağacın yüzlərlə toxumunu apardı. Toxumlar Ayın ətrafında fırlanan gəmidə onunla birlikdə uçdu. Yerə qayıdandan sonra onları əkdilər və 1976-cı ildə tinglər ABŞ-ın 40 ştatında əkildi. Bu ağaclara indi «Ay ağacları» deyirlər.\n\n📩 Evdə bir gül belə saxlaya bilməyən dostuna göndər 😄\n\nFoto: Plefkag / Wikimedia Commons (CC0)\n\n#bilirdinizmi #maraqlıfaktlar #kosmos #ağac #nasa",
+   "first_comment": "Sən kosmosdan nə gətirmək istərdin? 👇",
+   "quizzes": [
+    {
+     "q": "Ay ağaclarının toxumunu kosmosa kim apardı?",
+     "options": [
+      "Styuart Rusa",
+      "Nil Armstronq",
+      "Bazz Oldrin"
+     ],
+     "answer": "Styuart Rusa",
+     "why": "Apollo 14 uçuşunda, 1971-ci ildə."
+    },
+    {
+     "q": "Toxumlar hansı uçuşda kosmosa getdi?",
+     "options": [
+      "Apollo 11",
+      "Apollo 14",
+      "Apollo 17"
+     ],
+     "answer": "Apollo 14",
+     "why": "Toxumlar Ayın ətrafında fırlanan gəmidə qaldı."
+    },
+    {
+     "q": "Rusa gəncliyində kim işləmişdi?",
+     "options": [
+      "Yanğınsöndürən",
+      "Aşpaz",
+      "Müəllim"
+     ],
+     "answer": "Yanğınsöndürən",
+     "why": "Meşə yanğınlarına paraşütlə enirdi."
+    }
+   ],
+   "sources": [
+    "https://nssdc.gsfc.nasa.gov/planetary/lunar/moon_trees/roosa_moon_tree_seeds.html",
+    "https://atlasobscura.com/articles/what-happened-to-moon-trees"
+   ],
+   "verify_note": "Roosa = Apollo 14 Command Module pilot (stayed in lunar orbit), USFS smokejumper 1953, 5 species, bags burst during vacuum decontamination, seeds sorted by hand, most began to grow, Bicentennial plantings in 40 states: NASA NSSDC. Seed count: NASA ~500 per species, Atlas Obscura 'several hundred, exact number unknown' -> 'yüzlərlə'. ~90 trees accounted for: Atlas Obscura. Never said the seeds landed on the Moon.",
+   "photo": {
+    "path": "fetch/img/2026-10-22_moontree_b.jpg",
+    "credit": "Plefkag / Wikimedia Commons (CC0)",
+    "cy": 0.45,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Sycamore_Moon_Tree_at_Core_Creek_State_Park,_Bucks_County_PA.jpg",
+    "note": "Original Apollo 14 sycamore Moon tree planted 1976, Core Creek State Park PA (portrait).",
+    "alt": "fetch/img/2026-10-22_moontree_a.jpg (2nd-generation loblolly seedling dedicated by the Artemis II crew at JSC, June 2026, NASA/James Blair, public domain)"
+   }
+  }
+ ]
 }

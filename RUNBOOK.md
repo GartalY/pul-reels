@@ -55,6 +55,11 @@ Feed posts (all automatic):
   formula (history, places, records, inventions, people — never current Azerbaijani politics). Fact-check twice:
   locals know these stories and WILL correct us in the comments; prefer facts with 2+ independent sources and
   mention the commonly believed myth if one exists (e.g. "Şollar" is a village, not a person's name).
+  FOLLOW HOOK (2026-10-22: Şollar reel reached 1 392 views but brought ~1 follower): the 13:00 Azerbaijan reel is a
+  SERIES with a reason to follow. Render it with "cta":"Hər gün 13:00-da yeni Bakı faktı — izlə!" (replaces the quiz
+  CTA) and end its caption (before hashtags) with: "👉 Hər gün 13:00-da Azərbaycan haqqında bilmədiyin bir fakt —
+  izlə ki, qaçırmayasan". Also be precise about WHO paid/did what (Şollar: Tağıyev funded Lindley's survey and
+  pushed for Şollar; construction was publicly funded — we overstated it and a commenter corrected us).
   Renderer (factgen.py reel, 2026-10-19): hook is fully visible on frame 0 (no fade-in), beat time = reading time
   (0.3 s/word + 0.6 s, min 2.2 s).
   LANGUAGE RULE (Gartal, 2026-10-19) — overrides any word limit: every beat is 1–2 COMPLETE, NATURAL Azerbaijani

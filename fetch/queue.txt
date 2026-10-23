@@ -108,3 +108,9 @@ search_woodfrog.json https://commons.wikimedia.org/w/api.php?action=query&format
 2026-10-23_beetle_a.jpg https://upload.wikimedia.org/wikipedia/commons/6/68/Pheropsophus_%28Stenaptinus%29_jessoensis.jpg
 2026-10-23_beetle_b.jpg https://upload.wikimedia.org/wikipedia/commons/2/26/Manchaca_Brachinus_-_bombardier_beetle_02.jpg
 2026-10-23_zadeh_a.png https://upload.wikimedia.org/wikipedia/commons/3/3e/Lotfi_A._Zadeh_stamp_2021.png
+2026-10-23_T_france_flag.jpg https://images.unsplash.com/photo-1679982470870-6d4f511fa304?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=1600
+2026-10-24_2_worldclock.jpg https://images.unsplash.com/photo-1791566655975-0a04738dc88f?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=1600
+search_annietaylor.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Annie%20Edson%20Taylor%20barrel
+search_zoroaster.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Zoroaster%20tanker%20Nobel
+search_bluewhale.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Balaenoptera%20musculus%20NOAA
+search_frtz.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Time%20zones%20France%20map

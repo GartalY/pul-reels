@@ -114,3 +114,8 @@ search_annietaylor.json https://commons.wikimedia.org/w/api.php?action=query&for
 search_zoroaster.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Zoroaster%20tanker%20Nobel
 search_bluewhale.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Balaenoptera%20musculus%20NOAA
 search_frtz.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Time%20zones%20France%20map
+2026-10-24_H_annie_a.jpg https://upload.wikimedia.org/wikipedia/commons/1/1d/Queen-of-the-Mist.jpg
+2026-10-24_H_annie_b.jpg https://upload.wikimedia.org/wikipedia/commons/4/47/Annie_Taylor.jpg
+2026-10-24_1_zoroaster.jpg https://upload.wikimedia.org/wikipedia/commons/e/ea/V%C3%A4rldens_f%C3%B6rsta_tankfartyg..jpg
+2026-10-24_4_bluewhale_a.jpg https://upload.wikimedia.org/wikipedia/commons/9/9e/Bluewhale1_noaa_crop.jpg
+2026-10-24_4_bluewhale_b.jpg https://upload.wikimedia.org/wikipedia/commons/1/1c/Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg

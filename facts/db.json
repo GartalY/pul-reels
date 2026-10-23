@@ -1218,50 +1218,6 @@
    ]
   },
   {
-   "id": "2026-10-23-3",
-   "date": "2026-10-23",
-   "subject": "Pando, Utah: one quaking aspen clone, ~47,000 genetically identical stems on one root system, ~106 acres (~43 ha), ~6,000 t (13.3 million lb); stems live ~130-150 years; deer/elk browsing, ~80% fenced",
-   "cat": "Təbiət",
-   "quizzes": [
-    {
-     "q": "Pandoda təxminən neçə gövdə var?",
-     "options": [
-      "4 700",
-      "47 000",
-      "470 000"
-     ],
-     "answer": "47 000",
-     "why": "Hamısı eyni kök sistemindən çıxır."
-    },
-    {
-     "q": "Pandonun çəkisi təxminən nə qədərdir?",
-     "options": [
-      "60 ton",
-      "600 ton",
-      "6 000 ton"
-     ],
-     "answer": "6 000 ton",
-     "why": "Dünyanın ən ağır canlılarından biri sayılır."
-    },
-    {
-     "q": "Pandonun hər gövdəsi təxminən neçə il yaşayır?",
-     "options": [
-      "13–15 il",
-      "130–150 il",
-      "1 300–1 500 il"
-     ],
-     "answer": "130–150 il",
-     "why": "Sonra yerinə kökdən yeni gövdə çıxır."
-    }
-   ],
-   "asked": [
-    {
-     "date": "2026-10-23",
-     "qi": 0
-    }
-   ]
-  },
-  {
    "id": "2026-10-23-4",
    "date": "2026-10-23",
    "subject": "Bombardier beetles spray a boiling (~100 °C) irritating mix (hydroquinones + hydrogen peroxide meet enzymes in a reaction chamber -> p-benzoquinones), pulsed ~368-735 times per second (Arndt et al., Science 2015, MIT); in Japan (Sugiura & Sato, Biology Letters 2018) ~43% of toads that swallowed Pheropsophus jessoensis vomited them alive, after ~40 min on average, one after 107 min",
@@ -1296,6 +1252,50 @@
      ],
      "answer": "43 faizi",
      "why": "Böcək qurbağanın mədəsində də püskürürdü."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-23",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-23-T",
+   "date": "2026-10-23",
+   "subject": "France protest wave, Sept-Oct 2026: started 18 Sept 2026 when pupils of Lycée Saint-Exupéry in Créteil (Val-de-Marne) went on strike in solidarity with teachers, demanding more staff; spread nationwide (400+ lycées closed on 2 Oct); broadened into cost-of-living protests (fuel, frozen benefits/public pay in draft budget); 17-18 Oct weekend turned into rioting/looting; Interior Minister Nuñez: 2,513 taken into custody; night curfews from 19 Oct (Paris, Lyon, Bordeaux, Nice); demonstrations banned 22 Oct in Paris, Lyon, Lille, Grenoble; government blames radical far-left groups and looters, protesters accuse police of excessive force; national protests 24 Oct, CGT general strike 5 Nov. History: May 1968 also began as a student revolt, general strike of ~10 million workers.",
+   "cat": "Tarix",
+   "quizzes": [
+    {
+     "q": "Fransada etiraz hansı şəhərin liseyindən başladı?",
+     "options": [
+      "Kreteyl",
+      "Lion",
+      "Marsel"
+     ],
+     "answer": "Kreteyl",
+     "why": "Sentyabrın 18-də, Paris yaxınlığında."
+    },
+    {
+     "q": "Oktyabrın 2-də Fransada neçədən çox lisey bağlı idi?",
+     "options": [
+      "40",
+      "400",
+      "4 000"
+     ],
+     "answer": "400",
+     "why": "Etiraz bütün ölkəyə yayılmışdı."
+    },
+    {
+     "q": "1968-ci ildə etiraza təxminən neçə işçi qoşuldu?",
+     "options": [
+      "1 milyon",
+      "10 milyon",
+      "30 milyon"
+     ],
+     "answer": "10 milyon",
+     "why": "1968-ci ilin mayında ümumi tətil oldu."
     }
    ],
    "asked": [

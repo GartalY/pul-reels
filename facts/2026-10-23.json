@@ -220,84 +220,87 @@
    }
   },
   {
-   "n": 3,
+   "n": "T",
    "type": "card",
-   "cat": "Təbiət",
-   "subject": "Pando, Utah: one quaking aspen clone, ~47,000 genetically identical stems on one root system, ~106 acres (~43 ha), ~6,000 t (13.3 million lb); stems live ~130-150 years; deer/elk browsing, ~80% fenced",
-   "photo_request": "Pando ağcaqovaq meşəsi",
-   "title": "Bu meşə bir ağacdır",
-   "text": "ABŞ-ın Yuta ştatında 47 000 ağac kimi görünən şey əslində tək bir canlıdır. Hamısının kökü birdir.",
+   "format": "v2",
+   "cat": "Tarix",
+   "subject": "France protest wave, Sept-Oct 2026: started 18 Sept 2026 when pupils of Lycée Saint-Exupéry in Créteil (Val-de-Marne) went on strike in solidarity with teachers, demanding more staff; spread nationwide (400+ lycées closed on 2 Oct); broadened into cost-of-living protests (fuel, frozen benefits/public pay in draft budget); 17-18 Oct weekend turned into rioting/looting; Interior Minister Nuñez: 2,513 taken into custody; night curfews from 19 Oct (Paris, Lyon, Bordeaux, Nice); demonstrations banned 22 Oct in Paris, Lyon, Lille, Grenoble; government blames radical far-left groups and looters, protesters accuse police of excessive force; national protests 24 Oct, CGT general strike 5 Nov. History: May 1968 also began as a student revolt, general strike of ~10 million workers.",
+   "photo_request": "French flag on a Paris balcony (neutral, no protest/press photo)",
+   "title": "Bu etiraz 1 məktəbdən başladı",
+   "text": "Fransada indi böyük etirazlar gedir. Onlar sentyabrın 18-də Paris yaxınlığındakı bir liseydən başlamışdı.",
+   "cover": {
+    "hook": "Bu etiraz 1 məktəbdən başladı",
+    "sub": "Fransa · 18 sentyabrdan bu günə"
+   },
    "slides": [
     {
-     "h": "47 000",
-     "t": "Pandoda təxminən 47 000 gövdə var. Hamısı genetik olaraq eynidir və eyni kökdən çıxır. Yəni bu, meşə yox, bir ağacdır."
+     "h": "18 sentyabr",
+     "t": "Paris yaxınlığındakı Kreteyl şəhərində bir liseyin şagirdləri dərsə getmədi. Onlar müəllimlərini dəstəklədilər və məktəbə daha çox müəllim istədilər."
     },
     {
-     "h": "43 hektar",
-     "t": "Pando təxminən 43 hektar yer tutur. Bu, təxminən 60 futbol meydançası qədərdir."
+     "h": "400 lisey",
+     "t": "Etiraz tez yayıldı. Oktyabrın 2-də Fransada 400-dən çox lisey bağlı idi. Şagirdlər müəllim azlığından, köhnə binalardan və dolu siniflərdən şikayət edirdi."
     },
     {
-     "h": "6 000 ton",
-     "t": "Alimlər onun çəkisini təxminən 6 000 ton hesablayır. Bu, onu dünyanın ən ağır canlılarından biri edir."
+     "h": "2 513",
+     "t": "Sonra böyüklər də qoşuldu və əsas mövzu bahalıq oldu. Oktyabrın 17–18-də bəzi aksiyalar iğtişaşa çevrildi. Daxili işlər nazirinə görə, 2 513 nəfər saxlanılıb. Hökumət radikal qrupları, etirazçılar isə polisi günahlandırır."
     },
     {
-     "h": "130 il",
-     "t": "Hər gövdə təxminən 130–150 il yaşayır, sonra kökdən yenisi çıxır. Amma marallar cavan gövdələri yeyir. Ona görə ərazinin çox hissəsi hasara alınıb."
+     "h": "1968",
+     "t": "Fransada bu, ilk dəfə deyil. 1968-ci ilin mayında da etiraz tələbələrdən başlamışdı, sonra ona təxminən 10 milyon işçi qoşuldu. İndi CGT həmkarlar ittifaqı noyabrın 5-nə ümumi tətil elan edib."
     }
    ],
-   "caption": "Bu meşə əslində tək bir ağacdır 🌳\n\nYuta ştatındakı Pando adlı ağcaqovaq meşəsində təxminən 47 000 gövdə var. Hamısı genetik olaraq eynidir və bir kök sistemindən böyüyür. Bu canlı təxminən 6 000 ton çəkir və 43 hektar yer tutur. Hər gövdə 130–150 il yaşayır, sonra yerinə kökdən yenisi çıxır.\n\n📩 Meşəyə gedib «ağaclar çox gözəldir» deyən dostuna göndər — qoy bilsin, ağac birdir 😄\n\nFoto: USDA Forest Service / Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #təbiət #ağac #amerika",
-   "first_comment": "Bunu bilirdin, yoxsa indi öyrəndin? 👇",
+   "caption": "Fransadakı böyük etiraz bir məktəbdən başladı 📚\n\nSentyabrın 18-də Kreteyl şəhərində bir liseyin şagirdləri müəllim azlığına etiraz etdi. Etiraz tez yayıldı və oktyabrın əvvəlində 400-dən çox lisey bağlandı. Sonra əsas mövzu bahalıq oldu: yanacaq, maaşlar və gələn ilin büdcəsi. Hökumət iğtişaşlara görə radikal qrupları, etirazçılar isə polisi günahlandırır. Yeni aksiyalar oktyabrın 24-nə və noyabrın 5-nə planlaşdırılıb.\n\n📩 Hər səhər xəbərləri hamıdan tez oxuyan dostuna göndər\n\nFoto: Nerissa J / Unsplash\n\n#bilirdinizmi #maraqlıfaktlar #fransa #paris #tarix",
+   "first_comment": "Səncə, məktəblərdə ən çox nə çatışmır? 👇",
    "quizzes": [
     {
-     "q": "Pandoda təxminən neçə gövdə var?",
+     "q": "Fransada etiraz hansı şəhərin liseyindən başladı?",
      "options": [
-      "4 700",
-      "47 000",
-      "470 000"
+      "Kreteyl",
+      "Lion",
+      "Marsel"
      ],
-     "answer": "47 000",
-     "why": "Hamısı eyni kök sistemindən çıxır."
+     "answer": "Kreteyl",
+     "why": "Sentyabrın 18-də, Paris yaxınlığında."
     },
     {
-     "q": "Pandonun çəkisi təxminən nə qədərdir?",
+     "q": "Oktyabrın 2-də Fransada neçədən çox lisey bağlı idi?",
      "options": [
-      "60 ton",
-      "600 ton",
-      "6 000 ton"
+      "40",
+      "400",
+      "4 000"
      ],
-     "answer": "6 000 ton",
-     "why": "Dünyanın ən ağır canlılarından biri sayılır."
+     "answer": "400",
+     "why": "Etiraz bütün ölkəyə yayılmışdı."
     },
     {
-     "q": "Pandonun hər gövdəsi təxminən neçə il yaşayır?",
+     "q": "1968-ci ildə etiraza təxminən neçə işçi qoşuldu?",
      "options": [
-      "13–15 il",
-      "130–150 il",
-      "1 300–1 500 il"
+      "1 milyon",
+      "10 milyon",
+      "30 milyon"
      ],
-     "answer": "130–150 il",
-     "why": "Sonra yerinə kökdən yeni gövdə çıxır."
+     "answer": "10 milyon",
+     "why": "1968-ci ilin mayında ümumi tətil oldu."
     }
    ],
    "sources": [
-    "https://www.friendsofpando.org/thepandotree/facts-about-pando/",
-    "https://www.earthdate.org/pando-a-forest-of-one",
-    "https://www.sciencealert.com/the-world-s-largest-organism-is-slowly-being-eaten-scientist-says"
+    "https://www.maire-info.com/article.php?id=31137",
+    "https://www.news4jax.com/news/world/2026/10/22/french-authorities-ban-some-student-protests-after-weekend-looting-and-clashes/",
+    "https://abcnews.com/International/france-protests-cool-after-overnight-curfews-paris-major/story?id=137403836",
+    "https://skift.com/2026/10/19/france-protests-impact-travel-industry-tourism/",
+    "https://www.bernama.com/en/world/news.php?id=2623884",
+    "https://www.britannica.com/print/article/1084804"
    ],
-   "verify_note": "47,000 stems, 106 acres (=42.9 ha), 13.3 million lb dry weight (≈6,000 t), stems 130–150 years, deer/elk browsing, ~80% fenced: Friends of Pando; 47,000 / 6,000 t also in the search-result summaries of other outlets. Age estimates vary widely (9,000 to tens of thousands of years) -> age NOT used. 43 ha / 0.714 ha per pitch ≈ 60.",
+   "verify_note": "Start 18 Sept 2026 at Lycée Saint-Exupéry, Créteil (pupils striking in solidarity with teachers, demanding posts) + 400+ lycées closed 2 Oct + demands (lack of teachers/staff, run-down buildings, overloaded classes): Maire-info 2 Oct. 'Started last month at a high school in Créteil over staff shortages', broadened to cost of living, bans in Paris/Lyon/Lille/Grenoble, Macron blames radical far-left + looters, unions focus on 5 Nov: AP (news4jax) 22 Oct. 2,513 in custody (Nuñez), curfews Paris/Bordeaux/Nice/Lyon from 19 Oct, protesters accuse police of excessive tactics: ABC News. Fuel/benefit/pay freeze demands: Bernama 16 Oct. CGT general strike 5 Nov: Bernama. May 1968 student revolt + ~10 million workers: Britannica. No deaths reported in sources; no death/injury numbers used. Neutral wording per runbook D/T: both sides attributed, no opinions/predictions, no riot photos. Chosen over Bournemouth 3-0 Milan (same 'small club beats giant' angle as yesterday's Como post) and Beşiktaş 2-2 Crystal Palace (Turkish link but no twist); France = biggest world story, new nationwide protests tomorrow 24 Oct.",
    "photo": {
-    "path": "fetch/img/2026-10-21_pando_b.jpg",
-    "credit": "USDA Forest Service / Wikimedia Commons (ictimai mülkiyyət)",
+    "path": "fetch/img/2026-10-23_T_france_flag.jpg",
+    "credit": "Nerissa J / Unsplash",
     "cy": 0.5,
     "full": true,
-    "source": "https://commons.wikimedia.org/wiki/File:Pando_in_the_Fall_(11937950814).jpg",
-    "alt": "fetch/img/2026-10-21_pando_a.jpg (trunk close-up, Lance Oditt / Friends of Pando, CC BY-SA 4.0)"
-   },
-   "cover": {
-    "hook": "Bu meşə əslində tək bir ağacdır",
-    "sub": "Pando, Yuta (ABŞ) · 47 000 gövdə, bir kök"
-   },
-   "format": "v2"
+    "source": "https://unsplash.com/photos/pM-r6PsWGnY",
+    "note": "French flag on a Paris balcony, portrait 1600x2400; neutral, no protest/press photo."
+   }
   },
   {
    "n": 4,
@@ -365,7 +368,8 @@
   }
  ],
  "language_fix": {
-  "note": "Self-check 2026-10-22 morning: beetle beats rewritten (removed 'qaynar … qaynardır' repeat and awkward 'fasilə ilə çıxır')."
+  "note": "Self-check 2026-10-22 morning: beetle beats rewritten (removed 'qaynar … qaynardır' repeat and awkward 'fasilə ilə çıxır').",
+  "midday": "2026-10-23 15:30: trend slide 4 'Nazirə görə' -> 'Daxili işlər nazirinə görə' (clearer who)."
  },
  "spare": [],
  "trend_check_evening": "2026-10-22 20:50 Baku: searched world news, Azerbaijan news (AZ/EN), Qarabağ, breaking news. No big story our audience is talking about that needs a swap for 23 Oct; 18:30 Pando stays as trend backup for the 09:10 run. iPod 25th anniversary (10:00 TBG) is itself a timely hook.",
@@ -420,19 +424,19 @@
   },
   {
    "time": "19:30",
-   "fact_id": "2026-10-23-3",
+   "fact_id": "2026-10-23-T",
    "recall": false,
-   "cat": "Təbiət",
-   "q": "Pandoda təxminən neçə gövdə var?",
+   "cat": "Tarix",
+   "q": "Fransada etiraz hansı şəhərin liseyindən başladı?",
    "options": [
-    "4 700",
-    "47 000",
-    "470 000"
+    "Kreteyl",
+    "Lion",
+    "Marsel"
    ],
-   "answer": "47 000",
-   "why": "Hamısı eyni kök sistemindən çıxır.",
-   "image": "out/2026-10-23/q4.jpg",
-   "answer_image": "out/2026-10-23/q4_a.jpg"
+   "answer": "Kreteyl",
+   "why": "Sentyabrın 18-də, Paris yaxınlığında.",
+   "image": "out/2026-10-23/q4_trend.jpg",
+   "answer_image": "out/2026-10-23/q4_trend_a.jpg"
   },
   {
    "time": "22:30",
@@ -494,7 +498,7 @@
    },
    {
     "h": "2 513",
-    "t": "Sonra böyüklər də qoşuldu və əsas mövzu bahalıq oldu. Oktyabrın 17–18-də bəzi aksiyalar iğtişaşa çevrildi. Nazirə görə, 2 513 nəfər saxlanılıb. Hökumət radikal qrupları, etirazçılar isə polisi günahlandırır."
+    "t": "Sonra böyüklər də qoşuldu və əsas mövzu bahalıq oldu. Oktyabrın 17–18-də bəzi aksiyalar iğtişaşa çevrildi. Daxili işlər nazirinə görə, 2 513 nəfər saxlanılıb. Hökumət radikal qrupları, etirazçılar isə polisi günahlandırır."
    },
    {
     "h": "1968",

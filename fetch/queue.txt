@@ -119,3 +119,6 @@ search_frtz.json https://commons.wikimedia.org/w/api.php?action=query&format=jso
 2026-10-24_1_zoroaster.jpg https://upload.wikimedia.org/wikipedia/commons/e/ea/V%C3%A4rldens_f%C3%B6rsta_tankfartyg..jpg
 2026-10-24_4_bluewhale_a.jpg https://upload.wikimedia.org/wikipedia/commons/9/9e/Bluewhale1_noaa_crop.jpg
 2026-10-24_4_bluewhale_b.jpg https://upload.wikimedia.org/wikipedia/commons/1/1c/Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg
+search_zoro2.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Branobel%20tanker
+search_zoro3.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=%D0%97%D0%BE%D1%80%D0%BE%D0%B0%D1%81%D1%82%D1%80
+search_zoro4.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Nobel%20Baku%20tanker%20steamer

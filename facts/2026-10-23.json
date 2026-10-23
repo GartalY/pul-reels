@@ -367,87 +367,7 @@
  "language_fix": {
   "note": "Self-check 2026-10-22 morning: beetle beats rewritten (removed 'qaynar … qaynardır' repeat and awkward 'fasilə ilə çıxır')."
  },
- "spare": [
-  {
-   "n": 3,
-   "type": "card",
-   "cat": "Kosmos",
-   "subject": "Moon trees: Apollo 14 (1971) CMP Stuart Roosa, ex-USFS smokejumper, carried several hundred seeds (~500 per species per NASA) of 5 species (sycamore, loblolly pine, sweetgum, redwood, Douglas fir) in lunar orbit; bags burst during decontamination, seeds hand-sorted, most germinated; 1975-76 Bicentennial plantings in 40 states; ~90 trees accounted for",
-   "photo_request": "Apollo 14 Moon Tree",
-   "title": "Ayın ətrafında uçan ağaclar",
-   "text": "1971-ci ildə astronavt Styuart Rusa özü ilə yüzlərlə ağac toxumu apardı. Sonra onlardan ABŞ-da ağaclar böyüdü.",
-   "cover": {
-    "hook": "Bu ağacların toxumu Ayın ətrafında uçub",
-    "sub": "Apollo 14 · 1971 · 5 növ ağac"
-   },
-   "slides": [
-    {
-     "h": "1971",
-     "t": "Apollo 14 uçuşunda Styuart Rusa Ayın ətrafında fırlanan gəmidə qaldı. Onun şəxsi çantasında 5 növ ağacın yüzlərlə toxumu var idi."
-    },
-    {
-     "h": "Yanğınsöndürən",
-     "t": "Rusa gəncliyində ABŞ Meşə Xidmətində işləmişdi. O, meşə yanğınlarına paraşütlə enən yanğınsöndürən idi. Toxumları da bu xidmət üçün aparmışdı."
-    },
-    {
-     "h": "Dağıldı",
-     "t": "Yerə qayıdandan sonra yoxlama zamanı toxum torbaları partladı və toxumlar dağıldı. Alimlər onları əllə yığıb ayırdılar. Çoxu cücərdi."
-    },
-    {
-     "h": "40 ştat",
-     "t": "1976-cı ildə bu tinglər ABŞ-ın 40 ştatında əkildi. Bu gün onlardan təxminən 90-ının yeri məlumdur. Onlara «Ay ağacları» deyirlər."
-    }
-   ],
-   "caption": "Bu ağacların toxumu Ayın ətrafında uçub 🌳\n\n1971-ci ildə Apollo 14 astronavtı Styuart Rusa özü ilə 5 növ ağacın yüzlərlə toxumunu apardı. Toxumlar Ayın ətrafında fırlanan gəmidə onunla birlikdə uçdu. Yerə qayıdandan sonra onları əkdilər və 1976-cı ildə tinglər ABŞ-ın 40 ştatında əkildi. Bu ağaclara indi «Ay ağacları» deyirlər.\n\n📩 Evdə bir gül belə saxlaya bilməyən dostuna göndər 😄\n\nFoto: Plefkag / Wikimedia Commons (CC0)\n\n#bilirdinizmi #maraqlıfaktlar #kosmos #ağac #nasa",
-   "first_comment": "Sən kosmosdan nə gətirmək istərdin? 👇",
-   "quizzes": [
-    {
-     "q": "Ay ağaclarının toxumunu kosmosa kim apardı?",
-     "options": [
-      "Styuart Rusa",
-      "Nil Armstronq",
-      "Bazz Oldrin"
-     ],
-     "answer": "Styuart Rusa",
-     "why": "Apollo 14 uçuşunda, 1971-ci ildə."
-    },
-    {
-     "q": "Toxumlar hansı uçuşda kosmosa getdi?",
-     "options": [
-      "Apollo 11",
-      "Apollo 14",
-      "Apollo 17"
-     ],
-     "answer": "Apollo 14",
-     "why": "Toxumlar Ayın ətrafında fırlanan gəmidə qaldı."
-    },
-    {
-     "q": "Rusa gəncliyində kim işləmişdi?",
-     "options": [
-      "Yanğınsöndürən",
-      "Aşpaz",
-      "Müəllim"
-     ],
-     "answer": "Yanğınsöndürən",
-     "why": "Meşə yanğınlarına paraşütlə enirdi."
-    }
-   ],
-   "sources": [
-    "https://nssdc.gsfc.nasa.gov/planetary/lunar/moon_trees/roosa_moon_tree_seeds.html",
-    "https://atlasobscura.com/articles/what-happened-to-moon-trees"
-   ],
-   "verify_note": "Roosa = Apollo 14 Command Module pilot (stayed in lunar orbit), USFS smokejumper 1953, 5 species, bags burst during vacuum decontamination, seeds sorted by hand, most began to grow, Bicentennial plantings in 40 states: NASA NSSDC. Seed count: NASA ~500 per species, Atlas Obscura 'several hundred, exact number unknown' -> 'yüzlərlə'. ~90 trees accounted for: Atlas Obscura. Never said the seeds landed on the Moon.",
-   "photo": {
-    "path": "fetch/img/2026-10-22_moontree_b.jpg",
-    "credit": "Plefkag / Wikimedia Commons (CC0)",
-    "cy": 0.45,
-    "full": true,
-    "source": "https://commons.wikimedia.org/wiki/File:Sycamore_Moon_Tree_at_Core_Creek_State_Park,_Bucks_County_PA.jpg",
-    "note": "Original Apollo 14 sycamore Moon tree planted 1976, Core Creek State Park PA (portrait).",
-    "alt": "fetch/img/2026-10-22_moontree_a.jpg (2nd-generation loblolly seedling dedicated by the Artemis II crew at JSC, June 2026, NASA/James Blair, public domain)"
-   }
-  }
- ],
+ "spare": [],
  "trend_check_evening": "2026-10-22 20:50 Baku: searched world news, Azerbaijan news (AZ/EN), Qarabağ, breaking news. No big story our audience is talking about that needs a swap for 23 Oct; 18:30 Pando stays as trend backup for the 09:10 run. iPod 25th anniversary (10:00 TBG) is itself a timely hook.",
  "stories": [
   {
@@ -549,5 +469,90 @@
   "22:30 quiz q5": 403361833,
   "22:40 answer a5": 403361865
  },
- "build_note": "2026-10-22 evening: reels 1 & 4 rendered with hook_bg (dark band behind hook: beetle photo too bright, Zadeh hook overlapped the stamp). Moon trees (2026-10-22-3, never posted) removed from facts/db.json recall pool."
+ "build_note": "2026-10-22 evening: reels 1 & 4 rendered with hook_bg (dark band behind hook: beetle photo too bright, Zadeh hook overlapped the stamp). Moon trees (2026-10-22-3, never posted) removed from facts/db.json recall pool.",
+ "trend": {
+  "n": "T",
+  "type": "card",
+  "format": "v2",
+  "cat": "Tarix",
+  "subject": "France protest wave, Sept-Oct 2026: started 18 Sept 2026 when pupils of Lycée Saint-Exupéry in Créteil (Val-de-Marne) went on strike in solidarity with teachers, demanding more staff; spread nationwide (400+ lycées closed on 2 Oct); broadened into cost-of-living protests (fuel, frozen benefits/public pay in draft budget); 17-18 Oct weekend turned into rioting/looting; Interior Minister Nuñez: 2,513 taken into custody; night curfews from 19 Oct (Paris, Lyon, Bordeaux, Nice); demonstrations banned 22 Oct in Paris, Lyon, Lille, Grenoble; government blames radical far-left groups and looters, protesters accuse police of excessive force; national protests 24 Oct, CGT general strike 5 Nov. History: May 1968 also began as a student revolt, general strike of ~10 million workers.",
+  "photo_request": "French flag on a Paris balcony (neutral, no protest/press photo)",
+  "title": "Bu etiraz 1 məktəbdən başladı",
+  "text": "Fransada indi böyük etirazlar gedir. Onlar sentyabrın 18-də Paris yaxınlığındakı bir liseydən başlamışdı.",
+  "cover": {
+   "hook": "Bu etiraz 1 məktəbdən başladı",
+   "sub": "Fransa · 18 sentyabrdan bu günə"
+  },
+  "slides": [
+   {
+    "h": "18 sentyabr",
+    "t": "Paris yaxınlığındakı Kreteyl şəhərində bir liseyin şagirdləri dərsə getmədi. Onlar müəllimlərini dəstəklədilər və məktəbə daha çox müəllim istədilər."
+   },
+   {
+    "h": "400 lisey",
+    "t": "Etiraz tez yayıldı. Oktyabrın 2-də Fransada 400-dən çox lisey bağlı idi. Şagirdlər müəllim azlığından, köhnə binalardan və dolu siniflərdən şikayət edirdi."
+   },
+   {
+    "h": "2 513",
+    "t": "Sonra böyüklər də qoşuldu və əsas mövzu bahalıq oldu. Oktyabrın 17–18-də bəzi aksiyalar iğtişaşa çevrildi. Nazirə görə, 2 513 nəfər saxlanılıb. Hökumət radikal qrupları, etirazçılar isə polisi günahlandırır."
+   },
+   {
+    "h": "1968",
+    "t": "Fransada bu, ilk dəfə deyil. 1968-ci ilin mayında da etiraz tələbələrdən başlamışdı, sonra ona təxminən 10 milyon işçi qoşuldu. İndi CGT həmkarlar ittifaqı noyabrın 5-nə ümumi tətil elan edib."
+   }
+  ],
+  "caption": "Fransadakı böyük etiraz bir məktəbdən başladı 📚\n\nSentyabrın 18-də Kreteyl şəhərində bir liseyin şagirdləri müəllim azlığına etiraz etdi. Etiraz tez yayıldı və oktyabrın əvvəlində 400-dən çox lisey bağlandı. Sonra əsas mövzu bahalıq oldu: yanacaq, maaşlar və gələn ilin büdcəsi. Hökumət iğtişaşlara görə radikal qrupları, etirazçılar isə polisi günahlandırır. Yeni aksiyalar oktyabrın 24-nə və noyabrın 5-nə planlaşdırılıb.\n\n📩 Hər səhər xəbərləri hamıdan tez oxuyan dostuna göndər\n\nFoto: Nerissa J / Unsplash\n\n#bilirdinizmi #maraqlıfaktlar #fransa #paris #tarix",
+  "first_comment": "Səncə, məktəblərdə ən çox nə çatışmır? 👇",
+  "quizzes": [
+   {
+    "q": "Fransada etiraz hansı şəhərin liseyindən başladı?",
+    "options": [
+     "Kreteyl",
+     "Lion",
+     "Marsel"
+    ],
+    "answer": "Kreteyl",
+    "why": "Sentyabrın 18-də, Paris yaxınlığında."
+   },
+   {
+    "q": "Oktyabrın 2-də Fransada neçədən çox lisey bağlı idi?",
+    "options": [
+     "40",
+     "400",
+     "4 000"
+    ],
+    "answer": "400",
+    "why": "Etiraz bütün ölkəyə yayılmışdı."
+   },
+   {
+    "q": "1968-ci ildə etiraza təxminən neçə işçi qoşuldu?",
+    "options": [
+     "1 milyon",
+     "10 milyon",
+     "30 milyon"
+    ],
+    "answer": "10 milyon",
+    "why": "1968-ci ilin mayında ümumi tətil oldu."
+   }
+  ],
+  "sources": [
+   "https://www.maire-info.com/article.php?id=31137",
+   "https://www.news4jax.com/news/world/2026/10/22/french-authorities-ban-some-student-protests-after-weekend-looting-and-clashes/",
+   "https://abcnews.com/International/france-protests-cool-after-overnight-curfews-paris-major/story?id=137403836",
+   "https://skift.com/2026/10/19/france-protests-impact-travel-industry-tourism/",
+   "https://www.bernama.com/en/world/news.php?id=2623884",
+   "https://www.britannica.com/print/article/1084804"
+  ],
+  "verify_note": "Start 18 Sept 2026 at Lycée Saint-Exupéry, Créteil (pupils striking in solidarity with teachers, demanding posts) + 400+ lycées closed 2 Oct + demands (lack of teachers/staff, run-down buildings, overloaded classes): Maire-info 2 Oct. 'Started last month at a high school in Créteil over staff shortages', broadened to cost of living, bans in Paris/Lyon/Lille/Grenoble, Macron blames radical far-left + looters, unions focus on 5 Nov: AP (news4jax) 22 Oct. 2,513 in custody (Nuñez), curfews Paris/Bordeaux/Nice/Lyon from 19 Oct, protesters accuse police of excessive tactics: ABC News. Fuel/benefit/pay freeze demands: Bernama 16 Oct. CGT general strike 5 Nov: Bernama. May 1968 student revolt + ~10 million workers: Britannica. No deaths reported in sources; no death/injury numbers used. Neutral wording per runbook D/T: both sides attributed, no opinions/predictions, no riot photos. Chosen over Bournemouth 3-0 Milan (same 'small club beats giant' angle as yesterday's Como post) and Beşiktaş 2-2 Crystal Palace (Turkish link but no twist); France = biggest world story, new nationwide protests tomorrow 24 Oct.",
+  "photo": {
+   "path": "fetch/img/2026-10-23_T_france_flag.jpg",
+   "credit": "Nerissa J / Unsplash",
+   "cy": 0.5,
+   "full": true,
+   "source": "https://unsplash.com/photos/pM-r6PsWGnY",
+   "note": "French flag on a Paris balcony, portrait 1600x2400; neutral, no protest/press photo."
+  }
+ },
+ "trend_check_morning": "2026-10-23 09:15-09:45 Baku: searched world news, Azerbaijan news (EN/AZ), Türkiye gündem, Europa League MD3 (22 Oct), space, viral/breaking. Trend = France school/cost-of-living protest wave (biggest world story; nationwide protests 24 Oct, general strike 5 Nov). No Azerbaijani or Turkish story big enough; Qarabağ not playing this week; no disaster needing an immediate swap of the 21:30 reel. Midday run: build T_1..T_6 and swap the 18:30 Pando post + 19:30/19:40 quiz; move Pando to a later day.",
+ "spare_moved": "Moon trees -> 2026-10-24 facts[2] (18:30 backup) in the 2026-10-23 morning run"
 }

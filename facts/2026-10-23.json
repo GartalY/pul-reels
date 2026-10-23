@@ -459,7 +459,6 @@
   "10:00 tarixdə bu gün carousel (iPod 25 il)": 403361058,
   "13:00 reel (Lütfi Zadə)": 403361145,
   "16:00 reel (18-hour day)": 403361265,
-  "18:30 carousel (Pando, trend backup)": 403361324,
   "21:30 reel (bombardier beetle)": 403361409,
   "10:00 tarixdə bu gün story": 403361501,
   "11:00 quiz q1 (recall Tesla Roadster)": 403361516,
@@ -468,10 +467,11 @@
   "14:10 answer a2": 403361628,
   "17:00 quiz q3": 403361669,
   "17:10 answer a3": 403361710,
-  "19:30 quiz q4": 403361754,
-  "19:40 answer a4": 403361802,
   "22:30 quiz q5": 403361833,
-  "22:40 answer a5": 403361865
+  "22:40 answer a5": 403361865,
+  "18:30 carousel (TREND: France protests)": 404068232,
+  "19:30 quiz q4_trend": 404068265,
+  "19:40 answer a4_trend": 404068292
  },
  "build_note": "2026-10-22 evening: reels 1 & 4 rendered with hook_bg (dark band behind hook: beetle photo too bright, Zadeh hook overlapped the stamp). Moon trees (2026-10-22-3, never posted) removed from facts/db.json recall pool.",
  "trend": {
@@ -558,5 +558,14 @@
   }
  },
  "trend_check_morning": "2026-10-23 09:15-09:45 Baku: searched world news, Azerbaijan news (EN/AZ), Türkiye gündem, Europa League MD3 (22 Oct), space, viral/breaking. Trend = France school/cost-of-living protest wave (biggest world story; nationwide protests 24 Oct, general strike 5 Nov). No Azerbaijani or Turkish story big enough; Qarabağ not playing this week; no disaster needing an immediate swap of the 21:30 reel. Midday run: build T_1..T_6 and swap the 18:30 Pando post + 19:30/19:40 quiz; move Pando to a later day.",
- "spare_moved": "Moon trees -> 2026-10-24 facts[2] (18:30 backup) in the 2026-10-23 morning run"
+ "spare_moved": "Moon trees -> 2026-10-24 facts[2] (18:30 backup) in the 2026-10-23 morning run",
+ "trend_swap": {
+  "when": "2026-10-23 15:26 Asia/Baku",
+  "slot": "18:30 carousel + 19:30 quiz + 19:40 answer",
+  "what": "Pando -> France school/cost-of-living protests (T_1..T_6)",
+  "why": "Morning trend confirmed; midday news check (23 Oct) shows protests still the top world story, nationwide protests 24 Oct.",
+  "backup_moved_to": "2026-10-24 spare",
+  "photo": "French flag on a Paris balcony (Nerissa J / Unsplash)",
+  "metricool": "updated 15:26 (18:30 post T_1..T_6, 19:30 q4_trend, 19:40 q4_trend_a); times kept"
+ }
 }

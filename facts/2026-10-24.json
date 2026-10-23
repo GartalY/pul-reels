@@ -17,7 +17,8 @@
   "text": "1901-ci il 24 oktyabrda müəllim Enni Teylor çəlləyin içində Niaqara şəlaləsindən aşağı düşdü. Həmin gün onun 63 yaşı tamam olurdu.",
   "cover": {
    "hook": "63 yaşında çəlləkdə şəlalədən düşdü",
-   "sub": "24 oktyabr 1901 · Niaqara şəlaləsi"
+   "sub": "24 oktyabr 1901 · Niaqara şəlaləsi",
+   "photo": "fetch/img/2026-10-24_H_annie_pad.jpg"
   },
   "slides": [
    {
@@ -110,16 +111,6 @@
    "first_comment": "«Zoroastr» gəmisinin adını əvvəl eşitmişdin? 👇",
    "quizzes": [
     {
-     "q": "İlk uğurlu neft tankeri «Zoroastr» hansı ildə üzdü?",
-     "options": [
-      "1848",
-      "1878",
-      "1908"
-     ],
-     "answer": "1878",
-     "why": "Bakıdan Həştərxana kerosin daşıdı."
-    },
-    {
      "q": "«Zoroastr» hansı ölkədə tikildi?",
      "options": [
       "İsveç",
@@ -128,6 +119,16 @@
      ],
      "answer": "İsveç",
      "why": "Lüdviq Nobel onu İsveçdə tikdirdi."
+    },
+    {
+     "q": "İlk uğurlu neft tankeri «Zoroastr» hansı ildə üzdü?",
+     "options": [
+      "1848",
+      "1878",
+      "1908"
+     ],
+     "answer": "1878",
+     "why": "Bakıdan Həştərxana kerosin daşıdı."
     },
     {
      "q": "Tankerdən əvvəl neft əsasən nədə daşınırdı?",
@@ -150,7 +151,7 @@
     "path": "fetch/img/2026-10-24_1_nobeltanker.jpg",
     "credit": "Tekniska museet / Wikimedia Commons (CC BY 2.0)",
     "cy": 0.6,
-    "full": true,
+    "full": false,
     "source": "https://commons.wikimedia.org/wiki/File:Naftaproduktionsbolaget_Br%C3%B6derna_Nobel,_Baku_(6311482689).jpg",
     "note": "Branobel tanker 'Robert Nobel' (Hagelin albums, 1875-1920), landscape 1300x963 -> reel crop around the hull; consider full:false."
    },
@@ -175,6 +176,16 @@
    "first_comment": "Sən Rusiya deyəcəkdin, yoxsa Fransa? 👇",
    "quizzes": [
     {
+     "q": "Rusiyanın neçə saat qurşağı var?",
+     "options": [
+      "9",
+      "11",
+      "13"
+     ],
+     "answer": "11",
+     "why": "Kalininqraddan Kamçatkaya qədər."
+    },
+    {
      "q": "Ən çox saat qurşağı olan ölkə hansıdır?",
      "options": [
       "Rusiya",
@@ -193,16 +204,6 @@
      ],
      "answer": "12",
      "why": "Yayda Sen-Pyerdə 13-cü də yaranır."
-    },
-    {
-     "q": "Rusiyanın neçə saat qurşağı var?",
-     "options": [
-      "9",
-      "11",
-      "13"
-     ],
-     "answer": "11",
-     "why": "Kalininqraddan Kamçatkaya qədər."
     }
    ],
    "sources": [
@@ -218,7 +219,8 @@
     "full": true,
     "source": "https://unsplash.com/photos/V9PBtGoG_a8",
     "note": "Weltzeituhr (World Clock), Alexanderplatz Berlin, landscape 1600x1067; shows time-zone ring (Kamtschatka, Honolulu…). Small Uniqlo sign at right edge — crop to centre."
-   }
+   },
+   "reel_hook_bg": true
   },
   {
    "n": 3,
@@ -319,6 +321,16 @@
    "first_comment": "Sənin ürəyin indi dəqiqədə neçə dəfə vurur? Say və yaz 👇",
    "quizzes": [
     {
+     "q": "Səthdə balinanın ürəyi dəqiqədə neçə dəfəyə qədər vurdu?",
+     "options": [
+      "17",
+      "37",
+      "77"
+     ],
+     "answer": "37",
+     "why": "Dərin dalışdan sonra sürətlənirdi."
+    },
+    {
      "q": "Dərinlikdə mavi balinanın ürəyi dəqiqədə ən az neçə dəfə vurdu?",
      "options": [
       "2",
@@ -337,16 +349,6 @@
      ],
      "answer": "Kaliforniya",
      "why": "Monterey körfəzində."
-    },
-    {
-     "q": "Səthdə balinanın ürəyi dəqiqədə neçə dəfəyə qədər vurdu?",
-     "options": [
-      "17",
-      "37",
-      "77"
-     ],
-     "answer": "37",
-     "why": "Dərin dalışdan sonra sürətlənirdi."
     }
    ],
    "sources": [
@@ -450,5 +452,89 @@
    "format": "v2",
    "moved_from": "2026-10-23 18:30 (replaced by trend)"
   }
- ]
+ ],
+ "stories": [
+  {
+   "time": "11:00",
+   "fact_id": "2026-10-18-1",
+   "recall": true,
+   "cat": "Texnologiya",
+   "q": "Bluetooth loqosu nədən yaranıb?",
+   "options": [
+    "İki run hərfindən",
+    "Diş şəklindən",
+    "Antenna simvolundan"
+   ],
+   "answer": "İki run hərfindən",
+   "why": "Run əlifbasında H (Harald) və B (Blåtand) birləşib.",
+   "image": "out/2026-10-24/q1.jpg",
+   "answer_image": "out/2026-10-24/q1_a.jpg"
+  },
+  {
+   "time": "14:00",
+   "fact_id": "2026-10-24-1",
+   "recall": false,
+   "cat": "Azərbaycan",
+   "q": "«Zoroastr» hansı ölkədə tikildi?",
+   "options": [
+    "İsveç",
+    "Norveç",
+    "Almaniya"
+   ],
+   "answer": "İsveç",
+   "why": "Lüdviq Nobel onu İsveçdə tikdirdi.",
+   "image": "out/2026-10-24/q2.jpg",
+   "answer_image": "out/2026-10-24/q2_a.jpg"
+  },
+  {
+   "time": "17:00",
+   "fact_id": "2026-10-24-2",
+   "recall": false,
+   "cat": "Coğrafiya",
+   "q": "Rusiyanın neçə saat qurşağı var?",
+   "options": [
+    "9",
+    "11",
+    "13"
+   ],
+   "answer": "11",
+   "why": "Kalininqraddan Kamçatkaya qədər.",
+   "image": "out/2026-10-24/q3.jpg",
+   "answer_image": "out/2026-10-24/q3_a.jpg"
+  },
+  {
+   "time": "19:30",
+   "fact_id": "2026-10-24-3",
+   "recall": false,
+   "cat": "Kosmos",
+   "q": "Ay ağaclarının toxumunu kosmosa kim apardı?",
+   "options": [
+    "Styuart Rusa",
+    "Nil Armstronq",
+    "Bazz Oldrin"
+   ],
+   "answer": "Styuart Rusa",
+   "why": "Apollo 14 uçuşunda, 1971-ci ildə.",
+   "image": "out/2026-10-24/q4.jpg",
+   "answer_image": "out/2026-10-24/q4_a.jpg"
+  },
+  {
+   "time": "22:30",
+   "fact_id": "2026-10-24-4",
+   "recall": false,
+   "cat": "Təbiət",
+   "q": "Səthdə balinanın ürəyi dəqiqədə neçə dəfəyə qədər vurdu?",
+   "options": [
+    "17",
+    "37",
+    "77"
+   ],
+   "answer": "37",
+   "why": "Dərin dalışdan sonra sürətlənirdi.",
+   "image": "out/2026-10-24/q5.jpg",
+   "answer_image": "out/2026-10-24/q5_a.jpg"
+  }
+ ],
+ "trend_check_evening": "2026-10-23 20:50 Baku: searched world/breaking news, Azerbaijan news (AZ/EN), Qarabağ. Only AZ foreign-relations news (Jaishankar visit, off-limits per T); no big story needing a swap. 18:30 Moon trees stays as trend backup for the 09:10 run.",
+ "build_note": "2026-10-23 evening: TBG cover uses fetch/img/2026-10-24_H_annie_pad.jpg (blurred top padding so the headline doesn't cover her face). Reel 1 rendered full:false (landscape tanker photo), reels 1, 2 and 4 with hook_bg. Quiz order: detail questions first (Sweden, Russia 11, whale 37) so quizzes don't repeat the reel hooks."
 }

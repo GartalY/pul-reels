@@ -334,6 +334,10 @@
     {
      "date": "2026-10-18",
      "qi": 0
+    },
+    {
+     "date": "2026-10-24",
+     "qi": 1
     }
    ]
   },
@@ -1301,6 +1305,182 @@
    "asked": [
     {
      "date": "2026-10-23",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-24-1",
+   "date": "2026-10-24",
+   "subject": "Zoroaster (Zoroastr), 1878: world's first successful oil tanker, ordered by Ludvig Nobel (Branobel, founded in Baku 1876), designed with/built by Sven Almqvist at Motala Verkstad's yard (Norrköping, Sweden); ~242 long tons of kerosene in two iron tanks; small enough to reach the Caspian from Sweden via Baltic waters, lakes, canals and the Volga; first run Baku-Astrakhan 1878; Nobel did not patent the design, widely copied; before: oil shipped in barrels (barrels up to half of production cost in early Russian oil, leaked, one-way)",
+   "cat": "Azərbaycan",
+   "quizzes": [
+    {
+     "q": "«Zoroastr» hansı ölkədə tikildi?",
+     "options": [
+      "İsveç",
+      "Norveç",
+      "Almaniya"
+     ],
+     "answer": "İsveç",
+     "why": "Lüdviq Nobel onu İsveçdə tikdirdi."
+    },
+    {
+     "q": "İlk uğurlu neft tankeri «Zoroastr» hansı ildə üzdü?",
+     "options": [
+      "1848",
+      "1878",
+      "1908"
+     ],
+     "answer": "1878",
+     "why": "Bakıdan Həştərxana kerosin daşıdı."
+    },
+    {
+     "q": "Tankerdən əvvəl neft əsasən nədə daşınırdı?",
+     "options": [
+      "Çəlləklərdə",
+      "Kisələrdə",
+      "Qutularda"
+     ],
+     "answer": "Çəlləklərdə",
+     "why": "Çəlləklər baha idi və neft sızırdı."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-24",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-24-2",
+   "date": "2026-10-24",
+   "subject": "France has 12 time zones (13 when Saint-Pierre-et-Miquelon is on DST) — the most of any country — thanks to overseas territories (French Polynesia UTC-10 ... Wallis & Futuna UTC+12, plus New Caledonia, Réunion, Mayotte, Guadeloupe, French Guiana, Saint-Pierre, French Southern & Antarctic Lands); Russia and the USA have 11 each",
+   "cat": "Coğrafiya",
+   "quizzes": [
+    {
+     "q": "Rusiyanın neçə saat qurşağı var?",
+     "options": [
+      "9",
+      "11",
+      "13"
+     ],
+     "answer": "11",
+     "why": "Kalininqraddan Kamçatkaya qədər."
+    },
+    {
+     "q": "Ən çox saat qurşağı olan ölkə hansıdır?",
+     "options": [
+      "Rusiya",
+      "ABŞ",
+      "Fransa"
+     ],
+     "answer": "Fransa",
+     "why": "Dənizlərin o tayındakı əraziləri sayəsində."
+    },
+    {
+     "q": "Fransanın neçə saat qurşağı var?",
+     "options": [
+      "7",
+      "12",
+      "17"
+     ],
+     "answer": "12",
+     "why": "Yayda Sen-Pyerdə 13-cü də yaranır."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-24",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-24-3",
+   "date": "2026-10-24",
+   "subject": "Moon trees: Apollo 14 (1971) CMP Stuart Roosa, ex-USFS smokejumper, carried several hundred seeds (~500 per species per NASA) of 5 species (sycamore, loblolly pine, sweetgum, redwood, Douglas fir) in lunar orbit; bags burst during decontamination, seeds hand-sorted, most germinated; 1975-76 Bicentennial plantings in 40 states; ~90 trees accounted for",
+   "cat": "Kosmos",
+   "quizzes": [
+    {
+     "q": "Ay ağaclarının toxumunu kosmosa kim apardı?",
+     "options": [
+      "Styuart Rusa",
+      "Nil Armstronq",
+      "Bazz Oldrin"
+     ],
+     "answer": "Styuart Rusa",
+     "why": "Apollo 14 uçuşunda, 1971-ci ildə."
+    },
+    {
+     "q": "Toxumlar hansı uçuşda kosmosa getdi?",
+     "options": [
+      "Apollo 11",
+      "Apollo 14",
+      "Apollo 17"
+     ],
+     "answer": "Apollo 14",
+     "why": "Toxumlar Ayın ətrafında fırlanan gəmidə qaldı."
+    },
+    {
+     "q": "Rusa gəncliyində kim işləmişdi?",
+     "options": [
+      "Yanğınsöndürən",
+      "Aşpaz",
+      "Müəllim"
+     ],
+     "answer": "Yanğınsöndürən",
+     "why": "Meşə yanğınlarına paraşütlə enirdi."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-24",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-24-4",
+   "date": "2026-10-24",
+   "subject": "Blue whale heart rate measured for the first time in a free-swimming animal (Goldbogen et al., PNAS, 25 Nov 2019; Stanford/Scripps): suction-cup ECG tag placed near the left flipper with a ~6 m pole in Monterey Bay, California; 8.5 h record; heart rate as low as 2 bpm during dives (predicted 15), up to ~37 bpm at the surface after deep dives; dives up to 16.5 min, max depth 184 m",
+   "cat": "Təbiət",
+   "quizzes": [
+    {
+     "q": "Səthdə balinanın ürəyi dəqiqədə neçə dəfəyə qədər vurdu?",
+     "options": [
+      "17",
+      "37",
+      "77"
+     ],
+     "answer": "37",
+     "why": "Dərin dalışdan sonra sürətlənirdi."
+    },
+    {
+     "q": "Dərinlikdə mavi balinanın ürəyi dəqiqədə ən az neçə dəfə vurdu?",
+     "options": [
+      "2",
+      "12",
+      "20"
+     ],
+     "answer": "2",
+     "why": "Alimlər 15 gözləyirdi."
+    },
+    {
+     "q": "Bu ölçmə harada aparıldı?",
+     "options": [
+      "Kaliforniya",
+      "Avstraliya",
+      "Norveç"
+     ],
+     "answer": "Kaliforniya",
+     "why": "Monterey körfəzində."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-24",
      "qi": 0
     }
    ]

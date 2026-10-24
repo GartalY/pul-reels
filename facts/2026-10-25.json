@@ -1,6 +1,6 @@
 {
  "date": "2026-10-25",
- "status": "planned",
+ "status": "scheduled",
  "format": "v2",
  "content_format": "v3",
  "planned_note": "Planned in the 2026-10-24 09:10 run. 13:00 Azerbaijan reel (Michon 1898), 16:00 reel (Neptune by maths), 18:30 carousel = trend backup (Pando, from 2026-10-24 spare), 21:30 reel (Ötzi 61 tattoos); TBG = Windows XP 25 years. All photos fetched and checked.",
@@ -170,7 +170,7 @@
     "O, teleskopa baxmadan, yalnız hesablama ilə həmin planetin göydə harada olduğunu tapdı və bunu Berlin rəsədxanasına göndərdi.",
     "1846-cı il sentyabrın 23-də Yohann Qalle teleskopu oraya çevirdi. Neptun hesablanan yerdən cəmi 1 dərəcə aralıda idi. İnana bilirsən?"
    ],
-   "caption": "Neptunu əvvəlcə teleskopla yox, hesablama ilə tapıblar 🔭\n\nUran planeti öz yolundan bir az çıxırdı. Fransız alim Urben Le Verye hesabladı ki, onu daha uzaqda görünməyən bir planet çəkir, və onun yerini tapdı. 1846-cı il sentyabrın 23-də Berlində Yohann Qalle teleskopu həmin yerə çevirdi və Neptunu cəmi 1 dərəcə aralıda gördü. Maraqlıdır ki, Qaliley Neptunu hələ 1612-ci ildə görüb, amma onu ulduz sanıb.\n\n📩 «Riyaziyyat həyatda lazım deyil» deyən dostuna göndər 😄\n\nFoto: NASA/JPL (Voyager 2)\n\n#bilirdinizmi #maraqlıfaktlar #kosmos #neptun #astronomiya",
+   "caption": "Neptunu əvvəlcə teleskopla yox, hesablama ilə tapıblar 🔭\n\nUran planeti öz yolundan bir az çıxırdı. Fransız alim Urben Le Verye hesabladı ki, onu daha uzaqda görünməyən bir planet çəkir. O, bu planetin yerini də hesablayıb tapdı. 1846-cı il sentyabrın 23-də Berlində Yohann Qalle teleskopu həmin yerə çevirdi və Neptunu cəmi 1 dərəcə aralıda gördü. Maraqlıdır ki, Qaliley Neptunu hələ 1612-ci ildə görüb, amma onu ulduz sanıb.\n\n📩 «Riyaziyyat həyatda lazım deyil» deyən dostuna göndər 😄\n\nFoto: NASA/JPL (Voyager 2)\n\n#bilirdinizmi #maraqlıfaktlar #kosmos #neptun #astronomiya",
    "first_comment": "Məktəbdə riyaziyyatı sevirdin? 👇",
    "quizzes": [
     {
@@ -532,5 +532,26 @@
   }
  ],
  "trend_check_evening": "2026-10-24 20:50 Baku: searched AZ news (AZ), world breaking news, sport. El Clásico Barcelona-Real is Sun 25 Oct 21:00 CET = 00:00 Baku 26 Oct (already covered by today's 18:30 trend carousel). No big story needing a swap of tomorrow's planned posts; 18:30 Pando stays as trend backup for the 09:10 run (candidates: El Clásico result/preview, Serbia election Sunday - neutral only).",
- "build_note": "2026-10-24 evening: built H_1..H_6, tbg, 3_1..3_6, reels 1/2/4 (hook_bg; 1 & 4 full, 2 full:false), quizzes q1-q5. Quiz order changed so stories ask details, not the reel hooks (Le Verye, 6 000 ton, İki turist). quizplan.py now shuffles text options (correct answer was almost always A) and skips 'unposted' db facts (2026-10-24-3 Moon trees was swapped out, so it can't be a recall quiz). Reels run 21-25 s because beat time = reading time (language rule)."
+ "build_note": "2026-10-24 evening: built H_1..H_6, tbg, 3_1..3_6, reels 1/2/4 (hook_bg; 1 & 4 full, 2 full:false), quizzes q1-q5. Quiz order changed so stories ask details, not the reel hooks (Le Verye, 6 000 ton, İki turist). quizplan.py now shuffles text options (correct answer was almost always A) and skips 'unposted' db facts (2026-10-24-3 Moon trees was swapped out, so it can't be a recall quiz). Reels run 21-25 s because beat time = reading time (language rule).",
+ "metricool": {
+  "10:00 tarixdə bu gün carousel (Windows XP 25)": 405125790,
+  "13:00 reel (Michon 1898 Baku cinema)": 405125838,
+  "16:00 reel (Neptune by maths)": 405125916,
+  "18:30 carousel (Pando, trend backup)": 405125974,
+  "21:30 reel (Ötzi 61 tattoos)": 405126016,
+  "10:00 tarixdə bu gün story": 405126060,
+  "11:00 quiz q1 (recall Zoroastr)": 405126075,
+  "11:10 answer a1": 405126096,
+  "14:00 quiz q2": 405126107,
+  "14:10 answer a2": 405126122,
+  "17:00 quiz q3": 405126141,
+  "17:10 answer a3": 405126163,
+  "19:30 quiz q4": 405126179,
+  "19:40 answer a4": 405126189,
+  "22:30 quiz q5": 405126200,
+  "22:40 answer a5": 405126214
+ },
+ "language_fix": [
+  "16:00 caption: 'planet çəkir, və onun yerini tapdı' -> 'planet çəkir. O, bu planetin yerini də hesablayıb tapdı.'"
+ ]
 }

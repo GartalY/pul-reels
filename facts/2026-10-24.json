@@ -543,7 +543,6 @@
   "10:00 tarixdə bu gün carousel (Annie Taylor 1901)": 404371090,
   "13:00 reel (Zoroastr tanker)": 404371219,
   "16:00 reel (France 12 time zones)": 404371280,
-  "18:30 carousel (Moon trees, trend backup)": 404371385,
   "21:30 reel (blue whale 2 bpm)": 404371455,
   "10:00 tarixdə bu gün story": 404371536,
   "11:00 quiz q1 (recall Bluetooth)": 404371569,
@@ -552,10 +551,11 @@
   "14:10 answer a2": 404371640,
   "17:00 quiz q3": 404371664,
   "17:10 answer a3": 404371713,
-  "19:30 quiz q4": 404371754,
-  "19:40 answer a4": 404371782,
   "22:30 quiz q5": 404371810,
-  "22:40 answer a5": 404371838
+  "22:40 answer a5": 404371838,
+  "18:30 carousel (TREND: El Clasico 106-106)": 404929822,
+  "19:30 quiz q4_trend": 404929837,
+  "19:40 answer a4_trend": 404929852
  },
  "trend": {
   "n": "T",
@@ -649,6 +649,7 @@
   "why": "Morning trend (El Clásico tomorrow, all-time record level 106-106); football = biggest AZ audience interest, neutral.",
   "backup_moved_to": "2026-10-25 spare",
   "photo": "Camp Nou at night (Fikri Rasyid / Unsplash)",
-  "cover_fix": "sub shortened to 'Barselona – Real · sabah gecə 00:00' (NBSP) so the time doesn't wrap"
+  "cover_fix": "sub shortened to 'Barselona – Real · sabah gecə 00:00' (NBSP) so the time doesn't wrap",
+  "metricool": "updated 15:25 (18:30 post T_1..T_6, 19:30 q4_trend, 19:40 q4_trend_a); times kept"
  }
 }

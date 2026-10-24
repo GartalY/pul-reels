@@ -223,85 +223,87 @@
    "reel_hook_bg": true
   },
   {
-   "n": 3,
+   "n": "T",
    "type": "card",
-   "cat": "Kosmos",
-   "subject": "Moon trees: Apollo 14 (1971) CMP Stuart Roosa, ex-USFS smokejumper, carried several hundred seeds (~500 per species per NASA) of 5 species (sycamore, loblolly pine, sweetgum, redwood, Douglas fir) in lunar orbit; bags burst during decontamination, seeds hand-sorted, most germinated; 1975-76 Bicentennial plantings in 40 states; ~90 trees accounted for",
-   "photo_request": "Apollo 14 Moon Tree",
-   "title": "Ayın ətrafında uçan ağaclar",
-   "text": "1971-ci ildə astronavt Styuart Rusa özü ilə yüzlərlə ağac toxumu apardı. Sonra onlardan ABŞ-da ağaclar böyüdü.",
+   "format": "v2",
+   "cat": "Tarix",
+   "subject": "El Clásico, Barcelona vs Real Madrid, LaLiga, Sun 25 Oct 2026, Spotify Camp Nou, 21:00 CET (= 00:00 Mon Baku; CET from 25 Oct after DST ends, ESPN: 4 pm ET). All-time competitive head-to-head 264 matches: 106 wins each, 52 draws (Barcelona drew level with a 2-0 win on 10 May 2026). First meeting 13 May 1902, Copa de la Coronación semi-final, Barcelona 3-1 Madrid FC, at the hippodrome on La Castellana where the Bernabéu stands today. Biggest wins: Real Madrid 11-1 (Copa del Generalísimo, June 1943), Barcelona 7-2 (24 Sept 1950). Top scorer Messi 26. Context: Barcelona 9/9 league wins, Vinícius suspended.",
+   "photo_request": "Camp Nou at night (Unsplash)",
+   "title": "Klasikoda hesab 106–106-dır",
+   "text": "Barselona və Real Madrid 1902-ci ildən bəri rəsmi oyunlarda 264 dəfə qarşılaşıb. Hər biri 106 dəfə qalib gəlib.",
    "cover": {
-    "hook": "Bu ağacların toxumu Ayın ətrafında uçub",
-    "sub": "Apollo 14 · 1971 · 5 növ ağac"
+    "hook": "106–106: Klasikoda heç kim öndə deyil",
+    "sub": "Barselona – Real · sabah gecə 00:00"
    },
    "slides": [
     {
-     "h": "1971",
-     "t": "Apollo 14 uçuşunda Styuart Rusa Ayın ətrafında fırlanan gəmidə qaldı. Onun şəxsi çantasında 5 növ ağacın yüzlərlə toxumu var idi."
+     "h": "1902",
+     "t": "İlk El Klasiko 1902-ci il mayın 13-də Madriddə oynanıb. Barselona 3:1 qalib gəlib. Oyun indiki Bernabeu stadionunun yerindəki at yarışı meydanında keçirilib."
     },
     {
-     "h": "Yanğınsöndürən",
-     "t": "Rusa gəncliyində ABŞ Meşə Xidmətində işləmişdi. O, meşə yanğınlarına paraşütlə enən yanğınsöndürən idi. Toxumları da bu xidmət üçün aparmışdı."
+     "h": "106–106",
+     "t": "O vaxtdan rəsmi oyunlarda komandalar 264 dəfə qarşılaşıb. Hər biri 106 dəfə qalib gəlib, 52 oyun heç-heçə bitib. Barselona hesabı bu ilin mayında 2:0 qələbə ilə bərabərləşdirdi."
     },
     {
-     "h": "Dağıldı",
-     "t": "Yerə qayıdandan sonra yoxlama zamanı toxum torbaları partladı və toxumlar dağıldı. Alimlər onları əllə yığıb ayırdılar. Çoxu cücərdi."
+     "h": "11:1",
+     "t": "Ən böyük hesab 1943-cü ildə olub: Real Madrid kubok oyununda Barselonanı 11:1 udub. Barselonanın ən böyük qələbəsi isə 1950-ci ildə 7:2 olub."
     },
     {
-     "h": "40 ştat",
-     "t": "1976-cı ildə bu tinglər ABŞ-ın 40 ştatında əkildi. Bu gün onlardan təxminən 90-ının yeri məlumdur. Onlara «Ay ağacları» deyirlər."
+     "h": "26 qol",
+     "t": "Klasikoda ən çox qolu Lionel Messi vurub — 26 qol. Növbəti oyun sabah Kamp Nouda olacaq. Kim qalib gəlsə, ümumi hesabda önə keçəcək."
     }
    ],
-   "caption": "Bu ağacların toxumu Ayın ətrafında uçub 🌳\n\n1971-ci ildə Apollo 14 astronavtı Styuart Rusa özü ilə 5 növ ağacın yüzlərlə toxumunu apardı. Toxumlar Ayın ətrafında fırlanan gəmidə onunla birlikdə uçdu. Yerə qayıdandan sonra onları əkdilər və 1976-cı ildə tinglər ABŞ-ın 40 ştatında əkildi. Bu ağaclara indi «Ay ağacları» deyirlər.\n\n📩 Evdə bir gül belə saxlaya bilməyən dostuna göndər 😄\n\nFoto: Plefkag / Wikimedia Commons (CC0)\n\n#bilirdinizmi #maraqlıfaktlar #kosmos #ağac #nasa",
-   "first_comment": "Sən kosmosdan nə gətirmək istərdin? 👇",
+   "caption": "El Klasikoda ümumi hesab tam bərabərdir: 106–106 ⚽\n\nBarselona və Real Madrid 1902-ci ildən bəri rəsmi oyunlarda 264 dəfə qarşılaşıb. Hər komanda 106 dəfə qalib gəlib, 52 oyun heç-heçə bitib. Növbəti oyun sabah Kamp Nouda, Bakı vaxtı ilə gecə saat 00:00-da başlayır. Kim qalib gəlsə, ümumi hesabda önə keçəcək.\n\n📩 Hər Klasikodan əvvəl «bu dəfə biz udacağıq» deyən dostuna göndər 😄\n\nFoto: Fikri Rasyid / Unsplash\n\n#bilirdinizmi #maraqlıfaktlar #elklasiko #futbol #laliqa",
+   "first_comment": "Sabah kim qalib gələcək: Barselona, yoxsa Real? 👇",
    "quizzes": [
     {
-     "q": "Ay ağaclarının toxumunu kosmosa kim apardı?",
+     "q": "İlk El Klasiko hansı ildə oynanıb?",
      "options": [
-      "Styuart Rusa",
-      "Nil Armstronq",
-      "Bazz Oldrin"
+      "1902",
+      "1922",
+      "1952"
      ],
-     "answer": "Styuart Rusa",
-     "why": "Apollo 14 uçuşunda, 1971-ci ildə."
+     "answer": "1902",
+     "why": "Barselona Madriddə 3:1 qalib gəlib."
     },
     {
-     "q": "Toxumlar hansı uçuşda kosmosa getdi?",
+     "q": "Rəsmi oyunlarda hər komanda neçə dəfə qalib gəlib?",
      "options": [
-      "Apollo 11",
-      "Apollo 14",
-      "Apollo 17"
+      "96",
+      "106",
+      "116"
      ],
-     "answer": "Apollo 14",
-     "why": "Toxumlar Ayın ətrafında fırlanan gəmidə qaldı."
+     "answer": "106",
+     "why": "264 oyunda 52 heç-heçə olub."
     },
     {
-     "q": "Rusa gəncliyində kim işləmişdi?",
+     "q": "Klasikoda ən çox qolu kim vurub?",
      "options": [
-      "Yanğınsöndürən",
-      "Aşpaz",
-      "Müəllim"
+      "Messi",
+      "Ronaldo",
+      "Benzema"
      ],
-     "answer": "Yanğınsöndürən",
-     "why": "Meşə yanğınlarına paraşütlə enirdi."
+     "answer": "Messi",
+     "why": "Lionel Messi 26 qol vurub."
     }
    ],
    "sources": [
-    "https://nssdc.gsfc.nasa.gov/planetary/lunar/moon_trees/roosa_moon_tree_seeds.html",
-    "https://atlasobscura.com/articles/what-happened-to-moon-trees",
-    "https://science.nasa.gov/resource/apollo-moon-trees/"
+    "https://en.wikipedia.org/wiki/El_Cl%C3%A1sico",
+    "https://www.hapsport.com/articles/who-has-more-el-clasico-wins",
+    "https://www.espn.com/soccer/story/_/id/50227950/barcelona-real-madrid-laliga-clasico-form-team-news-combined-xi-predictions-odds-all-head-head",
+    "https://www.fcbarcelona.com/en/news/769657/the-first-ever-meeting-between-madrid-and-fc-barcelona-in-1902/amp",
+    "https://www.football-espana.net/2026/09/02/2026-27-el-clasico-date",
+    "https://khelnow.com/football/barcelona-vs-real-madrid-preview-laliga-202610"
    ],
-   "verify_note": "Roosa = Apollo 14 Command Module pilot (stayed in lunar orbit), USFS smokejumper 1953, 5 species, bags burst during vacuum decontamination, seeds sorted by hand, most began to grow, Bicentennial plantings in 40 states: NASA NSSDC. Seed count: NASA ~500 per species, Atlas Obscura 'several hundred, exact number unknown' -> 'yüzlərlə'. ~90 trees accounted for: Atlas Obscura. Never said the seeds landed on the Moon. Re-checked 2026-10-23 (NASA Apollo Moon Trees page).",
+   "verify_note": "106-106 with 52 draws in 264 competitive matches: Wikipedia (as of 10 May 2026), Hap Sport (7 Oct 2026: level after Barça 2-0 on 10 May 2026), ESPN 23 Oct 2026 (264 meetings, 106 each). Hap Sport notes 106-105 if the 1902 Coronation Cup is excluded -> we say 'rəsmi oyunlar' and follow the commonly quoted tally. First match 13 May 1902, 3-1, hippodrome on La Castellana where the Bernabéu now stands: FC Barcelona official site + Wikipedia. 11-1 in 1943 (Copa del Generalísimo; Wikipedia gives 13 or 19 June -> only the year used), Barça 7-2 in 1950: Wikipedia. Messi 26 goals: Wikipedia. Date/venue 25 Oct 2026 Camp Nou 21:00 CET: Football España, Khel Now; ESPN 4 pm ET -> 20:00 UTC -> 00:00 Baku (Mon 26 Oct). Neutral sports post, no club favoured.",
    "photo": {
-    "path": "fetch/img/2026-10-22_moontree_b.jpg",
-    "credit": "Plefkag / Wikimedia Commons (CC0)",
-    "cy": 0.45,
+    "path": "fetch/img/2026-10-24_T_campnou.jpg",
+    "credit": "Fikri Rasyid / Unsplash",
+    "cy": 0.5,
     "full": true,
-    "source": "https://commons.wikimedia.org/wiki/File:Sycamore_Moon_Tree_at_Core_Creek_State_Park,_Bucks_County_PA.jpg",
-    "note": "Original Apollo 14 sycamore Moon tree planted 1976, Core Creek State Park PA (portrait).",
-    "alt": "fetch/img/2026-10-22_moontree_a.jpg (2nd-generation loblolly seedling dedicated by the Artemis II crew at JSC, June 2026, NASA/James Blair, public domain)"
-   },
-   "format": "v2"
+    "source": "https://unsplash.com/photos/b84nM5W-AF0",
+    "note": "Camp Nou exterior at night with FCB crest, portrait 2000x3000"
+   }
   },
   {
    "n": 4,
@@ -504,19 +506,19 @@
   },
   {
    "time": "19:30",
-   "fact_id": "2026-10-24-3",
+   "fact_id": "2026-10-24-T",
    "recall": false,
-   "cat": "Kosmos",
-   "q": "Ay ağaclarının toxumunu kosmosa kim apardı?",
+   "cat": "Tarix",
+   "q": "İlk El Klasiko hansı ildə oynanıb?",
    "options": [
-    "Styuart Rusa",
-    "Nil Armstronq",
-    "Bazz Oldrin"
+    "1902",
+    "1922",
+    "1952"
    ],
-   "answer": "Styuart Rusa",
-   "why": "Apollo 14 uçuşunda, 1971-ci ildə.",
-   "image": "out/2026-10-24/q4.jpg",
-   "answer_image": "out/2026-10-24/q4_a.jpg"
+   "answer": "1902",
+   "why": "Barselona Madriddə 3:1 qalib gəlib.",
+   "image": "out/2026-10-24/q4_trend.jpg",
+   "answer_image": "out/2026-10-24/q4_trend_a.jpg"
   },
   {
    "time": "22:30",
@@ -566,7 +568,7 @@
   "text": "Barselona və Real Madrid 1902-ci ildən bəri rəsmi oyunlarda 264 dəfə qarşılaşıb. Hər biri 106 dəfə qalib gəlib.",
   "cover": {
    "hook": "106–106: Klasikoda heç kim öndə deyil",
-   "sub": "Barselona – Real Madrid · sabah gecə 00:00"
+   "sub": "Barselona – Real · sabah gecə 00:00"
   },
   "slides": [
    {
@@ -639,5 +641,14 @@
   }
  },
  "trend_check_morning": "2026-10-24 09:15 Baku: searched world/AZ news, sport, viral. Big stories: Iran war (tragedy/AZ-region -> no), Serbia 150,000 student-led rally before Sunday's election, France protests (covered yesterday), El Clásico tomorrow with the all-time record level at 106-106. Picked El Clásico (football = biggest AZ audience interest, neutral, number-first). No swap of other slots needed; 21:30 blue whale reel stays. Midday task: build T carousel and replace 18:30 Moon trees (backup) + 19:30/19:40 quiz.",
- "spare_moved": "Pando (spare n=3) planned as 2026-10-25 facts[2] (18:30 trend backup)"
+ "spare_moved": "Pando (spare n=3) planned as 2026-10-25 facts[2] (18:30 trend backup) | Moon trees (backup facts[2]) -> 2026-10-25 spare (trend swap 15:23)",
+ "trend_swap": {
+  "when": "2026-10-24 15:24 Asia/Baku",
+  "slot": "18:30 carousel + 19:30 quiz + 19:40 answer",
+  "what": "Moon trees -> El Clásico 106-106 (T_1..T_6)",
+  "why": "Morning trend (El Clásico tomorrow, all-time record level 106-106); football = biggest AZ audience interest, neutral.",
+  "backup_moved_to": "2026-10-25 spare",
+  "photo": "Camp Nou at night (Fikri Rasyid / Unsplash)",
+  "cover_fix": "sub shortened to 'Barselona – Real · sabah gecə 00:00' (NBSP) so the time doesn't wrap"
+ }
 }

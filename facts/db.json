@@ -1434,12 +1434,7 @@
      "why": "Meşə yanğınlarına paraşütlə enirdi."
     }
    ],
-   "asked": [
-    {
-     "date": "2026-10-24",
-     "qi": 0
-    }
-   ]
+   "asked": []
   },
   {
    "id": "2026-10-24-4",
@@ -1476,6 +1471,50 @@
      ],
      "answer": "Kaliforniya",
      "why": "Monterey körfəzində."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-24",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-24-T",
+   "date": "2026-10-24",
+   "subject": "El Clásico, Barcelona vs Real Madrid, LaLiga, Sun 25 Oct 2026, Spotify Camp Nou, 21:00 CET (= 00:00 Mon Baku; CET from 25 Oct after DST ends, ESPN: 4 pm ET). All-time competitive head-to-head 264 matches: 106 wins each, 52 draws (Barcelona drew level with a 2-0 win on 10 May 2026). First meeting 13 May 1902, Copa de la Coronación semi-final, Barcelona 3-1 Madrid FC, at the hippodrome on La Castellana where the Bernabéu stands today. Biggest wins: Real Madrid 11-1 (Copa del Generalísimo, June 1943), Barcelona 7-2 (24 Sept 1950). Top scorer Messi 26. Context: Barcelona 9/9 league wins, Vinícius suspended.",
+   "cat": "Tarix",
+   "quizzes": [
+    {
+     "q": "İlk El Klasiko hansı ildə oynanıb?",
+     "options": [
+      "1902",
+      "1922",
+      "1952"
+     ],
+     "answer": "1902",
+     "why": "Barselona Madriddə 3:1 qalib gəlib."
+    },
+    {
+     "q": "Rəsmi oyunlarda hər komanda neçə dəfə qalib gəlib?",
+     "options": [
+      "96",
+      "106",
+      "116"
+     ],
+     "answer": "106",
+     "why": "264 oyunda 52 heç-heçə olub."
+    },
+    {
+     "q": "Klasikoda ən çox qolu kim vurub?",
+     "options": [
+      "Messi",
+      "Ronaldo",
+      "Benzema"
+     ],
+     "answer": "Messi",
+     "why": "Lionel Messi 26 qol vurub."
     }
    ],
    "asked": [

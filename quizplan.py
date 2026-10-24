@@ -50,7 +50,7 @@ def main():
         free = [i for i in range(len(e["quizzes"])) if i not in used]
         return (free or list(range(len(e["quizzes"]))))[0]
 
-    older = [e for e in db["facts"] if e["date"] < D]
+    older = [e for e in db["facts"] if e["date"] < D and not e.get("unposted")]   # skip swapped-out backups that never posted
     def last_asked(e): return max([a["date"] for a in e["asked"]] or ["0000"])
     rnd.shuffle(older)
     older.sort(key=last_asked)            # least recently quizzed first (shuffle breaks ties randomly)
@@ -68,8 +68,15 @@ def main():
             qi = 1 if len(e["quizzes"]) > 1 else 0
         q = e["quizzes"][qi]
         e["asked"].append({"date": D, "qi": qi})
+        opts = list(q["options"])
+        # 2026-10-24: the correct option was nearly always written first (A) -> shuffle text options so the
+        # answer letter varies; numeric options keep their natural ascending order.
+        if not all(any(ch.isdigit() for ch in o) for o in opts):
+            rnd.shuffle(opts)
+            if stories and opts.index(q["answer"]) == stories[-1]["options"].index(stories[-1]["answer"]):
+                opts = opts[1:] + opts[:1]
         stories.append({"time": t, "fact_id": e["id"], "recall": src == "recall", "cat": e["cat"],
-                        "q": q["q"], "options": q["options"], "answer": q["answer"], "why": q.get("why", "")})
+                        "q": q["q"], "options": opts, "answer": q["answer"], "why": q.get("why", "")})
 
     # 3) previous-answer chain
     prev_day = (date.fromisoformat(D) - timedelta(days=1)).isoformat()

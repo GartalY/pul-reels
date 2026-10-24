@@ -382,6 +382,10 @@
     {
      "date": "2026-10-18",
      "qi": 0
+    },
+    {
+     "date": "2026-10-25",
+     "qi": 1
     }
    ]
   },
@@ -1434,7 +1438,9 @@
      "why": "Meşə yanğınlarına paraşütlə enirdi."
     }
    ],
-   "asked": []
+   "asked": [],
+   "unposted": true,
+   "unposted_note": "trend backup swapped out on 2026-10-24 (moved to spare) -> never posted, no recall quiz"
   },
   {
    "id": "2026-10-24-4",
@@ -1520,6 +1526,182 @@
    "asked": [
     {
      "date": "2026-10-24",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-25-1",
+   "date": "2026-10-25",
+   "subject": "Cinema in Azerbaijan began in 1898: French photographer Alexandre Michon (lived in Baku 25+ years, had a photo studio) filmed Baku with a Lumière camera; first screening 2 Aug 1898 at the Vasilyev-Vyatski circus theatre in Baku; programme incl. 'The Oil Gush Fire in Bibiheybat' (~30 s, silent, 35 mm) and 'Caucasian dance'; repeated 5 Aug; 2 August = Azerbaijani Cinema Day by decree of 18 Dec 2000.",
+   "cat": "Azərbaycan",
+   "quizzes": [
+    {
+     "q": "Bakıda ilk filmləri kim göstərdi?",
+     "options": [
+      "Aleksandr Mişon",
+      "Lümyer qardaşları",
+      "Tomas Edison"
+     ],
+     "answer": "Aleksandr Mişon",
+     "why": "Bakıda yaşayan fransız fotoqraf idi."
+    },
+    {
+     "q": "Azərbaycan Kinosu Günü hansı tarixdir?",
+     "options": [
+      "2 avqust",
+      "28 may",
+      "12 yanvar"
+     ],
+     "answer": "2 avqust",
+     "why": "1898-ci il avqustun 2-də ilk filmlər göstərildi."
+    },
+    {
+     "q": "Bibiheybət filmi nə haqqında idi?",
+     "options": [
+      "Neft fontanının yanğını",
+      "Bakı limanı",
+      "Qız qalası"
+     ],
+     "answer": "Neft fontanının yanğını",
+     "why": "Film cəmi 30 saniyəyə yaxın idi."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-25",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-25-2",
+   "date": "2026-10-25",
+   "subject": "Neptune: first planet found by mathematical prediction. Le Verrier (from June 1845) calculated the position of an unseen planet disturbing Uranus' orbit and sent it to Johann Galle at the Berlin Observatory; Galle found Neptune on 23 Sept 1846 about 1° from Le Verrier's predicted position (Adams' prediction ~12° off). Galileo apparently recorded Neptune in 1612 but took it for a star.",
+   "cat": "Kosmos",
+   "quizzes": [
+    {
+     "q": "Neptunun yerini kim hesabladı?",
+     "options": [
+      "Le Verye",
+      "Qaliley",
+      "Kepler"
+     ],
+     "answer": "Le Verye",
+     "why": "Fransız alim Urben Le Verye."
+    },
+    {
+     "q": "Neptun hansı ildə tapıldı?",
+     "options": [
+      "1781",
+      "1846",
+      "1930"
+     ],
+     "answer": "1846",
+     "why": "Sentyabrın 23-də Berlin rəsədxanasında."
+    },
+    {
+     "q": "Neptun hesablanan yerdən nə qədər aralıda çıxdı?",
+     "options": [
+      "1 dərəcə",
+      "10 dərəcə",
+      "30 dərəcə"
+     ],
+     "answer": "1 dərəcə",
+     "why": "Hesablama çox dəqiq idi."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-25",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-25-3",
+   "date": "2026-10-25",
+   "subject": "Pando, Utah: one quaking aspen clone, ~47,000 genetically identical stems on one root system, ~106 acres (~43 ha), ~6,000 t (13.3 million lb); stems live ~130-150 years; deer/elk browsing, ~80% fenced",
+   "cat": "Təbiət",
+   "quizzes": [
+    {
+     "q": "Pandonun çəkisi təxminən nə qədərdir?",
+     "options": [
+      "60 ton",
+      "600 ton",
+      "6 000 ton"
+     ],
+     "answer": "6 000 ton",
+     "why": "Dünyanın ən ağır canlılarından biri sayılır."
+    },
+    {
+     "q": "Pandoda təxminən neçə gövdə var?",
+     "options": [
+      "4 700",
+      "47 000",
+      "470 000"
+     ],
+     "answer": "47 000",
+     "why": "Hamısı eyni kök sistemindən çıxır."
+    },
+    {
+     "q": "Pandonun hər gövdəsi təxminən neçə il yaşayır?",
+     "options": [
+      "13–15 il",
+      "130–150 il",
+      "1 300–1 500 il"
+     ],
+     "answer": "130–150 il",
+     "why": "Sonra yerinə kökdən yeni gövdə çıxır."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-25",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-25-4",
+   "date": "2026-10-25",
+   "subject": "Ötzi the Iceman: found 19 Sept 1991 by German hikers Erika and Helmut Simon at ~3,210 m near Tisenjoch (Schnalstal, South Tyrol, Italy, near the Austrian border); first taken for a recent mountaineering accident; died ~3,300 BC / ~5,300 years old; 61 tattoos mapped with multispectral imaging (2015), parallel lines and X-shaped marks, mostly at points associated with acupuncture / joints, possibly to relieve pain; 2024 study: probably hand-poked.",
+   "cat": "Tarix",
+   "quizzes": [
+    {
+     "q": "Ötsini kim tapdı?",
+     "options": [
+      "İki turist",
+      "Hərbçilər",
+      "Arxeoloqlar"
+     ],
+     "answer": "İki turist",
+     "why": "Alman turistlər Erika və Helmut Simon."
+    },
+    {
+     "q": "Ötsi təxminən neçə il əvvəl yaşayıb?",
+     "options": [
+      "530",
+      "5 300",
+      "53 000"
+     ],
+     "answer": "5 300",
+     "why": "1991-ci ildə Alp dağlarında buzda tapıldı."
+    },
+    {
+     "q": "Ötsinin bədənində neçə döymə tapılıb?",
+     "options": [
+      "16",
+      "61",
+      "161"
+     ],
+     "answer": "61",
+     "why": "Xüsusi kameralarla sayıldı."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-25",
      "qi": 0
     }
    ]

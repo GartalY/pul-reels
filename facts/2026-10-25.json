@@ -174,16 +174,6 @@
    "first_comment": "Məktəbdə riyaziyyatı sevirdin? 👇",
    "quizzes": [
     {
-     "q": "Neptun hansı ildə tapıldı?",
-     "options": [
-      "1781",
-      "1846",
-      "1930"
-     ],
-     "answer": "1846",
-     "why": "Sentyabrın 23-də Berlin rəsədxanasında."
-    },
-    {
      "q": "Neptunun yerini kim hesabladı?",
      "options": [
       "Le Verye",
@@ -192,6 +182,16 @@
      ],
      "answer": "Le Verye",
      "why": "Fransız alim Urben Le Verye."
+    },
+    {
+     "q": "Neptun hansı ildə tapıldı?",
+     "options": [
+      "1781",
+      "1846",
+      "1930"
+     ],
+     "answer": "1846",
+     "why": "Sentyabrın 23-də Berlin rəsədxanasında."
     },
     {
      "q": "Neptun hesablanan yerdən nə qədər aralıda çıxdı?",
@@ -249,16 +249,6 @@
    "first_comment": "Bunu bilirdin, yoxsa indi öyrəndin? 👇",
    "quizzes": [
     {
-     "q": "Pandoda təxminən neçə gövdə var?",
-     "options": [
-      "4 700",
-      "47 000",
-      "470 000"
-     ],
-     "answer": "47 000",
-     "why": "Hamısı eyni kök sistemindən çıxır."
-    },
-    {
      "q": "Pandonun çəkisi təxminən nə qədərdir?",
      "options": [
       "60 ton",
@@ -267,6 +257,16 @@
      ],
      "answer": "6 000 ton",
      "why": "Dünyanın ən ağır canlılarından biri sayılır."
+    },
+    {
+     "q": "Pandoda təxminən neçə gövdə var?",
+     "options": [
+      "4 700",
+      "47 000",
+      "470 000"
+     ],
+     "answer": "47 000",
+     "why": "Hamısı eyni kök sistemindən çıxır."
     },
     {
      "q": "Pandonun hər gövdəsi təxminən neçə il yaşayır?",
@@ -318,6 +318,16 @@
    "first_comment": "Səncə, bu döymələr nə üçün idi? 👇",
    "quizzes": [
     {
+     "q": "Ötsini kim tapdı?",
+     "options": [
+      "İki turist",
+      "Hərbçilər",
+      "Arxeoloqlar"
+     ],
+     "answer": "İki turist",
+     "why": "Alman turistlər Erika və Helmut Simon."
+    },
+    {
      "q": "Ötsi təxminən neçə il əvvəl yaşayıb?",
      "options": [
       "530",
@@ -336,16 +346,6 @@
      ],
      "answer": "61",
      "why": "Xüsusi kameralarla sayıldı."
-    },
-    {
-     "q": "Ötsini kim tapdı?",
-     "options": [
-      "İki turist",
-      "Hərbçilər",
-      "Arxeoloqlar"
-     ],
-     "answer": "İki turist",
-     "why": "Alman turistlər Erika və Helmut Simon."
     }
    ],
    "sources": [
@@ -448,5 +448,89 @@
    },
    "format": "v2"
   }
- ]
+ ],
+ "stories": [
+  {
+   "time": "11:00",
+   "fact_id": "2026-10-18-3",
+   "recall": true,
+   "cat": "Azərbaycan",
+   "q": "Dünyanın ilk neft tankeri «Zoroastr» harada işləyib?",
+   "options": [
+    "Atlantik okeanında",
+    "Xəzər dənizində",
+    "Qara dənizdə"
+   ],
+   "answer": "Xəzər dənizində",
+   "why": "1878-ci ildə Branobel üçün İsveçdə tikilib, Bakı–Həştərxan xəttində işləyib.",
+   "image": "out/2026-10-25/q1.jpg",
+   "answer_image": "out/2026-10-25/q1_a.jpg"
+  },
+  {
+   "time": "14:00",
+   "fact_id": "2026-10-25-1",
+   "recall": false,
+   "cat": "Azərbaycan",
+   "q": "Bakıda ilk filmləri kim göstərdi?",
+   "options": [
+    "Tomas Edison",
+    "Lümyer qardaşları",
+    "Aleksandr Mişon"
+   ],
+   "answer": "Aleksandr Mişon",
+   "why": "Bakıda yaşayan fransız fotoqraf idi.",
+   "image": "out/2026-10-25/q2.jpg",
+   "answer_image": "out/2026-10-25/q2_a.jpg"
+  },
+  {
+   "time": "17:00",
+   "fact_id": "2026-10-25-2",
+   "recall": false,
+   "cat": "Kosmos",
+   "q": "Neptunun yerini kim hesabladı?",
+   "options": [
+    "Qaliley",
+    "Le Verye",
+    "Kepler"
+   ],
+   "answer": "Le Verye",
+   "why": "Fransız alim Urben Le Verye.",
+   "image": "out/2026-10-25/q3.jpg",
+   "answer_image": "out/2026-10-25/q3_a.jpg"
+  },
+  {
+   "time": "19:30",
+   "fact_id": "2026-10-25-3",
+   "recall": false,
+   "cat": "Təbiət",
+   "q": "Pandonun çəkisi təxminən nə qədərdir?",
+   "options": [
+    "60 ton",
+    "600 ton",
+    "6 000 ton"
+   ],
+   "answer": "6 000 ton",
+   "why": "Dünyanın ən ağır canlılarından biri sayılır.",
+   "image": "out/2026-10-25/q4.jpg",
+   "answer_image": "out/2026-10-25/q4_a.jpg"
+  },
+  {
+   "time": "22:30",
+   "fact_id": "2026-10-25-4",
+   "recall": false,
+   "cat": "Tarix",
+   "q": "Ötsini kim tapdı?",
+   "options": [
+    "İki turist",
+    "Hərbçilər",
+    "Arxeoloqlar"
+   ],
+   "answer": "İki turist",
+   "why": "Alman turistlər Erika və Helmut Simon.",
+   "image": "out/2026-10-25/q5.jpg",
+   "answer_image": "out/2026-10-25/q5_a.jpg"
+  }
+ ],
+ "trend_check_evening": "2026-10-24 20:50 Baku: searched AZ news (AZ), world breaking news, sport. El Clásico Barcelona-Real is Sun 25 Oct 21:00 CET = 00:00 Baku 26 Oct (already covered by today's 18:30 trend carousel). No big story needing a swap of tomorrow's planned posts; 18:30 Pando stays as trend backup for the 09:10 run (candidates: El Clásico result/preview, Serbia election Sunday - neutral only).",
+ "build_note": "2026-10-24 evening: built H_1..H_6, tbg, 3_1..3_6, reels 1/2/4 (hook_bg; 1 & 4 full, 2 full:false), quizzes q1-q5. Quiz order changed so stories ask details, not the reel hooks (Le Verye, 6 000 ton, İki turist). quizplan.py now shuffles text options (correct answer was almost always A) and skips 'unposted' db facts (2026-10-24-3 Moon trees was swapped out, so it can't be a recall quiz). Reels run 21-25 s because beat time = reading time (language rule)."
 }

@@ -55,6 +55,12 @@ Feed posts (all automatic):
   formula (history, places, records, inventions, people — never current Azerbaijani politics). Fact-check twice:
   locals know these stories and WILL correct us in the comments; prefer facts with 2+ independent sources and
   mention the commonly believed myth if one exists (e.g. "Şollar" is a village, not a person's name).
+  EVIDENCE 2026-10-23/24: "1 GÜN = 18 SAAT" (world science) passed 1.4K views, 34 likes, 5 comments, 2 shares, while
+  the Azerbaijan reel "1965: BAKILI ALİM… «TƏXMİNƏN»" (Lotfi Zadeh, fuzzy logic) stalled at ~165 views / 26 %.
+  So the winning ingredient is NOT "Azerbaijan" alone: it is a claim about something the viewer PERSONALLY touches
+  (the water they drink, the length of their own day) + a huge/precise number. Abstract ideas (algorithms, theories)
+  lose even with a famous Baku name. Keep the daily 13:00 Azerbaijan reel, but choose physical, everyday or
+  place-based topics (water, food, buildings, streets, metro, oil, sea, records) — not abstract science.
   FOLLOW HOOK (2026-10-22: Şollar reel reached 1 392 views but brought ~1 follower): the 13:00 Azerbaijan reel is a
   SERIES with a reason to follow. Render it with "cta":"Hər gün 13:00-da yeni Bakı faktı — izlə!" (replaces the quiz
   CTA) and end its caption (before hashtags) with: "👉 Hər gün 13:00-da Azərbaycan haqqında bilmədiyin bir fakt —

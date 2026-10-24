@@ -130,3 +130,9 @@ search_1025_bibiheybat.json https://commons.wikimedia.org/w/api.php?action=query
 search_1025_neptune.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Neptune%20Voyager%202%20full%20disk
 search_1025_otzi.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=%C3%96tzi%20reconstruction
 search_1025_otzi2.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=%C3%96tzi%20tattoos
+2026-10-25_1_michon_oil_a.jpg https://upload.wikimedia.org/wikipedia/commons/0/09/3_phot._de_l%27extraction_du_p%C3%A9trole_pr%C3%A8s_de_Bakou_%28Caucase_russe%29_en_1887%2C_par_A._Michon%2C_don_Ed._Cotteau_en_1888_-_btv1b531743507_%281_of_3%29.jpg
+2026-10-25_1_michon_oil_b.jpg https://upload.wikimedia.org/wikipedia/commons/6/66/3_phot._de_l%27extraction_du_p%C3%A9trole_pr%C3%A8s_de_Bakou_%28Caucase_russe%29_en_1887%2C_par_A._Michon%2C_don_Ed._Cotteau_en_1888_-_btv1b531743507_%282_of_3%29.jpg
+2026-10-25_1_michon_baku.jpg https://upload.wikimedia.org/wikipedia/commons/7/79/%D0%91%D0%B0%D0%BA%D1%83_%D0%BC%D0%B8%D1%88%D0%BE%D0%BD.jpg
+2026-10-25_2_neptune.jpg https://upload.wikimedia.org/wikipedia/commons/d/d2/Neptune_Full_%28original%29.jpg
+2026-10-25_4_otzi_museo.jpg https://upload.wikimedia.org/wikipedia/commons/d/d3/Otzi_museo.jpg
+2026-10-25_4_otzi_kennis.jpg https://upload.wikimedia.org/wikipedia/commons/f/fa/%C3%96tzi_while_being_constructed_by_the_Kennis_Brothers%2C_2011_%282%29.jpg

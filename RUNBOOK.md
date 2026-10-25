@@ -357,6 +357,9 @@ small data-backed changes here; recommend bigger ones (times, volume, format mix
 - HEYGEN avatar reels: the free plan gives only ~3 videos a month, so it can't be a regular slot. Use it as a
   one-off test only if Gartal wants: 1–2 avatar reels on a proven topic type (number + everyday/Baku), compared
   with the normal reel the same week. Not scheduled; Gartal would have to record his voice/avatar.
+- ANIMATED REELS: DROPPED (2026-10-25). Two prototypes (prototypes/anim_baku.py pixel-art, prototypes/cine/ 3D)
+  were judged "very bad" by Gartal (box buildings, poor Flame Towers). Don't propose code-drawn animation again;
+  real animation would need paid AI-video tools (no budget). Keep photo reels + the voice split test.
 ## Roadmap (original, decided 2026-10-16)
 - ~2026-10-30 two-week check (weekly review): if the Azerbaijani page is growing, propose launching a
   TURKISH facts page as a 2nd Metricool brand (plan allows 5): same verified facts adapted to Turkish,

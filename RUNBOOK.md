@@ -360,6 +360,9 @@ small data-backed changes here; recommend bigger ones (times, volume, format mix
 - ANIMATED REELS: DROPPED (2026-10-25). Two prototypes (prototypes/anim_baku.py pixel-art, prototypes/cine/ 3D)
   were judged "very bad" by Gartal (box buildings, poor Flame Towers). Don't propose code-drawn animation again;
   real animation would need paid AI-video tools (no budget). Keep photo reels + the voice split test.
+- AI VIDEO (Google Flow/Veo, free 50 credits/day ≈ 5 clips; Kling): PARKED (Gartal, 2026-10-25) because it
+  needs him to generate clips by hand and he wants everything automated. Revisit only if an automated, free or
+  ~$5/month option appears (e.g. a free Veo/other video API). Until then: photo reels + Banu voice test.
 ## Roadmap (original, decided 2026-10-16)
 - ~2026-10-30 two-week check (weekly review): if the Azerbaijani page is growing, propose launching a
   TURKISH facts page as a 2nd Metricool brand (plan allows 5): same verified facts adapted to Turkish,

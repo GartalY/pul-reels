@@ -1,0 +1,267 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>html,body{margin:0;background:#000;overflow:hidden}canvas{display:block}</style>
+<script type="importmap">{"imports":{"three":"./node_modules/three/build/three.module.js","three/addons/":"./node_modules/three/examples/jsm/"}}</script>
+</head><body>
+<script type="module">
+import * as THREE from 'three';
+import { Sky } from 'three/addons/objects/Sky.js';
+import { Water } from 'three/addons/objects/Water.js';
+import { ImprovedNoise } from 'three/addons/math/ImprovedNoise.js';
+import { EffectComposer } from 'three/addons/postprocessing/EffectComposer.js';
+import { RenderPass } from 'three/addons/postprocessing/RenderPass.js';
+import { UnrealBloomPass } from 'three/addons/postprocessing/UnrealBloomPass.js';
+import { OutputPass } from 'three/addons/postprocessing/OutputPass.js';
+
+const W = 720, H = 1280;
+const P = new URLSearchParams(location.search);
+const SEG = JSON.parse(P.get('seg') || '[3.49,7.91,7.05,9.78,1.8]');
+const ST = SEG.map((_, i) => SEG.slice(0, i).reduce((a, b) => a + b, 0));
+const DUR = SEG.reduce((a, b) => a + b, 0);
+
+const renderer = new THREE.WebGLRenderer({ antialias: true, preserveDrawingBuffer: true });
+renderer.setPixelRatio(1); renderer.setSize(W, H);
+renderer.toneMapping = THREE.ACESFilmicToneMapping; renderer.toneMappingExposure = 0.42;
+document.body.appendChild(renderer.domElement);
+const scene = new THREE.Scene();
+const camera = new THREE.PerspectiveCamera(50, W / H, 2, 300000);
+
+// ---------- deterministic random ----------
+let seed = 12345; const rnd = () => (seed = (seed * 16807) % 2147483647) / 2147483647;
+const noise = new ImprovedNoise();
+
+// ---------- sky + sun ----------
+const sky = new Sky(); sky.scale.setScalar(250000); scene.add(sky);
+const su = sky.material.uniforms;
+su.turbidity.value = 3.5; su.rayleigh.value = 1.6; su.mieCoefficient.value = 0.0025; su.mieDirectionalG.value = 0.78;
+const sun = new THREE.Vector3();
+const dirLight = new THREE.DirectionalLight(0xffd2a0, 3.0); scene.add(dirLight); scene.add(dirLight.target);
+const hemi = new THREE.HemisphereLight(0x9fb8ff, 0x6b5a40, 0.6); scene.add(hemi);
+scene.fog = new THREE.FogExp2(0xd9a780, 0.000035);
+const pmrem = new THREE.PMREMGenerator(renderer);
+let envRT = null;
+function setSun(elev, azim) {
+  const phi = THREE.MathUtils.degToRad(90 - elev), th = THREE.MathUtils.degToRad(azim);
+  sun.setFromSphericalCoords(1, phi, th); su.sunPosition.value.copy(sun);
+  dirLight.position.copy(sun).multiplyScalar(10000); dirLight.intensity = Math.max(0, Math.min(3, elev * 0.5 + 0.6));
+  hemi.intensity = 0.15 + Math.max(0, Math.min(0.6, elev * 0.08 + 0.3)) + (window.__wide || 0);
+  water.material.uniforms.sunDirection.value.copy(sun).normalize();
+}
+
+// ---------- shoreline (bay) ----------
+const shoreZ = x => -200 + 0.00022 * x * x - 0.0000000025 * x * x * x;   // water where z > shoreZ(x)
+function landH(x, z) {
+  const d = shoreZ(x) - z;                       // distance inland (>0 land)
+  let h;
+  if (d < 0) h = -25 + 20 * Math.exp(d / 120);   // seabed
+  else h = Math.min(70, d * 0.035) + 6 * noise.noise(x * 0.001, 0.3, z * 0.001) + 2;
+  // western ridge (Caucasus stand-in) for the wide shot
+  const r = Math.exp(-Math.pow((x + 17000 + 2500 * noise.noise(z * 0.00012, 4.4, 0.5)) / 3000, 2));
+  h += r * (2300 + 900 * noise.noise(x * 0.00025, 1.7, z * 0.00025) + 500 * Math.abs(noise.noise(x * 0.001, 2.3, z * 0.001)));
+  if (x < -21000) h = Math.min(h, -40);          // ocean basin beyond the ridge
+  return h;
+}
+function terrainMesh(size, segs, cx, cz, drop) {
+  const g = new THREE.PlaneGeometry(size[0], size[1], segs[0], segs[1]); g.rotateX(-Math.PI / 2);
+  const pos = g.attributes.position, col = new Float32Array(pos.count * 3), c = new THREE.Color();
+  for (let i = 0; i < pos.count; i++) {
+    const x = pos.getX(i) + cx, z = pos.getZ(i) + cz, h = landH(x, z) - drop;
+    pos.setXYZ(i, x, h, z);
+    if (h < 1) c.setRGB(0.62, 0.55, 0.38); else if (h < 4) c.setRGB(0.80, 0.70, 0.50);
+    else if (h < 600) c.setRGB(0.58, 0.50, 0.34).lerp(new THREE.Color(0.45, 0.47, 0.30), Math.max(0, noise.noise(x * 0.002, 5, z * 0.002)));
+    else if (h < 2200) c.setRGB(0.45, 0.40, 0.34); else c.setRGB(0.95, 0.95, 0.98);
+    col.set([c.r, c.g, c.b], i * 3);
+  }
+  g.setAttribute('color', new THREE.BufferAttribute(col, 3)); g.computeVertexNormals();
+  return new THREE.Mesh(g, new THREE.MeshStandardMaterial({ vertexColors: true, roughness: 0.95, metalness: 0 }));
+}
+scene.add(terrainMesh([90000, 60000], [360, 240], -20000, -5000, 3));
+scene.add(terrainMesh([9000, 6000], [225, 150], 0, -1500, 0));
+
+// ---------- water ----------
+function normalTex() {
+  const N = 256, data = new Uint8Array(N * N * 4), hgt = (x, y) => {
+    let s = 0; const k = [[3, 1, 1], [1, 4, .7], [5, -2, .5], [-2, 7, .35], [9, 3, .25], [4, -9, .2], [13, 5, .12]];
+    for (const [a, b, w] of k) s += w * Math.sin(2 * Math.PI * (a * x + b * y) / N + a * 1.3); return s; };
+  for (let y = 0; y < N; y++) for (let x = 0; x < N; x++) {
+    const dx = hgt(x + 1, y) - hgt(x - 1, y), dy = hgt(x, y + 1) - hgt(x, y - 1), v = new THREE.Vector3(-dx * 3, -dy * 3, 1).normalize();
+    const i = (y * N + x) * 4; data[i] = (v.x * .5 + .5) * 255; data[i + 1] = (v.y * .5 + .5) * 255; data[i + 2] = (v.z * .5 + .5) * 255; data[i + 3] = 255; }
+  const t = new THREE.DataTexture(data, N, N); t.wrapS = t.wrapT = THREE.RepeatWrapping; t.needsUpdate = true; return t;
+}
+const nt = normalTex();
+const water = new Water(new THREE.PlaneGeometry(200000, 200000), { textureWidth: 512, textureHeight: 512, waterNormals: nt,
+  sunDirection: new THREE.Vector3(), sunColor: 0xffe2b8, waterColor: 0x0b3a52, distortionScale: 2.2, fog: true });
+water.rotation.x = -Math.PI / 2; water.material.uniforms.size.value = 6; scene.add(water);
+// the real ocean, 28 m higher, beyond the ridge
+const ocean = new Water(new THREE.PlaneGeometry(60000, 120000), { textureWidth: 256, textureHeight: 256, waterNormals: nt,
+  sunDirection: new THREE.Vector3(), sunColor: 0xffe2b8, waterColor: 0x08324d, distortionScale: 2, fog: true });
+ocean.rotation.x = -Math.PI / 2; ocean.position.set(-52000, 28, -5000); scene.add(ocean);
+
+// ---------- city ----------
+function windowTex(lit) {
+  const c = document.createElement('canvas'); c.width = 64; c.height = 128; const g = c.getContext('2d');
+  g.fillStyle = lit ? '#000' : '#cdbb98'; g.fillRect(0, 0, 64, 128);
+  for (let y = 6; y < 124; y += 10) for (let x = 5; x < 60; x += 9) {
+    if (lit) { g.fillStyle = rnd() < 0.55 ? `rgb(255,${190 + rnd() * 50},${110 + rnd() * 60})` : '#000'; }
+    else g.fillStyle = '#4a5466';
+    g.fillRect(x, y, 5, 6); }
+  const t = new THREE.CanvasTexture(c); t.colorSpace = THREE.SRGBColorSpace; return t;
+}
+const bMat = new THREE.MeshStandardMaterial({ map: windowTex(false), emissiveMap: windowTex(true), emissive: 0xffc27a, emissiveIntensity: 0, roughness: 0.8 });
+const blds = [];
+for (let i = 0; i < 2600; i++) {
+  const x = (rnd() - 0.5) * 8000, d = 140 + Math.pow(rnd(), 1.4) * 3200, z = shoreZ(x) - d;
+  if (Math.abs(x + 900) < 220 && d > 700 && d < 1100) continue;   // Flame Towers hill
+  const old = d < 900 && Math.abs(x) < 1500;
+  const hgt = old ? 14 + rnd() * 16 : 12 + Math.pow(rnd(), 3) * 110;
+  const w = 18 + rnd() * 26, dd = 18 + rnd() * 26;
+  blds.push({ x, z, y: landH(x, z), w, dd, hgt, old });
+}
+const bGeo = new THREE.BoxGeometry(1, 1, 1); bGeo.translate(0, 0.5, 0);
+const inst = new THREE.InstancedMesh(bGeo, bMat, blds.length);
+const m4 = new THREE.Matrix4(), q = new THREE.Quaternion(), cc = new THREE.Color();
+blds.forEach((b, i) => {
+  q.setFromAxisAngle(new THREE.Vector3(0, 1, 0), Math.atan(0.00044 * b.x) + (rnd() - 0.5) * 0.2);
+  m4.compose(new THREE.Vector3(b.x, b.y - 2, b.z), q, new THREE.Vector3(b.w, b.hgt, b.dd)); inst.setMatrixAt(i, m4);
+  cc.setHSL(0.10 + rnd() * 0.03, 0.25 + rnd() * 0.2, b.old ? 0.72 + rnd() * 0.1 : 0.55 + rnd() * 0.2); inst.setColorAt(i, cc);
+});
+scene.add(inst);
+
+// Flame Towers
+function flameTex() {
+  const c = document.createElement('canvas'); c.width = 8; c.height = 256; const g = c.getContext('2d');
+  const gr = g.createLinearGradient(0, 0, 0, 256); gr.addColorStop(0, '#ffe08a'); gr.addColorStop(0.35, '#ff8a1c'); gr.addColorStop(0.7, '#e8301a'); gr.addColorStop(1, '#ffb030');
+  g.fillStyle = gr; g.fillRect(0, 0, 8, 256);
+  const t = new THREE.CanvasTexture(c); t.wrapT = THREE.RepeatWrapping; t.colorSpace = THREE.SRGBColorSpace; return t;
+}
+const fTex = flameTex();
+const fMat = new THREE.MeshStandardMaterial({ color: 0x1b2f4a, metalness: 0.9, roughness: 0.12, emissive: 0xffffff, emissiveMap: fTex, emissiveIntensity: 0 });
+const towers = [];
+[[-980, 190, 0.0, 26], [-860, 165, 0.9, 22], [-930, 155, -0.8, 21]].forEach(([tx, th, lean, R], k) => {
+  const g = new THREE.CylinderGeometry(1, 1, th, 40, 60, false); g.translate(0, th / 2, 0);
+  const p = g.attributes.position;
+  for (let i = 0; i < p.count; i++) {
+    const y = p.getY(i), f = y / th, ang = Math.atan2(p.getZ(i), p.getX(i));
+    const r = R * Math.pow(Math.max(0, 1 - Math.pow(f, 2.2)), 0.55) * (1 + 0.12 * Math.sin(f * 4));
+    p.setXYZ(i, Math.cos(ang) * r * 1.25 + lean * 30 * Math.pow(f, 3), y, Math.sin(ang) * r * 0.85);
+  }
+  g.computeVertexNormals();
+  const uv = g.attributes.uv; for (let i = 0; i < uv.count; i++) uv.setY(i, p.getY(i) / th);
+  const m = new THREE.Mesh(g, fMat); const z = shoreZ(tx) - 880 - k * 60; m.position.set(tx, landH(tx, z) - 1, z);
+  m.rotation.y = 0.5 + k * 0.6; scene.add(m); towers.push(m);
+});
+
+// boulevard: lamps + moving car lights
+const curve = []; for (let x = -4200; x <= 4200; x += 100) curve.push(new THREE.Vector3(x, 0, shoreZ(x) - 70));
+const road = new THREE.CatmullRomCurve3(curve);
+road.points.forEach(p => p.y = landH(p.x, p.z) + 1.5);
+const lampG = new THREE.SphereGeometry(1.6, 6, 6), lampM = new THREE.MeshBasicMaterial({ color: 0xffd9a0 });
+const lamps = new THREE.InstancedMesh(lampG, lampM, 160);
+for (let i = 0; i < 160; i++) { const p = road.getPointAt(i / 159); m4.makeTranslation(p.x, p.y + 6, p.z + 30); lamps.setMatrixAt(i, m4); }
+scene.add(lamps);
+const NC = 260, carG = new THREE.BoxGeometry(4, 1.6, 2);
+const carW = new THREE.InstancedMesh(carG, new THREE.MeshBasicMaterial({ color: 0xfff4dd }), NC);
+const carR = new THREE.InstancedMesh(carG, new THREE.MeshBasicMaterial({ color: 0xff3020 }), NC);
+const carOff = Array.from({ length: NC }, () => rnd()); scene.add(carW); scene.add(carR);
+
+// boats
+const boats = [];
+for (let i = 0; i < 9; i++) {
+  const b = new THREE.Group(); const hull = new THREE.Mesh(new THREE.BoxGeometry(22, 5, 7), new THREE.MeshStandardMaterial({ color: 0xf2f2f2, roughness: 0.6 }));
+  const cab = new THREE.Mesh(new THREE.BoxGeometry(8, 5, 5), new THREE.MeshStandardMaterial({ color: 0xffffff, emissive: 0xffd28a, emissiveIntensity: 0 }));
+  cab.position.y = 4.5; b.add(hull); b.add(cab);
+  const x = (rnd() - 0.5) * 3500; b.position.set(x, 1.5, shoreZ(x) + 300 + rnd() * 1400); b.rotation.y = rnd() * 3; b.userData = { ph: rnd() * 6, cab };
+  scene.add(b); boats.push(b);
+}
+
+// ---------- the "ocean level" ghost sheet at +28 m ----------
+const ghostMat = new THREE.ShaderMaterial({
+  transparent: true, depthWrite: false, side: THREE.DoubleSide,
+  uniforms: { uT: { value: 0 }, uA: { value: 0 }, uRim: { value: 1 }, uC: { value: new THREE.Vector2(-200, -900) }, uR: { value: 2600 } },
+  vertexShader: `varying vec3 vW; void main(){ vec4 w = modelMatrix*vec4(position,1.); vW=w.xyz; gl_Position=projectionMatrix*viewMatrix*w; }`,
+  fragmentShader: `varying vec3 vW; uniform float uT,uA,uR,uRim; uniform vec2 uC;
+    void main(){ vec2 p=vW.xz; float d=length(p-uC)/uR; float edge=smoothstep(1.0,0.75,d);
+      float rim=uRim*smoothstep(0.80,0.93,d)*smoothstep(1.0,0.93,d);
+      float rip=0.5+0.5*sin(p.x*0.013+uT*1.7)*sin(p.y*0.011-uT*1.3);
+      float a=(0.16+0.10*rip)*edge*uA + rim*0.9*uA;
+      gl_FragColor=vec4(mix(vec3(0.20,0.62,0.95),vec3(0.75,0.95,1.0),rim+0.3*rip),a); }` });
+const ghost = new THREE.Mesh(new THREE.PlaneGeometry(14000, 14000), ghostMat); ghost.rotation.x = -Math.PI / 2; ghost.position.set(0, 28, -600); scene.add(ghost);
+const ghostMat2 = ghostMat.clone(); ghostMat2.uniforms = THREE.UniformsUtils.clone(ghostMat.uniforms);
+ghostMat2.uniforms.uC.value.set(-20000, -3000); ghostMat2.uniforms.uRim.value = 0; ghostMat2.uniforms.uR.value = 26000;
+const ghost2 = new THREE.Mesh(new THREE.PlaneGeometry(60000, 50000), ghostMat2); ghost2.rotation.x = -Math.PI / 2; ghost2.position.set(-20000, 28.5, -3000); scene.add(ghost2);
+
+// measuring pole at the shore
+const MP = new THREE.Vector3(260, 0, shoreZ(260) + 90);
+const pole = new THREE.Mesh(new THREE.CylinderGeometry(1.1, 1.1, 1, 12), new THREE.MeshBasicMaterial({ color: new THREE.Color(0xffc43d).multiplyScalar(3) }));
+pole.geometry.translate(0, 0.5, 0); pole.position.copy(MP); scene.add(pole);
+const ring = new THREE.Mesh(new THREE.TorusGeometry(9, 0.9, 8, 40), new THREE.MeshBasicMaterial({ color: 0xffc43d }));
+ring.rotation.x = Math.PI / 2; ring.position.set(MP.x, 28, MP.z); scene.add(ring);
+const ring0 = ring.clone(); ring0.position.y = 0.6; scene.add(ring0);
+
+// ---------- post ----------
+const composer = new EffectComposer(renderer);
+composer.addPass(new RenderPass(scene, camera));
+const bloom = new UnrealBloomPass(new THREE.Vector2(W / 2, H / 2), 0.7, 0.55, 2.6); composer.addPass(bloom);
+composer.addPass(new OutputPass());
+
+// ---------- camera keyframes [time, pos, target] ----------
+const v = (x, y, z) => new THREE.Vector3(x, y, z);
+const KEYS = [
+  [0.0, v(1500, 90, 1500), v(150, 30, -400)],
+  [ST[1], v(700, 55, 700), v(-100, 35, -600)],
+  [ST[1] + SEG[1] * 0.5, v(250, 120, 500), v(-500, 30, -900)],
+  [ST[2], v(-200, 260, 650), v(-800, 60, -1100)],
+  [ST[3], v(-1600, 420, 300), v(-700, 80, -1200)],
+  [ST[3] + SEG[3] * 0.55, v(8000, 7000, 8000), v(-40000, -7000, -4000)],
+  [ST[4], v(9500, 8000, 9000), v(-42000, -7000, -4000)],
+  [DUR + 0.01, v(9800, 8200, 9200), v(-42500, -7000, -4000)],
+];
+const sm = t => t * t * (3 - 2 * t);
+function camAt(t) {
+  let k = 0; while (k < KEYS.length - 2 && t > KEYS[k + 1][0]) k++;
+  const [t0, p0, a0] = KEYS[k], [t1, p1, a1] = KEYS[k + 1]; const u = sm(Math.min(1, Math.max(0, (t - t0) / (t1 - t0))));
+  // log-ish interpolation for big altitude jumps
+  const p = p0.clone().lerp(p1, u); if (p1.y / p0.y > 5) p.y = p0.y * Math.pow(p1.y / p0.y, u);
+  return [p, a0.clone().lerp(a1, u)];
+}
+
+const proj = (p) => { const s = p.clone().project(camera); return s.z < 1 ? [(s.x * .5 + .5) * W, (-s.y * .5 + .5) * H] : null; };
+let lastEnv = -99;
+window.renderAt = (t) => {
+  // light: golden hour -> dusk -> blue hour
+  const elev = 9 - 7 * Math.min(1, t / (ST[3] + 2));
+  setSun(elev, 300); ocean.material.uniforms.sunDirection.value.copy(sun).normalize();
+  scene.fog.color.setHSL(0.07, 0.40, 0.42 + elev * 0.02); scene.fog.density = t > ST[3] + 3 ? 0.000010 : 0.00003;
+  if (Math.abs(elev - lastEnv) > 1.5) { if (envRT) envRT.dispose(); envRT = pmrem.fromScene(sky); scene.environment = envRT.texture; lastEnv = elev; }
+  water.material.uniforms.time.value = t * 0.5; ocean.material.uniforms.time.value = t * 0.5;
+  const night = Math.min(1, Math.max(0, (t - ST[2] + 1.5) / 3));
+  bMat.emissiveIntensity = 0.9 * night; fMat.emissiveIntensity = 0.3 + 2.0 * night; fTex.offset.y = -t * 0.15;
+  lampM.color.setRGB(1, .85, .6).multiplyScalar(0.4 + 4.5 * night);
+  for (let i = 0; i < NC; i++) {
+    const a = (carOff[i] + t * 0.012) % 1, b = (carOff[i] + 1 - (t * 0.012) % 1) % 1;
+    const pa = road.getPointAt(a), pb = road.getPointAt(b);
+    m4.makeTranslation(pa.x, pa.y, pa.z - 4); carW.setMatrixAt(i, m4); m4.makeTranslation(pb.x, pb.y, pb.z + 4); carR.setMatrixAt(i, m4);
+  }
+  carW.instanceMatrix.needsUpdate = carR.instanceMatrix.needsUpdate = true;
+  carW.material.color.setRGB(1, .96, .87).multiplyScalar(0.5 + 4 * night); carR.material.color.setRGB(1, .2, .12).multiplyScalar(0.5 + 4 * night);
+  boats.forEach(b => { b.position.y = 1.5 + Math.sin(t * 1.6 + b.userData.ph) * 0.8; b.rotation.z = Math.sin(t * 1.3 + b.userData.ph) * 0.04; b.userData.cab.material.emissiveIntensity = night; });
+  // ghost sheet + pole
+  const grow = sm(Math.min(1, Math.max(0, (t - 0.3) / 2.0)));
+  pole.scale.y = Math.max(0.01, 28 * grow); ring.visible = grow > 0.98;
+  ghostMat.uniforms.uA.value = sm(Math.min(1, Math.max(0, (t - 1.2) / 1.6))) * (1 - sm(Math.min(1, Math.max(0, (t - ST[3] - SEG[3] * 0.3) / 1.5))));
+  ghostMat.uniforms.uT.value = t;
+  ghostMat2.uniforms.uA.value = sm(Math.min(1, Math.max(0, (t - ST[3] - SEG[3] * 0.35) / 2.5))) * 0.9; ghostMat2.uniforms.uT.value = t;
+  window.__wide = 0.9 * sm(Math.min(1, Math.max(0, (t - ST[3] - SEG[3] * 0.3) / 2)));
+  const [p, a] = camAt(t); camera.position.copy(p); camera.lookAt(a); camera.updateMatrixWorld();
+  composer.render();
+  return { t, grow, pole: proj(new THREE.Vector3(MP.x, 28 * grow, MP.z)), poleBase: proj(MP.clone()),
+           city: proj(new THREE.Vector3(-300, 90, -900)), towers: proj(new THREE.Vector3(-920, 200, shoreZ(-920) - 900)),
+           ridge: proj(new THREE.Vector3(-17000, 1800, -2500)), oceanL: proj(new THREE.Vector3(-30000, 28, -2500)),
+           caspL: proj(new THREE.Vector3(-6000, 0, 2000)) };
+};
+const HIDE = (P.get('hide')||'').split(',');
+const OBJ = { ocean, water, ghost, ghost2, sky, inst };
+HIDE.forEach(k => { if (OBJ[k]) OBJ[k].visible = false; });
+if (P.get('nobloom')) bloom.enabled = false;
+window.ready = true;
+</script></body></html>

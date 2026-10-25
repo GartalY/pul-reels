@@ -1831,12 +1831,7 @@
      "why": "Sonra nektarı pətəyə aparır."
     }
    ],
-   "asked": [
-    {
-     "date": "2026-10-26",
-     "qi": 0
-    }
-   ]
+   "asked": []
   },
   {
    "id": "2026-10-26-3",
@@ -1875,12 +1870,7 @@
      "why": "Meşə yanğınlarına paraşütlə enirdi."
     }
    ],
-   "asked": [
-    {
-     "date": "2026-10-26",
-     "qi": 0
-    }
-   ]
+   "asked": []
   },
   {
    "id": "2026-10-26-4",
@@ -1919,12 +1909,7 @@
      "why": "Qısqacı çox sürətlə bağlayır."
     }
    ],
-   "asked": [
-    {
-     "date": "2026-10-26",
-     "qi": 0
-    }
-   ]
+   "asked": []
   }
  ]
 }

@@ -34,7 +34,22 @@ Every text (caption, slide, reel beat, quiz, story, first comment) must read lik
 2. Load Metricool tools (`ToolSearch "+Metricool"`) and Google Drive tools (`ToolSearch "+Google_Drive"`).
 3. Commit with `git -c user.email=noreply@anthropic.com -c user.name=Claude` and push to `main`.
 
-## Daily volume and times — FORMAT v3 (from 2026-10-19, decided 2026-10-16): 5 posts + 5 quizzes
+## FORMAT v4 (from 2026-10-26; Gartal approved 2026-10-25 after the weekly review) — OVERRIDES v3 below
+5 posts a day = **4 reels + 1 carousel**, and **2 quiz stories** a day. Times unchanged.
+- 10:00 — "Tarixdə bu gün" CAROUSEL + 10:00 story (unchanged; the only carousel)
+- 13:00 — facts[0] AZ REEL · 16:00 — facts[1] REEL · 21:30 — facts[3] REEL (unchanged)
+- **18:30 — TREND REEL.** facts[2] (the evergreen backup) is now written and built as a REEL (`reel_hook` +
+  `reel_beats`, same reel rules incl. number-first hook), and the daily trend (section D) is also written as a reel
+  and swapped in at 15:23. Why: 19–24 Oct reels median 134 reach vs carousels 22; carousels 0 saves, 1 share.
+- **Quiz stories: only 11:00 (recall) + 14:00 (facts[0]),** each with its answer 10 min later. `quizplan.py` does
+  this automatically for dates ≥ 2026-10-26. No 17:00 / 19:30 / 22:30 quizzes any more (0 replies on 66 stories).
+  On 26 Oct the 17:00–22:40 quiz stories were already scheduled and were set to draft in Metricool (not published).
+- Transition: 26 Oct's backup (Moon trees) is still a carousel; if the 15:23 trend swap happens it becomes the trend
+  REEL (updateScheduledPost: `instagramData.type: REEL`, mp4 media, `videoCoverMilliseconds: 300`). From 27 Oct the
+  backup itself is a reel.
+- Gartal pinned the Şollar reel to the profile (2026-10-25).
+
+## Daily volume and times — FORMAT v3 (2026-10-19 → 2026-10-25): 5 posts + 5 quizzes
 Feed posts (all automatic):
 - 10:00 — "Tarixdə bu gün" CAROUSEL (`history` in the JSON; cover = date + year, 2–3 detail slides, outro)
   + the same-day 10:00 story (section H)
@@ -149,7 +164,13 @@ Why: Gartal said one-sentence facts were too thin and the quizzes too easy (phot
 ## D. Daily trend post — EVERY day (Gartal, 2026-10-16; re-confirmed 2026-10-18 evening, overriding Claude's
 ## "only when strong" idea from earlier that evening)
 Keep doing a trend post every day. To make it work better (the Tesla and Yamal trend cards had the lowest reach):
-pick the story most people in Azerbaijan are talking about, prefer an Azerbaijani/Turkish link when there is one,
+FROM 2026-10-26 THE TREND POST IS A REEL (format v4): write `trend` with `reel_hook` (number-first, ≤ 8 words) and
+3 `reel_beats` (natural sentences per the LANGUAGE RULE), plus caption, cat, quizzes, sources, photo; no `slides`.
+At 15:23 render it with `factgen.py reel <photo> out/D/T_reel.mp4 '{"hook":..,"beats":[..],"seed":<day>,"cy":..}'`
+(no photo → `reelgen.py` text reel), check 3–4 frames, push, and update the 18:30 post in Metricool to
+`instagramData.type: REEL`, media = the mp4 raw URL, `videoCoverMilliseconds: 300`, same time. There is no 19:30
+quiz any more, so no story needs updating. (The carousel steps below are the old v3 flow.)
+Pick the story most people in Azerbaijan are talking about, prefer an Azerbaijani/Turkish link when there is one,
 and use a strong surprising angle (a number, a "before he was famous", a history twist).
 - World political news is a valid trend topic (Gartal, 2026-10-18), e.g. protests or a government crisis in
   France. Tell it NEUTRALLY: (1) what happened — the facts only, (2) the history behind it (has it happened
@@ -224,7 +245,7 @@ Goal: keep up with the real world. Before doing the main task, search the news (
 2. Pick 3 facts for TOMORROW: mix categories (history, animals/nature, space, science, human body,
    geography/places, inventions, famous people, Azerbaijan when good). Each must have a clear, iconic
    subject that a photo can show. v3 (from 2026-10-19): FOUR facts — facts[0] carousel, facts[1] reel,
-   facts[2] carousel (trend backup), facts[3] reel = the most surprising one — plus `history` (section H)
+   facts[2] REEL from 2026-10-26 (trend backup, v4; was a carousel), facts[3] reel = the most surprising one — plus `history` (section H)
    with title/text/slides/caption/quizzes like a carousel fact. (v2 days had 3 facts.)
 2b. **Quality bar (Gartal, 2026-10-15): no widely known trivia** ("sharks older than trees", "honey never
    spoils", "octopus 3 hearts"-level is too common). Prefer specific, surprising facts with a number, a date or a
@@ -253,7 +274,9 @@ Goal: keep up with the real world. Before doing the main task, search the news (
    saves big results to a file — decode the base64 `content` with python into `photos/`). Look at each photo (Read) to confirm it
    matches the fact and choose a sensible crop (`cy`). If a photo is missing or wrong, use `none`
    (branded fallback) and say so in the summary.
-3. Build into `out/YYYY-MM-DD/` (D = date):
+3. Build into `out/YYYY-MM-DD/` (D = date). FORMAT v4 (from 2026-10-26): facts[0], [1], [2], [3] are ALL reels
+   (`<n>_reel.mp4`); the only carousel is the 10:00 `history` one; `quizplan.py` makes 2 quizzes (11:00, 14:00).
+   The v3 lines below still describe how each piece is rendered:
    - Carousels for facts 1 and 2 (K = 1, 2; N = len(slides) + 2):
      `factgen.py card <photoK> out/D/K_1.jpg '{"hook":..,"sub":..,"cy":..}'` (COVER v2)
      `factgen.py slide <photoK> out/D/K_<i>.jpg '{"i":i,"n":N,"h":..,"t":..,"cy":..}'` for i = 2..N-1

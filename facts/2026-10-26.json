@@ -484,54 +484,6 @@
    "why": "Bakı dünyada ən aşağıda yerləşən paytaxtdır.",
    "image": "out/2026-10-26/q2.jpg",
    "answer_image": "out/2026-10-26/q2_a.jpg"
-  },
-  {
-   "time": "17:00",
-   "fact_id": "2026-10-26-2",
-   "recall": false,
-   "cat": "Təbiət",
-   "q": "Bir arı ömründə nə qədər bal düzəldir?",
-   "options": [
-    "1/12 çay qaşığı",
-    "1 xörək qaşığı",
-    "1 stəkan"
-   ],
-   "answer": "1/12 çay qaşığı",
-   "why": "Bir çay qaşığı bal 12 arının ömrüdür.",
-   "image": "out/2026-10-26/q3.jpg",
-   "answer_image": "out/2026-10-26/q3_a.jpg"
-  },
-  {
-   "time": "19:30",
-   "fact_id": "2026-10-26-3",
-   "recall": false,
-   "cat": "Kosmos",
-   "q": "Ay ağaclarının toxumunu kosmosa kim apardı?",
-   "options": [
-    "Bazz Oldrin",
-    "Nil Armstronq",
-    "Styuart Rusa"
-   ],
-   "answer": "Styuart Rusa",
-   "why": "Apollo 14 uçuşunda, 1971-ci ildə.",
-   "image": "out/2026-10-26/q4.jpg",
-   "answer_image": "out/2026-10-26/q4_a.jpg"
-  },
-  {
-   "time": "22:30",
-   "fact_id": "2026-10-26-4",
-   "recall": false,
-   "cat": "Elm",
-   "q": "Krevetin qabarcığı saatda hansı sürətlə uçur?",
-   "options": [
-    "90 km",
-    "9 km",
-    "900 km"
-   ],
-   "answer": "90 km",
-   "why": "Partlayanda kiçik balıqları keyləşdirir.",
-   "image": "out/2026-10-26/q5.jpg",
-   "answer_image": "out/2026-10-26/q5_a.jpg"
   }
  ],
  "built": {
@@ -554,12 +506,16 @@
   "11:00 quiz q1 (recall Mourinho)": 405804639,
   "11:10 answer a1": 405804668,
   "14:00 quiz q2": 405804695,
-  "14:10 answer a2": 405804718,
-  "17:00 quiz q3": 405804744,
-  "17:10 answer a3": 405804765,
-  "19:30 quiz q4": 405804787,
-  "19:40 answer a4": 405804821,
-  "22:30 quiz q5": 405804845,
-  "22:40 answer a5": 405804868
- }
+  "14:10 answer a2": 405804718
+ },
+ "metricool_drafted": {
+  "note": "2026-10-25: Gartal approved cutting quiz stories 5 -> 2 a day. These 6 stories were set to draft (not published) in Metricool; new IDs:",
+  "17:00 quiz q3": 405827590,
+  "17:10 answer a3": 405827563,
+  "19:30 quiz q4": 405827538,
+  "19:40 answer a4": 405827517,
+  "22:30 quiz q5": 405827490,
+  "22:40 answer a5": 405827405
+ },
+ "quiz_cut": "2026-10-25: only 11:00 + 14:00 quizzes kept (Gartal approved after weekly review: 0 replies on 66 stories)"
 }

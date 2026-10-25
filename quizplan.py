@@ -1,4 +1,4 @@
-"""Plan and render the 5 daily quiz stories for @bilirdinizmi_az.
+"""Plan and render the daily quiz stories (2 a day from 2026-10-26: 11:00 recall + 14:00 facts[0]) for @bilirdinizmi_az.
 
 python3 quizplan.py YYYY-MM-DD [--seed N]
 
@@ -16,8 +16,10 @@ from datetime import date, timedelta
 ROOT = os.path.dirname(os.path.abspath(__file__))
 SLOTS = [("11:00", "recall"), ("14:00", 0), ("16:30", "recall"), ("19:30", 1), ("22:30", 2)]   # 3 facts (v2)
 SLOTS_V3 = [("11:00", "recall"), ("14:00", 0), ("17:00", 1), ("19:30", 2), ("22:30", 3)]   # 4 facts (v3, from 2026-10-19)
-# Parked option (not active): 3 quizzes a day. Decide only after 2+ weeks of complete story data.
-SLOTS_V3B = [("11:00", "recall"), ("14:00", 0), ("19:30", 2)]
+SLOTS_V3B = [("11:00", "recall"), ("14:00", 0), ("19:30", 2)]   # never used
+# FORMAT v4 (from 2026-10-26, Gartal approved 2026-10-25): only 2 quizzes a day (0 replies on 66 stories).
+SLOTS_V4 = [("11:00", "recall"), ("14:00", 0)]
+V4_FROM = "2026-10-26"
 
 def load(p, default=None):
     p = os.path.join(ROOT, p)
@@ -59,7 +61,7 @@ def main():
         recall_pool += [by_id[f"{D}-{f['n']}"] for f in day["facts"]][: 2 - len(recall_pool)]
 
     stories, ri = [], 0
-    slots = SLOTS_V3 if len(day["facts"]) >= 4 else SLOTS   # SLOTS_V3B (3 quizzes) parked until enough data
+    slots = SLOTS_V4 if D >= V4_FROM else (SLOTS_V3 if len(day["facts"]) >= 4 else SLOTS)
     for t, src in slots:
         e = recall_pool[ri] if src == "recall" else by_id[f"{D}-{day['facts'][src]['n']}"]
         if src == "recall": ri += 1

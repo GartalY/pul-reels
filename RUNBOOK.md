@@ -55,12 +55,20 @@ Feed posts (all automatic):
   formula (history, places, records, inventions, people — never current Azerbaijani politics). Fact-check twice:
   locals know these stories and WILL correct us in the comments; prefer facts with 2+ independent sources and
   mention the commonly believed myth if one exists (e.g. "Şollar" is a village, not a person's name).
-  EVIDENCE 2026-10-23/24: "1 GÜN = 18 SAAT" (world science) passed 1.4K views, 34 likes, 5 comments, 2 shares, while
+  EVIDENCE 2026-10-23/24: "1 GÜN = 18 SAAT" (world science) reached 1 386 people / 1 766 views, 39 likes, 9 saves,
+  3 shares (Metricool, confirmed in the 2026-10-25 review), while
   the Azerbaijan reel "1965: BAKILI ALİM… «TƏXMİNƏN»" (Lotfi Zadeh, fuzzy logic) stalled at ~165 views / 26 %.
   So the winning ingredient is NOT "Azerbaijan" alone: it is a claim about something the viewer PERSONALLY touches
   (the water they drink, the length of their own day) + a huge/precise number. Abstract ideas (algorithms, theories)
   lose even with a famous Baku name. Keep the daily 13:00 Azerbaijan reel, but choose physical, everyday or
   place-based topics (water, food, buildings, streets, metro, oil, sea, records) — not abstract science.
+  WEEKLY REVIEW 2026-10-25 (outlier analysis, reviews/outliers.md) — applies to ALL reels:
+  - Every reel hook contains a precise NUMBER. Both 10×-median reels (Şollar 109 il, 1 gün = 18 saat) opened on one;
+    both flops and the next-weakest reels had none.
+  - NO technology-origin "the first X was really Y" stories as reels (first webcam 21 reach, first computer bug 64,
+    bubble wrap 80 = the 3 weakest reels of the week; 2 confirmed flops). Such a story may run only as a carousel, or
+    as a reel if it has a huge number in the hook AND links to the viewer's own phone/home.
+  - Nature/space record reels are steady (median ~136, range 114–156); AZ everyday/place reels have the upside.
   FOLLOW HOOK (2026-10-22: Şollar reel reached 1 392 views but brought ~1 follower): the 13:00 Azerbaijan reel is a
   SERIES with a reason to follow. Render it with "cta":"Hər gün 13:00-da yeni Bakı faktı — izlə!" (replaces the quiz
   CTA) and end its caption (before hashtags) with: "👉 Hər gün 13:00-da Azərbaycan haqqında bilmədiyin bir fakt —
@@ -283,6 +291,13 @@ in UTC, +4 h for Baku), plus `getBestTimeToPostByNetwork` for the next 7 days. W
 followers, per-post table, best/worst, card vs reel, categories, times, story replies, 1–3 changes. Apply only
 small data-backed changes here; recommend bigger ones (times, volume, format mix) to Gartal.
 - Sunday's own posts are usually not synced yet at review time — count them in the next week's review.
+- OUTLIER ANALYSIS (from 2026-10-25): pull ALL posts and reels since launch (2026-10-15), ignore pieces < 72 h old,
+  compute the median reach per format (carousels/images vs reels), flag ≥ 2× median = OUTLIER, ≤ 0.5× = FLOP. For each:
+  category, hook type of the first line (number · surprise · local AZ · 'you' · on-this-day · news), reel retention
+  (IGRE24 avg watch, IGRE28 >3 s) vs the reel median, posting time. Append them to reviews/outliers.md (each piece
+  once, in the first review where it is ≥ 72 h old) and update the hook ranking there. Draw a conclusion only when
+  ≥ 2 outliers (or flops) share a pattern; otherwise write "not enough data yet". Also report shares per 100 reach
+  (is the 📩 line working?). 2026-10-25: 0.26 shares/100 reach — the caption CTA is not producing shares.
 
 ## Roadmap (decided 2026-10-16)
 - ~2026-10-30 two-week check (weekly review): if the Azerbaijani page is growing, propose launching a

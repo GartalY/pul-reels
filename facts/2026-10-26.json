@@ -157,6 +157,17 @@
     "full": true,
     "source": "https://unsplash.com/photos/Xnk_VnKcyNc",
     "note": "Baku bay and boulevard from above, Flame Towers in the distance (Unsplash description 'Baku, Azerbaijan')"
+   },
+   "voice": {
+    "voice": "az-AZ-BanuNeural",
+    "rate": "+15%",
+    "texts": [
+     "Bakı dənizdən 28 metr aşağıdadır.",
+     "Bakı dəniz səviyyəsindən təxminən 28 metr aşağıda yerləşir. Dünyada bundan aşağıda olan başqa paytaxt yoxdur.",
+     "Bakı həm də dəniz səviyyəsindən aşağıda olan ən böyük şəhərdir. Burada iki milyondan çox insan yaşayır.",
+     "Bəs su niyə şəhəri basmır? Çünki Xəzər okeana bağlı deyil və onun suyu da okeandan 28 metrə yaxın aşağıdadır. Sən bunu bilirdin?"
+    ],
+    "file": "out/2026-10-26/1_reel_v.mp4"
    }
   },
   {
@@ -219,6 +230,17 @@
     "full": true,
     "source": "https://unsplash.com/photos/AbBZKCPzLQQ",
     "note": "honey bee on a yellow flower, 'Collecting honey'"
+   },
+   "voice": {
+    "voice": "az-AZ-BanuNeural",
+    "rate": "+15%",
+    "texts": [
+     "Bir çay qaşığının on ikidə biri. Bu, bir arının bütün ömrüdür.",
+     "Bir işçi arı bütün ömrü boyu cəmi çay qaşığının on ikidə biri qədər bal düzəldir. Yəni bir qaşıq bal on iki arının bütün həyatıdır.",
+     "Təxminən dörd yüz əlli qram bal üçün arılar iki milyon çiçəyə qonmalıdır. Bir uçuşda bir arı əllidən yüzə qədər çiçəyə baş çəkir.",
+     "Bu qədər bal üçün arılar birlikdə təxminən səksən səkkiz min kilometr uçur, Yerin ətrafında iki dəfədən çox. Sən çayına neçə qaşıq bal qoyursan?"
+    ],
+    "file": "out/2026-10-26/2_reel_v.mp4"
    }
   },
   {
@@ -365,6 +387,17 @@
     "full": false,
     "source": "https://commons.wikimedia.org/wiki/File:Alpheus_villosus_on_sand.jpg",
     "note": "Alpheus villosus (snapping shrimp) on sand, big claw visible, landscape 3000x1757. Alt: 2026-10-26_4_shrimp_cuba.jpg (q phia, CC BY 2.0, has © watermark)"
+   },
+   "voice": {
+    "voice": "az-AZ-BanuNeural",
+    "rate": "+15%",
+    "texts": [
+     "Dörd min yeddi yüz dərəcə. Bunu kiçik bir krevet edir.",
+     "Tapança krevet cəmi bir neçə santimetrdir, amma bir qısqacı çox böyükdür. O, qısqacı elə sürətlə bağlayır ki, suda qabarcıq yaranır.",
+     "Bu qabarcıq saatda doxsan kilometr sürətlə uçur və partlayanda güclü şaqqıltı çıxarır. Zərbə yaxındakı kiçik balıqları keyləşdirə, hətta öldürə bilir.",
+     "İki min birinci ildə alimlər partlayış anında qısa bir işıq gördülər. Hesablamaya görə qabarcığın içi bir anlıq dörd min yeddi yüz dərəcədən isti ola bilər. Belə krevet görmüsən?"
+    ],
+    "file": "out/2026-10-26/4_reel_v.mp4"
    }
   }
  ],

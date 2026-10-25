@@ -75,7 +75,9 @@
   "story": {
    "title": "Bu gün müasir futbol doğuldu",
    "text": "1863-cü il 26 oktyabrda Londonda 11 klub toplandı və futbolun ilk ümumi qaydalarını yazmağa başladı. Topu əldə qaçmaq qadağan olundu, rəqbi ayrıca yol tutdu.",
-   "credit": "Spudgun67 / Wikimedia Commons (CC BY-SA 4.0)"
+   "credit": "Ebenezer Morli, 1913 · Wikimedia Commons (ictimai mülkiyyət)",
+   "photo": "fetch/img/2026-10-26_H_morley.png",
+   "photo_note": "evening run: plaque text behind the story text was too busy -> Morley portrait (public domain), cy 0.3"
   },
   "sources": [
    "https://www.thefa.com/about-football-association/what-we-do/history",
@@ -449,5 +451,97 @@
    "format": "v2",
    "moved_from": "2026-10-24 spare (orig. 2026-10-23 18:30, replaced by trend)"
   }
- ]
+ ],
+ "stories": [
+  {
+   "time": "11:00",
+   "fact_id": "2026-10-18-T",
+   "recall": true,
+   "cat": "İdman",
+   "q": "Mourinyo «Barselona»ya hansı ildə gəldi?",
+   "options": [
+    "1990",
+    "1996",
+    "2004"
+   ],
+   "answer": "1996",
+   "why": "Robsonun ardınca tərcüməçi və köməkçi kimi gəldi.",
+   "image": "out/2026-10-26/q1.jpg",
+   "answer_image": "out/2026-10-26/q1_a.jpg"
+  },
+  {
+   "time": "14:00",
+   "fact_id": "2026-10-26-1",
+   "recall": false,
+   "cat": "Azərbaycan",
+   "q": "Bakı dəniz səviyyəsindən təxminən neçə metr aşağıdadır?",
+   "options": [
+    "28 metr",
+    "8 metr",
+    "58 metr"
+   ],
+   "answer": "28 metr",
+   "why": "Bakı dünyada ən aşağıda yerləşən paytaxtdır.",
+   "image": "out/2026-10-26/q2.jpg",
+   "answer_image": "out/2026-10-26/q2_a.jpg"
+  },
+  {
+   "time": "17:00",
+   "fact_id": "2026-10-26-2",
+   "recall": false,
+   "cat": "Təbiət",
+   "q": "Bir arı ömründə nə qədər bal düzəldir?",
+   "options": [
+    "1/12 çay qaşığı",
+    "1 xörək qaşığı",
+    "1 stəkan"
+   ],
+   "answer": "1/12 çay qaşığı",
+   "why": "Bir çay qaşığı bal 12 arının ömrüdür.",
+   "image": "out/2026-10-26/q3.jpg",
+   "answer_image": "out/2026-10-26/q3_a.jpg"
+  },
+  {
+   "time": "19:30",
+   "fact_id": "2026-10-26-3",
+   "recall": false,
+   "cat": "Kosmos",
+   "q": "Ay ağaclarının toxumunu kosmosa kim apardı?",
+   "options": [
+    "Bazz Oldrin",
+    "Nil Armstronq",
+    "Styuart Rusa"
+   ],
+   "answer": "Styuart Rusa",
+   "why": "Apollo 14 uçuşunda, 1971-ci ildə.",
+   "image": "out/2026-10-26/q4.jpg",
+   "answer_image": "out/2026-10-26/q4_a.jpg"
+  },
+  {
+   "time": "22:30",
+   "fact_id": "2026-10-26-4",
+   "recall": false,
+   "cat": "Elm",
+   "q": "Krevetin qabarcığı saatda hansı sürətlə uçur?",
+   "options": [
+    "90 km",
+    "9 km",
+    "900 km"
+   ],
+   "answer": "90 km",
+   "why": "Partlayanda kiçik balıqları keyləşdirir.",
+   "image": "out/2026-10-26/q5.jpg",
+   "answer_image": "out/2026-10-26/q5_a.jpg"
+  }
+ ],
+ "built": {
+  "when": "2026-10-25 ~21:00 Asia/Baku",
+  "checked": "all 12 carousel slides, tbg story, 10 quiz/answer stories, 5 frames per reel viewed; no overflow",
+  "reel_seconds": {
+   "1": 21.3,
+   "2": 24.0,
+   "4": 24.6
+  }
+ },
+ "trend_check_evening": "2026-10-25 evening: news search found nothing big for AZ audience requiring a swap of the 2026-10-26 plan; GS-FB derby (Mon 22:30) already covered 2026-10-25 18:30. 18:30 Moon trees stays as trend backup for the 09:10/15:23 runs."
 }

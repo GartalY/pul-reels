@@ -430,6 +430,10 @@
     {
      "date": "2026-10-18",
      "qi": 0
+    },
+    {
+     "date": "2026-10-26",
+     "qi": 1
     }
    ]
   },
@@ -1742,6 +1746,182 @@
    "asked": [
     {
      "date": "2026-10-25",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-26-1",
+   "date": "2026-10-26",
+   "subject": "Baku lies about 28 m below sea level: the lowest-lying national capital in the world and the largest city below sea level (Wikipedia; ESA Earth from Space June 2026). Population 2.34 million (2024). The Caspian Sea is landlocked (no link to the ocean) and its own surface is about 28 m below global ocean level (ESA), so the sea does not flood the city.",
+   "cat": "Azərbaycan",
+   "quizzes": [
+    {
+     "q": "Bakı dəniz səviyyəsindən təxminən neçə metr aşağıdadır?",
+     "options": [
+      "28 metr",
+      "8 metr",
+      "58 metr"
+     ],
+     "answer": "28 metr",
+     "why": "Bakı dünyada ən aşağıda yerləşən paytaxtdır."
+    },
+    {
+     "q": "Xəzər niyə Bakını basmır?",
+     "options": [
+      "Okeana bağlı deyil",
+      "Sahildə bənd var",
+      "Bakı təpədədir"
+     ],
+     "answer": "Okeana bağlı deyil",
+     "why": "Xəzərin suyu da okeandan təxminən 28 metr aşağıdadır."
+    },
+    {
+     "q": "Bakıda təxminən neçə insan yaşayır?",
+     "options": [
+      "2 milyondan çox",
+      "500 min",
+      "10 milyon"
+     ],
+     "answer": "2 milyondan çox",
+     "why": "Bakı dəniz səviyyəsindən aşağıda olan ən böyük şəhərdir."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-26",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-26-2",
+   "date": "2026-10-26",
+   "subject": "An average worker honey bee makes about 1/12 teaspoon of honey in her lifetime; bees visit about 2 million flowers and fly about 55,000 miles (~88,500 km, ~2.2x Earth's circumference) to make one pound (~450 g) of honey; 50-100 flowers per trip (University of Illinois Extension; Maine Dept. of Agriculture 'Fun Bee Facts').",
+   "cat": "Təbiət",
+   "quizzes": [
+    {
+     "q": "Bir arı ömründə nə qədər bal düzəldir?",
+     "options": [
+      "1/12 çay qaşığı",
+      "1 xörək qaşığı",
+      "1 stəkan"
+     ],
+     "answer": "1/12 çay qaşığı",
+     "why": "Bir çay qaşığı bal 12 arının ömrüdür."
+    },
+    {
+     "q": "450 qram bal üçün arılar neçə çiçəyə qonur?",
+     "options": [
+      "2 milyon",
+      "20 min",
+      "200 min"
+     ],
+     "answer": "2 milyon",
+     "why": "Və birlikdə təxminən 88 min km uçurlar."
+    },
+    {
+     "q": "Bir uçuşda arı neçə çiçəyə baş çəkir?",
+     "options": [
+      "50–100",
+      "5–10",
+      "1000-dən çox"
+     ],
+     "answer": "50–100",
+     "why": "Sonra nektarı pətəyə aparır."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-26",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-26-3",
+   "date": "2026-10-26",
+   "subject": "Moon trees: Apollo 14 (1971) CMP Stuart Roosa, ex-USFS smokejumper, carried several hundred seeds (~500 per species per NASA) of 5 species (sycamore, loblolly pine, sweetgum, redwood, Douglas fir) in lunar orbit; bags burst during decontamination, seeds hand-sorted, most germinated; 1975-76 Bicentennial plantings in 40 states; ~90 trees accounted for",
+   "cat": "Kosmos",
+   "quizzes": [
+    {
+     "q": "Ay ağaclarının toxumunu kosmosa kim apardı?",
+     "options": [
+      "Styuart Rusa",
+      "Nil Armstronq",
+      "Bazz Oldrin"
+     ],
+     "answer": "Styuart Rusa",
+     "why": "Apollo 14 uçuşunda, 1971-ci ildə."
+    },
+    {
+     "q": "Toxumlar hansı uçuşda kosmosa getdi?",
+     "options": [
+      "Apollo 11",
+      "Apollo 14",
+      "Apollo 17"
+     ],
+     "answer": "Apollo 14",
+     "why": "Toxumlar Ayın ətrafında fırlanan gəmidə qaldı."
+    },
+    {
+     "q": "Rusa gəncliyində kim işləmişdi?",
+     "options": [
+      "Yanğınsöndürən",
+      "Aşpaz",
+      "Müəllim"
+     ],
+     "answer": "Yanğınsöndürən",
+     "why": "Meşə yanğınlarına paraşütlə enirdi."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-26",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-26-4",
+   "date": "2026-10-26",
+   "subject": "Snapping (pistol) shrimp (Alpheidae) close an oversized claw so fast that a water jet forms a cavitation bubble (Versluis et al., Science 2000); the bubble leaves the claw at ~25 m/s (~90 km/h) and its collapse makes the loud snap; the pressure can stun or kill small fish (Wikipedia citing Science 2000). Lohse, Schmitz & Versluis (Nature 413, 2001) recorded a brief light flash ('shrimpoluminescence'); if thermal, the emitter must be over 5,000 K (~4,700 °C) - Science News: 'may flare as hot as the sun's surface'. Sun's surface ~5,500 °C.",
+   "cat": "Elm",
+   "quizzes": [
+    {
+     "q": "Krevetin qabarcığı saatda hansı sürətlə uçur?",
+     "options": [
+      "90 km",
+      "9 km",
+      "900 km"
+     ],
+     "answer": "90 km",
+     "why": "Partlayanda kiçik balıqları keyləşdirir."
+    },
+    {
+     "q": "Alimlər 2001-ci ildə qabarcıqda nə gördülər?",
+     "options": [
+      "Qısa bir işıq",
+      "Qara tüstü",
+      "Rəngli boya"
+     ],
+     "answer": "Qısa bir işıq",
+     "why": "Hesablamaya görə içi 4 700 °C-dən isti ola bilər."
+    },
+    {
+     "q": "Krevet qabarcığı nə ilə yaradır?",
+     "options": [
+      "Böyük qısqacı ilə",
+      "Quyruğu ilə",
+      "Ağzı ilə"
+     ],
+     "answer": "Böyük qısqacı ilə",
+     "why": "Qısqacı çox sürətlə bağlayır."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-26",
      "qi": 0
     }
    ]

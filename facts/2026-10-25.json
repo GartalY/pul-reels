@@ -538,7 +538,6 @@
   "10:00 tarixdə bu gün carousel (Windows XP 25)": 405125790,
   "13:00 reel (Michon 1898 Baku cinema)": 405125838,
   "16:00 reel (Neptune by maths)": 405125916,
-  "18:30 carousel (Pando, trend backup)": 405125974,
   "21:30 reel (Ötzi 61 tattoos)": 405126016,
   "10:00 tarixdə bu gün story": 405126060,
   "11:00 quiz q1 (recall Zoroastr)": 405126075,
@@ -547,10 +546,11 @@
   "14:10 answer a2": 405126122,
   "17:00 quiz q3": 405126141,
   "17:10 answer a3": 405126163,
-  "19:30 quiz q4": 405126179,
-  "19:40 answer a4": 405126189,
   "22:30 quiz q5": 405126200,
-  "22:40 answer a5": 405126214
+  "22:40 answer a5": 405126214,
+  "18:30 carousel (TREND: GS-FB derby 14 spectators)": 405605929,
+  "19:30 quiz q4_trend": 405605969,
+  "19:40 answer a4_trend": 405605980
  },
  "language_fix": [
   "16:00 caption: 'planet çəkir, və onun yerini tapdı' -> 'planet çəkir. O, bu planetin yerini də hesablayıb tapdı.'"
@@ -646,6 +646,7 @@
   "why": "Morning trend: GS–FB derby Mon 26 Oct 22:30 Baku (date re-checked 15:23); Turkish link, football = biggest AZ audience interest, neutral (one big win for each side).",
   "backup_moved_to": "2026-10-26 spare",
   "photo": "Bosphorus, Rumelihisarı + bridge (Ufuk Aslan / Unsplash)",
-  "cover_fix": "NBSP in 'sabah 22:30'"
+  "cover_fix": "NBSP in 'sabah 22:30'",
+  "metricool": "updated 15:25 (18:30 post T_1..T_6, 19:30 q4_trend, 19:40 q4_trend_a); times kept"
  }
 }

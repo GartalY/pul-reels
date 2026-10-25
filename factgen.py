@@ -135,7 +135,7 @@ def reel(photo, out, c):
             text_block(d, 70, 1290 + (1 - a) * 40, beats[k], F("Bold", 60), tuple(int(x * a) for x in WHITE), W - 140)
         if t > dur - OUT:
             a = ease((t - (dur - OUT)) / 0.3)
-            msg = c.get("cta", "Hekayədə viktorina var — yoxla özünü!")
+            msg = c.get("cta", "Hər gün yeni fakt — izlə!")   # v4 2026-10-25: follow CTA on every reel (was the quiz CTA)
             fw = d.textlength(msg, font=F("Bold", 44))
             d.rounded_rectangle([(W - fw) / 2 - 30, 1760, (W + fw) / 2 + 30, 1840], 40, fill=tuple(int(x * a) for x in GOLD))
             d.text(((W - fw) / 2, 1772), msg, font=F("Bold", 44), fill=INK)

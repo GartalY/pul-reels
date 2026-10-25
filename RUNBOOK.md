@@ -47,7 +47,14 @@ Every text (caption, slide, reel beat, quiz, story, first comment) must read lik
 - Transition: 26 Oct's backup (Moon trees) is still a carousel; if the 15:23 trend swap happens it becomes the trend
   REEL (updateScheduledPost: `instagramData.type: REEL`, mp4 media, `videoCoverMilliseconds: 300`). From 27 Oct the
   backup itself is a reel.
-- Gartal pinned the Şollar reel to the profile (2026-10-25).
+- Gartal pinned the Şollar and "1 gün = 18 saat" reels to the profile (2026-10-25).
+- **FOLLOW CTA ON EVERY REEL (Gartal approved 2026-10-25; ~5 000 reached → ~10 follows in a week):**
+  every reel's last frame shows a follow pill. `factgen.py reel` now defaults to "Hər gün yeni fakt — izlə!"
+  (the old quiz pill is gone); the 13:00 AZ reel keeps `"cta":"Hər gün 13:00-da yeni Bakı faktı — izlə!"`.
+  Every non-AZ reel caption ends (before the photo credit/hashtags) with:
+  "👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan" (the 13:00 reel keeps its Azerbaijan line).
+  Starts with the 27 Oct build (26 Oct reels were already rendered). Judge in the 1 Nov / 8 Nov reviews by
+  followers gained per 1 000 account reach (baseline 19–24 Oct: ≈ 2).
 
 ## Daily volume and times — FORMAT v3 (2026-10-19 → 2026-10-25): 5 posts + 5 quizzes
 Feed posts (all automatic):
@@ -322,7 +329,15 @@ small data-backed changes here; recommend bigger ones (times, volume, format mix
   ≥ 2 outliers (or flops) share a pattern; otherwise write "not enough data yet". Also report shares per 100 reach
   (is the 📩 line working?). 2026-10-25: 0.26 shares/100 reach — the caption CTA is not producing shares.
 
-## Roadmap (decided 2026-10-16)
+## Roadmap (updated 2026-10-25)
+- NO PAID PROMOTION (Gartal, 2026-10-25: budget is tight). Don't propose boosts/ads; grow organically only.
+- TURKISH PAGE: Gartal left the decision to Claude (2026-10-25). Decision: POSTPONED. Revisit in the weekly
+  review of 2026-11-15 and launch only if the AZ page reaches ~150 followers OR ≥ 5 follows per 1 000 reach for
+  2 weeks in a row — copying a system that doesn't convert yet would just double the work.
+- HEYGEN avatar reels: the free plan gives only ~3 videos a month, so it can't be a regular slot. Use it as a
+  one-off test only if Gartal wants: 1–2 avatar reels on a proven topic type (number + everyday/Baku), compared
+  with the normal reel the same week. Not scheduled; Gartal would have to record his voice/avatar.
+## Roadmap (original, decided 2026-10-16)
 - ~2026-10-30 two-week check (weekly review): if the Azerbaijani page is growing, propose launching a
   TURKISH facts page as a 2nd Metricool brand (plan allows 5): same verified facts adapted to Turkish,
   lighter format (posts + reels, no manual poll stickers at first). English (dailyhustlepsych) later.

@@ -142,3 +142,8 @@ search_1025_otzi2.json https://commons.wikimedia.org/w/api.php?action=query&form
 search_morley.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Ebenezer%20Cobb%20Morley
 search_fa1863.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Freemasons%20Tavern%20Great%20Queen%20Street
 search_alpheus.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Alpheus%20snapping%20shrimp
+2026-10-26_H_fa_plaque.jpg https://upload.wikimedia.org/wikipedia/commons/a/aa/The_Football_Association_was_formed_on_the_proposal_of_Ebenezer_Cobb_Morley_at_the_Freemasons%27_Tavern%2C_which_stood_on_this_site.jpg
+2026-10-26_H_morley.png https://upload.wikimedia.org/wikipedia/commons/8/83/Ebenezer_Morley_1913.png
+2026-10-26_H_laws.jpg https://upload.wikimedia.org/wikipedia/commons/5/5d/Original_laws_of_the_game_1863.jpg
+2026-10-26_4_shrimp_cuba.jpg https://upload.wikimedia.org/wikipedia/commons/e/e7/2017%2C_cuba%2C_jardines_aggressor%2C_fraile_II%2C_snapping_shrimp_%2837504722356%29.jpg
+2026-10-26_4_shrimp_villosus.jpg https://upload.wikimedia.org/wikipedia/commons/b/ba/Alpheus_villosus_on_sand.jpg

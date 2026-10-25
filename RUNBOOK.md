@@ -48,7 +48,13 @@ Every text (caption, slide, reel beat, quiz, story, first comment) must read lik
   REEL (updateScheduledPost: `instagramData.type: REEL`, mp4 media, `videoCoverMilliseconds: 300`). From 27 Oct the
   backup itself is a reel.
 - Gartal pinned the Şollar and "1 gün = 18 saat" reels to the profile (2026-10-25).
-- **VOICE-OVER ON EVERY REEL (Gartal, 2026-10-25: "I loved Banu voice"):** every reel gets the Azerbaijani
+- **VOICE SPLIT TEST 27 Oct – 2 Nov (Claude's decision as manager, 2026-10-25) — overrides "every reel" below:**
+  voice-over ONLY on the **13:00 and 21:30** reels; the **16:00 and 18:30 (trend)** reels stay SILENT (no
+  `voice`), so each day has 2 voiced + 2 silent reels (~14 vs ~14). Log `"voiced": true/false` on every reel fact.
+  In the 2026-11-08 weekly review compare voiced vs silent: median reach, avg watch time (IGRE24), >3 s rate
+  (IGRE28), shares, saves, follows; normalise for slot (13:00 vs 16:00 differ). If voiced clearly wins → voice on
+  every reel; if it loses or is unclear → drop it or keep only where it wins. (26 Oct: 13:00/16:00/21:30 voiced.)
+- **VOICE-OVER (Gartal, 2026-10-25: "I loved Banu voice"; scope limited by the split test above):** a reel gets the Azerbaijani
   neural voice **az-AZ-BanuNeural, rate +15%** (free Microsoft Edge read-aloud voice via `edge-tts`; host
   speech.platform.bing.com is allowed in Gartal's Claude settings). Steps per reel:
   1. Write `voice_texts` in the fact JSON = [hook, beat1, beat2, beat3]: hook in sentence case (never ALL CAPS),

@@ -1,6 +1,6 @@
 {
  "date": "2026-10-26",
- "status": "planned",
+ "status": "scheduled",
  "format": "v2",
  "content_format": "v3",
  "planned_note": "Planned in the 2026-10-25 09:10 run. 10:00 TBG = FA founded 26 Oct 1863 (derby day: Galatasaray-Fenerbahçe 22:30 Baku); 13:00 Azerbaijan reel (Baku -28 m, lowest capital); 16:00 reel (one bee = 1/12 teaspoon of honey); 18:30 carousel = trend backup (Moon trees, from 2026-10-25 spare); 21:30 reel (snapping shrimp bubble >4 700 °C). All photos fetched and checked.",
@@ -543,5 +543,23 @@
    "4": 24.6
   }
  },
- "trend_check_evening": "2026-10-25 evening: news search found nothing big for AZ audience requiring a swap of the 2026-10-26 plan; GS-FB derby (Mon 22:30) already covered 2026-10-25 18:30. 18:30 Moon trees stays as trend backup for the 09:10/15:23 runs."
+ "trend_check_evening": "2026-10-25 evening: news search found nothing big for AZ audience requiring a swap of the 2026-10-26 plan; GS-FB derby (Mon 22:30) already covered 2026-10-25 18:30. 18:30 Moon trees stays as trend backup for the 09:10/15:23 runs.",
+ "metricool": {
+  "10:00 tarixdə bu gün carousel (FA 1863)": 405804357,
+  "13:00 reel (Baku -28 m)": 405804435,
+  "16:00 reel (bee 1/12 tsp)": 405804479,
+  "18:30 carousel (Moon trees, trend backup)": 405804505,
+  "21:30 reel (snapping shrimp 4700 C)": 405804530,
+  "10:00 tarixdə bu gün story": 405804617,
+  "11:00 quiz q1 (recall Mourinho)": 405804639,
+  "11:10 answer a1": 405804668,
+  "14:00 quiz q2": 405804695,
+  "14:10 answer a2": 405804718,
+  "17:00 quiz q3": 405804744,
+  "17:10 answer a3": 405804765,
+  "19:30 quiz q4": 405804787,
+  "19:40 answer a4": 405804821,
+  "22:30 quiz q5": 405804845,
+  "22:40 answer a5": 405804868
+ }
 }

@@ -101,6 +101,13 @@ def reel(photo, out, c):
     # v2 (2026-10-19): first 3 s were losing ~70% of viewers -> hook fully visible on frame 0, faster beats, ~12 s total
     HK, OUT = 2.0, 1.6
     BTS = [max(2.2, 0.3 * len(b.split()) + 0.6) for b in beats]   # reading time per beat (~3.3 words/s)
+    VO = c.get("voice")   # 2026-10-25: optional voice-over, list of mp3s [hook, beat1, ...] from voice.py
+    if VO:
+        def adur(f): return float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration",
+                                                  "-of", "csv=p=0", f], capture_output=True, text=True).stdout)
+        D = [adur(f) for f in VO]
+        HK = max(1.5, D[0] + 0.35)
+        BTS = [max(2.0, D[j + 1] + 0.35) for j in range(len(beats))]
     START = [sum(BTS[:j]) for j in range(len(beats))]
     dur = c.get("dur", HK + sum(BTS) + OUT)
     base = cover(src, W, H, cy=c.get("cy", 0.5)) if c.get("full", True) else fit_on_blur(src, W, H)
@@ -142,6 +149,16 @@ def reel(photo, out, c):
         d.rectangle([0, H - 8, W * t / dur, H], fill=GOLD)
         fr.save(f"{tmp}/{i:05d}.jpg", quality=90)
     music(f"{tmp}/m.wav", dur, c.get("seed", 1))
+    if VO:   # voice at its segment start, music ducked underneath
+        starts = [0.1] + [HK + START[j] + 0.1 for j in range(len(beats))]
+        ins, fl = ["-i", f"{tmp}/m.wav"], [f"[0:a]volume={c.get('music_vol', 0.18)}[m]"]
+        for j, (f, st) in enumerate(zip(VO, starts)):
+            ins += ["-i", f]; ms = int(st * 1000)
+            fl.append(f"[{j + 1}:a]adelay={ms}|{ms},volume=1.6[v{j}]")
+        fl.append("[m]" + "".join(f"[v{j}]" for j in range(len(VO))) + f"amix=inputs={len(VO) + 1}:normalize=0:duration=first[a]")
+        subprocess.run(["ffmpeg", "-y", "-loglevel", "error", *ins, "-filter_complex", ";".join(fl),
+                        "-map", "[a]", "-t", str(dur), f"{tmp}/mv.wav"], check=True)
+        os.replace(f"{tmp}/mv.wav", f"{tmp}/m.wav")
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-framerate", str(FPS), "-i", f"{tmp}/%05d.jpg",
                     "-i", f"{tmp}/m.wav", "-c:v", "libx264", "-pix_fmt", "yuv420p", "-crf", "21", "-c:a", "aac",
                     "-b:a", "128k", "-shortest", "-movflags", "+faststart", out], check=True)

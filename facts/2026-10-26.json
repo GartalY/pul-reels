@@ -531,10 +531,10 @@
  "trend_check_evening": "2026-10-25 evening: news search found nothing big for AZ audience requiring a swap of the 2026-10-26 plan; GS-FB derby (Mon 22:30) already covered 2026-10-25 18:30. 18:30 Moon trees stays as trend backup for the 09:10/15:23 runs.",
  "metricool": {
   "10:00 tarixdə bu gün carousel (FA 1863)": 405804357,
-  "13:00 reel (Baku -28 m)": 405804435,
-  "16:00 reel (bee 1/12 tsp)": 405804479,
+  "13:00 reel (Baku -28 m)": 405852272,
+  "16:00 reel (bee 1/12 tsp)": 405852315,
   "18:30 carousel (Moon trees, trend backup)": 405804505,
-  "21:30 reel (snapping shrimp 4700 C)": 405804530,
+  "21:30 reel (snapping shrimp 4700 C)": 405852366,
   "10:00 tarixdə bu gün story": 405804617,
   "11:00 quiz q1 (recall Mourinho)": 405804639,
   "11:10 answer a1": 405804668,
@@ -550,5 +550,6 @@
   "22:30 quiz q5": 405827490,
   "22:40 answer a5": 405827405
  },
- "quiz_cut": "2026-10-25: only 11:00 + 14:00 quizzes kept (Gartal approved after weekly review: 0 replies on 66 stories)"
+ "quiz_cut": "2026-10-25: only 11:00 + 14:00 quizzes kept (Gartal approved after weekly review: 0 replies on 66 stories)",
+ "voice_note": "2026-10-25 ~21:56: the three reels were re-rendered with Banu voice-over (*_reel_v.mp4) and swapped in Metricool (same time/caption; follow line added to 16:00/21:30 captions)."
 }

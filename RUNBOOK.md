@@ -48,6 +48,20 @@ Every text (caption, slide, reel beat, quiz, story, first comment) must read lik
   REEL (updateScheduledPost: `instagramData.type: REEL`, mp4 media, `videoCoverMilliseconds: 300`). From 27 Oct the
   backup itself is a reel.
 - Gartal pinned the Şollar and "1 gün = 18 saat" reels to the profile (2026-10-25).
+- **VOICE-OVER ON EVERY REEL (Gartal, 2026-10-25: "I loved Banu voice"):** every reel gets the Azerbaijani
+  neural voice **az-AZ-BanuNeural, rate +15%** (free Microsoft Edge read-aloud voice via `edge-tts`; host
+  speech.platform.bing.com is allowed in Gartal's Claude settings). Steps per reel:
+  1. Write `voice_texts` in the fact JSON = [hook, beat1, beat2, beat3]: hook in sentence case (never ALL CAPS),
+     beats = the on-screen beats, but write every number with a symbol/fraction/range/unit as WORDS
+     ("1/12" → "on ikidə biri", "4 700 °C" → "dörd min yeddi yüz dərəcə", "50–100" → "əllidən yüzə", "90 km" →
+     "doxsan kilometr", "2001-ci ildə" → "iki min birinci ildə"). Plain numbers like "28 metr" read fine.
+  2. `python3 voice.py /tmp/vo_<n> Banu +15% "<hook>" "<beat1>" "<beat2>" "<beat3>"` (needs `pip install edge-tts`).
+  3. Render with `factgen.py reel ...` adding `"voice":["/tmp/vo_<n>_0.mp3", ... "_3.mp3"]` — beat timing then
+     follows the voice and the music is ducked underneath. Save as `out/D/<n>_reel.mp4` as usual.
+  Voiced reels are longer (26 Oct: 30–36 s vs ~21 s silent), so for voiced reels keep each beat to ONE or TWO
+  short sentences (≈ 12–16 words) and aim for ≤ 25 s total. If voice.py fails, render the reel silent, schedule
+  it anyway and mention it in the summary (don't block the day). First voiced day: 26 Oct (13:00, 16:00, 21:30);
+  compare avg watch time / >3 s rate of voiced vs silent reels in the 1 Nov review.
 - **FOLLOW CTA ON EVERY REEL (Gartal approved 2026-10-25; ~5 000 reached → ~10 follows in a week):**
   every reel's last frame shows a follow pill. `factgen.py reel` now defaults to "Hər gün yeni fakt — izlə!"
   (the old quiz pill is gone); the 13:00 AZ reel keeps `"cta":"Hər gün 13:00-da yeni Bakı faktı — izlə!"`.

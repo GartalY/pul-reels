@@ -220,85 +220,86 @@
    }
   },
   {
-   "n": 3,
+   "n": "T",
    "type": "card",
-   "cat": "Təbiət",
-   "subject": "Pando, Utah: one quaking aspen clone, ~47,000 genetically identical stems on one root system, ~106 acres (~43 ha), ~6,000 t (13.3 million lb); stems live ~130-150 years; deer/elk browsing, ~80% fenced",
-   "photo_request": "Pando ağcaqovaq meşəsi",
-   "title": "Bu meşə bir ağacdır",
-   "text": "ABŞ-ın Yuta ştatında 47 000 ağac kimi görünən şey əslində tək bir canlıdır. Hamısının kökü birdir.",
+   "format": "v2",
+   "cat": "Tarix",
+   "subject": "Galatasaray vs Fenerbahçe ('Intercontinental Derby': Galatasaray European side, Fenerbahçe Asian side of Istanbul), Süper Lig week 9, Mon 26 Oct 2026 21:30 TR (= 22:30 Baku) at RAMS Park. First match 17 Jan 1909 (friendly) at Papazın Çayırı, where Şükrü Saracoğlu Stadium stands today; Galatasaray 2-0. Lowest attendance: 14 spectators, 1922, heavy rain, referee Fethi Tahsin Başaran officiated under an umbrella. Biggest wins: Galatasaray 7-0 (12 Feb 1911, Istanbul League), Fenerbahçe 6-0 (6 Nov 2002, Kadıköy, largest league margin). 400+ meetings (Wikipedia: 406; A Spor April 2026: 405 before that derby) -> only '400-dən çox' used.",
+   "photo_request": "Bosphorus bridge between Europe and Asia (Unsplash)",
+   "title": "Bu derbini cəmi 14 nəfər izləyib",
+   "text": "Qalatasaray ilə Fənərbağça 1909-cu ildən bəri 400-dən çox dəfə qarşılaşıb. 1922-ci ildə yağış altında oynanan derbini cəmi 14 tamaşaçı izləyib.",
+   "cover": {
+    "hook": "Bu derbini cəmi 14 nəfər izləyib",
+    "sub": "Qalatasaray – Fənərbağça · sabah 22:30"
+   },
    "slides": [
     {
-     "h": "47 000",
-     "t": "Pandoda təxminən 47 000 gövdə var. Hamısı genetik olaraq eynidir və eyni kökdən çıxır. Yəni bu, meşə yox, bir ağacdır."
+     "h": "1909",
+     "t": "İlk derbi 1909-cu il yanvarın 17-də oynanıb. Qalatasaray 2:0 qalib gəlib. O meydanın yerində bu gün Fənərbağçanın stadionu dayanır."
     },
     {
-     "h": "43 hektar",
-     "t": "Pando təxminən 43 hektar yer tutur. Bu, təxminən 60 futbol meydançası qədərdir."
+     "h": "2 qitə",
+     "t": "Bu oyuna «Qitələrarası derbi» deyirlər. Qalatasaray İstanbulun Avropa tərəfindəndir, Fənərbağça isə Asiya tərəfindən."
     },
     {
-     "h": "6 000 ton",
-     "t": "Alimlər onun çəkisini təxminən 6 000 ton hesablayır. Bu, onu dünyanın ən ağır canlılarından biri edir."
+     "h": "14 nəfər",
+     "t": "1922-ci ildə derbi güclü yağış altında oynanıb. Oyunu cəmi 14 tamaşaçı izləyib. Hakim isə oyunu çətirin altında idarə edib."
     },
     {
-     "h": "130 il",
-     "t": "Hər gövdə təxminən 130–150 il yaşayır, sonra kökdən yenisi çıxır. Amma marallar cavan gövdələri yeyir. Ona görə ərazinin çox hissəsi hasara alınıb."
+     "h": "7:0 və 6:0",
+     "t": "Ən böyük hesab 1911-ci ildə olub: Qalatasaray 7:0 qalib gəlib. Fənərbağça isə 2002-ci ildə 6:0 qazanıb. Sabah komandalar yenə qarşılaşır."
     }
    ],
-   "caption": "Bu meşə əslində tək bir ağacdır 🌳\n\nYuta ştatındakı Pando adlı ağcaqovaq meşəsində təxminən 47 000 gövdə var. Hamısı genetik olaraq eynidir və bir kök sistemindən böyüyür. Bu canlı təxminən 6 000 ton çəkir və 43 hektar yer tutur. Hər gövdə 130–150 il yaşayır, sonra yerinə kökdən yenisi çıxır.\n\n📩 Meşəyə gedib «ağaclar çox gözəldir» deyən dostuna göndər — qoy bilsin, ağac birdir 😄\n\nFoto: USDA Forest Service / Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #təbiət #ağac #amerika",
-   "first_comment": "Bunu bilirdin, yoxsa indi öyrəndin? 👇",
+   "caption": "Bu derbini cəmi 14 nəfər izləyib ☔\n\nQalatasaray ilə Fənərbağça 1909-cu ildən bəri 400-dən çox dəfə qarşılaşıb. 1922-ci ildə oyun güclü yağış altında keçib və onu cəmi 14 tamaşaçı izləyib. Hakim də oyunu çətirin altında idarə edib. Sabah komandalar yenə qarşılaşır, oyun Bakı vaxtı ilə 22:30-da başlayır.\n\n📩 Derbi günü telefonunu söndürüb heç kimlə danışmayan dostuna göndər 😄\n\nFoto: Ufuk Aslan / Unsplash\n\n#bilirdinizmi #maraqlıfaktlar #futbol #qalatasaray #fənərbağça",
+   "first_comment": "Sabah kim qalib gələcək? Hesabı yaz 👇",
    "quizzes": [
     {
-     "q": "Pandonun çəkisi təxminən nə qədərdir?",
+     "q": "İlk Qalatasaray – Fənərbağça derbisi hansı ildə olub?",
      "options": [
-      "60 ton",
-      "600 ton",
-      "6 000 ton"
+      "1909",
+      "1923",
+      "1952"
      ],
-     "answer": "6 000 ton",
-     "why": "Dünyanın ən ağır canlılarından biri sayılır."
+     "answer": "1909",
+     "why": "1909-cu il yanvarın 17-də, Qalatasaray 2:0 qazanıb."
     },
     {
-     "q": "Pandoda təxminən neçə gövdə var?",
+     "q": "1922-ci ildə derbini neçə tamaşaçı izləyib?",
      "options": [
-      "4 700",
-      "47 000",
-      "470 000"
+      "14",
+      "140",
+      "1 400"
      ],
-     "answer": "47 000",
-     "why": "Hamısı eyni kök sistemindən çıxır."
+     "answer": "14",
+     "why": "Güclü yağış yağırdı, hakim çətirin altında idi."
     },
     {
-     "q": "Pandonun hər gövdəsi təxminən neçə il yaşayır?",
+     "q": "Derbinin ən böyük hesabı hansıdır?",
      "options": [
-      "13–15 il",
-      "130–150 il",
-      "1 300–1 500 il"
+      "7:0",
+      "5:0",
+      "9:1"
      ],
-     "answer": "130–150 il",
-     "why": "Sonra yerinə kökdən yeni gövdə çıxır."
+     "answer": "7:0",
+     "why": "1911-ci ildə Qalatasaray 7:0 qalib gəlib."
     }
    ],
    "sources": [
-    "https://www.friendsofpando.org/thepandotree/facts-about-pando/",
-    "https://www.earthdate.org/pando-a-forest-of-one",
-    "https://www.sciencealert.com/the-world-s-largest-organism-is-slowly-being-eaten-scientist-says"
+    "https://en.wikipedia.org/wiki/The_Intercontinental_Derby_(football)",
+    "https://www.aspor.com.tr/galatasaray/2026/04/26/galatasaray-fenerbahce-derbisinden-en-ilginc-notlar-iste-ezeli-rekabetin-one-cikanlari/amp",
+    "https://www.fanatik.com.tr/futbol/video-galatasaray-fenerbahce-derbisini-sadece-14-taraftar-izledi-2251771",
+    "https://www.yeniasir.com.tr/spor/2026/10/21/derbi-gunu-degisti-mi-galatasaray-fenerbahce-derbisi-ne-zaman-saat-kacta",
+    "https://www.fanatik.com.tr/haberleri/derbi"
    ],
-   "verify_note": "47,000 stems, 106 acres (=42.9 ha), 13.3 million lb dry weight (≈6,000 t), stems 130–150 years, deer/elk browsing, ~80% fenced: Friends of Pando; 47,000 / 6,000 t also in the search-result summaries of other outlets. Age estimates vary widely (9,000 to tens of thousands of years) -> age NOT used. 43 ha / 0.714 ha per pitch ≈ 60.",
+   "verify_note": "Date/time/venue Mon 26 Oct 2026 21:30 RAMS Park: Yeni Asır 21 Oct + Fanatik derby tag (Baku = TR+1 -> 22:30). Intercontinental (EU/Asia sides), first match 17 Jan 1909 Papazın Çayırı (now Şükrü Saracoğlu) GS 2-0, GS 7-0 12 Feb 1911, FB 6-0 6 Nov 2002: Wikipedia + A Spor. 14 spectators 1922 heavy rain, referee under umbrella: A Spor (17 Nov 1922) + Fanatik. Neutral: one big win for each side. Not used: 70,125 record crowd (one source).",
    "photo": {
-    "path": "fetch/img/2026-10-21_pando_b.jpg",
-    "credit": "USDA Forest Service / Wikimedia Commons (ictimai mülkiyyət)",
+    "path": "fetch/img/2026-10-25_T_bosphorus.jpg",
+    "credit": "Ufuk Aslan / Unsplash",
     "cy": 0.5,
     "full": true,
-    "source": "https://commons.wikimedia.org/wiki/File:Pando_in_the_Fall_(11937950814).jpg",
-    "alt": "fetch/img/2026-10-21_pando_a.jpg (trunk close-up, Lance Oditt / Friends of Pando, CC BY-SA 4.0)"
-   },
-   "cover": {
-    "hook": "Bu meşə əslində tək bir ağacdır",
-    "sub": "Pando, Yuta (ABŞ) · 47 000 gövdə, bir kök"
-   },
-   "format": "v2",
-   "moved_from": "2026-10-24 spare (orig. 2026-10-23 18:30, replaced by trend)"
+    "source": "https://unsplash.com/photos/kQirS4dD-U0",
+    "note": "Istanbul, Rumelihisarı, bridge over the Bosphorus (Europe-Asia)"
+   }
   },
   {
    "n": 4,
@@ -500,19 +501,19 @@
   },
   {
    "time": "19:30",
-   "fact_id": "2026-10-25-3",
+   "fact_id": "2026-10-25-T",
    "recall": false,
-   "cat": "Təbiət",
-   "q": "Pandonun çəkisi təxminən nə qədərdir?",
+   "cat": "Tarix",
+   "q": "İlk Qalatasaray – Fənərbağça derbisi hansı ildə olub?",
    "options": [
-    "60 ton",
-    "600 ton",
-    "6 000 ton"
+    "1909",
+    "1923",
+    "1952"
    ],
-   "answer": "6 000 ton",
-   "why": "Dünyanın ən ağır canlılarından biri sayılır.",
-   "image": "out/2026-10-25/q4.jpg",
-   "answer_image": "out/2026-10-25/q4_a.jpg"
+   "answer": "1909",
+   "why": "1909-cu il yanvarın 17-də, Qalatasaray 2:0 qazanıb.",
+   "image": "out/2026-10-25/q4_trend.jpg",
+   "answer_image": "out/2026-10-25/q4_trend_a.jpg"
   },
   {
    "time": "22:30",
@@ -565,7 +566,7 @@
   "text": "Qalatasaray ilə Fənərbağça 1909-cu ildən bəri 400-dən çox dəfə qarşılaşıb. 1922-ci ildə yağış altında oynanan derbini cəmi 14 tamaşaçı izləyib.",
   "cover": {
    "hook": "Bu derbini cəmi 14 nəfər izləyib",
-   "sub": "Qalatasaray – Fənərbağça · sabah 22:30"
+   "sub": "Qalatasaray – Fənərbağça · sabah 22:30"
   },
   "slides": [
    {
@@ -637,5 +638,14 @@
   }
  },
  "trend_check_morning": "2026-10-25 09:15 Baku: searched world news, AZ news, Turkish/football agenda. Candidates: Galatasaray-Fenerbahçe derby Mon 26 Oct (huge in AZ, Turkish link) -> CHOSEN; Musk SpaceX-Tesla merger talk (news from 21 Oct, tech trends weak for us); Tibet M7.0 quake / typhoon Champi (tragedy rules -> skip); US-Iran tensions (war -> skip). El Clásico tonight already covered yesterday. No immediate swap needed for today's earlier posts.",
- "spare_moved": "Moon trees (spare n=3) -> 2026-10-26 facts[2] (18:30 trend backup), planned 2026-10-25 09:10"
+ "spare_moved": "Moon trees (spare n=3) -> 2026-10-26 facts[2] (18:30 trend backup), planned 2026-10-25 09:10 | Pando (backup facts[2]) -> 2026-10-26 spare (trend swap 15:23)",
+ "trend_swap": {
+  "when": "2026-10-25 15:24 Asia/Baku",
+  "slot": "18:30 carousel + 19:30 quiz + 19:40 answer",
+  "what": "Pando -> Galatasaray–Fenerbahçe derby, 14 spectators in 1922 (T_1..T_6)",
+  "why": "Morning trend: GS–FB derby Mon 26 Oct 22:30 Baku (date re-checked 15:23); Turkish link, football = biggest AZ audience interest, neutral (one big win for each side).",
+  "backup_moved_to": "2026-10-26 spare",
+  "photo": "Bosphorus, Rumelihisarı + bridge (Ufuk Aslan / Unsplash)",
+  "cover_fix": "NBSP in 'sabah 22:30'"
+ }
 }

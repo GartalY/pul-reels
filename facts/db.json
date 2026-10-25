@@ -1655,12 +1655,8 @@
      "why": "Sonra yerinə kökdən yeni gövdə çıxır."
     }
    ],
-   "asked": [
-    {
-     "date": "2026-10-25",
-     "qi": 0
-    }
-   ]
+   "asked": [],
+   "unposted": true
   },
   {
    "id": "2026-10-25-4",
@@ -1697,6 +1693,50 @@
      ],
      "answer": "61",
      "why": "Xüsusi kameralarla sayıldı."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-25",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-25-T",
+   "date": "2026-10-25",
+   "subject": "Galatasaray vs Fenerbahçe ('Intercontinental Derby': Galatasaray European side, Fenerbahçe Asian side of Istanbul), Süper Lig week 9, Mon 26 Oct 2026 21:30 TR (= 22:30 Baku) at RAMS Park. First match 17 Jan 1909 (friendly) at Papazın Çayırı, where Şükrü Saracoğlu Stadium stands today; Galatasaray 2-0. Lowest attendance: 14 spectators, 1922, heavy rain, referee Fethi Tahsin Başaran officiated under an umbrella. Biggest wins: Galatasaray 7-0 (12 Feb 1911, Istanbul League), Fenerbahçe 6-0 (6 Nov 2002, Kadıköy, largest league margin). 400+ meetings (Wikipedia: 406; A Spor April 2026: 405 before that derby) -> only '400-dən çox' used.",
+   "cat": "Tarix",
+   "quizzes": [
+    {
+     "q": "İlk Qalatasaray – Fənərbağça derbisi hansı ildə olub?",
+     "options": [
+      "1909",
+      "1923",
+      "1952"
+     ],
+     "answer": "1909",
+     "why": "1909-cu il yanvarın 17-də, Qalatasaray 2:0 qazanıb."
+    },
+    {
+     "q": "1922-ci ildə derbini neçə tamaşaçı izləyib?",
+     "options": [
+      "14",
+      "140",
+      "1 400"
+     ],
+     "answer": "14",
+     "why": "Güclü yağış yağırdı, hakim çətirin altında idi."
+    },
+    {
+     "q": "Derbinin ən böyük hesabı hansıdır?",
+     "options": [
+      "7:0",
+      "5:0",
+      "9:1"
+     ],
+     "answer": "7:0",
+     "why": "1911-ci ildə Qalatasaray 7:0 qalib gəlib."
     }
    ],
    "asked": [

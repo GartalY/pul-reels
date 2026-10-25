@@ -136,3 +136,9 @@ search_1025_otzi2.json https://commons.wikimedia.org/w/api.php?action=query&form
 2026-10-25_2_neptune.jpg https://upload.wikimedia.org/wikipedia/commons/d/d2/Neptune_Full_%28original%29.jpg
 2026-10-25_4_otzi_museo.jpg https://upload.wikimedia.org/wikipedia/commons/d/d3/Otzi_museo.jpg
 2026-10-25_4_otzi_kennis.jpg https://upload.wikimedia.org/wikipedia/commons/f/fa/%C3%96tzi_while_being_constructed_by_the_Kennis_Brothers%2C_2011_%282%29.jpg
+2026-10-25_T_bosphorus.jpg https://images.unsplash.com/photo-1609370850684-aec46c8a285f?w=1600&q=85&fm=jpg
+2026-10-26_1_baku.jpg https://images.unsplash.com/photo-1744790418559-6bb36ee5d609?w=1600&q=85&fm=jpg
+2026-10-26_2_bee.jpg https://images.unsplash.com/photo-1589526261866-ab0d34f8dc19?w=1600&q=85&fm=jpg
+search_morley.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Ebenezer%20Cobb%20Morley
+search_fa1863.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Freemasons%20Tavern%20Great%20Queen%20Street
+search_alpheus.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Alpheus%20snapping%20shrimp

@@ -1,0 +1,379 @@
+{
+ "date": "2026-10-27",
+ "status": "planned",
+ "format": "v2",
+ "content_format": "v4",
+ "planned_note": "Planned in the 2026-10-26 09:10 run (format v4: 4 reels + 1 carousel). 10:00 TBG carousel = NYC subway opened 27 Oct 1904 (122 years; Baku-metro link in caption). 13:00 AZ reel (VOICED): ~350 mud volcanoes, most in the world. 16:00 reel (SILENT): 3.8 million cells renewed per second. 18:30 trend backup reel (SILENT): Pando 47 000 stems = one organism. 21:30 reel (VOICED): Sun loses 4 million t per second. Voice split test 27 Oct-2 Nov: 13:00 + 21:30 voiced, 16:00 + 18:30 silent. All photos fetched and checked.",
+ "history": {
+  "n": "H",
+  "type": "card",
+  "cat": "Tarix",
+  "day": 27,
+  "month": 10,
+  "year": 1904,
+  "subject": "New York City Subway opened 27 Oct 1904 at 2:35 pm (history.com): first IRT line, 9.1 miles (14.6 km), 28 stations, City Hall to 145th St/Broadway; >100,000 paid a nickel on day one (history.com, Baruch CUNY). Mayor George McClellan took the controls on the first run and kept them to 103rd St (history.com). City Hall station (Guastavino tile vaults) closed 31 Dec 1945: only 6-car platform on a curve vs wanted 10-car trains, low use (255,000 vs 14 million at Brooklyn Bridge); 6 train still loops through it (Wikipedia). Today ~470 stations (Baruch: 468; MTA 472) -> '470-ə yaxın'.",
+  "photo_request": "City Hall subway station (Commons, public domain)",
+  "card_title": "27 OKTYABR 1904",
+  "title": "122 il əvvəl Nyu-York metrosu açıldı",
+  "text": "1904-cü il 27 oktyabrda Nyu-Yorkun ilk metro xətti açıldı. Xətt 28 stansiyadan keçirdi, gediş cəmi 5 sent idi.",
+  "cover": {
+   "hook": "122 il əvvəl bu gün Nyu-York metrosu açıldı",
+   "sub": "27 oktyabr 1904 · 28 stansiya"
+  },
+  "slides": [
+   {
+    "h": "28 stansiya",
+    "t": "1904-cü il 27 oktyabrda, saat 14:35-də Nyu-Yorkun ilk metro xətti açıldı. Xətt 14,6 km uzunluğunda idi və 28 stansiyadan keçirdi."
+   },
+   {
+    "h": "5 sent",
+    "t": "Gediş haqqı cəmi 5 sent idi. İlk gün 100 000-dən çox adam pulunu verib metroya mindi."
+   },
+   {
+    "h": "Mer",
+    "t": "İlk qatarı şəhərin meri Corc Makklellan özü sürdü. O, sükanı heç kimə vermədi və qatarı 103-cü küçəyə qədər özü apardı."
+   },
+   {
+    "h": "1945",
+    "t": "İlk stansiya Siti Holl gözəl kaşı tağları ilə tikilmişdi. Amma 1945-ci ildə bağlandı: uzun qatarlar onun əyri platformasına sığmırdı. Bu gün metroda 470-ə yaxın stansiya var."
+   }
+  ],
+  "caption": "122 il əvvəl bu gün Nyu-York metrosu açıldı 🚇\n\n1904-cü il 27 oktyabrda ilk xətt 28 stansiya ilə işə düşdü. Gediş cəmi 5 sent idi və ilk gün 100 000-dən çox adam metroya mindi. İlk qatarı şəhərin meri özü sürdü. Bakı metrosu isə 1967-ci ildə açılıb.\n\n📩 Metroda hər dəfə yanlış istiqamətə minən dostuna göndər 😄\n\nFoto: Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #tarixdəbugün #metro #nyuyork",
+  "first_comment": "Sən metroda ən çox hansı stansiyadan minirsən? 👇",
+  "quizzes": [
+   {
+    "q": "Nyu-York metrosu hansı ildə açılıb?",
+    "options": [
+     "1904",
+     "1863",
+     "1935"
+    ],
+    "answer": "1904",
+    "why": "27 oktyabr 1904, saat 14:35-də."
+   },
+   {
+    "q": "1904-cü ildə metroda gediş neçə idi?",
+    "options": [
+     "5 sent",
+     "50 sent",
+     "1 dollar"
+    ],
+    "answer": "5 sent",
+    "why": "İlk gün 100 000-dən çox adam mindi."
+   },
+   {
+    "q": "Nyu-York metrosunun ilk qatarını kim sürdü?",
+    "options": [
+     "Şəhərin meri",
+     "ABŞ prezidenti",
+     "Bir fəhlə"
+    ],
+    "answer": "Şəhərin meri",
+    "why": "Corc Makklellan 103-cü küçəyə qədər özü sürdü."
+   }
+  ],
+  "sources": [
+   "https://www.history.com/this-day-in-history/october-27/new-york-city-subway-opens",
+   "https://www.baruch.cuny.edu/nycdata/infrastructure/subway_system.html",
+   "https://en.wikipedia.org/wiki/City_Hall_station_(IRT_Lexington_Avenue_Line)"
+  ],
+  "verify_note": "2:35 pm, 9.1 mi, 28 stations, nickel, >100,000, McClellan to 103rd St: history.com; 9.1 mi / 28 stations / >100,000 / nickel also Baruch CUNY. City Hall closure 1945 + reasons: Wikipedia. 'Baku metro 1967' (opened 6 Nov 1967) common knowledge, also Wikipedia. Current station count rounded.",
+  "photo": {
+   "path": "fetch/img/2026-10-27_H_cityhall.jpg",
+   "credit": "Wikimedia Commons (ictimai mülkiyyət)",
+   "cy": 0.5,
+   "full": true,
+   "source": "https://commons.wikimedia.org/wiki/File:City_Hall_Subway_station.jpg",
+   "slides": [
+    "fetch/img/2026-10-27_H_postcard1913.jpg",
+    "fetch/img/2026-10-27_H_construction1904.jpg",
+    "fetch/img/2026-10-27_H_cityhall_haer.jpg"
+   ],
+   "note": "all public domain (City Hall station photo; 1913 postcard; Detroit Publishing Co. 1904 construction; HAER platform)"
+  },
+  "format": "v2"
+ },
+ "facts": [
+  {
+   "n": 1,
+   "type": "reel",
+   "cat": "Azərbaycan",
+   "voiced": true,
+   "subject": "Azerbaijan has about 350 mud volcanoes: 'about half of the world's 700' (Wikipedia, Atlas Obscura) or '350 of 1,000+, about a third' (AzerNews) -> 'üçdə biri, bəlkə də yarısı'. More than 140 on the Caspian seabed (Wikipedia). Gobustan's mud is cold (Atlas Obscura). Gas can ignite: Lökbatan erupted 10 Oct 2001 with flames tens of metres high (Wikipedia Lökbatan); Atlas Obscura: 2001 eruption near Baku, flames hundreds of feet, burned 3 days. Most recent notable: Otman-Bozdağ 11 Oct 2025 (Report.az) - not used.",
+   "photo_request": "Gobustan mud volcano (Commons)",
+   "title": "Dünyada ən çox palçıq vulkanı Azərbaycandadır",
+   "text": "Azərbaycanda təxminən 350 palçıq vulkanı var. Bu, dünyadakı palçıq vulkanlarının üçdə biri, bəlkə də yarısıdır.",
+   "reel_hook": "350 PALÇIQ VULKANI — DÜNYADA ƏN ÇOX BİZDƏDİR",
+   "reel_beats": [
+    "Azərbaycanda təxminən 350 palçıq vulkanı var. Bu, dünyadakıların üçdə biri, bəlkə də yarısıdır.",
+    "Onların 140-dan çoxu Xəzərin dibindədir. Qobustandakı vulkanların palçığı isə isti yox, soyuqdur.",
+    "Bəzən içindən çıxan qaz alışır. 2001-ci ildə Lökbatanda alov onlarla metr qalxıb. Sən palçıq vulkanı görmüsən?"
+   ],
+   "cta": "Hər gün 13:00-da yeni Bakı faktı — izlə!",
+   "caption": "Dünyada ən çox palçıq vulkanı Azərbaycandadır 🌋\n\nÖlkəmizdə təxminən 350 palçıq vulkanı var — dünyadakıların üçdə biri, bəzi hesablamalara görə isə yarısı. Onların 140-dan çoxu Xəzərin dibindədir. Bu vulkanlardan lava yox, palçıq və qaz çıxır, Qobustanda palçıq soyuqdur. Amma qaz alışanda alov onlarla metr qalxa bilir: 2001-ci ildə Lökbatanda belə olub.\n\n📩 Qobustana getməyə hələ də vaxt tapmayan dostuna göndər 😄\n\n👉 Hər gün 13:00-da Azərbaycan haqqında bilmədiyin bir fakt — izlə ki, qaçırmayasan\n\nFoto: Bernard Gagnon / Wikimedia Commons (CC BY 4.0)\n\n#bilirdinizmi #maraqlıfaktlar #azərbaycan #qobustan #təbiət",
+   "first_comment": "Sən palçıq vulkanı görmüsən? 👇",
+   "quizzes": [
+    {
+     "q": "Azərbaycanda təxminən neçə palçıq vulkanı var?",
+     "options": [
+      "35",
+      "350",
+      "3 500"
+     ],
+     "answer": "350",
+     "why": "Dünyadakıların üçdə biri, bəlkə də yarısı."
+    },
+    {
+     "q": "Palçıq vulkanlarının 140-dan çoxu haradadır?",
+     "options": [
+      "Xəzərin dibində",
+      "Qafqaz dağlarında",
+      "Kür çayının sahilində"
+     ],
+     "answer": "Xəzərin dibində",
+     "why": "Qalanları quruda, Qobustan və Abşeron kimi yerlərdədir."
+    },
+    {
+     "q": "Qobustandakı vulkanların palçığı necədir?",
+     "options": [
+      "Soyuq",
+      "Qaynar",
+      "Lava ilə qarışıq"
+     ],
+     "answer": "Soyuq",
+     "why": "İçindən lava yox, qaz və palçıq çıxır."
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mud_volcanoes_in_Azerbaijan",
+    "https://www.slate.com/blogs/atlas_obscura/2015/02/04/mud_volcanoes_in_gobustan_azerbaijan.html",
+    "https://www.azernews.az/nation/145609.html",
+    "https://en.wikipedia.org/wiki/L%C3%B6kbatan_Mud_Volcano"
+   ],
+   "verify_note": "Count ~350 agreed by 3 sources; share differs (half of 700 vs third of 1,000+) -> both stated. 140+ on seabed: Wikipedia. Cold mud: Atlas Obscura. Lökbatan 10 Oct 2001, flames 'tens of metres': Wikipedia (AzerNews attributes a 300 m 2001 flame to Böyük Kənizədağ -> not used). Locals know these: no exaggeration.",
+   "photo": {
+    "path": "fetch/img/2026-10-27_1_mud_gagnon03.jpg",
+    "credit": "Bernard Gagnon / Wikimedia Commons (CC BY 4.0)",
+    "cy": 0.45,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Gobustan_mud_volcanoes_03.jpg",
+    "alt": "fetch/img/2026-10-27_1_mud_hobold.jpg (Matheus Hobold Sovernigo, CC BY-SA 4.0); fetch/img/2026-10-27_1_mud_gagnon01.jpg"
+   },
+   "voice": {
+    "voice": "az-AZ-BanuNeural",
+    "rate": "+15%",
+    "texts": [
+     "Üç yüz əlli palçıq vulkanı. Dünyada ən çox bizdədir.",
+     "Azərbaycanda təxminən üç yüz əlli palçıq vulkanı var. Bu, dünyadakıların üçdə biri, bəlkə də yarısıdır.",
+     "Onların yüz qırxdan çoxu Xəzərin dibindədir. Qobustandakı vulkanların palçığı isə isti yox, soyuqdur.",
+     "Bəzən içindən çıxan qaz alışır. İki min birinci ildə Lökbatanda alov onlarla metr qalxıb. Sən palçıq vulkanı görmüsən?"
+    ]
+   }
+  },
+  {
+   "n": 2,
+   "type": "reel",
+   "cat": "Elm",
+   "voiced": false,
+   "subject": "Sender & Milo (Nature Medicine 2021, Weizmann): ~330 billion cells replaced daily (~1% of ~30 trillion), = ~3.8 million per second (330e9/86,400); blood cells ~90% of turnover by number; at that rate the equivalent of the whole body's cell count in ~80-100 days ('a new you', Scientific American).",
+   "photo_request": "red blood cells (Unsplash)",
+   "title": "Hər saniyə 3,8 milyon hüceyrən yenilənir",
+   "text": "İnsan bədənində hər gün təxminən 330 milyard hüceyrə ölür və yerinə yenisi yaranır. Bu, saniyədə təxminən 3,8 milyondur.",
+   "reel_hook": "HƏR SANİYƏ 3,8 MİLYON HÜCEYRƏN YENİLƏNİR",
+   "reel_beats": [
+    "Alimlər hesablayıb ki, insan bədənində hər gün təxminən 330 milyard hüceyrə ölür. Onların yerinə təxminən o qədər də yenisi yaranır.",
+    "Bu, hər saniyədə təxminən 3,8 milyon hüceyrə deməkdir. Yenilənən hüceyrələrin təxminən 90 faizi qan hüceyrələridir.",
+    "Bu sürətlə 80–100 gündə bədənindəki hüceyrələrin sayı qədər yeni hüceyrə yaranır. Amma beyin hüceyrələrinin çoxu ömür boyu qalır. Bunu bilirdin?"
+   ],
+   "caption": "Hər saniyə bədənində 3,8 milyon hüceyrə yenilənir 🩸\n\nAlimlərin hesabına görə, insan bədənində hər gün təxminən 330 milyard hüceyrə ölür və yerinə yenisi yaranır. Onların təxminən 90 faizi qan hüceyrələridir. Bu sürətlə 80–100 gündə bədəndəki hüceyrələrin sayı qədər yeni hüceyrə yaranır. Amma beyin hüceyrələrinin çoxu ömür boyu dəyişmir.\n\n📩 «Mən heç dəyişməmişəm» deyən dostuna göndər 😄\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Anirudh / Unsplash\n\n#bilirdinizmi #maraqlıfaktlar #insanbədəni #elm #sağlamlıq",
+   "first_comment": "Bunu bilirdin, yoxsa indi öyrəndin? 👇",
+   "quizzes": [
+    {
+     "q": "Bədəndə gündə təxminən neçə hüceyrə yenilənir?",
+     "options": [
+      "330 milyard",
+      "3,3 milyard",
+      "33 trilyon"
+     ],
+     "answer": "330 milyard",
+     "why": "Bu, saniyədə təxminən 3,8 milyondur."
+    },
+    {
+     "q": "Yenilənən hüceyrələrin çoxu hansılardır?",
+     "options": [
+      "Qan hüceyrələri",
+      "Dəri hüceyrələri",
+      "Sümük hüceyrələri"
+     ],
+     "answer": "Qan hüceyrələri",
+     "why": "Təxminən 90 faizi qan hüceyrələridir."
+    },
+    {
+     "q": "Saniyədə təxminən neçə hüceyrə yenilənir?",
+     "options": [
+      "3,8 milyon",
+      "38 min",
+      "380 milyon"
+     ],
+     "answer": "3,8 milyon",
+     "why": "Gündə 330 milyard ÷ 86 400 saniyə."
+    }
+   ],
+   "sources": [
+    "https://wis-wander.weizmann.ac.il/node/11205",
+    "https://www.scientificamerican.com/article/our-bodies-replace-billions-of-cells-every-day/",
+    "https://news.med.virginia.edu/mindfulness/2021/09/27/the-distribution-of-cellular-turnover-in-the-human-body/"
+   ],
+   "verify_note": "330 bn/day, 30 trillion cells, ~90% blood cells by number: Weizmann; 330 bn/day + '80-100 days = new you': Scientific American. 3.8 million/s computed (330e9/86400 = 3.82e6). Neurons mostly not replaced: general knowledge, worded 'çoxu'.",
+   "photo": {
+    "path": "fetch/img/2026-10-27_2_cells_anirudh.jpg",
+    "credit": "Anirudh / Unsplash",
+    "cy": 0.5,
+    "full": true,
+    "source": "https://unsplash.com/photos/red-blood-cells-floating-in-fluid-djo3iNJpaOE",
+    "note": "3D render of red blood cells"
+   }
+  },
+  {
+   "n": 3,
+   "type": "reel",
+   "cat": "Təbiət",
+   "voiced": false,
+   "subject": "Pando, Utah: one quaking aspen clone, ~47,000 genetically identical stems on one root system, ~106 acres (~43 ha), ~6,000 t (13.3 million lb); stems live ~130-150 years; deer/elk browsing, ~80% fenced",
+   "photo_request": "Pando ağcaqovaq meşəsi",
+   "title": "47 000 ağac — hamısı tək bir canlıdır",
+   "text": "ABŞ-ın Yuta ştatında 47 000 ağac kimi görünən şey əslində tək bir canlıdır. Hamısının kökü birdir.",
+   "reel_hook": "47 000 AĞAC — HAMISI TƏK BİR CANLIDIR",
+   "reel_beats": [
+    "ABŞ-ın Yuta ştatında Pando adlı bir meşə var. Orada təxminən 47 000 ağac gövdəsi var, amma hamısının kökü birdir.",
+    "Bütün gövdələr genetik olaraq eynidir, yəni bu, meşə yox, tək bir ağacdır. Onun çəkisi təxminən 6 000 ton hesablanır.",
+    "Hər gövdə 130–150 il yaşayır, sonra kökdən yenisi çıxır. Pando 60 futbol meydançası qədər yer tutur. Bunu bilirdin?"
+   ],
+   "caption": "Bu meşə əslində tək bir ağacdır 🌳\n\nYuta ştatındakı Pando adlı ağcaqovaq meşəsində təxminən 47 000 gövdə var. Hamısı genetik olaraq eynidir və bir kök sistemindən böyüyür. Bu canlı təxminən 6 000 ton çəkir və 43 hektar yer tutur. Hər gövdə 130–150 il yaşayır, sonra yerinə kökdən yenisi çıxır.\n\n📩 Meşəyə gedib «ağaclar çox gözəldir» deyən dostuna göndər — qoy bilsin, ağac birdir 😄\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: USDA Forest Service / Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #təbiət #ağac #amerika",
+   "first_comment": "Bunu bilirdin, yoxsa indi öyrəndin? 👇",
+   "quizzes": [
+    {
+     "q": "Pandonun çəkisi təxminən nə qədərdir?",
+     "options": [
+      "60 ton",
+      "600 ton",
+      "6 000 ton"
+     ],
+     "answer": "6 000 ton",
+     "why": "Dünyanın ən ağır canlılarından biri sayılır."
+    },
+    {
+     "q": "Pandoda təxminən neçə gövdə var?",
+     "options": [
+      "4 700",
+      "47 000",
+      "470 000"
+     ],
+     "answer": "47 000",
+     "why": "Hamısı eyni kök sistemindən çıxır."
+    },
+    {
+     "q": "Pandonun hər gövdəsi təxminən neçə il yaşayır?",
+     "options": [
+      "13–15 il",
+      "130–150 il",
+      "1 300–1 500 il"
+     ],
+     "answer": "130–150 il",
+     "why": "Sonra yerinə kökdən yeni gövdə çıxır."
+    }
+   ],
+   "sources": [
+    "https://www.friendsofpando.org/thepandotree/facts-about-pando/",
+    "https://www.earthdate.org/pando-a-forest-of-one",
+    "https://www.sciencealert.com/the-world-s-largest-organism-is-slowly-being-eaten-scientist-says"
+   ],
+   "verify_note": "47,000 stems, 106 acres (=42.9 ha), 13.3 million lb dry weight (≈6,000 t), stems 130–150 years, deer/elk browsing, ~80% fenced: Friends of Pando; 47,000 / 6,000 t also in the search-result summaries of other outlets. Age estimates vary widely (9,000 to tens of thousands of years) -> age NOT used. 43 ha / 0.714 ha per pitch ≈ 60. Reel beats reuse only these verified details.",
+   "photo": {
+    "path": "fetch/img/2026-10-21_pando_b.jpg",
+    "credit": "USDA Forest Service / Wikimedia Commons (ictimai mülkiyyət)",
+    "cy": 0.5,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Pando_in_the_Fall_(11937950814).jpg",
+    "alt": "fetch/img/2026-10-21_pando_a.jpg (trunk close-up, Lance Oditt / Friends of Pando, CC BY-SA 4.0)"
+   },
+   "moved_from": "2026-10-26 spare (carousel since 2026-10-21; rewritten as a v4 reel 2026-10-26 09:10)"
+  },
+  {
+   "n": 4,
+   "type": "reel",
+   "cat": "Kosmos",
+   "voiced": true,
+   "subject": "The Sun fuses ~600 million t of hydrogen into ~596 million t of helium per second; the ~4 million t difference (4.3e9 kg/s) becomes energy (Ohio State, B. Ryden lecture notes; Koberlein: '4 million tonnes each second due to fusion', +1.5 Mt/s solar wind). Over its remaining ~5 billion years it loses only ~0.034% of its mass (Koberlein).",
+   "photo_request": "the Sun with sunspots (Unsplash)",
+   "title": "Günəş hər saniyə 4 milyon ton yüngülləşir",
+   "text": "Günəş hər saniyə 600 milyon ton hidrogeni heliuma çevirir. Bu zaman 4 milyon ton kütlə işığa və istiyə çevrilir.",
+   "reel_hook": "HƏR SANİYƏ 4 MİLYON TON — GÜNƏŞ ARIQLAYIR",
+   "reel_beats": [
+    "Günəş hər saniyə 600 milyon ton hidrogeni heliuma çevirir. Amma alınan helium cəmi 596 milyon ton olur.",
+    "Aradakı 4 milyon ton yox olmur, işığa və istiyə çevrilir. Üzündə hiss etdiyin günəş istisi də budur.",
+    "Buna baxmayaraq, Günəş hələ təxminən 5 milyard il parlayacaq. O vaxta qədər kütləsinin cəmi 0,03 faizini itirəcək. Bunu bilirdin?"
+   ],
+   "caption": "Günəş hər saniyə 4 milyon ton yüngülləşir ☀️\n\nGünəşin içində hər saniyə təxminən 600 milyon ton hidrogen heliuma çevrilir. Amma alınan helium 596 milyon ton olur. Aradakı 4 milyon ton işığa və istiyə çevrilir — Yerə çatan günəş istisi də budur. Buna baxmayaraq, Günəş hələ milyardlarla il parlayacaq və kütləsinin çox az hissəsini itirəcək.\n\n📩 Pəhriz saxlayıb «heç arıqlamıram» deyən dostuna göndər — Günəş də yavaş arıqlayır 😄\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: James Lee / Unsplash\n\n#bilirdinizmi #maraqlıfaktlar #kosmos #günəş #elm",
+   "first_comment": "Bunu bilirdin? Bəli, yoxsa xeyr? 👇",
+   "quizzes": [
+    {
+     "q": "Günəş hər saniyə nə qədər kütlə itirir?",
+     "options": [
+      "4 milyon ton",
+      "4 min ton",
+      "4 milyard ton"
+     ],
+     "answer": "4 milyon ton",
+     "why": "Bu kütlə işığa və istiyə çevrilir."
+    },
+    {
+     "q": "Günəş hidrogeni nəyə çevirir?",
+     "options": [
+      "Heliuma",
+      "Oksigenə",
+      "Dəmirə"
+     ],
+     "answer": "Heliuma",
+     "why": "Hər saniyə 600 milyon ton hidrogen."
+    },
+    {
+     "q": "Günəş hələ təxminən neçə il parlayacaq?",
+     "options": [
+      "5 milyard il",
+      "5 milyon il",
+      "500 min il"
+     ],
+     "answer": "5 milyard il",
+     "why": "Kütləsinin cəmi 0,03 faizini itirəcək."
+    }
+   ],
+   "sources": [
+    "https://www.astronomy.ohio-state.edu/ryden.1/ast162_1/notes2.html",
+    "https://briankoberlein.com/blog/is-the-sun-losing-mass/"
+   ],
+   "verify_note": "600 Mt H -> 596 Mt He per second, >4 Mt/s mass to energy: Ohio State (Ryden); 4 Mt/s fusion + ~5 bn years left + 0.034% total loss: Koberlein. Solar-wind loss (1.5 Mt/s) left out to keep it simple; hook says 4 Mt (fusion only).",
+   "photo": {
+    "path": "fetch/img/2026-10-27_4_sun_jameslee.jpg",
+    "credit": "James Lee / Unsplash",
+    "cy": 0.5,
+    "full": false,
+    "source": "https://unsplash.com/photos/yellow-sun-with-dark-sunspots-mlQPLdxsjCc",
+    "alt": "fetch/img/2026-10-27_4_sun_micha.jpg (Foto Micha / Unsplash)",
+    "note": "landscape, sun off-centre -> full:false (fit on blur)"
+   },
+   "voice": {
+    "voice": "az-AZ-BanuNeural",
+    "rate": "+15%",
+    "texts": [
+     "Hər saniyə dörd milyon ton. Günəş arıqlayır.",
+     "Günəş hər saniyə altı yüz milyon ton hidrogeni heliuma çevirir. Amma alınan helium cəmi beş yüz doxsan altı milyon ton olur.",
+     "Aradakı dörd milyon ton yox olmur, işığa və istiyə çevrilir. Üzündə hiss etdiyin günəş istisi də budur.",
+     "Buna baxmayaraq, Günəş hələ təxminən beş milyard il parlayacaq. O vaxta qədər kütləsinin çox kiçik bir hissəsini itirəcək. Bunu bilirdin?"
+    ]
+   }
+  }
+ ],
+ "spare": [],
+ "language_check": "2026-10-26 09:10: all texts re-read sentence by sentence (short spoken AZ; 'X-a qonmaq' not used; 'çeçələ barmaq', 'kaşı tağları', 'gediş haqqı'); voice_texts numbers written as words; NBSP to be used in '47 000', '100 000', '3,8 milyon' on images."
+}

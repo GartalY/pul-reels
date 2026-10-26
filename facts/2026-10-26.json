@@ -402,89 +402,7 @@
   }
  ],
  "language_check": "2026-10-25 09:10: all texts re-read sentence by sentence (short spoken AZ, verb cases checked: 'X ilə qarşılaşmaq', 'çiçəyə qonmaq', 'çiçəyə baş çəkmək'); NBSP to be used in '4 700' on images.",
- "spare": [
-  {
-   "n": 3,
-   "type": "card",
-   "cat": "Təbiət",
-   "subject": "Pando, Utah: one quaking aspen clone, ~47,000 genetically identical stems on one root system, ~106 acres (~43 ha), ~6,000 t (13.3 million lb); stems live ~130-150 years; deer/elk browsing, ~80% fenced",
-   "photo_request": "Pando ağcaqovaq meşəsi",
-   "title": "Bu meşə bir ağacdır",
-   "text": "ABŞ-ın Yuta ştatında 47 000 ağac kimi görünən şey əslində tək bir canlıdır. Hamısının kökü birdir.",
-   "slides": [
-    {
-     "h": "47 000",
-     "t": "Pandoda təxminən 47 000 gövdə var. Hamısı genetik olaraq eynidir və eyni kökdən çıxır. Yəni bu, meşə yox, bir ağacdır."
-    },
-    {
-     "h": "43 hektar",
-     "t": "Pando təxminən 43 hektar yer tutur. Bu, təxminən 60 futbol meydançası qədərdir."
-    },
-    {
-     "h": "6 000 ton",
-     "t": "Alimlər onun çəkisini təxminən 6 000 ton hesablayır. Bu, onu dünyanın ən ağır canlılarından biri edir."
-    },
-    {
-     "h": "130 il",
-     "t": "Hər gövdə təxminən 130–150 il yaşayır, sonra kökdən yenisi çıxır. Amma marallar cavan gövdələri yeyir. Ona görə ərazinin çox hissəsi hasara alınıb."
-    }
-   ],
-   "caption": "Bu meşə əslində tək bir ağacdır 🌳\n\nYuta ştatındakı Pando adlı ağcaqovaq meşəsində təxminən 47 000 gövdə var. Hamısı genetik olaraq eynidir və bir kök sistemindən böyüyür. Bu canlı təxminən 6 000 ton çəkir və 43 hektar yer tutur. Hər gövdə 130–150 il yaşayır, sonra yerinə kökdən yenisi çıxır.\n\n📩 Meşəyə gedib «ağaclar çox gözəldir» deyən dostuna göndər — qoy bilsin, ağac birdir 😄\n\nFoto: USDA Forest Service / Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #təbiət #ağac #amerika",
-   "first_comment": "Bunu bilirdin, yoxsa indi öyrəndin? 👇",
-   "quizzes": [
-    {
-     "q": "Pandonun çəkisi təxminən nə qədərdir?",
-     "options": [
-      "60 ton",
-      "600 ton",
-      "6 000 ton"
-     ],
-     "answer": "6 000 ton",
-     "why": "Dünyanın ən ağır canlılarından biri sayılır."
-    },
-    {
-     "q": "Pandoda təxminən neçə gövdə var?",
-     "options": [
-      "4 700",
-      "47 000",
-      "470 000"
-     ],
-     "answer": "47 000",
-     "why": "Hamısı eyni kök sistemindən çıxır."
-    },
-    {
-     "q": "Pandonun hər gövdəsi təxminən neçə il yaşayır?",
-     "options": [
-      "13–15 il",
-      "130–150 il",
-      "1 300–1 500 il"
-     ],
-     "answer": "130–150 il",
-     "why": "Sonra yerinə kökdən yeni gövdə çıxır."
-    }
-   ],
-   "sources": [
-    "https://www.friendsofpando.org/thepandotree/facts-about-pando/",
-    "https://www.earthdate.org/pando-a-forest-of-one",
-    "https://www.sciencealert.com/the-world-s-largest-organism-is-slowly-being-eaten-scientist-says"
-   ],
-   "verify_note": "47,000 stems, 106 acres (=42.9 ha), 13.3 million lb dry weight (≈6,000 t), stems 130–150 years, deer/elk browsing, ~80% fenced: Friends of Pando; 47,000 / 6,000 t also in the search-result summaries of other outlets. Age estimates vary widely (9,000 to tens of thousands of years) -> age NOT used. 43 ha / 0.714 ha per pitch ≈ 60.",
-   "photo": {
-    "path": "fetch/img/2026-10-21_pando_b.jpg",
-    "credit": "USDA Forest Service / Wikimedia Commons (ictimai mülkiyyət)",
-    "cy": 0.5,
-    "full": true,
-    "source": "https://commons.wikimedia.org/wiki/File:Pando_in_the_Fall_(11937950814).jpg",
-    "alt": "fetch/img/2026-10-21_pando_a.jpg (trunk close-up, Lance Oditt / Friends of Pando, CC BY-SA 4.0)"
-   },
-   "cover": {
-    "hook": "Bu meşə əslində tək bir ağacdır",
-    "sub": "Pando, Yuta (ABŞ) · 47 000 gövdə, bir kök"
-   },
-   "format": "v2",
-   "moved_from": "2026-10-24 spare (orig. 2026-10-23 18:30, replaced by trend)"
-  }
- ],
+ "spare": [],
  "stories": [
   {
    "time": "11:00",
@@ -551,5 +469,75 @@
   "22:40 answer a5": 405827405
  },
  "quiz_cut": "2026-10-25: only 11:00 + 14:00 quizzes kept (Gartal approved after weekly review: 0 replies on 66 stories)",
- "voice_note": "2026-10-25 ~21:56: the three reels were re-rendered with Banu voice-over (*_reel_v.mp4) and swapped in Metricool (same time/caption; follow line added to 16:00/21:30 captions)."
+ "voice_note": "2026-10-25 ~21:56: the three reels were re-rendered with Banu voice-over (*_reel_v.mp4) and swapped in Metricool (same time/caption; follow line added to 16:00/21:30 captions).",
+ "trend": {
+  "n": "T",
+  "type": "reel",
+  "format": "v4",
+  "cat": "Coğrafiya",
+  "voiced": false,
+  "subject": "Brazil presidential runoff Sun 25 Oct 2026: Lula da Silva 51.76% vs Flávio Bolsonaro 48.24% (TSE, 100% counted, lead ~4.4 million votes; CBS/AP, Business Standard). Non-consecutive 4th term (won 2002, 2006, 2022, 2026; lost 1989, 1994, 1998). First round: Bolsonaro 47%, Lula 45%; first time since 1985 that the first-round runner-up won (CBS/AP). Born 27 Oct 1945 (turns 81 on 27 Oct). Street vendor at 8, shoeshiner at 12, lost left little finger in a machinery accident in 1964 at 19 (Wikipedia; CNN fast facts). New term starts 5 Jan 2027 (CBS/AP). Flávio Bolsonaro refused to concede and asked for annulment over the last-minute 2-hour voting extension by Justice Zanin (requested by both campaigns); electoral court president Nunes Marques said the extension did not affect the result (CBN/AP).",
+  "photo_request": "Lula official portrait (Commons, CC BY 2.0)",
+  "title": "80 yaşında 4-cü dəfə prezident seçildi",
+  "text": "Braziliyada Lula da Silva ikinci turda 51,8 faiz səslə qalib gəldi. Uşaqlıqda küçədə satıcı olan Lula prezident seçkisində əvvəlcə 3 dəfə uduzub.",
+  "reel_hook": "80 YAŞINDA 4-CÜ DƏFƏ PREZİDENT SEÇİLDİ",
+  "reel_beats": [
+   "Bazar günü Braziliyada prezident seçkisinin ikinci turu keçdi. Lula da Silva 51,8 faiz səs topladı, rəqibi Flavio Bolsonaro isə 48,2 faiz.",
+   "Lula 8 yaşında küçədə satıcı olub, 12 yaşında ayaqqabı təmizləyib. 19 yaşında isə zavodda dəzgah onun sol əlinin çeçələ barmağını kəsib.",
+   "Prezident seçkisində əvvəlcə 3 dəfə uduzub: 1989, 1994 və 1998-ci illərdə. Sonra 4 dəfə qalib gəlib. Sən 3 dəfə uduzsan, yenə cəhd edərdin?"
+  ],
+  "caption": "80 yaşında 4-cü dəfə prezident seçildi 🗳️\n\nBraziliyada bazar günü keçən ikinci turda Lula da Silva 51,8 faiz, Flavio Bolsonaro isə 48,2 faiz səs topladı. Birinci turda Bolsonaro 47 faizlə öndə idi. AP yazır ki, 1985-ci ildən bəri ilk dəfədir birinci turda ikinci olan namizəd seçkini qazanır. Bolsonaro nəticəni tanımadığını deyib və səsvermənin son anda 2 saat uzadılmasını səbəb göstərib. Seçki məhkəməsinin sədri isə bildirib ki, bu uzatma nəticəyə təsir etməyib. Lula sabah 81 yaşına girir.\n\n📩 Hər uğursuzluqdan sonra «daha bəsdir» deyən dostuna göndər 😄\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Ricardo Stuckert / Palácio do Planalto (CC BY 2.0)\n\n#bilirdinizmi #maraqlıfaktlar #braziliya #seçki #dünya",
+  "first_comment": "Sən 3 dəfə uduzsan, yenə cəhd edərdin? 👇",
+  "quizzes": [
+   {
+    "q": "Lula ikinci turda neçə faiz səs topladı?",
+    "options": [
+     "51,8 faiz",
+     "61,3 faiz",
+     "45,2 faiz"
+    ],
+    "answer": "51,8 faiz",
+    "why": "Rəqibi Flavio Bolsonaro 48,2 faiz aldı."
+   },
+   {
+    "q": "Lula prezident seçkisində əvvəlcə neçə dəfə uduzub?",
+    "options": [
+     "3 dəfə",
+     "1 dəfə",
+     "5 dəfə"
+    ],
+    "answer": "3 dəfə",
+    "why": "1989, 1994 və 1998-ci illərdə."
+   },
+   {
+    "q": "Lula 12 yaşında hansı işi görüb?",
+    "options": [
+     "Ayaqqabı təmizləyib",
+     "Qəzet satıb",
+     "Taksi sürüb"
+    ],
+    "answer": "Ayaqqabı təmizləyib",
+    "why": "8 yaşında isə küçədə satıcı olub."
+   }
+  ],
+  "sources": [
+   "https://www.cbsnews.com/news/brazil-presidential-runoff-lula-flavio-bolsonaro/",
+   "https://www.business-standard.com/amp/world-news/lula-wins-record-fourth-term-in-brazil-defeats-bolsonaro-in-runoff-vote-126102600055_1.html",
+   "https://cbn.com/news/politics/lula-declared-winner-brazils-election-bolsonaro-rejects-results",
+   "https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva",
+   "https://kvia.com/news/us-world/cnn-world/2024/10/17/luiz-inacio-lula-da-silva-fast-facts-2/"
+  ],
+  "verify_note": "Result 51.76/48.24 (Business Standard) = 51.8 (CBS/AP, CBN). Records: CBS says 'non-consecutive fourth term', not 'first ever' -> we say only '4-cü dəfə'. Childhood jobs + finger at 19 in 1964: Wikipedia; finger also CNN fast facts. Losses 1989/94/98 and wins 2002/06/22: CNN fast facts + Wikipedia. Age 80 now, b. 27 Oct 1945. Neutral: both sides on the voting extension (Bolsonaro's objection + court president's statement), attributed. Hook/beat end question is about persistence, not politics.",
+  "photo": {
+   "path": "fetch/img/2026-10-26_T_lula_ombros.jpg",
+   "credit": "Ricardo Stuckert / Palácio do Planalto (CC BY 2.0)",
+   "cy": 0.3,
+   "full": true,
+   "source": "https://commons.wikimedia.org/wiki/File:Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_(ombros).jpg",
+   "alt": "fetch/img/2026-10-26_T_lula_vertical.jpg"
+  },
+  "picked": "2026-10-26 09:10: top world story today (Brazil runoff, Lula record 4th term). No AZ/TR link, but 'from shoeshine boy to 4-time president' + number-first hook; football alternative (GS-FB derby) already used yesterday."
+ },
+ "trend_check_morning": "2026-10-26 09:10: news checked (SBS, Jagran world/sport roundup, AZ/TR searches). Big world story = Brazil runoff (Lula 4th term) -> written as `trend` reel for the 15:23 swap of the 18:30 Moon-trees carousel. Nothing in AZ news requiring an immediate swap; all 26 Oct posts confirmed in Metricool at 09:2x.",
+ "spare_note": "2026-10-26 09:10: Pando moved to 2026-10-27 facts[2] (as a reel). If the 15:23 trend swap happens, Moon trees becomes the new spare."
 }

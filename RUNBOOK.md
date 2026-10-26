@@ -54,6 +54,16 @@ Every text (caption, slide, reel beat, quiz, story, first comment) must read lik
   In the 2026-11-08 weekly review compare voiced vs silent: median reach, avg watch time (IGRE24), >3 s rate
   (IGRE28), shares, saves, follows; normalise for slot (13:00 vs 16:00 differ). If voiced clearly wins → voice on
   every reel; if it loses or is unclear → drop it or keep only where it wins. (26 Oct: 13:00/16:00/21:30 voiced.)
+- **VOICE NATURALNESS (Gartal 2026-10-26: Banu sounds obviously AI; keep a FEMALE voice, no human recording, fully automatic):**
+  use rate **+0%** (not +15%) unless Gartal picks otherwise after hearing samples; in `voice_texts` write numbers OUT
+  IN WORDS the way people say them ("iyirmi səkkiz metr", "min doqquz yüz on yeddinci ildə"), no "~", "°C", "%" or
+  abbreviations (say "dərəcə", "faiz", "təxminən"); short sentences with commas where a person would pause;
+  everyday spoken words, not bookish ones. Screen text keeps digits; only the spoken text changes.
+- **ROADMAP (Claude as manager, 2026-10-26):** 1) NOW: cross-post every reel to TikTok + YouTube Shorts via
+  Metricool as soon as Gartal connects the accounts (same video, same caption; YouTube needs title ≤ 100 chars,
+  type "short", madeForKids false, isAiGeneratedContent = voiced; TikTok isAigc = voiced). 2) ~9 Nov, only if
+  the 1 Nov review shows the AZ page still growing: second brand = TURKISH facts page, same pipeline.
+  3) English page: December at the earliest, after the Turkish page runs on its own.
 - **AI LABEL ON VOICED REELS (decided 2026-10-26):** every reel with a synthetic voice-over is scheduled with
   `instagramData.isAiGenerated: true` (Meta asks creators to disclose realistic-sounding AI audio; the label is
   honest and avoids any policy risk). Silent reels keep `false`. Never imitate a real person's voice.

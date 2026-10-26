@@ -1,6 +1,6 @@
 {
  "date": "2026-10-27",
- "status": "planned",
+ "status": "scheduled",
  "format": "v2",
  "content_format": "v4",
  "planned_note": "Planned in the 2026-10-26 09:10 run (format v4: 4 reels + 1 carousel). 10:00 TBG carousel = NYC subway opened 27 Oct 1904 (122 years; Baku-metro link in caption). 13:00 AZ reel (VOICED): ~350 mud volcanoes, most in the world. 16:00 reel (SILENT): 3.8 million cells renewed per second. 18:30 trend backup reel (SILENT): Pando 47 000 stems = one organism. 21:30 reel (VOICED): Sun loses 4 million t per second. Voice split test 27 Oct-2 Nov: 13:00 + 21:30 voiced, 16:00 + 18:30 silent. All photos fetched and checked.",
@@ -411,5 +411,29 @@
    "image": "out/2026-10-27/q2.jpg",
    "answer_image": "out/2026-10-27/q2_a.jpg"
   }
- ]
+ ],
+ "built": {
+  "when": "2026-10-26 ~20:55 Asia/Baku",
+  "checked": "6 carousel slides, tbg story, 4 quiz/answer stories, 4-5 frames per reel viewed; no overflow. Reel 4 re-rendered on a re-framed portrait sun photo.",
+  "reel_seconds": {
+   "1": 25.4,
+   "2": 21.9,
+   "3": 22.2,
+   "4": 25.8
+  },
+  "voice": "Banu +15% OK on reels 1 and 4 (isAiGenerated true); reels 2 and 3 silent"
+ },
+ "metricool": {
+  "10:00 tarixdə bu gün carousel (NYC subway 1904)": 406893292,
+  "13:00 reel (350 mud volcanoes, voiced)": 406893426,
+  "16:00 reel (3.8 million cells/s, silent)": 406893549,
+  "18:30 reel trend backup (Pando, silent)": 406893653,
+  "21:30 reel (Sun 4 Mt/s, voiced)": 406893751,
+  "10:00 tarixdə bu gün story": 406893853,
+  "11:00 quiz q1 (recall snapping shrimp)": 406893895,
+  "11:10 answer a1": 406893957,
+  "14:00 quiz q2 (mud volcanoes)": 406893998,
+  "14:10 answer a2": 406894046
+ },
+ "quiz_note": "First quizplan run picked Moon trees (2026-10-26-3, never posted: trend swap) as recall -> marked unposted in db.json and re-planned (recall = snapping shrimp)."
 }

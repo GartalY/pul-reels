@@ -11,3 +11,4 @@
 - 2026-10-24 (scheduled, v3): TBG Annie Edson Taylor Niagara barrel 1901 · Zoroastr first successful oil tanker 1878 (Nobel, Baku) · France 12 time zones · Moon trees (Apollo 14, backup 18:30) · blue whale heart 2 bpm
 - 2026-10-25 (scheduled, v3): TBG Windows XP 25 years (2001, Bliss) · Michon 1898 first films in Baku (Cinema Day 2 Aug) · Neptune found by maths 1846 · Pando (backup 18:30) · Ötzi 61 tattoos
 - 2026-10-26 (scheduled, v3): TBG FA founded 1863 (Morley, rugby split, 0-0) · Baku 28 m below sea level · bee 1/12 teaspoon of honey · Moon trees (backup 18:30) · snapping shrimp bubble >4 700 °C
+- 2026-10-27 (scheduled, v4): TBG NYC subway opened 1904 · ~350 mud volcanoes in Azerbaijan · 3.8 million cells renewed per second · Pando (backup 18:30, reel) · Sun loses 4 million t per second

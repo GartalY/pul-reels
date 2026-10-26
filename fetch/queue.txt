@@ -147,3 +147,9 @@ search_alpheus.json https://commons.wikimedia.org/w/api.php?action=query&format=
 2026-10-26_H_laws.jpg https://upload.wikimedia.org/wikipedia/commons/5/5d/Original_laws_of_the_game_1863.jpg
 2026-10-26_4_shrimp_cuba.jpg https://upload.wikimedia.org/wikipedia/commons/e/e7/2017%2C_cuba%2C_jardines_aggressor%2C_fraile_II%2C_snapping_shrimp_%2837504722356%29.jpg
 2026-10-26_4_shrimp_villosus.jpg https://upload.wikimedia.org/wikipedia/commons/b/ba/Alpheus_villosus_on_sand.jpg
+search_lula.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Lula%20da%20Silva%202023%20portrait
+search_nycsubway.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=City%20Hall%20subway%20station%201904
+search_mudvolcano.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Gobustan%20mud%20volcano
+2026-10-27_4_sun_micha.jpg https://images.unsplash.com/photo-1761484946694-4ff5d40d3d5a?crop=entropy&cs=srgb&fm=jpg&q=85&w=2000
+2026-10-27_4_sun_jameslee.jpg https://images.unsplash.com/photo-1791143456226-87d9a22d3401?crop=entropy&cs=srgb&fm=jpg&q=85&w=2000
+2026-10-27_2_cells_anirudh.jpg https://images.unsplash.com/photo-1638271522560-a247d127deb8?crop=entropy&cs=srgb&fm=jpg&q=85&w=2000

@@ -450,9 +450,9 @@
  "metricool": {
   "10:00 tarixdə bu gün carousel (FA 1863)": 405804357,
   "13:00 reel (Baku -28 m)": 405852272,
-  "16:00 reel (bee 1/12 tsp)": 405852315,
+  "16:00 reel (bee 1/12 tsp)": 406402097,
   "18:30 carousel (Moon trees, trend backup)": 405804505,
-  "21:30 reel (snapping shrimp 4700 C)": 405852366,
+  "21:30 reel (snapping shrimp 4700 C)": 406402170,
   "10:00 tarixdə bu gün story": 405804617,
   "11:00 quiz q1 (recall Mourinho)": 405804639,
   "11:10 answer a1": 405804668,
@@ -539,5 +539,6 @@
   "picked": "2026-10-26 09:10: top world story today (Brazil runoff, Lula record 4th term). No AZ/TR link, but 'from shoeshine boy to 4-time president' + number-first hook; football alternative (GS-FB derby) already used yesterday."
  },
  "trend_check_morning": "2026-10-26 09:10: news checked (SBS, Jagran world/sport roundup, AZ/TR searches). Big world story = Brazil runoff (Lula 4th term) -> written as `trend` reel for the 15:23 swap of the 18:30 Moon-trees carousel. Nothing in AZ news requiring an immediate swap; all 26 Oct posts confirmed in Metricool at 09:2x.",
- "spare_note": "2026-10-26 09:10: Pando moved to 2026-10-27 facts[2] (as a reel). If the 15:23 trend swap happens, Moon trees becomes the new spare."
+ "spare_note": "2026-10-26 09:10: Pando moved to 2026-10-27 facts[2] (as a reel). If the 15:23 trend swap happens, Moon trees becomes the new spare.",
+ "note_ai_label": "16:00 and 21:30 voiced reels switched to isAiGenerated=true at 13:39; 13:00 reel was already published without the label"
 }

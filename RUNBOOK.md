@@ -54,6 +54,11 @@ Every text (caption, slide, reel beat, quiz, story, first comment) must read lik
   In the 2026-11-08 weekly review compare voiced vs silent: median reach, avg watch time (IGRE24), >3 s rate
   (IGRE28), shares, saves, follows; normalise for slot (13:00 vs 16:00 differ). If voiced clearly wins → voice on
   every reel; if it loses or is unclear → drop it or keep only where it wins. (26 Oct: 13:00/16:00/21:30 voiced.)
+- **AI LABEL ON VOICED REELS (decided 2026-10-26):** every reel with a synthetic voice-over is scheduled with
+  `instagramData.isAiGenerated: true` (Meta asks creators to disclose realistic-sounding AI audio; the label is
+  honest and avoids any policy risk). Silent reels keep `false`. Never imitate a real person's voice.
+  Licensing note: edge-tts uses Microsoft Edge's read-aloud service unofficially. Before the page earns money
+  (first paid ad), move voice generation to the official Azure Speech free tier (same az-AZ-BanuNeural voice).
 - **VOICE-OVER (Gartal, 2026-10-25: "I loved Banu voice"; scope limited by the split test above):** a reel gets the Azerbaijani
   neural voice **az-AZ-BanuNeural, rate +15%** (free Microsoft Edge read-aloud voice via `edge-tts`; host
   speech.platform.bing.com is allowed in Gartal's Claude settings). Steps per reel:

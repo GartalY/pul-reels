@@ -55,7 +55,7 @@ Every text (caption, slide, reel beat, quiz, story, first comment) must read lik
   (IGRE28), shares, saves, follows; normalise for slot (13:00 vs 16:00 differ). If voiced clearly wins → voice on
   every reel; if it loses or is unclear → drop it or keep only where it wins. (26 Oct: 13:00/16:00/21:30 voiced.)
 - **VOICE NATURALNESS (Gartal 2026-10-26: Banu sounds obviously AI; keep a FEMALE voice, no human recording, fully automatic):**
-  use rate **+0%** (not +15%) unless Gartal picks otherwise after hearing samples; in `voice_texts` write numbers OUT
+  KEEP rate **+15%** (Gartal heard +0% vs +15% on 2026-10-26: no real difference → shorter reels win); in `voice_texts` write numbers OUT
   IN WORDS the way people say them ("iyirmi səkkiz metr", "min doqquz yüz on yeddinci ildə"), no "~", "°C", "%" or
   abbreviations (say "dərəcə", "faiz", "təxminən"); short sentences with commas where a person would pause;
   everyday spoken words, not bookish ones. Screen text keeps digits; only the spoken text changes.

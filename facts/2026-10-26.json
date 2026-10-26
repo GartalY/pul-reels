@@ -536,9 +536,15 @@
    "source": "https://commons.wikimedia.org/wiki/File:Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_(ombros).jpg",
    "alt": "fetch/img/2026-10-26_T_lula_vertical.jpg"
   },
-  "picked": "2026-10-26 09:10: top world story today (Brazil runoff, Lula record 4th term). No AZ/TR link, but 'from shoeshine boy to 4-time president' + number-first hook; football alternative (GS-FB derby) already used yesterday."
+  "picked": "2026-10-26 09:10: top world story today (Brazil runoff, Lula record 4th term). No AZ/TR link, but 'from shoeshine boy to 4-time president' + number-first hook; football alternative (GS-FB derby) already used yesterday.",
+  "built": "out/2026-10-26/T_reel.mp4 (24.9 s, silent, hook_bg, cy 0.3); 5 frames checked 15:29"
  },
  "trend_check_morning": "2026-10-26 09:10: news checked (SBS, Jagran world/sport roundup, AZ/TR searches). Big world story = Brazil runoff (Lula 4th term) -> written as `trend` reel for the 15:23 swap of the 18:30 Moon-trees carousel. Nothing in AZ news requiring an immediate swap; all 26 Oct posts confirmed in Metricool at 09:2x.",
- "spare_note": "2026-10-26 09:10: Pando moved to 2026-10-27 facts[2] (as a reel). If the 15:23 trend swap happens, Moon trees becomes the new spare.",
- "note_ai_label": "16:00 and 21:30 voiced reels switched to isAiGenerated=true at 13:39; 13:00 reel was already published without the label"
+ "spare_note": "2026-10-26 09:10: Pando moved to 2026-10-27 facts[2] (as a reel). If the 15:23 trend swap happens, Moon trees becomes the new spare. | 26 Oct 15:30: Moon trees backup not posted (trend swap) -> reuse on a later day.",
+ "note_ai_label": "16:00 and 21:30 voiced reels switched to isAiGenerated=true at 13:39; 13:00 reel was already published without the label",
+ "trend_swap": {
+  "what": "18:30 Moon trees carousel (facts[2]) -> Lula 4th-term trend REEL",
+  "why": "daily trend post (section D, v4 reel)",
+  "at": "2026-10-26 15:30 Baku"
+ }
 }

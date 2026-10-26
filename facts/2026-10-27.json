@@ -105,9 +105,9 @@
    "text": "Azərbaycanda təxminən 350 palçıq vulkanı var. Bu, dünyadakı palçıq vulkanlarının üçdə biri, bəlkə də yarısıdır.",
    "reel_hook": "350 PALÇIQ VULKANI — DÜNYADA ƏN ÇOX BİZDƏDİR",
    "reel_beats": [
-    "Azərbaycanda təxminən 350 palçıq vulkanı var. Bu, dünyadakıların üçdə biri, bəlkə də yarısıdır.",
-    "Onların 140-dan çoxu Xəzərin dibindədir. Qobustandakı vulkanların palçığı isə isti yox, soyuqdur.",
-    "Bəzən içindən çıxan qaz alışır. 2001-ci ildə Lökbatanda alov onlarla metr qalxıb. Sən palçıq vulkanı görmüsən?"
+    "Bizdə təxminən 350 palçıq vulkanı var — dünyadakıların üçdə biri, bəlkə də yarısı.",
+    "Onların 140-dan çoxu Xəzərin dibindədir. Qobustanda isə palçıq soyuqdur.",
+    "2001-ci ildə Lökbatanda qaz alışdı, alov onlarla metr qalxdı. Sən palçıq vulkanı görmüsən?"
    ],
    "cta": "Hər gün 13:00-da yeni Bakı faktı — izlə!",
    "caption": "Dünyada ən çox palçıq vulkanı Azərbaycandadır 🌋\n\nÖlkəmizdə təxminən 350 palçıq vulkanı var — dünyadakıların üçdə biri, bəzi hesablamalara görə isə yarısı. Onların 140-dan çoxu Xəzərin dibindədir. Bu vulkanlardan lava yox, palçıq və qaz çıxır, Qobustanda palçıq soyuqdur. Amma qaz alışanda alov onlarla metr qalxa bilir: 2001-ci ildə Lökbatanda belə olub.\n\n📩 Qobustana getməyə hələ də vaxt tapmayan dostuna göndər 😄\n\n👉 Hər gün 13:00-da Azərbaycan haqqında bilmədiyin bir fakt — izlə ki, qaçırmayasan\n\nFoto: Bernard Gagnon / Wikimedia Commons (CC BY 4.0)\n\n#bilirdinizmi #maraqlıfaktlar #azərbaycan #qobustan #təbiət",
@@ -164,9 +164,9 @@
     "rate": "+15%",
     "texts": [
      "Üç yüz əlli palçıq vulkanı. Dünyada ən çox bizdədir.",
-     "Azərbaycanda təxminən üç yüz əlli palçıq vulkanı var. Bu, dünyadakıların üçdə biri, bəlkə də yarısıdır.",
-     "Onların yüz qırxdan çoxu Xəzərin dibindədir. Qobustandakı vulkanların palçığı isə isti yox, soyuqdur.",
-     "Bəzən içindən çıxan qaz alışır. İki min birinci ildə Lökbatanda alov onlarla metr qalxıb. Sən palçıq vulkanı görmüsən?"
+     "Bizdə təxminən üç yüz əlli palçıq vulkanı var, dünyadakıların üçdə biri, bəlkə də yarısı.",
+     "Onların yüz qırxdan çoxu Xəzərin dibindədir. Qobustanda isə palçıq soyuqdur.",
+     "İki min birinci ildə Lökbatanda qaz alışdı, alov onlarla metr qalxdı. Sən palçıq vulkanı görmüsən?"
     ]
    }
   },
@@ -310,9 +310,9 @@
    "text": "Günəş hər saniyə 600 milyon ton hidrogeni heliuma çevirir. Bu zaman 4 milyon ton kütlə işığa və istiyə çevrilir.",
    "reel_hook": "HƏR SANİYƏ 4 MİLYON TON — GÜNƏŞ ARIQLAYIR",
    "reel_beats": [
-    "Günəş hər saniyə 600 milyon ton hidrogeni heliuma çevirir. Amma alınan helium cəmi 596 milyon ton olur.",
-    "Aradakı 4 milyon ton yox olmur, işığa və istiyə çevrilir. Üzündə hiss etdiyin günəş istisi də budur.",
-    "Buna baxmayaraq, Günəş hələ təxminən 5 milyard il parlayacaq. O vaxta qədər kütləsinin cəmi 0,03 faizini itirəcək. Bunu bilirdin?"
+    "Günəş hər saniyə 600 milyon ton hidrogeni heliuma çevirir. Bu zaman 4 milyon ton kütlə itir.",
+    "Bu kütlə yox olmur, işığa və istiyə çevrilir. Üzündə hiss etdiyin günəş istisi də budur.",
+    "Narahat olma, Günəş hələ təxminən 5 milyard il parlayacaq. Bunu bilirdin?"
    ],
    "caption": "Günəş hər saniyə 4 milyon ton yüngülləşir ☀️\n\nGünəşin içində hər saniyə təxminən 600 milyon ton hidrogen heliuma çevrilir. Amma alınan helium 596 milyon ton olur. Aradakı 4 milyon ton işığa və istiyə çevrilir — Yerə çatan günəş istisi də budur. Buna baxmayaraq, Günəş hələ milyardlarla il parlayacaq və kütləsinin çox az hissəsini itirəcək.\n\n📩 Pəhriz saxlayıb «heç arıqlamıram» deyən dostuna göndər — Günəş də yavaş arıqlayır 😄\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: James Lee / Unsplash\n\n#bilirdinizmi #maraqlıfaktlar #kosmos #günəş #elm",
    "first_comment": "Bunu bilirdin? Bəli, yoxsa xeyr? 👇",
@@ -354,26 +354,62 @@
    ],
    "verify_note": "600 Mt H -> 596 Mt He per second, >4 Mt/s mass to energy: Ohio State (Ryden); 4 Mt/s fusion + ~5 bn years left + 0.034% total loss: Koberlein. Solar-wind loss (1.5 Mt/s) left out to keep it simple; hook says 4 Mt (fusion only).",
    "photo": {
-    "path": "fetch/img/2026-10-27_4_sun_jameslee.jpg",
+    "path": "fetch/img/2026-10-27_4_sun_jameslee_portrait.jpg",
     "credit": "James Lee / Unsplash",
     "cy": 0.5,
-    "full": false,
+    "full": true,
     "source": "https://unsplash.com/photos/yellow-sun-with-dark-sunspots-mlQPLdxsjCc",
     "alt": "fetch/img/2026-10-27_4_sun_micha.jpg (Foto Micha / Unsplash)",
-    "note": "landscape, sun off-centre -> full:false (fit on blur)"
+    "note": "evening build: James Lee photo re-framed onto a 1080x1920 black canvas (sun centred, 900 px) — fit_on_blur left the sun small and off-centre with banding"
    },
    "voice": {
     "voice": "az-AZ-BanuNeural",
     "rate": "+15%",
     "texts": [
      "Hər saniyə dörd milyon ton. Günəş arıqlayır.",
-     "Günəş hər saniyə altı yüz milyon ton hidrogeni heliuma çevirir. Amma alınan helium cəmi beş yüz doxsan altı milyon ton olur.",
-     "Aradakı dörd milyon ton yox olmur, işığa və istiyə çevrilir. Üzündə hiss etdiyin günəş istisi də budur.",
-     "Buna baxmayaraq, Günəş hələ təxminən beş milyard il parlayacaq. O vaxta qədər kütləsinin çox kiçik bir hissəsini itirəcək. Bunu bilirdin?"
+     "Günəş hər saniyə altı yüz milyon ton hidrogeni heliuma çevirir. Bu zaman dörd milyon ton kütlə itir.",
+     "Bu kütlə yox olmur, işığa və istiyə çevrilir. Üzündə hiss etdiyin günəş istisi də budur.",
+     "Narahat olma, Günəş hələ təxminən beş milyard il parlayacaq. Bunu bilirdin?"
     ]
    }
   }
  ],
  "spare": [],
- "language_check": "2026-10-26 09:10: all texts re-read sentence by sentence (short spoken AZ; 'X-a qonmaq' not used; 'çeçələ barmaq', 'kaşı tağları', 'gediş haqqı'); voice_texts numbers written as words; NBSP to be used in '47 000', '100 000', '3,8 milyon' on images."
+ "language_check": "2026-10-26 09:10: all texts re-read sentence by sentence (short spoken AZ; 'X-a qonmaq' not used; 'çeçələ barmaq', 'kaşı tağları', 'gediş haqqı'); voice_texts numbers written as words; NBSP to be used in '47 000', '100 000', '3,8 milyon' on images.",
+ "language_fix": "2026-10-26 20:50 evening build: voiced reels 1 and 4 beats shortened (first take ~30 s / ~31 s > 25 s target): 1) mud volcanoes beats trimmed; 2) Sun beat 1 drops the 596 Mt step, beat 3 drops 0.03% (caption keeps it). Only verified details reused.",
+ "trend_check_evening": "2026-10-26 ~20:50: news searches (AZ news, world news, breaking) showed nothing big for the AZ audience requiring a swap of the 27 Oct plan; the 09:10 run picks the 18:30 trend (Pando backup ready as a silent reel).",
+ "stories": [
+  {
+   "time": "11:00",
+   "fact_id": "2026-10-26-4",
+   "recall": true,
+   "cat": "Elm",
+   "q": "Krevetin qabarcığı saatda hansı sürətlə uçur?",
+   "options": [
+    "90 km",
+    "9 km",
+    "900 km"
+   ],
+   "answer": "90 km",
+   "why": "Partlayanda kiçik balıqları keyləşdirir.",
+   "image": "out/2026-10-27/q1.jpg",
+   "answer_image": "out/2026-10-27/q1_a.jpg"
+  },
+  {
+   "time": "14:00",
+   "fact_id": "2026-10-27-1",
+   "recall": false,
+   "cat": "Azərbaycan",
+   "q": "Azərbaycanda təxminən neçə palçıq vulkanı var?",
+   "options": [
+    "35",
+    "350",
+    "3 500"
+   ],
+   "answer": "350",
+   "why": "Dünyadakıların üçdə biri, bəlkə də yarısı.",
+   "image": "out/2026-10-27/q2.jpg",
+   "answer_image": "out/2026-10-27/q2_a.jpg"
+  }
+ ]
 }

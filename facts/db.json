@@ -1870,7 +1870,8 @@
      "why": "Meşə yanğınlarına paraşütlə enirdi."
     }
    ],
-   "asked": []
+   "asked": [],
+   "unposted": true
   },
   {
    "id": "2026-10-26-4",
@@ -1907,6 +1908,172 @@
      ],
      "answer": "Böyük qısqacı ilə",
      "why": "Qısqacı çox sürətlə bağlayır."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-27",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-27-1",
+   "date": "2026-10-27",
+   "subject": "Azerbaijan has about 350 mud volcanoes: 'about half of the world's 700' (Wikipedia, Atlas Obscura) or '350 of 1,000+, about a third' (AzerNews) -> 'üçdə biri, bəlkə də yarısı'. More than 140 on the Caspian seabed (Wikipedia). Gobustan's mud is cold (Atlas Obscura). Gas can ignite: Lökbatan erupted 10 Oct 2001 with flames tens of metres high (Wikipedia Lökbatan); Atlas Obscura: 2001 eruption near Baku, flames hundreds of feet, burned 3 days. Most recent notable: Otman-Bozdağ 11 Oct 2025 (Report.az) - not used.",
+   "cat": "Azərbaycan",
+   "quizzes": [
+    {
+     "q": "Azərbaycanda təxminən neçə palçıq vulkanı var?",
+     "options": [
+      "35",
+      "350",
+      "3 500"
+     ],
+     "answer": "350",
+     "why": "Dünyadakıların üçdə biri, bəlkə də yarısı."
+    },
+    {
+     "q": "Palçıq vulkanlarının 140-dan çoxu haradadır?",
+     "options": [
+      "Xəzərin dibində",
+      "Qafqaz dağlarında",
+      "Kür çayının sahilində"
+     ],
+     "answer": "Xəzərin dibində",
+     "why": "Qalanları quruda, Qobustan və Abşeron kimi yerlərdədir."
+    },
+    {
+     "q": "Qobustandakı vulkanların palçığı necədir?",
+     "options": [
+      "Soyuq",
+      "Qaynar",
+      "Lava ilə qarışıq"
+     ],
+     "answer": "Soyuq",
+     "why": "İçindən lava yox, qaz və palçıq çıxır."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-27",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-27-2",
+   "date": "2026-10-27",
+   "subject": "Sender & Milo (Nature Medicine 2021, Weizmann): ~330 billion cells replaced daily (~1% of ~30 trillion), = ~3.8 million per second (330e9/86,400); blood cells ~90% of turnover by number; at that rate the equivalent of the whole body's cell count in ~80-100 days ('a new you', Scientific American).",
+   "cat": "Elm",
+   "quizzes": [
+    {
+     "q": "Bədəndə gündə təxminən neçə hüceyrə yenilənir?",
+     "options": [
+      "330 milyard",
+      "3,3 milyard",
+      "33 trilyon"
+     ],
+     "answer": "330 milyard",
+     "why": "Bu, saniyədə təxminən 3,8 milyondur."
+    },
+    {
+     "q": "Yenilənən hüceyrələrin çoxu hansılardır?",
+     "options": [
+      "Qan hüceyrələri",
+      "Dəri hüceyrələri",
+      "Sümük hüceyrələri"
+     ],
+     "answer": "Qan hüceyrələri",
+     "why": "Təxminən 90 faizi qan hüceyrələridir."
+    },
+    {
+     "q": "Saniyədə təxminən neçə hüceyrə yenilənir?",
+     "options": [
+      "3,8 milyon",
+      "38 min",
+      "380 milyon"
+     ],
+     "answer": "3,8 milyon",
+     "why": "Gündə 330 milyard ÷ 86 400 saniyə."
+    }
+   ],
+   "asked": []
+  },
+  {
+   "id": "2026-10-27-3",
+   "date": "2026-10-27",
+   "subject": "Pando, Utah: one quaking aspen clone, ~47,000 genetically identical stems on one root system, ~106 acres (~43 ha), ~6,000 t (13.3 million lb); stems live ~130-150 years; deer/elk browsing, ~80% fenced",
+   "cat": "Təbiət",
+   "quizzes": [
+    {
+     "q": "Pandonun çəkisi təxminən nə qədərdir?",
+     "options": [
+      "60 ton",
+      "600 ton",
+      "6 000 ton"
+     ],
+     "answer": "6 000 ton",
+     "why": "Dünyanın ən ağır canlılarından biri sayılır."
+    },
+    {
+     "q": "Pandoda təxminən neçə gövdə var?",
+     "options": [
+      "4 700",
+      "47 000",
+      "470 000"
+     ],
+     "answer": "47 000",
+     "why": "Hamısı eyni kök sistemindən çıxır."
+    },
+    {
+     "q": "Pandonun hər gövdəsi təxminən neçə il yaşayır?",
+     "options": [
+      "13–15 il",
+      "130–150 il",
+      "1 300–1 500 il"
+     ],
+     "answer": "130–150 il",
+     "why": "Sonra yerinə kökdən yeni gövdə çıxır."
+    }
+   ],
+   "asked": []
+  },
+  {
+   "id": "2026-10-27-4",
+   "date": "2026-10-27",
+   "subject": "The Sun fuses ~600 million t of hydrogen into ~596 million t of helium per second; the ~4 million t difference (4.3e9 kg/s) becomes energy (Ohio State, B. Ryden lecture notes; Koberlein: '4 million tonnes each second due to fusion', +1.5 Mt/s solar wind). Over its remaining ~5 billion years it loses only ~0.034% of its mass (Koberlein).",
+   "cat": "Kosmos",
+   "quizzes": [
+    {
+     "q": "Günəş hər saniyə nə qədər kütlə itirir?",
+     "options": [
+      "4 milyon ton",
+      "4 min ton",
+      "4 milyard ton"
+     ],
+     "answer": "4 milyon ton",
+     "why": "Bu kütlə işığa və istiyə çevrilir."
+    },
+    {
+     "q": "Günəş hidrogeni nəyə çevirir?",
+     "options": [
+      "Heliuma",
+      "Oksigenə",
+      "Dəmirə"
+     ],
+     "answer": "Heliuma",
+     "why": "Hər saniyə 600 milyon ton hidrogen."
+    },
+    {
+     "q": "Günəş hələ təxminən neçə il parlayacaq?",
+     "options": [
+      "5 milyard il",
+      "5 milyon il",
+      "500 min il"
+     ],
+     "answer": "5 milyard il",
+     "why": "Kütləsinin cəmi 0,03 faizini itirəcək."
     }
    ],
    "asked": []

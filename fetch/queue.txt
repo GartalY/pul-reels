@@ -153,3 +153,12 @@ search_mudvolcano.json https://commons.wikimedia.org/w/api.php?action=query&form
 2026-10-27_4_sun_micha.jpg https://images.unsplash.com/photo-1761484946694-4ff5d40d3d5a?crop=entropy&cs=srgb&fm=jpg&q=85&w=2000
 2026-10-27_4_sun_jameslee.jpg https://images.unsplash.com/photo-1791143456226-87d9a22d3401?crop=entropy&cs=srgb&fm=jpg&q=85&w=2000
 2026-10-27_2_cells_anirudh.jpg https://images.unsplash.com/photo-1638271522560-a247d127deb8?crop=entropy&cs=srgb&fm=jpg&q=85&w=2000
+2026-10-26_T_lula_ombros.jpg https://upload.wikimedia.org/wikipedia/commons/f/f9/Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_%28ombros%29.jpg
+2026-10-26_T_lula_vertical.jpg https://upload.wikimedia.org/wikipedia/commons/9/9f/Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_%28vertical%29.jpg
+2026-10-27_1_mud_gagnon01.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Gobustan_mud_volcanoes_01.jpg/1920px-Gobustan_mud_volcanoes_01.jpg
+2026-10-27_1_mud_gagnon03.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Gobustan_mud_volcanoes_03.jpg/1920px-Gobustan_mud_volcanoes_03.jpg
+2026-10-27_1_mud_hobold.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Gobustan_mud_volcano.jpg/1920px-Gobustan_mud_volcano.jpg
+2026-10-27_H_cityhall.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/City_Hall_Subway_station.jpg/1920px-City_Hall_Subway_station.jpg
+2026-10-27_H_cityhall_haer.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/CITY_HALL_STATION._PLATFORM_AND_GUASTAVINO_VAULTS._-_Interborough_Rapid_Transit_Subway_%28Original_Line%29%2C_New_York%2C_New_York_County%2C_NY_HAER_NY%2C31-NEYO%2C86-49.tif/lossy-page1-1920px-CITY_HALL_STATION._PLATFORM_AND_GUASTAVINO_VAULTS._-_Interborough_Rapid_Transit_Subway_%28Original_Line%29%2C_New_York%2C_New_York_County%2C_NY_HAER_NY%2C31-NEYO%2C86-49.tif.jpg
+2026-10-27_H_postcard1913.jpg https://upload.wikimedia.org/wikipedia/commons/2/22/PostcardNewYorkNYCityHallSubwayStation1913.jpg
+2026-10-27_H_construction1904.jpg https://upload.wikimedia.org/wikipedia/commons/1/19/Brooklyn_Bridge_station_under_construction_in_1904.jpg

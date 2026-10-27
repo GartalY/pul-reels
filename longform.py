@@ -81,16 +81,25 @@ async def tts(text, out, voice, rate):
 
 
 def kenburns(photo, cy, seconds, out, k):
-    """Slow zoom/pan clip of one photo (1920x1080, silent)."""
-    src = shade(cover(photo, cy, 1.15))
-    tmpimg = out + ".png"; src.save(tmpimg)
+    """Smooth slow zoom of one photo (1920x1080, silent). v2 2026-10-27: sub-pixel affine transform per frame
+    (ffmpeg zoompan rounds to whole pixels and made the video visibly shake)."""
+    src = shade(cover(photo, cy, 1.10))
+    sw, sh = src.size
     n = max(1, int(seconds * FPS))
-    zin = k % 2 == 0   # alternate zoom in / zoom out
-    z = f"'if(eq(on,0),{1.0 if zin else 1.12},zoom{'+' if zin else '-'}{0.12 / n:.6f})'"
-    x = "'iw/2-(iw/zoom/2)'"; y = "'ih/2-(ih/zoom/2)'"
-    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-loop", "1", "-i", tmpimg, "-vf",
-                    f"zoompan=z={z}:x={x}:y={y}:d={n}:s={W}x{H}:fps={FPS},format=yuv420p",
-                    "-frames:v", str(n), "-c:v", "libx264", "-crf", "20", out], check=True)
+    zin = k % 2 == 0
+    pipe = subprocess.Popen(["ffmpeg", "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24",
+                             "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-", "-c:v", "libx264", "-crf", "19",
+                             "-preset", "medium", "-pix_fmt", "yuv420p", out], stdin=subprocess.PIPE)
+    for f in range(n):
+        p = f / max(1, n - 1)
+        p = p * p * (3 - 2 * p)                      # ease in/out
+        z = 1.0 + 0.06 * (p if zin else 1 - p)       # gentle 6 % zoom
+        vw, vh = sw / 1.10 / z, sh / 1.10 / z        # visible window in source pixels (float)
+        x0 = (sw - vw) / 2; y0 = (sh - vh) / 2
+        a = vw / W; e = vh / H
+        fr = src.transform((W, H), Image.AFFINE, (a, 0, x0, 0, e, y0), resample=Image.BICUBIC)
+        pipe.stdin.write(fr.tobytes())
+    pipe.stdin.close(); pipe.wait()
 
 
 def main():

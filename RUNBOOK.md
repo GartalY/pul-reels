@@ -97,6 +97,15 @@ Every text (caption, slide, reel beat, quiz, story, first comment) must read lik
   youtube posts first; record IDs under `youtube` in the day JSON. Include YouTube views/subscribers in reports.
 - **NO FACEBOOK (Gartal, 2026-10-27):** the connected Facebook page is NOT used — never add the facebook provider.
   Platforms = Instagram + TikTok + YouTube Shorts only. Language pages: TR (~9 Nov if growth holds), then RU (~Dec), then EN (~Jan).
+- **LONG VIDEOS v2 (Gartal approved 2026-10-27):** TWO long YouTube videos a week (type "video"), rendered with
+  `longform.py` (native 16:9, smooth sub-pixel Ken Burns, chapter cards, subtitles, Banu narration → AI label ON).
+  Topics are standalone STORIES with a curiosity question, NOT lists and NOT tied to the page's daily facts:
+  one Azerbaijan story + one world story per week (e.g. "Nobel mükafatının pulu Bakı neftindən gəlir?",
+  "Çəkməçinin oğlundan milyonçuya: Tağıyevin sirri", "Dənizin ortasında şəhər: Neft Daşları necə tikildi?",
+  "Titanik haqqında heç kimin danışmadığı 5 detal", "Ay hər il bizdən qaçır…", "Çernobıl zonasında indi kim yaşayır?").
+  2–3 strong photos per chapter; replace weak/irrelevant ones. Every claim verified with 2 sources; disputed stories
+  are told as "deyilənə görə". When a new language page opens (TR/RU/EN), its YouTube channel gets the same long
+  videos in that language (Gartal 2026-10-27).
 - **⛔ PAUSED 2026-10-27 (Gartal: mixed topics + reels-inside-a-horizontal-frame with 1/3 pills don't look like a YouTube
   video). W44 set to draft, weekly task disabled. Redesign pending: one THEME per video, native 16:9 visuals, narration.**
 - **WEEKLY YOUTUBE LONG VIDEO (from 2026-10-28, Gartal approved):** every week a 3–5 min horizontal compilation of

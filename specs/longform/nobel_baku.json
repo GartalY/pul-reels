@@ -18,6 +18,20 @@
     "say": "Bəs bu necə oldu? Hekayə neftlə yox, bir qoz ağacı axtarışı ilə başlayır.",
     "show": "Bəs bu necə oldu? Hekayə neftlə yox, bir qoz ağacı axtarışı ilə başlayır."
    }
+  ],
+  "photos": [
+   {
+    "path": "fetch/img/lf_alfred.jpg",
+    "fit": true
+   },
+   {
+    "path": "fetch/img/lf_medal.jpg",
+    "fit": true
+   },
+   {
+    "path": "fetch/img/lf_balakhani.png",
+    "cy": 0.5
+   }
   ]
  },
  "facts": [

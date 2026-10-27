@@ -146,7 +146,7 @@ def main():
     it = spec["intro"]
     chapters.append((0.0, "Giriş"))
     card(it["photo"], it.get("cy", 0.5), None, it["title"], "intro_card", 3.0)
-    lines_block(it["lines"], [{"path": it["photo"], "cy": it.get("cy", 0.5)}], "intro")
+    lines_block(it["lines"], it.get("photos") or [{"path": it["photo"], "cy": it.get("cy", 0.5), "fit": it.get("fit", False)}], "intro")
     for n, f in enumerate(spec["facts"], 1):
         chapters.append((t, f["title"]))
         card(f["photos"][0]["path"], f["photos"][0].get("cy", 0.5), n, f["title"], f"c{n}")

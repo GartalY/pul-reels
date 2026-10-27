@@ -83,6 +83,10 @@ Every text (caption, slide, reel beat, quiz, story, first comment) must read lik
   Library: old hits re-posted 27–29 Oct (Neptune, Şollar with the corrected Tağıyev line, 18-hour day); later
   re-post any IG reel with ≥ 1 000 views at 11:00 on a day without other repost (max 1 repost/day).
   Daily report + weekly review: include TikTok views/likes/follows (brand 7443266, tiktok network) next to Instagram.
+- **SAFE ZONE (reels v5, 2026-10-27, Gartal: text was hard to read on TikTok):** `factgen.py reel` now keeps beat
+  text at x 70–890 and y ~960–1450 on a dark backing box, and the follow CTA at y ~1470 on the left, so nothing sits
+  under TikTok/Shorts/Reels buttons (right ~190 px) or the caption overlay (bottom ~450 px). Keep the hook at the top.
+  Never place important text below y 1450 or right of x 890 in any new template.
 - **YOUTUBE SHORTS CROSS-POSTING (LIVE from 2026-10-27):** YouTube channel (id UCW5co3qCiUB5_L0Qa8A59qQ) is connected
   to the same brand **7443266**. For EVERY reel (and every TikTok repost) create a SEPARATE post with providers
   [{"network":"youtube"}] ONLY, same video, same time: youtubeData {title: hook in sentence case + 1 emoji + " #shorts"

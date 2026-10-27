@@ -174,3 +174,8 @@ search_osimhen2.json https://commons.wikimedia.org/w/api.php?action=query&format
 search_barhead.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Anser%20indicus%20flight
 search_culiseta.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Culiseta%20annulata
 search_bulvar_old.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Baku%20boulevard%201910
+2026-10-27_T_osimhen_a.jpg https://upload.wikimedia.org/wikipedia/commons/c/c6/Osimhen30Sep2025.jpg
+2026-10-27_T_osimhen_b.png https://upload.wikimedia.org/wikipedia/commons/6/6d/Victor_Osimhen.png
+2026-10-28_2_goose_a.jpg https://upload.wikimedia.org/wikipedia/commons/1/1b/Bar_headed_geese_Anser_indicus_in_flight_in_Karaivetti_Bird_Sanctuary_JEG3183.jpg
+2026-10-28_2_goose_b.jpg https://upload.wikimedia.org/wikipedia/commons/f/ff/Bar-headed_Goose_%28Anser_indicus%29_%2827214407733%29.jpg
+2026-10-28_3_culiseta.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Culiseta_annulata_female_lateral_Chorzow.jpg/1920px-Culiseta_annulata_female_lateral_Chorzow.jpg

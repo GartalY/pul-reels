@@ -87,6 +87,16 @@ Every text (caption, slide, reel beat, quiz, story, first comment) must read lik
   text at x 70–890 and y ~960–1450 on a dark backing box, and the follow CTA at y ~1470 on the left, so nothing sits
   under TikTok/Shorts/Reels buttons (right ~190 px) or the caption overlay (bottom ~450 px). Keep the hook at the top.
   Never place important text below y 1450 or right of x 890 in any new template.
+- **DAILY REPOSTS ON TIKTOK + SHORTS (from 2026-10-28, Claude as manager; Gartal OK'd more volume 2026-10-27):**
+  every day 2 EXTRA posts on TikTok AND YouTube Shorts only (Instagram stays at its normal schedule): **11:00** and
+  **19:45**. Content = older Instagram reels that have never been on TikTok/YouTube, best IG views first (use
+  getAnalyticsDataByMetrics IGRE02+IGRE23), skip known flops (< 60 IG views), voiced reels and any reel with a known
+  factual error. RE-RENDER each one with the current `factgen.py reel` (safe-zone layout) from its facts JSON (hook,
+  reel_beats, photo) as out/<orig date>/<n>_reel_safe.mp4; fix any known errors in the beats first. Caption, title,
+  question + follow line exactly as in the TikTok/YouTube cross-posting rules. Log every repost (date, source reel,
+  TikTok id, YouTube id) in facts/tiktok_reposts.json so nothing is posted twice; if a slot already has a repost
+  (28 Oct 11:00 Şollar, 29 Oct 11:00 18-hour day), fill only the free slot. Volume check: ~10 IG + 6 TikTok + 6 YouTube
+  posts/day + 2 long videos/week ≈ 680/month, well inside the Metricool plan.
 - **YOUTUBE SHORTS CROSS-POSTING (LIVE from 2026-10-27):** YouTube channel (id UCW5co3qCiUB5_L0Qa8A59qQ) is connected
   to the same brand **7443266**. For EVERY reel (and every TikTok repost) create a SEPARATE post with providers
   [{"network":"youtube"}] ONLY, same video, same time: youtubeData {title: hook in sentence case + 1 emoji + " #shorts"

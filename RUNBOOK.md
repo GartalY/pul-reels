@@ -123,8 +123,8 @@ Every text (caption, slide, reel beat, quiz, story, first comment) must read lik
   ask him when a Blender/GPU render is worth trying. He will send reference reels he likes → turn them into a written
   style guide; his feedback after each animation goes into that guide.
 - **NIGHT ANIMATION TEST (Gartal 2026-10-28):** Sat 31 Oct 03:03 a one-off task builds a code-made 3D animated reel
-  (brief: out/anim/BRIEF_2026-10-31.md); 08:33 backup task redoes it if the first run was cut off (e.g. usage
-  limit); 10:47 task sends it to Gartal for review. NOTHING is published without his OK. If he likes it, next step
+  (brief: out/anim/BRIEF_2026-10-31.md); 06:33 backup task redoes it if the first run was cut off (e.g. usage
+  limit); 09:45 task sends it to Gartal for review. NOTHING is published without his OK. If he likes it, next step
   = 3 nights/week test replacing the 16:00 photo reel, watching his Claude usage limits.
 - **⛔ PAUSED 2026-10-27 (Gartal: mixed topics + reels-inside-a-horizontal-frame with 1/3 pills don't look like a YouTube
   video). W44 set to draft, weekly task disabled. Redesign pending: one THEME per video, native 16:9 visuals, narration.**

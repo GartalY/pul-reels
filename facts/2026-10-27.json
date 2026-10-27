@@ -593,14 +593,16 @@
   "12:00 mud volcanoes (IG 13:00 reel)": 407509592,
   "14:00 REPOST Neptune": 407509636,
   "16:00 cells": 407509687,
-  "21:30 Sun": 407509730
+  "21:30 Sun": 407509730,
+  "18:30 TREND Osimhen (safe layout)": 407720351
  },
  "youtube": {
   "12:00 mud volcanoes": 407514484,
   "14:00 REPOST Neptune": 407514518,
   "16:00 cells": 407514559,
   "21:30 Sun": 407514614,
-  "18:30 TREND Osimhen": 407710581
+  "18:30 TREND Osimhen": 407710581,
+  "18:30 TREND Osimhen (safe layout)": 407720402
  },
  "trend_swap": {
   "what": "18:30 Pando backup reel -> Osimhen trend REEL (silent, voiced false)",

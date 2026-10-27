@@ -70,6 +70,17 @@ Every text (caption, slide, reel beat, quiz, story, first comment) must read lik
   IN WORDS the way people say them ("iyirmi səkkiz metr", "min doqquz yüz on yeddinci ildə"), no "~", "°C", "%" or
   abbreviations (say "dərəcə", "faiz", "təxminən"); short sentences with commas where a person would pause;
   everyday spoken words, not bookish ones. Screen text keeps digits; only the spoken text changes.
+- **TIKTOK CROSS-POSTING (LIVE from 2026-10-27):** TikTok @bilirdinizmi_az is a SEPARATE Metricool brand
+  **7681834** ("bilirdinizmi_az tiktok"; Instagram stays brand 7443266). For EVERY reel scheduled on Instagram,
+  also create a TikTok post on brand 7681834 at the SAME time: providers [{"network":"tiktok"}], same video URL,
+  tiktokData {title: the reel hook in sentence case (required, ≤ 90 chars), privacyOption PUBLIC_TO_EVERYONE,
+  isAigc = true only for voiced reels, autoAddMusic false, comments/duet/stitch enabled}. TikTok has no first
+  comment: put the first_comment question into the caption right after the main text, and use the follow line
+  "👉 Hər gün yeni fakt — izlə ki, qaçırmayasan" (AZ reels: "👉 Hər gün Azərbaycan haqqında bilmədiyin bir fakt —
+  izlə ki, qaçırmayasan"). No carousels/stories on TikTok. Record TikTok IDs in the day JSON under `tiktok`.
+  Library: old hits re-posted 27–29 Oct (Neptune, Şollar with the corrected Tağıyev line, 18-hour day); later
+  re-post any IG reel with ≥ 1 000 views at 11:00 on a day without other repost (max 1 repost/day).
+  Daily report + weekly review: include TikTok views/likes/follows (brand 7681834) next to Instagram.
 - **ROADMAP (Claude as manager, 2026-10-26):** 1) NOW: cross-post every reel to TikTok + YouTube Shorts via
   Metricool as soon as Gartal connects the accounts (same video, same caption; YouTube needs title ≤ 100 chars,
   type "short", madeForKids false, isAiGeneratedContent = voiced; TikTok isAigc = voiced). 2) ~9 Nov, only if

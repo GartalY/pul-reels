@@ -91,6 +91,8 @@ Every text (caption, slide, reel beat, quiz, story, first comment) must read lik
   hook line, then the question, then "👉 Hər gün yeni fakt — abunə ol ki, qaçırmayasan" (AZ: "…Azərbaycan haqqında
   bilmədiyin bir fakt — abunə ol…"), photo credit, 4 hashtags + #shorts. Check getScheduledPosts for existing
   youtube posts first; record IDs under `youtube` in the day JSON. Include YouTube views/subscribers in reports.
+- **NO FACEBOOK (Gartal, 2026-10-27):** the connected Facebook page is NOT used — never add the facebook provider.
+  Platforms = Instagram + TikTok + YouTube Shorts only. Language pages: TR (~9 Nov if growth holds), then RU (~Dec), then EN (~Jan).
 - **ROADMAP (Claude as manager, 2026-10-26):** 1) NOW: cross-post every reel to TikTok + YouTube Shorts via
   Metricool as soon as Gartal connects the accounts (same video, same caption; YouTube needs title ≤ 100 chars,
   type "short", madeForKids false, isAiGeneratedContent = voiced; TikTok isAigc = voiced). 2) ~9 Nov, only if

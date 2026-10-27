@@ -237,67 +237,77 @@
   {
    "n": 3,
    "type": "reel",
-   "cat": "Təbiət",
+   "format": "v4",
+   "cat": "Tarix",
    "voiced": false,
-   "subject": "Pando, Utah: one quaking aspen clone, ~47,000 genetically identical stems on one root system, ~106 acres (~43 ha), ~6,000 t (13.3 million lb); stems live ~130-150 years; deer/elk browsing, ~80% fenced",
-   "photo_request": "Pando ağcaqovaq meşəsi",
-   "title": "47 000 ağac — hamısı tək bir canlıdır",
-   "text": "ABŞ-ın Yuta ştatında 47 000 ağac kimi görünən şey əslində tək bir canlıdır. Hamısının kökü birdir.",
-   "reel_hook": "47 000 AĞAC — HAMISI TƏK BİR CANLIDIR",
+   "subject": "Galatasaray 2-1 Fenerbahçe, Süper Lig week 9, RAMS Park, Mon 26 Oct 2026 (Medyascope, Habertürk, Mirathaber): Osimhen 29' and 44', İrfan Can Kahveci 62'. Osimhen: born 29 Dec 1998 Lagos, grew up in Olusosun near a landfill; after his mother died and his father lost his job he sold (sachet/bottled) water in Lagos traffic, brother sold newspapers, sister oranges (Osimhen quoted by Ripples Nigeria; Wikipedia). 2015 U-17 World Cup: 10 goals, Golden Boot. Galatasaray signed him permanently from Napoli on 31 Jul 2025 for €75m net, 4-year contract, highest fee in Turkish football history (previous: En-Nesyri €20m, 2024) (Graphic/AFP, Wikipedia, BusinessDay).",
+   "photo_request": "Osimhen photo, public domain (Commons)",
+   "title": "75 milyonluq futbolçu uşaqkən tıxacda su satırdı",
+   "text": "Dünən Qalatasaray derbidə Fənərbağçanı 2:1 uddu, iki qolu Osimhen vurdu. O, uşaqkən Laqosda maşın tıxacında su satıb.",
+   "reel_hook": "75 MİLYONLUQ FUTBOLÇU UŞAQKƏN TIXACDA SU SATIRDI",
    "reel_beats": [
-    "ABŞ-ın Yuta ştatında Pando adlı bir meşə var. Orada təxminən 47 000 ağac gövdəsi var, amma hamısının kökü birdir.",
-    "Bütün gövdələr genetik olaraq eynidir, yəni bu, meşə yox, tək bir ağacdır. Onun çəkisi təxminən 6 000 ton hesablanır.",
-    "Hər gövdə 130–150 il yaşayır, sonra kökdən yenisi çıxır. Pando 60 futbol meydançası qədər yer tutur. Bunu bilirdin?"
+    "Dünən axşam Qalatasaray derbidə Fənərbağçanı 2:1 hesabı ilə uddu. Hər iki qolu Viktor Osimhen vurdu: 29-cu və 44-cü dəqiqələrdə.",
+    "Osimhen Nigeriyanın Laqos şəhərində kasıb ailədə böyüyüb. Uşaqkən maşın tıxacının ortasında su satırdı, qardaşı qəzet, bacısı isə portağal.",
+    "2025-ci ildə Qalatasaray onu Napolidən 75 milyon avroya aldı. Bu, Türkiyə futbolu tarixində ən bahalı transferdir. Bunu bilirdin?"
    ],
-   "caption": "Bu meşə əslində tək bir ağacdır 🌳\n\nYuta ştatındakı Pando adlı ağcaqovaq meşəsində təxminən 47 000 gövdə var. Hamısı genetik olaraq eynidir və bir kök sistemindən böyüyür. Bu canlı təxminən 6 000 ton çəkir və 43 hektar yer tutur. Hər gövdə 130–150 il yaşayır, sonra yerinə kökdən yenisi çıxır.\n\n📩 Meşəyə gedib «ağaclar çox gözəldir» deyən dostuna göndər — qoy bilsin, ağac birdir 😄\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: USDA Forest Service / Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #təbiət #ağac #amerika",
-   "first_comment": "Bunu bilirdin, yoxsa indi öyrəndin? 👇",
+   "caption": "Uşaqkən tıxacda su satan oğlan dünən derbinin qəhrəmanı oldu ⚽\n\nQalatasaray dünən Fənərbağçanı 2:1 hesabı ilə məğlub etdi. Viktor Osimhen 29-cu və 44-cü dəqiqələrdə qol vurdu, Fənərbağçanın qolunu isə 62-ci dəqiqədə İrfan Can Kahveci vurdu. Osimhen Laqosda böyüyüb: anası vəfat edəndən sonra ailəyə kömək etmək üçün tıxacda su satıb. 2015-ci ildə 17 yaşadək futbolçuların dünya çempionatında 10 qol vurdu. 2025-ci ildə isə Qalatasaray onu 75 milyon avroya aldı — bu, Türkiyə futbolunun rekord transferidir.\n\n📩 «Məndən heç nə olmayacaq» deyən dostuna göndər 💪\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Fédération Guinéenne de Football / Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #futbol #qalatasaray #osimhen",
+   "first_comment": "Derbini izlədin? Sənə görə ən yaxşı oyunçu kim idi? 👇",
    "quizzes": [
     {
-     "q": "Pandonun çəkisi təxminən nə qədərdir?",
+     "q": "Osimhen dünənki derbidə neçə qol vurdu?",
      "options": [
-      "60 ton",
-      "600 ton",
-      "6 000 ton"
+      "1",
+      "2",
+      "3"
      ],
-     "answer": "6 000 ton",
-     "why": "Dünyanın ən ağır canlılarından biri sayılır."
+     "answer": "2",
+     "why": "29-cu və 44-cü dəqiqələrdə."
     },
     {
-     "q": "Pandoda təxminən neçə gövdə var?",
+     "q": "Qalatasaray Osimheni neçəyə aldı?",
      "options": [
-      "4 700",
-      "47 000",
-      "470 000"
+      "20 milyon avro",
+      "75 milyon avro",
+      "120 milyon avro"
      ],
-     "answer": "47 000",
-     "why": "Hamısı eyni kök sistemindən çıxır."
+     "answer": "75 milyon avro",
+     "why": "Bu, Türkiyə futbolunun rekord transferidir."
     },
     {
-     "q": "Pandonun hər gövdəsi təxminən neçə il yaşayır?",
+     "q": "Osimhen uşaqkən tıxacda nə satırdı?",
      "options": [
-      "13–15 il",
-      "130–150 il",
-      "1 300–1 500 il"
+      "Su",
+      "Qəzet",
+      "Çörək"
      ],
-     "answer": "130–150 il",
-     "why": "Sonra yerinə kökdən yeni gövdə çıxır."
+     "answer": "Su",
+     "why": "Qardaşı qəzet, bacısı portağal satırdı."
     }
    ],
    "sources": [
-    "https://www.friendsofpando.org/thepandotree/facts-about-pando/",
-    "https://www.earthdate.org/pando-a-forest-of-one",
-    "https://www.sciencealert.com/the-world-s-largest-organism-is-slowly-being-eaten-scientist-says"
+    "https://medyascope.tv/2026/10/26/galatasaray-fenerbahce-derbisinde-kazanan-galatasaray-2-1/",
+    "https://www.haberturk.com/bilgi/foto/galatasaray-fenerbahce-maci-kac-kac-bitti-galatasaray-fenerbahce-derbi-maci-ozeti-ve-golleri-3922733",
+    "https://ripplesnigeria.com/i-hawked-bottled-water-in-lagos-traffic-to-survive-osimhen-on-road-to-stardom",
+    "https://en.wikipedia.org/wiki/Victor_Osimhen",
+    "https://www.graphic.com.gh/sports/sports-news/galatasaray-confirm-record-signing-of-nigerian-star-victor-osimhen.html"
    ],
-   "verify_note": "47,000 stems, 106 acres (=42.9 ha), 13.3 million lb dry weight (≈6,000 t), stems 130–150 years, deer/elk browsing, ~80% fenced: Friends of Pando; 47,000 / 6,000 t also in the search-result summaries of other outlets. Age estimates vary widely (9,000 to tens of thousands of years) -> age NOT used. 43 ha / 0.714 ha per pitch ≈ 60. Reel beats reuse only these verified details.",
+   "verify_note": "Score/scorers/minutes: Medyascope + Habertürk (+ Mirathaber headline 'Osimhen'den iki gol'). Water selling + siblings: Osimhen's own words (Ripples Nigeria) + Wikipedia. €75m record fee, 4 years, previous record En-Nesyri €20m: Graphic (AFP) + Wikipedia; BusinessDay/TNT headlines agree. Standings after the match (GS 1st, 22 pts) only from one source -> NOT used. Neutral: FB goal scorer named.",
    "photo": {
-    "path": "fetch/img/2026-10-21_pando_b.jpg",
-    "credit": "USDA Forest Service / Wikimedia Commons (ictimai mülkiyyət)",
-    "cy": 0.5,
+    "path": "fetch/img/2026-10-27_T_osimhen_c.jpg",
+    "credit": "Fédération Guinéenne de Football / Wikimedia Commons (ictimai mülkiyyət)",
+    "cy": 0.3,
     "full": true,
-    "source": "https://commons.wikimedia.org/wiki/File:Pando_in_the_Fall_(11937950814).jpg",
-    "alt": "fetch/img/2026-10-21_pando_a.jpg (trunk close-up, Lance Oditt / Friends of Pando, CC BY-SA 4.0)"
+    "source": "https://commons.wikimedia.org/wiki/File:0K8A7984_(53451306826)_(cropped).jpg",
+    "alt": "fetch/img/2026-10-27_T_osimhen_d.jpg (same source, full body, PD). Rejected: Osimhen30Sep2025.jpg (CC0 claim doubtful for a match photo), cartoon PNG."
    },
-   "moved_from": "2026-10-26 spare (carousel since 2026-10-21; rewritten as a v4 reel 2026-10-26 09:10)"
+   "picked": "2026-10-27 09:10 Baku: biggest talk for AZ audience = GS–FB derby last night (Turkish football); GS–FB 1909 history card ran on 25 Oct, so today's angle is the match winner's life story.",
+   "render": {
+    "file": "out/2026-10-27/T_reel.mp4",
+    "seconds": 21.9,
+    "seed": 27,
+    "cy": 0.3,
+    "checked": "5 frames viewed 15:27 Baku (hook, 3 beats, CTA); AZ re-read OK"
+   }
   },
   {
    "n": 4,
@@ -374,7 +384,74 @@
    }
   }
  ],
- "spare": [],
+ "spare": [
+  {
+   "n": 3,
+   "type": "reel",
+   "cat": "Təbiət",
+   "voiced": false,
+   "subject": "Pando, Utah: one quaking aspen clone, ~47,000 genetically identical stems on one root system, ~106 acres (~43 ha), ~6,000 t (13.3 million lb); stems live ~130-150 years; deer/elk browsing, ~80% fenced",
+   "photo_request": "Pando ağcaqovaq meşəsi",
+   "title": "47 000 ağac — hamısı tək bir canlıdır",
+   "text": "ABŞ-ın Yuta ştatında 47 000 ağac kimi görünən şey əslində tək bir canlıdır. Hamısının kökü birdir.",
+   "reel_hook": "47 000 AĞAC — HAMISI TƏK BİR CANLIDIR",
+   "reel_beats": [
+    "ABŞ-ın Yuta ştatında Pando adlı bir meşə var. Orada təxminən 47 000 ağac gövdəsi var, amma hamısının kökü birdir.",
+    "Bütün gövdələr genetik olaraq eynidir, yəni bu, meşə yox, tək bir ağacdır. Onun çəkisi təxminən 6 000 ton hesablanır.",
+    "Hər gövdə 130–150 il yaşayır, sonra kökdən yenisi çıxır. Pando 60 futbol meydançası qədər yer tutur. Bunu bilirdin?"
+   ],
+   "caption": "Bu meşə əslində tək bir ağacdır 🌳\n\nYuta ştatındakı Pando adlı ağcaqovaq meşəsində təxminən 47 000 gövdə var. Hamısı genetik olaraq eynidir və bir kök sistemindən böyüyür. Bu canlı təxminən 6 000 ton çəkir və 43 hektar yer tutur. Hər gövdə 130–150 il yaşayır, sonra yerinə kökdən yenisi çıxır.\n\n📩 Meşəyə gedib «ağaclar çox gözəldir» deyən dostuna göndər — qoy bilsin, ağac birdir 😄\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: USDA Forest Service / Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #təbiət #ağac #amerika",
+   "first_comment": "Bunu bilirdin, yoxsa indi öyrəndin? 👇",
+   "quizzes": [
+    {
+     "q": "Pandonun çəkisi təxminən nə qədərdir?",
+     "options": [
+      "60 ton",
+      "600 ton",
+      "6 000 ton"
+     ],
+     "answer": "6 000 ton",
+     "why": "Dünyanın ən ağır canlılarından biri sayılır."
+    },
+    {
+     "q": "Pandoda təxminən neçə gövdə var?",
+     "options": [
+      "4 700",
+      "47 000",
+      "470 000"
+     ],
+     "answer": "47 000",
+     "why": "Hamısı eyni kök sistemindən çıxır."
+    },
+    {
+     "q": "Pandonun hər gövdəsi təxminən neçə il yaşayır?",
+     "options": [
+      "13–15 il",
+      "130–150 il",
+      "1 300–1 500 il"
+     ],
+     "answer": "130–150 il",
+     "why": "Sonra yerinə kökdən yeni gövdə çıxır."
+    }
+   ],
+   "sources": [
+    "https://www.friendsofpando.org/thepandotree/facts-about-pando/",
+    "https://www.earthdate.org/pando-a-forest-of-one",
+    "https://www.sciencealert.com/the-world-s-largest-organism-is-slowly-being-eaten-scientist-says"
+   ],
+   "verify_note": "47,000 stems, 106 acres (=42.9 ha), 13.3 million lb dry weight (≈6,000 t), stems 130–150 years, deer/elk browsing, ~80% fenced: Friends of Pando; 47,000 / 6,000 t also in the search-result summaries of other outlets. Age estimates vary widely (9,000 to tens of thousands of years) -> age NOT used. 43 ha / 0.714 ha per pitch ≈ 60. Reel beats reuse only these verified details.",
+   "photo": {
+    "path": "fetch/img/2026-10-21_pando_b.jpg",
+    "credit": "USDA Forest Service / Wikimedia Commons (ictimai mülkiyyət)",
+    "cy": 0.5,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Pando_in_the_Fall_(11937950814).jpg",
+    "alt": "fetch/img/2026-10-21_pando_a.jpg (trunk close-up, Lance Oditt / Friends of Pando, CC BY-SA 4.0)"
+   },
+   "moved_from": "2026-10-26 spare (carousel since 2026-10-21; rewritten as a v4 reel 2026-10-26 09:10)",
+   "moved_to": "spare (trend swap 2026-10-27 15:28)"
+  }
+ ],
  "language_check": "2026-10-26 09:10: all texts re-read sentence by sentence (short spoken AZ; 'X-a qonmaq' not used; 'çeçələ barmaq', 'kaşı tağları', 'gediş haqqı'); voice_texts numbers written as words; NBSP to be used in '47 000', '100 000', '3,8 milyon' on images.",
  "language_fix": "2026-10-26 20:50 evening build: voiced reels 1 and 4 beats shortened (first take ~30 s / ~31 s > 25 s target): 1) mud volcanoes beats trimmed; 2) Sun beat 1 drops the 596 Mt step, beat 3 drops 0.03% (caption keeps it). Only verified details reused.",
  "trend_check_evening": "2026-10-26 ~20:50: news searches (AZ news, world news, breaking) showed nothing big for the AZ audience requiring a swap of the 27 Oct plan; the 09:10 run picks the 18:30 trend (Pando backup ready as a silent reel).",
@@ -427,17 +504,17 @@
   "10:00 tarixdə bu gün carousel (NYC subway 1904)": 406893292,
   "13:00 reel (350 mud volcanoes, voiced)": 406893426,
   "16:00 reel (3.8 million cells/s, silent)": 406893549,
-  "18:30 reel trend backup (Pando, silent)": 406893653,
   "21:30 reel (Sun 4 Mt/s, voiced)": 406893751,
   "10:00 tarixdə bu gün story": 406893853,
   "11:00 quiz q1 (recall snapping shrimp)": 406893895,
   "11:10 answer a1": 406893957,
   "14:00 quiz q2 (mud volcanoes)": 406893998,
-  "14:10 answer a2": 406894046
+  "14:10 answer a2": 406894046,
+  "18:30 TREND reel (Osimhen, silent)": 407710298
  },
  "quiz_note": "First quizplan run picked Moon trees (2026-10-26-3, never posted: trend swap) as recall -> marked unposted in db.json and re-planned (recall = snapping shrimp).",
  "trend": {
-  "n": "T",
+  "n": 3,
   "type": "reel",
   "format": "v4",
   "cat": "Tarix",
@@ -502,7 +579,14 @@
    "source": "https://commons.wikimedia.org/wiki/File:0K8A7984_(53451306826)_(cropped).jpg",
    "alt": "fetch/img/2026-10-27_T_osimhen_d.jpg (same source, full body, PD). Rejected: Osimhen30Sep2025.jpg (CC0 claim doubtful for a match photo), cartoon PNG."
   },
-  "picked": "2026-10-27 09:10 Baku: biggest talk for AZ audience = GS–FB derby last night (Turkish football); GS–FB 1909 history card ran on 25 Oct, so today's angle is the match winner's life story."
+  "picked": "2026-10-27 09:10 Baku: biggest talk for AZ audience = GS–FB derby last night (Turkish football); GS–FB 1909 history card ran on 25 Oct, so today's angle is the match winner's life story.",
+  "render": {
+   "file": "out/2026-10-27/T_reel.mp4",
+   "seconds": 21.9,
+   "seed": 27,
+   "cy": 0.3,
+   "checked": "5 frames viewed 15:27 Baku (hook, 3 beats, CTA); AZ re-read OK"
+  }
  },
  "trend_check_morning": "2026-10-27 09:15 Baku: news searches (world/AZ/sports/viral). Biggest topic: Galatasaray 2-1 Fenerbahçe last night (Osimhen 2 goals) -> today's 18:30 trend reel (swap at 15:23). Nothing requiring an immediate swap of 13:00/16:00/21:30.",
  "tiktok": {
@@ -515,6 +599,22 @@
   "12:00 mud volcanoes": 407514484,
   "14:00 REPOST Neptune": 407514518,
   "16:00 cells": 407514559,
-  "21:30 Sun": 407514614
- }
+  "21:30 Sun": 407514614,
+  "18:30 TREND Osimhen": 407710581
+ },
+ "trend_swap": {
+  "what": "18:30 Pando backup reel -> Osimhen trend REEL (silent, voiced false)",
+  "why": "daily trend (section D v4): GS 2-1 FB derby last night",
+  "at": "2026-10-27 15:28 Baku"
+ },
+ "pending_schedule": [
+  {
+   "network": "tiktok",
+   "time": "2026-10-27T18:30:00+04:00",
+   "media": "https://raw.githubusercontent.com/GartalY/pul-reels/main/out/2026-10-27/T_reel.mp4",
+   "title": "75 milyonluq futbolçu uşaqkən tıxacda su satırdı",
+   "note": "15:29 createScheduledPost for TikTok was blocked by the session's permission check (not by Metricool); YouTube + IG went through. Skip if time has passed."
+  }
+ ],
+ "trend_check_midday": "2026-10-27 15:26 Baku: re-check found nothing bigger than the GS-FB derby; Osimhen trend reel built and swapped in."
 }

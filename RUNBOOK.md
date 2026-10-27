@@ -83,6 +83,14 @@ Every text (caption, slide, reel beat, quiz, story, first comment) must read lik
   Library: old hits re-posted 27–29 Oct (Neptune, Şollar with the corrected Tağıyev line, 18-hour day); later
   re-post any IG reel with ≥ 1 000 views at 11:00 on a day without other repost (max 1 repost/day).
   Daily report + weekly review: include TikTok views/likes/follows (brand 7443266, tiktok network) next to Instagram.
+- **YOUTUBE SHORTS CROSS-POSTING (LIVE from 2026-10-27):** YouTube channel (id UCW5co3qCiUB5_L0Qa8A59qQ) is connected
+  to the same brand **7443266**. For EVERY reel (and every TikTok repost) create a SEPARATE post with providers
+  [{"network":"youtube"}] ONLY, same video, same time: youtubeData {title: hook in sentence case + 1 emoji + " #shorts"
+  (≤ 100 chars), type "short", privacy "public", category "EDUCATION", madeForKids false, isAiGeneratedContent =
+  true only for voiced reels, tags: 3–5 plain Azerbaijani keywords}. Text (description) = caption body WITHOUT the
+  hook line, then the question, then "👉 Hər gün yeni fakt — abunə ol ki, qaçırmayasan" (AZ: "…Azərbaycan haqqında
+  bilmədiyin bir fakt — abunə ol…"), photo credit, 4 hashtags + #shorts. Check getScheduledPosts for existing
+  youtube posts first; record IDs under `youtube` in the day JSON. Include YouTube views/subscribers in reports.
 - **ROADMAP (Claude as manager, 2026-10-26):** 1) NOW: cross-post every reel to TikTok + YouTube Shorts via
   Metricool as soon as Gartal connects the accounts (same video, same caption; YouTube needs title ≤ 100 chars,
   type "short", madeForKids false, isAiGeneratedContent = voiced; TikTok isAigc = voiced). 2) ~9 Nov, only if

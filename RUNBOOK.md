@@ -118,6 +118,10 @@ Every text (caption, slide, reel beat, quiz, story, first comment) must read lik
   2–3 strong photos per chapter; replace weak/irrelevant ones. Every claim verified with 2 sources; disputed stories
   are told as "deyilənə görə". When a new language page opens (TR/RU/EN), its YouTube channel gets the same long
   videos in that language (Gartal 2026-10-27).
+- **ANIMATION RESOURCES (Gartal 2026-10-28):** up to 2–3 h per night piece is fine; Poly Haven allowed (polyhaven.com,
+  dl.polyhaven.org; api.polyhaven.com not yet); Gartal's personal laptop has a decent GPU + Claude desktop app —
+  ask him when a Blender/GPU render is worth trying. He will send reference reels he likes → turn them into a written
+  style guide; his feedback after each animation goes into that guide.
 - **NIGHT ANIMATION TEST (Gartal 2026-10-28):** Sat 31 Oct 03:03 a one-off task builds a code-made 3D animated reel
   (brief: out/anim/BRIEF_2026-10-31.md); 08:33 backup task redoes it if the first run was cut off (e.g. usage
   limit); 10:47 task sends it to Gartal for review. NOTHING is published without his OK. If he likes it, next step

@@ -12,3 +12,4 @@
 - 2026-10-25 (scheduled, v3): TBG Windows XP 25 years (2001, Bliss) · Michon 1898 first films in Baku (Cinema Day 2 Aug) · Neptune found by maths 1846 · Pando (backup 18:30) · Ötzi 61 tattoos
 - 2026-10-26 (scheduled, v3): TBG FA founded 1863 (Morley, rugby split, 0-0) · Baku 28 m below sea level · bee 1/12 teaspoon of honey · Moon trees (backup 18:30) · snapping shrimp bubble >4 700 °C
 - 2026-10-27 (scheduled, v4): TBG NYC subway opened 1904 · ~350 mud volcanoes in Azerbaijan · 3.8 million cells renewed per second · Pando (backup 18:30, reel) · Sun loses 4 million t per second
+- 2026-10-28 (scheduled, v4): TBG Statue of Liberty dedicated 1886 (214 crates) · ships brought soil for Baku Boulevard 1880s · bar-headed geese 7 290 m · Iceland first 3 mosquitoes 2025 (backup 18:30, reel) · Caspian ~40% of world lake water

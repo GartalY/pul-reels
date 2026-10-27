@@ -1,6 +1,6 @@
 {
  "date": "2026-10-28",
- "status": "planned",
+ "status": "scheduled",
  "format": "v2",
  "content_format": "v4",
  "planned_note": "Planned in the 2026-10-27 09:10 run (format v4: 4 reels + 1 carousel). 10:00 TBG carousel = Statue of Liberty dedicated 28 Oct 1886 (140 years). 13:00 AZ reel (VOICED): ships had to bring soil to Baku in the 1880s (boulevard). 16:00 reel (SILENT): bar-headed geese 7 290 m over the Himalayas. 18:30 trend backup reel (SILENT): Iceland's first 3 mosquitoes (Oct 2025). 21:30 reel (VOICED): ~40% of the world's lake water is in the Caspian. Voice split test: 13:00 + 21:30 voiced, 16:00 + 18:30 silent. All photos fetched and checked.",
@@ -410,5 +410,48 @@
    "image": "out/2026-10-28/q2.jpg",
    "answer_image": "out/2026-10-28/q2_a.jpg"
   }
- ]
+ ],
+ "metricool": {
+  "10:00 tarixdə bu gün carousel (Statue of Liberty 1886)": 408057653,
+  "13:00 reel (boulevard soil, voiced)": 408057704,
+  "16:00 reel (bar-headed geese 7 290 m, silent)": 408057734,
+  "18:30 trend-backup reel (Iceland mosquitoes, silent)": 408057759,
+  "21:30 reel (Caspian 40%, voiced)": 408057797,
+  "10:00 tarixdə bu gün story": 408059380,
+  "11:00 quiz q1 (recall Sun mass loss)": 408059408,
+  "11:10 answer a1": 408059438,
+  "14:00 quiz q2 (boulevard soil)": 408059466,
+  "14:10 answer a2": 408059509
+ },
+ "tiktok": {
+  "11:00 REPOST Sollar (scheduled 27 Oct)": 407676293,
+  "13:00 boulevard": 408058371,
+  "16:00 geese": 408058402,
+  "18:30 Iceland": 408058483,
+  "19:45 REPOST blue whale heart (2026-10-24 n4, safe layout)": 408058535,
+  "21:30 Caspian": 408058507
+ },
+ "youtube": {
+  "11:00 REPOST Sollar (scheduled 27 Oct)": 407676509,
+  "13:00 boulevard": 408059057,
+  "16:00 geese": 408059082,
+  "18:30 Iceland": 408059107,
+  "19:45 REPOST blue whale heart": 408059148,
+  "21:30 Caspian": 408059130
+ },
+ "built": {
+  "when": "2026-10-27 ~20:55 Asia/Baku",
+  "checked": "6 carousel slides, tbg story, 2 quiz + 2 answer stories, hook frame + 5 frames per reel viewed; no overflow; text inside safe zone.",
+  "reel_seconds": {
+   "1": 30.4,
+   "2": 25.2,
+   "3": 19.5,
+   "4": 27.8
+  },
+  "voice": "Banu +15% OK on reels 1 and 4 (isAiGenerated/isAigc/isAiGeneratedContent true); reels 2 and 3 silent",
+  "note": "reel 2: faint 'IMRAN SHAH (2016)' photo watermark visible at the very bottom edge under the gradient; photographer is credited in caption."
+ },
+ "quiz_note": "Recall pool fix: 2026-10-27-3 Pando (never posted, swapped for the Osimhen trend) marked unposted in db.json; recall re-picked = Sun mass loss (27 Oct 21:30 reel).",
+ "two_part": "Skipped on Wed 28 Oct: the day was planned at 09:29 on 27 Oct, before the two-part rule (09:50), and none of the planned facts has a genuine second half — no fake cliffhanger. First two-part story: Sat 31 Oct (planned in the 30 Oct 09:10 run).",
+ "trend_check_evening": "2026-10-27 ~20:50 Baku: news searches (AZ news, world news, breaking 27 Oct) showed nothing big for the AZ audience beyond the GS–FB derby already used today; no swap of the 28 Oct plan. The 09:10 run picks the 18:30 trend (Iceland mosquitoes backup reel ready)."
 }

@@ -609,14 +609,6 @@
   "why": "daily trend (section D v4): GS 2-1 FB derby last night",
   "at": "2026-10-27 15:28 Baku"
  },
- "pending_schedule": [
-  {
-   "network": "tiktok",
-   "time": "2026-10-27T18:30:00+04:00",
-   "media": "https://raw.githubusercontent.com/GartalY/pul-reels/main/out/2026-10-27/T_reel.mp4",
-   "title": "75 milyonluq futbolçu uşaqkən tıxacda su satırdı",
-   "note": "15:29 createScheduledPost for TikTok was blocked by the session's permission check (not by Metricool); YouTube + IG went through. Skip if time has passed."
-  }
- ],
- "trend_check_midday": "2026-10-27 15:26 Baku: re-check found nothing bigger than the GS-FB derby; Osimhen trend reel built and swapped in."
+ "trend_check_midday": "2026-10-27 15:26 Baku: re-check found nothing bigger than the GS-FB derby; Osimhen trend reel built and swapped in.",
+ "pending_schedule_cleared": "2026-10-27 20:50: pending TikTok 18:30 Osimhen item dropped — time passed; a TikTok 18:30 post (407720351) already exists for it."
 }

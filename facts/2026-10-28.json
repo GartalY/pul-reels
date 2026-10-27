@@ -376,5 +376,39 @@
    "from": "2026-10-27"
   }
  ],
- "language_check": "2026-10-27 09:10: all texts re-read sentence by sentence (section L); short spoken sentences, numbers in words in voice texts, NBSP inside numbers on images."
+ "language_check": "2026-10-27 09:10: all texts re-read sentence by sentence (section L); short spoken sentences, numbers in words in voice texts, NBSP inside numbers on images.",
+ "stories": [
+  {
+   "time": "11:00",
+   "fact_id": "2026-10-27-4",
+   "recall": true,
+   "cat": "Kosmos",
+   "q": "Günəş hər saniyə nə qədər kütlə itirir?",
+   "options": [
+    "4 milyon ton",
+    "4 min ton",
+    "4 milyard ton"
+   ],
+   "answer": "4 milyon ton",
+   "why": "Bu kütlə işığa və istiyə çevrilir.",
+   "image": "out/2026-10-28/q1.jpg",
+   "answer_image": "out/2026-10-28/q1_a.jpg"
+  },
+  {
+   "time": "14:00",
+   "fact_id": "2026-10-28-1",
+   "recall": false,
+   "cat": "Azərbaycan",
+   "q": "İrandan gələn gəmilər Bakıya nə gətirməli idi?",
+   "options": [
+    "Ağac tingi",
+    "Şirin su",
+    "Münbit torpaq"
+   ],
+   "answer": "Münbit torpaq",
+   "why": "Bu, limandan istifadə üçün bir növ vergi idi.",
+   "image": "out/2026-10-28/q2.jpg",
+   "answer_image": "out/2026-10-28/q2_a.jpg"
+  }
+ ]
 }

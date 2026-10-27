@@ -40,7 +40,7 @@ def side(path, n, total, hook):
     d.rectangle([0, 0, x0, H], fill=g.INK + (200,)); d.rectangle([x0 + rw, 0, W, H], fill=g.INK + (200,))
     d.text((70, 300), f"{n}/{total}", font=g.F("Black", 120), fill=g.GOLD)
     y = 470
-    for ln in g.wrap(d, hook.upper().replace("i", "İ"), g.F("Black", 52), x0 - 120):
+    for ln in g.wrap(d, hook.replace("i", "İ").upper(), g.F("Black", 52), x0 - 120):
         d.text((70, y), ln, font=g.F("Black", 52), fill=g.WHITE); y += 66
     hx = x0 + rw + 70
     d.text((hx, 470), "@bilirdinizmi_az", font=g.F("Bold", 44), fill=g.WHITE)

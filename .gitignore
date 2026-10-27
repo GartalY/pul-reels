@@ -1,2 +1,4 @@
 __pycache__/
 photos/
+node_modules/
+prototypes/cine/package*.json

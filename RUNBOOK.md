@@ -105,6 +105,7 @@ Every text (caption, slide, reel beat, quiz, story, first comment) must read lik
   hook line, then the question, then "👉 Hər gün yeni fakt — abunə ol ki, qaçırmayasan" (AZ: "…Azərbaycan haqqında
   bilmədiyin bir fakt — abunə ol…"), photo credit, 4 hashtags + #shorts. Check getScheduledPosts for existing
   youtube posts first; record IDs under `youtube` in the day JSON. Include YouTube views/subscribers in reports.
+- **TREND SWAP ON 3 PLATFORMS (2026-10-27 lesson):** when the 15:23 swap re-uploads a video, UPDATE (or delete while still pending) the existing TikTok AND YouTube posts for that slot — never add a second one. On 27 Oct the old YouTube Osimhen post (407710581) stayed and both Shorts went live at 18:30.
 - **NO FACEBOOK (Gartal, 2026-10-27):** the connected Facebook page is NOT used — never add the facebook provider.
   Platforms = Instagram + TikTok + YouTube Shorts only. Language pages: TR (~9 Nov if growth holds), then RU (~Dec), then EN (~Jan).
 - **LONG VIDEOS v2 (Gartal approved 2026-10-27):** TWO long YouTube videos a week (type "video"), rendered with

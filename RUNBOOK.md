@@ -54,6 +54,12 @@ Every text (caption, slide, reel beat, quiz, story, first comment) must read lik
   In the 2026-11-08 weekly review compare voiced vs silent: median reach, avg watch time (IGRE24), >3 s rate
   (IGRE28), shares, saves, follows; normalise for slot (13:00 vs 16:00 differ). If voiced clearly wins → voice on
   every reel; if it loses or is unclear → drop it or keep only where it wins. (26 Oct: 13:00/16:00/21:30 voiced.)
+- **TWO-PART STORIES (from 2026-10-28, Claude as manager; goal = turn viewers into followers):** twice a week
+  (Wed + Sat) the 13:00 reel is PART 1 of a strong story that genuinely has two halves (e.g. a mystery + its
+  answer, a record + how it was broken). Part 1 gives a full, satisfying first fact and ends on a real open question;
+  its last frame and caption say "2-ci hissə sabah 13:00-da — izlə ki, qaçırmayasan". Part 2 (next day 13:00) opens
+  with a 1-line recap so it also works alone, and its first comment links back ("1-ci hissə profildədir"). Never fake
+  a cliffhanger. Hook title gets "(1/2)" / "(2/2)". Track follows on Part-1 days vs normal days in the weekly review.
 - **VOICE EARLY-STOP RULE (2026-10-27):** first voiced day (26 Oct) looked weak — voiced reels 167 / 43 / 159 views
   (>3 s: 26 %, 9 %, 62 %) vs silent reels 24–25 Oct median ~280 views; but 1 day, numbers <24 h old, and the shrimp
   reel was copyright-blocked in Azerbaijan. On **Thu 29 Oct** (daily report) compare voiced vs silent reels from

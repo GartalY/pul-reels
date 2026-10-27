@@ -80,10 +80,22 @@ async def tts(text, out, voice, rate):
     await edge_tts.Communicate(text, f"az-AZ-{voice}Neural", rate=rate, proxy=p).save(out)
 
 
-def kenburns(photo, cy, seconds, out, k):
+def fit_src(photo, scale=1.10):
+    """Portrait/odd-shaped photo: whole picture centered on a blurred, darkened copy of itself."""
+    tw, th = int(W * scale), int(H * scale)
+    bg = cover(photo, 0.5, scale).filter(ImageFilter.GaussianBlur(28))
+    bg = Image.blend(bg, Image.new("RGB", bg.size, g.INK), 0.45)
+    im = Image.open(photo).convert("RGB"); r = (th * 0.86) / im.height
+    if im.width * r > tw * 0.9: r = (tw * 0.9) / im.width
+    im = im.resize((int(im.width * r), int(im.height * r)), Image.LANCZOS)
+    bg.paste(im, ((tw - im.width) // 2, int((th - im.height) * 0.42)))
+    return bg
+
+
+def kenburns(photo, cy, seconds, out, k, fit=False):
     """Smooth slow zoom of one photo (1920x1080, silent). v2 2026-10-27: sub-pixel affine transform per frame
     (ffmpeg zoompan rounds to whole pixels and made the video visibly shake)."""
-    src = shade(cover(photo, cy, 1.10))
+    src = shade(fit_src(photo) if fit else cover(photo, cy, 1.10))
     sw, sh = src.size
     n = max(1, int(seconds * FPS))
     zin = k % 2 == 0
@@ -114,7 +126,7 @@ def main():
             a = f"{tmp}/{tag}_{i}.mp3"; asyncio.run(tts(ln["say"], a, voice, rate))
             secs = dur(a) + 0.45
             ph = photos[i % len(photos)]
-            v = f"{tmp}/{tag}_{i}_bg.mp4"; kenburns(ph["path"], ph.get("cy", 0.5), secs, v, k); k += 1
+            v = f"{tmp}/{tag}_{i}_bg.mp4"; kenburns(ph["path"], ph.get("cy", 0.5), secs, v, k, ph.get("fit", False)); k += 1
             sp = f"{tmp}/{tag}_{i}_sub.png"; subtitle_png(sp, ln.get("show", ln["say"]))
             vv = f"{tmp}/{tag}_{i}.mp4"
             subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", v, "-i", sp, "-i", a, "-filter_complex",

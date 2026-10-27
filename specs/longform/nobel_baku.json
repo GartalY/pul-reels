@@ -1,0 +1,233 @@
+{
+ "voice": "Banu",
+ "rate": "+5%",
+ "intro": {
+  "title": "Nobel mükafatının pulu Bakı neftindən gəlir?",
+  "photo": "fetch/img/lf_alfred_bain.png",
+  "cy": 0.3,
+  "lines": [
+   {
+    "say": "Hər il dekabrın onunda dünyanın ən məşhur mükafatı, Nobel mükafatı təqdim olunur.",
+    "show": "Hər il dekabrın 10-da dünyanın ən məşhur mükafatı — Nobel mükafatı təqdim olunur."
+   },
+   {
+    "say": "Amma çox az adam bilir ki, bu mükafatın pulunun bir hissəsi Bakının neftindən gəlib.",
+    "show": "Amma çox az adam bilir ki, bu mükafatın pulunun bir hissəsi Bakının neftindən gəlib."
+   },
+   {
+    "say": "Bəs bu necə oldu? Hekayə neftlə yox, bir qoz ağacı axtarışı ilə başlayır.",
+    "show": "Bəs bu necə oldu? Hekayə neftlə yox, bir qoz ağacı axtarışı ilə başlayır."
+   }
+  ]
+ },
+ "facts": [
+  {
+   "title": "Qoz ağacı almağa gedən qardaş",
+   "photos": [
+    {
+     "path": "fetch/img/lf_ludvig.jpg",
+     "fit": true
+    },
+    {
+     "path": "fetch/img/lf_robert.jpg",
+     "fit": true
+    },
+    {
+     "path": "fetch/img/lf_balakhani.png",
+     "cy": 0.5
+    }
+   ],
+   "lines": [
+    {
+     "say": "Min səkkiz yüz yetmiş üçüncü il. Ludviq Nobel Sankt-Peterburqda rus ordusu üçün tüfəng istehsal edirdi.",
+     "show": "1873-cü il. Ludviq Nobel Sankt-Peterburqda rus ordusu üçün tüfəng istehsal edirdi."
+    },
+    {
+     "say": "Tüfəng qundaqları üçün möhkəm qoz ağacı lazım idi. Ludviq böyük qardaşı Roberti iyirmi beş min rublla Qafqaza qoz ağacı almağa göndərdi.",
+     "show": "Tüfəng qundaqları üçün möhkəm qoz ağacı lazım idi. Ludviq böyük qardaşı Roberti 25 000 rublla Qafqaza qoz ağacı almağa göndərdi."
+    },
+    {
+     "say": "Robert Bakıya çatanda gördü ki, burada əsl sərvət qoz ağacı yox, neftdir.",
+     "show": "Robert Bakıya çatanda gördü ki, burada əsl sərvət qoz ağacı yox, neftdir."
+    },
+    {
+     "say": "O, qardaşından soruşmadan bu pulla Bakıda kiçik bir neft emalı zavodu aldı.",
+     "show": "O, qardaşından soruşmadan bu pulla Bakıda kiçik bir neft emalı zavodu aldı."
+    }
+   ]
+  },
+  {
+   "title": "Bakıda neft imperiyası",
+   "photos": [
+    {
+     "path": "fetch/img/lf_oilwells1903.jpg",
+     "cy": 0.6
+    },
+    {
+     "path": "fetch/img/lf_nobel_oilwells.jpg",
+     "cy": 0.5
+    },
+    {
+     "path": "fetch/img/lf_branobel7.jpg",
+     "cy": 0.4
+    }
+   ],
+   "lines": [
+    {
+     "say": "Ludviq tezliklə özü də Bakıya gəldi və neftin gələcəyini gördü.",
+     "show": "Ludviq tezliklə özü də Bakıya gəldi və neftin gələcəyini gördü."
+    },
+    {
+     "say": "Min səkkiz yüz yetmiş doqquzuncu ildə qardaşlar Branobel şirkətini qurdular. Kiçik qardaş Alfred Nobel də şirkətə pul qoydu və onun ən böyük fərdi səhmdarı oldu.",
+     "show": "1879-cu ildə qardaşlar Branobel şirkətini qurdular. Kiçik qardaş Alfred Nobel də şirkətə pul qoydu və onun ən böyük fərdi səhmdarı oldu."
+    },
+    {
+     "say": "Şirkətin zavodları Bakının Qara şəhər adlanan hissəsində idi, neft isə Balaxanı yataqlarından çıxarılırdı.",
+     "show": "Şirkətin zavodları Bakının Qara şəhər adlanan hissəsində idi, neft isə Balaxanı yataqlarından çıxarılırdı."
+    },
+    {
+     "say": "Zamanla Branobel Rusiya imperiyasının ən böyük neft şirkətlərindən birinə çevrildi.",
+     "show": "Zamanla Branobel Rusiya imperiyasının ən böyük neft şirkətlərindən birinə çevrildi."
+    }
+   ]
+  },
+  {
+   "title": "Dünyanın ilk tankeri Xəzərdə",
+   "photos": [
+    {
+     "path": "fetch/img/2026-10-24_1_zoroaster.jpg",
+     "cy": 0.5
+    },
+    {
+     "path": "fetch/img/2026-10-24_1_nobeltanker.jpg",
+     "cy": 0.5
+    }
+   ],
+   "lines": [
+    {
+     "say": "O vaxt neft taxta çəlləklərdə daşınırdı. Bu həm baha, həm də çox yavaş idi.",
+     "show": "O vaxt neft taxta çəlləklərdə daşınırdı. Bu həm baha, həm də çox yavaş idi."
+    },
+    {
+     "say": "Nobellər əvvəlcə Balaxanıdan zavodlara neft kəməri çəkdilər. Bu, Rusiya imperiyasında ilk neft kəmərlərindən biri idi.",
+     "show": "Nobellər əvvəlcə Balaxanıdan zavodlara neft kəməri çəkdilər. Bu, Rusiya imperiyasında ilk neft kəmərlərindən biri idi."
+    },
+    {
+     "say": "Sonra Ludviq neftin çəlləksiz, birbaşa gəminin içinə tökülməsini düşündü.",
+     "show": "Sonra Ludviq neftin çəlləksiz, birbaşa gəminin içinə tökülməsini düşündü."
+    },
+    {
+     "say": "Min səkkiz yüz yetmiş səkkizinci ildə İsveçdə tikilən Zoroastr gəmisi Xəzərdə üzməyə başladı. O, dünyanın ilk uğurlu neft tankeri hesab olunur.",
+     "show": "1878-ci ildə İsveçdə tikilən «Zoroastr» gəmisi Xəzərdə üzməyə başladı. O, dünyanın ilk uğurlu neft tankeri hesab olunur."
+    }
+   ]
+  },
+  {
+   "title": "Səhv yazılmış nekroloq",
+   "photos": [
+    {
+     "path": "fetch/img/lf_alfred.jpg",
+     "fit": true
+    },
+    {
+     "path": "fetch/img/lf_alfred_bain.png",
+     "fit": true
+    }
+   ],
+   "lines": [
+    {
+     "say": "Min səkkiz yüz səksən səkkizinci ildə Ludviq Nobel Fransanın Kann şəhərində vəfat etdi.",
+     "show": "1888-ci ildə Ludviq Nobel Fransanın Kann şəhərində vəfat etdi."
+    },
+    {
+     "say": "Deyilənə görə, bir fransız qəzeti qardaşları qarışdırdı və Alfredin özü haqqında nekroloq çap etdi.",
+     "show": "Deyilənə görə, bir fransız qəzeti qardaşları qarışdırdı və Alfredin özü haqqında nekroloq çap etdi."
+    },
+    {
+     "say": "Orada Alfred dinamiti icad etdiyinə görə ölüm taciri adlandırılırdı.",
+     "show": "Orada Alfred dinamiti icad etdiyinə görə «ölüm taciri» adlandırılırdı."
+    },
+    {
+     "say": "Tarixçilər bu hekayənin detallarını mübahisəli sayır. Amma çoxları inanır ki, Alfred məhz bundan sonra necə xatırlanacağı barədə düşünməyə başladı.",
+     "show": "Tarixçilər bu hekayənin detallarını mübahisəli sayır. Amma çoxları inanır ki, Alfred məhz bundan sonra necə xatırlanacağı barədə düşünməyə başladı."
+    }
+   ]
+  },
+  {
+   "title": "Vəsiyyət",
+   "photos": [
+    {
+     "path": "fetch/img/lf_will.jpg",
+     "cy": 0.5
+    },
+    {
+     "path": "fetch/img/lf_medal.jpg",
+     "fit": true
+    }
+   ],
+   "lines": [
+    {
+     "say": "Min səkkiz yüz doxsan beşinci ildə Alfred vəsiyyətini yazdı: sərvətinin böyük hissəsi bəşəriyyətə ən çox fayda verən insanlara mükafat üçün ayrılmalı idi.",
+     "show": "1895-ci ildə Alfred vəsiyyətini yazdı: sərvətinin böyük hissəsi bəşəriyyətə ən çox fayda verən insanlara mükafat üçün ayrılmalı idi."
+    },
+    {
+     "say": "Bir il sonra, dekabrın onunda Alfred vəfat etdi. Mükafatlar hər il məhz bu gün verilir.",
+     "show": "Bir il sonra, dekabrın 10-da Alfred vəfat etdi. Mükafatlar hər il məhz bu gün verilir."
+    },
+    {
+     "say": "Mükafat fondunun təxminən on iki faizi Alfredin Branobel səhmlərindən gəlib. Bəzi tədqiqatçılar isə bu payın iyirmi faizdən çox olduğunu deyir.",
+     "show": "Mükafat fondunun təxminən 12 faizi Alfredin Branobel səhmlərindən gəlib. Bəzi tədqiqatçılar isə bu payın 20 faizdən çox olduğunu deyir."
+    },
+    {
+     "say": "Yəni bu gün Nobel mükafatı alan alimlərin pulunun bir hissəsinin kökü Bakının neftinə gedib çıxır.",
+     "show": "Yəni bu gün Nobel mükafatı alan alimlərin pulunun bir hissəsinin kökü Bakının neftinə gedib çıxır."
+    }
+   ]
+  },
+  {
+   "title": "Nobellərin Bakıdakı izi",
+   "photos": [
+    {
+     "path": "fetch/img/lf_petrolea_1897.jpg",
+     "cy": 0.5
+    },
+    {
+     "path": "fetch/img/lf_petrolea_front.jpg",
+     "cy": 0.45
+    }
+   ],
+   "lines": [
+    {
+     "say": "Min doqquz yüz iyirminci ildə bolşeviklər Bakıda hakimiyyəti ələ keçirdi və Branobel milliləşdirildi.",
+     "show": "1920-ci ildə bolşeviklər Bakıda hakimiyyəti ələ keçirdi və Branobel milliləşdirildi."
+    },
+    {
+     "say": "Amma Nobellərin Bakıdakı izi itmədi. Qardaşların yaşadığı Villa Petrolea bərpa olunub.",
+     "show": "Amma Nobellərin Bakıdakı izi itmədi. Qardaşların yaşadığı Villa Petrolea bərpa olunub."
+    },
+    {
+     "say": "İki min səkkizinci ildən burada Nobel qardaşlarının muzeyi fəaliyyət göstərir. Bu, İsveçdən kənarda ilk Nobel muzeyi sayılır.",
+     "show": "2008-ci ildən burada Nobel qardaşlarının muzeyi fəaliyyət göstərir. Bu, İsveçdən kənarda ilk Nobel muzeyi sayılır."
+    }
+   ]
+  }
+ ],
+ "outro": {
+  "photos": [
+   {
+    "path": "fetch/img/lf_petrolea_front.jpg",
+    "cy": 0.45
+   }
+  ],
+  "lines": [
+   {
+    "say": "Sən Villa Petroleada olmusan? Bu hekayəni bilirdin? Şərhlərdə yaz.",
+    "show": "Sən Villa Petroleada olmusan? Bu hekayəni bilirdin? Şərhlərdə yaz."
+   },
+   {
+    "say": "Belə hekayələr üçün kanala abunə ol. Hər həftə yeni video.",
+    "show": "Belə hekayələr üçün kanala abunə ol. Hər həftə yeni video."
+   }
+  ]
+ }
+}

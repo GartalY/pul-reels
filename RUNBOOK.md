@@ -97,6 +97,16 @@ Every text (caption, slide, reel beat, quiz, story, first comment) must read lik
   youtube posts first; record IDs under `youtube` in the day JSON. Include YouTube views/subscribers in reports.
 - **NO FACEBOOK (Gartal, 2026-10-27):** the connected Facebook page is NOT used — never add the facebook provider.
   Platforms = Instagram + TikTok + YouTube Shorts only. Language pages: TR (~9 Nov if growth holds), then RU (~Dec), then EN (~Jan).
+- **WEEKLY YOUTUBE LONG VIDEO (from 2026-10-28, Gartal approved):** every week a 3–5 min horizontal compilation of
+  the week's best SILENT reels is posted to YouTube (type "video", NOT short) — long videos earn far more per view and
+  their watch hours count toward YPP's 4 000 hours. Build with `python3 compile.py out/compilations/<YYYY>-W<ww>.mp4
+  '{"title":..,"subtitle":..,"items":[{"file":"out/D/n_reel.mp4","hook":".."},...]}'` (8–10 items, best views first,
+  prefer *_safe.mp4 / corrected versions, never a reel with a known factual error, skip voiced reels so no AI label
+  is needed). Title: "Bilmədiyin N heyrətamiz fakt: <A>-dan <B>-ya qədər" style. Description = 1-line hook + question,
+  the chapter list printed by compile.py (starts 0:00), follow line ("abunə ol"), photo credit summary, 5 hashtags.
+  youtubeData {type:"video", category EDUCATION, madeForKids false, isAiGeneratedContent false, 6–8 tags}.
+  Schedule Saturdays 20:00 Baku. First one: 2026-W44 on Wed 28 Oct 20:00 (Metricool 407750283).
+  Log every compiled reel in facts/compilations.json so no reel is used twice.
 - **ROADMAP (Claude as manager, 2026-10-26):** 1) NOW: cross-post every reel to TikTok + YouTube Shorts via
   Metricool as soon as Gartal connects the accounts (same video, same caption; YouTube needs title ≤ 100 chars,
   type "short", madeForKids false, isAiGeneratedContent = voiced; TikTok isAigc = voiced). 2) ~9 Nov, only if

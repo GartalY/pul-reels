@@ -71,7 +71,8 @@ Every text (caption, slide, reel beat, quiz, story, first comment) must read lik
   abbreviations (say "dərəcə", "faiz", "təxminən"); short sentences with commas where a person would pause;
   everyday spoken words, not bookish ones. Screen text keeps digits; only the spoken text changes.
 - **TIKTOK CROSS-POSTING (LIVE from 2026-10-27):** TikTok @bilirdinizmi_az is a SEPARATE Metricool brand
-  **7681834** ("bilirdinizmi_az tiktok"; Instagram stays brand 7443266). For EVERY reel scheduled on Instagram,
+  **7681834** ("bilirdinizmi_az tiktok"; Instagram stays brand 7443266). Since 2026-10-27 11:25 the SAME TikTok account is also
+  connected to brand 7443266 — NEVER add the tiktok provider on brand 7443266 (it would post twice); TikTok only via 7681834. For EVERY reel scheduled on Instagram,
   also create a TikTok post on brand 7681834 at the SAME time: providers [{"network":"tiktok"}], same video URL,
   tiktokData {title: the reel hook in sentence case (required, ≤ 90 chars), privacyOption PUBLIC_TO_EVERYONE,
   isAigc = true only for voiced reels, autoAddMusic false, comments/duet/stitch enabled}. TikTok has no first

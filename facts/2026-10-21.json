@@ -169,10 +169,15 @@
    "reel_hook": "109 İLDİR BAKIYA SU VERİR",
    "reel_beats": [
     "1899-cu il. Bakıda təmiz içməli su çatmırdı. Şəhər britaniyalı mühəndis Vilyam Lindlini dəvət etdi, o da Quba yaxınlığındakı Şollar bulaqlarını seçdi.",
-    "Hacı Zeynalabdin Tağıyev layihəyə pul verdi. Ustalar təxminən 177 km-lik kəməri illərlə çəkdilər və su Bakıya 1917-ci ildə çatdı.",
+    "Hacı Zeynalabdin Tağıyev mühəndisin dəvətini və bulaqların tədqiqatını öz pulu ilə ödədi. Təxminən 177 km-lik kəmər çəkildi və su Bakıya 1917-ci ildə çatdı.",
     "Açılışda kranı Tağıyev özü açdı. Bu kəmər bu gün də Bakıya su verir. Bəs sən evdə hansı suyu içirsən?"
    ],
-   "format_note": "Evening 2026-10-20: converted card -> reel because v3 runbook puts facts[0] at 13:00 as a REEL (slides kept for reference). Beats use only verified details from slides/verify_note."
+   "format_note": "Evening 2026-10-20: converted card -> reel because v3 runbook puts facts[0] at 13:00 as a REEL (slides kept for reference). Beats use only verified details from slides/verify_note.",
+   "reel_beats_v1": [
+    "1899-cu il. Bakıda təmiz içməli su çatmırdı. Şəhər britaniyalı mühəndis Vilyam Lindlini dəvət etdi, o da Quba yaxınlığındakı Şollar bulaqlarını seçdi.",
+    "Hacı Zeynalabdin Tağıyev layihəyə pul verdi. Ustalar təxminən 177 km-lik kəməri illərlə çəkdilər və su Bakıya 1917-ci ildə çatdı.",
+    "Açılışda kranı Tağıyev özü açdı. Bu kəmər bu gün də Bakıya su verir. Bəs sən evdə hansı suyu içirsən?"
+   ]
   },
   {
    "n": 2,

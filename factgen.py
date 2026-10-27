@@ -95,6 +95,7 @@ def card(photo, out, c):
 
 # ---------- reel 1080x1920 ----------
 def reel(photo, out, c):
+    SAFE_W = 820   # 70 px left margin, ~190 px kept free on the right for TikTok/Shorts/Reels buttons
     W, H, FPS = 1080, 1920, 30
     src = load(photo)
     beats = c.get("beats") or [c["fact"]]
@@ -138,14 +139,20 @@ def reel(photo, out, c):
             k = max(j for j in range(len(beats)) if START[j] <= s); sb = s - START[k]
             a = ease(sb / 0.25)
             if k < len(beats) - 1: a *= 1 - ease((sb - (BTS[k] - 0.25)) / 0.25)
-            pill(d, 70, 1180, "BİLİRDİNİZMİ?" if k == 0 else f"{k + 1}/{len(beats)}", F("Black", 40), GOLD, INK)
-            text_block(d, 70, 1290 + (1 - a) * 40, beats[k], F("Bold", 60), tuple(int(x * a) for x in WHITE), W - 140)
+            # v5 2026-10-27: TikTok/Shorts SAFE ZONE — keep text left of the right-hand buttons (x <= 890) and above
+            # the caption overlay (y <= ~1450); before, beats ran under TikTok's buttons and caption.
+            nl = len(wrap(d, beats[k], F("Bold", 56), SAFE_W))   # dark backing so text reads on bright photos too
+            ImageDraw.Draw(fr, "RGBA").rounded_rectangle([40, 1040, 70 + SAFE_W + 30, 1060 + nl * 70 + 30], 28,
+                                                         fill=INK + (int(185 * a),))
+            pill(d, 70, 960, "BİLİRDİNİZMİ?" if k == 0 else f"{k + 1}/{len(beats)}", F("Black", 40), GOLD, INK)
+            text_block(d, 70, 1060 + (1 - a) * 40, beats[k], F("Bold", 56), tuple(int(x * a) for x in WHITE), SAFE_W)
         if t > dur - OUT:
             a = ease((t - (dur - OUT)) / 0.3)
             msg = c.get("cta", "Hər gün yeni fakt — izlə!")   # v4 2026-10-25: follow CTA on every reel (was the quiz CTA)
-            fw = d.textlength(msg, font=F("Bold", 44))
-            d.rounded_rectangle([(W - fw) / 2 - 30, 1760, (W + fw) / 2 + 30, 1840], 40, fill=tuple(int(x * a) for x in GOLD))
-            d.text(((W - fw) / 2, 1772), msg, font=F("Bold", 44), fill=INK)
+            fc = F("Bold", 42); cl = wrap(d, msg, fc, SAFE_W - 60)
+            cw = max(d.textlength(l, font=fc) for l in cl); ch = len(cl) * 54 + 26
+            d.rounded_rectangle([70, 1470, 70 + cw + 60, 1470 + ch], 36, fill=tuple(int(x * a) for x in GOLD))
+            for q, l in enumerate(cl): d.text((100, 1483 + q * 54), l, font=fc, fill=INK)
         d.rectangle([0, H - 8, W * t / dur, H], fill=GOLD)
         fr.save(f"{tmp}/{i:05d}.jpg", quality=90)
     music(f"{tmp}/m.wav", dur, c.get("seed", 1))

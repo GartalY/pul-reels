@@ -1,0 +1,26 @@
+{
+ "voice": "Banu", "rate": "+5%",
+ "intro": {"title": "Azərbaycan haqqında 7 fakt ki, çoxumuz bilmirik", "photo": "fetch/img/2026-10-26_1_baku.jpg", "cy": 0.45,
+  "lines": [
+   {"say": "Hər gün bu şəhərdə yaşayırıq, amma onun bəzi sirlərini heç eşitməmişik.", "show": "Hər gün bu şəhərdə yaşayırıq, amma onun bəzi sirlərini heç eşitməmişik."},
+   {"say": "Gəl, Azərbaycan haqqında çoxumuzun bilmədiyi yeddi fakta birlikdə baxaq.", "show": "Gəl, Azərbaycan haqqında çoxumuzun bilmədiyi 7 fakta birlikdə baxaq."}
+  ]},
+ "facts": [
+  {"title": "Bakının suyu haradan gəlir?",
+   "photos": [{"path": "fetch/img/2026-10-21_shollar_a.jpg", "cy": 0.5}, {"path": "fetch/img/2026-10-21_shollar_b.jpg", "cy": 0.5}],
+   "lines": [
+    {"say": "Bakıda içdiyimiz suyun bir hissəsi təxminən yüz yetmiş yeddi kilometr uzaqdan, Quba dağlarındakı Şollar bulaqlarından gəlir.", "show": "Bakıda içdiyimiz suyun bir hissəsi təxminən 177 km uzaqdan, Quba dağlarındakı Şollar bulaqlarından gəlir."},
+    {"say": "On doqquzuncu əsrin sonunda şəhərdə təmiz içməli su çatmırdı.", "show": "XIX əsrin sonunda şəhərdə təmiz içməli su çatmırdı."},
+    {"say": "Hacı Zeynalabdin Tağıyev britaniyalı mühəndis Vilyam Lindlini Bakıya dəvət etdi və bulaqların tədqiqatını öz pulu ilə ödədi.", "show": "Hacı Zeynalabdin Tağıyev britaniyalı mühəndis Vilyam Lindlini Bakıya dəvət etdi və bulaqların tədqiqatını öz pulu ilə ödədi."},
+    {"say": "Kəmərin tikintisi illərlə çəkdi və Şollar suyu Bakıya min doqquz yüz on yeddinci ildə çatdı.", "show": "Kəmərin tikintisi illərlə çəkdi və Şollar suyu Bakıya 1917-ci ildə çatdı."},
+    {"say": "Yəni bu kəmər yüz doqquz ildir ki, Bakıya su verir.", "show": "Yəni bu kəmər 109 ildir ki, Bakıya su verir."}
+   ]},
+  {"title": "Dəniz səviyyəsindən aşağıda yaşayan şəhər",
+   "photos": [{"path": "fetch/img/2026-10-26_1_baku.jpg", "cy": 0.3}, {"path": "fetch/img/2026-10-28_4_xezer_a.jpg", "cy": 0.5}],
+   "lines": [
+    {"say": "Bakı dünya okeanının səviyyəsindən təxminən iyirmi səkkiz metr aşağıda yerləşir.", "show": "Bakı dünya okeanının səviyyəsindən təxminən 28 metr aşağıda yerləşir."},
+    {"say": "Bu, onu dünyanın ən aşağıda yerləşən paytaxtı edir.", "show": "Bu, onu dünyanın ən aşağıda yerləşən paytaxtı edir."},
+    {"say": "Bəs Xəzər niyə şəhəri basmır? Çünki Xəzər okeana bağlı deyil, və onun səviyyəsi də okeandan təxminən iyirmi səkkiz metr aşağıdadır.", "show": "Bəs Xəzər niyə şəhəri basmır? Çünki Xəzər okeana bağlı deyil və onun səviyyəsi də okeandan təxminən 28 metr aşağıdadır."}
+   ]}
+ ]
+}

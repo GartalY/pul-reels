@@ -9,7 +9,7 @@ const srv = http.createServer((q, r) => { const f = path.join(root, decodeURICom
   const out = process.argv[2]; fs.mkdirSync(out, { recursive: true });
   let ts; if (process.argv[3] === 'range') { const [a, b, fps] = process.argv.slice(4).map(Number); ts = []; for (let i = a; i < b; i++) ts.push([i, i / fps]); }
   else ts = process.argv[3].split(',').map((x, i) => [i, Number(x)]);
-  const br = await chromium.launch({ args: ['--use-gl=angle', '--use-angle=swiftshader', '--enable-unsafe-swiftshader', '--ignore-gpu-blocklist'] });
+  const br = await chromium.launch({ executablePath: process.env.CHROME_PATH || '/opt/pw-browsers/chromium', args: ['--use-gl=angle', '--use-angle=swiftshader', '--enable-unsafe-swiftshader', '--ignore-gpu-blocklist'] });
   const pg = await br.newPage({ viewport: { width: 720, height: 1280 } });
   pg.on('console', m => { if (m.type() === 'error') console.error('PAGE', m.text()); }); pg.on('pageerror', e => console.error('PAGEERR', e.message));
   await pg.goto(`http://localhost:${port}/scene.html?seg=${encodeURIComponent(process.env.SEG || '[3.49,7.91,7.05,9.78,1.8]')}&${process.env.Q||''}`);

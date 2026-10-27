@@ -435,5 +435,74 @@
   "14:00 quiz q2 (mud volcanoes)": 406893998,
   "14:10 answer a2": 406894046
  },
- "quiz_note": "First quizplan run picked Moon trees (2026-10-26-3, never posted: trend swap) as recall -> marked unposted in db.json and re-planned (recall = snapping shrimp)."
+ "quiz_note": "First quizplan run picked Moon trees (2026-10-26-3, never posted: trend swap) as recall -> marked unposted in db.json and re-planned (recall = snapping shrimp).",
+ "trend": {
+  "n": "T",
+  "type": "reel",
+  "format": "v4",
+  "cat": "Tarix",
+  "voiced": false,
+  "subject": "Galatasaray 2-1 Fenerbahçe, Süper Lig week 9, RAMS Park, Mon 26 Oct 2026 (Medyascope, Habertürk, Mirathaber): Osimhen 29' and 44', İrfan Can Kahveci 62'. Osimhen: born 29 Dec 1998 Lagos, grew up in Olusosun near a landfill; after his mother died and his father lost his job he sold (sachet/bottled) water in Lagos traffic, brother sold newspapers, sister oranges (Osimhen quoted by Ripples Nigeria; Wikipedia). 2015 U-17 World Cup: 10 goals, Golden Boot. Galatasaray signed him permanently from Napoli on 31 Jul 2025 for €75m net, 4-year contract, highest fee in Turkish football history (previous: En-Nesyri €20m, 2024) (Graphic/AFP, Wikipedia, BusinessDay).",
+  "photo_request": "Osimhen photo, public domain (Commons)",
+  "title": "75 milyonluq futbolçu uşaqkən tıxacda su satırdı",
+  "text": "Dünən Qalatasaray derbidə Fənərbağçanı 2:1 uddu, iki qolu Osimhen vurdu. O, uşaqkən Laqosda maşın tıxacında su satıb.",
+  "reel_hook": "75 MİLYONLUQ FUTBOLÇU UŞAQKƏN TIXACDA SU SATIRDI",
+  "reel_beats": [
+   "Dünən axşam Qalatasaray derbidə Fənərbağçanı 2:1 hesabı ilə uddu. Hər iki qolu Viktor Osimhen vurdu: 29-cu və 44-cü dəqiqələrdə.",
+   "Osimhen Nigeriyanın Laqos şəhərində kasıb ailədə böyüyüb. Uşaqkən maşın tıxacının ortasında su satırdı, qardaşı qəzet, bacısı isə portağal.",
+   "2025-ci ildə Qalatasaray onu Napolidən 75 milyon avroya aldı. Bu, Türkiyə futbolu tarixində ən bahalı transferdir. Bunu bilirdin?"
+  ],
+  "caption": "Uşaqkən tıxacda su satan oğlan dünən derbinin qəhrəmanı oldu ⚽\n\nQalatasaray dünən Fənərbağçanı 2:1 hesabı ilə məğlub etdi. Viktor Osimhen 29-cu və 44-cü dəqiqələrdə qol vurdu, Fənərbağçanın qolunu isə 62-ci dəqiqədə İrfan Can Kahveci vurdu. Osimhen Laqosda böyüyüb: anası vəfat edəndən sonra ailəyə kömək etmək üçün tıxacda su satıb. 2015-ci ildə 17 yaşadək futbolçuların dünya çempionatında 10 qol vurdu. 2025-ci ildə isə Qalatasaray onu 75 milyon avroya aldı — bu, Türkiyə futbolunun rekord transferidir.\n\n📩 «Məndən heç nə olmayacaq» deyən dostuna göndər 💪\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Fédération Guinéenne de Football / Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #futbol #qalatasaray #osimhen",
+  "first_comment": "Derbini izlədin? Sənə görə ən yaxşı oyunçu kim idi? 👇",
+  "quizzes": [
+   {
+    "q": "Osimhen dünənki derbidə neçə qol vurdu?",
+    "options": [
+     "1",
+     "2",
+     "3"
+    ],
+    "answer": "2",
+    "why": "29-cu və 44-cü dəqiqələrdə."
+   },
+   {
+    "q": "Qalatasaray Osimheni neçəyə aldı?",
+    "options": [
+     "20 milyon avro",
+     "75 milyon avro",
+     "120 milyon avro"
+    ],
+    "answer": "75 milyon avro",
+    "why": "Bu, Türkiyə futbolunun rekord transferidir."
+   },
+   {
+    "q": "Osimhen uşaqkən tıxacda nə satırdı?",
+    "options": [
+     "Su",
+     "Qəzet",
+     "Çörək"
+    ],
+    "answer": "Su",
+    "why": "Qardaşı qəzet, bacısı portağal satırdı."
+   }
+  ],
+  "sources": [
+   "https://medyascope.tv/2026/10/26/galatasaray-fenerbahce-derbisinde-kazanan-galatasaray-2-1/",
+   "https://www.haberturk.com/bilgi/foto/galatasaray-fenerbahce-maci-kac-kac-bitti-galatasaray-fenerbahce-derbi-maci-ozeti-ve-golleri-3922733",
+   "https://ripplesnigeria.com/i-hawked-bottled-water-in-lagos-traffic-to-survive-osimhen-on-road-to-stardom",
+   "https://en.wikipedia.org/wiki/Victor_Osimhen",
+   "https://www.graphic.com.gh/sports/sports-news/galatasaray-confirm-record-signing-of-nigerian-star-victor-osimhen.html"
+  ],
+  "verify_note": "Score/scorers/minutes: Medyascope + Habertürk (+ Mirathaber headline 'Osimhen'den iki gol'). Water selling + siblings: Osimhen's own words (Ripples Nigeria) + Wikipedia. €75m record fee, 4 years, previous record En-Nesyri €20m: Graphic (AFP) + Wikipedia; BusinessDay/TNT headlines agree. Standings after the match (GS 1st, 22 pts) only from one source -> NOT used. Neutral: FB goal scorer named.",
+  "photo": {
+   "path": "fetch/img/2026-10-27_T_osimhen_c.jpg",
+   "credit": "Fédération Guinéenne de Football / Wikimedia Commons (ictimai mülkiyyət)",
+   "cy": 0.3,
+   "full": true,
+   "source": "https://commons.wikimedia.org/wiki/File:0K8A7984_(53451306826)_(cropped).jpg",
+   "alt": "fetch/img/2026-10-27_T_osimhen_d.jpg (same source, full body, PD). Rejected: Osimhen30Sep2025.jpg (CC0 claim doubtful for a match photo), cartoon PNG."
+  },
+  "picked": "2026-10-27 09:10 Baku: biggest talk for AZ audience = GS–FB derby last night (Turkish football); GS–FB 1909 history card ran on 25 Oct, so today's angle is the match winner's life story."
+ },
+ "trend_check_morning": "2026-10-27 09:15 Baku: news searches (world/AZ/sports/viral). Biggest topic: Galatasaray 2-1 Fenerbahçe last night (Osimhen 2 goals) -> today's 18:30 trend reel (swap at 15:23). Nothing requiring an immediate swap of 13:00/16:00/21:30."
 }

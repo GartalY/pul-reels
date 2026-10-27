@@ -1,0 +1,380 @@
+{
+ "date": "2026-10-28",
+ "status": "planned",
+ "format": "v2",
+ "content_format": "v4",
+ "planned_note": "Planned in the 2026-10-27 09:10 run (format v4: 4 reels + 1 carousel). 10:00 TBG carousel = Statue of Liberty dedicated 28 Oct 1886 (140 years). 13:00 AZ reel (VOICED): ships had to bring soil to Baku in the 1880s (boulevard). 16:00 reel (SILENT): bar-headed geese 7 290 m over the Himalayas. 18:30 trend backup reel (SILENT): Iceland's first 3 mosquitoes (Oct 2025). 21:30 reel (VOICED): ~40% of the world's lake water is in the Caspian. Voice split test: 13:00 + 21:30 voiced, 16:00 + 18:30 silent. All photos fetched and checked.",
+ "history": {
+  "n": "H",
+  "type": "card",
+  "cat": "Tarix",
+  "day": 28,
+  "month": 10,
+  "year": 1886,
+  "subject": "Statue of Liberty dedicated 28 Oct 1886 by President Grover Cleveland on Bedloe's Island, light rain and fog (EBSCO; census.gov). Completed in France July 1884, dismantled into 350 pieces, packed in 214 crates, shipped on the French frigate Isère, arrived NY 17 Jun 1885 (EBSCO; census.gov). Copper skin 2.4 mm (0.1 in), 31 t of copper, internal structure engineered by Gustave Eiffel; 93 m incl. base (Britannica). Pedestal: Pulitzer's New York World, >100,000 donors, mostly about $1 each (EBSCO), >$102,000 (census.gov). Brown copper turned green by weathering; 1906 talk of repainting, 1907 officials accepted the green (Snopes).",
+  "photo_request": "Statue of Liberty (Unsplash)",
+  "card_title": "28 OKTYABR 1886",
+  "title": "140 il əvvəl bu gün Azadlıq heykəli açıldı",
+  "text": "1886-cı il 28 oktyabrda Nyu-Yorkda Azadlıq heykəli açıldı. Fransada hazırlanan heykəl okeanı 214 qutuda keçmişdi.",
+  "cover": {
+   "hook": "Azadlıq heykəli okeanı 214 qutuda keçib",
+   "sub": "28 oktyabr 1886 · 140 il əvvəl bu gün"
+  },
+  "slides": [
+   {
+    "h": "214 qutu",
+    "t": "Heykəl Fransada hazırlandı. Sonra onu 350 hissəyə ayırıb 214 qutuya yığdılar. 1885-ci ildə qutular gəmi ilə Nyu-Yorka gəldi."
+   },
+   {
+    "h": "2,4 mm",
+    "t": "Heykəlin mis örtüyü cəmi 2,4 millimetr qalınlığındadır. İçindəki dəmir skeleti isə sonradan Eyfel qülləsini quran Qustav Eyfel hazırlayıb."
+   },
+   {
+    "h": "1 dollar",
+    "t": "Heykəlin altındakı postament üçün pul çatmırdı. Qəzet sahibi Cozef Pulitser xalqdan kömək istədi. 100 000-dən çox adam pul verdi, çoxu təxminən 1 dollar."
+   },
+   {
+    "h": "Yaşıl",
+    "t": "Heykəl əvvəlcə mis rəngində, qəhvəyi idi. Hava və yağış onu illər ərzində yaşıllaşdırdı. 1906-cı ildə rəngləmək istədilər, amma sonra yaşıl rəngdə saxladılar."
+   }
+  ],
+  "caption": "140 il əvvəl bu gün Azadlıq heykəli açıldı 🗽\n\n1886-cı il 28 oktyabrda, yağışlı və dumanlı bir gündə ABŞ prezidenti Qrover Klivlend heykəli açdı. Heykəl Fransada hazırlanmışdı: onu 350 hissəyə ayırıb 214 qutuda okeanın o tayına göndərdilər. Mis örtüyü cəmi 2,4 mm qalınlığındadır, içindəki skeleti isə Qustav Eyfel hazırlayıb. Əvvəlcə qəhvəyi idi, yaşıl rəngi sonradan alıb.\n\n📩 Hər şeyi sökəndən sonra yığa bilməyən dostuna göndər — bunlar 350 hissəni yığıb 😄\n\nFoto: Amanda Swanepoel / Unsplash\n\n#bilirdinizmi #maraqlıfaktlar #tarixdəbugün #nyuyork #heykəl",
+  "first_comment": "Sən Azadlıq heykəlini canlı görmüsən? 👇",
+  "quizzes": [
+   {
+    "q": "Azadlıq heykəli neçə qutuda gəlib?",
+    "options": [
+     "214",
+     "21",
+     "2 140"
+    ],
+    "answer": "214",
+    "why": "350 hissəyə ayrılıb 214 qutuya yığılmışdı."
+   },
+   {
+    "q": "Heykəlin mis örtüyü nə qədər qalındır?",
+    "options": [
+     "2,4 mm",
+     "2,4 sm",
+     "24 sm"
+    ],
+    "answer": "2,4 mm",
+    "why": "Təxminən iki sikkə qalınlığında."
+   },
+   {
+    "q": "Heykəlin içindəki skeleti kim hazırlayıb?",
+    "options": [
+     "Qustav Eyfel",
+     "Tomas Edison",
+     "Cozef Pulitser"
+    ],
+    "answer": "Qustav Eyfel",
+    "why": "Sonradan Eyfel qülləsini də o tikdi."
+   }
+  ],
+  "sources": [
+   "https://ebsco.com/research-starters/history/statue-liberty-dedicated",
+   "https://www.census.gov/history/www/homepage_archive/2020/june_2020.html",
+   "https://britannica.com/technology/What-Is-the-Statue-of-Liberty-Made-Of",
+   "https://www.snopes.com/fact-check/statue-liberty-different-color/"
+  ],
+  "verify_note": "Date + Cleveland: census.gov + EBSCO. 350 pieces / 214 crates / Isère: EBSCO (census.gov gives 200+/350+ crates — 214 within). 2.4 mm, 31 t, Eiffel: Britannica (Snopes: 'no thicker than two pennies'). >100,000 donors ~$1: EBSCO; >$102,000: census.gov. Repaint 1906/kept green 1907: Snopes. 140 years = not a round anniversary per section H (no 13:00 carousel).",
+  "photo": {
+   "path": "fetch/img/2026-10-28_H_liberty_a.jpg",
+   "credit": "Amanda Swanepoel / Unsplash",
+   "cy": 0.45,
+   "full": true,
+   "source": "https://unsplash.com/photos/8HfILDc_V04",
+   "slides": [
+    "fetch/img/2026-10-28_H_liberty_b.jpg"
+   ],
+   "alt": "fetch/img/2026-10-28_H_liberty_b.jpg (crown close-up, Brandon Mowinkel / Unsplash)"
+  }
+ },
+ "facts": [
+  {
+   "n": 1,
+   "type": "reel",
+   "cat": "Azərbaycan",
+   "voiced": true,
+   "subject": "Baku Boulevard soil: before the early 20th century the Baku seafront had no trees; in the 1880s Mayor R. R. Hoven (backed by industrialists) decreed that all ships entering Baku harbour from Iran had to bring fertile soil — a de facto harbour duty (Azerbaijan International magazine 'Boulevard' article; Wikipedia Baku Boulevard). 1900 Municipal Horticultural Commission began planting; boulevard established 1909 (Wikipedia: inaugurated 26 Mar 1909; bulvar.gov.az: green area planted 1909), completed 1911; exact creation date disputed, centenary marked 2009 (Wikipedia).",
+   "photo_request": "Baku Boulevard trees (Unsplash)",
+   "title": "Bulvarın torpağını gəmilər gətirib",
+   "text": "1880-ci illərdə İrandan Bakı limanına gələn hər gəmi özü ilə münbit torpaq gətirməli idi. Bulvarın ilk ağacları bu torpaqda əkilib.",
+   "reel_hook": "1880-Cİ İLLƏR: HƏR GƏMİ BAKIYA TORPAQ GƏTİRMƏLİ İDİ",
+   "reel_beats": [
+    "XIX əsrin sonunda Bakının dəniz sahilində bir dənə də ağac yox idi.",
+    "1880-ci illərdə qərar çıxdı: İrandan gələn hər gəmi limana münbit torpaq gətirməli idi. Bu, bir növ vergi idi.",
+    "Bu torpaqla sahildə ağac əkdilər. 1909-cu ildə isə orada bulvar salındı. Bunu bilirdin?"
+   ],
+   "voice": {
+    "voice": "az-AZ-BanuNeural",
+    "rate": "+15%",
+    "texts": [
+     "Min səkkiz yüz səksəninci illər. Hər gəmi Bakıya torpaq gətirməli idi.",
+     "On doqquzuncu əsrin sonunda Bakının dəniz sahilində bir dənə də ağac yox idi.",
+     "Min səkkiz yüz səksəninci illərdə qərar çıxdı. İrandan gələn hər gəmi limana münbit torpaq gətirməli idi. Bu, bir növ vergi idi.",
+     "Bu torpaqla sahildə ağac əkdilər. Min doqquz yüz doqquzuncu ildə isə orada bulvar salındı. Bunu bilirdin?"
+    ]
+   },
+   "cta": "Hər gün 13:00-da yeni Bakı faktı — izlə!",
+   "caption": "Bulvarın torpağını gəmilər gətirib 🌳\n\nXIX əsrin sonunda Bakının dəniz sahili çılpaq idi, orada ağac yox idi. 1880-ci illərdə şəhər başçısı R. R. Hoven qərar verdi: İrandan Bakı limanına gələn hər gəmi özü ilə münbit torpaq gətirməlidir. Bu, limandan istifadə üçün bir növ vergi idi. Bulvar 1909-cu ildə salınmağa başladı və 1911-ci ildə hazır oldu. Dəqiq yaranma tarixi bu gün də mübahisəlidir, amma 100 illiyi 2009-cu ildə qeyd olundu.\n\n📩 Hər axşam bulvarda gəzən dostuna göndər — qoy bilsin, ayağının altındakı torpaq haradan gəlib 😄\n\n👉 Hər gün 13:00-da Azərbaycan haqqında bilmədiyin bir fakt — izlə ki, qaçırmayasan\n\nFoto: Daniel Silva / Unsplash\n\n#bilirdinizmi #maraqlıfaktlar #bakı #bulvar #tarix",
+   "first_comment": "Sən bulvarın hansı hissəsində gəzməyi daha çox sevirsən? 👇",
+   "quizzes": [
+    {
+     "q": "İrandan gələn gəmilər Bakıya nə gətirməli idi?",
+     "options": [
+      "Münbit torpaq",
+      "Şirin su",
+      "Ağac tingi"
+     ],
+     "answer": "Münbit torpaq",
+     "why": "Bu, limandan istifadə üçün bir növ vergi idi."
+    },
+    {
+     "q": "Gəmilərə bu şərt hansı illərdə qoyulub?",
+     "options": [
+      "1880-ci illərdə",
+      "1920-ci illərdə",
+      "1960-cı illərdə"
+     ],
+     "answer": "1880-ci illərdə",
+     "why": "Şəhər başçısı R. R. Hovenin qərarı ilə."
+    },
+    {
+     "q": "Bakı bulvarı hansı ildə salınmağa başlayıb?",
+     "options": [
+      "1909",
+      "1937",
+      "1967"
+     ],
+     "answer": "1909",
+     "why": "1911-ci ildə hazır olub."
+    }
+   ],
+   "sources": [
+    "https://azer.com/aiweb/categories/magazine/82_folder/82_articles/82_boulevard.html",
+    "https://en.wikipedia.org/wiki/Baku_Boulevard",
+    "https://bulvar.gov.az/en/about/history"
+   ],
+   "verify_note": "Ships-from-Iran soil decree (1880s, Hoven, 'tax'/'duty'): Azerbaijan International article + Wikipedia (which cites it as a de facto harbour tax). No trees before early 20th c.: Wikipedia; 1900 planting commission: both. 1909 start / 1911 completion: Wikipedia + Azerbaijan International (1910 Duma campaign, done 1911); bulvar.gov.az: green area planted 1909. Ruble amounts conflict (10,000 vs 60,000) -> not used. 'Ilk ağaclar bu torpaqda' kept generic ('bu torpaqla ağac əkdilər'). No politics.",
+   "photo": {
+    "path": "fetch/img/2026-10-28_1_bulvar_a.jpg",
+    "credit": "Daniel Silva / Unsplash",
+    "cy": 0.5,
+    "full": false,
+    "source": "https://unsplash.com/photos/-aUWguYGuJU",
+    "alt": "fetch/img/2026-10-28_1_bulvar_b.jpg (boulevard + Flame Towers, Daniel Silva / Unsplash)"
+   }
+  },
+  {
+   "n": 2,
+   "type": "reel",
+   "cat": "Təbiət",
+   "voiced": false,
+   "subject": "Bar-headed geese (Anser indicus) cross the Himalayas on migration between Central Asia (Mongolia/Tibet) and India. Hawkes et al. (Science 2015; Bangor Univ. via ScienceDaily): highest records ~7,290 m and 6,540 m, 98% of observations below 6,000 m; 'roller-coaster' flight following terrain; often fly at night when air is colder and denser; at 5,500 m air pressure ~50% of sea level. Avg heart rate ~328 bpm on the journey.",
+   "photo_request": "Bar-headed goose in flight (Commons)",
+   "title": "7 290 metr: bu qaz Himalayı aşır",
+   "text": "Dağ qazları köç zamanı Himalay dağlarının üstündən uçur. Alimlər onların ən yüksək uçuşunu 7 290 metrdə qeydə alıb.",
+   "reel_hook": "7 290 METR: BU QAZ HİMALAYI AŞIR",
+   "reel_beats": [
+    "Dağ qazları hər il Monqolustanla Hindistan arasında köç edir və yolda Himalay dağlarını aşır. Alimlər onların ən yüksək uçuşunu 7 290 metrdə qeydə alıb.",
+    "Bu hündürlükdə hava çox seyrəkdir: hər nəfəsdə oksigen dəniz kənarındakının yarısından da azdır. Amma bu quşlar qanad çalmağa davam edir.",
+    "Onlar dağların üstündən düz uçmur, yamacla birlikdə qalxıb enirlər. Çox vaxt gecə uçurlar, çünki soyuq hava sıxdır və uçmaq asanlaşır. Bunu bilirdin?"
+   ],
+   "caption": "Bu qaz Himalay dağlarının üstündən uçur 🪿\n\nDağ qazları köç zamanı Himalayı aşır. Alimlər quşlara cihaz taxıb uçuşlarını izləyiblər: ən yüksək qeyd 7 290 metr olub, amma çox vaxt 6 000 metrdən aşağı uçurlar. 5 500 metrdə havanın təzyiqi dəniz kənarındakının yarısı qədərdir. Quşlar enerjiyə qənaət etmək üçün dağların relyefi ilə birlikdə qalxıb enir və çox vaxt gecə uçurlar.\n\n📩 Təyyarədə qulağı tutulan dostuna göndər — bu qaz isə Himalayı öz qanadları ilə aşır 😄\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Imran Shah / Wikimedia Commons (CC BY-SA 2.0)\n\n#bilirdinizmi #maraqlıfaktlar #təbiət #quşlar #himalay",
+   "first_comment": "Sən ən hündür hansı dağa çıxmısan? 👇",
+   "quizzes": [
+    {
+     "q": "Dağ qazının ən yüksək qeydə alınan uçuşu nə qədərdir?",
+     "options": [
+      "3 290 metr",
+      "7 290 metr",
+      "12 290 metr"
+     ],
+     "answer": "7 290 metr",
+     "why": "Amma çox vaxt 6 000 metrdən aşağı uçurlar."
+    },
+    {
+     "q": "Dağ qazları Himalayı çox vaxt nə vaxt aşır?",
+     "options": [
+      "Gecə",
+      "Günorta",
+      "Səhər tezdən"
+     ],
+     "answer": "Gecə",
+     "why": "Soyuq hava sıxdır, uçmaq asanlaşır."
+    },
+    {
+     "q": "Dağ qazları hansı dağların üstündən uçur?",
+     "options": [
+      "Himalay",
+      "Alp",
+      "And"
+     ],
+     "answer": "Himalay",
+     "why": "Monqolustanla Hindistan arasında köç edərkən."
+    }
+   ],
+   "sources": [
+    "https://www.sciencedaily.com/releases/2015/01/150115142227.htm",
+    "https://www.usgs.gov/publications/paradox-extreme-high-altitude-migration-bar-headed-geese-anser-indicus",
+    "https://www.nationalgeographic.com/animals/article/110610-highest-flying-birds-geese-himalaya-mountains-animals"
+   ],
+   "verify_note": "7,290 m max, 98% <6,000 m, roller-coaster, night flights, 50% pressure at 5,500 m: ScienceDaily (Hawkes et al. 2015, Bangor Univ.); USGS publication on the same 'paradox' of extreme high-altitude migration. Oxygen 'less than half' holds above 5,500 m. AZ name 'dağ qazı' = Anser indicus.",
+   "photo": {
+    "path": "fetch/img/2026-10-28_2_goose_b.jpg",
+    "credit": "Imran Shah / Wikimedia Commons (CC BY-SA 2.0)",
+    "cy": 0.4,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Bar-headed_Goose_(Anser_indicus)_(27214407733).jpg",
+    "alt": "fetch/img/2026-10-28_2_goose_a.jpg (flock in flight, PJeganathan, CC BY-SA 4.0)",
+    "note": "small 'IMRAN SHAH (2016)' watermark at the bottom edge — crop it out (cy 0.4)"
+   }
+  },
+  {
+   "n": 3,
+   "type": "reel",
+   "cat": "Coğrafiya",
+   "voiced": false,
+   "subject": "Iceland had no mosquitoes (one of the only places, with Antarctica). Insect enthusiast Björn Hjaltason saw the first one at dusk on 16 Oct 2025 at a farm in Kjós, north of Reykjavík, then trapped two more (2 females, 1 male), species Culiseta annulata; Natural Science Institute of Iceland confirmed on 20 Oct 2025. Likely arrived with freight; new insect species appearing with warming and more transport. Antarctica now the only place believed mosquito-free (NPR/AP 22 Oct 2025; Earth.com; Arctic Portal).",
+   "photo_request": "Culiseta annulata mosquito (Commons)",
+   "title": "3 ağcaqanad bütün İslandiyanı təəccübləndirdi",
+   "text": "İslandiya ağcaqanad olmayan nadir yerlərdən biri idi. 2025-ci ilin oktyabrında orada ilk dəfə 3 ağcaqanad tapıldı.",
+   "reel_hook": "3 AĞCAQANAD BÜTÜN İSLANDİYANI TƏƏCCÜBLƏNDİRDİ",
+   "reel_beats": [
+    "İslandiya uzun illər dünyada ağcaqanad olmayan iki yerdən biri sayılırdı. Digəri buz bağlamış Antarktidadır.",
+    "2025-ci ilin oktyabrında Reykyavik yaxınlığındakı bir fermada həşərat həvəskarı ilk ağcaqanadı tutdu. Sonra daha ikisini tapdı.",
+    "Alimlər bunu təsdiqlədi. Ehtimal ki, ağcaqanadlar yüklə birlikdə gəlib, isti hava isə onlara kömək edir. Bunu bilirdin?"
+   ],
+   "caption": "İslandiyada ilk dəfə ağcaqanad tapıldı 🦟\n\nİslandiya ağcaqanad olmayan nadir yerlərdən biri idi. 2025-ci il oktyabrın 16-da Kyous bölgəsindəki bir fermada Björn Hjaltason adlı həşərat həvəskarı qəribə bir ağcaqanad gördü və tutdu. Sonra daha ikisini tapdı: iki dişi, bir erkək. Təbiət Elmləri İnstitutu bunun Avropada geniş yayılmış bir ağcaqanad növü olduğunu təsdiqlədi. Alimlər deyir ki, onlar çox güman yüklə gəlib. İndi ağcaqanad olmayan yeganə yer Antarktida sayılır.\n\n📩 Yayda ağcaqanaddan qaçmaq üçün İslandiyaya köçmək istəyən dostuna göndər — artıq gecdir 😄\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Adrian Tync / Wikimedia Commons (CC BY-SA 4.0)\n\n#bilirdinizmi #maraqlıfaktlar #islandiya #ağcaqanad #coğrafiya",
+   "first_comment": "Sən ağcaqanaddan necə qorunursan? 👇",
+   "quizzes": [
+    {
+     "q": "İslandiyada ilk dəfə neçə ağcaqanad tapıldı?",
+     "options": [
+      "3",
+      "30",
+      "300"
+     ],
+     "answer": "3",
+     "why": "İki dişi və bir erkək."
+    },
+    {
+     "q": "İslandiyada ilk ağcaqanad nə vaxt tapıldı?",
+     "options": [
+      "2025-ci ildə",
+      "1995-ci ildə",
+      "1965-ci ildə"
+     ],
+     "answer": "2025-ci ildə",
+     "why": "Oktyabrın 16-da, bir fermada."
+    },
+    {
+     "q": "İndi ağcaqanad olmayan yeganə yer hansıdır?",
+     "options": [
+      "Antarktida",
+      "Qrenlandiya",
+      "Sibir"
+     ],
+     "answer": "Antarktida",
+     "why": "İslandiya bu siyahıdan çıxdı."
+    }
+   ],
+   "sources": [
+    "https://www.kpcw.org/npr-top-stories/2025-10-22/iceland-reports-the-presence-of-mosquitoes-for-the-first-time-as-climate-warms",
+    "https://www.earth.com/news/mosquitoes-have-been-found-in-iceland-for-the-first-time",
+    "https://arcticportal.org/ap-library/news/3975-iceland-a-mosquito-free-arctic-nation-no-more"
+   ],
+   "verify_note": "Date 16 Oct 2025, Kjós farm, Hjaltason, 3 (2F/1M), Culiseta annulata, institute confirmation 20 Oct, freight + warming, Antarctica only mosquito-free place: NPR/AP (via KPCW); same story in Earth.com, Arctic Portal and other NPR stations. 'Ehtimal ki' keeps the freight cause hedged.",
+   "photo": {
+    "path": "fetch/img/2026-10-28_3_culiseta.jpg",
+    "credit": "Adrian Tync / Wikimedia Commons (CC BY-SA 4.0)",
+    "cy": 0.4,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Culiseta_annulata_female_lateral_Chorzow.jpg",
+    "alt": "fetch/img/2026-10-28_3_iceland.jpg (Iceland valley, real_jansen / Unsplash)"
+   }
+  },
+  {
+   "n": 4,
+   "type": "reel",
+   "cat": "Coğrafiya",
+   "voiced": true,
+   "subject": "Caspian Sea = world's largest lake (if classed as a lake), ~78,200 km³, about 40–44% of the world's lake water (Wikipedia; Live Science: about 40%), ~3.5× the five Great Lakes combined (Wikipedia). Volga supplies ~80% of inflow (both). Salinity ~1.2%, about one third of seawater (Wikipedia). Five bordering countries; max depth ~1,025 m in the south.",
+   "photo_request": "Caspian Sea (Unsplash)",
+   "title": "Dünya göllərindəki suyun 40%-i Xəzərdədir",
+   "text": "Xəzər əslində dünyanın ən böyük gölüdür. Dünyadakı göllərin suyunun təxminən 40 faizi ondadır.",
+   "reel_hook": "DÜNYA GÖLLƏRİNDƏKİ SUYUN 40%-İ XƏZƏRDƏDİR",
+   "reel_beats": [
+    "Xəzər əslində dünyanın ən böyük gölüdür. Ona dəniz deyirik, amma okeanla əlaqəsi yoxdur.",
+    "Dünyadakı bütün göllərin suyunun təxminən 40 faizi Xəzərdədir. Bu, Amerikanın beş Böyük Gölündən 3,5 dəfə çoxdur.",
+    "Suyunun 80 faizini Volqa çayı gətirir. Duzu isə okeanın üçdə biri qədərdir. Bunu bilirdin?"
+   ],
+   "voice": {
+    "voice": "az-AZ-BanuNeural",
+    "rate": "+15%",
+    "texts": [
+     "Dünya göllərindəki suyun qırx faizi Xəzərdədir.",
+     "Xəzər əslində dünyanın ən böyük gölüdür. Ona dəniz deyirik, amma okeanla əlaqəsi yoxdur.",
+     "Dünyadakı bütün göllərin suyunun təxminən qırx faizi Xəzərdədir. Bu, Amerikanın beş Böyük Gölündən üç yarım dəfə çoxdur.",
+     "Suyunun səksən faizini Volqa çayı gətirir. Duzu isə okeanın üçdə biri qədərdir. Bunu bilirdin?"
+    ]
+   },
+   "caption": "Dünya göllərindəki suyun 40%-i Xəzərdədir 🌊\n\nXəzəri dəniz adlandırırıq, amma okeanla əlaqəsi yoxdur, ona görə də çox vaxt dünyanın ən böyük gölü sayılır. Onda təxminən 78 000 kub kilometr su var — dünya göllərindəki suyun 40 faizindən çoxu. Suyunun təxminən 80 faizini Volqa çayı gətirir. Xəzərin duzu okeanın üçdə biri qədərdir, ən dərin yeri isə cənubda, 1 000 metrdən çoxdur. Onun sahilində 5 ölkə var.\n\n📩 Xəzərə «göl» deyəndə mübahisə edən dostuna göndər 😄\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Roozbeh Eslami / Unsplash\n\n#bilirdinizmi #maraqlıfaktlar #xəzər #göl #coğrafiya",
+   "first_comment": "Sənə görə Xəzər dənizdir, yoxsa göl? 👇",
+   "quizzes": [
+    {
+     "q": "Dünya göllərindəki suyun neçə faizi Xəzərdədir?",
+     "options": [
+      "Təxminən 10 faiz",
+      "Təxminən 40 faiz",
+      "Təxminən 70 faiz"
+     ],
+     "answer": "Təxminən 40 faiz",
+     "why": "Xəzər dünyanın ən böyük gölü sayılır."
+    },
+    {
+     "q": "Xəzərin suyunun 80 faizini hansı çay gətirir?",
+     "options": [
+      "Volqa",
+      "Kür",
+      "Ural"
+     ],
+     "answer": "Volqa",
+     "why": "Xəzərə 130-dan çox çay tökülür."
+    },
+    {
+     "q": "Xəzərin suyu okeanla müqayisədə nə qədər duzludur?",
+     "options": [
+      "Üçdə biri qədər",
+      "Eyni qədər",
+      "İki dəfə çox"
+     ],
+     "answer": "Üçdə biri qədər",
+     "why": "Duzluluğu təxminən 1,2 faizdir."
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Caspian_Sea",
+    "https://livescience.com/57999-caspian-sea-facts.html"
+   ],
+   "verify_note": "40–44% of world lake water (Wikipedia) / ~40% (Live Science) -> 'təxminən 40 faiz' on screen, '40 faizindən çoxu' in caption ok (40–44). 78,200 km³ both. 3.5× Great Lakes: Wikipedia. Volga ~80% inflow: both. Salinity ~1/3 of seawater, >130 rivers, max depth ~1,025 m, 5 countries: Wikipedia. Not political (no legal-status dispute mentioned).",
+   "photo": {
+    "path": "fetch/img/2026-10-28_4_xezer_a.jpg",
+    "credit": "Roozbeh Eslami / Unsplash",
+    "cy": 0.5,
+    "full": true,
+    "source": "https://unsplash.com/photos/m1GpUf9LdtI",
+    "alt": "fetch/img/2026-10-28_4_xezer_b.jpg (Baku bay from above, Nurlan Isazade / Unsplash)"
+   }
+  }
+ ],
+ "spare": [
+  {
+   "subject": "Pando, Utah: one aspen clone, ~47,000 stems (trend backup reel built 2026-10-27 as out/2026-10-27/3_reel.mp4; moves here if today's 18:30 trend swap happens)",
+   "from": "2026-10-27"
+  }
+ ],
+ "language_check": "2026-10-27 09:10: all texts re-read sentence by sentence (section L); short spoken sentences, numbers in words in voice texts, NBSP inside numbers on images."
+}

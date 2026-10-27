@@ -54,6 +54,11 @@ Every text (caption, slide, reel beat, quiz, story, first comment) must read lik
   In the 2026-11-08 weekly review compare voiced vs silent: median reach, avg watch time (IGRE24), >3 s rate
   (IGRE28), shares, saves, follows; normalise for slot (13:00 vs 16:00 differ). If voiced clearly wins → voice on
   every reel; if it loses or is unclear → drop it or keep only where it wins. (26 Oct: 13:00/16:00/21:30 voiced.)
+- **VOICE EARLY-STOP RULE (2026-10-27):** first voiced day (26 Oct) looked weak — voiced reels 167 / 43 / 159 views
+  (>3 s: 26 %, 9 %, 62 %) vs silent reels 24–25 Oct median ~280 views; but 1 day, numbers <24 h old, and the shrimp
+  reel was copyright-blocked in Azerbaijan. On **Thu 29 Oct** (daily report) compare voiced vs silent reels from
+  27–28 Oct that are ≥ 24 h old: if voiced median views < 60 % of silent median AND voiced >3 s rate is lower,
+  STOP the voice from the next build (all reels silent, no AI label) and tell Gartal. Otherwise run the full test.
 - **VOICE NATURALNESS (Gartal 2026-10-26: Banu sounds obviously AI; keep a FEMALE voice, no human recording, fully automatic):**
   KEEP rate **+15%** (Gartal heard +0% vs +15% on 2026-10-26: no real difference → shorter reels win); in `voice_texts` write numbers OUT
   IN WORDS the way people say them ("iyirmi səkkiz metr", "min doqquz yüz on yeddinci ildə"), no "~", "°C", "%" or

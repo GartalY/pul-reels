@@ -35,3 +35,9 @@ section below.
 - Design-quality tools found here: **Impeccable** (pbakaus/impeccable, Apache-2.0) — design critique for HTML,
   commands like critique/polish/bolder/animate and 62 "AI-looking design" detector rules → run its rules on our
   HyperFrames HTML before rendering. UI UX Pro Max (MIT) — style database, lower priority.
+- Checked the other tools in that reel (2026-10-28): **OpenMontage** (calesthio/OpenMontage, AGPLv3 — fine for making
+  our videos) = full agentic video pipeline: script → free footage from Archive.org/NASA/Wikimedia → Remotion or
+  HyperFrames → word-level captions; has "start from a video you already love" (reference-driven). Needs those
+  footage sites reachable from the container (ask Gartal to allow domains if we adopt it). **Agent Reach**
+  (MIT) = read YouTube/Reddit/X/IG for trend research, but needs logins + site access → later, maybe on Gartal's laptop.
+  Taste / UI UX Pro Max = design rules (Impeccable is the one to use). Rest are coding tools — not for us.

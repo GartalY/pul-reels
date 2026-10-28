@@ -340,6 +340,10 @@ he worked in a factory" + the details. Slot: the **18:30 carousel**.
 - If the trend story breaks after 15:23, it can still go into tomorrow's 13:00 slot.
 
 ## P. Photos — Claude finds them himself (from 2026-10-16; Gartal only as a last resort)
+- **FACES BEAT SYMBOLS (Gartal, 2026-10-29):** if a story has a main person, the photo is THAT PERSON, not a flag,
+  building or logo. Example of the mistake: 28 Oct Türkiye Republic-eve reel used only the Turkish flag — it should
+  have been Mustafa Kemal Atatürk (public-domain portraits on Wikimedia Commons). Faces stop the scroll; symbols
+  don't. Symbols only when no person is central (e.g. a natural event), or as a 2nd photo.
 Order of sources:
 1. **Unsplash** connector (`search_photos`, short query). Results can be MISLABELED (an "Everest" search
    returned Mount Cook) — use only photos whose description/alt text names the subject AND that look right

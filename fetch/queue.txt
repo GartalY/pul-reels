@@ -226,3 +226,6 @@ search_1029_kleinrock.json https://commons.wikimedia.org/w/api.php?action=query&
 2026-10-29_4_uranus.jpg https://upload.wikimedia.org/wikipedia/commons/3/3d/Uranus2.jpg
 search_1029_konka3.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&iiurlwidth=1600&gsrsearch=%D0%BA%D0%BE%D0%BD%D0%BA%D0%B0+%D0%91%D0%B0%D0%BA%D1%83
 search_1029_konka4.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&iiurlwidth=1600&gsrsearch=Baku+tramway+horse+1890s
+2026-10-29_1_konka_e.jpg https://upload.wikimedia.org/wikipedia/commons/a/a0/First_Tram_in_Baku.jpg
+2026-10-29_1_konka_c.jpg https://upload.wikimedia.org/wikipedia/commons/e/ee/Konka-1891.jpg
+2026-10-29_1_konka_d.jpg https://upload.wikimedia.org/wikipedia/commons/4/4a/Konka1910.jpg

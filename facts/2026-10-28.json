@@ -374,6 +374,11 @@
   {
    "subject": "Pando, Utah: one aspen clone, ~47,000 stems (trend backup reel built 2026-10-27 as out/2026-10-27/3_reel.mp4; moves here if today's 18:30 trend swap happens)",
    "from": "2026-10-27"
+  },
+  {
+   "from": "2026-10-28 facts[2] (18:30 backup)",
+   "subject": "Iceland first mosquitoes",
+   "video": "out/2026-10-28/3_reel.mp4"
   }
  ],
  "language_check": "2026-10-27 09:10: all texts re-read sentence by sentence (section L); short spoken sentences, numbers in words in voice texts, NBSP inside numbers on images.",
@@ -470,7 +475,7 @@
    "Süfrə arxasında o, sakit bir cümlə dedi: «Sabah cümhuriyyət elan edəcəyik». Dostları dərhal razılaşdı.",
    "Ertəsi gün axşam 20:30-da məclisdə olan 158 deputatın hamısı «hə» dedi. Mustafa Kamal da 158 səslə ilk prezident seçildi. Bunu bilirdin?"
   ],
-  "caption": "103 il əvvəl bu axşam bir cümlə tarixi dəyişdi 🕰️\n\n1923-cü il 28 oktyabr axşamı Mustafa Kamal Ankarada, Çankaya köşkündə dostları ilə şam yeməyində idi. Orada dedi: «Sabah cümhuriyyət elan edəcəyik». Ertəsi gün, 29 oktyabrda axşam 20:30-da məclisdə olan 158 deputatın hamısı razılıq verdi. Elə həmin gün Mustafa Kamal 158 səslə Türkiyənin ilk prezidenti seçildi. Ankara isə cəmi 16 gün əvvəl hökumət mərkəzi olmuşdu. 1924-cü ildən bu gün 101 top atəşi ilə qeyd olunur. Sabah Türkiyədə Cümhuriyyət bayramıdır.\n\n📩 Türkiyə tarixini hamıdan yaxşı bildiyini deyən dostuna göndər — görək bunu bilirdi? 😄\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #tarix #türkiyə #ankara",
+  "caption": "103 il əvvəl bu axşam bir cümlə tarixi dəyişdi 🕰️\n\n1923-cü il 28 oktyabr axşamı Mustafa Kamal Ankarada, Çankaya köşkündə dostları ilə şam yeməyində idi. Orada dedi: «Sabah cümhuriyyət elan edəcəyik». Ertəsi gün, 29 oktyabrda axşam 20:30-da məclisdə olan 158 deputatın hamısı razılıq verdi. Elə həmin gün Mustafa Kamal 158 səslə Türkiyənin ilk prezidenti seçildi. Ankara isə cəmi 16 gün əvvəl hökumət mərkəzi olmuşdu. 1924-cü ildən bu gün 101 top atəşi ilə qeyd olunur. Sabah Türkiyədə Cümhuriyyət bayramıdır.\n\n📩 Türkiyə tarixini hamıdan yaxşı bildiyini deyən dostuna göndər — görək bunu bilirdi? 😄\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Adem Percem / Unsplash\n\n#bilirdinizmi #maraqlıfaktlar #tarix #türkiyə #ankara",
   "first_comment": "Sən Ankarada olmusan? 👇",
   "quizzes": [
    {
@@ -513,13 +518,25 @@
   "verify_note": "Dinner remark 28 Oct 1923 at Çankaya: TRT Haber + CNN Türk + Gazete Vatan + Ensonhaber (Nutuk). 20:30 + 158 of 158 present + president 158 votes: TRT Haber + CNN Türk (Ensonhaber/Vatan also give 158 for the presidential vote). 13 Oct 1923 seat of government (=16 days earlier): TRT Haber (CNN Türk says 'hükümet merkezi' too). 101 cannon shots since 26 Oct 1924 decree: TRT + CNN Türk. Neutral history only, no current Turkish politics. Ankara 1923 population left out (sources disagree: 21 446 vs ~35 000).",
   "picked": "2026-10-28 09:10 Baku: no single big breaking story for the AZ audience today (world headlines: Iran/Israel tensions, France protests, Venezuela — all war/tension or already covered; football trends used 22–27 Oct). Chose the Turkish Republic Day eve (tomorrow 29 Oct, 103 years; half-day holiday in Türkiye today) told through what happened on THIS evening in 1923 — Turkish link, neutral history, number-first.",
   "photo": {
-   "path": "fetch/img/2026-10-28_T_ataturk_b.png",
-   "credit": "Wikimedia Commons (ictimai mülkiyyət)",
-   "cy": 0.3,
+   "path": "fetch/img/2026-10-28_T_flag_pad.jpg",
+   "orig": "fetch/img/2026-10-28_T_flag.jpg",
+   "credit": "Foto: Adem Percem / Unsplash",
+   "cy": 0.2,
    "full": true,
-   "source": "https://commons.wikimedia.org/wiki/File:Mustafa_Kemal_Atat%C3%BCrk.png",
-   "alt": "fetch/img/2026-10-28_T_ataturk_a.jpg (Gazi Mustafa Kemal, İzmit, 18 Jan 1923, PD)"
-  }
+   "source": "https://unsplash.com/photos/Zmt6S1VqZug",
+   "note": "15:23 run: portrait photo of a real public figure not used; Turkish flag instead, sky padded on top so the gold hook is readable"
+  },
+  "video": "out/2026-10-28/T_reel.mp4",
+  "tiktok_caption": "103 il əvvəl bu axşam bir cümlə tarixi dəyişdi 🕰️\n\n1923-cü il 28 oktyabr axşamı Mustafa Kamal Ankarada, Çankaya köşkündə dostları ilə şam yeməyində idi. Orada dedi: «Sabah cümhuriyyət elan edəcəyik». Ertəsi gün, 29 oktyabrda axşam 20:30-da məclisdə olan 158 deputatın hamısı razılıq verdi. Elə həmin gün Mustafa Kamal 158 səslə Türkiyənin ilk prezidenti seçildi. Ankara isə cəmi 16 gün əvvəl hökumət mərkəzi olmuşdu. 1924-cü ildən bu gün 101 top atəşi ilə qeyd olunur. Sabah Türkiyədə Cümhuriyyət bayramıdır.\n\nSən Ankarada olmusan? 👇\n\n👉 Hər gün yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Adem Percem / Unsplash\n\n#bilirdinizmi #maraqlıfaktlar #tarix #türkiyə #ankara",
+  "youtube_text": "1923-cü il 28 oktyabr axşamı Mustafa Kamal Ankarada, Çankaya köşkündə dostları ilə şam yeməyində idi. Orada dedi: «Sabah cümhuriyyət elan edəcəyik». Ertəsi gün, 29 oktyabrda axşam 20:30-da məclisdə olan 158 deputatın hamısı razılıq verdi. Elə həmin gün Mustafa Kamal 158 səslə Türkiyənin ilk prezidenti seçildi. Ankara isə cəmi 16 gün əvvəl hökumət mərkəzi olmuşdu. 1924-cü ildən bu gün 101 top atəşi ilə qeyd olunur. Sabah Türkiyədə Cümhuriyyət bayramıdır.\n\nSən Ankarada olmusan? 👇\n\n👉 Hər gün yeni fakt — abunə ol ki, qaçırmayasan\n\nFoto: Adem Percem / Unsplash\n\n#bilirdinizmi #maraqlıfaktlar #tarix #türkiyə #shorts",
+  "tiktok_title": "103 il əvvəl bu axşam: «Sabah cümhuriyyət elan edirik»",
+  "youtube_title": "103 il əvvəl bu axşam: «Sabah cümhuriyyət elan edirik» 🇹🇷 #shorts"
  },
- "trend_check_morning": "2026-10-28 ~09:30 Baku: searched world/AZ/Türkiye news, sports, space, quakes. No breaking event that needs an immediate swap (minor regional quakes only; El Clásico 25 Oct and GS–FB 26 Oct already used). Trend = Turkish Republic Day eve story."
+ "trend_check_morning": "2026-10-28 ~09:30 Baku: searched world/AZ/Türkiye news, sports, space, quakes. No breaking event that needs an immediate swap (minor regional quakes only; El Clásico 25 Oct and GS–FB 26 Oct already used). Trend = Turkish Republic Day eve story.",
+ "trend_swap": {
+  "what": "18:30 Iceland mosquito backup reel -> Türkiye Republic Day eve 1923 trend REEL (silent, voiced false) on IG + TikTok + YouTube",
+  "why": "daily trend (section D v4): 29 Oct = 103rd Republic Day; this evening in 1923 the decision was announced",
+  "at": "2026-10-28 15:35 Baku",
+  "backup_moved": "Iceland mosquito reel (out/2026-10-28/3_reel.mp4) unused -> d['spare'] for a later day"
+ }
 }

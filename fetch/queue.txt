@@ -215,3 +215,14 @@ search_1029_tardi.json https://commons.wikimedia.org/w/api.php?action=query&form
 search_1029_uranus.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&iiurlwidth=1600&gsrsearch=Uranus+Voyager+2
 search_1029_arpanet.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&iiurlwidth=1600&gsrsearch=ARPANET+IMP
 search_1029_kleinrock.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&iiurlwidth=1600&gsrsearch=Kleinrock+IMP
+2026-10-28_T_ataturk_a.jpg https://upload.wikimedia.org/wikipedia/commons/b/be/Gazi_Mustafa_Kemal%2C_%C4%B0zmit%2C_18_Ocak_1923_%282%29.jpg
+2026-10-28_T_ataturk_b.png https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Mustafa_Kemal_Atat%C3%BCrk.png/1920px-Mustafa_Kemal_Atat%C3%BCrk.png
+2026-10-29_H_implog.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/The_IMP_Log_The_Very_First_Message_Sent_on_the_Internet_%286293913865%29.jpg/1920px-The_IMP_Log_The_Very_First_Message_Sent_on_the_Internet_%286293913865%29.jpg
+2026-10-29_H_sigma7.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/The_SDS_Sigma-7_The_First_Computer_to_be_Connected_to_the_Internet_%286294434636%29.jpg/1920px-The_SDS_Sigma-7_The_First_Computer_to_be_Connected_to_the_Internet_%286294434636%29.jpg
+2026-10-29_H_imp.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/ARPANET_first_router.jpg/1920px-ARPANET_first_router.jpg
+2026-10-29_1_konka_a.jpg https://upload.wikimedia.org/wikipedia/commons/1/1c/Konka_Baku.jpg
+2026-10-29_1_konka_b.jpg https://upload.wikimedia.org/wikipedia/commons/4/4a/%D0%91%D0%B0%D0%BA%D1%83._%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D1%8A.jpg
+2026-10-29_2_tardigrade.png https://upload.wikimedia.org/wikipedia/commons/c/cd/SEM_image_of_Milnesium_tardigradum_in_active_state_-_journal.pone.0045682.g001-2.png
+2026-10-29_4_uranus.jpg https://upload.wikimedia.org/wikipedia/commons/3/3d/Uranus2.jpg
+search_1029_konka3.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&iiurlwidth=1600&gsrsearch=%D0%BA%D0%BE%D0%BD%D0%BA%D0%B0+%D0%91%D0%B0%D0%BA%D1%83
+search_1029_konka4.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&iiurlwidth=1600&gsrsearch=Baku+tramway+horse+1890s

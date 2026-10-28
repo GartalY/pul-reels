@@ -36,6 +36,11 @@ Every text (caption, slide, reel beat, quiz, story, first comment) must read lik
 
 ## FORMAT v4 (from 2026-10-26; Gartal approved 2026-10-25 after the weekly review) — OVERRIDES v3 below
 5 posts a day = **4 reels + 1 carousel**, and **2 quiz stories** a day. Times unchanged.
+- **TOPIC WEIGHTING (2026-10-28, from 21–27 Oct data, all 3 platforms):** winners = Baku/Azerbaijan history you can
+  see (Şollar 1.8K, mud volcanoes 255 IG / 633 YT), space with a "wow" number (Neptune 2.1K, 18-h day 1.8K, Sun 154),
+  famous person + rags-to-riches (Osimhen 454). Losers = small body/biology facts (blood cells 60, bee 68) and
+  "on this day" carousels (35–59). Rule: at most 1 biology/body fact per 2 days and only with a striking visual; prefer
+  AZ-tangible, space, famous people, giant/record things. Re-check at the Sunday review.
 - 10:00 — "Tarixdə bu gün" CAROUSEL + 10:00 story (unchanged; the only carousel)
 - 13:00 — facts[0] AZ REEL · 16:00 — facts[1] REEL · 21:30 — facts[3] REEL (unchanged)
 - **18:30 — TREND REEL.** facts[2] (the evergreen backup) is now written and built as a REEL (`reel_hook` +

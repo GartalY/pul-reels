@@ -306,6 +306,20 @@ and use a strong surprising angle (a number, a "before he was famous", a history
   "critics say… / the government says…") and always giving BOTH/all sides. Never take a side, no opinions,
   no loaded words, no predictions, no mocking or praising anyone, no emoji that judge. Verify with 2+ reliable
   sources. Azerbaijani politics stays off-limits (section T).
+- **BIG NEWS FIRST (Gartal, 2026-10-29: "we are not following trends good enough").** Every trend check must first
+  look at the top world headlines of the last 24 h (Reuters/AP/BBC/Al Jazeera front pages + "today" searches), not
+  only niche/"on this day" items. If a big story dominates, it is the trend reel unless it breaks a rule here.
+- **TRAGEDIES (crashes, disasters, attacks):** allowed, but SOBER mode: no jokes, no "📩 send to a friend 😄", no
+  emoji except 🕯️, open the caption with condolences ("Həlak olanların yaxınlarına başsağlığı veririk"), only
+  numbers confirmed by 2+ major outlets and say "ən azı" (at least) + the time of the figure, never guess causes
+  (attribute: "araşdırma gedir / rəsmilərin sözünə görə"). Angle = useful context, not shock: e.g. how rare such
+  accidents are, safety statistics, what changed after past disasters. No photos of victims or wreckage close-ups;
+  use a neutral photo (the line, a station, a generic train). No follow CTA on this reel.
+- **29 Oct 2026 trend = Spain high-speed train crash (28 Oct, near Urda/Toledo, south of Madrid, at least 68 dead per
+  CNN/CBS/Al Jazeera/Euronews on 28 Oct; cause under investigation).** Second deadly Spanish high-speed crash of
+  2026 (Adamuz, Córdoba, 18 Jan, ~40+ dead). Angle: "Spain had one of Europe's safest high-speed networks — what
+  happened this year" + rail-vs-road safety per km (find a reliable EU source, e.g. Eurostat/ERA). Re-check the
+  death toll at build time. Swap into 18:30 on IG, TikTok and YouTube (one post each, check for duplicates).
 At least one post per day is about something people are talking about TODAY, told as a richer story
 (3–4+ sentences / 3–4 detail slides). Example of the style: a footballer in the news → "before he was famous,
 he worked in a factory" + the details. Slot: the **18:30 carousel**.

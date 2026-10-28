@@ -22,3 +22,16 @@ section below.
 ## 2026-10-28 — weblabai ("5 Claude skills for video", 17.2K saves)
 - List of useful things = massive saves. Format idea: "Bakıda X yer ki…", numbered 1–5 with chips at the top.
 - Tools: HyperFrames (Apache-2.0) and Lemo-Opuscar (MIT) → use for animation. NOT onetake (non-commercial).
+
+## 2026-10-28 — "30 best Claude plugins" (white UI-card carousel)
+- White background, soft shadows, one card in focus in the centre, neighbours faded above/below (vertical carousel).
+- Colour per chapter (green / blue / orange / purple / pink): chip at top "• Research and **understanding**" with
+  the keyword in the chapter colour; segmented progress bar at the bottom in the same colours + "12/30" counter.
+- Big chapter title "02 / 05" + two-line headline, second line coloured.
+- Opens with the whole grid of 30 icons (promise of everything), ends by returning to the grid → "pick one row".
+- Ending CTA: **"Comment PLUGINS and I'll send you all 30 links"** → comment-for-DM = comments explode.
+  Our version: "Şərhə BAKI yaz — siyahını sənə göndərim" (only if we can actually reply; Metricool can't auto-DM, so
+  use sparingly or answer manually).
+- Design-quality tools found here: **Impeccable** (pbakaus/impeccable, Apache-2.0) — design critique for HTML,
+  commands like critique/polish/bolder/animate and 62 "AI-looking design" detector rules → run its rules on our
+  HyperFrames HTML before rendering. UI UX Pro Max (MIT) — style database, lower priority.

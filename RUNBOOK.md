@@ -36,6 +36,7 @@ Every text (caption, slide, reel beat, quiz, story, first comment) must read lik
 
 ## FORMAT v4 (from 2026-10-26; Gartal approved 2026-10-25 after the weekly review) — OVERRIDES v3 below
 5 posts a day = **4 reels + 1 carousel**, and **2 quiz stories** a day. Times unchanged.
+- **PRIORITY (Gartal, 2026-10-28):** facts and writing are good; DESIGN and ANIMATION are the weak part. Plan: Sat 31 Oct night test (HyperFrames/Opuscar) → Gartal feedback → week of 2 Nov: daily reel template v6 with real motion (kinetic text, maps, data cards) on 1 reel/day, compare views vs the static template → roll out if better.
 - **STYLE REFERENCES:** before building any animation or new format, read `brand/STYLE_REFERENCES.md` (lessons from reels Gartal sends; add new ones there).
 - **TOPIC WEIGHTING (2026-10-28, from 21–27 Oct data, all 3 platforms):** winners = Baku/Azerbaijan history you can
   see (Şollar 1.8K, mud volcanoes 255 IG / 633 YT), space with a "wow" number (Neptune 2.1K, 18-h day 1.8K, Sun 154),

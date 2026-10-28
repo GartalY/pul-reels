@@ -1,6 +1,6 @@
 {
  "date": "2026-10-29",
- "status": "planned",
+ "status": "scheduled",
  "format": "v2",
  "content_format": "v4",
  "planned_note": "Planned in the 2026-10-28 09:10 run (format v4). 10:00 TBG carousel = first ARPANET message 'LO' (29 Oct 1969, 57 years). 13:00 AZ reel (VOICED): Baku horse tram (konka) 1889, 2 horses, 5 kopeks. 16:00 reel (SILENT): tardigrades survived 10 days in open space (FOTON-M3, 2007). 18:30 trend backup reel (SILENT): Pando 47 000 stems (re-used, never posted). 21:30 reel (VOICED): Uranus 42 years of daylight then 42 of night. Thu = not a two-part day (Wed+Sat). All photos fetched and checked.",
@@ -426,5 +426,34 @@
    "recall quiz: Iceland mosquito fact (28 Oct backup, never posted) marked unposted in db.json; recall re-picked (cell renewal)"
   ]
  },
- "trend_check_evening": "2026-10-28 ~20:50 Baku: news searches (AZ news, world news, breaking 28 Oct) showed nothing big for the AZ audience that needs a swap; Turkish Republic Day (29 Oct) already covered by today's 18:30 trend reel. No change to the 29 Oct plan; the 09:10 run picks the 18:30 trend."
+ "trend_check_evening": "2026-10-28 ~20:50 Baku: news searches (AZ news, world news, breaking 28 Oct) showed nothing big for the AZ audience that needs a swap; Turkish Republic Day (29 Oct) already covered by today's 18:30 trend reel. No change to the 29 Oct plan; the 09:10 run picks the 18:30 trend.",
+ "metricool": {
+  "10:00 tarixdə bu gün carousel (ARPANET LO 1969)": 409195336,
+  "13:00 reel (Baku konka, voiced)": 409195785,
+  "16:00 reel (tardigrades, silent)": 409195827,
+  "18:30 reel (Pando backup, silent; trend swap possible at 15:23)": 409195875,
+  "21:30 reel (Uranus 42 years, voiced)": 409195899,
+  "10:00 tarixdə bu gün story": 409196074,
+  "11:00 quiz q1 (recall cell renewal)": 409196114,
+  "11:10 answer a1": 409196136,
+  "14:00 quiz q2 (konka)": 409196157,
+  "14:10 answer a2": 409196184
+ },
+ "tiktok": {
+  "11:00 REPOST 18-hour day (scheduled 27 Oct)": 407676411,
+  "13:00 konka": 409196797,
+  "16:00 tardigrades": 409196829,
+  "18:30 Pando (trend swap possible)": 409196861,
+  "19:45 REPOST Otzi 61 tattoos (2026-10-25 n4, safe layout)": 409196917,
+  "21:30 Uranus": 409196885
+ },
+ "youtube": {
+  "11:00 REPOST 18-hour day (scheduled 27 Oct)": 407676619,
+  "13:00 konka": 409197381,
+  "16:00 tardigrades": 409197403,
+  "18:30 Pando (trend swap possible)": 409197429,
+  "19:45 REPOST Otzi": 409197480,
+  "21:30 Uranus": 409197443
+ },
+ "scheduled_check": "2026-10-28 ~21:06 Baku: getScheduledPosts for 29 Oct = 22 posts (IG 5 posts + 5 stories, TikTok 6, YouTube 6), no duplicates."
 }

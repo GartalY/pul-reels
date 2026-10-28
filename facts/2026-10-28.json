@@ -420,29 +420,29 @@
   "10:00 tarixdə bu gün carousel (Statue of Liberty 1886)": 408057653,
   "13:00 reel (boulevard soil, voiced)": 408057704,
   "16:00 reel (bar-headed geese 7 290 m, silent)": 408057734,
-  "18:30 trend-backup reel (Iceland mosquitoes, silent)": 408057759,
   "21:30 reel (Caspian 40%, voiced)": 408057797,
   "10:00 tarixdə bu gün story": 408059380,
   "11:00 quiz q1 (recall Sun mass loss)": 408059408,
   "11:10 answer a1": 408059438,
   "14:00 quiz q2 (boulevard soil)": 408059466,
-  "14:10 answer a2": 408059509
+  "14:10 answer a2": 408059509,
+  "18:30 TREND reel (Republic Day eve 1923, silent) [was 408057759]": 408837540
  },
  "tiktok": {
   "11:00 REPOST Sollar (scheduled 27 Oct)": 407676293,
   "13:00 boulevard": 408058371,
   "16:00 geese": 408058402,
-  "18:30 Iceland": 408058483,
   "19:45 REPOST blue whale heart (2026-10-24 n4, safe layout)": 408058535,
-  "21:30 Caspian": 408058507
+  "21:30 Caspian": 408058507,
+  "18:30 TREND Republic Day eve 1923 [was 408058483]": 408837565
  },
  "youtube": {
   "11:00 REPOST Sollar (scheduled 27 Oct)": 407676509,
   "13:00 boulevard": 408059057,
   "16:00 geese": 408059082,
-  "18:30 Iceland": 408059107,
   "19:45 REPOST blue whale heart": 408059148,
-  "21:30 Caspian": 408059130
+  "21:30 Caspian": 408059130,
+  "18:30 TREND Republic Day eve 1923 [was 408059107]": 408837583
  },
  "built": {
   "when": "2026-10-27 ~20:55 Asia/Baku",
@@ -537,6 +537,7 @@
   "what": "18:30 Iceland mosquito backup reel -> Türkiye Republic Day eve 1923 trend REEL (silent, voiced false) on IG + TikTok + YouTube",
   "why": "daily trend (section D v4): 29 Oct = 103rd Republic Day; this evening in 1923 the decision was announced",
   "at": "2026-10-28 15:35 Baku",
-  "backup_moved": "Iceland mosquito reel (out/2026-10-28/3_reel.mp4) unused -> d['spare'] for a later day"
+  "backup_moved": "Iceland mosquito reel (out/2026-10-28/3_reel.mp4) unused -> d['spare'] for a later day",
+  "quiz_note": "v4: no 19:30/19:40 trend quiz stories on this day, nothing to re-render"
  }
 }

@@ -453,5 +453,73 @@
  },
  "quiz_note": "Recall pool fix: 2026-10-27-3 Pando (never posted, swapped for the Osimhen trend) marked unposted in db.json; recall re-picked = Sun mass loss (27 Oct 21:30 reel).",
  "two_part": "Skipped on Wed 28 Oct: the day was planned at 09:29 on 27 Oct, before the two-part rule (09:50), and none of the planned facts has a genuine second half — no fake cliffhanger. First two-part story: Sat 31 Oct (planned in the 30 Oct 09:10 run).",
- "trend_check_evening": "2026-10-27 ~20:50 Baku: news searches (AZ news, world news, breaking 27 Oct) showed nothing big for the AZ audience beyond the GS–FB derby already used today; no swap of the 28 Oct plan. The 09:10 run picks the 18:30 trend (Iceland mosquitoes backup reel ready)."
+ "trend_check_evening": "2026-10-27 ~20:50 Baku: news searches (AZ news, world news, breaking 27 Oct) showed nothing big for the AZ audience beyond the GS–FB derby already used today; no swap of the 28 Oct plan. The 09:10 run picks the 18:30 trend (Iceland mosquitoes backup reel ready).",
+ "trend": {
+  "n": 3,
+  "type": "reel",
+  "format": "v4",
+  "cat": "Tarix",
+  "voiced": false,
+  "subject": "Proclamation of the Republic of Türkiye: on the evening of 28 Oct 1923 at a dinner at Çankaya Köşkü (Ankara) Mustafa Kemal told his guests 'Yarın Cumhuriyet ilan edeceğiz' (Nutuk; TRT Haber, CNN Türk, Gazete Vatan, Ensonhaber). 29 Oct 1923, 20:30: the constitutional amendment was accepted by all 158 deputies present; Mustafa Kemal was then elected first president by secret ballot with 158 votes (TRT Haber, CNN Türk). Ankara became seat of government on 13 Oct 1923 (TRT Haber). Decree of 26 Oct 1924: anniversary marked with 101 cannon shots (TRT Haber, CNN Türk). 29 Oct 2026 = 103rd Republic Day; 28 Oct afternoon is a half-day holiday in Türkiye (CNN Türk, Gazete Vatan).",
+  "photo_request": "Mustafa Kemal 1923 portrait, public domain (Commons)",
+  "title": "103 il əvvəl bu axşam: «Sabah cümhuriyyət elan edirik»",
+  "text": "1923-cü il 28 oktyabr axşamı Mustafa Kamal şam yeməyində dedi: «Sabah cümhuriyyət elan edəcəyik». Ertəsi gün məclisdəki 158 deputatın hamısı «hə» dedi.",
+  "reel_hook": "103 İL ƏVVƏL BU AXŞAM: «SABAH CÜMHURİYYƏT ELAN EDİRİK»",
+  "reel_beats": [
+   "1923-cü il, 28 oktyabr axşamı. Mustafa Kamal Ankarada, Çankaya köşkündə yaxın dostlarını şam yeməyinə çağırmışdı.",
+   "Süfrə arxasında o, sakit bir cümlə dedi: «Sabah cümhuriyyət elan edəcəyik». Dostları dərhal razılaşdı.",
+   "Ertəsi gün axşam 20:30-da məclisdə olan 158 deputatın hamısı «hə» dedi. Mustafa Kamal da 158 səslə ilk prezident seçildi. Bunu bilirdin?"
+  ],
+  "caption": "103 il əvvəl bu axşam bir cümlə tarixi dəyişdi 🕰️\n\n1923-cü il 28 oktyabr axşamı Mustafa Kamal Ankarada, Çankaya köşkündə dostları ilə şam yeməyində idi. Orada dedi: «Sabah cümhuriyyət elan edəcəyik». Ertəsi gün, 29 oktyabrda axşam 20:30-da məclisdə olan 158 deputatın hamısı razılıq verdi. Elə həmin gün Mustafa Kamal 158 səslə Türkiyənin ilk prezidenti seçildi. Ankara isə cəmi 16 gün əvvəl hökumət mərkəzi olmuşdu. 1924-cü ildən bu gün 101 top atəşi ilə qeyd olunur. Sabah Türkiyədə Cümhuriyyət bayramıdır.\n\n📩 Türkiyə tarixini hamıdan yaxşı bildiyini deyən dostuna göndər — görək bunu bilirdi? 😄\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #tarix #türkiyə #ankara",
+  "first_comment": "Sən Ankarada olmusan? 👇",
+  "quizzes": [
+   {
+    "q": "1923-cü ildə cümhuriyyətə neçə deputat «hə» dedi?",
+    "options": [
+     "58",
+     "158",
+     "358"
+    ],
+    "answer": "158",
+    "why": "Məclisdə olan deputatların hamısı."
+   },
+   {
+    "q": "Cümhuriyyət 29 oktyabrda saat neçədə elan edildi?",
+    "options": [
+     "Səhər 08:30",
+     "Günorta 12:30",
+     "Axşam 20:30"
+    ],
+    "answer": "Axşam 20:30",
+    "why": "Bir gün əvvəl şam yeməyində qərar verilmişdi."
+   },
+   {
+    "q": "«Sabah cümhuriyyət elan edəcəyik» cümləsi harada deyildi?",
+    "options": [
+     "Şam yeməyində",
+     "Meydanda",
+     "Qatarda"
+    ],
+    "answer": "Şam yeməyində",
+    "why": "Ankarada, Çankaya köşkündə."
+   }
+  ],
+  "sources": [
+   "https://www.trthaber.com/haber/gundem/turkiye-cumhuriyeti-99-yasinda-719704.html",
+   "https://www.cnnturk.com/turkiye/turkiye-cumhuriyeti-102-yasinda-2353330",
+   "https://www.gazetevatan.com/gundem/efendiler-yarin-cumhuriyeti-ilan-edecegiz-konusmasi-hikayesi-efendiler-yarin-cumhuriyeti-ilan-edecegiz-sozu-kime-aittir-ne-zaman-soylendi-2116677",
+   "https://www.ensonhaber.com/gundem/ataturkun-yarin-cumhuriyet-ilan-edecegiz-sozunun-hikayesi"
+  ],
+  "verify_note": "Dinner remark 28 Oct 1923 at Çankaya: TRT Haber + CNN Türk + Gazete Vatan + Ensonhaber (Nutuk). 20:30 + 158 of 158 present + president 158 votes: TRT Haber + CNN Türk (Ensonhaber/Vatan also give 158 for the presidential vote). 13 Oct 1923 seat of government (=16 days earlier): TRT Haber (CNN Türk says 'hükümet merkezi' too). 101 cannon shots since 26 Oct 1924 decree: TRT + CNN Türk. Neutral history only, no current Turkish politics. Ankara 1923 population left out (sources disagree: 21 446 vs ~35 000).",
+  "picked": "2026-10-28 09:10 Baku: no single big breaking story for the AZ audience today (world headlines: Iran/Israel tensions, France protests, Venezuela — all war/tension or already covered; football trends used 22–27 Oct). Chose the Turkish Republic Day eve (tomorrow 29 Oct, 103 years; half-day holiday in Türkiye today) told through what happened on THIS evening in 1923 — Turkish link, neutral history, number-first.",
+  "photo": {
+   "path": "fetch/img/2026-10-28_T_ataturk_b.png",
+   "credit": "Wikimedia Commons (ictimai mülkiyyət)",
+   "cy": 0.3,
+   "full": true,
+   "source": "https://commons.wikimedia.org/wiki/File:Mustafa_Kemal_Atat%C3%BCrk.png",
+   "alt": "fetch/img/2026-10-28_T_ataturk_a.jpg (Gazi Mustafa Kemal, İzmit, 18 Jan 1923, PD)"
+  }
+ },
+ "trend_check_morning": "2026-10-28 ~09:30 Baku: searched world/AZ/Türkiye news, sports, space, quakes. No breaking event that needs an immediate swap (minor regional quakes only; El Clásico 25 Oct and GS–FB 26 Oct already used). Trend = Turkish Republic Day eve story."
 }

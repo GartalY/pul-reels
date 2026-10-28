@@ -1,0 +1,379 @@
+{
+ "date": "2026-10-29",
+ "status": "planned",
+ "format": "v2",
+ "content_format": "v4",
+ "planned_note": "Planned in the 2026-10-28 09:10 run (format v4). 10:00 TBG carousel = first ARPANET message 'LO' (29 Oct 1969, 57 years). 13:00 AZ reel (VOICED): Baku horse tram (konka) 1889, 2 horses, 5 kopeks. 16:00 reel (SILENT): tardigrades survived 10 days in open space (FOTON-M3, 2007). 18:30 trend backup reel (SILENT): Pando 47 000 stems (re-used, never posted). 21:30 reel (VOICED): Uranus 42 years of daylight then 42 of night. Thu = not a two-part day (Wed+Sat). All photos fetched and checked.",
+ "history": {
+  "n": "H",
+  "type": "card",
+  "cat": "Tarix",
+  "day": 29,
+  "month": 10,
+  "year": 1969,
+  "subject": "First message over ARPANET: 29 Oct 1969 ~22:30 Pacific, UCLA Boelter Hall room 3420 (Kleinrock's lab), student programmer Charley Kline tried to type 'login' to Bill Duvall's SDS 940 at Stanford Research Institute (~350 mi / ~500 km away); only 'lo' arrived before the system crashed; about an hour later the full login worked; logged in the IMP log as '22:30 Talked to SRI host to host' (UCLA Samueli; historyofinformation.com; Wikipedia Kleinrock).",
+  "photo_request": "IMP / IMP log (Commons)",
+  "card_title": "29 OKTYABR 1969",
+  "title": "İnternetdə ilk mesaj cəmi 2 hərf idi",
+  "text": "1969-cu il 29 oktyabrda bir kompüter digərinə «LOGIN» sözünü göndərməli idi. Cəmi 2 hərf — «LO» çatdı, sonra sistem çökdü.",
+  "cover": {
+   "hook": "İnternetdə ilk mesaj cəmi 2 hərf idi",
+   "sub": "29 oktyabr 1969 · 57 il əvvəl bu gün"
+  },
+  "slides": [
+   {
+    "h": "22:30",
+    "t": "1969-cu il 29 oktyabr, axşam. Kaliforniya Universitetində tələbə Çarli Klayn kompüterdə «LOGIN» sözünü yazmağa başladı."
+   },
+   {
+    "h": "500 km",
+    "t": "Söz təxminən 500 km uzaqdakı Stenford Tədqiqat İnstitutuna getməli idi. Bu şəbəkənin adı ARPANET idi. Bugünkü internet ondan yaranıb."
+   },
+   {
+    "h": "«LO»",
+    "t": "İlk iki hərf — L və O çatdı, sonra sistem çökdü. Beləliklə, şəbəkə ilə gedən ilk mesaj «LO» oldu."
+   },
+   {
+    "h": "1 saat",
+    "t": "Təxminən bir saat sonra xətanı düzəltdilər və bütün söz çatdı. Bu anı adi bir jurnal dəftərinə əllə yazdılar."
+   }
+  ],
+  "caption": "İnternetdə ilk mesaj cəmi 2 hərf idi 💻\n\n1969-cu il 29 oktyabr axşamı Kaliforniya Universitetində tələbə Çarli Klayn kompüterdə «LOGIN» sözünü yazdı. Söz təxminən 500 km uzaqdakı Stenford Tədqiqat İnstitutuna getməli idi. Amma cəmi iki hərf — «LO» çatdı və sistem çökdü. Bir saat sonra xəta düzəldi və bütün söz getdi. Bu ARPANET şəbəkəsi idi — bugünkü internetin başlanğıcı.\n\n📩 Mesajı yarımçıq göndərib «bir dəqiqə» yazan dostuna göndər — tarixdə ilk bunu edən o deyil 😄\n\nFoto: Steve Jurvetson / Wikimedia Commons (CC BY 2.0)\n\n#bilirdinizmi #maraqlıfaktlar #tarixdəbugün #internet #kompüter",
+  "first_comment": "Sənin ilk telefonun hansı idi? 👇",
+  "quizzes": [
+   {
+    "q": "İnternetdən gedən ilk mesaj nə idi?",
+    "options": [
+     "LO",
+     "HI",
+     "OK"
+    ],
+    "answer": "LO",
+    "why": "«LOGIN» yazılırdı, amma 2 hərfdən sonra sistem çökdü."
+   },
+   {
+    "q": "İlk mesaj hansı ildə göndərilib?",
+    "options": [
+     "1959",
+     "1969",
+     "1979"
+    ],
+    "answer": "1969",
+    "why": "29 oktyabr, axşam saat 22:30-da."
+   },
+   {
+    "q": "Mesaj təxminən nə qədər uzağa gedirdi?",
+    "options": [
+     "5 km",
+     "500 km",
+     "5 000 km"
+    ],
+    "answer": "500 km",
+    "why": "Kaliforniya Universitetindən Stenford Tədqiqat İnstitutuna."
+   }
+  ],
+  "sources": [
+   "https://samueli.ucla.edu/internet50-press/",
+   "https://www.historyofinformation.com/detail.php?entryid=1108",
+   "https://en.wikipedia.org/wiki/Leonard_Kleinrock"
+  ],
+  "verify_note": "Date, ~22:30, Kline, 'login' -> 'lo' then crash, SRI: UCLA Samueli + historyofinformation.com. ~350 miles (~500 km): UCLA Samueli. Full login about an hour later: historyofinformation.com (citing Wikipedia). IMP log handwritten entry: photo of the log (Commons). Not a round anniversary (57).",
+  "photo": {
+   "path": "fetch/img/2026-10-29_H_imp.jpg",
+   "credit": "Steve Jurvetson / Wikimedia Commons (CC BY 2.0)",
+   "cy": 0.4,
+   "full": true,
+   "source": "https://commons.wikimedia.org/wiki/File:ARPANET_first_router.jpg",
+   "slides": [
+    "fetch/img/2026-10-29_H_implog.jpg",
+    "fetch/img/2026-10-29_H_sigma7.jpg"
+   ],
+   "slide_credits": "IMP log + SDS Sigma 7: Andrew 'FastLizard4' Adams / Wikimedia Commons (CC BY-SA 2.0) — add to caption credit if used",
+   "alt": "cover = the first IMP (Interface Message Processor), UCLA"
+  }
+ },
+ "facts": [
+  {
+   "n": 1,
+   "type": "reel",
+   "cat": "Azərbaycan",
+   "voiced": true,
+   "subject": "Baku horse tram (konka): company founded Nov 1887, service opened 7 (19) Apr 1889; each car pulled by 2 horses, a 3rd added on hills; fare 5 kopeks on new cars, 3 on old/summer/roof seats, children under 5 free; 9.9 million passengers in 1920; horse trams ran until 1 Oct 1923; electric tram opened 8 Feb 1924; Baku trams ended Jan 2004 (National Archives of Azerbaijan; Wikipedia 'Trams in Baku').",
+   "photo_request": "Baku konka photo (Commons, PD)",
+   "title": "1889: Bakıda tramvayı 2 at çəkirdi",
+   "text": "1889-cu ildə Bakıda ilk tramvay işə düşdü, amma onu atlar çəkirdi. Gediş haqqı 5 qəpik idi.",
+   "reel_hook": "1889: BAKIDA TRAMVAYI 2 AT ÇƏKİRDİ",
+   "reel_beats": [
+    "1889-cu ilin aprelində Bakıda konka işə düşdü. Bu, relslə gedən tramvay idi, amma onu atlar çəkirdi.",
+    "Hər vaqonu iki at çəkirdi, yoxuşda üçüncü atı da qoşurdular. Gediş 5 qəpik idi, balaca uşaqlar pulsuz gedirdi.",
+    "Atlı tramvay 1923-cü ilə qədər işlədi. 1924-cü ildə isə Bakıda ilk elektrik tramvayı yola düşdü. Bunu bilirdin?"
+   ],
+   "voice": {
+    "voice": "az-AZ-BanuNeural",
+    "rate": "+15%",
+    "texts": [
+     "Min səkkiz yüz səksən doqquzuncu il. Bakıda tramvayı iki at çəkirdi.",
+     "Min səkkiz yüz səksən doqquzuncu ilin aprelində Bakıda konka işə düşdü. Bu, relslə gedən tramvay idi, amma onu atlar çəkirdi.",
+     "Hər vaqonu iki at çəkirdi, yoxuşda üçüncü atı da qoşurdular. Gediş beş qəpik idi, balaca uşaqlar pulsuz gedirdi.",
+     "Atlı tramvay min doqquz yüz iyirmi üçüncü ilə qədər işlədi. Min doqquz yüz iyirmi dördüncü ildə isə Bakıda ilk elektrik tramvayı yola düşdü. Bunu bilirdin?"
+    ]
+   },
+   "cta": "Hər gün 13:00-da yeni Bakı faktı — izlə!",
+   "caption": "Bakıda tramvayı atlar çəkirdi 🐴\n\n1889-cu il aprelin 7-də Bakıda konka — atlı tramvay işə düşdü. Vaqonu iki at çəkirdi, yoxuşda isə üçüncü atı da qoşurdular. Yeni vaqonda gediş 5 qəpik, köhnə və yay vaqonlarında 3 qəpik idi, 5 yaşa qədər uşaqlar isə pulsuz gedirdi. 1920-ci ildə konka 9,9 milyon sərnişin daşıdı. Atlı tramvay 1923-cü ilin oktyabrına qədər işlədi, 1924-cü il fevralın 8-də isə ilk elektrik tramvayı yola düşdü. Bakı tramvayı 2004-cü ildə tam dayandı.\n\n📩 Hər gün «tıxac var, gecikirəm» yazan dostuna göndər — qoy bilsin, 1889-da da yol atla gedirdi 😄\n\n👉 Hər gün 13:00-da Azərbaycan haqqında bilmədiyin bir fakt — izlə ki, qaçırmayasan\n\nFoto: Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #bakı #tramvay #tarix",
+   "first_comment": "Sən Bakıda tramvaya minmisən? 👇",
+   "quizzes": [
+    {
+     "q": "Bakıda konka hansı ildə işə düşdü?",
+     "options": [
+      "1869",
+      "1889",
+      "1909"
+     ],
+     "answer": "1889",
+     "why": "Aprelin 7-də."
+    },
+    {
+     "q": "Konkada yeni vaqonla gediş neçə qəpik idi?",
+     "options": [
+      "1 qəpik",
+      "5 qəpik",
+      "50 qəpik"
+     ],
+     "answer": "5 qəpik",
+     "why": "Köhnə və yay vaqonlarında 3 qəpik idi."
+    },
+    {
+     "q": "Bakıda ilk elektrik tramvayı nə vaxt yola düşdü?",
+     "options": [
+      "1904",
+      "1924",
+      "1944"
+     ],
+     "answer": "1924",
+     "why": "Fevralın 8-də."
+    }
+   ],
+   "sources": [
+    "https://milliarxiv.gov.az/en/from-horse-trams-to-rolley-cars-in-old-baku-",
+    "https://en.wikipedia.org/wiki/Trams_in_Baku"
+   ],
+   "verify_note": "7 Apr 1889 opening, horse trams until 1 Oct 1923, electric tram 8 Feb 1924: National Archives of Azerbaijan + Wikipedia (both). 2 horses + 3rd on hills, 5/3 kopeks, under-5 free, 9.9 m passengers 1920: National Archives. Trams ended Jan 2004: Wikipedia. Steam tram 1889–c.1894 (Wikipedia) not mentioned. 'Balaca uşaqlar' = under 5 (caption precise).",
+   "photo": {
+    "path": "fetch/img/2026-10-29_1_konka_a.jpg",
+    "credit": "Wikimedia Commons (ictimai mülkiyyət)",
+    "cy": 0.55,
+    "full": false,
+    "source": "https://commons.wikimedia.org/wiki/File:Konka_Baku.jpg",
+    "alt": "fetch/img/2026-10-29_1_konka_b.jpg (colour postcard of a Baku street with a horse tram, PD; crop the 'Российская империя' text at the bottom)",
+    "note": "low-res 700x533 B&W: two horses pulling a 'Вокзалъ–Баиловъ' car"
+   }
+  },
+  {
+   "n": 2,
+   "type": "reel",
+   "cat": "Elm",
+   "voiced": false,
+   "subject": "TARDIS experiment (ESA FOTON-M3, Sept 2007, Jönsson, Kristianstad Univ., Current Biology Sept 2008): dried (tun state) tardigrades Richtersius coronifer and Milnesium tardigradum, adults and eggs, 10 days in low Earth orbit (258–281 km) exposed to space vacuum and cosmic radiation; vacuum-only group mostly survived like Earth controls; with full solar UV (~1,000× Earth surface, >7,000 kJ/m²) most died but some survived; survivors laid eggs that hatched normally. First animals known to survive open space. Tardigrades up to 1.5 mm (NatGeo Phenomena; CORDIS).",
+   "photo_request": "Tardigrade SEM (Commons)",
+   "title": "10 gün açıq kosmosda qalıb sağ qayıtdılar",
+   "text": "2007-ci ildə su ayıları adlanan kiçik canlılar 10 gün açıq kosmosda qaldı. Yerə qayıdanda çoxu yenidən canlandı.",
+   "reel_hook": "10 GÜN AÇIQ KOSMOSDA QALIB SAĞ QAYITDILAR",
+   "reel_beats": [
+    "2007-ci ildə alimlər su ayılarını kosmosa göndərdilər. Bu canlıların boyu 1,5 millimetrdən azdır. Onlar 10 gün peykin üstündə, açıq kosmosda qaldı.",
+    "Uçuşdan əvvəl onları qurutmuşdular. Su ayısı belə vaxtda büzülüb, sanki yuxuya gedir. Yerdə onlara su verdilər və çoxu yenidən hərəkət etdi.",
+    "Hətta Günəşin güclü şüasına tuş gələnlərin bəziləri sağ qaldı. Sonra onlar yumurta qoydular və balaları normal çıxdı. Bunu bilirdin?"
+   ],
+   "caption": "Bu canlılar 10 gün açıq kosmosda qalıb sağ qayıtdı 🚀\n\n2007-ci ilin sentyabrında Avropa Kosmik Agentliyinin təcrübəsində su ayıları — tardiqradlar Yer ətrafına uçdu. Onlar 260–280 km hündürlükdə, 10 gün kosmosun boşluğunda qaldılar. Uçuşdan əvvəl qurudulmuşdular. Yerdə su verəndən sonra boşluqda qalanların çoxu dirildi. Günəşin ultrabənövşəyi şüası onların çoxunu öldürdü, amma bəziləri yenə sağ qaldı və sonra yumurta qoydu. Bu, açıq kosmosda sağ qalan ilk heyvanlardır.\n\n📩 Səhər oyana bilməyən dostuna göndər — su ayısı kosmosdan sonra da oyanır 😄\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Schokraie E. və b. / Wikimedia Commons (CC BY 2.5)\n\n#bilirdinizmi #maraqlıfaktlar #elm #kosmos #heyvanlar",
+   "first_comment": "Sən kosmosa getmək istərdin? 👇",
+   "quizzes": [
+    {
+     "q": "Su ayıları açıq kosmosda neçə gün qaldı?",
+     "options": [
+      "1 gün",
+      "10 gün",
+      "100 gün"
+     ],
+     "answer": "10 gün",
+     "why": "2007-ci ildə, Yer ətrafında peykin üstündə."
+    },
+    {
+     "q": "Uçuşdan əvvəl su ayılarına nə etdilər?",
+     "options": [
+      "Qurutdular",
+      "Dondurdular",
+      "Yedizdirdilər"
+     ],
+     "answer": "Qurutdular",
+     "why": "Bu halda onlar sanki yuxuya gedir."
+    },
+    {
+     "q": "Su ayısının boyu təxminən nə qədərdir?",
+     "options": [
+      "1,5 millimetr",
+      "1,5 santimetr",
+      "15 santimetr"
+     ],
+     "answer": "1,5 millimetr",
+     "why": "Onları yalnız mikroskopla yaxşı görmək olur."
+    }
+   ],
+   "sources": [
+    "https://www.nationalgeographic.com/science/phenomena/2008/09/08/tardigrades-become-first-animals-to-survive-vacuum-of-space/",
+    "https://cordis.europa.eu/article/id/29839-water-bears-survive-space-environment-study-shows",
+    "https://www.sciencedaily.com/releases/2008/09/080908135906.htm"
+   ],
+   "verify_note": "Sept 2007, FOTON-M3 (ESA), 10 days, 258–281 km (caption 260–280), dried tun state, vacuum group mostly survived, UV killed most but some survived, eggs/offspring: NatGeo Phenomena + CORDIS (both). Up to 1.5 mm: CORDIS ('boyu 1,5 millimetrdən azdır' ok as 'up to'). 'First animals to survive open space': NatGeo headline. Photo species Milnesium tardigradum was one of the two flown species.",
+   "photo": {
+    "path": "fetch/img/2026-10-29_2_tardigrade.png",
+    "credit": "Schokraie E. və b. / Wikimedia Commons (CC BY 2.5)",
+    "cy": 0.5,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:SEM_image_of_Milnesium_tardigradum_in_active_state_-_journal.pone.0045682.g001-2.png",
+    "note": "SEM image (grey on light background), RGBA png"
+   }
+  },
+  {
+   "n": 3,
+   "type": "reel",
+   "cat": "Təbiət",
+   "voiced": false,
+   "subject": "Pando, Utah: one quaking aspen clone, ~47,000 genetically identical stems on one root system, ~106 acres (~43 ha), ~6,000 t (13.3 million lb); stems live ~130-150 years; deer/elk browsing, ~80% fenced",
+   "photo_request": "Pando ağcaqovaq meşəsi",
+   "title": "47 000 ağac — hamısı tək bir canlıdır",
+   "text": "ABŞ-ın Yuta ştatında 47 000 ağac kimi görünən şey əslində tək bir canlıdır. Hamısının kökü birdir.",
+   "reel_hook": "47 000 AĞAC — HAMISI TƏK BİR CANLIDIR",
+   "reel_beats": [
+    "ABŞ-ın Yuta ştatında Pando adlı bir meşə var. Orada təxminən 47 000 ağac gövdəsi var, amma hamısının kökü birdir.",
+    "Bütün gövdələr genetik olaraq eynidir, yəni bu, meşə yox, tək bir ağacdır. Onun çəkisi təxminən 6 000 ton hesablanır.",
+    "Hər gövdə 130–150 il yaşayır, sonra kökdən yenisi çıxır. Pando 60 futbol meydançası qədər yer tutur. Bunu bilirdin?"
+   ],
+   "caption": "Bu meşə əslində tək bir ağacdır 🌳\n\nYuta ştatındakı Pando adlı ağcaqovaq meşəsində təxminən 47 000 gövdə var. Hamısı genetik olaraq eynidir və bir kök sistemindən böyüyür. Bu canlı təxminən 6 000 ton çəkir və 43 hektar yer tutur. Hər gövdə 130–150 il yaşayır, sonra yerinə kökdən yenisi çıxır.\n\n📩 Meşəyə gedib «ağaclar çox gözəldir» deyən dostuna göndər — qoy bilsin, ağac birdir 😄\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: USDA Forest Service / Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #təbiət #ağac #amerika",
+   "first_comment": "Bunu bilirdin, yoxsa indi öyrəndin? 👇",
+   "quizzes": [
+    {
+     "q": "Pandonun çəkisi təxminən nə qədərdir?",
+     "options": [
+      "60 ton",
+      "600 ton",
+      "6 000 ton"
+     ],
+     "answer": "6 000 ton",
+     "why": "Dünyanın ən ağır canlılarından biri sayılır."
+    },
+    {
+     "q": "Pandoda təxminən neçə gövdə var?",
+     "options": [
+      "4 700",
+      "47 000",
+      "470 000"
+     ],
+     "answer": "47 000",
+     "why": "Hamısı eyni kök sistemindən çıxır."
+    },
+    {
+     "q": "Pandonun hər gövdəsi təxminən neçə il yaşayır?",
+     "options": [
+      "13–15 il",
+      "130–150 il",
+      "1 300–1 500 il"
+     ],
+     "answer": "130–150 il",
+     "why": "Sonra yerinə kökdən yeni gövdə çıxır."
+    }
+   ],
+   "sources": [
+    "https://www.friendsofpando.org/thepandotree/facts-about-pando/",
+    "https://www.earthdate.org/pando-a-forest-of-one",
+    "https://www.sciencealert.com/the-world-s-largest-organism-is-slowly-being-eaten-scientist-says"
+   ],
+   "verify_note": "47,000 stems, 106 acres (=42.9 ha), 13.3 million lb dry weight (≈6,000 t), stems 130–150 years, deer/elk browsing, ~80% fenced: Friends of Pando; 47,000 / 6,000 t also in the search-result summaries of other outlets. Age estimates vary widely (9,000 to tens of thousands of years) -> age NOT used. 43 ha / 0.714 ha per pitch ≈ 60. Reel beats reuse only these verified details.",
+   "photo": {
+    "path": "fetch/img/2026-10-21_pando_b.jpg",
+    "credit": "USDA Forest Service / Wikimedia Commons (ictimai mülkiyyət)",
+    "cy": 0.5,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Pando_in_the_Fall_(11937950814).jpg",
+    "alt": "fetch/img/2026-10-21_pando_a.jpg (trunk close-up, Lance Oditt / Friends of Pando, CC BY-SA 4.0)"
+   },
+   "moved_from": "2026-10-26 spare (carousel since 2026-10-21; rewritten as a v4 reel 2026-10-26 09:10)",
+   "moved_to": "spare (trend swap 2026-10-27 15:28)",
+   "format": "v4",
+   "reuse_note": "Same Pando reel as 2026-10-27 backup (never posted). If its 2026-10-27 render out/2026-10-27/3_reel.mp4 already has the safe-zone layout it can be reused; otherwise re-render."
+  },
+  {
+   "n": 4,
+   "type": "reel",
+   "cat": "Kosmos",
+   "voiced": true,
+   "subject": "Uranus rotates on its side (extreme axial tilt); one orbit = 84 years, so each pole gets ~42 years of continuous sunlight followed by ~42 years of darkness — longest daylight/darkness of any planet (Guinness World Records; Natural History Museum factfile). Discovered 1781, first planet found with a telescope (NHM).",
+   "photo_request": "Uranus Voyager 2 (Commons, NASA PD)",
+   "title": "42 il gündüz, sonra 42 il gecə",
+   "text": "Uranda qütblərdə 42 il aramsız gündüz olur, sonra 42 il aramsız gecə. Səbəb planetin yan üstə fırlanmasıdır.",
+   "reel_hook": "42 İL GÜNDÜZ, SONRA 42 İL GECƏ",
+   "reel_beats": [
+    "Uran planeti başqa planetlər kimi fırlanmır. O, sanki yan üstə uzanıb və elə də fırlanır.",
+    "Uran Günəşin ətrafında bir dövrəni 84 ilə vurur. Bu yolun yarısında onun bir qütbü həmişə Günəşə baxır.",
+    "Ona görə Uranın qütbündə 42 il aramsız gündüz olur, sonra 42 il aramsız gecə. Bunu bilirdin?"
+   ],
+   "voice": {
+    "voice": "az-AZ-BanuNeural",
+    "rate": "+15%",
+    "texts": [
+     "Qırx iki il gündüz, sonra qırx iki il gecə.",
+     "Uran planeti başqa planetlər kimi fırlanmır. O, sanki yan üstə uzanıb və elə də fırlanır.",
+     "Uran Günəşin ətrafında bir dövrəni səksən dörd ilə vurur. Bu yolun yarısında onun bir qütbü həmişə Günəşə baxır.",
+     "Ona görə Uranın qütbündə qırx iki il aramsız gündüz olur, sonra qırx iki il aramsız gecə. Bunu bilirdin?"
+    ]
+   },
+   "caption": "Bu planetdə 42 il gündüz, sonra 42 il gecə olur 🪐\n\nUran yan üstə fırlanır: onun oxu demək olar ki, uzanıb. Günəşin ətrafında bir dövrəni 84 ilə vurur. Bu müddətin yarısında bir qütbü Günəşə, o biri isə qaranlığa baxır. Ona görə qütbdə 42 il gecə-gündüz dəyişmir. Bu, Günəş sistemində ən uzun gündüz və ən uzun gecədir. Uran 1781-ci ildə tapılıb — teleskopla kəşf edilən ilk planetdir.\n\n📩 «Bu gün çox uzun gün idi» deyən dostuna göndər — Uranda gün 42 il çəkir 😄\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: NASA/JPL-Caltech\n\n#bilirdinizmi #maraqlıfaktlar #kosmos #uran #planetlər",
+   "first_comment": "42 il gündüz olsaydı, nə edərdin? 👇",
+   "quizzes": [
+    {
+     "q": "Uranın qütbündə gündüz nə qədər davam edir?",
+     "options": [
+      "42 gün",
+      "42 ay",
+      "42 il"
+     ],
+     "answer": "42 il",
+     "why": "Sonra 42 il gecə gəlir."
+    },
+    {
+     "q": "Uran Günəşin ətrafında neçə ilə dövr edir?",
+     "options": [
+      "12 il",
+      "84 il",
+      "248 il"
+     ],
+     "answer": "84 il",
+     "why": "Yolun yarısında bir qütb həmişə Günəşə baxır."
+    },
+    {
+     "q": "Uran hansı ildə kəşf olunub?",
+     "options": [
+      "1609",
+      "1781",
+      "1930"
+     ],
+     "answer": "1781",
+     "why": "Teleskopla tapılan ilk planetdir."
+    }
+   ],
+   "sources": [
+    "https://www.guinnessworldrecords.com/world-records/499817-longest-period-of-daylight-darkness-on-any-planet-in-the-solar-system",
+    "https://wifi.nhm.ac.uk/discover/factfile-uranus.html"
+   ],
+   "verify_note": "42 years daylight then 42 darkness, tilted axis, 84-year orbit, record longest: Guinness. 42/42 + tilted 'on its side' + 1781 first planet found with a telescope: NHM. Numeric tilt not used (not in the two fetched sources). No 'only planet' claim.",
+   "photo": {
+    "path": "fetch/img/2026-10-29_4_uranus.jpg",
+    "credit": "NASA/JPL-Caltech",
+    "cy": 0.5,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Uranus2.jpg",
+    "note": "Voyager 2 Uranus on black; square 1720x1720"
+   }
+  }
+ ],
+ "two_part": "Thu 29 Oct is not a two-part day (Wed + Sat). First two-part story: Sat 31 Oct (planned in the 30 Oct 09:10 run).",
+ "language_check": "2026-10-28 09:10: all texts re-read sentence by sentence (section L): short spoken sentences, numbers in words in voice texts, AZ words only (tardiqrad described as 'su ayısı')."
+}

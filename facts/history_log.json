@@ -95,5 +95,13 @@
    "event": "Statue of Liberty dedicated (28 Oct 1886, Cleveland); 350 pieces in 214 crates (Isère, 1885), 2.4 mm copper skin, Eiffel frame, Pulitzer >100,000 donors ~$1, brown -> green",
    "source": "https://ebsco.com/research-starters/history/statue-liberty-dedicated"
   }
+ ],
+ "10-29": [
+  {
+   "year_posted": 2026,
+   "event_year": 1969,
+   "event": "First ARPANET message: 'login' -> only 'LO' arrived before crash (UCLA -> SRI, ~22:30, Charley Kline, ~500 km)",
+   "source": "https://samueli.ucla.edu/internet50-press/"
+  }
  ]
 }

@@ -1,6 +1,10 @@
 # Style references Gartal sent — read before building any animation or new reel format
 
 Every reference is turned into concrete rules here, because nothing is remembered between sessions unless written.
+**Key frames of each reel are saved in `brand/refs/` (named <page>_<second>s.jpg). Open them with Read and LOOK at
+them before designing — and compare your own rendered frames side by side against them before calling a piece done.**
+When Gartal sends a new reference: extract 5–6 frames (ffmpeg -ss T -frames:v 1, scale 540) into brand/refs/ and add a
+section below.
 
 ## 2026-10-28 — topundibine (Turkish football, IG)
 - Views are huge (up to 492K) but only 425 followers → views alone don't build followers.

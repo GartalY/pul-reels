@@ -363,7 +363,13 @@
     "full": true,
     "source": "https://commons.wikimedia.org/wiki/File:Otzi_museo.jpg",
     "note": "full-body reconstruction with clothing and tools, portrait 817x1280 (small: reel ok, keep full)"
-   }
+   },
+   "reel_beats_safe": [
+    "1991-ci ildə Alp dağlarında gəzən iki alman turist buzun içində bir adam tapdı. Əvvəl elə bildilər ki, bu, bu yaxınlarda ölən alpinistdir.",
+    "Sonra məlum oldu ki, onun 5 300 yaşı var. Alimlər ona Ötsi adını verdilər. Bu, tapılan ən qədim bütöv insan bədənlərindən biridir.",
+    "Xüsusi kamerayla baxanda bədənində 61 döymə tapdılar. Bəlkə də ağrını azaltmaq üçün idi. Səncə, nə üçün?"
+   ],
+   "safe_render": "out/2026-10-25/4_reel_safe.mp4 (2026-10-28, safe layout + hook_bg; beat 3 shortened so it clears the CTA pill) for the 29 Oct 19:45 TikTok/Shorts repost"
   }
  ],
  "language_check": "Self-check per section L done (short sentences, AZ spelling, no English in brackets, nbsp in 5 300 hook).",

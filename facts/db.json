@@ -1998,7 +1998,12 @@
      "why": "Gündə 330 milyard ÷ 86 400 saniyə."
     }
    ],
-   "asked": []
+   "asked": [
+    {
+     "date": "2026-10-29",
+     "qi": 0
+    }
+   ]
   },
   {
    "id": "2026-10-27-3",
@@ -2204,7 +2209,8 @@
      "why": "İslandiya bu siyahıdan çıxdı."
     }
    ],
-   "asked": []
+   "asked": [],
+   "unposted": true
   },
   {
    "id": "2026-10-28-4",
@@ -2241,6 +2247,167 @@
      ],
      "answer": "Üçdə biri qədər",
      "why": "Duzluluğu təxminən 1,2 faizdir."
+    }
+   ],
+   "asked": []
+  },
+  {
+   "id": "2026-10-29-1",
+   "date": "2026-10-29",
+   "subject": "Baku horse tram (konka): company founded Nov 1887, service opened 7 (19) Apr 1889; each car pulled by 2 horses, a 3rd added on hills; fare 5 kopeks on new cars, 3 on old/summer/roof seats, children under 5 free; 9.9 million passengers in 1920; horse trams ran until 1 Oct 1923; electric tram opened 8 Feb 1924; Baku trams ended Jan 2004 (National Archives of Azerbaijan; Wikipedia 'Trams in Baku').",
+   "cat": "Azərbaycan",
+   "quizzes": [
+    {
+     "q": "Bakıda konka hansı ildə işə düşdü?",
+     "options": [
+      "1869",
+      "1889",
+      "1909"
+     ],
+     "answer": "1889",
+     "why": "Aprelin 7-də."
+    },
+    {
+     "q": "Konkada yeni vaqonla gediş neçə qəpik idi?",
+     "options": [
+      "1 qəpik",
+      "5 qəpik",
+      "50 qəpik"
+     ],
+     "answer": "5 qəpik",
+     "why": "Köhnə və yay vaqonlarında 3 qəpik idi."
+    },
+    {
+     "q": "Bakıda ilk elektrik tramvayı nə vaxt yola düşdü?",
+     "options": [
+      "1904",
+      "1924",
+      "1944"
+     ],
+     "answer": "1924",
+     "why": "Fevralın 8-də."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-29",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-29-2",
+   "date": "2026-10-29",
+   "subject": "TARDIS experiment (ESA FOTON-M3, Sept 2007, Jönsson, Kristianstad Univ., Current Biology Sept 2008): dried (tun state) tardigrades Richtersius coronifer and Milnesium tardigradum, adults and eggs, 10 days in low Earth orbit (258–281 km) exposed to space vacuum and cosmic radiation; vacuum-only group mostly survived like Earth controls; with full solar UV (~1,000× Earth surface, >7,000 kJ/m²) most died but some survived; survivors laid eggs that hatched normally. First animals known to survive open space. Tardigrades up to 1.5 mm (NatGeo Phenomena; CORDIS).",
+   "cat": "Elm",
+   "quizzes": [
+    {
+     "q": "Su ayıları açıq kosmosda neçə gün qaldı?",
+     "options": [
+      "1 gün",
+      "10 gün",
+      "100 gün"
+     ],
+     "answer": "10 gün",
+     "why": "2007-ci ildə, Yer ətrafında peykin üstündə."
+    },
+    {
+     "q": "Uçuşdan əvvəl su ayılarına nə etdilər?",
+     "options": [
+      "Qurutdular",
+      "Dondurdular",
+      "Yedizdirdilər"
+     ],
+     "answer": "Qurutdular",
+     "why": "Bu halda onlar sanki yuxuya gedir."
+    },
+    {
+     "q": "Su ayısının boyu təxminən nə qədərdir?",
+     "options": [
+      "1,5 millimetr",
+      "1,5 santimetr",
+      "15 santimetr"
+     ],
+     "answer": "1,5 millimetr",
+     "why": "Onları yalnız mikroskopla yaxşı görmək olur."
+    }
+   ],
+   "asked": []
+  },
+  {
+   "id": "2026-10-29-3",
+   "date": "2026-10-29",
+   "subject": "Pando, Utah: one quaking aspen clone, ~47,000 genetically identical stems on one root system, ~106 acres (~43 ha), ~6,000 t (13.3 million lb); stems live ~130-150 years; deer/elk browsing, ~80% fenced",
+   "cat": "Təbiət",
+   "quizzes": [
+    {
+     "q": "Pandonun çəkisi təxminən nə qədərdir?",
+     "options": [
+      "60 ton",
+      "600 ton",
+      "6 000 ton"
+     ],
+     "answer": "6 000 ton",
+     "why": "Dünyanın ən ağır canlılarından biri sayılır."
+    },
+    {
+     "q": "Pandoda təxminən neçə gövdə var?",
+     "options": [
+      "4 700",
+      "47 000",
+      "470 000"
+     ],
+     "answer": "47 000",
+     "why": "Hamısı eyni kök sistemindən çıxır."
+    },
+    {
+     "q": "Pandonun hər gövdəsi təxminən neçə il yaşayır?",
+     "options": [
+      "13–15 il",
+      "130–150 il",
+      "1 300–1 500 il"
+     ],
+     "answer": "130–150 il",
+     "why": "Sonra yerinə kökdən yeni gövdə çıxır."
+    }
+   ],
+   "asked": []
+  },
+  {
+   "id": "2026-10-29-4",
+   "date": "2026-10-29",
+   "subject": "Uranus rotates on its side (extreme axial tilt); one orbit = 84 years, so each pole gets ~42 years of continuous sunlight followed by ~42 years of darkness — longest daylight/darkness of any planet (Guinness World Records; Natural History Museum factfile). Discovered 1781, first planet found with a telescope (NHM).",
+   "cat": "Kosmos",
+   "quizzes": [
+    {
+     "q": "Uranın qütbündə gündüz nə qədər davam edir?",
+     "options": [
+      "42 gün",
+      "42 ay",
+      "42 il"
+     ],
+     "answer": "42 il",
+     "why": "Sonra 42 il gecə gəlir."
+    },
+    {
+     "q": "Uran Günəşin ətrafında neçə ilə dövr edir?",
+     "options": [
+      "12 il",
+      "84 il",
+      "248 il"
+     ],
+     "answer": "84 il",
+     "why": "Yolun yarısında bir qütb həmişə Günəşə baxır."
+    },
+    {
+     "q": "Uran hansı ildə kəşf olunub?",
+     "options": [
+      "1609",
+      "1781",
+      "1930"
+     ],
+     "answer": "1781",
+     "why": "Teleskopla tapılan ilk planetdir."
     }
    ],
    "asked": []

@@ -41,3 +41,13 @@ section below.
   footage sites reachable from the container (ask Gartal to allow domains if we adopt it). **Agent Reach**
   (MIT) = read YouTube/Reddit/X/IG for trend research, but needs logins + site access → later, maybe on Gartal's laptop.
   Taste / UI UX Pro Max = design rules (Impeccable is the one to use). Rest are coding tools — not for us.
+
+## 2026-10-29 — tahastudio.official (Turkish, "how ad money works" explainer)
+- Navy gradient background, flat infographic shapes, everything centred, headline 2 lines with line 2 in a colour
+  (yellow / green / blue per scene), word-by-word subtitle pill near the bottom.
+- Builds explanations as DIAGRAMS: boxes + arrows flow (Seller → AdMob → your game), two phone mockups side by side
+  (Player A vs B), growing coin stacks for comparison (Türkiye vs USA/Europe "kat kat"), grid of item cards.
+- Things animate INTO place step by step as the narration mentions them (draw arrow, then next box).
+- Series badge "SERİ 2" + numbered 3-step checklist + "Takip et" button at the end.
+- Our use: "Necə işləyir?" explainers — how Şollar water reaches Baku (flow), how oil became money for Baku
+  (Nobel → tanker → Europe), comparisons with growing stacks/bars (Caspian vs other lakes). Good fit for HyperFrames.

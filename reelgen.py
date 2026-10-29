@@ -191,9 +191,22 @@ def render_frame(spec, t, total):
 def music(path, seconds, seed=1):
     sr = 44100; n = int(sr * seconds); t = np.arange(n) / sr
     rng = np.random.default_rng(seed)
-    bpm = 88; beat = 60 / bpm
-    progs = [[57, 60, 64, 67], [53, 57, 60, 64], [48, 52, 55, 59], [55, 59, 62, 65]]
-    rng.shuffle(progs)
+    # 2026-10-29: two reels (shrimp 26 Oct, horse tram 29 Oct, even after a photo swap) were rights-blocked in AZ.
+    # The old bed was always the same 4 pop chords at 88 bpm — the most common progression there is — so every reel
+    # now gets its own tempo, key and progression to look less like any registered track.
+    bpm = float(rng.uniform(78, 100)); beat = 60 / bpm
+    banks = [
+        [[57, 60, 64, 67], [53, 57, 60, 64], [48, 52, 55, 59], [55, 59, 62, 65]],
+        [[50, 53, 57, 60], [55, 59, 62, 65], [48, 52, 55, 59], [53, 57, 60, 64]],
+        [[52, 55, 59, 62], [57, 60, 64, 67], [50, 53, 57, 60], [55, 59, 62, 66]],
+        [[48, 52, 55, 62], [45, 48, 52, 59], [53, 57, 60, 67], [50, 53, 57, 64]],
+        [[53, 57, 60, 64], [52, 55, 59, 62], [50, 53, 57, 60], [48, 52, 55, 59]],
+        [[57, 60, 64, 71], [55, 59, 62, 69], [53, 57, 60, 67], [52, 56, 59, 64]],
+    ]
+    progs = [list(ch) for ch in banks[int(rng.integers(len(banks)))]]
+    shift = int(rng.integers(-3, 4))
+    progs = [[m + shift for m in ch] for ch in progs]
+    if rng.random() < 0.5: rng.shuffle(progs)
     out = np.zeros(n)
     bar = beat * 4
     for b in range(int(seconds / bar) + 1):

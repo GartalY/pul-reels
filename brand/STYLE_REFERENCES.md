@@ -65,3 +65,18 @@ section below.
 - Ends by returning to the opening metaphor (roulette) with an open question → comments.
 - Our use: number facts as 3D metaphors — Caspian vs other lakes as water columns; 47,000 Pando trunks as a
   forest field; mud volcanoes as a pillar map of Azerbaijan; "1 in X" odds facts as a wheel.
+
+## 2026-10-29 — david_knowsai "5 skills → your video editor" (tools, not style)
+- Ghost Editor (github …rbaitaev/ghost-editor, built on HyperFrames): editor for TALKING-HEAD reels — keeps the best
+  take of each sentence, face-safe captions, motion-graphic scenes, can reverse-engineer a reference edit.
+  → USE for Gartal's recorded long-video scripts (multiple takes → best take, captions that avoid his face).
+- ffmpeg-skill (…/ffmpeg-skill, MIT): cut silences (silence.py), word-timed subtitles, karaoke pop captions,
+  9:16 reframing, audio balance. → same pipeline; we already have ffmpeg, but its silence-cut + caption scripts save time.
+- Claude Shorts (AgriciDaniel/claude-shorts): long video → scored Shorts with Remotion captions. → later, to cut
+  Gartal's long videos into Shorts.
+- OpenMontage "Start from a video you already love": breaks a reference reel into hook / pacing (cut every ~1.4 s) /
+  scenes / style, then rebuilds around your topic. → matches how we use Gartal's references; try when footage
+  sites are allowed.
+- Higgsfield "Editorial Motion Graphics": paid AI service via its own connector → skip unless Gartal wants to pay.
+- Format lesson: talking head (top half = screen recording / graphic, bottom half = face) + numbered chips "01/05"
+  + "Comment EDIT and I'll send you the setup" ending (2 051 shares, 7 491 saves).

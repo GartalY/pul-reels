@@ -1831,7 +1831,12 @@
      "why": "Sonra nektarı pətəyə aparır."
     }
    ],
-   "asked": []
+   "asked": [
+    {
+     "date": "2026-10-30",
+     "qi": 0
+    }
+   ]
   },
   {
    "id": "2026-10-26-3",
@@ -2409,6 +2414,167 @@
      ],
      "answer": "1781",
      "why": "Teleskopla tapılan ilk planetdir."
+    }
+   ],
+   "asked": []
+  },
+  {
+   "id": "2026-10-30-1",
+   "date": "2026-10-30",
+   "subject": "Göygöl formed after the 30 (or 25) Sept 1139 Ganja earthquake (M ~7+): part of Mount Kapaz collapsed and the landslide dammed a mountain river (Kürəkçay per Wikipedia, Ağsu per azerbaijan.travel) -> lake; 7 lakes formed in total incl. Maralgöl and Ağgöl (Wikipedia '1139 Ganja earthquake'). Altitude ~1,556 m, max depth ~93-96 m, area 0.78 km² (Wikipedia Göygöl). Goy Gol reserve 1925, national park 2008. Nizami Ganjavi born c. 1141 in Ganja (Britannica/Wikipedia).",
+   "cat": "Azərbaycan",
+   "quizzes": [
+    {
+     "q": "Göygöl hansı ildə yaranıb?",
+     "options": [
+      "1139",
+      "1539",
+      "1839"
+     ],
+     "answer": "1139",
+     "why": "Gəncə zəlzələsindən sonra."
+    },
+    {
+     "q": "Göygölü hansı dağın uçqunu yaradıb?",
+     "options": [
+      "Kəpəz",
+      "Şahdağ",
+      "Bazardüzü"
+     ],
+     "answer": "Kəpəz",
+     "why": "Qayalar çayın yolunu kəsdi."
+    },
+    {
+     "q": "O zəlzələdən neçə göl yaranıb?",
+     "options": [
+      "2",
+      "7",
+      "17"
+     ],
+     "answer": "7",
+     "why": "Maralgöl də onlardandır."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-30",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-30-2",
+   "date": "2026-10-30",
+   "subject": "Jan Koum: emigrated from a village near Kyiv, Ukraine, to Mountain View, California at 16 with his mother; mother babysat, he swept a grocery store; they stood in line for food stamps at a government office in Mountain View (J Weekly 2014; NBC). Brian Acton rejected by Facebook in 2009 (NBC). Facebook bought WhatsApp for $19 bn (Feb 2014); Koum (37), Acton and Sequoia's Jim Goetz signed it at the disused former North County Social Services office across the tracks from WhatsApp HQ, where Koum once stood in line for food stamps (Forbes via ACM; Quartz; J Weekly).",
+   "cat": "Texnologiya",
+   "quizzes": [
+    {
+     "q": "Yan Kum neçə yaşında ABŞ-a köçdü?",
+     "options": [
+      "6",
+      "16",
+      "26"
+     ],
+     "answer": "16",
+     "why": "Anası ilə Ukraynadan köçdü."
+    },
+    {
+     "q": "Facebook WhatsApp-ı neçəyə aldı?",
+     "options": [
+      "1,9 milyard dollar",
+      "19 milyard dollar",
+      "190 milyard dollar"
+     ],
+     "answer": "19 milyard dollar",
+     "why": "2014-cü ildə."
+    },
+    {
+     "q": "Müqavilə harada imzalandı?",
+     "options": [
+      "Köhnə yardım idarəsində",
+      "Facebook ofisində",
+      "Restoranda"
+     ],
+     "answer": "Köhnə yardım idarəsində",
+     "why": "Yan orada ərzaq talonu alırdı."
+    }
+   ],
+   "asked": []
+  },
+  {
+   "id": "2026-10-30-3",
+   "date": "2026-10-30",
+   "subject": "Kola Superdeep Borehole SG-3, Kola Peninsula (Murmansk region, Russia): drilling began May 1970, reached 12,262 m (40,230 ft) in 1989, deepest artificial point; diameter ~23 cm (9 in); bottom temperature ~180 °C vs ~100 °C expected; rock behaved 'more like plastic', drilling stopped 1992, project ended 1994 (Scientific American; EarthDate/UT Austin). Welded shut (photo Aug 2012). Everest 8,849 m -> hole is ~3.4 km deeper than Everest is high.",
+   "cat": "Elm",
+   "quizzes": [
+    {
+     "q": "Kola quyusu nə qədər dərindir?",
+     "options": [
+      "1 226 metr",
+      "12 262 metr",
+      "122 620 metr"
+     ],
+     "answer": "12 262 metr",
+     "why": "1989-cu ildə bu dərinliyə çatdı."
+    },
+    {
+     "q": "Kola quyusunun eni nə qədərdir?",
+     "options": [
+      "23 santimetr",
+      "2,3 metr",
+      "23 metr"
+     ],
+     "answer": "23 santimetr",
+     "why": "Təxminən bir boşqab boyda."
+    },
+    {
+     "q": "Quyunun dibində istilik neçə dərəcə idi?",
+     "options": [
+      "80",
+      "180",
+      "580"
+     ],
+     "answer": "180",
+     "why": "Alimlər 100 dərəcə gözləyirdilər."
+    }
+   ],
+   "asked": []
+  },
+  {
+   "id": "2026-10-30-4",
+   "date": "2026-10-30",
+   "subject": "SN 1054: on 4 July 1054 Chinese (and Japanese) astronomers recorded a 'guest star' in Taurus, said to be as bright as the Moon; visible in daylight for 23 days and at night for nearly two years (~653 days per Sung Shih) (EARTH Magazine; EarthSky). Its remnant is the Crab Nebula (M1), ~6,500 light-years away; central pulsar spins ~30 times per second (EarthSky; EARTH Magazine).",
+   "cat": "Kosmos",
+   "quizzes": [
+    {
+     "q": "1054-cü il ulduzu gündüz neçə gün göründü?",
+     "options": [
+      "3",
+      "23",
+      "230"
+     ],
+     "answer": "23",
+     "why": "Gecə isə təxminən iki il göründü."
+    },
+    {
+     "q": "Bu ulduzu ilk kimlər qeydə aldı?",
+     "options": [
+      "Çin astronomları",
+      "Yunan alimləri",
+      "Misir kahinləri"
+     ],
+     "answer": "Çin astronomları",
+     "why": "1054-cü ilin iyulunda."
+    },
+    {
+     "q": "Xərçəng dumanlığı bizdən nə qədər uzaqdadır?",
+     "options": [
+      "65 işıq ili",
+      "6 500 işıq ili",
+      "6,5 milyon işıq ili"
+     ],
+     "answer": "6 500 işıq ili",
+     "why": "Partlayan ulduzun qalıqlarıdır."
     }
    ],
    "asked": []

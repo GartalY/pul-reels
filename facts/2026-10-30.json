@@ -39,7 +39,7 @@
     "t": "Ertəsi gün qəzetlər «bütün ölkə panikaya düşdü» yazdı. Tarixçilərə görə, səbəb var idi: radio qəzetlərin reklam pulunu əlindən alırdı."
    }
   ],
-  "caption": "88 il əvvəl bu gün radio «Marslılar gəlir» dedi 📻\n\n1938-ci il 30 oktyabr axşamı 23 yaşlı Orson Uells CBS radiosunda «Dünyaların müharibəsi» romanını canlı xəbər kimi oxudu: guya Marslılar Nyu-Cersiyə enmişdi. Bəzi dinləyicilər qorxub polisə zəng etdi. Ertəsi gün qəzetlər «ölkə panikaya düşdü» yazdı. Amma həmin axşam 5 000 evdə aparılan sorğuda cəmi 2 faiz bu verilişi dinlədiyini dedi. Tarixçilərə görə, qəzetlər radionu pisləmək üçün hekayəni şişirtmişdi.\n\n📩 Hər xəbərə dərhal inanan dostuna göndər — 1938-də də belələri var idi 😄\n\nFoto: Acme News Photos / Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #tarixdəbugün #radio #tarix",
+  "caption": "88 il əvvəl bu gün radio «Marslılar gəlir» dedi 📻\n\n1938-ci il 30 oktyabr axşamı 23 yaşlı Orson Uells CBS radiosunda «Dünyaların müharibəsi» romanını canlı xəbər kimi oxudu: guya Marslılar Nyu-Cersiyə enmişdi. Bəzi dinləyicilər qorxub polisə zəng etdi. Ertəsi gün qəzetlər «ölkə panikaya düşdü» yazdı. Amma həmin axşam 5 000 evdə aparılan sorğuda cəmi 2 faiz bu verilişi dinlədiyini dedi. Tarixçilərə görə, qəzetlər radionu pisləmək üçün hekayəni şişirtmişdi.\n\n📩 Hər xəbərə dərhal inanan dostuna göndər — 1938-də də belələri var idi 😄\n\nFoto: Acme News Photos; Carl Van Vechten / Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #tarixdəbugün #radio #tarix",
   "first_comment": "Sən radioda belə bir xəbər eşitsən, inanardın? 👇",
   "quizzes": [
    {
@@ -78,8 +78,9 @@
    "month": 10,
    "year": 1938,
    "title": "Radio «Marslılar gəlir» dedi",
-   "text": "1938-ci il bu gün Orson Uells radioda Marslıların hücumunu canlı xəbər kimi oxudu. Qəzetlər «panika» yazdı, amma sorğuda cəmi 2 faiz bu verilişi dinləyirdi.",
-   "credit": "Foto: Acme News Photos / Wikimedia Commons"
+   "text": "88 il əvvəl bu gün Orson Uells radioda Marslıların hücumunu canlı xəbər kimi oxudu. Qəzetlər «panika» yazdı, amma sorğuda cəmi 2 faiz bu verilişi dinləyirdi.",
+   "credit": "Carl Van Vechten / Wikimedia Commons",
+   "photo": "fetch/img/2026-10-30_H_welles_b.jpg"
   },
   "sources": [
    "https://www.smithsonianmag.com/history/infamous-war-worlds-radio-broadcast-was-magnificent-fluke-180955180/",
@@ -235,7 +236,8 @@
     "cy": 0.15,
     "full": true,
     "source": "https://commons.wikimedia.org/wiki/File:Jan_Koum.jpg",
-    "note": "cropped from 2026-10-30_2_koum.jpg to remove the private person next to him; check frame 0 at build"
+    "note": "cropped from 2026-10-30_2_koum.jpg to remove the private person next to him; check frame 0 at build | 29 Oct evening: face was hidden under the hook box -> padded the top (blurred band) so the face sits below the hook (cy 0.0).",
+    "path_reel": "fetch/img/2026-10-30_2_koum_pad.jpg"
    }
   },
   {
@@ -375,5 +377,57 @@
    }
   }
  ],
- "language_check": "2026-10-29 09:10 run: every beat/caption re-read sentence by sentence (section L): short sentences, no English words in brackets, numbers with NBSP on images, verb cases checked (yolunu kəsdi, uşağa baxırdı, idarəsində növbəyə durub)."
+ "language_check": "2026-10-29 09:10 run: every beat/caption re-read sentence by sentence (section L): short sentences, no English words in brackets, numbers with NBSP on images, verb cases checked (yolunu kəsdi, uşağa baxırdı, idarəsində növbəyə durub).",
+ "stories": [
+  {
+   "time": "11:00",
+   "fact_id": "2026-10-26-2",
+   "recall": true,
+   "cat": "Təbiət",
+   "q": "Bir arı ömründə nə qədər bal düzəldir?",
+   "options": [
+    "1/12 çay qaşığı",
+    "1 xörək qaşığı",
+    "1 stəkan"
+   ],
+   "answer": "1/12 çay qaşığı",
+   "why": "Bir çay qaşığı bal 12 arının ömrüdür.",
+   "image": "out/2026-10-30/q1.jpg",
+   "answer_image": "out/2026-10-30/q1_a.jpg"
+  },
+  {
+   "time": "14:00",
+   "fact_id": "2026-10-30-1",
+   "recall": false,
+   "cat": "Azərbaycan",
+   "q": "Göygöl hansı ildə yaranıb?",
+   "options": [
+    "1139",
+    "1539",
+    "1839"
+   ],
+   "answer": "1139",
+   "why": "Gəncə zəlzələsindən sonra.",
+   "image": "out/2026-10-30/q2.jpg",
+   "answer_image": "out/2026-10-30/q2_a.jpg"
+  }
+ ],
+ "trend_check_evening": "2026-10-29 ~20:50 Baku: world headlines (Just Security Early Edition 29 Oct: Iran talks letter, Dnipro station strike, North Korea missiles, Lagarde to step down Feb 2027) + AZ news searches: nothing big that our AZ audience is talking about which needs a swap of the evergreen 30 Oct plan. 18:30 slot = Kola backup; the 09:10 run picks the trend.",
+ "built": {
+  "when": "2026-10-29 ~21:00 Asia/Baku",
+  "checked": "6 carousel slides, tbg story, 2 quiz + 2 answer stories, hook frame + 5 frames per reel viewed; text inside safe zone, no overflow.",
+  "reel_seconds": {
+   "1": 32.3,
+   "2": 22.2,
+   "3": 19.8,
+   "4": 31.2
+  },
+  "voice": "Banu +15% OK on reels 1 and 4 (AI labels on); reels 2 and 3 silent (split test continues; early-stop not met per 28 Oct report)",
+  "notes": [
+   "tbg story: switched to the Van Vechten portrait (alt photo), text starts '88 il əvvəl bu gün', fixed double 'Foto:' credit",
+   "carousel slides 3 and 5 use the Van Vechten portrait -> credit line in caption now names both",
+   "Koum reel: face moved below the hook box (padded photo)",
+   "hook_bg on reels 1-3"
+  ]
+ }
 }

@@ -111,7 +111,7 @@ def reel(photo, out, c):
         BTS = [max(2.0, D[j + 1] + 0.35) for j in range(len(beats))]
     START = [sum(BTS[:j]) for j in range(len(beats))]
     dur = c.get("dur", HK + sum(BTS) + OUT)
-    base = cover(src, W, H, cy=c.get("cy", 0.5)) if c.get("full", True) else fit_on_blur(src, W, H)
+    base = cover(src, W, H, cx=c.get("cx", 0.5), cy=c.get("cy", 0.5)) if c.get("full", True) else fit_on_blur(src, W, H)
     tmp = tempfile.mkdtemp()
     hook_end = HK
     for i in range(int(dur * FPS)):
@@ -144,11 +144,11 @@ def reel(photo, out, c):
             nl = len(wrap(d, beats[k], F("Bold", 56), SAFE_W))   # dark backing so text reads on bright photos too
             ImageDraw.Draw(fr, "RGBA").rounded_rectangle([40, 1040, 70 + SAFE_W + 30, 1060 + nl * 70 + 30], 28,
                                                          fill=INK + (int(185 * a),))
-            pill(d, 70, 960, "BİLİRDİNİZMİ?" if k == 0 else f"{k + 1}/{len(beats)}", F("Black", 40), GOLD, INK)
+            pill(d, 70, 960, c.get("first_pill", "BİLİRDİNİZMİ?") if k == 0 else f"{k + 1}/{len(beats)}", F("Black", 40), GOLD, INK)
             text_block(d, 70, 1060 + (1 - a) * 40, beats[k], F("Bold", 56), tuple(int(x * a) for x in WHITE), SAFE_W)
-        if t > dur - OUT:
-            a = ease((t - (dur - OUT)) / 0.3)
-            msg = c.get("cta", "Hər gün yeni fakt — izlə!")   # v4 2026-10-25: follow CTA on every reel (was the quiz CTA)
+        msg = c.get("cta", "Hər gün yeni fakt — izlə!")   # 2026-10-29: cta "" = no pill (sober/tragedy reels)
+        if msg and t > dur - OUT:
+            a = ease((t - (dur - OUT)) / 0.3)   # v4 2026-10-25: follow CTA on every reel (was the quiz CTA)
             fc = F("Bold", 42); cl = wrap(d, msg, fc, SAFE_W - 60)
             cw = max(d.textlength(l, font=fc) for l in cl); ch = len(cl) * 54 + 26
             d.rounded_rectangle([70, 1470, 70 + cw + 60, 1470 + ch], 36, fill=tuple(int(x * a) for x in GOLD))

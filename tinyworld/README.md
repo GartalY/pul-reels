@@ -1,4 +1,4 @@
-# Tiny World — PARKED until the weekend (Gartal, 2026-10-29 13:04: "park this idea for the weekend")
+# Tiny World — PARKED: review with Gartal on SUNDAY 1 Nov (after the Saturday night animation test; bring Mars v2)
 
 Gartal LOVED `out/tinyworld/mars_ep1_full.mp4` (Last Dome on Mars, Episode 1, 48 s, `mars_full.py`).
 Ants test (`colony.py`) was "not bad" but Mars chosen.

@@ -340,6 +340,13 @@ he worked in a factory" + the details. Slot: the **18:30 carousel**.
 - If the trend story breaks after 15:23, it can still go into tomorrow's 13:00 slot.
 
 ## P. Photos — Claude finds them himself (from 2026-10-16; Gartal only as a last resort)
+- **NO WATERMARK TRACES / NO AGENCY SCANS (2026-10-29):** the 29 Oct horse-tram reel was blocked in Azerbaijan by a
+  rights-holder match. The Commons file (Konka_Baku.jpg) is an 1890s photo but the scan carries a faint news-agency
+  watermark (ghost arcs across the sky) — so an agency owns this scan in the matching database. Before using any
+  photo, LOOK at it at full size for faint logos/arcs/text; for famous archive photos prefer a different scan or
+  postcard. Never tell Gartal to "Restore" such a video (a dispute can become a strike on the account).
+  TODO: re-post the horse-tram fact in a 13:00 AZ slot next week with the clean colour postcard
+  (fetch/img/2026-10-29_1_konka_b.jpg, crop the bottom text), new render, IG + TikTok + YouTube.
 - **FACES BEAT SYMBOLS (Gartal, 2026-10-29):** if a story has a main person, the photo is THAT PERSON, not a flag,
   building or logo. Example of the mistake: 28 Oct Türkiye Republic-eve reel used only the Turkish flag — it should
   have been Mustafa Kemal Atatürk (public-domain portraits on Wikimedia Commons). Faces stop the scroll; symbols

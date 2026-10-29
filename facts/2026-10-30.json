@@ -1,6 +1,6 @@
 {
  "date": "2026-10-30",
- "status": "planned",
+ "status": "scheduled",
  "format": "v2",
  "content_format": "v4",
  "planned_note": "Planned in the 2026-10-29 09:10 run (format v4). 10:00 TBG carousel = War of the Worlds radio play, 30 Oct 1938 (88 years; the 'mass panic' was largely a newspaper myth). 13:00 AZ reel (VOICED): Göygöl formed by the 1139 Ganja earthquake (887 years). 16:00 reel (SILENT): Jan Koum signed the $19 bn WhatsApp deal at the old welfare office where he got food stamps. 18:30 trend backup reel (SILENT): Kola Superdeep Borehole 12 262 m, 23 cm wide. 21:30 reel (VOICED): 1054 supernova visible in daylight for 23 days (Crab Nebula). Fri = not a two-part day (Wed+Sat). All photos fetched and checked.",
@@ -429,5 +429,35 @@
    "Koum reel: face moved below the hook box (padded photo)",
    "hook_bg on reels 1-3"
   ]
- }
+ },
+ "metricool": {
+  "10:00 tarixdə bu gün carousel (War of the Worlds 1938)": 410312327,
+  "13:00 reel (Göygöl 1139, voiced)": 410312356,
+  "16:00 reel (Jan Koum WhatsApp, silent)": 410313081,
+  "18:30 trend-backup reel (Kola borehole, silent)": 410313154,
+  "21:30 reel (SN 1054, voiced)": 410313965,
+  "10:00 tarixdə bu gün story": 410314294,
+  "11:00 quiz q1 (recall bee honey)": 410314339,
+  "11:10 answer a1": 410314371,
+  "14:00 quiz q2 (Göygöl)": 410314417,
+  "14:10 answer a2": 410314436
+ },
+ "tiktok": {
+  "11:00 REPOST 2026-10-25 n1 Baku first cinema 1898 (safe layout)": 410314049,
+  "13:00 Göygöl": 410312378,
+  "16:00 Koum": 410313113,
+  "18:30 Kola (trend backup)": 410313192,
+  "19:45 REPOST 2026-10-24 n1 Zoroaster tanker 1878 (safe layout)": 410314083,
+  "21:30 SN 1054": 410313996
+ },
+ "youtube": {
+  "11:00 REPOST Baku first cinema": 410314064,
+  "13:00 Göygöl": 410312414,
+  "16:00 Koum": 410313127,
+  "18:30 Kola (trend backup)": 410313212,
+  "19:45 REPOST Zoroaster tanker": 410314100,
+  "21:30 SN 1054": 410314021
+ },
+ "scheduled_check": "2026-10-29 ~20:59 Baku: getScheduledPosts for 30 Oct was empty before scheduling; after = 22 posts (IG 5 posts + 5 stories, TikTok 6, YouTube 6), one per network per slot, no duplicates.",
+ "reposts": "Picked by IG views (IGRE23) among silent, never cross-posted reels: 25 Oct cinema 386 views (11:00), 24 Oct Zoroaster tanker 280 views (19:45). Both re-rendered with the safe-zone layout; photos checked (no watermark)."
 }

@@ -16,7 +16,9 @@
   "2026-10-28 11:00 Sollar": 407676509,
   "2026-10-29 11:00 18-hour": 407676619,
   "2026-10-28 19:45 blue whale heart": 408059148,
-  "2026-10-29 19:45 Otzi": 409197480
+  "2026-10-29 19:45 Otzi": 409197480,
+  "2026-10-30 11:00 cinema": 410314064,
+  "2026-10-30 19:45 Zoroaster": 410314100
  },
  "2026-10-28 19:45": [
   "2026-10-24 n4 blue whale heart 2 bpm (IG 483 views; safe layout out/2026-10-24/4_reel_safe.mp4)",
@@ -25,5 +27,13 @@
  "2026-10-29 19:45": [
   "2026-10-25 n4 Otzi 61 tattoos (IG 236 views; safe layout out/2026-10-25/4_reel_safe.mp4, beat 3 shortened)",
   409196917
+ ],
+ "2026-10-30 11:00": [
+  "2026-10-25 n1 Baku first cinema 1898 (IG 386 views; safe layout out/2026-10-25/1_reel_safe.mp4)",
+  410314049
+ ],
+ "2026-10-30 19:45": [
+  "2026-10-24 n1 Zoroaster first successful oil tanker 1878 (IG 280 views; safe layout out/2026-10-24/1_reel_safe.mp4)",
+  410314083
  ]
 }

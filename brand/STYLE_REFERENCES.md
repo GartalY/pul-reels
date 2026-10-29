@@ -80,3 +80,11 @@ section below.
 - Higgsfield "Editorial Motion Graphics": paid AI service via its own connector → skip unless Gartal wants to pay.
 - Format lesson: talking head (top half = screen recording / graphic, bottom half = face) + numbered chips "01/05"
   + "Comment EDIT and I'll send you the setup" ending (2 051 shares, 7 491 saves).
+
+## 2026-10-30 — aitools.dailyy "I locked 300 AIs in a room" (pixel art story; LOW engagement: ~1 like, 3 saves when seen)
+- Useful bits only: (1) hook as a mini story with a goal + counter ("door opens at $1,000", "$0 / $1,000" sign,
+  "AI experts inside: 63 → 300"); (2) word-by-word karaoke captions where each spoken word gets a thin outlined box;
+  (3) a consistent pixel-art world (dark navy room, neon sign, desks with role labels) looks fine when every
+  element shares one pixel grid. Its own numbers show the format alone doesn't carry a reel.
+- Tool: agency-agents (≈300 role prompts for Claude Code: designer, SEO, "TikTok strategist"…). Low value for us —
+  our RUNBOOK already does this job; at most skim its TikTok/Instagram strategist prompts for ideas.

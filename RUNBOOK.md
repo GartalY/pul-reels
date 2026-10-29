@@ -345,8 +345,8 @@ he worked in a factory" + the details. Slot: the **18:30 carousel**.
   watermark (ghost arcs across the sky) — so an agency owns this scan in the matching database. Before using any
   photo, LOOK at it at full size for faint logos/arcs/text; for famous archive photos prefer a different scan or
   postcard. Never tell Gartal to "Restore" such a video (a dispute can become a strike on the account).
-  TODO: re-post the horse-tram fact in a 13:00 AZ slot next week with the clean colour postcard
-  (fetch/img/2026-10-29_1_konka_b.jpg, crop the bottom text), new render, IG + TikTok + YouTube.
+  DONE 29 Oct: re-rendered with the clean postcard (out/2026-10-29/1_reel_v2.mp4) and re-posted on Instagram only
+  at 13:40 (Metricool 409831278). TikTok/YouTube still carry v1 — if either flags it, replace with v2 there.
 - **FACES BEAT SYMBOLS (Gartal, 2026-10-29):** if a story has a main person, the photo is THAT PERSON, not a flag,
   building or logo. Example of the mistake: 28 Oct Türkiye Republic-eve reel used only the Turkish flag — it should
   have been Mustafa Kemal Atatürk (public-domain portraits on Wikimedia Commons). Faces stop the scroll; symbols

@@ -315,6 +315,8 @@ and use a strong surprising angle (a number, a "before he was famous", a history
   (attribute: "araşdırma gedir / rəsmilərin sözünə görə"). Angle = useful context, not shock: e.g. how rare such
   accidents are, safety statistics, what changed after past disasters. No photos of victims or wreckage close-ups;
   use a neutral photo (the line, a station, a generic train). No follow CTA on this reel.
+  Render flags (factgen.py reel, 2026-10-29): `"cta":""` = no follow pill, `"first_pill":"XƏBƏR"` replaces
+  "BİLİRDİNİZMİ?", `"cx"` (0–1) moves the crop sideways on landscape photos (keep the subject in the frame).
 - **29 Oct 2026 trend = Spain high-speed train crash (28 Oct, near Urda/Toledo, south of Madrid, at least 68 dead per
   CNN/CBS/Al Jazeera/Euronews on 28 Oct; cause under investigation).** Second deadly Spanish high-speed crash of
   2026 (Adamuz, Córdoba, 18 Jan, ~40+ dead). Angle: "Spain had one of Europe's safest high-speed networks — what

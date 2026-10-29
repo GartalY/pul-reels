@@ -1,6 +1,6 @@
 {
  "date": "2026-10-29",
- "status": "scheduled",
+ "status": "scheduled (trend swapped 15:28)",
  "format": "v2",
  "content_format": "v4",
  "planned_note": "Planned in the 2026-10-28 09:10 run (format v4). 10:00 TBG carousel = first ARPANET message 'LO' (29 Oct 1969, 57 years). 13:00 AZ reel (VOICED): Baku horse tram (konka) 1889, 2 horses, 5 kopeks. 16:00 reel (SILENT): tardigrades survived 10 days in open space (FOTON-M3, 2007). 18:30 trend backup reel (SILENT): Pando 47 000 stems (re-used, never posted). 21:30 reel (VOICED): Uranus 42 years of daylight then 42 of night. Thu = not a two-part day (Wed+Sat). All photos fetched and checked.",
@@ -431,7 +431,7 @@
   "10:00 tarixdə bu gün carousel (ARPANET LO 1969)": 409195336,
   "13:00 reel (Baku konka, voiced)": 409195785,
   "16:00 reel (tardigrades, silent)": 409195827,
-  "18:30 reel (Pando backup, silent; trend swap possible at 15:23)": 409195875,
+  "18:30 TREND reel (Spain train collision, silent, sober) — swapped 15:28": 409958227,
   "21:30 reel (Uranus 42 years, voiced)": 409195899,
   "10:00 tarixdə bu gün story": 409196074,
   "11:00 quiz q1 (recall cell renewal)": 409196114,
@@ -443,7 +443,7 @@
   "11:00 REPOST 18-hour day (scheduled 27 Oct)": 407676411,
   "13:00 konka": 409196797,
   "16:00 tardigrades": 409196829,
-  "18:30 Pando (trend swap possible)": 409196861,
+  "18:30 TREND Spain train collision (updated 15:28)": 409958257,
   "19:45 REPOST Otzi 61 tattoos (2026-10-25 n4, safe layout)": 409196917,
   "21:30 Uranus": 409196885
  },
@@ -451,7 +451,7 @@
   "11:00 REPOST 18-hour day (scheduled 27 Oct)": 407676619,
   "13:00 konka": 409197381,
   "16:00 tardigrades": 409197403,
-  "18:30 Pando (trend swap possible)": 409197429,
+  "18:30 TREND Spain train collision (updated 15:28)": 409958286,
   "19:45 REPOST Otzi": 409197480,
   "21:30 Uranus": 409197443
  },
@@ -474,7 +474,7 @@
    "Rəsmilərin sözünə görə, ən azı 68 nəfər həlak olub, onlarla insan yaralanıb. Qəzanın səbəbini müstəqil komissiya araşdırır.",
    "Yanvarda Adamuz yaxınlığında da iki qatar toqquşmuşdu, onda 46 nəfər həlak oldu. İspaniyanın sürətli dəmir yolu Avropada ən uzunudur: təxminən 3 900 km."
   ],
-  "caption": "Həlak olanların yaxınlarına başsağlığı veririk 🕯️\n\nİspaniyada 9 ay ərzində ikinci böyük qatar faciəsi baş verdi. Oktyabrın 28-də səhər Toledo vilayətində, Urda yaxınlığında Renfe şirkətinin sürətli qatarı yolda dayanmış Iryo qatarına arxadan çırpıldı. İki qatarda 540-dan çox sərnişin var idi. 29 oktyabr səhərə olan məlumata görə, ən azı 68 nəfər həlak olub, onlarla insan xəstəxanaya aparılıb. Rəsmilərin sözünə görə, qəzanın səbəbini müstəqil komissiya araşdırır, hələ nəticə açıqlanmayıb.\n\nBu il yanvarın 18-də Kordova vilayətində, Adamuz yaxınlığında da iki sürətli qatar toqquşmuşdu, onda 46 nəfər həlak olmuşdu. İspaniyanın sürətli qatar xətti təxminən 3 900 km-dir: dünyada yalnız Çində daha uzundur. Avropa statistikasına görə, dəmir yolu yenə də ən təhlükəsiz nəqliyyat növlərindən biri sayılır.\n\nFoto: Pablo Nieto Abad / Wikimedia Commons (CC BY-SA 2.0)\n\n#bilirdinizmi #xəbərlər #ispaniya #qatar #dəmiryolu",
+  "caption": "Həlak olanların yaxınlarına başsağlığı veririk 🕯️\n\nİspaniyada 9 ay ərzində ikinci böyük qatar faciəsi baş verdi. Oktyabrın 28-də səhər Toledo vilayətində, Urda yaxınlığında Renfe şirkətinin sürətli qatarı yolda dayanmış Iryo qatarına arxadan çırpıldı. İki qatarda 540-dan çox sərnişin var idi. 29 oktyabr günortaya olan məlumata görə, ən azı 68 nəfər həlak olub, onlarla insan xəstəxanaya aparılıb. Rəsmilərin sözünə görə, qəzanın səbəbini müstəqil komissiya araşdırır, hələ nəticə açıqlanmayıb.\n\nBu il yanvarın 18-də Kordova vilayətində, Adamuz yaxınlığında da iki sürətli qatar toqquşmuşdu, onda 46 nəfər həlak olmuşdu. İspaniyanın sürətli qatar xətti təxminən 3 900 km-dir: dünyada yalnız Çində daha uzundur. Avropa statistikasına görə, dəmir yolu yenə də ən təhlükəsiz nəqliyyat növlərindən biri sayılır.\n\nFoto: Pablo Nieto Abad / Wikimedia Commons (CC BY-SA 2.0)\n\n#bilirdinizmi #xəbərlər #ispaniya #qatar #dəmiryolu",
   "first_comment": "Həlak olanlara rəhmət, yaralılara şəfa diləyirik 🕯️",
   "quizzes": [
    {
@@ -515,7 +515,23 @@
    "source": "https://commons.wikimedia.org/wiki/File:AVE_S-102._Viaducto_sobre_el_Arroyo_de_Pedro_Gil_(32308646046).jpg",
    "alt": "fetch/img/2026-10-29_T_line.jpg (Madrid–Sevilla AVE line at Campo de Calatrava, public domain, no train)"
   },
-  "build_note_1523": "SOBER mode (RUNBOOK D tragedies): render with no follow CTA pill if factgen supports it (else cta = ''), no 'Bunu bilirdin?'. TikTok/YouTube texts: no follow line, no 📩, only 🕯️. Update the existing 18:30 IG + TikTok + YouTube posts (do not add new ones)."
+  "build_note_1523": "SOBER mode (RUNBOOK D tragedies): render with no follow CTA pill if factgen supports it (else cta = ''), no 'Bunu bilirdin?'. TikTok/YouTube texts: no follow line, no 📩, only 🕯️. Update the existing 18:30 IG + TikTok + YouTube posts (do not add new ones).",
+  "video": "out/2026-10-29/T_reel.mp4",
+  "render": {
+   "seconds": 23.1,
+   "cx": 0.12,
+   "hook_bg": true,
+   "cta": "",
+   "first_pill": "XƏBƏR",
+   "seed": 29
+  }
  },
- "trend_check_morning": "2026-10-29 09:15-09:40 Baku: world headlines (Euronews/Al Jazeera/Wikipedia current events searches, 'breaking news 29 Oct') + AZ news: the dominant story is the 28 Oct Spain high-speed train collision near Urda (at least 68 dead per ABC/CBC/CNBC). Chosen as today's 18:30 trend reel per RUNBOOK D (big news first, sober mode). Nothing else needs an immediate swap; 13:00/16:00/21:30 stay as planned."
+ "trend_check_morning": "2026-10-29 09:15-09:40 Baku: world headlines (Euronews/Al Jazeera/Wikipedia current events searches, 'breaking news 29 Oct') + AZ news: the dominant story is the 28 Oct Spain high-speed train collision near Urda (at least 68 dead per ABC/CBC/CNBC). Chosen as today's 18:30 trend reel per RUNBOOK D (big news first, sober mode). Nothing else needs an immediate swap; 13:00/16:00/21:30 stay as planned.",
+ "trend_swap": {
+  "when": "2026-10-29 15:25-15:30 Baku",
+  "what": "18:30 Pando backup -> Spain high-speed train collision trend reel on IG + TikTok + YouTube (existing posts updated, none added; old Pando video removed from all 3)",
+  "why": "Dominant world story (section D BIG NEWS FIRST); toll re-checked 15:25: still 'at least 68' (CBS, CNBC, CNN, ABC, NPR 29 Oct) -> beat 2 unchanged; caption time stamp changed to 'günortaya'. Sober mode: no follow CTA pill (factgen cta=''), first pill 'XƏBƏR' instead of 'BİLİRDİNİZMİ?', only 🕯️. No 19:30/19:40 trend quiz stories in format v4, so no story re-render.",
+  "backup": "Pando (2026-10-29-3) marked unposted in db.json for a later day",
+  "frames_checked": "hook frame + 3 beats + end viewed: text inside safe zone, no CTA, photo watermark (top right) cropped out"
+ }
 }

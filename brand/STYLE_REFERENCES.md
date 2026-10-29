@@ -51,3 +51,17 @@ section below.
 - Series badge "SERİ 2" + numbered 3-step checklist + "Takip et" button at the end.
 - Our use: "Necə işləyir?" explainers — how Şollar water reaches Baku (flow), how oil became money for Baku
   (Nobel → tanker → Europe), comparisons with growing stacks/bars (Caspian vs other lakes). Good fit for HyperFrames.
+
+## 2026-10-29 — story.gaffer ("biggest Premier League upsets", 3D data story) — Gartal: "great animation and design"
+- REAL 3D DATA VISUALISATION (three.js-style, low-poly, night lighting), not character animation → very doable
+  with our headless three.js setup (prototypes/cine/render.js) or HyperFrames+WebGL.
+- Each idea = one 3D METAPHOR: a roulette wheel for the odds (4.5% slice glowing yellow, ball lands on it);
+  ~10,000 games as a field of glowing pillars (height = how surprising), #1 pillar golden with a light beam;
+  a waffle grid of tiles (84 games) where the losses drop out and turn red; stadium stands as dark backdrop.
+- Camera slowly orbits/dollies between scenes; pillars light up one by one with a small HUD card ("#3 MAN CITY 2–3
+  CRYSTAL PALACE", date + odds in tiny mono caps).
+- Text: top-left, white bold sans, 2–3 lines, ONE keyword/number in yellow; tiny uppercase mono labels as
+  annotations. Restrained palette: navy night + wood/beige + one blue team colour + yellow highlight + red = bad.
+- Ends by returning to the opening metaphor (roulette) with an open question → comments.
+- Our use: number facts as 3D metaphors — Caspian vs other lakes as water columns; 47,000 Pando trunks as a
+  forest field; mud volcanoes as a pillar map of Azerbaijan; "1 in X" odds facts as a wheel.

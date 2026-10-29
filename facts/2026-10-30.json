@@ -1,0 +1,379 @@
+{
+ "date": "2026-10-30",
+ "status": "planned",
+ "format": "v2",
+ "content_format": "v4",
+ "planned_note": "Planned in the 2026-10-29 09:10 run (format v4). 10:00 TBG carousel = War of the Worlds radio play, 30 Oct 1938 (88 years; the 'mass panic' was largely a newspaper myth). 13:00 AZ reel (VOICED): Göygöl formed by the 1139 Ganja earthquake (887 years). 16:00 reel (SILENT): Jan Koum signed the $19 bn WhatsApp deal at the old welfare office where he got food stamps. 18:30 trend backup reel (SILENT): Kola Superdeep Borehole 12 262 m, 23 cm wide. 21:30 reel (VOICED): 1054 supernova visible in daylight for 23 days (Crab Nebula). Fri = not a two-part day (Wed+Sat). All photos fetched and checked.",
+ "two_part": "Fri 30 Oct is not a two-part day. First two-part story: Sat 31 Oct — to be planned in the 30 Oct 09:10 run.",
+ "history": {
+  "n": "H",
+  "type": "card",
+  "cat": "Tarix",
+  "day": 30,
+  "month": 10,
+  "year": 1938,
+  "subject": "War of the Worlds radio broadcast, Sun 30 Oct 1938, CBS, Mercury Theatre on the Air (unsponsored, 17 weeks on air), Orson Welles aged 23; adapted H.G. Wells' novel as fake news bulletins about Martians landing in New Jersey (Smithsonian). Some listeners frightened, called police/newspapers; next morning newspapers reported nationwide panic, stampedes, suicides (Smithsonian). C.E. Hooper phoned 5,000 households that night: only 2% named the Welles program/a radio play; it aired against the popular Chase and Sanborn Hour (Edgar Bergen). Six NYC hospitals had no cases; no verified suicide. Newspapers had lost ad revenue to radio and used the story to paint radio as untrustworthy (Slate, Pooley & Socolow 2013; NPR 2013).",
+  "photo_request": "Orson Welles 1938 press conference after the broadcast (Commons, PD)",
+  "card_title": "30 OKTYABR 1938",
+  "title": "88 il əvvəl bu gün radio «Marslılar gəlir» dedi",
+  "text": "1938-ci il 30 oktyabrda Orson Uells radioda Marslıların hücumunu canlı xəbər kimi oxudu. Ertəsi gün qəzetlər «panika» yazdı, amma tarixçilərə görə bu, çox şişirdilmişdi.",
+  "cover": {
+   "hook": "Marslı hücumu: məşhur «panika» şişirdilmişdi",
+   "sub": "30 oktyabr 1938 · 88 il əvvəl bu gün"
+  },
+  "slides": [
+   {
+    "h": "23 yaş",
+    "t": "1938-ci il 30 oktyabr axşamı 23 yaşlı Orson Uells CBS radiosunda «Dünyaların müharibəsi» romanını oxudu. Tamaşa canlı xəbər kimi qurulmuşdu."
+   },
+   {
+    "h": "Marslılar",
+    "t": "Radioda «Marslılar Nyu-Cersiyə endi» deyən saxta xəbərlər səslənirdi. Bəzi dinləyicilər qorxub polisə və qəzetlərə zəng etdi."
+   },
+   {
+    "h": "2 faiz",
+    "t": "Həmin axşam 5 000 evə zəng edib sorğu apardılar. Cəmi 2 faizi bu verilişi dinlədiyini dedi. Çoxu başqa kanalda məşhur komediya şousuna qulaq asırdı."
+   },
+   {
+    "h": "Qəzetlər",
+    "t": "Ertəsi gün qəzetlər «bütün ölkə panikaya düşdü» yazdı. Tarixçilərə görə, səbəb var idi: radio qəzetlərin reklam pulunu əlindən alırdı."
+   }
+  ],
+  "caption": "88 il əvvəl bu gün radio «Marslılar gəlir» dedi 📻\n\n1938-ci il 30 oktyabr axşamı 23 yaşlı Orson Uells CBS radiosunda «Dünyaların müharibəsi» romanını canlı xəbər kimi oxudu: guya Marslılar Nyu-Cersiyə enmişdi. Bəzi dinləyicilər qorxub polisə zəng etdi. Ertəsi gün qəzetlər «ölkə panikaya düşdü» yazdı. Amma həmin axşam 5 000 evdə aparılan sorğuda cəmi 2 faiz bu verilişi dinlədiyini dedi. Tarixçilərə görə, qəzetlər radionu pisləmək üçün hekayəni şişirtmişdi.\n\n📩 Hər xəbərə dərhal inanan dostuna göndər — 1938-də də belələri var idi 😄\n\nFoto: Acme News Photos / Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #tarixdəbugün #radio #tarix",
+  "first_comment": "Sən radioda belə bir xəbər eşitsən, inanardın? 👇",
+  "quizzes": [
+   {
+    "q": "Orson Uells o verilişdə neçə yaşında idi?",
+    "options": [
+     "23",
+     "33",
+     "43"
+    ],
+    "answer": "23",
+    "why": "1938-ci ildə, CBS radiosunda."
+   },
+   {
+    "q": "Sorğuda verilişi dinləyənlər neçə faiz idi?",
+    "options": [
+     "2 faiz",
+     "20 faiz",
+     "50 faiz"
+    ],
+    "answer": "2 faiz",
+    "why": "5 000 evdə sorğu aparılmışdı."
+   },
+   {
+    "q": "Radio tamaşasında kimlər hücum edirdi?",
+    "options": [
+     "Marslılar",
+     "Robotlar",
+     "Dinozavrlar"
+    ],
+    "answer": "Marslılar",
+    "why": "Guya Nyu-Cersiyə enmişdilər."
+   }
+  ],
+  "todaystory": {
+   "day": 30,
+   "month": 10,
+   "year": 1938,
+   "title": "Radio «Marslılar gəlir» dedi",
+   "text": "1938-ci il bu gün Orson Uells radioda Marslıların hücumunu canlı xəbər kimi oxudu. Qəzetlər «panika» yazdı, amma sorğuda cəmi 2 faiz bu verilişi dinləyirdi.",
+   "credit": "Foto: Acme News Photos / Wikimedia Commons"
+  },
+  "sources": [
+   "https://www.smithsonianmag.com/history/infamous-war-worlds-radio-broadcast-was-magnificent-fluke-180955180/",
+   "https://www.slate.com/articles/arts/history/2013/10/orson_welles_war_of_the_worlds_panic_myth_the_infamous_radio_broadcast_did.single.html",
+   "https://www.npr.org/sections/thetwo-way/2013/10/30/241797346/75-years-ago-war-of-the-worlds-started-a-panic-or-did-it"
+  ],
+  "verify_note": "Date, CBS, Mercury Theatre, Welles 23, fake bulletins, newspapers' panic stories: Smithsonian. Hooper 5,000 households / 2%, Chase and Sanborn competition, newspapers vs radio ad revenue: Slate (Pooley & Socolow); NPR 2013 piece covers the same research. Photo is the real 31 Oct 1938 press conference (Acme, PD).",
+  "photo": {
+   "path": "fetch/img/2026-10-30_H_welles.jpg",
+   "credit": "Acme News Photos / Wikimedia Commons (ictimai mülkiyyət)",
+   "cy": 0.4,
+   "full": true,
+   "source": "https://commons.wikimedia.org/wiki/File:Orson_Welles_War_of_the_Worlds_1938.jpg",
+   "alt": "fetch/img/2026-10-30_H_welles_b.jpg (Carl Van Vechten 1937 portrait, PD) — use for the todaystory/one slide"
+  }
+ },
+ "facts": [
+  {
+   "n": 1,
+   "type": "reel",
+   "cat": "Azərbaycan",
+   "voiced": true,
+   "subject": "Göygöl formed after the 30 (or 25) Sept 1139 Ganja earthquake (M ~7+): part of Mount Kapaz collapsed and the landslide dammed a mountain river (Kürəkçay per Wikipedia, Ağsu per azerbaijan.travel) -> lake; 7 lakes formed in total incl. Maralgöl and Ağgöl (Wikipedia '1139 Ganja earthquake'). Altitude ~1,556 m, max depth ~93-96 m, area 0.78 km² (Wikipedia Göygöl). Goy Gol reserve 1925, national park 2008. Nizami Ganjavi born c. 1141 in Ganja (Britannica/Wikipedia).",
+   "photo_request": "Göygöl lake (Commons)",
+   "title": "887 yaşlı göl: Göygölü zəlzələ yaradıb",
+   "text": "1139-cu ildə güclü zəlzələ Kəpəz dağının bir hissəsini uçurdu. Qayalar çayın yolunu kəsdi və Göygöl yarandı.",
+   "reel_hook": "887 YAŞLI GÖL: GÖYGÖLÜ ZƏLZƏLƏ YARADIB",
+   "reel_beats": [
+    "1139-cu ilin sentyabrında Gəncə yaxınlığında çox güclü zəlzələ oldu. Kəpəz dağının bir hissəsi uçub aşağı töküldü.",
+    "Qayalar dağ çayının yolunu kəsdi, su yığılıb göl oldu. O zəlzələdən yaranan yeddi göldən ən məşhuru Göygöldür.",
+    "Göygölün dərinliyi 90 metrdən çoxdur. Nizami Gəncəvi isə bu zəlzələdən təxminən iki il sonra Gəncədə doğulub. Bunu bilirdin?"
+   ],
+   "voice": {
+    "voice": "az-AZ-BanuNeural",
+    "rate": "+15%",
+    "texts": [
+     "Səkkiz yüz səksən yeddi yaşlı göl. Göygölü zəlzələ yaradıb.",
+     "Min yüz otuz doqquzuncu ilin sentyabrında Gəncə yaxınlığında çox güclü zəlzələ oldu. Kəpəz dağının bir hissəsi uçub aşağı töküldü.",
+     "Qayalar dağ çayının yolunu kəsdi, su yığılıb göl oldu. O zəlzələdən yaranan yeddi göldən ən məşhuru Göygöldür.",
+     "Göygölün dərinliyi doxsan metrdən çoxdur. Nizami Gəncəvi isə bu zəlzələdən təxminən iki il sonra Gəncədə doğulub. Bunu bilirdin?"
+    ]
+   },
+   "cta": "Hər gün 13:00-da yeni Bakı faktı — izlə!",
+   "caption": "Göygöl 887 il əvvəl bir zəlzələdən yaranıb 🏞️\n\n1139-cu ilin sentyabrında Gəncə yaxınlığında çox güclü zəlzələ oldu. Kəpəz dağının bir hissəsi uçdu, qayalar dağ çayının yolunu kəsdi və su yığılıb göl oldu. O zəlzələdən yeddi göl yarandı, Maralgöl də onlardandır. Göygöl dəniz səviyyəsindən təxminən 1 550 metr hündürdədir, dərinliyi isə 90 metrdən çoxdur. Böyük şair Nizami Gəncəvi bu zəlzələdən təxminən iki il sonra Gəncədə doğulub.\n\n📩 «Göygöl həmişə orada olub» deyən dostuna göndər — 887 il əvvəl orada dağ var idi 😄\n\n👉 Hər gün 13:00-da Azərbaycan haqqında bilmədiyin bir fakt — izlə ki, qaçırmayasan\n\nFoto: Ilkin M-zade / Wikimedia Commons (CC BY-SA 4.0)\n\n#bilirdinizmi #maraqlıfaktlar #göygöl #gəncə #azərbaycan",
+   "first_comment": "Sən Göygöldə olmusan? 👇",
+   "quizzes": [
+    {
+     "q": "Göygöl hansı ildə yaranıb?",
+     "options": [
+      "1139",
+      "1539",
+      "1839"
+     ],
+     "answer": "1139",
+     "why": "Gəncə zəlzələsindən sonra."
+    },
+    {
+     "q": "Göygölü hansı dağın uçqunu yaradıb?",
+     "options": [
+      "Kəpəz",
+      "Şahdağ",
+      "Bazardüzü"
+     ],
+     "answer": "Kəpəz",
+     "why": "Qayalar çayın yolunu kəsdi."
+    },
+    {
+     "q": "O zəlzələdən neçə göl yaranıb?",
+     "options": [
+      "2",
+      "7",
+      "17"
+     ],
+     "answer": "7",
+     "why": "Maralgöl də onlardandır."
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/1139_Ganja_earthquake",
+    "https://en.wikipedia.org/wiki/G%C3%B6yg%C3%B6l_(lake)",
+    "https://azerbaijan.travel/be-inspired-lake-goygol",
+    "https://www.britannica.com/biography/Nezami"
+   ],
+   "verify_note": "1139 earthquake -> Kapaz collapse -> river dammed -> Göygöl: Wikipedia (2 articles, citing Ambraseys, USGS, NOAA etc.) + azerbaijan.travel (official tourism board). River name differs between sources -> not named. 7 lakes: Wikipedia earthquake article. Depth 93-96 m -> '90 metrdən çox'; altitude 1,553-1,556 m -> 'təxminən 1 550'. Nizami c.1141 -> 'təxminən iki il sonra'. 887 = 2026 - 1139.",
+   "photo": {
+    "path": "fetch/img/2026-10-30_1_goygol_b.jpg",
+    "credit": "Ilkin M-zade / Wikimedia Commons (CC BY-SA 4.0)",
+    "cy": 0.5,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Goygol_lake_(G%C3%B6yg%C3%B6l).jpg",
+    "alt": "fetch/img/2026-10-30_1_goygol.jpg (portrait, Hawaadli, CC BY-SA 4.0)"
+   }
+  },
+  {
+   "n": 2,
+   "type": "reel",
+   "cat": "Texnologiya",
+   "voiced": false,
+   "subject": "Jan Koum: emigrated from a village near Kyiv, Ukraine, to Mountain View, California at 16 with his mother; mother babysat, he swept a grocery store; they stood in line for food stamps at a government office in Mountain View (J Weekly 2014; NBC). Brian Acton rejected by Facebook in 2009 (NBC). Facebook bought WhatsApp for $19 bn (Feb 2014); Koum (37), Acton and Sequoia's Jim Goetz signed it at the disused former North County Social Services office across the tracks from WhatsApp HQ, where Koum once stood in line for food stamps (Forbes via ACM; Quartz; J Weekly).",
+   "photo_request": "Jan Koum portrait (Commons)",
+   "title": "19 milyardlıq müqaviləni ərzaq yardımı aldığı yerdə imzaladı",
+   "text": "Yan Kum yeniyetmə ikən ərzaq talonu almaq üçün növbəyə dururdu. 2014-cü ildə WhatsApp-ı 19 milyard dollara satanda müqaviləni elə həmin binada imzaladı.",
+   "reel_hook": "19 MİLYARDLIQ MÜQAVİLƏNİ ƏRZAQ YARDIMI ALDIĞI YERDƏ İMZALADI",
+   "reel_beats": [
+    "Yan Kum 16 yaşında anası ilə Ukraynadan ABŞ-a köçdü. Pul çatmırdı: anası uşağa baxırdı, o isə mağazada döşəmə süpürürdü.",
+    "Onlar sosial yardım idarəsində növbəyə durub ərzaq talonu alırdılar. Sonra Yan proqramçı oldu və dostu ilə WhatsApp-ı yaratdı.",
+    "2014-cü ildə Facebook WhatsApp-ı 19 milyard dollara aldı. Yan müqaviləni elə o köhnə yardım idarəsinin binasında imzaladı. Bunu bilirdin?"
+   ],
+   "caption": "19 milyard dollarlıq müqaviləni gəncliyində yardım aldığı binada imzaladı 💬\n\nYan Kum 16 yaşında anası ilə Ukraynadan Kaliforniyaya köçdü. Anası uşağa baxırdı, o isə mağazada döşəmə süpürürdü. Onlar Mauntin-Vyu şəhərindəki sosial yardım idarəsində növbəyə durub ərzaq talonu alırdılar. Sonra Yan proqramçı oldu və 2009-cu ildə dostu Brayan Ekton ilə WhatsApp-ı qurdu. Maraqlıdır ki, Ekton elə həmin il Facebook-a işə düzəlmək istəmişdi, amma onu götürməmişdilər. 2014-cü ildə Facebook WhatsApp-ı 19 milyard dollara aldı və müqavilə o köhnə yardım idarəsinin boş binasında imzalandı.\n\n📩 «Mənlik deyil, alınmayacaq» deyən dostuna göndər 💪\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: afromusing / Wikimedia Commons (CC BY 2.0)\n\n#bilirdinizmi #maraqlıfaktlar #whatsapp #uğur #texnologiya",
+   "first_comment": "Hər gün WhatsApp-da ən çox kimə yazırsan? 👇",
+   "quizzes": [
+    {
+     "q": "Yan Kum neçə yaşında ABŞ-a köçdü?",
+     "options": [
+      "6",
+      "16",
+      "26"
+     ],
+     "answer": "16",
+     "why": "Anası ilə Ukraynadan köçdü."
+    },
+    {
+     "q": "Facebook WhatsApp-ı neçəyə aldı?",
+     "options": [
+      "1,9 milyard dollar",
+      "19 milyard dollar",
+      "190 milyard dollar"
+     ],
+     "answer": "19 milyard dollar",
+     "why": "2014-cü ildə."
+    },
+    {
+     "q": "Müqavilə harada imzalandı?",
+     "options": [
+      "Köhnə yardım idarəsində",
+      "Facebook ofisində",
+      "Restoranda"
+     ],
+     "answer": "Köhnə yardım idarəsində",
+     "why": "Yan orada ərzaq talonu alırdı."
+    }
+   ],
+   "sources": [
+    "https://cacmb4.acm.org/careers/172403-the-rags-to-riches-tale-of-how-jan-koum-built-whatsapp-into-facebooks-new-19-billion-baby",
+    "https://qz.com/179233/without-food-stamps-there-might-be-no-whatsapp",
+    "https://jweekly.com/2014/02/28/from-ukrainian-village-to-silicon-valley-billionaire/",
+    "https://www.nbcnews.com/tech/internet/whatsapp-founders-include-facebook-reject-ukrainian-immigrant-n34541"
+   ],
+   "verify_note": "Signing at former North County Social Services office where he got food stamps: Forbes (via ACM) + Quartz + J Weekly ('outside') + NBC ('on the door') -> wording 'binasında' (at the building), no 'door' claim. Age 16: J Weekly + NBC. Mother babysat / he swept a grocery store: J Weekly. $19 bn: Forbes/Quartz/J Weekly (NBC's $16 bn = cash+stock before RSUs; we use the widely reported 19). Acton rejected by Facebook 2009: NBC. WhatsApp founded 2009 (well known). Photo cropped to Koum only (private person removed).",
+   "photo": {
+    "path": "fetch/img/2026-10-30_2_koum_crop.jpg",
+    "credit": "afromusing / Wikimedia Commons (CC BY 2.0)",
+    "cy": 0.15,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Jan_Koum.jpg",
+    "note": "cropped from 2026-10-30_2_koum.jpg to remove the private person next to him; check frame 0 at build"
+   }
+  },
+  {
+   "n": 3,
+   "type": "reel",
+   "cat": "Elm",
+   "voiced": false,
+   "subject": "Kola Superdeep Borehole SG-3, Kola Peninsula (Murmansk region, Russia): drilling began May 1970, reached 12,262 m (40,230 ft) in 1989, deepest artificial point; diameter ~23 cm (9 in); bottom temperature ~180 °C vs ~100 °C expected; rock behaved 'more like plastic', drilling stopped 1992, project ended 1994 (Scientific American; EarthDate/UT Austin). Welded shut (photo Aug 2012). Everest 8,849 m -> hole is ~3.4 km deeper than Everest is high.",
+   "photo_request": "welded cap of the Kola borehole (Commons)",
+   "title": "12 262 metr: insanın qazdığı ən dərin quyu",
+   "text": "Kola quyusu 12 262 metr dərinliyə çatıb, amma eni cəmi 23 santimetrdir. Dibdə istilik 180 dərəcə idi.",
+   "reel_hook": "12 262 METR: İNSANIN QAZDIĞI ƏN DƏRİN QUYU",
+   "reel_beats": [
+    "1970-ci ildə Rusiyanın şimalında, Kola yarımadasında alimlər Yerin içinə doğru quyu qazmağa başladılar.",
+    "19 il sonra quyu 12 262 metrə çatdı. Amma onun eni cəmi 23 santimetrdir, təxminən bir boşqab boyda.",
+    "Dibdə istilik 180 dərəcə idi, alimlər isə 100 dərəcə gözləyirdilər. Qaya yumşaldı və qazmanı dayandırdılar. Bunu bilirdin?"
+   ],
+   "caption": "İnsanın qazdığı ən dərin quyu 12 262 metrdir 🕳️\n\n1970-ci ildə sovet alimləri Kola yarımadasında Yerin qabığını öyrənmək üçün quyu qazmağa başladılar. 1989-cu ildə quyu 12 262 metrə çatdı: bu, Everest dağının hündürlüyündən 3 km-dən çoxdur. Amma quyunun eni cəmi 23 santimetrdir. Dibdə istilik 180 dərəcəyə çatdı, alimlər isə təxminən 100 dərəcə gözləyirdilər. İstidən qaya yumşaldı, qazma alətləri sıradan çıxdı və iş 1992-ci ildə dayandırıldı. İndi quyunun ağzı metal qapaqla bağlanıb.\n\n📩 «Dünyanın o biri tərəfinə qədər qazaram» deyən dostuna göndər — 12 km-də dayanmalı olacaq 😄\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Rakot13 / Wikimedia Commons (CC BY-SA 3.0)\n\n#bilirdinizmi #maraqlıfaktlar #elm #yer #rekord",
+   "first_comment": "Sən 12 km aşağı enmək istərdin? 👇",
+   "quizzes": [
+    {
+     "q": "Kola quyusu nə qədər dərindir?",
+     "options": [
+      "1 226 metr",
+      "12 262 metr",
+      "122 620 metr"
+     ],
+     "answer": "12 262 metr",
+     "why": "1989-cu ildə bu dərinliyə çatdı."
+    },
+    {
+     "q": "Kola quyusunun eni nə qədərdir?",
+     "options": [
+      "23 santimetr",
+      "2,3 metr",
+      "23 metr"
+     ],
+     "answer": "23 santimetr",
+     "why": "Təxminən bir boşqab boyda."
+    },
+    {
+     "q": "Quyunun dibində istilik neçə dərəcə idi?",
+     "options": [
+      "80",
+      "180",
+      "580"
+     ],
+     "answer": "180",
+     "why": "Alimlər 100 dərəcə gözləyirdilər."
+    }
+   ],
+   "sources": [
+    "https://www.scientificamerican.com/article/how-deep-is-the-deepest-hole-in-the-world",
+    "https://www.earthdate.org/episodes/kola-superdeep"
+   ],
+   "verify_note": "12,262 m, ~23 cm, ~180 °C (vs 100 °C expected per EarthDate, 'almost twice the predicted' per SciAm), heat -> plastic rock -> stopped 1992: SciAm + EarthDate. Start 1970 + depth reached 1989: EarthDate. WorldAtlas says 180 °F — wrong, ignored. Everest 8,849 m -> '3 km-dən çox'.",
+   "photo": {
+    "path": "fetch/img/2026-10-30_3_kola.jpg",
+    "credit": "Rakot13 / Wikimedia Commons (CC BY-SA 3.0)",
+    "cy": 0.6,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B0%D0%BC%D0%B0_%D1%81%D0%BA%D0%B2%D0%B0%D0%B6%D0%B8%D0%BD%D0%B0(%D0%B7%D0%B0%D0%B2%D0%B0%D1%80%D0%B5%D0%BD%D0%B0),_%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82_2012.JPG",
+    "alt": "fetch/img/2026-10-30_3_kola_b.jpg (ruined drilling building, Alexander Novikov, CC BY-SA 4.0)",
+    "note": "welded cap is at lower-centre; keep it in frame (cy ~0.6)"
+   }
+  },
+  {
+   "n": 4,
+   "type": "reel",
+   "cat": "Kosmos",
+   "voiced": true,
+   "subject": "SN 1054: on 4 July 1054 Chinese (and Japanese) astronomers recorded a 'guest star' in Taurus, said to be as bright as the Moon; visible in daylight for 23 days and at night for nearly two years (~653 days per Sung Shih) (EARTH Magazine; EarthSky). Its remnant is the Crab Nebula (M1), ~6,500 light-years away; central pulsar spins ~30 times per second (EarthSky; EARTH Magazine).",
+   "photo_request": "Crab Nebula Hubble mosaic (NASA, PD)",
+   "title": "1054: ulduz 23 gün gündüz göründü",
+   "text": "1054-cü ildə Çin astronomları gündüz də görünən yeni ulduz qeydə aldılar. Bu, partlayan ulduz idi; qalıqları bu gün Xərçəng dumanlığıdır.",
+   "reel_hook": "1054: ULDUZ 23 GÜN GÜNDÜZ GÖRÜNDÜ",
+   "reel_beats": [
+    "1054-cü ilin iyulunda Çin astronomları göydə yeni, çox parlaq bir ulduz gördülər və bunu kitablarına yazdılar.",
+    "Bu ulduz 23 gün gündüz, günəş işığında da görünürdü. Gecə isə onu təxminən iki il görmək olurdu.",
+    "Bu, partlayan bir ulduz idi. Onun qalıqları bu gün Xərçəng dumanlığı adlanır və bizdən 6 500 işıq ili uzaqdadır. Bunu bilirdin?"
+   ],
+   "voice": {
+    "voice": "az-AZ-BanuNeural",
+    "rate": "+15%",
+    "texts": [
+     "Min əlli dördüncü il. Ulduz iyirmi üç gün gündüz göründü.",
+     "Min əlli dördüncü ilin iyulunda Çin astronomları göydə yeni, çox parlaq bir ulduz gördülər və bunu kitablarına yazdılar.",
+     "Bu ulduz iyirmi üç gün gündüz, günəş işığında da görünürdü. Gecə isə onu təxminən iki il görmək olurdu.",
+     "Bu, partlayan bir ulduz idi. Onun qalıqları bu gün Xərçəng dumanlığı adlanır və bizdən altı min beş yüz işıq ili uzaqdadır. Bunu bilirdin?"
+    ]
+   },
+   "caption": "1054-cü ildə bir ulduz 23 gün gündüz də göründü ✨\n\n1054-cü il iyulun 4-də Çin astronomları göydə yeni, çox parlaq bir ulduz qeydə aldılar. Onu 23 gün gündüz, günəş işığında görmək olurdu, gecə isə təxminən iki il göydə qaldı. Bu, partlayan bir ulduz, yəni fövqəlyeni idi. Onun qalıqları bu gün Xərçəng dumanlığı adlanır və bizdən təxminən 6 500 işıq ili uzaqdadır. Dumanlığın mərkəzində qalan kiçik ulduz isə saniyədə təxminən 30 dəfə fırlanır.\n\n📩 Gecə göyə baxıb ulduz sayan dostuna göndər ✨\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: NASA, ESA, J. Hester, A. Loll\n\n#bilirdinizmi #maraqlıfaktlar #kosmos #ulduz #astronomiya",
+   "first_comment": "Sən gündüz göydə ulduz görmüsən? 👇",
+   "quizzes": [
+    {
+     "q": "1054-cü il ulduzu gündüz neçə gün göründü?",
+     "options": [
+      "3",
+      "23",
+      "230"
+     ],
+     "answer": "23",
+     "why": "Gecə isə təxminən iki il göründü."
+    },
+    {
+     "q": "Bu ulduzu ilk kimlər qeydə aldı?",
+     "options": [
+      "Çin astronomları",
+      "Yunan alimləri",
+      "Misir kahinləri"
+     ],
+     "answer": "Çin astronomları",
+     "why": "1054-cü ilin iyulunda."
+    },
+    {
+     "q": "Xərçəng dumanlığı bizdən nə qədər uzaqdadır?",
+     "options": [
+      "65 işıq ili",
+      "6 500 işıq ili",
+      "6,5 milyon işıq ili"
+     ],
+     "answer": "6 500 işıq ili",
+     "why": "Partlayan ulduzun qalıqlarıdır."
+    }
+   ],
+   "sources": [
+    "https://www.earthmagazine.org/article/benchmarks-july-4-1054-birth-crab-nebula/",
+    "https://earthsky.org/clusters-nebulae-galaxies/crab-nebula-was-an-exploding-star/"
+   ],
+   "verify_note": "4 July 1054, Chinese records, 23 days in daylight, ~2 years at night (653 days): EARTH Magazine + EarthSky. 6,500 ly and ~30 rotations/s: EarthSky (EARTH Mag: pulses ~30/s). AZ name 'Xərçəng dumanlığı' (simple, no brackets).",
+   "photo": {
+    "path": "fetch/img/2026-10-30_4_crab.jpg",
+    "credit": "NASA, ESA, J. Hester, A. Loll (public domain)",
+    "cy": 0.5,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Crab_Nebula.jpg"
+   }
+  }
+ ],
+ "language_check": "2026-10-29 09:10 run: every beat/caption re-read sentence by sentence (section L): short sentences, no English words in brackets, numbers with NBSP on images, verb cases checked (yolunu kəsdi, uşağa baxırdı, idarəsində növbəyə durub)."
+}

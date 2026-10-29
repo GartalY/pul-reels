@@ -455,5 +455,67 @@
   "19:45 REPOST Otzi": 409197480,
   "21:30 Uranus": 409197443
  },
- "scheduled_check": "2026-10-28 ~21:06 Baku: getScheduledPosts for 29 Oct = 22 posts (IG 5 posts + 5 stories, TikTok 6, YouTube 6), no duplicates."
+ "scheduled_check": "2026-10-28 ~21:06 Baku: getScheduledPosts for 29 Oct = 22 posts (IG 5 posts + 5 stories, TikTok 6, YouTube 6), no duplicates.",
+ "trend": {
+  "n": 3,
+  "type": "reel",
+  "format": "v4",
+  "cat": "Coğrafiya",
+  "voiced": false,
+  "sober": true,
+  "no_follow_cta": true,
+  "subject": "Spain high-speed train collision, Wed 28 Oct 2026 ~08:30-08:54 local, km 118 between Los Yébenes and Urda (Toledo province, >100 km south of Madrid): a Renfe high-speed train hit the rear of a stopped Iryo train (service 6076); both Madrid -> Seville; 397 + 146/147 passengers; two Iryo coaches derailed down an embankment. At least 68 dead (ABC News, CBC, CNBC headline; latest figure found 29 Oct ~09:30 Baku), at least 15 seriously injured + >50 hospitalised (ABC). Cause under investigation by the independent rail accident investigation commission; no official finding. 2nd deadly high-speed crash in Spain in 2026: Adamuz (Córdoba), 18 Jan 2026, Iryo derailed and was hit by an oncoming Renfe train, 46 dead. Spain ~3,900 km high-speed track, second only to China (OPB/AP); Europe's largest. Deadliest Spanish rail crash remains Santiago de Compostela 2013 (80 dead). EU rail: ~0.033 passenger fatalities per billion passenger-km (ERA Safety Overview 2021).",
+  "photo_request": "neutral AVE train on a viaduct (no wreckage, no victims)",
+  "title": "İspaniyada 9 ayda ikinci qatar faciəsi",
+  "text": "Oktyabrın 28-də Toledo yaxınlığında sürətli qatar dayanmış başqa qatara arxadan çırpıldı. Rəsmilərin sözünə görə, ən azı 68 nəfər həlak olub.",
+  "reel_hook": "9 AYDA 2-Cİ FACİƏ: İSPANİYADA QATARLAR TOQQUŞDU",
+  "reel_beats": [
+   "Oktyabrın 28-də səhər Toledo yaxınlığında sürətli Renfe qatarı yolda dayanmış Iryo qatarına arxadan çırpıldı. Hər ikisi Madriddən Sevilyaya gedirdi.",
+   "Rəsmilərin sözünə görə, ən azı 68 nəfər həlak olub, onlarla insan yaralanıb. Qəzanın səbəbini müstəqil komissiya araşdırır.",
+   "Yanvarda Adamuz yaxınlığında da iki qatar toqquşmuşdu, onda 46 nəfər həlak oldu. İspaniyanın sürətli dəmir yolu Avropada ən uzunudur: təxminən 3 900 km."
+  ],
+  "caption": "Həlak olanların yaxınlarına başsağlığı veririk 🕯️\n\nİspaniyada 9 ay ərzində ikinci böyük qatar faciəsi baş verdi. Oktyabrın 28-də səhər Toledo vilayətində, Urda yaxınlığında Renfe şirkətinin sürətli qatarı yolda dayanmış Iryo qatarına arxadan çırpıldı. İki qatarda 540-dan çox sərnişin var idi. 29 oktyabr səhərə olan məlumata görə, ən azı 68 nəfər həlak olub, onlarla insan xəstəxanaya aparılıb. Rəsmilərin sözünə görə, qəzanın səbəbini müstəqil komissiya araşdırır, hələ nəticə açıqlanmayıb.\n\nBu il yanvarın 18-də Kordova vilayətində, Adamuz yaxınlığında da iki sürətli qatar toqquşmuşdu, onda 46 nəfər həlak olmuşdu. İspaniyanın sürətli qatar xətti təxminən 3 900 km-dir: dünyada yalnız Çində daha uzundur. Avropa statistikasına görə, dəmir yolu yenə də ən təhlükəsiz nəqliyyat növlərindən biri sayılır.\n\nFoto: Pablo Nieto Abad / Wikimedia Commons (CC BY-SA 2.0)\n\n#bilirdinizmi #xəbərlər #ispaniya #qatar #dəmiryolu",
+  "first_comment": "Həlak olanlara rəhmət, yaralılara şəfa diləyirik 🕯️",
+  "quizzes": [
+   {
+    "q": "Qəzaya uğrayan qatarlar hara gedirdi?",
+    "options": [
+     "Sevilyaya",
+     "Barselonaya",
+     "Valensiyaya"
+    ],
+    "answer": "Sevilyaya",
+    "why": "Hər iki qatar Madriddən Sevilyaya gedirdi."
+   },
+   {
+    "q": "İspaniyanın sürətli dəmir yolu təxminən neçə km-dir?",
+    "options": [
+     "900 km",
+     "3 900 km",
+     "9 000 km"
+    ],
+    "answer": "3 900 km",
+    "why": "Dünyada yalnız Çində daha uzundur."
+   }
+  ],
+  "sources": [
+   "https://abcnews.com/International/10-killed-train-collision-high-speed-line-spain/story?id=137633323",
+   "https://www.cbc.ca/news/world/train-crash-spain-toledo-9.7399154",
+   "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
+   "https://www.opb.org/article/2026/10/28/spain-high-speed-train-crash-leaves-dozens-dead-south-of-madrid/",
+   "https://www.latintimes.com/spain-toledo-renfe-iryo-train-crash-death-toll-600640",
+   "https://www.era.europa.eu/system/files/2022-10/Safety%20Overview%202021.pdf"
+  ],
+  "verify_note": "68 dead: ABC News (García-Page) + CBC + CNBC headlines (Fox/Newsweek/OPB had 64 earlier) -> 'ən azı 68', figure time stated. Rear-end collision Renfe -> stopped Iryo, both Madrid->Seville, 397 + 146/147 passengers: ABC + OPB + LatinTimes. Cause: no official finding (ABC, OPB) -> only 'komissiya araşdırır'. Adamuz 18 Jan, 46 dead: ABC + LatinTimes. 3,900 km, 2nd after China: OPB/AP; 'Europe's largest' LatinTimes. Rail-vs-car ratio left out (only one non-official source). RE-CHECK the toll at 15:23 before rendering; if it rose, update beat 2 and caption.",
+  "photo": {
+   "path": "fetch/img/2026-10-29_T_ave.jpg",
+   "credit": "Pablo Nieto Abad / Wikimedia Commons (CC BY-SA 2.0)",
+   "cy": 0.5,
+   "full": true,
+   "source": "https://commons.wikimedia.org/wiki/File:AVE_S-102._Viaducto_sobre_el_Arroyo_de_Pedro_Gil_(32308646046).jpg",
+   "alt": "fetch/img/2026-10-29_T_line.jpg (Madrid–Sevilla AVE line at Campo de Calatrava, public domain, no train)"
+  },
+  "build_note_1523": "SOBER mode (RUNBOOK D tragedies): render with no follow CTA pill if factgen supports it (else cta = ''), no 'Bunu bilirdin?'. TikTok/YouTube texts: no follow line, no 📩, only 🕯️. Update the existing 18:30 IG + TikTok + YouTube posts (do not add new ones)."
+ },
+ "trend_check_morning": "2026-10-29 09:15-09:40 Baku: world headlines (Euronews/Al Jazeera/Wikipedia current events searches, 'breaking news 29 Oct') + AZ news: the dominant story is the 28 Oct Spain high-speed train collision near Urda (at least 68 dead per ABC/CBC/CNBC). Chosen as today's 18:30 trend reel per RUNBOOK D (big news first, sober mode). Nothing else needs an immediate swap; 13:00/16:00/21:30 stay as planned."
 }

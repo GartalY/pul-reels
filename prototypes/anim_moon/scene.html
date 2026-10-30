@@ -1,0 +1,500 @@
+<!doctype html>
+<html lang="az"><head><meta charset="utf-8">
+<style>
+@font-face{font-family:IDB;src:url(fonts/InterDisplay-Black.otf)}
+@font-face{font-family:IDX;src:url(fonts/InterDisplay-ExtraBold.otf)}
+@font-face{font-family:IDBo;src:url(fonts/InterDisplay-Bold.otf)}
+@font-face{font-family:IDS;src:url(fonts/InterDisplay-SemiBold.otf)}
+@font-face{font-family:MONO;src:url(fonts/DejaVuSansMono-Bold.ttf)}
+html,body{margin:0;background:#04060c;overflow:hidden;width:1080px;height:1920px}
+canvas{display:block;position:absolute;left:0;top:0;width:1080px!important;height:1920px!important}
+#ov{position:absolute;left:0;top:0;width:1080px;height:1920px;pointer-events:none;color:#fafafc}
+.mono{font-family:MONO;letter-spacing:3px;text-transform:uppercase}
+#top{position:absolute;left:70px;top:150px;width:820px;font-size:23px;color:#aab3c5;display:flex;align-items:center;gap:16px}
+#top .dash{width:38px;height:3px;background:#ffc43d}
+#prog{position:absolute;left:70px;top:198px;width:820px;display:flex;gap:10px}
+#prog div{flex:1;height:5px;border-radius:3px;background:rgba(255,255,255,.18);overflow:hidden}
+#prog i{display:block;height:100%;width:0;background:#ffc43d}
+#head{position:absolute;left:70px;top:236px;width:820px;font-family:IDB;font-size:86px;line-height:1.04;letter-spacing:-1.5px;
+  text-shadow:0 4px 30px rgba(0,0,0,.65)}
+#head .w{display:inline-block;will-change:transform}
+#head .k{color:#ffc43d}
+#sub{position:absolute;left:70px;top:1180px;width:820px;box-sizing:border-box;padding:30px 36px 34px;border-radius:30px;
+  background:rgba(7,10,20,.74);border:1.5px solid rgba(255,255,255,.08);font-family:IDBo;font-size:47px;line-height:1.24}
+#sub .w{opacity:.38}
+#sub .tag{text-transform:uppercase;font-family:MONO;font-size:22px;letter-spacing:3px;color:#ffc43d;margin-bottom:14px}
+.lab{position:absolute;white-space:nowrap;font-family:MONO;font-size:24px;letter-spacing:3px;text-transform:uppercase;
+  padding:9px 16px;border-radius:10px;background:rgba(6,9,18,.78);border:1.5px solid rgba(255,196,61,.75);color:#fff;transform:translate(-50%,-50%)}
+.lab b{color:#ffc43d;font-weight:normal}
+.big{font-family:IDB;font-size:54px;letter-spacing:0;text-transform:none;padding:10px 22px}
+#dial{position:absolute;left:0;top:0;overflow:visible}
+#cta{position:absolute;left:70px;top:1180px;width:820px;box-sizing:border-box;border-radius:30px;padding:34px 36px;background:#ffc43d;color:#0e111c;
+  font-family:IDB;font-size:56px;line-height:1.1;opacity:0}
+#cta small{display:block;font-family:MONO;font-size:24px;letter-spacing:3px;margin-top:14px;opacity:.75}
+</style>
+<script type="importmap">{"imports":{"three":"./node_modules/three/build/three.module.js","three/addons/":"./node_modules/three/examples/jsm/"}}</script>
+</head><body>
+<div id="ov">
+  <div id="top" class="mono"><span class="dash"></span><span id="toptxt">Kosmos · miqyas şərtidir</span></div>
+  <div id="prog"><div><i></i></div><div><i></i></div><div><i></i></div></div>
+  <div id="head"></div>
+  <svg id="dial" width="1080" height="1920"></svg>
+  <div id="labs"></div>
+  <div id="sub"></div>
+  <div id="cta">Hər gün yeni fakt — izlə!<small>@bilirdinizmi_az</small></div>
+</div>
+<script type="module">
+import * as THREE from 'three';
+import { EffectComposer } from 'three/addons/postprocessing/EffectComposer.js';
+import { RenderPass } from 'three/addons/postprocessing/RenderPass.js';
+import { UnrealBloomPass } from 'three/addons/postprocessing/UnrealBloomPass.js';
+import { ShaderPass } from 'three/addons/postprocessing/ShaderPass.js';
+import { OutputPass } from 'three/addons/postprocessing/OutputPass.js';
+
+const P = new URLSearchParams(location.search);
+const RS = Number(P.get('rs') || 0.6667);           // internal render scale (1 = full 1080x1920)
+const W = 1080, H = 1920;
+const SEG = JSON.parse(P.get('seg') || '[4.3,8.4,7.4,8.1,2.8]');
+const ST = SEG.map((_, i) => SEG.slice(0, i).reduce((a, b) => a + b, 0));
+const DUR = SEG.reduce((a, b) => a + b, 0);
+const VO = JSON.parse(P.get('vo') || '[3.94,8.04,7.06,7.66]');
+const VOFF = 0.15;
+const clamp = (x, a = 0, b = 1) => Math.max(a, Math.min(b, x));
+const sm = x => { x = clamp(x); return x * x * (3 - 2 * x); };
+const eio = x => { x = clamp(x); return x < .5 ? 4 * x * x * x : 1 - Math.pow(-2 * x + 2, 3) / 2; };
+const eout = x => 1 - Math.pow(1 - clamp(x), 3);
+
+// ---------------- renderer ----------------
+const renderer = new THREE.WebGLRenderer({ antialias: false, preserveDrawingBuffer: true, powerPreference: 'high-performance' });
+renderer.setPixelRatio(RS); renderer.setSize(W, H, false);
+renderer.toneMapping = THREE.ACESFilmicToneMapping; renderer.toneMappingExposure = 1.0;
+document.body.insertBefore(renderer.domElement, document.getElementById('ov'));
+const scene = new THREE.Scene();
+const camera = new THREE.PerspectiveCamera(36, W / H, 0.01, 5000);
+
+// ---- story geometry: orbit plane basis (scene units, NOT to scale) ----
+const V3Y = () => new THREE.Vector3(0, 1, 0);
+const E1 = new THREE.Vector3(1, 0, 0), E2 = new THREE.Vector3(0, 0.42, -0.91).normalize();
+const NO = new THREE.Vector3().crossVectors(E1, E2).normalize();          // orbit normal
+const D0 = Number(P.get('d0') || 4.6), DPAST = D0 * 0.8, MR = 0.3;
+const MOONANG0 = THREE.MathUtils.degToRad(Number(P.get('ma') || 62));
+const moonPos = (d, ang) => E1.clone().multiplyScalar(d * Math.cos(ang)).addScaledVector(E2, d * Math.sin(ang));
+const U = moonPos(1, MOONANG0);                                          // unit dir to the moon (today)
+const WV = new THREE.Vector3().crossVectors(NO, U).normalize();          // in-plane, perpendicular to U
+const SV = JSON.parse(P.get('sun') || '[-0.25,-0.85,0.35]');
+const SUN = U.clone().multiplyScalar(SV[0]).addScaledVector(WV, SV[1]).addScaledVector(NO, SV[2]).normalize();
+const SP = SUN.clone().addScaledVector(U, -SUN.dot(U)).normalize();      // sun direction perpendicular to the Earth-Moon line
+const loader = new THREE.TextureLoader();
+const tex = (u, srgb = true) => new Promise(ok => loader.load(u, t => {
+  if (srgb) t.colorSpace = THREE.SRGBColorSpace; t.anisotropy = 8; t.wrapS = THREE.RepeatWrapping; ok(t); }));
+const TP = '../../assets/textures/';
+const [tDay, tNorm, tSpec, tLights, tMoon, tClouds] = await Promise.all([
+  tex(TP + 'earth_atmos_2048.jpg'), tex(TP + 'earth_normal_2048.jpg', false), tex(TP + 'earth_specular_2048.jpg', false),
+  tex(TP + 'earth_lights_2048.png'), tex(TP + 'moon_1024.jpg'), tex('tex/clouds_a.jpg', false)]);
+
+// ---------------- deterministic rng ----------------
+let seed = 9137; const rnd = () => (seed = (seed * 16807) % 2147483647) / 2147483647;
+
+// ---------------- stars ----------------
+{
+  const N = 9000, pos = new Float32Array(N * 3), col = new Float32Array(N * 3), siz = new Float32Array(N);
+  const band = new THREE.Vector3(0.3, 0.85, 0.42).normalize();     // milky-way pole
+  for (let i = 0; i < N; i++) {
+    let v;
+    for (;;) { v = new THREE.Vector3(rnd() * 2 - 1, rnd() * 2 - 1, rnd() * 2 - 1); const l = v.length(); if (l > 0.05 && l <= 1) break; }
+    v.normalize();
+    if (i < N * 0.45) { // concentrate near the galactic band
+      const d = v.dot(band); v.addScaledVector(band, -d * 0.85).normalize(); }
+    pos.set([v.x * 1500, v.y * 1500, v.z * 1500], i * 3);
+    const m = Math.pow(rnd(), 7.0);            // few bright, many faint
+    siz[i] = 1.2 + m * 5.5;
+    const tint = rnd(); const c = tint < 0.15 ? [1.0, 0.82, 0.62] : tint < 0.35 ? [0.72, 0.82, 1.0] : [1, 1, 1];
+    const b = 0.22 + m * 2.4;
+    col.set([c[0] * b, c[1] * b, c[2] * b], i * 3);
+  }
+  const g = new THREE.BufferGeometry();
+  g.setAttribute('position', new THREE.BufferAttribute(pos, 3)); g.setAttribute('color', new THREE.BufferAttribute(col, 3));
+  g.setAttribute('size', new THREE.BufferAttribute(siz, 1));
+  const m = new THREE.ShaderMaterial({
+    uniforms: { pr: { value: RS }, fade: { value: 1 } }, transparent: true, depthWrite: false, blending: THREE.AdditiveBlending,
+    vertexShader: `attribute float size; attribute vec3 color; varying vec3 vC; uniform float pr;
+      void main(){ vC=color; vec4 mv=modelViewMatrix*vec4(position,1.); gl_Position=projectionMatrix*mv; gl_PointSize=max(size*pr*1.5,1.6); }`,
+    fragmentShader: `varying vec3 vC; uniform float fade; void main(){ vec2 p=gl_PointCoord-.5; float r=dot(p,p)*4.;
+      float a=exp(-r*4.5); gl_FragColor=vec4(vC*a*fade,1.); }`
+  });
+  const stars = new THREE.Points(g, m); stars.frustumCulled = false; scene.add(stars); window.__stars = stars;
+
+  // milky way glow (procedural, low-frequency)
+  const c = document.createElement('canvas'); c.width = 1024; c.height = 512; const x = c.getContext('2d');
+  const img = x.createImageData(1024, 512);
+  const hsh = (i, j) => { const s = Math.sin(i * 127.1 + j * 311.7) * 43758.5453; return s - Math.floor(s); };
+  const vn = (u, v) => { const i = Math.floor(u), j = Math.floor(v), fu = u - i, fv = v - j, a = hsh(i, j), b = hsh(i + 1, j), cc = hsh(i, j + 1), d = hsh(i + 1, j + 1);
+    const su = fu * fu * (3 - 2 * fu), sv = fv * fv * (3 - 2 * fv); return a + (b - a) * su + (cc - a) * sv + (a - b - cc + d) * su * sv; };
+  const fbm = (u, v) => { let s = 0, a = .5; for (let o = 0; o < 5; o++) { s += a * vn(u, v); u *= 2.03; v *= 2.03; a *= .5; } return s; };
+  for (let j = 0; j < 512; j++) for (let i = 0; i < 1024; i++) {
+    const th = (i / 1024) * Math.PI * 2, ph = (j / 512) * Math.PI;
+    const d = new THREE.Vector3(Math.sin(ph) * Math.cos(th), Math.cos(ph), Math.sin(ph) * Math.sin(th));
+    const gb = d.dot(band);
+    const n = fbm(i / 60 + 3, j / 60 + 7), n2 = fbm(i / 18, j / 18);
+    let v = Math.exp(-gb * gb * 28) * (0.35 + 0.9 * n) - Math.exp(-Math.pow(gb + 0.03 * (n2 - .5), 2) * 700) * 0.25 * n2;
+    v = Math.max(0, v);
+    const k = (j * 1024 + i) * 4; img.data[k] = 255 * Math.min(1, v * 0.16); img.data[k + 1] = 255 * Math.min(1, v * 0.15); img.data[k + 2] = 255 * Math.min(1, v * 0.19); img.data[k + 3] = 255;
+  }
+  x.putImageData(img, 0, 0);
+  const mt = new THREE.CanvasTexture(c); mt.colorSpace = THREE.SRGBColorSpace;
+  const mw = new THREE.Mesh(new THREE.SphereGeometry(1600, 64, 32), new THREE.MeshBasicMaterial({ map: mt, side: THREE.BackSide, depthWrite: false }));
+  scene.add(mw);
+}
+
+// ---------------- sun ----------------
+function glowTex(stops) {
+  const c = document.createElement('canvas'); c.width = c.height = 256; const g = c.getContext('2d');
+  const gr = g.createRadialGradient(128, 128, 0, 128, 128, 128); stops.forEach(([o, s]) => gr.addColorStop(o, s));
+  g.fillStyle = gr; g.fillRect(0, 0, 256, 256); const t = new THREE.CanvasTexture(c); t.colorSpace = THREE.SRGBColorSpace; return t;
+}
+const sunCore = new THREE.Sprite(new THREE.SpriteMaterial({ map: glowTex([[0, '#ffffff'], [0.18, '#fff6e0'], [0.35, 'rgba(255,220,160,.35)'], [1, 'rgba(255,190,120,0)']]),
+  blending: THREE.AdditiveBlending, depthWrite: false, color: new THREE.Color(6, 5.6, 5) }));
+sunCore.scale.setScalar(70); sunCore.position.copy(SUN).multiplyScalar(1400); scene.add(sunCore);
+const sunHalo = new THREE.Sprite(new THREE.SpriteMaterial({ map: glowTex([[0, 'rgba(255,230,190,.55)'], [0.25, 'rgba(255,200,140,.18)'], [1, 'rgba(255,170,100,0)']]),
+  blending: THREE.AdditiveBlending, depthWrite: false }));
+sunHalo.scale.setScalar(600); sunHalo.position.copy(SUN).multiplyScalar(1390); scene.add(sunHalo);
+
+// ---------------- earth ----------------
+const VAVG = NO.clone().multiplyScalar(0.75).addScaledVector(SP, 0.62).normalize();
+const AX = U.clone().addScaledVector(VAVG, -U.dot(VAVG)).normalize().addScaledVector(VAVG, 0.42).addScaledVector(WV, 0.25).normalize();
+const tilt = new THREE.Group(); tilt.quaternion.setFromUnitVectors(V3Y(), AX); scene.add(tilt);
+const earthU = { tDay: { value: tDay }, tNorm: { value: tNorm }, tSpec: { value: tSpec }, tLights: { value: tLights }, tClouds: { value: tClouds },
+  sunDir: { value: SUN }, cloudOff: { value: 0 }, lightsK: { value: 1.6 } };
+const earthMat = new THREE.ShaderMaterial({ uniforms: earthU, extensions: { derivatives: true },
+  vertexShader: `varying vec3 vN; varying vec3 vWP; varying vec2 vUv;
+    void main(){ vUv=uv; vec4 wp=modelMatrix*vec4(position,1.); vWP=wp.xyz; vN=normalize(mat3(modelMatrix)*normal); gl_Position=projectionMatrix*viewMatrix*wp; }`,
+  fragmentShader: `
+    uniform sampler2D tDay,tNorm,tSpec,tLights,tClouds; uniform vec3 sunDir; uniform float cloudOff,lightsK;
+    varying vec3 vN; varying vec3 vWP; varying vec2 vUv;
+    vec3 perturb(vec3 N, vec3 p, vec2 uv, vec3 mapN){
+      vec3 q0=dFdx(p), q1=dFdy(p); vec2 st0=dFdx(uv), st1=dFdy(uv);
+      vec3 q1p=cross(q1,N), q0p=cross(N,q0); vec3 T=q1p*st0.x+q0p*st1.x; vec3 B=q1p*st0.y+q0p*st1.y;
+      float det=max(dot(T,T),dot(B,B)); float s=det==0.?0.:inversesqrt(det); return normalize(T*(mapN.x*s)+B*(mapN.y*s)+N*mapN.z); }
+    void main(){
+      vec3 Ns=normalize(vN); vec3 V=normalize(cameraPosition-vWP); vec3 L=normalize(sunDir);
+      vec3 mn=texture2D(tNorm,vUv).xyz*2.-1.; mn.xy*=0.9; vec3 N=perturb(Ns,vWP,vUv,mn);
+      float spec=texture2D(tSpec,vUv).r;
+      vec3 day=texture2D(tDay,vUv).rgb;
+      day=mix(day, day*vec3(0.85,0.95,1.15), spec*0.6);              // slightly richer oceans
+      vec2 cuv=vUv+vec2(cloudOff,0.);
+      float cl=texture2D(tClouds,cuv).r; cl=smoothstep(0.08,0.9,cl);
+      float sh=texture2D(tClouds,cuv+vec2(0.0035,0.0015)).r; sh=smoothstep(0.1,0.9,sh);
+      float ndl=dot(Ns,L);
+      float lit=smoothstep(-0.10,0.28,ndl);
+      float dl=max(dot(N,L),0.);
+      vec3 twi=mix(vec3(1.0,0.48,0.24),vec3(1.0),smoothstep(-0.02,0.32,ndl));
+      vec3 surf=day*(dl*0.92+0.06*lit)*(1.-0.45*sh*(1.-cl));
+      vec3 cloudC=vec3(1.0)*(max(ndl,0.)*0.95+0.05*lit);
+      vec3 col=mix(surf,cloudC,cl*0.92)*twi*1.75;
+      // ocean glint
+      vec3 Hh=normalize(L+V); float nh=max(dot(Ns,Hh),0.);
+      col+= vec3(1.0,0.86,0.66)*(pow(nh,700.)*1.4+pow(nh,70.)*0.07)*spec*(1.-cl)*lit;
+      // city lights on the night side
+      float night=1.-smoothstep(-0.16,0.06,ndl);
+      vec3 cl3=texture2D(tLights,vUv).rgb; cl3=pow(cl3,vec3(1.35));
+      col+= cl3*vec3(1.0,0.66,0.34)*night*(1.-cl*0.85)*lightsK;
+      // atmospheric haze at the limb
+      float f=pow(1.-max(dot(Ns,V),0.),2.6);
+      vec3 atm=mix(vec3(0.95,0.45,0.2),vec3(0.28,0.55,1.25),smoothstep(-0.05,0.35,ndl));
+      col=mix(col, atm*1.25*smoothstep(-0.25,0.25,ndl), f*0.75);
+      col+= vec3(0.06,0.12,0.3)*lit*0.25;
+      gl_FragColor=vec4(col,1.);
+      #include <tonemapping_fragment>
+      #include <colorspace_fragment>
+    }` });
+const earth = new THREE.Mesh(new THREE.SphereGeometry(1, 192, 96), earthMat); tilt.add(earth);
+
+// outer atmosphere shell
+const atmMat = new THREE.ShaderMaterial({ uniforms: { sunDir: { value: SUN } }, side: THREE.BackSide, transparent: true, depthWrite: false, blending: THREE.AdditiveBlending,
+  vertexShader: `varying vec3 vN; varying vec3 vWP; void main(){ vec4 wp=modelMatrix*vec4(position,1.); vWP=wp.xyz; vN=normalize(mat3(modelMatrix)*normal); gl_Position=projectionMatrix*viewMatrix*wp; }`,
+  fragmentShader: `uniform vec3 sunDir; varying vec3 vN; varying vec3 vWP;
+    void main(){ vec3 V=normalize(cameraPosition-vWP); vec3 N=normalize(vN);
+      // ray-sphere: closest approach of view ray to Earth centre (radius 1, shell 1.075)
+      vec3 ro=cameraPosition; vec3 rd=-V; float b=dot(ro,rd); vec3 cp=ro-b*rd; float h=length(cp);
+      float hh=(h-1.0)/0.075; if(hh<0.) discard;
+      float dens=exp(-hh*3.6)*(1.-smoothstep(0.85,1.,hh));
+      vec3 sd=normalize(sunDir); float mu=dot(normalize(cp),sd);
+      float lit=smoothstep(-0.32,0.25,mu);
+      vec3 c=mix(vec3(1.0,0.42,0.16),vec3(0.30,0.58,1.0),smoothstep(-0.12,0.3,mu));
+      float fw=pow(max(dot(rd,sd),0.),8.)*1.6;          // forward scattering toward the sun
+      gl_FragColor=vec4(c*dens*lit*(1.6+fw*2.2),1.);
+      #include <tonemapping_fragment>
+      #include <colorspace_fragment>
+    }` });
+const atm = new THREE.Mesh(new THREE.SphereGeometry(1.075, 128, 64), atmMat); scene.add(atm);
+
+// ---------------- moon ----------------
+const moonMat = new THREE.MeshStandardMaterial({ map: tMoon, bumpMap: tMoon, bumpScale: 0.9, roughness: 1, metalness: 0, color: 0xf2eee8 });
+const moon = new THREE.Mesh(new THREE.SphereGeometry(MR, 128, 64), moonMat); scene.add(moon);
+const sunL = new THREE.DirectionalLight(0xfff4e6, 4.4); sunL.position.copy(SUN).multiplyScalar(50); scene.add(sunL);
+scene.add(new THREE.AmbientLight(0x3a5a99, 0.05));
+// tiny retroreflector glint on the moon
+const glint = new THREE.Sprite(new THREE.SpriteMaterial({ map: glowTex([[0, '#ffffff'], [0.2, 'rgba(120,255,140,.9)'], [1, 'rgba(60,255,90,0)']]),
+  blending: THREE.AdditiveBlending, depthWrite: false, depthTest: false, color: new THREE.Color(2, 4, 2) }));
+glint.scale.setScalar(0.12); scene.add(glint);
+
+// ---------------- orbit ring ----------------
+const ringMat = new THREE.MeshBasicMaterial({ color: new THREE.Color(0.9, 0.95, 1.0), transparent: true, opacity: 0.25, blending: THREE.AdditiveBlending, depthWrite: false, side: THREE.DoubleSide });
+const ring = new THREE.Mesh(new THREE.RingGeometry(0.996, 1.004, 360, 1), ringMat); ring.quaternion.setFromUnitVectors(new THREE.Vector3(0, 0, 1), NO); scene.add(ring);
+const trailMat = new THREE.MeshBasicMaterial({ color: new THREE.Color(1.0, 0.77, 0.24), transparent: true, opacity: 0.0, blending: THREE.AdditiveBlending, depthWrite: false, side: THREE.DoubleSide });
+
+// ---------------- ruler (earth -> moon), laser ----------------
+const unitCyl = new THREE.CylinderGeometry(1, 1, 1, 12, 1, true); unitCyl.translate(0, 0.5, 0); unitCyl.rotateX(Math.PI / 2); // along +z, from 0 to 1
+function beam(color, opacity) { const m = new THREE.Mesh(unitCyl, new THREE.MeshBasicMaterial({ color, transparent: true, opacity, blending: THREE.AdditiveBlending, depthWrite: false })); scene.add(m); return m; }
+function place(m, a, b, r) { m.position.copy(a); m.lookAt(b); m.scale.set(r, r, a.distanceTo(b)); }
+const rulerLine = beam(new THREE.Color(1.0, 0.75, 0.2), 0.9);
+const rulerExt = beam(new THREE.Color(2.4, 1.7, 0.4), 1.0);
+const ticks = []; for (let i = 0; i < 40; i++) ticks.push(beam(new THREE.Color(1.0, 0.75, 0.2), 0.9));
+const laser = beam(new THREE.Color(0.25, 1.6, 0.4), 0.0);
+const pulse = beam(new THREE.Color(0.8, 3.2, 1.0), 0.0);
+const site = new THREE.Sprite(new THREE.SpriteMaterial({ map: glowTex([[0, '#fff'], [0.25, 'rgba(110,255,140,.8)'], [1, 'rgba(60,255,90,0)']]), blending: THREE.AdditiveBlending, depthWrite: false, color: new THREE.Color(2, 4, 2) }));
+site.scale.setScalar(0.1); scene.add(site);
+
+// ---------------- tidal bulge + spin arrow ----------------
+const bulgeMat = new THREE.ShaderMaterial({ uniforms: { op: { value: 0 } }, transparent: true, depthWrite: false, blending: THREE.AdditiveBlending,
+  vertexShader: `varying vec3 vN; varying vec3 vWP; void main(){ vec4 wp=modelMatrix*vec4(position,1.); vWP=wp.xyz; vN=normalize(mat3(modelMatrix)*normal); gl_Position=projectionMatrix*viewMatrix*wp; }`,
+  fragmentShader: `uniform float op; varying vec3 vN; varying vec3 vWP; void main(){ vec3 V=normalize(cameraPosition-vWP);
+    float f=pow(1.-abs(dot(normalize(vN),V)),3.2); gl_FragColor=vec4(vec3(0.25,0.62,1.5)*f*op,1.);
+    #include <tonemapping_fragment>
+    #include <colorspace_fragment>
+  }` });
+const bulge = new THREE.Mesh(new THREE.SphereGeometry(1, 96, 48), bulgeMat); scene.add(bulge);
+const arrowMat = new THREE.MeshBasicMaterial({ color: new THREE.Color(1.6, 1.15, 0.35), transparent: true, opacity: 0, blending: THREE.AdditiveBlending, depthWrite: false });
+const spin = new THREE.Group(); tilt.add(spin);
+const arc = new THREE.Mesh(new THREE.TorusGeometry(1.32, 0.012, 8, 160, Math.PI * 1.45), arrowMat); arc.rotation.x = Math.PI / 2; spin.add(arc);
+const head = new THREE.Mesh(new THREE.ConeGeometry(0.05, 0.13, 20), arrowMat);
+{ const a = Math.PI * 1.45; head.position.set(1.32 * Math.cos(a), 0, -1.32 * Math.sin(a)); head.rotation.set(0, a, 0); head.rotateZ(Math.PI / 2); head.rotateX(Math.PI); }
+spin.add(head);
+
+// ---------------- post ----------------
+const composer = new EffectComposer(renderer);
+composer.setPixelRatio(RS); composer.setSize(W, H);
+composer.addPass(new RenderPass(scene, camera));
+const bloom = new UnrealBloomPass(new THREE.Vector2(W * RS / 2, H * RS / 2), 0.5, 0.5, 0.9); composer.addPass(bloom);
+composer.addPass(new OutputPass());
+const fin = new ShaderPass({ uniforms: { tDiffuse: { value: null }, seed: { value: 0 }, fadeK: { value: 1 } },
+  vertexShader: `varying vec2 vUv; void main(){ vUv=uv; gl_Position=projectionMatrix*modelViewMatrix*vec4(position,1.); }`,
+  fragmentShader: `uniform sampler2D tDiffuse; uniform float seed,fadeK; varying vec2 vUv;
+    float h(vec2 p){ return fract(sin(dot(p,vec2(12.9898,78.233))+seed)*43758.5453); }
+    void main(){ vec3 c=texture2D(tDiffuse,vUv).rgb; vec2 q=vUv-.5; q.x*=0.62; float v=1.-smoothstep(0.32,0.78,length(q))*0.55;
+      c*=v; c+= (h(vUv*1000.)-.5)*0.018; gl_FragColor=vec4(c*fadeK,1.); }` });
+composer.addPass(fin);
+
+// ---------------- layout of the story ----------------
+// camera keyframes: [t, pos, target, up, fov]
+const V3 = (...a) => new THREE.Vector3(...a);
+const comb = (...terms) => terms.reduce((acc, [v, k]) => acc.addScaledVector(v, k), V3(0, 0, 0));
+const M0 = U.clone().multiplyScalar(D0), MID = M0.clone().multiplyScalar(0.5);
+const CB = JSON.parse(P.get('cb') || '30');                               // beat-1 view elevation above the orbit plane
+const dirB = comb([WV, Math.cos(CB * Math.PI / 180)], [NO, Math.sin(CB * Math.PI / 180)]).normalize();
+const rollUp = (u, view, deg) => u.clone().applyAxisAngle(view.clone().normalize(), deg * Math.PI / 180);
+// frame two world points A,B at pixel positions pa,pb, looking along -v (v = from target to camera)
+const FPX = 960 / Math.tan(THREE.MathUtils.degToRad(20));                 // focal length in px for fov 40
+function frame2(v, A, B, pa, pb) {
+  v = v.clone().normalize(); const ab = B.clone().sub(A); ab.addScaledVector(v, -v.dot(ab));
+  const e = ab.clone().normalize(), ep = new THREE.Vector3().crossVectors(v, e);
+  const sx = pb[0] - pa[0], sy = -(pb[1] - pa[1]), sl = Math.hypot(sx, sy);
+  const up = e.clone().multiplyScalar(sy / sl).addScaledVector(ep, sx / sl).normalize();
+  const right = new THREE.Vector3().crossVectors(up, v);
+  const dist = ab.length() * FPX / sl;
+  const mid = A.clone().add(B).multiplyScalar(0.5), dx = (pa[0] + pb[0]) / 2 - 540, dy = (pa[1] + pb[1]) / 2 - 960;
+  const tgt = mid.addScaledVector(right, -dx * dist / FPX).addScaledVector(up, dy * dist / FPX);
+  return [tgt.clone().addScaledVector(v, dist), tgt, up];
+}
+const O = V3(0, 0, 0), MP = U.clone().multiplyScalar(DPAST);
+const HB = JSON.parse(P.get('hb') || '[3.5,1.6,0.6]'), HR = JSON.parse(P.get('hr') || '[-22,-30,-120]');
+// camera at C, A shown above B, both symmetric about the screen centre (shifted by sh px)
+function hero(C, A, B, roll = 0, sx = 0, sy = 40) {
+  const da = A.clone().sub(C).normalize(), db = B.clone().sub(C).normalize();
+  const v = da.clone().add(db).normalize(); const up = da.clone().sub(db); up.addScaledVector(v, -v.dot(up)).normalize();
+  up.applyAxisAngle(v, roll * Math.PI / 180); const right = new THREE.Vector3().crossVectors(v, up);
+  const tgt = C.clone().add(v).addScaledVector(up, -sy / FPX).addScaledVector(right, -sx / FPX);
+  return [C, tgt, up];
+}
+const K = [
+  [0.0, ...hero(comb([M0, 1], [U, HB[0]], [SP, HB[1]], [NO, HB[2]]), O, M0, HR[0], HR[1], HR[2]), 40],
+  [4.3, ...hero(comb([M0, 1], [U, HB[0] + 0.7], [SP, HB[1] + 0.9], [NO, HB[2] + 0.4]), O, M0, HR[0] - 6, HR[1], HR[2] + 20), 40],
+  [5.7, ...frame2(comb([U, 0.55], [SP, 0.8], [NO, 0.3]), O, M0, [720, 1500], [360, 640]), 40],
+  [7.4, ...frame2(comb([SP, 0.9], [NO, 0.42]), O, M0, [800, 1640], [300, 560]), 40],
+  [12.7, ...frame2(comb([SP, 0.85], [NO, 0.45], [U, -0.25]), O, M0, [780, 1620], [320, 600]), 40],
+  [15.2, ...frame2(comb([NO, 0.8], [SP, 0.6]), O, U.clone().multiplyScalar(1.3), [540, 860], [560, 520]), 40],
+  [20.1, ...frame2(comb([NO, 0.75], [SP, 0.6], [WV, -0.2]), O, U.clone().multiplyScalar(1.3), [540, 840], [600, 520]), 40],
+  [22.8, ...frame2(comb([NO, 0.85], [SP, 0.55]), O, M0, [540, 820], [700, 430]), 40],
+  [31.5, ...frame2(comb([NO, 0.85], [SP, 0.55], [WV, -0.15]), O, M0, [540, 800], [690, 450]), 40]];
+const cp = new THREE.CatmullRomCurve3(K.map(k => k[1]), false, 'centripetal');
+const ct = new THREE.CatmullRomCurve3(K.map(k => k[2]), false, 'centripetal');
+function camAt(t) {
+  let i = 0; while (i < K.length - 2 && t > K[i + 1][0]) i++;
+  const a = K[i][0], b = K[i + 1][0]; let f = clamp((t - a) / (b - a));
+  const u = (i + f) / (K.length - 1);
+  camera.position.copy(cp.getPoint(Math.min(1, u)));
+  camera.up.copy(K[i][3]).lerp(K[i + 1][3], sm(f)).normalize();
+  camera.lookAt(ct.getPoint(Math.min(1, u)));
+  camera.fov = K[i][4] + (K[i + 1][4] - K[i][4]) * f; camera.updateProjectionMatrix();
+}
+
+// ---------------- DOM overlay ----------------
+const $ = id => document.getElementById(id);
+const HEADS = [
+  ['Ay hər il', 'bizdən', '*3,8 sm*', 'uzaqlaşır.'],
+  ['Bunu', '*lazerlə*', 'ölçürlər.'],
+  ['Ay Yerin', 'fırlanmasını', '*ləngidir.*'],
+  ['Bir gün', 'cəmi', '*18 saat*', 'idi.']];
+const TAGS = ['', '1/3 · ölçmə', '2/3 · səbəb', '3/3 · keçmiş'];
+const SUBS = ['',
+  'Bu, təxminən dırnağın bir ildə uzandığı qədərdir. Alimlər bunu astronavtların Ayda qoyduğu güzgülərə lazer göndərib ölçürlər.',
+  'Ayın cazibəsi Yerdə qabarma yaradır və Yerin fırlanmasını ləngidir. Ona görə günlər yavaş-yavaş uzanır.',
+  '1,4 milyard il əvvəl Yerdə bir gün cəmi 18 saat idi. Sən 18 saatlıq gündə nəyə çatmazdın?'];
+let curHead = -1, curSub = -1;
+function setHead(i) {
+  if (i === curHead) return; curHead = i; $('head').innerHTML = HEADS[i].map(w => w.startsWith('*') ? `<span class="w k">${w.slice(1, -1).replace(/ /g, '&nbsp;')}</span>` : `<span class="w">${w}</span>`).join(' ');
+}
+function setSub(i) {
+  if (i === curSub) return; curSub = i;
+  if (!SUBS[i]) { $('sub').style.display = 'none'; return; }
+  $('sub').style.display = 'block';
+  $('sub').innerHTML = `<div class="tag">${TAGS[i]}</div>` + SUBS[i].split(' ').map(w => `<span class="w">${w.replace(/(\d) (\d)/g, '$1&nbsp;$2')}</span>`).join(' ');
+}
+const lab = {};
+function label(id, html, cls = '') { if (!lab[id]) { const d = document.createElement('div'); d.className = 'lab ' + cls; $('labs').appendChild(d); lab[id] = d; } const d = lab[id]; if (d.__h !== html) { d.innerHTML = html; d.__h = html; } return d; }
+function showLab(id, html, p, a, cls = '', dx = 0, dy = 0) {
+  const d = label(id, html, cls);
+  if (!p || a <= 0.001) { d.style.opacity = 0; return; }
+  d.style.opacity = a; const hw = d.offsetWidth / 2 + 2, hh = d.offsetHeight / 2;
+  d.style.left = clamp(p.x + dx, 70 + hw, 890 - hw) + 'px'; d.style.top = clamp(p.y + dy, 470 + hh, 1440 - hh) + 'px';
+}
+function proj(v) { const p = v.clone().project(camera); if (p.z > 1) return null; return { x: (p.x * .5 + .5) * W, y: (-p.y * .5 + .5) * H }; }
+const fmt = n => String(Math.round(n)).replace(/\B(?=(\d{3})+(?!\d))/g, ' ');
+
+function overlay(t) {
+  const seg = Math.max(0, ST.findLastIndex(s => s <= t + 1e-6)); const pt = t - ST[seg];
+  // progress bar
+  [...document.querySelectorAll('#prog i')].forEach((el, k) => { const s = k + 1; el.style.width = (seg > s ? 100 : seg === s ? clamp(pt / SEG[s]) * 100 : 0) + '%'; });
+  $('prog').style.opacity = seg >= 4 ? 1 - eout(pt / 0.4) : 1;
+  // headline
+  const hi = Math.min(seg, 3); setHead(hi);
+  const hs = [...document.querySelectorAll('#head .w')];
+  const segEnd = SEG[hi] + (hi === 3 ? SEG[4] : 0);
+  hs.forEach((el, k) => {
+    const a = eout((pt - 0.05 - k * 0.07) / 0.45) * (seg <= 3 ? 1 - sm((pt - (segEnd - 0.28)) / 0.28) : 1 - sm((t - ST[4] - 0.0) / 0.35));
+    el.style.opacity = a; el.style.transform = `translateY(${(1 - eout((pt - k * 0.07) / 0.5)) * 46}px)`;
+  });
+  if (t < 0.0001) hs.forEach(el => { el.style.opacity = 1; el.style.transform = 'none'; });   // frame 0 = readable thumbnail
+  // subtitle karaoke
+  setSub(Math.min(seg, 3) * (seg >= 1 ? 1 : 0));
+  if (seg >= 1 && seg <= 3) {
+    const sa = eout(pt / 0.3) * (1 - sm((pt - (SEG[seg] - 0.25)) / 0.25));
+    $('sub').style.opacity = sa; $('sub').style.transform = `translateY(${(1 - eout(pt / 0.35)) * 30}px)`;
+    const ws = [...document.querySelectorAll('#sub .w')]; const tot = ws.reduce((s, w) => s + w.textContent.length + 1, 0);
+    const prog = clamp((pt - VOFF - 0.1) / (VO[seg] - 0.25)) * tot; let acc = 0;
+    ws.forEach(w => { const s = acc; acc += w.textContent.length + 1; w.style.opacity = 0.3 + 0.7 * clamp((prog - s) / 4); });
+  } else { $('sub').style.opacity = 0; }
+  // CTA
+  const ca = seg >= 4 ? eout(pt / 0.4) : 0; $('cta').style.opacity = ca; $('cta').style.transform = `translateY(${(1 - ca) * 40}px) scale(${0.96 + 0.04 * ca})`;
+}
+
+// ---------------- frame ----------------
+function dial(cx, cy, r, hours, a, yearsTxt) {
+  if (a <= 0.001) { $('dial').innerHTML = ''; return; }
+  const ang = h => -Math.PI / 2 + (h / 24) * Math.PI * 2;
+  let s = `<g opacity="${a}">`;
+  s += `<circle cx="${cx}" cy="${cy}" r="${r}" fill="none" stroke="rgba(255,255,255,.22)" stroke-width="3"/>`;
+  for (let k = 0; k < 24; k++) { const q = ang(k), r1 = r + 10, r2 = r + (k % 6 === 0 ? 30 : 20);
+    s += `<line x1="${cx + r1 * Math.cos(q)}" y1="${cy + r1 * Math.sin(q)}" x2="${cx + r2 * Math.cos(q)}" y2="${cy + r2 * Math.sin(q)}" stroke="rgba(255,255,255,${k % 6 === 0 ? .8 : .4})" stroke-width="${k % 6 === 0 ? 4 : 2.5}"/>`; }
+  const e = ang(hours), large = hours > 12 ? 1 : 0;
+  s += `<path d="M ${cx} ${cy - r} A ${r} ${r} 0 ${large} 1 ${cx + r * Math.cos(e)} ${cy + r * Math.sin(e)}" fill="none" stroke="#ffc43d" stroke-width="10" stroke-linecap="round"/>`;
+  s += `<circle cx="${cx + r * Math.cos(e)}" cy="${cy + r * Math.sin(e)}" r="13" fill="#fff" stroke="#ffc43d" stroke-width="5"/>`;
+  s += `</g>`; $('dial').innerHTML = s;
+}
+
+window.renderAt = (t) => {
+  const seg = Math.max(0, ST.findLastIndex(s => s <= t + 1e-6)); const pt = t - ST[seg];
+  // --- Earth spin (timelapse speeds up in beat 3) ---
+  const b3 = ST[3], rew = 1.6;
+  let spinAng = t * 0.07;
+  earth.rotation.y = 2.35 + spinAng; earthU.cloudOff.value = t * 0.0016;
+  // --- Moon distance/angle ---
+  let d = D0, ang = MOONANG0 + t * 0.004, years = 0;          // years ago (billions)
+  if (t >= b3) {
+    const r = eio((t - b3) / rew);                       // rewind to the past
+    const f = eio((t - b3 - rew - 1.6) / 4.2);            // then play forward to today
+    years = 1.4 * r * (1 - f);
+    ang += -0.9 * r + 1.6 * f;
+    d = D0 - (D0 - DPAST) * (years / 1.4);
+  }
+  if (seg === 2) d = D0 + 0.0;                       // (beat 2: today)
+  const M = moonPos(d, ang); moon.position.copy(M); { const x = M.clone().normalize().negate(), y = NO.clone().addScaledVector(x, -NO.dot(x)).normalize(), z = new THREE.Vector3().crossVectors(x, y); moon.quaternion.setFromRotationMatrix(new THREE.Matrix4().makeBasis(x, y, z)); }
+  // --- camera ---
+  camAt(t);
+  // --- orbit ring ---
+  ring.scale.setScalar(d); ringMat.opacity = 0.26 * sm((t - ST[3] + 0.6) / 1.0);
+  // --- ruler (beat 1) ---
+  const toM = M.clone().normalize();
+  const eS = toM.clone().multiplyScalar(1.03), mS = M.clone().addScaledVector(toM, -MR - 0.02);
+  const ra = sm((t - (ST[1] + 0.3)) / 0.8) * (1 - sm((t - (ST[2] - 0.3)) / 0.45));
+  const grow = sm((t - (ST[1] + 0.3)) / 1.6);
+  const mid = eS.clone().lerp(mS, grow);
+  place(rulerLine, eS, mid, 0.006); rulerLine.material.opacity = 0.8 * ra;
+  ticks.forEach((m, k) => { const f = k / (ticks.length - 1); const p = eS.clone().lerp(mS, f); const big = k % 5 === 0;
+    const side = new THREE.Vector3().crossVectors(toM, NO).normalize();
+    place(m, p.clone().addScaledVector(side, big ? -0.09 : -0.05), p.clone().addScaledVector(side, big ? 0.09 : 0.05), 0.0045);
+    m.material.opacity = (f <= grow ? 0.85 : 0) * ra; });
+  // little extension beyond the moon = the +3.8 cm (hugely exaggerated, labelled)
+  const ea = sm((t - (ST[1] + 2.0)) / 0.6) * ra;
+  place(rulerExt, mS, mS.clone().addScaledVector(toM, 0.0001 + 0.55 * eout((t - ST[1] - 2.0) / 1.2)), 0.012); rulerExt.material.opacity = ea;
+  // --- laser (beat 1, second half) ---
+  const la = sm((t - (ST[1] + 3.6)) / 0.5) * (1 - sm((t - (ST[2] - 0.3)) / 0.45));
+  const siteP = toM.clone().applyAxisAngle(new THREE.Vector3(0, 1, 0), 0.0).multiplyScalar(1.005); siteP.y += 0.0;
+  const sp = siteP.clone().addScaledVector(NO, 0.25).normalize().multiplyScalar(1.004);
+  const mTarget = M.clone().addScaledVector(M.clone().sub(sp).normalize(), -MR + 0.002);
+  site.position.copy(sp); site.material.opacity = la;
+  place(laser, sp, mTarget, 0.0035); laser.material.opacity = 0.55 * la;
+  const per = 1.5, ph = ((t - ST[1] - 3.6) / per) % 1, out = ph < 0.5, s = out ? ph * 2 : 2 - ph * 2;
+  const pc = sp.clone().lerp(mTarget, clamp(s)), pd = mTarget.clone().sub(sp).normalize();
+  place(pulse, pc.clone().addScaledVector(pd, -0.18), pc.clone().addScaledVector(pd, 0.18), 0.0065); pulse.material.opacity = la * (ph > 0 ? 1 : 0);
+  glint.position.copy(mTarget); glint.material.opacity = la * (0.35 + 0.65 * Math.exp(-Math.pow((ph - 0.5) * 9, 2)));
+  // --- tidal bulge + spin arrow (beat 2) ---
+  const ba = sm((t - (ST[2] + 0.4)) / 0.8) * (1 - sm((t - (ST[3] + 0.3)) / 0.6));
+  bulge.scale.set(1.30, 1.025, 1.025);
+  bulge.quaternion.setFromUnitVectors(new THREE.Vector3(1, 0, 0), toM.clone().applyAxisAngle(NO, 0.22));
+  bulgeMat.uniforms.op.value = 0.9 * ba;
+  spin.rotation.y = -t * 0.9; arrowMat.opacity = ba;
+  // --- sun visibility ---
+  // --- post ---
+  fin.uniforms.seed.value = (t * 30) % 97;
+  fin.uniforms.fadeK.value = Math.min(eout(t / 0.25) * 0 + 1, 1);
+  composer.render();
+
+  // ---------- overlay ----------
+  overlay(t);
+  const pM = proj(M), pE = proj(new THREE.Vector3(0, 0, 0));
+  const pEdge = proj(new THREE.Vector3().setFromMatrixColumn(camera.matrixWorld, 0).multiplyScalar(1.0));
+  const eR = pE && pEdge ? Math.hypot(pEdge.x - pE.x, pEdge.y - pE.y) : 0;
+  // distance label (beat 1)
+  const pMid = proj(eS.clone().lerp(mS, 0.6));
+  showLab('dist', `<b>384&nbsp;400</b> km`, pMid, ra * sm((t - ST[1] - 1.0) / 0.5), 'big', 0, -50);
+  const hk = sm((t - 1.0) / 0.6) * (1 - sm((t - ST[1] + 0.1) / 0.4));
+  const mR = pM && camera.position.distanceTo(M) ? MR / camera.position.distanceTo(M) * FPX : 0;
+  showLab('moon', `AY`, pM, hk, '', mR * 0.75, -mR * 0.75 - 30);
+  const eRr = 1 / camera.position.length() * FPX;
+  showLab('earth', `YER`, pE, hk, '', -eRr * 0.6, eRr * 0.75 + 30);
+  showLab('ext', `+3,8 sm / il`, pM, ea, '', mR + 150, 0);
+  showLab('las', `<b>lazer</b> · 2,5 saniyəyə gedib-qayıdır`, proj(sp.clone().lerp(mTarget, 0.84)), la * sm((t - ST[1] - 4.3) / 0.5), '', -60, 0);
+  showLab('bul', `<b>qabarma</b>`, proj(toM.clone().applyAxisAngle(NO, 0.22).multiplyScalar(1.35)), ba * sm((t - ST[2] - 1.2) / 0.5), '', 0, -10);
+  showLab('rot', `fırlanma <b>yavaşlayır</b>`, proj(comb([WV, 1.25], [U, -0.6])), ba * sm((t - ST[2] - 3.0) / 0.5), '', 0, 0);
+  // day dial (beat 3)
+  const da = sm((t - b3 - 0.3) / 0.6) * (1 - sm((t - ST[4] - 0.0) / 0.4));
+  const hours = 24 - 6 * (years / 1.4);
+  const dR = Math.max(eR * 1.6, 175); if (pE) dial(pE.x, pE.y, dR, hours, da);
+  showLab('hrs', `1 gün = <b>${hours.toFixed(1).replace('.', ',')}</b> saat`, pE ? { x: pE.x, y: pE.y + dR + 72 } : null, da, 'big');
+  const ytxt = years > 0.005 ? `${years.toFixed(2).replace('.', ',')} mlrd il əvvəl` : 'bu gün';
+  showLab('yrs', ytxt, pM, da, '', 0, -64);
+  return { t };
+};
+window.ready = true;
+</script></body></html>

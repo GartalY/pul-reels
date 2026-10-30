@@ -2416,7 +2416,12 @@
      "why": "Teleskopla tapılan ilk planetdir."
     }
    ],
-   "asked": []
+   "asked": [
+    {
+     "date": "2026-10-31",
+     "qi": 0
+    }
+   ]
   },
   {
    "id": "2026-10-30-1",
@@ -2576,6 +2581,167 @@
      ],
      "answer": "6 500 işıq ili",
      "why": "Partlayan ulduzun qalıqlarıdır."
+    }
+   ],
+   "asked": []
+  },
+  {
+   "id": "2026-10-31-1",
+   "date": "2026-10-31",
+   "subject": "Haji Zeynalabdin Taghiyev: son of a poor Baku shoemaker (Wikipedia, azer.com, nargismagazine); started working as a child as a bricklayer/mason apprentice (azer.com: from age 6; nargismagazine: from age 10; Wikipedia: no age) -> 'uşaq ikən'; contractor by ~18 (Wikipedia). By mid-1873 bought land in Bibiheybət with two companions (the Sarkis brothers); early drilling failed; companions sold him their share; in 1877 the well gushed oil and he became one of the richest men in the Russian Empire (Wikipedia); azer.com: oil millionaire at about 55. Birth year disputed (1821/1823/1838) -> not stated.",
+   "cat": "Azərbaycan",
+   "quizzes": [
+    {
+     "q": "Tağıyevin atası nə iş görürdü?",
+     "options": [
+      "Çəkməçi",
+      "Balıqçı",
+      "Dəmirçi"
+     ],
+     "answer": "Çəkməçi",
+     "why": "Kasıb bir çəkməçi ailəsi idi."
+    },
+    {
+     "q": "Tağıyevin quyusundan neft hansı ildə fontan vurdu?",
+     "options": [
+      "1847",
+      "1877",
+      "1907"
+     ],
+     "answer": "1877",
+     "why": "Bibiheybətdəki torpaqda."
+    },
+    {
+     "q": "Tağıyev Bibiheybətdə torpağı neçə yoldaşı ilə aldı?",
+     "options": [
+      "2",
+      "5",
+      "10"
+     ],
+     "answer": "2",
+     "why": "Sonra onlar paylarını ona satdılar."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-10-31",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-31-2",
+   "date": "2026-10-31",
+   "subject": "Heaviest pumpkin: 1,431.5 kg (3,156 lb) by Ron Wallace (60, Coventry, Rhode Island, USA), weighed 10 Oct 2026 at the Southern New England Giant Pumpkin Weigh-Off, Frerichs Farm, Warren RI; first pumpkin over 3,000 lb; first year growing in a greenhouse (GWR news Oct 2026; TurnTo10). One week earlier, 3 Oct 2026, Ian Paton (UK) set 1,295.8 kg ('Bagheera', Berkshire) (GWR). Previous: Paton twins' 'Muggle' 1,278.8 kg, 6 Oct 2025 (GWR, Daily Guardian); Travis Gienger 1,246.9 kg 2023 (NBC). Records: 681.3 kg in 2006, 911.27 kg in 2012 (GWR).",
+   "cat": "Təbiət",
+   "quizzes": [
+    {
+     "q": "Yeni rekord balqabaq neçə kiloqramdır?",
+     "options": [
+      "431",
+      "1 431",
+      "4 310"
+     ],
+     "answer": "1 431",
+     "why": "Dəqiq 1 431,5 kq."
+    },
+    {
+     "q": "Rekord balqabaq hansı ölkədə yetişdirilib?",
+     "options": [
+      "ABŞ",
+      "Britaniya",
+      "Kanada"
+     ],
+     "answer": "ABŞ",
+     "why": "Rod-Aylend ştatında."
+    },
+    {
+     "q": "Bu rekord bir həftədə neçə dəfə qırıldı?",
+     "options": [
+      "1",
+      "2",
+      "5"
+     ],
+     "answer": "2",
+     "why": "3 və 10 oktyabrda."
+    }
+   ],
+   "asked": []
+  },
+  {
+   "id": "2026-10-31-3",
+   "date": "2026-10-31",
+   "subject": "Hang Son Doong (Phong Nha-Ke Bang, Vietnam): largest known cave passage, up to ~200 m high (EarthSky 2010 survey; Discover Wildlife), mostly ~80x80 m (EarthSky/LiveScience), up to 150 m wide (DW); length at least 4.5 km (LiveScience) / 6.5 km (DW). Chamber 'Hope and Vision' could fit a 40+ storey skyscraper and a Boeing 747 could fly through (DW); LiveScience: a block of 40-story buildings could fit. Local man Ho Khanh sighted the entrance in 1990 while looking for agarwood, lost its location, relocated it in 2009 with British cavers (DW); explored 2009 by Howard & Deb Limbert (EarthSky). Collapsed ceilings (dolines) let sunlight in -> jungle with trees up to 50 m (DW); EarthSky quotes caver: 'big enough to have clouds'.",
+   "cat": "Coğrafiya",
+   "quizzes": [
+    {
+     "q": "Son Doonq mağarasının ən hündür yeri təxminən nə qədərdir?",
+     "options": [
+      "20 metr",
+      "200 metr",
+      "2 000 metr"
+     ],
+     "answer": "200 metr",
+     "why": "İçinə 40 mərtəbəli bina sığar."
+    },
+    {
+     "q": "Mağaranın girişini ilk dəfə kim tapıb?",
+     "options": [
+      "Yerli bir adam",
+      "Fransız alim",
+      "Amerikan pilot"
+     ],
+     "answer": "Yerli bir adam",
+     "why": "Ho Xan, 1990-cı ildə."
+    },
+    {
+     "q": "Mağaradakı ağacların hündürlüyü nə qədərə çatır?",
+     "options": [
+      "5 metr",
+      "50 metr",
+      "150 metr"
+     ],
+     "answer": "50 metr",
+     "why": "Tavandan düşən günəş işığı ilə bitirlər."
+    }
+   ],
+   "asked": []
+  },
+  {
+   "id": "2026-10-31-4",
+   "date": "2026-10-31",
+   "subject": "Venera 13 (USSR): launched 30 Oct 1981; landed on Venus 1 Mar 1982, Phoebe Regio; surface 457 °C, 89 atm (9.0 MPa) (Wikipedia; GWR). Designed to survive ~32 min (Wikipedia; GWR ~30 min; Space.com 'about half an hour'); actually transmitted for 127 minutes (GWR record 'longest time survived on Venus'; Space.com; Wikipedia). First lander to send colour images from Venus's surface (Space.com: 14 colour + 8 b/w). Lead melts at 327 °C.",
+   "cat": "Kosmos",
+   "quizzes": [
+    {
+     "q": "Venera-13 Venerada neçə dəqiqə işlədi?",
+     "options": [
+      "32",
+      "127",
+      "300"
+     ],
+     "answer": "127",
+     "why": "32 dəqiqəyə hesablanmışdı."
+    },
+    {
+     "q": "Veneranın səthində istilik təxminən nə qədərdir?",
+     "options": [
+      "57 dərəcə",
+      "157 dərəcə",
+      "457 dərəcə"
+     ],
+     "answer": "457 dərəcə",
+     "why": "Qurğuşun belə əriyir."
+    },
+    {
+     "q": "Venera-13 Veneraya hansı ildə endi?",
+     "options": [
+      "1962",
+      "1982",
+      "2002"
+     ],
+     "answer": "1982",
+     "why": "Martın 1-də."
     }
    ],
    "asked": []

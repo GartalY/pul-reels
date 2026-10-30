@@ -18,7 +18,9 @@
   "2026-10-28 19:45 blue whale heart": 408059148,
   "2026-10-29 19:45 Otzi": 409197480,
   "2026-10-30 11:00 cinema": 410314064,
-  "2026-10-30 19:45 Zoroaster": 410314100
+  "2026-10-30 19:45 Zoroaster": 410314100,
+  "2026-10-31 11:00 Bir Tawil": 411456006,
+  "2026-10-31 19:45 wood frog": 411456075
  },
  "2026-10-28 19:45": [
   "2026-10-24 n4 blue whale heart 2 bpm (IG 483 views; safe layout out/2026-10-24/4_reel_safe.mp4)",
@@ -35,5 +37,13 @@
  "2026-10-30 19:45": [
   "2026-10-24 n1 Zoroaster first successful oil tanker 1878 (IG 280 views; safe layout out/2026-10-24/1_reel_safe.mp4)",
   410314083
+ ],
+ "2026-10-31 11:00": [
+  "2026-10-22 n1 Bir Tawil 2 060 km2 no country wants (IG 236 views; safe layout out/2026-10-22/1_reel_safe.mp4)",
+  411455966
+ ],
+ "2026-10-31 19:45": [
+  "2026-10-22 n4 wood frog freezes 7 months (IG 204 views; safe layout out/2026-10-22/4_reel_safe.mp4)",
+  411456047
  ]
 }

@@ -1,6 +1,6 @@
 {
  "date": "2026-10-31",
- "status": "planned",
+ "status": "scheduled",
  "format": "v2",
  "content_format": "v4",
  "planned_note": "Planned in the 2026-10-30 09:10 run (format v4). 10:00 TBG carousel = Mount Rushmore carving finished 31 Oct 1941 (85 years). 13:00 AZ reel (VOICED) = TWO-PART story PART 1/2: Tağıyev, shoemaker's son -> 1877 Bibiheybət gusher -> millionaire; Part 2 (Sun 1 Nov 13:00) = what he did with the money. 16:00 reel (SILENT): new heaviest-pumpkin record 1 431.5 kg (10 Oct 2026) — fits Halloween. 18:30 trend backup reel (SILENT): Son Doong cave 200 m. 21:30 reel (VOICED): Venera 13 survived 127 min on Venus (1 Mar 1982). All photos fetched and checked.",
@@ -415,5 +415,53 @@
    "image": "out/2026-10-31/q2.jpg",
    "answer_image": "out/2026-10-31/q2_a.jpg"
   }
- ]
+ ],
+ "metricool": {
+  "10:00 tarixdə bu gün carousel (Rushmore 1941)": 411454091,
+  "10:00 tarixdə bu gün story": 411456313,
+  "11:00 quiz q1 (recall Uranus)": 411456339,
+  "11:10 answer a1": 411456356,
+  "13:00 reel (Tağıyev 1/2, voiced)": 411454129,
+  "14:00 quiz q2 (Tağıyev)": 411456380,
+  "14:10 answer a2": 411456413,
+  "16:00 reel (pumpkin record, silent)": 411454857,
+  "18:30 reel (Son Doong, trend backup, silent)": 411454946,
+  "21:30 reel (Venera-13, voiced)": 411455746
+ },
+ "tiktok": {
+  "11:00 REPOST 2026-10-22 n1 Bir Tawil (safe layout)": 411455966,
+  "13:00 Tağıyev 1/2": 411454156,
+  "16:00 pumpkin": 411454882,
+  "18:30 Son Doong (trend backup)": 411454967,
+  "19:45 REPOST 2026-10-22 n4 wood frog (safe layout)": 411456047,
+  "21:30 Venera-13": 411455855
+ },
+ "youtube": {
+  "11:00 REPOST Bir Tawil": 411456006,
+  "13:00 Tağıyev 1/2": 411454824,
+  "16:00 pumpkin": 411454915,
+  "18:30 Son Doong (trend backup)": 411454998,
+  "19:45 REPOST wood frog": 411456075,
+  "21:30 Venera-13": 411455919
+ },
+ "built": {
+  "when": "2026-10-30 ~20:55 Asia/Baku",
+  "checked": "6 carousel slides, tbg story, 2 quiz + 2 answer stories, hook frame + 5 frames per reel (and both repost renders) viewed; text inside safe zone, no overflow.",
+  "reel_seconds": {
+   "1": 36.0,
+   "2": 21.9,
+   "3": 23.1,
+   "4": 33.3
+  },
+  "voice": "Banu +15% on reels 1 and 4 (AI labels on IG/TikTok/YouTube); reels 2 and 3 silent (split test continues)",
+  "notes": [
+   "numbers on images use non-breaking spaces (1 431, 1 295,8)",
+   "hook_bg on all reels",
+   "TikTok/YouTube Tağıyev caption: dropped the duplicate 'izlə ki, qaçırmayasan' from the part-2 line"
+  ]
+ },
+ "reposts": "Picked by IG views (IGRE23) among silent, never cross-posted reels with no known error: 22 Oct Bir Tawil 236 views (11:00), 22 Oct wood frog 204 views (19:45). Re-rendered with the safe-zone layout (out/2026-10-22/1_reel_safe.mp4, 4_reel_safe.mp4); frames checked.",
+ "trend_check_evening": "2026-10-30 ~20:50 Baku: world headlines (Euronews bulletins, Just Security Early Edition 30 Oct, US midterms 4 days out, Wall Street drop on Amazon/Intel) + AZ news search: nothing big our AZ audience is talking about that needs a swap of the evergreen 31 Oct plan (pumpkin record already fits Halloween). 18:30 = Son Doong backup; the 09:10 run picks the trend.",
+ "scheduled_check": "getScheduledPosts 31 Oct before scheduling: 0 posts. After: 22 posts (IG 10 incl. 5 stories, TikTok 6, YouTube 6), each network/time exactly once.",
+ "pending_schedule": null
 }

@@ -35,6 +35,7 @@ canvas{display:block;position:absolute;left:0;top:0;width:1080px!important;heigh
 <script type="importmap">{"imports":{"three":"./node_modules/three/build/three.module.js","three/addons/":"./node_modules/three/examples/jsm/"}}</script>
 </head><body>
 <div id="ov">
+  <div style="position:absolute;left:0;top:0;width:1080px;height:640px;background:linear-gradient(rgba(3,5,10,.78),rgba(3,5,10,.55) 55%,rgba(3,5,10,0))"></div>
   <div id="top" class="mono"><span class="dash"></span><span id="toptxt">Kosmos · miqyas şərtidir</span></div>
   <div id="prog"><div><i></i></div><div><i></i></div><div><i></i></div></div>
   <div id="head"></div>
@@ -496,7 +497,7 @@ window.renderAt = (t) => {
   // day dial (beat 3)
   const da = sm((t - b3 - 0.3) / 0.6) * (1 - sm((t - ST[4] - 0.0) / 0.4));
   const hours = 24 - 6 * (years / 1.4);
-  const dR = Math.max(eR * 1.6, 175); if (pE) dial(pE.x, pE.y, dR, hours, da);
+  const dR = pE ? Math.max(Math.min(eR * 1.6, 1095 - pE.y - 72 - 40), 150) : 0; if (pE) dial(pE.x, pE.y, dR, hours, da);
   const hTxt = Math.abs(hours - Math.round(hours)) < 0.05 ? String(Math.round(hours)) : hours.toFixed(1).replace('.', ',');
   const hpop = 1 + 0.14 * Math.exp(-Math.pow((t - (b3 + rew + 1.6 + 4.2)) / 0.14, 2));
   const hl = showLab('hrs', `1 gün = <b>${hTxt}</b> saat`, pE ? { x: pE.x, y: pE.y + dR + 72 } : null, da, 'big');

@@ -256,3 +256,6 @@ search_1031_tagiyev.json https://commons.wikimedia.org/w/api.php?action=query&fo
 search_1031_tagiyev2.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1920&gsrsearch=Tağıyev
 search_1031_venus.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1920&gsrsearch=Venus%20Magellan%20global%20view
 search_1031_rushmore.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1920&gsrsearch=Mount%20Rushmore%20construction%201930s
+2026-10-31_1_tagiyev.jpg https://upload.wikimedia.org/wikipedia/commons/f/f8/Haji_Zeynalabdin_Taghiyev.jpg
+2026-10-31_1_tagiyev_b.jpg https://upload.wikimedia.org/wikipedia/commons/9/99/Haji_Zeynalabdin_Taghiyev_in_1919.jpg
+2026-10-31_4_venus.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Venus_globe_crop.jpg/1920px-Venus_globe_crop.jpg

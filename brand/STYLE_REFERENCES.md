@@ -88,3 +88,12 @@ section below.
   element shares one pixel grid. Its own numbers show the format alone doesn't carry a reel.
 - Tool: agency-agents (≈300 role prompts for Claude Code: designer, SEO, "TikTok strategist"…). Low value for us —
   our RUNBOOK already does this job; at most skim its TikTok/Instagram strategist prompts for ideas.
+
+## 2026-10-30 — hfnhq (Turkish) "100 faceless content niches" CAROUSEL — 697 likes, 293 comments, 2 132 shares in 5 h
+- A LIST CAROUSEL, not a reel: hook slide (a claim about a "millionaire couple" + photo), then 7 dense slides with
+  numbered items (1–100), one luxury-themed AI image per slide on top, big two-colour headline (white + red),
+  "Kaydır →" (swipe) pill on every slide, "2/9" counter, ends with "comment PDF" + website.
+- Why it spreads: a long useful list = "save/send for later" → shares 3× likes. Our "on this day" carousels
+  (1 item) fail; a LIST carousel is a different animal.
+- Test for us (weekly, Sunday 10:00 instead of the TBG carousel): "Azərbaycan haqqında 30 fakt", "Bakıda 25 gizli
+  yer", "Dünyanın 20 ən qəribə rekordu" — 5–7 slides, numbered, one strong photo per slide, swipe pill.

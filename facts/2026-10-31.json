@@ -1,0 +1,385 @@
+{
+ "date": "2026-10-31",
+ "status": "planned",
+ "format": "v2",
+ "content_format": "v4",
+ "planned_note": "Planned in the 2026-10-30 09:10 run (format v4). 10:00 TBG carousel = Mount Rushmore carving finished 31 Oct 1941 (85 years). 13:00 AZ reel (VOICED) = TWO-PART story PART 1/2: Tağıyev, shoemaker's son -> 1877 Bibiheybət gusher -> millionaire; Part 2 (Sun 1 Nov 13:00) = what he did with the money. 16:00 reel (SILENT): new heaviest-pumpkin record 1 431.5 kg (10 Oct 2026) — fits Halloween. 18:30 trend backup reel (SILENT): Son Doong cave 200 m. 21:30 reel (VOICED): Venera 13 survived 127 min on Venus (1 Mar 1982). All photos fetched and checked.",
+ "two_part": {
+  "part": 1,
+  "story": "Tağıyev: from shoemaker's son to oil millionaire",
+  "part2_date": "2026-11-01",
+  "part2_plan": "Sun 1 Nov 13:00 facts[0] (voiced), hook '(2/2)', 1-line recap first. Content (verify again in the 31 Oct 09:10 run): what Tağıyev did with the money — first Azerbaijani national theatre 1883 (Wikipedia 'Tagiyev's Theater'); girls' school (built 1898–1900, opened Oct 1901, 184 000 roubles — Wikipedia/azer.com; 'first secular school for Muslim girls' in the region); Lindley survey for the Şollar water pipeline (already covered 21 Oct — mention only briefly, with the corrected wording: he funded the survey, construction was publicly funded); sold his oil business to the British (Anglo-Russian Oil Co.) for 5 million roubles. First comment: '1-ci hissə profildədir'. Photo: Tağıyev girls' school building / Tağıyev 1919 photo (fetch/img/2026-10-31_1_tagiyev_b.jpg)."
+ },
+ "history": {
+  "n": "H",
+  "type": "card",
+  "cat": "Tarix",
+  "day": 31,
+  "month": 10,
+  "year": 1941,
+  "subject": "Mount Rushmore: carving began 4 Oct 1927 (dedication with Coolidge 10 Aug 1927), work officially ended 31 Oct 1941, 14 years (Mystic Stamp history PDF; parkrangerjohn). Faces ~60 ft / 18 m tall (History Answers, NPCA). ~400 workers, no deaths (History Answers, NPCA 'no fatalities, only a couple of minor injuries'). ~90% of the rock removed with dynamite (History Answers). >450,000 tons of rock removed (parkrangerjohn). Original plan: figures down to the waist, cut back as funding ran out (Mystic Stamp). Sculptor Gutzon Borglum died in 1941, seven months before completion; son Lincoln Borglum finished (parkrangerjohn, Mystic Stamp). Total cost $989,992.32 (parkrangerjohn).",
+  "photo_request": "Mount Rushmore (Unsplash)",
+  "card_title": "31 OKTYABR 1941",
+  "title": "85 il əvvəl bu gün Raşmor dağındakı nəhəng üzlər bitdi",
+  "text": "1941-ci il 31 oktyabrda ABŞ-da Raşmor dağına dörd prezidentin üzünü yonmaq işi bitdi. 14 il çəkdi, 400-ə yaxın işçi çalışdı və bir nəfər də həlak olmadı.",
+  "cover": {
+   "hook": "18 metrlik üzlər: 14 il, 400 işçi, 0 ölüm",
+   "sub": "31 oktyabr 1941 · 85 il əvvəl bu gün"
+  },
+  "slides": [
+   {
+    "h": "14 il",
+    "t": "İş 1927-ci il oktyabrın 4-də başladı və 1941-ci il oktyabrın 31-də bitdi. Dağın qayasına dörd ABŞ prezidentinin üzü yonuldu: Vaşinqton, Cefferson, Teodor Ruzvelt və Linkoln."
+   },
+   {
+    "h": "18 metr",
+    "t": "Hər üzün hündürlüyü təxminən 18 metrdir, yəni 6 mərtəbəli bina boyda. Qayanın təxminən 90 faizini dinamitlə partladıb götürdülər."
+   },
+   {
+    "h": "0 ölüm",
+    "t": "Dağda təxminən 400 nəfər işlədi. 14 il ərzində bir nəfər də həlak olmadı, cəmi bir neçə yüngül xəsarət oldu."
+   },
+   {
+    "h": "Belinə qədər",
+    "t": "Əvvəlcə prezidentləri belinə qədər yonmaq istəyirdilər, amma pul çatmadı. Heykəltəraş Qatson Borqlum işin sonunu görmədi, onu oğlu Linkoln Borqlum bitirdi."
+   }
+  ],
+  "caption": "85 il əvvəl bu gün Raşmor dağındakı nəhəng üzlər bitdi 🗿\n\n1941-ci il 31 oktyabrda ABŞ-ın Cənubi Dakota ştatında Raşmor dağına dörd prezidentin üzünü yonmaq işi rəsmən bitdi. İş 14 il çəkdi. Hər üz təxminən 18 metrdir, qayanın 90 faizə yaxınını dinamitlə partladıb götürdülər. Dağda 400-ə yaxın insan işlədi və bir nəfər də həlak olmadı. Əvvəlcə prezidentləri belinə qədər yonmaq istəyirdilər, amma pul çatmadı.\n\n📩 «Bu iş bir həftəyə bitər» deyən dostuna göndər — burada 14 il çəkdi 😄\n\nFoto: Josh Miller / Unsplash\n\n#bilirdinizmi #maraqlıfaktlar #tarixdəbugün #abş #tarix",
+  "first_comment": "Sən olsaydın, dağa kimin üzünü yonardın? 👇",
+  "quizzes": [
+   {
+    "q": "Raşmor dağındakı üzlərin işi neçə il çəkdi?",
+    "options": [
+     "4",
+     "14",
+     "40"
+    ],
+    "answer": "14",
+    "why": "1927-ci ildən 1941-ci ilə qədər."
+   },
+   {
+    "q": "Hər üzün hündürlüyü təxminən nə qədərdir?",
+    "options": [
+     "8 metr",
+     "18 metr",
+     "48 metr"
+    ],
+    "answer": "18 metr",
+    "why": "6 mərtəbəli bina boyda."
+   },
+   {
+    "q": "İşin sonunu kim bitirdi?",
+    "options": [
+     "Heykəltəraşın oğlu",
+     "Heykəltəraşın qardaşı",
+     "Prezidentin özü"
+    ],
+    "answer": "Heykəltəraşın oğlu",
+    "why": "Linkoln Borqlum, 1941-ci ildə."
+   }
+  ],
+  "story": {
+   "day": 31,
+   "month": 10,
+   "year": 1941,
+   "title": "Raşmor dağındakı üzlər bitdi",
+   "text": "85 il əvvəl bu gün ABŞ-da Raşmor dağına dörd prezidentin üzünü yonmaq işi bitdi. 14 il çəkdi, hər üz təxminən 18 metrdir. 400-ə yaxın işçidən heç kim həlak olmadı.",
+   "credit": "Foto: Josh Miller / Unsplash"
+  },
+  "sources": [
+   "https://info.mysticstamp.com/wp-content/uploads/10-31-1941-Mt-Rushmore.pdf",
+   "https://www.historyanswers.co.uk/news/carving-mount-rushmore/",
+   "https://npca.org/parks/mount-rushmore-national-memorial",
+   "https://parkrangerjohn.com/mount-rushmore-facts"
+  ],
+  "verify_note": "Dates 4 Oct 1927 – 31 Oct 1941 (Mystic Stamp, parkrangerjohn); 60 ft = 18 m (History Answers, NPCA); ~400 workers + no deaths (History Answers, NPCA, parkrangerjohn); 90% of rock by dynamite (History Answers; parkrangerjohn phrases it differently -> 'təxminən 90 faiz'); waist-length plan (Mystic Stamp); Lincoln Borglum finished (2 sources). Before the evening build, re-check with NPS if reachable.",
+  "photo": {
+   "path": "fetch/img/2026-10-31_h_rushmore.jpg",
+   "credit": "Josh Miller / Unsplash",
+   "cy": 0.35,
+   "full": true,
+   "source": "https://unsplash.com/photos/GyMIjpznBmY"
+  }
+ },
+ "facts": [
+  {
+   "n": 1,
+   "type": "reel",
+   "cat": "Azərbaycan",
+   "voiced": true,
+   "two_part": "1/2",
+   "subject": "Haji Zeynalabdin Taghiyev: son of a poor Baku shoemaker (Wikipedia, azer.com, nargismagazine); started working as a child as a bricklayer/mason apprentice (azer.com: from age 6; nargismagazine: from age 10; Wikipedia: no age) -> 'uşaq ikən'; contractor by ~18 (Wikipedia). By mid-1873 bought land in Bibiheybət with two companions (the Sarkis brothers); early drilling failed; companions sold him their share; in 1877 the well gushed oil and he became one of the richest men in the Russian Empire (Wikipedia); azer.com: oil millionaire at about 55. Birth year disputed (1821/1823/1838) -> not stated.",
+   "photo_request": "portrait of H.Z. Tağıyev (Commons, PD)",
+   "title": "Bir quyu çəkməçi oğlunu milyonçu etdi (1/2)",
+   "text": "Tağıyev kasıb çəkməçinin oğlu idi və uşaq ikən daş ustası yanında işləyirdi. 1877-ci ildə Bibiheybətdəki quyusundan neft fontan vurdu.",
+   "reel_hook": "1 QUYU ÇƏKMƏÇİ OĞLUNU MİLYONÇU ETDİ (1/2)",
+   "reel_beats": [
+    "Hacı Zeynalabdin Tağıyev Bakıda kasıb bir çəkməçinin ailəsində doğuldu. Hələ uşaq ikən daş ustasının yanında işləməyə başladı.",
+    "1873-cü ildə iki yoldaşı ilə Bibiheybətdə torpaq aldı. Neft uzun müddət çıxmadı, yoldaşları da paylarını ona satıb getdilər.",
+    "1877-ci ildə quyudan neft fontan vurdu və Tağıyev ölkənin ən varlı adamlarından biri oldu. Bəs bu pulu nəyə xərclədi? 2-ci hissə sabah 13:00-da."
+   ],
+   "voice": {
+    "voice": "az-AZ-BanuNeural",
+    "rate": "+15%",
+    "texts": [
+     "Bir quyu çəkməçi oğlunu milyonçu etdi. Birinci hissə.",
+     "Hacı Zeynalabdin Tağıyev Bakıda kasıb bir çəkməçinin ailəsində doğuldu. Hələ uşaq ikən daş ustasının yanında işləməyə başladı.",
+     "Min səkkiz yüz yetmiş üçüncü ildə iki yoldaşı ilə Bibiheybətdə torpaq aldı. Neft uzun müddət çıxmadı, yoldaşları da paylarını ona satıb getdilər.",
+     "Min səkkiz yüz yetmiş yeddinci ildə quyudan neft fontan vurdu və Tağıyev ölkənin ən varlı adamlarından biri oldu. Bəs bu pulu nəyə xərclədi? İkinci hissə sabah, saat on üçdə."
+    ]
+   },
+   "cta": "2-ci hissə sabah 13:00-da — izlə!",
+   "caption": "Bir neft quyusu çəkməçinin oğlunu milyonçu etdi (1/2) 🛢️\n\nHacı Zeynalabdin Tağıyev Bakıda kasıb bir çəkməçinin ailəsində doğulub. Hələ uşaq ikən daş ustasının yanında işləməyə başlayıb, sonra podratçı olub. 1873-cü ildə iki yoldaşı ilə Bibiheybətdə torpaq alıb. Neft uzun müddət çıxmayıb, yoldaşları da paylarını ona satıb gediblər. 1877-ci ildə isə quyudan neft fontan vurub və Tağıyev Rusiya imperiyasının ən varlı adamlarından birinə çevrilib.\n\nBəs o, bu milyonları nəyə xərclədi ki, Bakı onu bu gün də unutmur? 2-ci hissə sabah 13:00-da — izlə ki, qaçırmayasan.\n\n📩 «Mən heç vaxt varlı olmayacam» deyən dostuna göndər 😄\n\n👉 Hər gün 13:00-da Azərbaycan haqqında bilmədiyin bir fakt — izlə ki, qaçırmayasan\n\nFoto: Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #tağıyev #bakı #azərbaycan",
+   "first_comment": "Sənə görə, Tağıyev bu pulu nəyə xərclədi? 👇",
+   "quizzes": [
+    {
+     "q": "Tağıyevin atası nə iş görürdü?",
+     "options": [
+      "Çəkməçi",
+      "Balıqçı",
+      "Dəmirçi"
+     ],
+     "answer": "Çəkməçi",
+     "why": "Kasıb bir çəkməçi ailəsi idi."
+    },
+    {
+     "q": "Tağıyevin quyusundan neft hansı ildə fontan vurdu?",
+     "options": [
+      "1847",
+      "1877",
+      "1907"
+     ],
+     "answer": "1877",
+     "why": "Bibiheybətdəki torpaqda."
+    },
+    {
+     "q": "Tağıyev Bibiheybətdə torpağı neçə yoldaşı ilə aldı?",
+     "options": [
+      "2",
+      "5",
+      "10"
+     ],
+     "answer": "2",
+     "why": "Sonra onlar paylarını ona satdılar."
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Zeynalabdin_Taghiyev",
+    "https://azer.com/aiweb/categories/magazine/22_folder/22_articles/22_oilbarons.html",
+    "https://old.nargismagazine.az/en/68828"
+   ],
+   "verify_note": "Shoemaker father: 3 sources. Child worker: 3 sources but ages differ (6 vs 10) -> 'uşaq ikən', no age. 1873 land with two companions + companions sold out + 1877 gusher: Wikipedia only (no conflicting source); azer.com 'oil millionaire at about 55' is consistent with 1823 + 1877. Birth year disputed -> omitted. Genuine two-part story: Part 2 answers the question with the theatre/school/sale facts (see two_part).",
+   "photo": {
+    "path": "fetch/img/2026-10-31_1_tagiyev.jpg",
+    "credit": "Wikimedia Commons (ictimai mülkiyyət)",
+    "cy": 0.25,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Haji_Zeynalabdin_Taghiyev.jpg",
+    "alt": "fetch/img/2026-10-31_1_tagiyev_b.jpg (Tağıyev in 1919, group photo, PD)"
+   }
+  },
+  {
+   "n": 2,
+   "type": "reel",
+   "cat": "Təbiət",
+   "voiced": false,
+   "subject": "Heaviest pumpkin: 1,431.5 kg (3,156 lb) by Ron Wallace (60, Coventry, Rhode Island, USA), weighed 10 Oct 2026 at the Southern New England Giant Pumpkin Weigh-Off, Frerichs Farm, Warren RI; first pumpkin over 3,000 lb; first year growing in a greenhouse (GWR news Oct 2026; TurnTo10). One week earlier, 3 Oct 2026, Ian Paton (UK) set 1,295.8 kg ('Bagheera', Berkshire) (GWR). Previous: Paton twins' 'Muggle' 1,278.8 kg, 6 Oct 2025 (GWR, Daily Guardian); Travis Gienger 1,246.9 kg 2023 (NBC). Records: 681.3 kg in 2006, 911.27 kg in 2012 (GWR).",
+   "photo_request": "giant pumpkin (Unsplash)",
+   "title": "1 431 kq: dünyanın ən ağır balqabağı",
+   "text": "Oktyabrın 10-da ABŞ-da 1 431,5 kiloqramlıq balqabaq çəkildi və yeni dünya rekordu oldu. Rekord bir həftədə iki dəfə qırıldı.",
+   "reel_hook": "1 431 KQ: DÜNYANIN ƏN AĞIR BALQABAĞI",
+   "reel_beats": [
+    "Oktyabrın 10-da ABŞ-ın Rod-Aylend ştatında Ron Uolles adlı fermerin balqabağını tərəziyə qoydular. Tərəzi 1 431,5 kiloqram göstərdi.",
+    "Bu balqabaq bir çox minik maşınından ağırdır. Ginnesin Rekordlar Kitabı onu dünyanın ən ağır balqabağı kimi qeydə aldı.",
+    "Maraqlısı odur ki, rekord bir həftədə iki dəfə qırıldı. Oktyabrın 3-də britaniyalı İan Paton 1 295,8 kiloqramlıq balqabaqla rekord qoymuşdu."
+   ],
+   "caption": "Dünyanın ən ağır balqabağı 1 431,5 kiloqramdır 🎃\n\nOktyabrın 10-da ABŞ-ın Rod-Aylend ştatında 60 yaşlı fermer Ron Uollesin balqabağını tərəziyə qoydular: 1 431,5 kiloqram. Ginnesin Rekordlar Kitabına görə, bu, 3 000 funtu keçən ilk balqabaqdır. Rekord bir həftədə iki dəfə qırıldı: oktyabrın 3-də Britaniyada İan Paton 1 295,8 kiloqramlıq balqabaq yetişdirmişdi. 2006-cı ildə rekord cəmi 681 kiloqram idi, yəni 20 ildə iki dəfədən çox artıb.\n\n📩 Bağında pomidor yetişdirib fəxr edən dostuna göndər 😄\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Kelsey Todd / Unsplash\n\n#bilirdinizmi #maraqlıfaktlar #balqabaq #rekord #təbiət",
+   "first_comment": "Sən 1 431 kiloqramlıq balqabaqla nə edərdin? 👇",
+   "quizzes": [
+    {
+     "q": "Yeni rekord balqabaq neçə kiloqramdır?",
+     "options": [
+      "431",
+      "1 431",
+      "4 310"
+     ],
+     "answer": "1 431",
+     "why": "Dəqiq 1 431,5 kq."
+    },
+    {
+     "q": "Rekord balqabaq hansı ölkədə yetişdirilib?",
+     "options": [
+      "ABŞ",
+      "Britaniya",
+      "Kanada"
+     ],
+     "answer": "ABŞ",
+     "why": "Rod-Aylend ştatında."
+    },
+    {
+     "q": "Bu rekord bir həftədə neçə dəfə qırıldı?",
+     "options": [
+      "1",
+      "2",
+      "5"
+     ],
+     "answer": "2",
+     "why": "3 və 10 oktyabrda."
+    }
+   ],
+   "sources": [
+    "https://www.guinnessworldrecords.com/news/2026/10/pumpkinpalooza-how-the-worlds-biggest-pumpkin-record-fell-twice-in-one-week",
+    "https://turnto10.com/news/local/rhode-island-grower-sets-guinness-world-record-with-3156-pound-pumpkin-oct-14-2026",
+    "https://thedailyguardian.com/guinness-world-record/worlds-heaviest-pumpkin-uks-paton-twins-smash-global-record-with-muggle-681704/"
+   ],
+   "verify_note": "1,431.5 kg / 3,156 lb, Ron Wallace, 10 Oct 2026: GWR + TurnTo10. Paton 1,295.8 kg 3 Oct 2026: GWR (TurnTo10 'nearly 2,857 lb' agrees). 2006 record 681.3 kg: GWR. 'Bir çox minik maşınından ağır' = typical car 1 200–1 500 kg (conservative wording).",
+   "photo": {
+    "path": "fetch/img/2026-10-31_2_pumpkin.jpg",
+    "credit": "Kelsey Todd / Unsplash",
+    "cy": 0.6,
+    "full": true,
+    "source": "https://unsplash.com/photos/jR6Uy9z1gBQ",
+    "note": "generic giant pumpkin in a cart, not the record pumpkin (no free photo of it)"
+   }
+  },
+  {
+   "n": 3,
+   "type": "reel",
+   "cat": "Coğrafiya",
+   "voiced": false,
+   "subject": "Hang Son Doong (Phong Nha-Ke Bang, Vietnam): largest known cave passage, up to ~200 m high (EarthSky 2010 survey; Discover Wildlife), mostly ~80x80 m (EarthSky/LiveScience), up to 150 m wide (DW); length at least 4.5 km (LiveScience) / 6.5 km (DW). Chamber 'Hope and Vision' could fit a 40+ storey skyscraper and a Boeing 747 could fly through (DW); LiveScience: a block of 40-story buildings could fit. Local man Ho Khanh sighted the entrance in 1990 while looking for agarwood, lost its location, relocated it in 2009 with British cavers (DW); explored 2009 by Howard & Deb Limbert (EarthSky). Collapsed ceilings (dolines) let sunlight in -> jungle with trees up to 50 m (DW); EarthSky quotes caver: 'big enough to have clouds'.",
+   "photo_request": "Son Doong doline sunbeam (Unsplash, Andrew Svk series from Son Doong)",
+   "title": "200 metr: içində meşə və bulud olan mağara",
+   "text": "Vyetnamdakı Son Doonq mağarasının ən hündür yeri təxminən 200 metrdir. İçəridə 50 metrlik ağaclar bitir, hətta bulud yaranır.",
+   "reel_hook": "200 METR: İÇİNDƏ MEŞƏ VƏ BULUD OLAN MAĞARA",
+   "reel_beats": [
+    "Vyetnamdakı Son Doonq dünyanın ən böyük mağara keçididir. Ən hündür yeri təxminən 200 metrdir, içinə 40 mərtəbəli göydələn sığar.",
+    "1990-cı ildə yerli bir adam, Ho Xan, mağaranın girişini tapdı, amma sonra yerini unutdu. 2009-cu ildə onu britaniyalı mağaraçılarla yenidən tapdı.",
+    "Tavanın uçduğu yerlərdən içəri günəş düşür və orada 50 metrlik ağaclar bitib. Mağaraçılar deyir ki, içəridə hətta bulud yaranır."
+   ],
+   "caption": "Bu mağaranın içində öz meşəsi və buludları var 🌿\n\nVyetnamdakı Son Doonq mağarası dünyanın ən böyük mağara keçididir. Ən hündür yeri təxminən 200 metrdir: ölçənlərə görə, içinə 40 mərtəbəli göydələn sığar, «Boinq-747» təyyarəsi isə içindən uça bilər. Girişini 1990-cı ildə yerli bir adam, Ho Xan tapıb, amma yerini unudub. Mağara yalnız 2009-cu ildə britaniyalı mağaraçılarla birlikdə yenidən tapılıb. Tavanın uçduğu yerlərdən günəş düşür və içəridə 50 metrlik ağaclar bitib.\n\n📩 Hər həftə «gəl təbiətə çıxaq» deyən dostuna göndər — budur ən böyük macəra 😄\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Andrew Svk / Unsplash\n\n#bilirdinizmi #maraqlıfaktlar #mağara #vyetnam #təbiət",
+   "first_comment": "Sən belə mağaraya girməyə cəsarət edərdin? 👇",
+   "quizzes": [
+    {
+     "q": "Son Doonq mağarasının ən hündür yeri təxminən nə qədərdir?",
+     "options": [
+      "20 metr",
+      "200 metr",
+      "2 000 metr"
+     ],
+     "answer": "200 metr",
+     "why": "İçinə 40 mərtəbəli bina sığar."
+    },
+    {
+     "q": "Mağaranın girişini ilk dəfə kim tapıb?",
+     "options": [
+      "Yerli bir adam",
+      "Fransız alim",
+      "Amerikan pilot"
+     ],
+     "answer": "Yerli bir adam",
+     "why": "Ho Xan, 1990-cı ildə."
+    },
+    {
+     "q": "Mağaradakı ağacların hündürlüyü nə qədərə çatır?",
+     "options": [
+      "5 metr",
+      "50 metr",
+      "150 metr"
+     ],
+     "answer": "50 metr",
+     "why": "Tavandan düşən günəş işığı ilə bitirlər."
+    }
+   ],
+   "sources": [
+    "https://earthsky.org/earth/worlds-biggest-cave-passage-discovered-in-vietnam/",
+    "https://livescience.com/29960-worlds-biggest-cave-discovered-vietnam-110104.html",
+    "https://www.discoverwildlife.com/environment/hang-son-doong-cave"
+   ],
+   "verify_note": "200 m: EarthSky + DW. 40-storey building: DW + LiveScience. Boeing 747: DW only (caption only, 'ölçənlərə görə'). Ho Khanh 1990 + 2009 relocation with British cavers: DW (EarthSky: 2009 discovery by Limberts with a local farmer — consistent). Trees 50 m: DW. Clouds: EarthSky quote -> attributed 'mağaraçılar deyir'.",
+   "photo": {
+    "path": "fetch/img/2026-10-31_3_sondoong.jpg",
+    "credit": "Andrew Svk / Unsplash",
+    "cy": 0.45,
+    "cx": 0.55,
+    "full": true,
+    "source": "https://unsplash.com/photos/6vbEhUuA4dU",
+    "note": "landscape; keep the sunbeam/doline in frame (cx 0.5-0.6)"
+   }
+  },
+  {
+   "n": 4,
+   "type": "reel",
+   "cat": "Kosmos",
+   "voiced": true,
+   "subject": "Venera 13 (USSR): launched 30 Oct 1981; landed on Venus 1 Mar 1982, Phoebe Regio; surface 457 °C, 89 atm (9.0 MPa) (Wikipedia; GWR). Designed to survive ~32 min (Wikipedia; GWR ~30 min; Space.com 'about half an hour'); actually transmitted for 127 minutes (GWR record 'longest time survived on Venus'; Space.com; Wikipedia). First lander to send colour images from Venus's surface (Space.com: 14 colour + 8 b/w). Lead melts at 327 °C.",
+   "photo_request": "Venus globe (NASA/JPL Magellan, PD)",
+   "title": "127 dəqiqə: Venerada 457 dərəcəyə dözdü",
+   "text": "1982-ci ildə sovet «Venera-13» aparatı Veneraya endi. Onu 32 dəqiqəyə hesablamışdılar, amma 127 dəqiqə işlədi və ilk rəngli şəkilləri göndərdi.",
+   "reel_hook": "127 DƏQİQƏ: VENERADA 457 DƏRƏCƏYƏ DÖZDÜ",
+   "reel_beats": [
+    "1982-ci il martın 1-də sovet «Venera-13» aparatı Veneranın səthinə endi. Orada istilik 457 dərəcədir, qurğuşun belə əriyir.",
+    "Təzyiq Yerdəkindən təxminən 90 dəfə çoxdur. Mühəndislər aparatın orada cəmi 32 dəqiqə dözəcəyini hesablamışdılar.",
+    "Amma o, 127 dəqiqə işlədi və Venera səthinin ilk rəngli şəkillərini Yerə göndərdi. Bunu bilirdin?"
+   ],
+   "voice": {
+    "voice": "az-AZ-BanuNeural",
+    "rate": "+15%",
+    "texts": [
+     "Yüz iyirmi yeddi dəqiqə. Venerada dörd yüz əlli yeddi dərəcəyə dözdü.",
+     "Min doqquz yüz səksən ikinci il, martın birində sovet Venera on üç aparatı Veneranın səthinə endi. Orada istilik dörd yüz əlli yeddi dərəcədir, qurğuşun belə əriyir.",
+     "Təzyiq Yerdəkindən təxminən doxsan dəfə çoxdur. Mühəndislər aparatın orada cəmi otuz iki dəqiqə dözəcəyini hesablamışdılar.",
+     "Amma o, yüz iyirmi yeddi dəqiqə işlədi və Venera səthinin ilk rəngli şəkillərini Yerə göndərdi. Bunu bilirdin?"
+    ]
+   },
+   "caption": "Venera-13 Venerada 127 dəqiqə dözdü 🪐\n\n1982-ci il martın 1-də sovet «Venera-13» aparatı Veneranın səthinə endi. Orada istilik 457 dərəcədir: qurğuşun belə əriyir. Təzyiq isə Yerdəkindən təxminən 90 dəfə çoxdur. Mühəndislər aparatın cəmi 32 dəqiqə dözəcəyini hesablamışdılar, amma o, 127 dəqiqə işlədi. Bu müddətdə Venera səthinin ilk rəngli şəkillərini Yerə göndərdi. Ginnesin Rekordlar Kitabına görə, bu, Venerada ən uzun «yaşayan» aparatdır.\n\n📩 Yayda Bakının istisindən şikayət edən dostuna göndər 😄\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: NASA/JPL (Magellan)\n\n#bilirdinizmi #maraqlıfaktlar #kosmos #venera #planet",
+   "first_comment": "Sən insanların bir gün Veneraya gedəcəyinə inanırsan? 👇",
+   "quizzes": [
+    {
+     "q": "Venera-13 Venerada neçə dəqiqə işlədi?",
+     "options": [
+      "32",
+      "127",
+      "300"
+     ],
+     "answer": "127",
+     "why": "32 dəqiqəyə hesablanmışdı."
+    },
+    {
+     "q": "Veneranın səthində istilik təxminən nə qədərdir?",
+     "options": [
+      "57 dərəcə",
+      "157 dərəcə",
+      "457 dərəcə"
+     ],
+     "answer": "457 dərəcə",
+     "why": "Qurğuşun belə əriyir."
+    },
+    {
+     "q": "Venera-13 Veneraya hansı ildə endi?",
+     "options": [
+      "1962",
+      "1982",
+      "2002"
+     ],
+     "answer": "1982",
+     "why": "Martın 1-də."
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Venera_13",
+    "https://guinnessworldrecords.com/world-records/78367-longest-time-survived-on-venus-by-a-spacecraft",
+    "https://www.space.com/18551-venera-13.html"
+   ],
+   "verify_note": "Landing 1 Mar 1982, 127 min, 457 °C, 89 atm: Wikipedia + GWR (+ Space.com for 127 min). Planned 32 min: Wikipedia (GWR ~30, Space.com ~half an hour) -> '32' as in Wikipedia; fine. First colour images: Space.com. Lead melting point 327 °C (general knowledge). Voice text says 'Venera on üç' for the craft name.",
+   "photo": {
+    "path": "fetch/img/2026-10-31_4_venus.jpg",
+    "credit": "NASA/JPL (Magellan)",
+    "cy": 0.5,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Venus_globe_crop.jpg"
+   }
+  }
+ ],
+ "language_check": "Self-check done 2026-10-30 09:10 run: short spoken sentences; 'çəkməçi', 'daş ustası', 'fontan vurdu', 'tərəziyə qoydular', 'göydələn', 'dözdü' checked; numbers on images use non-breaking spaces at build (1 431, 1 295,8)."
+}

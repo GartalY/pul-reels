@@ -459,5 +459,74 @@
   "21:30 SN 1054": 410314021
  },
  "scheduled_check": "2026-10-29 ~20:59 Baku: getScheduledPosts for 30 Oct was empty before scheduling; after = 22 posts (IG 5 posts + 5 stories, TikTok 6, YouTube 6), one per network per slot, no duplicates.",
- "reposts": "Picked by IG views (IGRE23) among silent, never cross-posted reels: 25 Oct cinema 386 views (11:00), 24 Oct Zoroaster tanker 280 views (19:45). Both re-rendered with the safe-zone layout; photos checked (no watermark)."
+ "reposts": "Picked by IG views (IGRE23) among silent, never cross-posted reels: 25 Oct cinema 386 views (11:00), 24 Oct Zoroaster tanker 280 views (19:45). Both re-rendered with the safe-zone layout; photos checked (no watermark).",
+ "trend": {
+  "n": "T",
+  "type": "reel",
+  "format": "v4",
+  "cat": "Texnologiya",
+  "voiced": false,
+  "subject": "Binance hack, Thu 29 Oct 2026 from 20:05 UTC (00:05 Baku 30 Oct): ~$6.3 bn in crypto drained from Binance hot wallets across ~10 blockchains (Binance est. ~$6.3 bn; TRM Labs $6.36 bn at transfer-time prices; Chainalysis ~$5.9 bn; Arkham peak >$5.7 bn). TRM: most moved in ~20 minutes. Binance: a compromised DevOps engineer's laptop gave access to a service container; no evidence of private-key leak; user funds safe; Binance will cover all losses (SAFU + company funds); deposits/withdrawals suspended on several networks. Frozen: ~$3 bn per Binance late-Thursday update (incl. $2.3 bn USDT+USDC frozen by Tether/Circle), TRM onchain ~$2.7 bn. Attribution: TRM (high confidence) TraderTraitor/North Korea; ZachXBT, Blockaid, others 'likely Lazarus/DPRK'; NO official confirmation yet. Previous record: Bybit Feb 2025 ~$1.5 bn (FBI attributed to North Korea/TraderTraitor). Market: BTC -4.8% to below $77,000, BNB -8% (CoinDesk).",
+  "photo_request": "generic bitcoin coin photo (no Binance logo)",
+  "title": "6 milyard dollar: tarixin ən böyük kripto oğurluğu",
+  "text": "Oktyabrın 29-da dünyanın ən böyük kripto birjası Binance-dən təxminən 6 milyard dollarlıq kriptovalyuta oğurlandı. Bu, indiyədək ən böyük kripto oğurluğudur.",
+  "first_pill": "XƏBƏR",
+  "reel_hook": "6 MİLYARD DOLLAR: TARİXİN ƏN BÖYÜK KRİPTO OĞURLUĞU",
+  "reel_beats": [
+   "Oktyabrın 29-u axşam dünyanın ən böyük kripto birjası Binance-dən təxminən 6 milyard dollarlıq kripto oğurlandı. Analitiklərə görə, pulun çoxu cəmi 20 dəqiqəyə çıxarılıb.",
+   "Binance deyir ki, haker bir işçinin noutbukuna girib. Şirkətin sözünə görə, müştərilərin pulu təhlükəsizdir və bütün itkini Binance özü ödəyəcək.",
+   "Təxminən 3 milyard dollar artıq dondurulub. Əvvəlki rekord 2025-ci ildə Bybit birjasından oğurlanan 1,5 milyard idi. Bu dəfə 4 dəfə çoxdur."
+  ],
+  "caption": "Binance-dən təxminən 6 milyard dollar oğurlandı: kripto tarixinin ən böyük oğurluğu 💻\n\nOktyabrın 29-u axşam dünyanın ən böyük kripto birjası Binance-in «isti» pul kisələrindən təxminən 6 milyard dollarlıq kriptovalyuta çıxarıldı. Analitik şirkət TRM Labs-a görə, pulun çoxu cəmi 20 dəqiqəyə köçürülüb. Binance deyir ki, haker bir işçinin noutbukuna girib, müştərilərin pulu təhlükəsizdir və bütün itkini şirkət özü ödəyəcək. Şirkətin son məlumatına görə, təxminən 3 milyard dollar artıq dondurulub.\n\nBir neçə analitik şirkət hücumu Şimali Koreya ilə əlaqəli haker qrupuna bağlayır, amma rəsmi təsdiq hələ yoxdur. Əvvəlki rekord 2025-ci ilin fevralında Bybit birjasından oğurlanan 1,5 milyard dollar idi. Xəbərdən sonra bitkoinin qiyməti təxminən 5 faiz düşdü.\n\n📩 Bütün pulunu bir kripto birjasında saxlayan dostuna göndər\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Traxer / Unsplash\n\n#bilirdinizmi #xəbərlər #kripto #bitkoin #texnologiya",
+  "first_comment": "Sən kriptovalyutaya pul qoymusan? 👇",
+  "quizzes": [
+   {
+    "q": "Binance-dən təxminən nə qədər kripto oğurlandı?",
+    "options": [
+     "600 milyon dollar",
+     "6 milyard dollar",
+     "60 milyard dollar"
+    ],
+    "answer": "6 milyard dollar",
+    "why": "Kripto tarixinin ən böyük oğurluğu."
+   },
+   {
+    "q": "Əvvəlki rekord oğurluq hansı birjada olmuşdu?",
+    "options": [
+     "Bybit",
+     "Coinbase",
+     "Kraken"
+    ],
+    "answer": "Bybit",
+    "why": "2025-ci ilin fevralında, 1,5 milyard dollar."
+   },
+   {
+    "q": "Oğurlanan pulun təxminən nə qədəri donduruldu?",
+    "options": [
+     "300 milyon dollar",
+     "3 milyard dollar",
+     "5 milyard dollar"
+    ],
+    "answer": "3 milyard dollar",
+    "why": "Binance-in son məlumatına görə."
+   }
+  ],
+  "sources": [
+   "https://www.abc.net.au/news/2026-10-30/largest-cryptocurrency-hack-billions-stolen-binance/107327732",
+   "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
+   "https://www.trmlabs.com/resources/blog/north-korea-steals-usd-6-36-billion-from-binance-in-the-largest-hack-in-history",
+   "https://www.washingtonpost.com/technology/2026/10/29/suspected-binance-hack-sets-off-scramble-lock-down-billions-crypto/",
+   "https://www.axios.com/2026/10/29/binance-cyberattack-crypto-heist",
+   "https://www.nbcnews.com/tech/tech-news/fbi-says-north-korea-was-responsible-15-billion-bybit-hack-rcna193944"
+  ],
+  "verify_note": "Amount: ABC 'up to $6.3 bn', Binance ~$6.3 bn, TRM $6.36 bn, Chainalysis ~$5.9 bn, Arkham >$5.7 bn -> 'təxminən 6 milyard'. 20 minutes = TRM only -> attributed to analysts/TRM. Frozen ~$3 bn = Binance/CoinDesk/ABC (TRM 2.7) -> 'təxminən 3 milyard', attributed to the company. Laptop = Binance's own statement, attributed. North Korea link = analysts only, said so; no official attribution. Bybit $1.5 bn Feb 2025 (FBI/NBC). '4 dəfə' = 6/1.5. BTC -4.8% (CoinDesk) -> 'təxminən 5 faiz'. Neutral wording; re-check frozen figure/attribution news at 15:23 build.",
+  "photo": {
+   "path": "fetch/img/2026-10-30_T_bitcoin.jpg",
+   "credit": "Traxer / Unsplash",
+   "cy": 0.4,
+   "full": true,
+   "source": "https://unsplash.com/photos/VkFLGd6JxOQ"
+  }
+ },
+ "trend_check_morning": "2026-10-30 09:10-10:00 Baku: big-news-first check (SBS 'Today's major news', CoinDesk/ABC/WaPo/Axios, AZ searches). Dominant world story = Binance hack (~$6 bn, largest crypto theft ever, 29 Oct evening) -> today's trend reel for 18:30 (swap at 15:23 on IG/TikTok/YouTube). Spain crash already covered 29 Oct. No AZ story needing an immediate swap; nothing else replaced."
 }

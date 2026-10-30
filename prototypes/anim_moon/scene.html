@@ -358,14 +358,23 @@ function camAt(t) {
 
 // ---------------- DOM overlay ----------------
 const $ = id => document.getElementById(id);
-const HEADS = [
+const EN = P.get('lang') === 'en'; const L = (az, en) => EN ? en : az;
+const HEADS = EN ? [
+  ['The', 'Moon', 'escapes', '*3.8 cm*', 'a', 'year.'],
+  ['We', 'measure', 'it', '*with lasers.*'],
+  ['The', 'Moon', '*slows*', 'Earth', 'down.'],
+  ['A', 'day', 'was', 'just', '*18 hours.*'],
+  ['Today:', '*24 hours.*']] : [
   ['Ay hər il', 'bizdən', '*3,8 sm*', 'uzaqlaşır.'],
   ['Bunu', '*lazerlə*', 'ölçürlər.'],
   ['Ay Yerin', 'fırlanmasını', '*ləngidir.*'],
   ['Bir gün', 'cəmi', '*18 saat*', 'idi.'],
   ['İndi', 'isə', '*24 saat.*']];
-const TAGS = ['', '1/3 · ölçmə', '2/3 · səbəb', '3/3 · keçmiş'];
-const SUBS = ['',
+const TAGS = EN ? ['', '1/3 · measured', '2/3 · the cause', '3/3 · the past'] : ['', '1/3 · ölçmə', '2/3 · səbəb', '3/3 · keçmiş'];
+const SUBS = EN ? ['',
+  'That\'s how fast your fingernails grow. Scientists bounce lasers off mirrors left on the Moon by Apollo astronauts.',
+  'The Moon\'s gravity raises tides that act like a brake on Earth\'s spin. So our days slowly get longer.',
+  '1.4 billion years ago, a day on Earth lasted just 18 hours. What would you skip in an 18-hour day?'] : ['',
   'Bu, təxminən dırnağın bir ildə uzandığı qədərdir. Alimlər bunu astronavtların Ayda qoyduğu güzgülərə lazer göndərib ölçürlər.',
   'Ayın cazibəsi Yerdə qabarma yaradır və Yerin fırlanmasını ləngidir. Ona görə günlər yavaş-yavaş uzanır.',
   '1,4 milyard il əvvəl Yerdə bir gün cəmi 18 saat idi. Sən 18 saatlıq gündə nəyə çatmazdın?'];
@@ -388,7 +397,7 @@ function showLab(id, html, p, a, cls = '', dx = 0, dy = 0) {
   d.style.left = clamp(p.x + dx, 70 + hw, 890 - hw) + 'px'; d.style.top = clamp(p.y + dy, 470 + hh, 1440 - hh) + 'px'; return d;
 }
 function proj(v) { const p = v.clone().project(camera); if (p.z > 1) return null; return { x: (p.x * .5 + .5) * W, y: (-p.y * .5 + .5) * H }; }
-const fmt = n => String(Math.round(n)).replace(/\B(?=(\d{3})+(?!\d))/g, ' ');
+const fmt = n => String(Math.round(n)).replace(/\B(?=(\d{3})+(?!\d))/g, EN ? ',' : '\u00a0');
 
 function overlay(t) {
   const seg = Math.max(0, ST.findLastIndex(s => s <= t + 1e-6)); const pt = t - ST[seg];
@@ -502,25 +511,26 @@ window.renderAt = (t) => {
   if (dl) dl.style.transform = `translate(-50%,-50%) scale(${dpop})`;
   const hk = sm((t - 1.0) / 0.6) * (1 - sm((t - ST[1] + 0.35) / 0.3));
   const mR = pM && camera.position.distanceTo(M) ? MR / camera.position.distanceTo(M) * FPX : 0;
-  showLab('moon', `AY`, pM, hk, '', mR * 0.75, -mR * 0.75 - 30);
+  showLab('moon', L('AY', 'MOON'), pM, hk, '', mR * 0.75, -mR * 0.75 - 30);
   const eRr = 1 / camera.position.length() * FPX;
-  showLab('earth', `YER`, pE, hk, '', -eRr - 60, eRr * 0.2);
-  showLab('ext', `+3,8 sm / il`, pM, ea, '', mR + 150, 0);
-  showLab('las', `<b>lazer</b> · 2,5 saniyəyə gedib-qayıdır`, proj(sp.clone().lerp(mTarget, 0.84)), la * sm((t - ST[1] - 4.3) / 0.5), '', -60, 0);
-  showLab('bul', `<b>qabarma</b>`, proj(toM.clone().applyAxisAngle(NO, 0.22).multiplyScalar(1.35)), ba * sm((t - ST[2] - 1.2) / 0.5), '', 0, -10);
-  showLab('rot', `fırlanma <b>yavaşlayır</b>`, proj(comb([WV, 1.25], [U, -0.6])), ba * sm((t - ST[2] - 3.0) / 0.5), '', 0, 0);
+  showLab('earth', L('YER', 'EARTH'), pE, hk, '', -eRr - 60, eRr * 0.2);
+  showLab('ext', L('+3,8 sm / il', '+3.8 cm / year'), pM, ea, '', mR + 150, 0);
+  showLab('las', L(`<b>lazer</b> · 2,5 saniyəyə gedib-qayıdır`, `<b>laser</b> · 2.5 s round trip`), proj(sp.clone().lerp(mTarget, 0.84)), la * sm((t - ST[1] - 4.3) / 0.5), '', -60, 0);
+  showLab('bul', L(`<b>qabarma</b>`, `<b>tidal bulge</b>`), proj(toM.clone().applyAxisAngle(NO, 0.22).multiplyScalar(1.35)), ba * sm((t - ST[2] - 1.2) / 0.5), '', 0, -10);
+  showLab('rot', L(`fırlanma <b>yavaşlayır</b>`, `spin <b>slows down</b>`), proj(comb([WV, 1.25], [U, -0.6])), ba * sm((t - ST[2] - 3.0) / 0.5), '', 0, 0);
   // day dial (beat 3)
   const da = sm((t - b3 - 1.3) / 0.6) * (1 - sm((t - ST[4] - 0.0) / 0.4));
   const hours = 24 - 6 * (years / 1.4);
   const dR = pE ? Math.max(Math.min(eR * 1.6, 1095 - pE.y - 72 - 40), 150) : 0; if (pE) dial(pE.x, pE.y, dR, hours, da);
-  const hTxt = Math.abs(hours - Math.round(hours)) < 0.05 ? String(Math.round(hours)) : hours.toFixed(1).replace('.', ',');
+  const hTxt = Math.abs(hours - Math.round(hours)) < 0.05 ? String(Math.round(hours)) : hours.toFixed(1).replace('.', L(',', '.'));
   const hpop = 1 + 0.14 * Math.exp(-Math.pow((t - (b3 + rew + 1.6 + 4.2)) / 0.14, 2));
-  const hl = showLab('hrs', `1 gün = <b>${hTxt}</b> saat`, pE ? { x: pE.x, y: pE.y + dR + 72 } : null, da, 'big');
+  const hl = showLab('hrs', L(`1 gün = <b>${hTxt}</b> saat`, `1 day = <b>${hTxt}</b> h`), pE ? { x: pE.x, y: pE.y + dR + 72 } : null, da, 'big');
   if (hl) hl.style.transform = `translate(-50%,-50%) scale(${hpop})`;
-  const ytxt = years > 0.005 ? `${years.toFixed(2).replace('.', ',')} mlrd il əvvəl` : 'bu gün';
+  const ytxt = years > 0.005 ? L(`${years.toFixed(2).replace('.', ',')} mlrd il əvvəl`, `${years.toFixed(2)} billion yrs ago`) : L('bu gün', 'today');
   showLab('yrs', ytxt, pM, da, '', 0, -64);
   return { t };
 };
 window.camProbe = (t) => { camAt(t); return [...camera.position.toArray(), ...new THREE.Vector3(0,0,-1).applyQuaternion(camera.quaternion).toArray()]; };
+if (EN) { $('sub').style.top = '1120px'; document.documentElement.lang = 'en'; $('toptxt').textContent = 'Space · not to scale'; $('cta').innerHTML = 'Follow for a daily fact!<small>space · science · records</small>'; }
 window.ready = true;
 </script></body></html>

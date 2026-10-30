@@ -10,7 +10,7 @@ SEG = [4.3, 8.4, 7.4, 8.1, 2.8]          # must match scene.html
 ST = [sum(SEG[:i]) for i in range(len(SEG))]; DUR = sum(SEG)
 VOFF = 0.15
 HERE = os.path.dirname(os.path.abspath(__file__))
-VO = [os.path.join(HERE, f"vo/vo_{i}.mp3") for i in range(4)]
+VO = [os.path.join(HERE, os.environ.get("VODIR", "vo"), f"vo_{i}.mp3") for i in range(4)]
 
 
 SR = 44100

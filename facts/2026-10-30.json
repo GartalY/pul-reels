@@ -1,6 +1,6 @@
 {
  "date": "2026-10-30",
- "status": "scheduled",
+ "status": "scheduled (trend swapped 15:28)",
  "format": "v2",
  "content_format": "v4",
  "planned_note": "Planned in the 2026-10-29 09:10 run (format v4). 10:00 TBG carousel = War of the Worlds radio play, 30 Oct 1938 (88 years; the 'mass panic' was largely a newspaper myth). 13:00 AZ reel (VOICED): Göygöl formed by the 1139 Ganja earthquake (887 years). 16:00 reel (SILENT): Jan Koum signed the $19 bn WhatsApp deal at the old welfare office where he got food stamps. 18:30 trend backup reel (SILENT): Kola Superdeep Borehole 12 262 m, 23 cm wide. 21:30 reel (VOICED): 1054 supernova visible in daylight for 23 days (Crab Nebula). Fri = not a two-part day (Wed+Sat). All photos fetched and checked.",
@@ -434,7 +434,7 @@
   "10:00 tarixdə bu gün carousel (War of the Worlds 1938)": 410312327,
   "13:00 reel (Göygöl 1139, voiced)": 410312356,
   "16:00 reel (Jan Koum WhatsApp, silent)": 410313081,
-  "18:30 trend-backup reel (Kola borehole, silent)": 410313154,
+  "18:30 TREND reel (Binance hack, silent) — swapped 15:27": 411094524,
   "21:30 reel (SN 1054, voiced)": 410313965,
   "10:00 tarixdə bu gün story": 410314294,
   "11:00 quiz q1 (recall bee honey)": 410314339,
@@ -446,7 +446,7 @@
   "11:00 REPOST 2026-10-25 n1 Baku first cinema 1898 (safe layout)": 410314049,
   "13:00 Göygöl": 410312378,
   "16:00 Koum": 410313113,
-  "18:30 Kola (trend backup)": 410313192,
+  "18:30 TREND Binance hack (updated 15:28)": 411094797,
   "19:45 REPOST 2026-10-24 n1 Zoroaster tanker 1878 (safe layout)": 410314083,
   "21:30 SN 1054": 410313996
  },
@@ -454,7 +454,7 @@
   "11:00 REPOST Baku first cinema": 410314064,
   "13:00 Göygöl": 410312414,
   "16:00 Koum": 410313127,
-  "18:30 Kola (trend backup)": 410313212,
+  "18:30 TREND Binance hack (updated 15:28)": 411094873,
   "19:45 REPOST Zoroaster tanker": 410314100,
   "21:30 SN 1054": 410314021
  },
@@ -526,7 +526,23 @@
    "cy": 0.4,
    "full": true,
    "source": "https://unsplash.com/photos/VkFLGd6JxOQ"
+  },
+  "video": "out/2026-10-30/T_reel.mp4",
+  "render": {
+   "seconds": 24.6,
+   "cy": 0.4,
+   "hook_bg": true,
+   "first_pill": "XƏBƏR",
+   "seed": 30
   }
  },
- "trend_check_morning": "2026-10-30 09:10-10:00 Baku: big-news-first check (SBS 'Today's major news', CoinDesk/ABC/WaPo/Axios, AZ searches). Dominant world story = Binance hack (~$6 bn, largest crypto theft ever, 29 Oct evening) -> today's trend reel for 18:30 (swap at 15:23 on IG/TikTok/YouTube). Spain crash already covered 29 Oct. No AZ story needing an immediate swap; nothing else replaced."
+ "trend_check_morning": "2026-10-30 09:10-10:00 Baku: big-news-first check (SBS 'Today's major news', CoinDesk/ABC/WaPo/Axios, AZ searches). Dominant world story = Binance hack (~$6 bn, largest crypto theft ever, 29 Oct evening) -> today's trend reel for 18:30 (swap at 15:23 on IG/TikTok/YouTube). Spain crash already covered 29 Oct. No AZ story needing an immediate swap; nothing else replaced.",
+ "trend_swap": {
+  "when": "2026-10-30 15:25-15:30 Baku",
+  "what": "18:30 Kola backup -> Binance hack trend reel on IG + TikTok + YouTube (existing posts updated, none added; Kola video removed from all 3, verified with getScheduledPosts)",
+  "why": "Dominant world story (BIG NEWS FIRST). Re-checked 15:25 (CNN/CNBC/Cointelegraph/Yahoo 30 Oct): still ~$6.3 bn, ~$3 bn frozen, North Korea suspected by blockchain firms, no official attribution -> text unchanged. Not a tragedy: normal mode with 'XƏBƏR' pill and follow CTA.",
+  "backup": "Kola borehole (2026-10-30-3) marked unposted in db.json for a later day",
+  "stories": "format v4: no 19:30/19:40 quiz stories, nothing to re-render",
+  "frames_checked": "hook frame + 3 beats + end viewed: text inside safe zone, readable, no logo/watermark on the photo"
+ }
 }

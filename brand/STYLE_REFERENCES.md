@@ -97,3 +97,10 @@ section below.
   (1 item) fail; a LIST carousel is a different animal.
 - Test for us (weekly, Sunday 10:00 instead of the TBG carousel): "Azərbaycan haqqında 30 fakt", "Bakıda 25 gizli
   yer", "Dünyanın 20 ən qəribə rekordu" — 5–7 slides, numbered, one strong photo per slide, swipe pill.
+
+## GARTAL'S VERDICT on our own animation tests (1 Nov 2026)
+- Moon (night space, realistic Earth shader, ruler/laser/dial instruments) = PREFERRED. "That was good, I liked it."
+  He especially liked the ENGLISH version (Ava voice pronunciation).
+- Caspian (daylight glass columns) = weaker: "too simple", and the water/rush sound effects were TOO LOUD.
+  → Rule: keep SFX well under the voice (water/noise SFX ≤ −20 dB relative to voice); richer, more realistic
+  scenes beat clean-but-simple diagrams. Default direction for the new reel design = the Moon approach.

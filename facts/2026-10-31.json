@@ -463,5 +463,76 @@
  "reposts": "Picked by IG views (IGRE23) among silent, never cross-posted reels with no known error: 22 Oct Bir Tawil 236 views (11:00), 22 Oct wood frog 204 views (19:45). Re-rendered with the safe-zone layout (out/2026-10-22/1_reel_safe.mp4, 4_reel_safe.mp4); frames checked.",
  "trend_check_evening": "2026-10-30 ~20:50 Baku: world headlines (Euronews bulletins, Just Security Early Edition 30 Oct, US midterms 4 days out, Wall Street drop on Amazon/Intel) + AZ news search: nothing big our AZ audience is talking about that needs a swap of the evergreen 31 Oct plan (pumpkin record already fits Halloween). 18:30 = Son Doong backup; the 09:10 run picks the trend.",
  "scheduled_check": "getScheduledPosts 31 Oct before scheduling: 0 posts. After: 22 posts (IG 10 incl. 5 stories, TikTok 6, YouTube 6), each network/time exactly once.",
- "pending_schedule": null
+ "pending_schedule": null,
+ "trend": {
+  "n": "T",
+  "type": "reel",
+  "format": "v4",
+  "cat": "Tarix",
+  "voiced": false,
+  "subject": "Halloween 31 Oct 2026. NRF annual survey (released 22 Sep 2026; 7,889 consumers, 1–9 Sep, Prosper Insights): US Halloween spending expected $13.5 bn (2025 record $13.1 bn); 74% celebrate; avg $115.14/person; costumes $4.4 bn (children 1.5, adults 2, pets 0.92 bn); decorations $4.3 bn; candy $4.1 bn. Jack-o'-lantern origin: Ireland and Scotland carved faces into turnips (HISTORY.com; Clemson HGIC: 'the original Jack O'Lanterns were carved from turnips'; pumpkins not native to Ireland); Stingy Jack legend, first in print 19th c.; Irish immigrants brought the custom to North America where pumpkins are native and abundant (Clemson, HISTORY).",
+  "photo_request": "lit jack-o'-lantern (Unsplash)",
+  "title": "13,5 milyard dollar: Amerika Hellouinə bu qədər xərcləyir",
+  "text": "Bu il amerikalılar Hellouinə təxminən 13,5 milyard dollar xərcləyəcək. İlk qorxulu fənərləri isə balqabaqdan yox, şalğamdan oyurdular.",
+  "reel_hook": "13,5 MİLYARD DOLLAR: AMERİKA HELLOUİNƏ BU QƏDƏR XƏRCLƏYİR",
+  "reel_beats": [
+   "Bu gün Hellouindir. ABŞ-ın Pərakəndə Satış Federasiyasına görə, amerikalılar bu il bayrama təxminən 13,5 milyard dollar xərcləyəcək.",
+   "Ən çox pul kostyumlara gedir: 4,4 milyard dollar. Bunun təxminən 1 milyardı pişik və itlər üçün kostyumlardır.",
+   "Maraqlısı odur ki, ilk qorxulu fənərləri balqabaqdan yox, şalğamdan oyurdular. Bu adəti Amerikaya irlandlar gətirdi, orada isə balqabaq bol idi."
+  ],
+  "caption": "Amerika bu il Hellouinə təxminən 13,5 milyard dollar xərcləyəcək 🎃\n\nBu gün Hellouindir. ABŞ-ın Pərakəndə Satış Federasiyasının sorğusuna görə, amerikalıların təxminən dörddə üçü bayramı qeyd edəcək və hər adam orta hesabla 115 dollar xərcləyəcək. Ən çox pul kostyumlara gedir: 4,4 milyard dollar. Bunun təxminən 1 milyardı ev heyvanları üçün kostyumlardır. Ən çox seçilən heyvan kostyumu isə... balqabaqdır.\n\nİlk qorxulu fənərləri İrlandiya və Şotlandiyada balqabaqdan yox, şalğamdan oyurdular. Bu adəti Amerikaya irlandlar gətirdi. Orada balqabaq bol idi və fənər balqabaqdan oyulmağa başladı.\n\n📩 Hellouin kostyumunu bir ay əvvəldən hazırlayan dostuna göndər 😄\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Sky / Unsplash\n\n#bilirdinizmi #maraqlıfaktlar #hellouin #balqabaq #tarix",
+  "first_comment": "Sən Hellouini qeyd edirsən? 👇",
+  "quizzes": [
+   {
+    "q": "Amerikalılar bu il Hellouinə təxminən nə qədər xərcləyəcək?",
+    "options": [
+     "1,3 milyard dollar",
+     "13,5 milyard dollar",
+     "135 milyard dollar"
+    ],
+    "answer": "13,5 milyard dollar",
+    "why": "Pərakəndə Satış Federasiyasının sorğusuna görə."
+   },
+   {
+    "q": "İlk qorxulu fənərləri nədən oyurdular?",
+    "options": [
+     "Şalğamdan",
+     "Qarpızdan",
+     "Kartofdan"
+    ],
+    "answer": "Şalğamdan",
+    "why": "İrlandiya və Şotlandiyada."
+   },
+   {
+    "q": "Hellouinə ən çox pul nəyə xərclənir?",
+    "options": [
+     "Şirniyyata",
+     "Kostyumlara",
+     "Bəzəklərə"
+    ],
+    "answer": "Kostyumlara",
+    "why": "4,4 milyard dollar."
+   }
+  ],
+  "sources": [
+   "https://nrf.com/media-center/press-releases/nrf-halloween-survey-shows-consumer-spending-expected-to-reach-13-5-billion",
+   "https://www.history.com/articles/history-of-the-jack-o-lantern-irish-origins",
+   "https://hgic.clemson.edu/the-origins-of-the-jack-olantern/",
+   "https://stacker.com/stories/shopping/not-trick-or-treat-halloween-costs-rise-135-billion"
+  ],
+  "verify_note": "$13.5 bn, $115.14/person, 74% ('dörddə üçü'), costumes $4.4 bn, pets $0.92 bn ('təxminən 1 milyard'), pumpkin = top pet costume 11.6%: NRF press release 22 Sep 2026 (also Stacker/Cox syndication). Not called a new record by NRF (2025 record $13.1 bn) -> we do not say 'record'. Turnips in Ireland/Scotland: HISTORY.com + Clemson HGIC; immigrants + pumpkins native/abundant in N. America: Clemson + HISTORY. Beat 2 'pişik və itlər' = pets; ok. Trend choice 09:10: top headlines checked (Binance hack = yesterday's trend; US midterms Tue 3 Nov — save for results day; Iran/Hormuz war = ongoing, tragedy rules; Intel -30% = niche). Halloween = what young Baku audience sees today. Note 16:00 reel is the record pumpkin; trend angle is money + turnip origin, different photo (lit jack-o'-lantern).",
+  "photo": {
+   "path": "fetch/img/2026-10-31_T_jackolantern.jpg",
+   "credit": "Sky / Unsplash",
+   "cy": 0.45,
+   "full": true,
+   "source": "https://unsplash.com/photos/Wq-nmL12bCU"
+  }
+ },
+ "trend_check_morning": {
+  "when": "2026-10-31 09:10-10:00 Baku",
+  "checked": "SBS 31 Oct, Euronews, Al Jazeera sitemap 29-30 Oct, Halloween/NRF, Intel",
+  "result": "No breaking event requiring an immediate swap of a not-yet-published post. Binance hack (yesterday's trend) still top business story; US midterms 3 Nov dominate US news (plan: results-day trend Wed 4 Nov, neutral); Iran war/Hormuz ongoing (no new single event, tragedy rules). Today's trend = Halloween money + turnip origin, built at 15:23 into the 18:30 slot.",
+  "swap": null
+ }
 }

@@ -298,7 +298,7 @@
    "photo_request": "Jack Ma portrait (Commons, WEF, CC BY 2.0)",
    "title": "24 nəfərdən tək onu işə götürmədilər: Jek Ma",
    "text": "Jek Ma deyir ki, KFC-yə müraciət edən 24 nəfərdən 23-ü işə götürüldü, rədd edilən tək o idi. 15 il sonra Alibabanı qurdu.",
-   "reel_hook": "24 NƏFƏRDƏN TƏK ONU İŞƏ GÖTÜRMƏDİLƏR: JEK MA",
+   "reel_hook": "24 NƏFƏRDƏN TƏK ONU İŞƏ GÖTÜRMƏDİLƏR",
    "reel_beats": [
     "Alibabanın qurucusu Jek Ma deyir ki, bir dəfə KFC-yə işə 24 nəfər müraciət etdi. 23-ünü götürdülər, rədd edilən tək o idi.",
     "Universitetə qəbul imtahanından iki dəfə kəsildi, ilk dəfə riyaziyyatdan cəmi 1 bal yığdı. Özünün dediyinə görə, Harvard da onu 10 dəfə rədd edib.",
@@ -361,8 +361,44 @@
     "full": true,
     "source": "https://commons.wikimedia.org/wiki/File:Enabling_eCommerce-_Small_Enterprises,_Global_Players_(39008130265)_(cropped).jpg",
     "note": "portrait, WEF stage backdrop text behind him (event branding, not a watermark)"
-   }
+   },
+   "reel_hook_orig": "24 NƏFƏRDƏN TƏK ONU İŞƏ GÖTÜRMƏDİLƏR: JEK MA",
+   "build_note": "Evening 31 Oct: hook shortened to 2 lines (name dropped from screen, kept in voice) because the 4-line hook box covered Jack Ma's eyes on the cover frame."
   }
  ],
- "language_check": "Self-check 2026-10-31 09:10 (section L): short spoken sentences, no English words in brackets ('redwood' -> 'sekvoya'), 'X ilə' / 'X-a' cases checked, numbers with nbsp on the hook only where needed."
+ "language_check": "Self-check 2026-10-31 09:10 (section L): short spoken sentences, no English words in brackets ('redwood' -> 'sekvoya'), 'X ilə' / 'X-a' cases checked, numbers with nbsp on the hook only where needed.",
+ "stories": [
+  {
+   "time": "11:00",
+   "fact_id": "2026-10-28-4",
+   "recall": true,
+   "cat": "Coğrafiya",
+   "q": "Dünya göllərindəki suyun neçə faizi Xəzərdədir?",
+   "options": [
+    "Təxminən 10 faiz",
+    "Təxminən 40 faiz",
+    "Təxminən 70 faiz"
+   ],
+   "answer": "Təxminən 40 faiz",
+   "why": "Xəzər dünyanın ən böyük gölü sayılır.",
+   "image": "out/2026-11-01/q1.jpg",
+   "answer_image": "out/2026-11-01/q1_a.jpg"
+  },
+  {
+   "time": "14:00",
+   "fact_id": "2026-11-01-1",
+   "recall": false,
+   "cat": "Azərbaycan",
+   "q": "Tağıyev qızlar məktəbinə neçə rubl verdi?",
+   "options": [
+    "18 min",
+    "184 min",
+    "1 milyon 840 min"
+   ],
+   "answer": "184 min",
+   "why": "Məktəb 1901-ci ildə açıldı.",
+   "image": "out/2026-11-01/q2.jpg",
+   "answer_image": "out/2026-11-01/q2_a.jpg"
+  }
+ ]
 }

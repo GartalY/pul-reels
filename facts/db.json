@@ -2254,7 +2254,12 @@
      "why": "Duzluluğu təxminən 1,2 faizdir."
     }
    ],
-   "asked": []
+   "asked": [
+    {
+     "date": "2026-11-01",
+     "qi": 0
+    }
+   ]
   },
   {
    "id": "2026-10-29-1",
@@ -2744,6 +2749,147 @@
      ],
      "answer": "1982",
      "why": "Martın 1-də."
+    }
+   ],
+   "asked": []
+  },
+  {
+   "id": "2026-11-01-1",
+   "date": "2026-11-01",
+   "subject": "Tağıyev philanthropy. Girls' school: 184,000 roubles, built 1898–1900, 'first secular Muslim school for girls in the Middle East' (Wikipedia Zeynalabdin Taghiyev); opened 7 Oct 1901, 'the first secular girls' school in the Muslim East' (family.gov.az, State Committee for Family, Women and Children Affairs, 2021); permission obtained 1896. Theatre: 'sponsored the construction of the first Azerbaijani national theatre in 1883' (Wikipedia); 'constructed the first theatre building in Baku, in 1883' (preslib.az). Building of the girls' school today houses the Institute of Manuscripts, Istiqlaliyyat St (azer.com AI 13.2 'Mansion of Manuscripts'). Scholarships: many young Azerbaijanis studied abroad (Wikipedia; preslib: 'hundreds'). Şollar: funded the survey / allocated money (Wikipedia 25,000 roubles); construction publicly funded (our 21 Oct correction). Sold oil business to Anglo-Russian Oil Co. for 5 million roubles (Wikipedia, no year).",
+   "cat": "Azərbaycan",
+   "quizzes": [
+    {
+     "q": "Tağıyev qızlar məktəbinə neçə rubl verdi?",
+     "options": [
+      "18 min",
+      "184 min",
+      "1 milyon 840 min"
+     ],
+     "answer": "184 min",
+     "why": "Məktəb 1901-ci ildə açıldı."
+    },
+    {
+     "q": "Tağıyevin qızlar məktəbinin binasında bu gün nə var?",
+     "options": [
+      "Əlyazmalar İnstitutu",
+      "Opera teatrı",
+      "Dəmiryol vağzalı"
+     ],
+     "answer": "Əlyazmalar İnstitutu",
+     "why": "İstiqlaliyyət küçəsində."
+    },
+    {
+     "q": "Tağıyev Bakıda ilk teatr binasını neçənci ildə tikdirdi?",
+     "options": [
+      "1853",
+      "1883",
+      "1913"
+     ],
+     "answer": "1883",
+     "why": "Neft quyusu fontan vurandan 6 il sonra."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-11-01",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-11-01-2",
+   "date": "2026-11-01",
+   "subject": "Jupiter's Great Red Spot: ~41,000 km (25,500 mi) long axis in the late 1800s (NASA JPL; Universe Today); Voyager 1979: 23,300 km; Hubble 1995: 20,950 km; 2009: 17,910 km; 2014: ~16,500 km, 'the smallest diameter we've ever measured' then (Amy Simon, NASA Goddard; JPL). Shrinking ~930 km/yr since 2012 (JPL). Still larger than Earth (Earth diameter 12,742 km). 41,000/12,742 ≈ 3.2 Earths.",
+   "cat": "Kosmos",
+   "quizzes": [
+    {
+     "q": "1800-cü illərin sonunda Qırmızı Ləkənin uzunluğu təxminən nə qədər idi?",
+     "options": [
+      "4 100 km",
+      "41 000 km",
+      "410 000 km"
+     ],
+     "answer": "41 000 km",
+     "why": "İçinə üç Yer kürəsi sığardı."
+    },
+    {
+     "q": "2014-cü ildə Qırmızı Ləkəni hansı teleskop ölçdü?",
+     "options": [
+      "Habbl",
+      "Ceyms Uebb",
+      "Kepler"
+     ],
+     "answer": "Habbl",
+     "why": "Təxminən 16 500 km göstərdi."
+    }
+   ],
+   "asked": []
+  },
+  {
+   "id": "2026-11-01-3",
+   "date": "2026-11-01",
+   "subject": "Hyperion, coast redwood (Sequoia sempervirens) in Redwood National Park, California: 115.55 m verified 2006 (Sillett), 116.07 m in 2019 (Wikipedia; Fox26: 379 ft 1.2 in 2006, 380 ft 9.7 in 2019). Discovered 25 Aug 2006 by Chris Atkins and Michael Taylor (Wikipedia). Age ~600–800 years (Wikipedia, Fox26). July 2022: NPS closed the area; visitors face up to $5,000 fine and up to 6 months in jail (Wikipedia, Fox26, CNN/KVIA); reason: trampled base, ferns no longer grow, trash and human waste on the way (Wikipedia, Fox26).",
+   "cat": "Təbiət",
+   "quizzes": [
+    {
+     "q": "Dünyanın ən hündür ağacı Hiperion təxminən neçə metrdir?",
+     "options": [
+      "76",
+      "116",
+      "216"
+     ],
+     "answer": "116",
+     "why": "38 mərtəbəli bina boyda."
+    },
+    {
+     "q": "Hiperionun yanına getməyin cəriməsi nə qədərdir?",
+     "options": [
+      "500 dollar",
+      "5 000 dollar",
+      "50 000 dollar"
+     ],
+     "answer": "5 000 dollar",
+     "why": "Üstəlik 6 aya qədər həbs."
+    }
+   ],
+   "asked": []
+  },
+  {
+   "id": "2026-11-01-4",
+   "date": "2026-11-01",
+   "subject": "Jack Ma: KFC story in his own words to Charlie Rose: 'Twenty-four people went for the job. Twenty-three were accepted. I was the only guy [rejected]' (Wikipedia); Entrepreneur same (24 applicants, 23 hired). Gaokao: failed first attempt with 1 point in maths (Wikipedia; Entrepreneur '1 out of 120'), failed again in 1983, admitted on the third attempt 1984 (Wikipedia). Harvard Business School: 'claims to have applied ten times, rejected every time' (Wikipedia; Entrepreneur). Alibaba founded 1999 in his apartment with 18 friends (Wikipedia). 2014 NYSE IPO ~$25 bn, 'record-breaking' (Wikipedia).",
+   "cat": "Tarix",
+   "quizzes": [
+    {
+     "q": "Jek Ma ilə birlikdə KFC-yə neçə nəfər müraciət etmişdi?",
+     "options": [
+      "12",
+      "24",
+      "48"
+     ],
+     "answer": "24",
+     "why": "23-nü götürdülər, tək onu yox."
+    },
+    {
+     "q": "Jek Ma Alibabanı harada qurdu?",
+     "options": [
+      "Öz mənzilində",
+      "Universitetdə",
+      "Bankda"
+     ],
+     "answer": "Öz mənzilində",
+     "why": "1999-cu ildə, 18 dostu ilə."
+    },
+    {
+     "q": "Jek Ma ilk imtahanda riyaziyyatdan neçə bal yığdı?",
+     "options": [
+      "1",
+      "19",
+      "89"
+     ],
+     "answer": "1",
+     "why": "Üçüncü dəfə qəbul olundu."
     }
    ],
    "asked": []

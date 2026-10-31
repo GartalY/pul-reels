@@ -20,7 +20,9 @@
   "2026-10-30 11:00 cinema": 410314064,
   "2026-10-30 19:45 Zoroaster": 410314100,
   "2026-10-31 11:00 Bir Tawil": 411456006,
-  "2026-10-31 19:45 wood frog": 411456075
+  "2026-10-31 19:45 wood frog": 411456075,
+  "2026-11-01 11:00 beaked whale": 412302240,
+  "2026-11-01 19:45 Lotfi Zadeh": 412302257
  },
  "2026-10-28 19:45": [
   "2026-10-24 n4 blue whale heart 2 bpm (IG 483 views; safe layout out/2026-10-24/4_reel_safe.mp4)",
@@ -45,5 +47,13 @@
  "2026-10-31 19:45": [
   "2026-10-22 n4 wood frog freezes 7 months (IG 204 views; safe layout out/2026-10-22/4_reel_safe.mp4)",
   411456047
+ ],
+ "2026-11-01 11:00": [
+  "2026-10-20 n2 beaked whale 2 h 17 min (IG 192 views; safe layout out/2026-10-20/2_reel_safe.mp4)",
+  412301728
+ ],
+ "2026-11-01 19:45": [
+  "2026-10-23 n1 Lotfi Zadeh fuzzy logic (IG 199 views; safe layout out/2026-10-23/1_reel_safe.mp4)",
+  412301740
  ]
 }

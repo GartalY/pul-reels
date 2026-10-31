@@ -1,6 +1,6 @@
 {
  "date": "2026-11-01",
- "status": "planned",
+ "status": "scheduled",
  "format": "v2",
  "content_format": "v4",
  "planned_note": "Planned in the 2026-10-31 09:10 run (format v4). 10:00 TBG carousel = John Adams first to live in the White House, 1 Nov 1800. 13:00 AZ reel (VOICED) = Tağıyev PART 2/2 (girls' school 184 000 roubles, opened 7 Oct 1901; first theatre building 1883; building now Institute of Manuscripts). 16:00 reel (SILENT) = Jupiter's Great Red Spot shrank 41 000 -> 16 500 km. 18:30 trend backup reel (SILENT) = Hyperion 116 m, location closed, $5 000 fine. 21:30 reel (VOICED) = Jack Ma: 24 applied at KFC, 23 hired. All photos fetched and checked.",
@@ -400,5 +400,53 @@
    "image": "out/2026-11-01/q2.jpg",
    "answer_image": "out/2026-11-01/q2_a.jpg"
   }
- ]
+ ],
+ "metricool": {
+  "10:00 tarixdə bu gün carousel (White House 1800)": 412301198,
+  "10:00 tarixdə bu gün story": 412301348,
+  "11:00 quiz q1 (recall Caspian)": 412301353,
+  "11:10 answer a1": 412301363,
+  "13:00 reel (Tağıyev 2/2, voiced)": 412301214,
+  "14:00 quiz q2 (Tağıyev)": 412301378,
+  "14:10 answer a2": 412301392,
+  "16:00 reel (Great Red Spot, silent)": 412301229,
+  "18:30 reel (Hyperion backup, silent)": 412301245,
+  "21:30 reel (Jack Ma, voiced)": 412301251
+ },
+ "tiktok": {
+  "11:00 REPOST 2026-10-20 n2 beaked whale (safe layout)": 412301728,
+  "13:00 Tağıyev 2/2": 412301664,
+  "16:00 Great Red Spot": 412301679,
+  "18:30 Hyperion": 412301696,
+  "19:45 REPOST 2026-10-23 n1 Lotfi Zadeh (safe layout)": 412301740,
+  "21:30 Jack Ma": 412301711
+ },
+ "youtube": {
+  "11:00 REPOST beaked whale": 412302240,
+  "13:00 Tağıyev 2/2": 412302167,
+  "16:00 Great Red Spot": 412302189,
+  "18:30 Hyperion": 412302204,
+  "19:45 REPOST Lotfi Zadeh": 412302257,
+  "21:30 Jack Ma": 412302224
+ },
+ "built": {
+  "when": "2026-10-31 ~20:50 Asia/Baku",
+  "checked": "6 carousel slides, tbg story, 2 quiz + 2 answer stories, 6 frames per reel (4 reels + 2 repost renders) viewed; text in safe zone, no overflow.",
+  "reel_seconds": {
+   "1": 38.4,
+   "2": 24.6,
+   "3": 23.1,
+   "4": 38.8
+  },
+  "voice": "Banu +15% on reels 1 and 4 (AI labels on IG/TikTok/YouTube); reels 2 and 3 silent (split test)",
+  "notes": [
+   "Jack Ma hook shortened to 2 lines so the hook box no longer covers his eyes on the cover frame",
+   "numbers on images use non-breaking spaces (41 000, 16 500, 5 000)",
+   "hook_bg on all reels"
+  ]
+ },
+ "reposts": "Picked by IG views (IGRE23) among silent, never cross-posted reels (≤ 25 Oct) with no known error: 23 Oct Lotfi Zadeh 199 views (19:45), 20 Oct beaked whale 192 views (11:00). Re-rendered with safe-zone layout; frames checked.",
+ "trend_check_evening": "2026-10-31 ~20:50 Baku: world headlines (Euronews 31 Oct bulletins, Times of Israel liveblog) + AZ news search: no single dominant story our audience is talking about; no swap. 18:30 = Hyperion backup; the 09:10/15:23 runs pick the trend (US midterms 3 Nov are coming).",
+ "scheduled_check": "getScheduledPosts 1 Nov before scheduling: 0 posts. After: 22 posts (IG 10 incl. 5 stories, TikTok 6, YouTube 6), each network/time exactly once.",
+ "pending_schedule": null
 }

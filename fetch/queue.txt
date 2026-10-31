@@ -266,3 +266,4 @@ search_1101_redspot.json https://commons.wikimedia.org/w/api.php?action=query&fo
 search_1101_jackma.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1920&gsrsearch=Jack%20Ma%20portrait
 2026-11-01_2_redspot.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Great_red_spot_juno_20170712.jpg/1920px-Great_red_spot_juno_20170712.jpg
 search_1101_jackma2.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=%22Jack%20Ma%22%20Alibaba
+2026-11-01_4_jackma.jpg https://upload.wikimedia.org/wikipedia/commons/a/a9/Enabling_eCommerce-_Small_Enterprises%2C_Global_Players_%2839008130265%29_%28cropped%29.jpg

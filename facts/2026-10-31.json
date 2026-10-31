@@ -425,24 +425,24 @@
   "14:00 quiz q2 (Tağıyev)": 411456380,
   "14:10 answer a2": 411456413,
   "16:00 reel (pumpkin record, silent)": 411454857,
-  "18:30 reel (Son Doong, trend backup, silent)": 411454946,
-  "21:30 reel (Venera-13, voiced)": 411455746
+  "21:30 reel (Venera-13, voiced)": 411455746,
+  "18:30 TREND reel (Halloween $13.5 bn, silent)": 412080609
  },
  "tiktok": {
   "11:00 REPOST 2026-10-22 n1 Bir Tawil (safe layout)": 411455966,
   "13:00 Tağıyev 1/2": 411454156,
   "16:00 pumpkin": 411454882,
-  "18:30 Son Doong (trend backup)": 411454967,
   "19:45 REPOST 2026-10-22 n4 wood frog (safe layout)": 411456047,
-  "21:30 Venera-13": 411455855
+  "21:30 Venera-13": 411455855,
+  "18:30 TREND Halloween": 412080622
  },
  "youtube": {
   "11:00 REPOST Bir Tawil": 411456006,
   "13:00 Tağıyev 1/2": 411454824,
   "16:00 pumpkin": 411454915,
-  "18:30 Son Doong (trend backup)": 411454998,
   "19:45 REPOST wood frog": 411456075,
-  "21:30 Venera-13": 411455919
+  "21:30 Venera-13": 411455919,
+  "18:30 TREND Halloween": 412080629
  },
  "built": {
   "when": "2026-10-30 ~20:55 Asia/Baku",
@@ -527,6 +527,13 @@
    "cy": 0.45,
    "full": true,
    "source": "https://unsplash.com/photos/Wq-nmL12bCU"
+  },
+  "render": {
+   "file": "out/2026-10-31/T_reel.mp4",
+   "seconds": 21.6,
+   "cy": 0.45,
+   "hook_bg": true,
+   "seed": 31
   }
  },
  "trend_check_morning": {
@@ -534,5 +541,13 @@
   "checked": "SBS 31 Oct, Euronews, Al Jazeera sitemap 29-30 Oct, Halloween/NRF, Intel",
   "result": "No breaking event requiring an immediate swap of a not-yet-published post. Binance hack (yesterday's trend) still top business story; US midterms 3 Nov dominate US news (plan: results-day trend Wed 4 Nov, neutral); Iran war/Hormuz ongoing (no new single event, tragedy rules). Today's trend = Halloween money + turnip origin, built at 15:23 into the 18:30 slot.",
   "swap": null
+ },
+ "trend_swap": {
+  "when": "2026-10-31 15:24-15:27 Baku",
+  "what": "18:30 Son Doong backup -> Halloween trend reel ($13.5 bn NRF + turnip lanterns) on IG + TikTok + YouTube (existing posts updated, none added; Son Doong video removed from all 3, verified with getScheduledPosts)",
+  "why": "Morning trend pick (Halloween = what the audience sees today); NRF figures unchanged since 22 Sep release. Normal mode, BİLİRDİNİZMİ pill + follow CTA.",
+  "backup": "Son Doong (2026-10-31-3) marked unposted in db.json for a later day; reel out/2026-10-31/3_reel.mp4 reusable",
+  "stories": "format v4: no 19:30/19:40 quiz stories, nothing to re-render",
+  "frames_checked": "hook + 3 beats + end viewed: text inside safe zone, readable, photo clean (no logo/watermark)"
  }
 }

@@ -2588,7 +2588,12 @@
      "why": "Partlayan ulduzun qalıqlarıdır."
     }
    ],
-   "asked": []
+   "asked": [
+    {
+     "date": "2026-11-02",
+     "qi": 0
+    }
+   ]
   },
   {
    "id": "2026-10-31-1",
@@ -2892,6 +2897,147 @@
      ],
      "answer": "1",
      "why": "Üçüncü dəfə qəbul olundu."
+    }
+   ],
+   "asked": []
+  },
+  {
+   "id": "2026-11-02-1",
+   "date": "2026-11-02",
+   "subject": "Gobustan Rock Art Cultural Landscape: 'more than 6,000 rock engravings bearing testimony to 40,000 years of rock art' (UNESCO WHC 1076, EN/FR/ES); UNESCO World Heritage 2007 (Wikipedia, 31st session); ~70 km SW of central Baku (Wikipedia); 'over 6,000 petroglyphs carved into more than 1,000 rock surfaces', 537 ha (Wikipedia/UNESCO); boats/longships, hunters, animals, dancers; Gaval Dash 'tambourine stone', prehistoric musical instrument (Wikipedia); Latin inscription from Emperor Domitian's reign (81–96 AD), Legio XII Fulminata (Wikipedia).",
+   "cat": "Azərbaycan",
+   "quizzes": [
+    {
+     "q": "Qobustan qayalarında neçədən çox qədim rəsm var?",
+     "options": [
+      "600",
+      "6 000",
+      "60 000"
+     ],
+     "answer": "6 000",
+     "why": "UNESCO-ya görə 6 000-dən çox."
+    },
+    {
+     "q": "«Qaval daşı»na vuranda nə olur?",
+     "options": [
+      "İşıq yanır",
+      "Qaval kimi səs çıxır",
+      "Su axır"
+     ],
+     "answer": "Qaval kimi səs çıxır",
+     "why": "Qədim musiqi aləti sayılır."
+    },
+    {
+     "q": "Qobustan qayasında hansı xalqın əsgərlərinin yazısı var?",
+     "options": [
+      "Romalıların",
+      "Monqolların",
+      "Vikinqlərin"
+     ],
+     "answer": "Romalıların",
+     "why": "İmperator Domisianın dövrünə aiddir."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-11-02",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-11-02-2",
+   "date": "2026-11-02",
+   "subject": "ISS orbits Earth about every 90 minutes; crew sees about 16 sunrises and 16 sunsets each day (NASA image article 31 Jul 2013; NASA Earth Observatory blog 15 Jan 2016). Speed ~17,500 mph (NASA 2013) / ~17,100 mph (NASA 2016) ≈ 27 500–28 200 km/h. 'Each sunrise and sunset lasts only a few seconds' (astronaut quote, NASA 2016 blog). 16 × 365 ≈ 5 840 per year (our arithmetic). Altitude ~400 km (NASA facts page, widely published).",
+   "cat": "Kosmos",
+   "quizzes": [
+    {
+     "q": "Kosmik stansiya Yerin ətrafında neçə dəqiqəyə bir dövrə vurur?",
+     "options": [
+      "45 dəqiqə",
+      "90 dəqiqə",
+      "180 dəqiqə"
+     ],
+     "answer": "90 dəqiqə",
+     "why": "Ona görə gündə 16 dövrə edir."
+    },
+    {
+     "q": "Astronavtlar gündə neçə dəfə gün doğuşu görürlər?",
+     "options": [
+      "4",
+      "16",
+      "24"
+     ],
+     "answer": "16",
+     "why": "Həm də 16 gün batışı."
+    }
+   ],
+   "asked": []
+  },
+  {
+   "id": "2026-11-02-3",
+   "date": "2026-11-02",
+   "subject": "Akashi Kaikyō Bridge, Japan: central span 1,991 m (Wikipedia, Britannica; Structurae 1 990.8 m). Towers originally 1,990 m apart; Great Hanshin (Kobe) earthquake 17 Jan 1995 (M7.3) moved the towers so the span had to be increased by 1 m (Wikipedia); 'almost a meter' (Structurae); 'more than 1 metre farther apart' (Britannica); towers were the only structures standing then. Opened 5 Apr 1998, world's longest suspension span until 1915 Çanakkale Bridge, Türkiye, opened March 2022 (Wikipedia). Withstands winds of 286 km/h (Wikipedia; Britannica 290) and M8.5 earthquakes (Wikipedia). 300,000 km of wire in the cables (Wikipedia) ≈ 7.5× Earth's circumference.",
+   "cat": "Coğrafiya",
+   "quizzes": [
+    {
+     "q": "Kobe zəlzələsi körpünün qüllələrini təxminən nə qədər uzaqlaşdırdı?",
+     "options": [
+      "1 santimetr",
+      "1 metr",
+      "10 metr"
+     ],
+     "answer": "1 metr",
+     "why": "Məsafə 1 990 m-dən 1 991 m-ə çıxdı."
+    },
+    {
+     "q": "Akaşi-Kaykyo körpüsünün rekordunu hansı ölkədəki körpü aldı?",
+     "options": [
+      "Çin",
+      "Türkiyə",
+      "Norveç"
+     ],
+     "answer": "Türkiyə",
+     "why": "Çanaqqala körpüsü, 2022."
+    }
+   ],
+   "asked": []
+  },
+  {
+   "id": "2026-11-02-4",
+   "date": "2026-11-02",
+   "subject": "Luka Modrić: born 9 Sep 1985; family became refugees in 1991 when he was six (Onmanorama 2018 quoting him: 'I was six years old'; Wikipedia); grandfather killed Dec 1991 (Wikipedia, Onmanorama, Gulf News) — not used; lived in Hotel Kolovare, Zadar ('for seven years', Wikipedia only -> we say 'illərlə'; Onmanorama 'for many years'; Gulf News 'refugee hotel'); played mostly in the hotel parking lot (Wikipedia; Onmanorama 'empty parking lots'); Hajduk Split did not sign him, 'considered too young and light' (Wikipedia). Ballon d'Or 2018 = first player other than Messi or Ronaldo since 2007 (Wikipedia; Gulf News); age 33 at the Dec 2018 ceremony. Real Madrid 2012–2025: six Champions League titles (Wikipedia). Now AC Milan (Wikipedia; Commons photos show him playing for Croatia 2 Jul 2026).",
+   "cat": "Tarix",
+   "quizzes": [
+    {
+     "q": "Modriçin ailəsi qaçqın olanda o neçə yaşında idi?",
+     "options": [
+      "6",
+      "12",
+      "16"
+     ],
+     "answer": "6",
+     "why": "1991-ci ildə."
+    },
+    {
+     "q": "Kiçik Luka futbolu çox vaxt harada oynayırdı?",
+     "options": [
+      "Məktəb həyətində",
+      "Otel dayanacağında",
+      "Çimərlikdə"
+     ],
+     "answer": "Otel dayanacağında",
+     "why": "Ailəsi oteldə qaçqın kimi yaşayırdı."
+    },
+    {
+     "q": "Modriç «Qızıl top»u neçənci ildə qazandı?",
+     "options": [
+      "2014",
+      "2018",
+      "2022"
+     ],
+     "answer": "2018",
+     "why": "Messi–Ronaldo növbəsini qırdı."
     }
    ],
    "asked": []

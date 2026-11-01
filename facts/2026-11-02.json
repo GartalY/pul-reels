@@ -79,7 +79,7 @@
    "year": 1947,
    "title": "Nəhəng taxta təyyarə bir dəfə uçdu",
    "text": "79 il əvvəl bu gün Hovard Hyuzun qanadları 97,5 metr olan taxta təyyarəsi havaya qalxdı. Təxminən 1,6 km uçdu və bir daha uçmadı.",
-   "credit": "Foto: SDASM Archives / Wikimedia Commons"
+   "credit": "SDASM Archives / Wikimedia Commons"
   },
   "sources": [
    "https://www.history.co.uk/this-day-in-history/02-november/spruce-goose-flies",
@@ -356,5 +356,39 @@
    }
   }
  ],
- "language_check": "Self-check 2026-11-01 09:10 (section L): short spoken sentences; no English words in brackets ('Spruce Goose' not used, 'pole' -> 'poul mövqeyi' explained in beat 1 of today's trend); cases checked ('Ronaldodan başqa', 'müharibə üzündən', 'bir-birindən uzaqlaşdırdı'); voice texts have numbers in words."
+ "language_check": "Self-check 2026-11-01 09:10 (section L): short spoken sentences; no English words in brackets ('Spruce Goose' not used, 'pole' -> 'poul mövqeyi' explained in beat 1 of today's trend); cases checked ('Ronaldodan başqa', 'müharibə üzündən', 'bir-birindən uzaqlaşdırdı'); voice texts have numbers in words.",
+ "stories": [
+  {
+   "time": "11:00",
+   "fact_id": "2026-10-30-4",
+   "recall": true,
+   "cat": "Kosmos",
+   "q": "1054-cü il ulduzu gündüz neçə gün göründü?",
+   "options": [
+    "3",
+    "23",
+    "230"
+   ],
+   "answer": "23",
+   "why": "Gecə isə təxminən iki il göründü.",
+   "image": "out/2026-11-02/q1.jpg",
+   "answer_image": "out/2026-11-02/q1_a.jpg"
+  },
+  {
+   "time": "14:00",
+   "fact_id": "2026-11-02-1",
+   "recall": false,
+   "cat": "Azərbaycan",
+   "q": "Qobustan qayalarında neçədən çox qədim rəsm var?",
+   "options": [
+    "600",
+    "6 000",
+    "60 000"
+   ],
+   "answer": "6 000",
+   "why": "UNESCO-ya görə 6 000-dən çox.",
+   "image": "out/2026-11-02/q2.jpg",
+   "answer_image": "out/2026-11-02/q2_a.jpg"
+  }
+ ]
 }

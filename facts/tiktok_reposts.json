@@ -22,7 +22,9 @@
   "2026-10-31 11:00 Bir Tawil": 411456006,
   "2026-10-31 19:45 wood frog": 411456075,
   "2026-11-01 11:00 beaked whale": 412302240,
-  "2026-11-01 19:45 Lotfi Zadeh": 412302257
+  "2026-11-01 19:45 Lotfi Zadeh": 412302257,
+  "2026-11-02 11:00 bombardier beetle": 413078835,
+  "2026-11-02 19:45 Mars blue sunset": 413078900
  },
  "2026-10-28 19:45": [
   "2026-10-24 n4 blue whale heart 2 bpm (IG 483 views; safe layout out/2026-10-24/4_reel_safe.mp4)",
@@ -55,5 +57,13 @@
  "2026-11-01 19:45": [
   "2026-10-23 n1 Lotfi Zadeh fuzzy logic (IG 199 views; safe layout out/2026-10-23/1_reel_safe.mp4)",
   412301740
+ ],
+ "2026-11-02 11:00": [
+  "2026-10-23 n4 bombardier beetle 100 °C (IG 186 views; safe layout out/2026-10-23/4_reel_safe.mp4)",
+  413078319
+ ],
+ "2026-11-02 19:45": [
+  "2026-10-21 n4 Mars blue sunset (IG 180 views; safe layout out/2026-10-21/4_reel_safe.mp4)",
+  413078383
  ]
 }

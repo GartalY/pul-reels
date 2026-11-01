@@ -1,6 +1,6 @@
 {
  "date": "2026-11-02",
- "status": "planned",
+ "status": "scheduled",
  "format": "v2",
  "content_format": "v4",
  "planned_note": "Planned in the 2026-11-01 09:10 run (format v4). 10:00 TBG carousel = Spruce Goose's only flight, 2 Nov 1947. 13:00 AZ reel (VOICED) = Gobustan: 6 000+ rock engravings, 40 000 years (UNESCO), Gaval daş, Roman inscription. 16:00 reel (SILENT) = ISS: 16 sunrises a day. 18:30 trend backup reel (SILENT) = Akashi Kaikyo bridge got ~1 m longer in the 1995 Kobe quake. 21:30 reel (VOICED) = Luka Modric: refugee at 6, Ballon d'Or at 33. All photos fetched and checked (Commons).",
@@ -390,5 +390,53 @@
    "image": "out/2026-11-02/q2.jpg",
    "answer_image": "out/2026-11-02/q2_a.jpg"
   }
- ]
+ ],
+ "metricool": {
+  "10:00 tarixdə bu gün carousel (Spruce Goose 1947)": 413077308,
+  "10:00 tarixdə bu gün story": 413077855,
+  "11:00 quiz q1 (recall 1054 star)": 413077883,
+  "11:10 answer a1": 413077892,
+  "13:00 reel (Gobustan, voiced)": 413077644,
+  "14:00 quiz q2 (Gobustan)": 413077912,
+  "14:10 answer a2": 413077919,
+  "16:00 reel (ISS 16 sunrises, silent)": 413077666,
+  "18:30 trend-backup reel (Akashi bridge, silent)": 413077682,
+  "21:30 reel (Modric, voiced)": 413077710
+ },
+ "tiktok": {
+  "11:00 REPOST 2026-10-23 n4 bombardier beetle (safe layout)": 413078319,
+  "13:00 Gobustan": 413078332,
+  "16:00 ISS": 413078345,
+  "18:30 Akashi (trend backup)": 413078359,
+  "19:45 REPOST 2026-10-21 n4 Mars blue sunset (safe layout)": 413078383,
+  "21:30 Modric": 413078394
+ },
+ "youtube": {
+  "11:00 REPOST beetle": 413078835,
+  "13:00 Gobustan": 413078853,
+  "16:00 ISS": 413078866,
+  "18:30 Akashi": 413078880,
+  "19:45 REPOST Mars": 413078900,
+  "21:30 Modric": 413078919
+ },
+ "built": {
+  "when": "2026-11-01 ~20:50 Asia/Baku",
+  "checked": "6 carousel slides, tbg story, 2 quiz + 2 answer stories, 6 frames per reel (4 reels + 2 repost renders) viewed; text in safe zone, no overflow, no watermark.",
+  "reel_seconds": {
+   "1": 32.7,
+   "2": 27.3,
+   "3": 23.7,
+   "4": 35.1
+  },
+  "voice": "Banu +15% on reels 1 and 4 (AI labels on IG/TikTok/YouTube); reels 2 and 3 silent (split test, last day 2 Nov)",
+  "notes": [
+   "tbg story credit fixed (was 'Foto: Foto:')",
+   "numbers on images use non-breaking spaces",
+   "hook_bg on all reels"
+  ]
+ },
+ "reposts": "Picked by IG views (IGRE23) among silent, never cross-posted reels (<= 25 Oct), no known error: 23 Oct bombardier beetle 186 views (11:00), 21 Oct Mars blue sunset 180 views (19:45). Next in line: Voyager 172, Greenland shark 171, Pluto 164, godwit 159.",
+ "trend_check_evening": "2026-11-01 ~20:50 Baku: world + AZ news searches: no new dominant story beyond the morning check (US-Iran/Hormuz ongoing, US midterms 3 Nov planned for 4 Nov, Mexico GP tonight). No swap; 18:30 = Akashi backup, the 09:10/15:23 runs pick the trend.",
+ "scheduled_check": "getScheduledPosts 2 Nov before scheduling: 0 posts. After: 22 posts (IG 10 incl. 5 stories, TikTok 6, YouTube 6), each network/time exactly once.",
+ "pending_schedule": null
 }

@@ -410,24 +410,24 @@
   "14:00 quiz q2 (Tağıyev)": 412301378,
   "14:10 answer a2": 412301392,
   "16:00 reel (Great Red Spot, silent)": 412301229,
-  "18:30 reel (Hyperion backup, silent)": 412301245,
-  "21:30 reel (Jack Ma, voiced)": 412301251
+  "21:30 reel (Jack Ma, voiced)": 412301251,
+  "18:30 TREND reel (Hamilton pole, silent)": 412837388
  },
  "tiktok": {
   "11:00 REPOST 2026-10-20 n2 beaked whale (safe layout)": 412301728,
   "13:00 Tağıyev 2/2": 412301664,
   "16:00 Great Red Spot": 412301679,
-  "18:30 Hyperion": 412301696,
   "19:45 REPOST 2026-10-23 n1 Lotfi Zadeh (safe layout)": 412301740,
-  "21:30 Jack Ma": 412301711
+  "21:30 Jack Ma": 412301711,
+  "18:30 TREND Hamilton pole": 412837394
  },
  "youtube": {
   "11:00 REPOST beaked whale": 412302240,
   "13:00 Tağıyev 2/2": 412302167,
   "16:00 Great Red Spot": 412302189,
-  "18:30 Hyperion": 412302204,
   "19:45 REPOST Lotfi Zadeh": 412302257,
-  "21:30 Jack Ma": 412302224
+  "21:30 Jack Ma": 412302224,
+  "18:30 TREND Hamilton pole": 412837400
  },
  "built": {
   "when": "2026-10-31 ~20:50 Asia/Baku",
@@ -513,8 +513,19 @@
    "cy": 0.3,
    "full": true,
    "source": "https://commons.wikimedia.org/wiki/File:2025_Japan_GP_-_Ferrari_-_Lewis_Hamilton_-_Fanzone_Stage_(cropped).jpg",
-   "note": "Hamilton in Ferrari hoodie, Japan GP 2025 fan zone; portrait; sponsor logos on clothing only, no watermark. Alt: fetch/img/2026-11-01_T_hamilton2.jpg (car on track, CC BY 4.0 Eustace Bagge)"
-  }
+   "note": "Hamilton in Ferrari hoodie, Japan GP 2025 fan zone; portrait; sponsor logos on clothing only, no watermark. Alt: fetch/img/2026-11-01_T_hamilton2.jpg (car on track, CC BY 4.0 Eustace Bagge)",
+   "render_path": "fetch/img/2026-11-01_T_hamilton_pad.jpg",
+   "render_note": "original placed 300 px lower on a blurred 1080x1920 canvas so the hook box clears his face on the cover frame"
+  },
+  "reel": "out/2026-11-01/T_reel.mp4"
  },
- "trend_check_morning": "2026-11-01 09:10-09:45 Baku: Al Jazeera + Izvestia front pages, F1/football/MLB searches. Big stories: US-Iran war/Hormuz (ongoing, no new single event; war = tragedy rules + Iran is a neighbour -> skip), European youth cost-of-living protests (covered 23 Oct), US midterms 3 Nov (planned for results day 4 Nov), Ebola DRC >5 000 deaths (tragedy, no AZ link). No AZ story needing a swap. TODAY'S TREND = Hamilton first Ferrari pole (famous person + number, race tonight 00:00 Baku, Antonelli may become youngest champion). Swap into 18:30 at 15:23 on IG + TikTok + YouTube (update existing posts, no duplicates)."
+ "trend_check_morning": "2026-11-01 09:10-09:45 Baku: Al Jazeera + Izvestia front pages, F1/football/MLB searches. Big stories: US-Iran war/Hormuz (ongoing, no new single event; war = tragedy rules + Iran is a neighbour -> skip), European youth cost-of-living protests (covered 23 Oct), US midterms 3 Nov (planned for results day 4 Nov), Ebola DRC >5 000 deaths (tragedy, no AZ link). No AZ story needing a swap. TODAY'S TREND = Hamilton first Ferrari pole (famous person + number, race tonight 00:00 Baku, Antonelli may become youngest champion). Swap into 18:30 at 15:23 on IG + TikTok + YouTube (update existing posts, no duplicates).",
+ "trend_swap": {
+  "when": "2026-11-01 15:25-15:28 Baku",
+  "what": "18:30 Hyperion backup -> Hamilton first Ferrari GP pole trend reel (21.3 s, silent) on IG + TikTok + YouTube (existing posts 412301245/412301696/412302204 updated, none added; Hyperion video removed from all 3, verified with getScheduledPosts: exactly one post per network at 18:30)",
+  "why": "Morning trend pick; 15:23 re-check found no grid penalty or change to the pole facts; race is 00:00 Baku so no result claimed.",
+  "backup": "Hyperion (2026-11-01-3) marked unposted in db.json; reel out/2026-11-01/3_reel.mp4 reusable",
+  "stories": "format v4: no 19:30/19:40 quiz stories today, nothing to re-render",
+  "frames_checked": "cover/hook, beat 1, beat 3 + follow pill viewed: text in safe zone, face visible under hook, no watermark"
+ }
 }

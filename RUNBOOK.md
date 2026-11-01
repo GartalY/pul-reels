@@ -43,6 +43,14 @@ Every text (caption, slide, reel beat, quiz, story, first comment) must read lik
   famous person + rags-to-riches (Osimhen 454). Losers = small body/biology facts (blood cells 60, bee 68) and
   "on this day" carousels (35–59). Rule: at most 1 biology/body fact per 2 days and only with a striking visual; prefer
   AZ-tangible, space, famous people, giant/record things. Re-check at the Sunday review.
+- **WEEKLY REVIEW 2026-11-01 (outliers, reviews/outliers.md):** (1) A number in the hook is NECESSARY but NOT ENOUGH — 7/7
+  outliers had one, but so did all 3 new flops. Pair it with one of the two confirmed winners: a **Baku place/history people
+  see or touch** (Şollar, first film in Baku, Boulevard: 3 outliers) or a **space "impossible" twist** (18 h day, Neptune: 2).
+  (2) **The 16:00 reel (facts[1]) = space / "wow" number / giant record / famous person only — never a small animal or
+  body fact** (bee 54, cells 55, geese 29 = 3 flops, all 16:00; this week's 16:00 median 54 vs 273 at 13:00).
+- **ONE UPLOAD PER VIDEO PER CHANNEL (2026-11-01; YouTube's Oct 2026 originality update + our data):** never let the same
+  video go live twice on the same YouTube channel or TikTok account (the 27 Oct duplicate Osimhen Short got 9 views vs
+  median 799). Reposts only for videos never uploaded to that channel; trend swaps update/delete, never add.
 - 10:00 — "Tarixdə bu gün" CAROUSEL + 10:00 story (unchanged; the only carousel)
 - 13:00 — facts[0] AZ REEL · 16:00 — facts[1] REEL · 21:30 — facts[3] REEL (unchanged)
 - **18:30 — TREND REEL.** facts[2] (the evergreen backup) is now written and built as a REEL (`reel_hook` +
@@ -476,6 +484,12 @@ small data-backed changes here; recommend bigger ones (times, volume, format mix
   once, in the first review where it is ≥ 72 h old) and update the hook ranking there. Draw a conclusion only when
   ≥ 2 outliers (or flops) share a pattern; otherwise write "not enough data yet". Also report shares per 100 reach
   (is the 📩 line working?). 2026-10-25: 0.26 shares/100 reach — the caption CTA is not producing shares.
+  2026-11-01: IG 0.30/100 (still no); TikTok AZ videos 5–8 shares/100 views.
+- ALGORITHM CHECK (weekly, Gartal 2026-10-27): WebSearch (extended) for Instagram/Reels ranking + creator best-practice
+  changes of the last 7–14 days (Mosseri, @creators, Meta newsroom/transparency, then SMT/TechCrunch/Verge/Later/Buffer),
+  briefly TikTok + YouTube Shorts; date + source every claim; append a dated section to reviews/algorithm.md (changed ·
+  confirmed vs rumour · meaning for us). Apply a small RUNBOOK change only when a confirmed change matches our data.
+- TikTok/YouTube outlier analysis started 2026-11-01 (≥ 10 videos ≥ 72 h old); same rules, per platform median views.
 
 ## Roadmap (updated 2026-10-25)
 - NO PAID PROMOTION (Gartal, 2026-10-25: budget is tight). Don't propose boosts/ads; grow organically only.

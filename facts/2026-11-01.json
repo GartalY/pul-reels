@@ -448,5 +448,73 @@
  "reposts": "Picked by IG views (IGRE23) among silent, never cross-posted reels (≤ 25 Oct) with no known error: 23 Oct Lotfi Zadeh 199 views (19:45), 20 Oct beaked whale 192 views (11:00). Re-rendered with safe-zone layout; frames checked.",
  "trend_check_evening": "2026-10-31 ~20:50 Baku: world headlines (Euronews 31 Oct bulletins, Times of Israel liveblog) + AZ news search: no single dominant story our audience is talking about; no swap. 18:30 = Hyperion backup; the 09:10/15:23 runs pick the trend (US midterms 3 Nov are coming).",
  "scheduled_check": "getScheduledPosts 1 Nov before scheduling: 0 posts. After: 22 posts (IG 10 incl. 5 stories, TikTok 6, YouTube 6), each network/time exactly once.",
- "pending_schedule": null
+ "pending_schedule": null,
+ "trend": {
+  "n": "T",
+  "type": "reel",
+  "format": "v4",
+  "cat": "İdman",
+  "voiced": false,
+  "subject": "F1 Mexico City GP 2026 qualifying, Sat 31 Oct: Lewis Hamilton (Ferrari) pole 1:16.514, George Russell +0.009 s, Leclerc 3rd +0.119 (Sky Sports, The Race, RACER, Sunday Guardian/Reuters). First Grand Prix pole for Ferrari (he had 2 sprint poles with Ferrari, Sky). First GP pole since 2023 Hungarian GP (Sky; quali 22 Jul 2023 -> 1,197 days, f1-fansite headline + our arithmetic). 105th career pole, record (Sky, The Race, RACER). Age 41; oldest polesitter since Mario Andretti, 1982 Italian GP (The Race, RACER, Sunday Guardian). Quote: 'it has been such a long time coming' (team radio, Sky/Sunday Guardian). Title: leader Kimi Antonelli, 20, becomes youngest-ever champion if he finishes 9th or higher on Sunday (Sky, RACER, Sunday Guardian). Race Sun 1 Nov 20:00 UK = 00:00 Baku (Sky).",
+  "photo_request": "Lewis Hamilton in Ferrari kit (Commons)",
+  "title": "1 197 gün sonra: Həmilton yenə poulda",
+  "text": "Lüis Həmilton Meksikada «Ferrari» ilə ilk dəfə poul mövqeyi qazandı. Bu, onun 2023-cü ildən bəri ilk poludur və karyerasında 105-cisidir.",
+  "reel_hook": "1 197 GÜN SONRA: HƏMİLTON YENƏ POULDA",
+  "reel_beats": [
+   "Dünən Meksikada Lüis Həmilton sıralama turunu birinci bitirdi. Bu gecə yarışa ən öndən, poul mövqeyindən başlayacaq.",
+   "Bu, onun «Ferrari»dəki ilk poludur. Sonuncu dəfə 2023-cü ildə poul qazanmışdı. Corc Rasseli cəmi 0,009 saniyə qabaqladı.",
+   "41 yaşlı Həmilton üçün bu, 105-ci poldur. Formula 1-də heç kimin bu qədər poulu yoxdur. Səncə, bu gecə qalib gələcək?"
+  ],
+  "caption": "1 197 gün sonra Lüis Həmilton yenə ən öndən başlayır 🏎️\n\nDünən Meksikada Həmilton sıralama turunu birinci bitirdi. Bu, onun «Ferrari»dəki ilk Qran-pri poludur. Sonuncu dəfə poulu 2023-cü ildə, Macarıstanda, hələ «Mercedes»də olanda qazanmışdı. Corc Rasseli cəmi 0,009 saniyə qabaqladı. 41 yaşlı Həmilton 1982-ci ildən bəri poul qazanan ən yaşlı sürücüdür. Bu, onun 105-ci poludur — Formula 1 rekordu.\n\nBu gecə maraqlı bir şey də ola bilər: 20 yaşlı çempionat lideri Kimi Antonelli 9-cu və ya daha yaxşı yer tutsa, tarixin ən gənc dünya çempionu olacaq.\n\n📩 «Mənim üçün artıq gecdir» deyən dostuna göndər — Həmilton 41 yaşında rekord yazdı\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Liauzh / Wikimedia Commons (CC BY-SA 4.0)\n\n#bilirdinizmi #maraqlıfaktlar #formula1 #həmilton #idman",
+  "first_comment": "Bu gecə Meksikada kim qalib gələcək? 👇",
+  "quizzes": [
+   {
+    "q": "Həmilton Meksikada Rasseli neçə saniyə qabaqladı?",
+    "options": [
+     "0,009 saniyə",
+     "0,09 saniyə",
+     "0,9 saniyə"
+    ],
+    "answer": "0,009 saniyə",
+    "why": "Saniyənin mində doqquzu."
+   },
+   {
+    "q": "Bu poul Həmiltonun karyerasında neçəncisidir?",
+    "options": [
+     "95-ci",
+     "105-ci",
+     "115-ci"
+    ],
+    "answer": "105-ci",
+    "why": "Formula 1 rekordu."
+   },
+   {
+    "q": "Həmilton sonuncu dəfə neçənci ildə poul qazanmışdı?",
+    "options": [
+     "2021",
+     "2023",
+     "2025"
+    ],
+    "answer": "2023",
+    "why": "Macarıstanda, «Mercedes»də."
+   }
+  ],
+  "sources": [
+   "https://www.skysports.com/f1/news/13606015/mexico-city-gp-qualifying-lewis-hamilton-claims-first-pole-position-for-ferrari-by-edging-out-mercedes-george-russell",
+   "https://www.the-race.com/formula-1/hamilton-takes-first-ferrari-gp-pole-in-mexico/",
+   "https://racer.com/2026/10/31/hamilton-earns-first-ferrari-pole-in-mexico-city",
+   "https://sundayguardianlive.com/sports/f1-mexico-city-gp-2026-qualifying-results-lewis-hamilton-takes-first-ferrari-pole-as-kimi-antonelli-qualifies-fifth-check-full-grid-315152/",
+   "https://www.f1-fansite.com/f1-result/qualifying-report-results-2026-mexico-city-f1-grand-prix/"
+  ],
+  "verify_note": "0.009 s, 105th pole, first Ferrari GP pole, last pole Hungary 2023, age 41: Sky + The Race + RACER agree. Oldest since Andretti 1982: The Race + RACER + Sunday Guardian. 1 197 days: f1-fansite headline; our check 22 Jul 2023 -> 31 Oct 2026 = 1 197 days. Sky says he had 2 Ferrari SPRINT poles, so we say 'Qran-pri poludur' in the caption and 'ilk poludur' only in the beat context of the main race. Antonelli 9th-or-better rule: Sky + RACER. Race is at 00:00 Baku, after our 18:30 post -> no result claimed. RE-CHECK at 15:23 nothing changed (penalties).",
+  "photo": {
+   "path": "fetch/img/2026-11-01_T_hamilton.jpg",
+   "credit": "Liauzh / Wikimedia Commons (CC BY-SA 4.0)",
+   "cy": 0.3,
+   "full": true,
+   "source": "https://commons.wikimedia.org/wiki/File:2025_Japan_GP_-_Ferrari_-_Lewis_Hamilton_-_Fanzone_Stage_(cropped).jpg",
+   "note": "Hamilton in Ferrari hoodie, Japan GP 2025 fan zone; portrait; sponsor logos on clothing only, no watermark. Alt: fetch/img/2026-11-01_T_hamilton2.jpg (car on track, CC BY 4.0 Eustace Bagge)"
+  }
+ },
+ "trend_check_morning": "2026-11-01 09:10-09:45 Baku: Al Jazeera + Izvestia front pages, F1/football/MLB searches. Big stories: US-Iran war/Hormuz (ongoing, no new single event; war = tragedy rules + Iran is a neighbour -> skip), European youth cost-of-living protests (covered 23 Oct), US midterms 3 Nov (planned for results day 4 Nov), Ebola DRC >5 000 deaths (tragedy, no AZ link). No AZ story needing a swap. TODAY'S TREND = Hamilton first Ferrari pole (famous person + number, race tonight 00:00 Baku, Antonelli may become youngest champion). Swap into 18:30 at 15:23 on IG + TikTok + YouTube (update existing posts, no duplicates)."
 }

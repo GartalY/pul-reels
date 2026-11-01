@@ -1,4 +1,4 @@
-# Tiny World — PARKED: review with Gartal on SUNDAY 1 Nov (after the Saturday night animation test; bring Mars v2)
+# Tiny World — ON HOLD (Gartal, 1 Nov 13:42: "park it, wait for me"). Do NOT build Mars v2 or anything else until he asks.
 
 Gartal LOVED `out/tinyworld/mars_ep1_full.mp4` (Last Dome on Mars, Episode 1, 48 s, `mars_full.py`).
 Ants test (`colony.py`) was "not bad" but Mars chosen.

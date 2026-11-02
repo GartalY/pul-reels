@@ -400,24 +400,24 @@
   "14:00 quiz q2 (Gobustan)": 413077912,
   "14:10 answer a2": 413077919,
   "16:00 reel (ISS 16 sunrises, silent)": 413077666,
-  "18:30 trend-backup reel (Akashi bridge, silent)": 413077682,
-  "21:30 reel (Modric, voiced)": 413077710
+  "21:30 reel (Modric, voiced)": 413077710,
+  "18:30 TREND reel (Antonelli, silent)": 413844379
  },
  "tiktok": {
   "11:00 REPOST 2026-10-23 n4 bombardier beetle (safe layout)": 413078319,
   "13:00 Gobustan": 413078332,
   "16:00 ISS": 413078345,
-  "18:30 Akashi (trend backup)": 413078359,
   "19:45 REPOST 2026-10-21 n4 Mars blue sunset (safe layout)": 413078383,
-  "21:30 Modric": 413078394
+  "21:30 Modric": 413078394,
+  "18:30 TREND Antonelli": 413844493
  },
  "youtube": {
   "11:00 REPOST beetle": 413078835,
   "13:00 Gobustan": 413078853,
   "16:00 ISS": 413078866,
-  "18:30 Akashi": 413078880,
   "19:45 REPOST Mars": 413078900,
-  "21:30 Modric": 413078919
+  "21:30 Modric": 413078919,
+  "18:30 TREND Antonelli": 413844534
  },
  "built": {
   "when": "2026-11-01 ~20:50 Asia/Baku",
@@ -504,8 +504,18 @@
    "cy": 0.45,
    "full": true,
    "source": "https://commons.wikimedia.org/wiki/File:Kimi_Antonelli_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_(028A7923)_cropped.jpg",
-   "note": "close portrait, Mercedes cap, Melbourne 2026; checked full size: no watermark. Face centre y≈0.6 -> hook box at top may touch cap only. Alt fetch/img/2026-11-02_T_antonelli2.jpg rejected (big Heineken ad = alcohol)."
-  }
+   "note": "close portrait, Mercedes cap, Melbourne 2026; checked full size: no watermark. Face centre y≈0.6 -> hook box at top may touch cap only. Alt fetch/img/2026-11-02_T_antonelli2.jpg rejected (big Heineken ad = alcohol).",
+   "padded": "fetch/img/2026-11-02_T_antonelli_pad.jpg"
+  },
+  "video": "out/2026-11-02/T_reel.mp4"
  },
- "trend_check_morning": "2026-11-02 09:10-10:30 Baku: world headline searches + AZ news + F1. Big story for our audience = Antonelli youngest-ever F1 champion (Mexico GP, 1 Nov, race ended ~02:20 Baku). US-Iran/Hormuz ongoing (no new single event, tragedy rules); US midterms Tue 3 Nov (planned for results day 4 Nov, neutral). No AZ story needing an immediate swap. TODAY'S TREND = Antonelli; swap into 18:30 at 15:23 on IG + TikTok + YouTube (update existing posts, no duplicates). Akashi backup goes back to the backlog."
+ "trend_check_morning": "2026-11-02 09:10-10:30 Baku: world headline searches + AZ news + F1. Big story for our audience = Antonelli youngest-ever F1 champion (Mexico GP, 1 Nov, race ended ~02:20 Baku). US-Iran/Hormuz ongoing (no new single event, tragedy rules); US midterms Tue 3 Nov (planned for results day 4 Nov, neutral). No AZ story needing an immediate swap. TODAY'S TREND = Antonelli; swap into 18:30 at 15:23 on IG + TikTok + YouTube (update existing posts, no duplicates). Akashi backup goes back to the backlog.",
+ "trend_swap": {
+  "when": "2026-11-02 15:27-15:31 Baku",
+  "what": "18:30 Akashi backup -> Antonelli youngest-ever F1 champion trend reel (23.1 s, silent) on IG + TikTok + YouTube (existing posts 413077682/413078359/413078880 updated, none added; Akashi video removed from all 3, verified with getScheduledPosts: exactly one post per network at 18:30)",
+  "why": "Morning trend pick; 15:23 re-check found no penalty/appeal changing the result.",
+  "backup": "Akashi (2026-11-02-3) marked unposted in db.json; reel out/2026-11-02/3_reel.mp4 reusable",
+  "stories": "format v4: no 19:30/19:40 quiz stories today, nothing to re-render",
+  "frames_checked": "hook (face visible below hook box), beats 1-3, follow pill on last frame: text in safe zone, no watermark"
+ }
 }

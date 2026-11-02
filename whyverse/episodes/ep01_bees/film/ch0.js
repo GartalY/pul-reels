@@ -49,8 +49,8 @@
     const land = [QX + QW - 260, cy - 70];
     let bx, by, rot = 0, flap = 1, facing = 1;
     if (t < ev.c0_beeLand) {
-      const u = clamp((t - 0.2) / (ev.c0_beeLand - 0.2)); const e = ease.inOutCubic(u);
-      bx = lerp(-150, land[0], e) + Math.sin(u * 6.283) * 160 * (1 - u); by = lerp(300, land[1], e) - Math.sin(u * 6.283 * 1) * 140 * (1 - u);
+      const u = clamp((t - 0.0) / (ev.c0_beeLand - 0.0)); const e = ease.inOutCubic(u);
+      bx = lerp(180, land[0], e) + Math.sin(u * 6.283) * 160 * (1 - u); by = lerp(300, land[1], e) - Math.sin(u * 6.283 * 1) * 140 * (1 - u);
       rot = Math.cos(u * 6.283) * 0.25 * (1 - u);
     } else { bx = land[0]; by = land[1]; flap = clamp(1 - (t - ev.c0_beeLand) / 0.3); }
     const sq = t >= ev.c0_beeLand ? 1 + 0.15 * Math.exp(-(t - ev.c0_beeLand) * 7) * Math.cos((t - ev.c0_beeLand) * 18) : 1;

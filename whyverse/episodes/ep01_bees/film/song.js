@@ -1,91 +1,96 @@
-// THE SONG — renders every sound from the score into out/music.wav.
-//   node song.js            (STEMS=1 also writes out/stem-*.wav, DRIVE=0.8 sets master loudness)
+// THE SOUNDTRACK — voice (Kokoro, placed by the measured timeline) + a gentle chapter-aware music bed
+// + one sound effect per visual hit (score.js sfx). Bed and SFX are levelled ≥20 dB under the voice.
 const path = require('path');
-const { SR, Bus, reverb, pingpong } = require('./engine/audio/dsp');
+const { SR, Bus, reverb } = require('./engine/audio/dsp');
 const I = require('./engine/audio/instruments');
 const MIX = require('./engine/audio/mix');
 const sc = require('./score');
-const { T, BEAT, DURATION, m, ev, clock } = sc;
-
-const N = Math.ceil(DURATION * SR);
+const { DURATION, m, CH, sfx, TL, ev } = sc;
+const N = Math.ceil((DURATION + 0.5) * SR);
 const bus = () => new Bus(N);
-const drums = bus(), bass = bus(), pad = bus(), keys = bus(), brass = bus(), fx = bus();
-const verb = bus(), dly = bus();
-
-// ---------- drums: groove (bars 2-5), drop (bars 6-8) ----------
-const K = I.kick(), SN = I.snare(), CL = I.clap(), HC = [I.hat(false, 11), I.hat(false, 12)], HO = I.hat(true, 14), CR = I.crash(18);
-const SH = [I.shaker(1, 15), I.shaker(1, 16)];
-const kicks = [];
-clock.eachStep(2, 9, 16, (t, b, s) => {
-  if (t >= ev.breath && t < ev.drop) return; // the held breath
-  const drop = b >= 6;
-  if (drop ? s % 4 === 0 : s % 8 === 0) { drums.addMono(K, t, 0.95); kicks.push(t); }
-  if (s % 8 === 4) { drums.addMono(CL, t, 0.6); verb.addMono(CL, t, 0.3); if (drop) drums.addMono(SN, t, 0.25); }
-  if (drop) { drums.addMono(HC[s % 2], t, s % 2 ? 0.22 : 0.12, -0.3); if (s % 4 === 2) drums.addMono(HO, t, 0.12, 0.3); }
-  else if (s % 2 === 0) drums.addMono(s % 4 === 2 ? HC[0] : SH[s % 2], t, 0.18, s % 4 === 2 ? -0.3 : 0.35);
-});
-drums.addMono(CR, ev.drop, 0.4, -0.2);
-drums.addMono(CR, ev.end, 0.3, 0.2);
-// accelerating snare roll into the breath
-for (let i = 0; i < 8; i++) drums.addMono(SN, T(5, 1) + i * BEAT / 4, 0.2 + i * 0.03, 0.05);
-
-// ---------- bass ----------
-clock.eachStep(2, 9, 8, (t, b, s) => {
-  if (t >= ev.breath && t < ev.drop) return;
-  const c = sc.chordAt(t);
-  if (!c) return;
-  const R = c.bass + 12;
-  if (b >= 6) bass.addMono(I.bass(s % 2 ? R + 12 : R, BEAT / 2 * 0.8, { sub: 0.8 }), t, 0.6);
-  else if (s === 0 || s === 3 || s === 4 || s === 7) bass.addMono(I.bass(s === 4 ? R + 7 : R, BEAT / 2 * (s % 4 === 0 ? 1.4 : 0.7)), t, 0.55);
-});
-bass.addMono(I.bass(m('F2'), 2.5, { bright: 0.3, sub: 1 }), ev.end, 0.5);
-
-// ---------- pads ----------
-for (const c of sc.chords) {
-  const t1 = c.t1 > ev.breath && c.t0 < ev.breath ? ev.breath : c.t1;
-  const opts = c.t0 >= ev.drop && c.t0 < ev.end ? { cutoff: 2600, attack: 0.05 } : { cutoff: 1000, attack: 0.5, release: 1.4 };
-  for (const n of c.notes) { const { L, R } = I.padNote(n, t1 - c.t0, opts); pad.addStereo(L, R, c.t0, 0.09); }
-}
-
-// ---------- keys: music box + the melody that draws the stars ----------
-for (const n of sc.musicbox) { const mb = I.musicBox(n.midi); keys.addMono(mb, n.t, 0.18); verb.addMono(mb, n.t, 0.18); dly.addMono(mb, n.t, 0.08); }
-for (const n of sc.starNotes) {
-  const x = I.marimba(n.midi, { thock: 0 });
-  const pan = (n.x / sc.W - 0.5) * 1.2; // the sound comes from where the star appears
-  keys.addMono(x, n.t, 0.45, pan);
-  verb.addMono(x, n.t, 0.2);
-}
-
-// ---------- brass hook on the drop ----------
-for (const n of sc.brass) {
-  const a = I.brassNote(n.midi, n.dur * 0.92), b = I.brassNote(n.midi - 12, n.dur * 0.92, { bright: 0.8, seed: 99 });
-  brass.addStereo(a.L, a.R, n.t, 0.3); brass.addStereo(b.L, b.R, n.t, 0.16);
-  verb.addStereo(a.L, a.R, n.t, 0.12); dly.addStereo(a.L, a.R, n.t, 0.05);
-}
-
-// ---------- fx, each one tied to an event in the score ----------
-fx.addMono(I.noiseSweep(0.5, 3000, 400, { q: 1, pink: true }), ev.claudeFall, 0.3); // falling whoosh
-fx.addMono(I.boing(), ev.claudeLand - 0.02, 0.4);
-fx.addMono(I.thud(80, 0.08), ev.claudeLand, 0.6);
-for (const c of sc.captions) fx.addMono(I.paperFwip(0.9, Math.round(c.t * 10)), c.t - 0.03, 0.22, c.x < 900 ? -0.3 : 0.3);
-fx.addMono(I.noiseSweep(ev.breath - T(4), 200, 8000, { q: 0.9, shape: (x) => x * x, pink: true }), T(4), 0.45); // riser
-fx.addMono(I.subBoom(2.2), ev.drop, 0.7);
-for (const w of sc.endText.words) fx.addMono(I.scribble(w.d, Math.round(w.t * 7)), w.t, 0.2);
-
-// ---------- mix ----------
-MIX.sidechain([pad, bass], kicks.filter((t) => t >= ev.drop));
-const stems = {
-  drums, bass, pad, keys, brass, fx,
-  verb: reverb(verb, { room: 0.84, damp: 0.3 }),
-  dly: pingpong(dly, BEAT * 0.75, 0.38, 3500),
-};
-const GAIN = { drums: 0.4, bass: 0.7, pad: 2.6, keys: 0.9, brass: 2.0, fx: 0.8, verb: 1, dly: 1 };
 const out = path.join(__dirname, 'out');
-const mix = MIX.mixdown(stems, GAIN, { stemDir: process.env.STEMS ? out : null });
-MIX.highpass(mix, 22);
-MIX.gate(mix, ev.breath, ev.drop); // the held breath is truly silent (reverb tails too)
-MIX.fadeOut(mix, DURATION - 1.6, DURATION);
-// LUFS=-14 node song.js masters to a target loudness (±0.2 LU) (-14 suits YouTube/Spotify-normalised platforms)
-const M = MIX.master(mix, parseFloat(process.env.DRIVE || '0.8'), undefined, { lufs: process.env.LUFS ? parseFloat(process.env.LUFS) : null });
+const voice = MIX.loadAudio(path.join(out, 'vo.wav'), { at: 0, gain: 1, length: DURATION + 0.5 });
+const pad = bus(), keys = bus(), low = bus(), perc = bus(), fx = bus(), verb = bus(), sting = bus();
+
+// ---------- music bed: one mood per chapter ----------
+const CHD = { Am: ['A3', 'C4', 'E4'], F: ['F3', 'A3', 'C4'], C: ['C4', 'E4', 'G4'], G: ['G3', 'B3', 'D4'], Dm: ['D4', 'F4', 'A4'], Bb: ['Bb3', 'D4', 'F4'], Em: ['E3', 'G3', 'B3'], D: ['D4', 'F#4', 'A4'], Bm: ['B3', 'D4', 'F#4'], A: ['A3', 'C#4', 'E4'], Gm: ['G3', 'Bb3', 'D4'], Fmaj7: ['F3', 'A3', 'C4', 'E4'], Cmaj7: ['C4', 'E4', 'G4', 'B4'] };
+const MOOD = {
+  c0: { prog: ['Am', 'F', 'C', 'G'], lead: 'musicBox', bpm: 92, shaker: false, kick: false, pad: 1 },
+  c1: { prog: ['F', 'C', 'Dm', 'Bb'], lead: 'marimba', bpm: 104, shaker: true, kick: false, pad: 0.7 },
+  c2: { prog: ['C', 'G', 'Am', 'F'], lead: 'marimba', bpm: 108, shaker: true, kick: true, pad: 0.6 },
+  c3: { prog: ['D', 'Bm', 'G', 'A'], lead: 'guitar', bpm: 92, shaker: false, kick: false, pad: 0.9 },
+  c4: { prog: ['G', 'D', 'Em', 'C'], lead: 'guitar', bpm: 112, shaker: true, kick: true, pad: 0.6 },
+  c5: { prog: ['Dm', 'Bb', 'F', 'C'], lead: 'epiano', bpm: 80, shaker: false, kick: false, pad: 1.1 },
+  c6: { prog: ['C', 'Am', 'F', 'G'], lead: 'musicBox', bpm: 100, shaker: true, kick: false, pad: 0.7 },
+  c7: { prog: ['F', 'Bb', 'Dm', 'C'], lead: 'marimba', bpm: 100, shaker: true, kick: true, pad: 0.8 },
+  c8: { prog: ['Fmaj7', 'Dm', 'Bb', 'C'], lead: 'musicBox', bpm: 88, shaker: false, kick: false, pad: 1.1 },
+};
+const ARP = [0, 1, 2, 1, 0, 2, 1, 2];
+for (const [c, mo] of Object.entries(MOOD)) {
+  const { t0, t1 } = CH[c]; const beat = 60 / mo.bpm, bar = beat * 4;
+  const start = c === 'c0' ? 0.2 : t0 + 0.35; // the bed restarts on each chapter card's stamp
+  const end = c === 'c8' ? DURATION - 0.2 : t1 + 0.3;
+  for (let b = 0; start + b * bar < end; b++) {
+    const tb = start + b * bar; const name = mo.prog[b % mo.prog.length]; const notes = CHD[name].map(m);
+    const dur = Math.min(bar, end - tb) + 0.4;
+    for (const n of notes) { const { L, R } = I.padNote(n, dur, { cutoff: 1100, attack: 0.5, release: 1.0 }); pad.addStereo(L, R, tb, 0.06 * mo.pad); }
+    low.addMono(I.bass(notes[0] - 24, beat * 1.6, { bright: 0.3, sub: 0.9 }), tb, 0.32);
+    low.addMono(I.bass(notes[0] - 24 + (b % 2 ? 7 : 0), beat * 1.2, { bright: 0.3, sub: 0.9 }), tb + beat * 2, 0.24);
+    for (let k = 0; k < 8; k++) {
+      const t = tb + k * beat / 2; if (t >= end) break;
+      if ((k === 3 || k === 7) && b % 2 === 0 && mo.lead !== 'guitar') continue; // little gaps so it breathes
+      const n = notes[ARP[k] % notes.length] + 12 * (k === 6 && b % 4 === 3 ? 1 : 0);
+      const pan = Math.sin((b * 8 + k) * 0.7) * 0.35;
+      let buf, g = 0.2;
+      if (mo.lead === 'marimba') buf = I.marimba(n + 12, { thock: 0.2, seed: k });
+      else if (mo.lead === 'musicBox') { buf = I.musicBox(n + 12, { seed: k }); g = 0.14; }
+      else if (mo.lead === 'guitar') { buf = I.guitar(n, 0.7, { seed: k + b }); g = 0.22; }
+      else { if (k % 2) continue; buf = I.epiano(n, beat * 1.2); g = 0.2; }
+      keys.addMono(buf, t, g, pan); verb.addMono(buf, t, g * 0.5, pan);
+      if (mo.shaker) perc.addMono(I.shaker(k % 2 ? 0.6 : 1, 40 + k), t, 0.06, 0.3);
+    }
+    if (mo.kick) for (const k of [0, 2]) perc.addMono(I.kick({ punch: 0.5, tail: 0.18 }), tb + k * beat, 0.16);
+  }
+  // chapter-card sting: a bright bell chord on the stamp
+  if (c !== 'c0' && c !== 'c8') { const tStamp = ev[c + '_stamp']; for (const n of CHD[mo.prog[0]].map(m)) { const b = I.bell(440 * Math.pow(2, (n + 12 - 69) / 12), 0.9, 1.8, 2.0); sting.addMono(b, tStamp, 0.12); verb.addMono(b, tStamp, 0.1); } }
+}
+// title sting: brass on each stamped word, then a held chord
+ev.titleWords.forEach((w, i) => { const n = m(['A3', 'C4', 'E4', 'A4', 'C5'][i]); const b = I.brassNote(n, 0.32, { stab: true, seed: i }); sting.addStereo(b.L, b.R, w.t, 0.22); verb.addStereo(b.L, b.R, w.t, 0.1); });
+{ const t = ev.titleBrand; for (const n of ['A3', 'C4', 'E4', 'G4'].map(m)) { const { L, R } = I.strings(n, 2.6, { attack: 0.3, release: 1.0 }); sting.addStereo(L, R, t, 0.1); } }
+// end: held Fmaj9 under the end card
+{ const t = ev.sync_logo; for (const n of ['F3', 'A3', 'C4', 'E4', 'G4'].map(m)) { const { L, R } = I.strings(n, DURATION - t, { attack: 0.4, release: 2 }); sting.addStereo(L, R, t, 0.08); } }
+
+// ---------- sound effects: one per visual hit ----------
+const buzz = (len = 0.9, f = 210) => { const n = Math.round(len * SR), b = new Float32Array(n); let ph = 0; for (let i = 0; i < n; i++) { const t = i / SR; const fr = f * (1 + 0.06 * Math.sin(t * 2 * Math.PI * 7)); ph += fr / SR; const saw = 2 * (ph % 1) - 1; const env = Math.min(1, t / 0.08) * Math.min(1, (len - t) / 0.25); b[i] = saw * env * 0.35; } let y = 0; for (let i = 0; i < n; i++) { y += 0.12 * (b[i] - y); b[i] = y; } return b; };
+const SFX = {
+  pop: (g, i) => I.pop(1500 + (i % 5) * 220, i), fwip: (g, i) => I.paperFwip(0.9 + (i % 3) * 0.1, i), tick: (g, i) => I.woodTick(1 + (i % 4) * 0.12),
+  stamp: () => { const a = I.thud(85, 0.14, 3), b = I.woodTick(0.7), o = new Float32Array(Math.max(a.length, b.length)); for (let i = 0; i < o.length; i++) o[i] = (a[i] || 0) * 1.0 + (b[i] || 0) * 0.5; return o; },
+  whoosh: () => I.noiseSweep(0.45, 500, 3500, { q: 0.9, pink: true }), swell: () => I.noiseSweep(0.9, 300, 5000, { q: 0.8, shape: (x) => x * x, pink: true }),
+  wind: () => I.noiseSweep(1.8, 200, 900, { q: 0.6, pink: true }), spray: (g, i) => I.noiseSweep(0.3, 5000, 7000, { q: 0.7, seed: i }), truck: () => I.noiseSweep(1.6, 60, 160, { q: 0.8, pink: true }),
+  chime: (g, i) => I.musicBox(m(['C6', 'E6', 'G6', 'A6', 'D6'][i % 5]), { seed: i }), ding: (g, i) => I.bell(1320 + (i % 3) * 220, 0.5, 1.6, 2.0),
+  coin: () => { const a = I.bell(988, 0.12, 1.2, 2), b = I.bell(1319, 0.35, 1.2, 2), o = new Float32Array(Math.round(0.5 * SR)); for (let i = 0; i < o.length; i++) o[i] = (a[i] || 0) + (b[i - Math.round(0.07 * SR)] || 0); return o; },
+  scribble: () => I.scribble(0.6, 3), scratch: () => I.noiseSweep(0.25, 2500, 400, { q: 2.5 }), buzz: () => buzz(1.0), boing: () => I.boing(), thud: () => I.thud(110, 0.1), boom: () => I.subBoom(1.4, 70, 30), drop: () => I.noiseSweep(0.35, 1800, 300, { q: 2 }),
+};
+sfx.forEach(([t, kind, g, pan], i) => { const f = SFX[kind]; if (!f) { console.warn('no sfx', kind); return; } const b = f(g, i); fx.addMono(b, t, g, pan); if (kind === 'stamp' || kind === 'chime' || kind === 'ding') verb.addMono(b, t, g * 0.25, pan); });
+
+// ---------- mix + levelling (bed and SFX ≥ 20 dB under the voice) ----------
+const wet = reverb(verb, { room: 0.8, damp: 0.4 });
+const music = bus(); for (const [b, g] of [[pad, 1], [keys, 1], [low, 1], [perc, 1], [wet, 1], [sting, 1]]) b.mixInto(music, g);
+MIX.duck([music], voice, { depth: 0.55, attack: 0.03, release: 0.5, threshold: 0.03 });
+const speech = []; for (const l of TL.lines) speech.push([l.t, l.end]);
+const rms = (b, spans) => { let s = 0, n = 0; for (const [a, z] of spans) for (let i = Math.round(a * SR); i < Math.min(b.n, Math.round(z * SR)); i++) { s += b.L[i] * b.L[i] + b.R[i] * b.R[i]; n += 2; } return Math.sqrt(s / Math.max(1, n)); };
+const db = (x) => 20 * Math.log10(x + 1e-12);
+const vR = rms(voice, speech);
+const mR = rms(music, speech);
+const hitSpans = sfx.map(([t]) => [t, t + 0.12]);
+const fR = rms(fx, hitSpans);
+const MUSIC_DB = parseFloat(process.env.MUSIC_DB || '-23'), FX_DB = parseFloat(process.env.FX_DB || '-20');
+const gM = Math.pow(10, (MUSIC_DB - (db(mR) - db(vR))) / 20), gF = Math.pow(10, (FX_DB - (db(fR) - db(vR))) / 20);
+const stems = { voice, music, fx };
+const mix = MIX.mixdown(stems, { voice: 1, music: gM, fx: gF }, { stemDir: process.env.STEMS ? out : null });
+MIX.highpass(mix, 30);
+MIX.fadeOut(mix, DURATION - 1.4, DURATION);
+const M = MIX.master(mix, 0.8, undefined, { lufs: parseFloat(process.env.LUFS || '-14') });
 MIX.writeWav(path.join(out, 'music.wav'), mix);
-console.log(`wrote out/music.wav (${DURATION.toFixed(2)}s${M.lufs !== undefined ? `, ${M.lufs.toFixed(1)} LUFS at drive ${M.drive.toFixed(2)}` : ''})`);
+console.log(`voice ${db(vR).toFixed(1)} dB · music bed ${(db(mR * gM) - db(vR)).toFixed(1)} dB under-voice ratio · sfx (per hit) ${(db(fR * gF) - db(vR)).toFixed(1)} dB · master ${M.lufs !== undefined ? M.lufs.toFixed(1) + ' LUFS' : ''}`);
+console.log(`wrote out/music.wav (${DURATION.toFixed(2)}s)`);

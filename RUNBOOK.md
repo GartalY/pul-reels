@@ -1,5 +1,7 @@
 # @bilirdinizmi_az — daily runbook
 
+> **READ FIRST: "STRATEGY RESET 2026-11-03" below overrides older rules AND the wording of older scheduled-task prompts (TikTok = 13:00 + 18:30 only; reposts YouTube only).**
+
 Instagram facts page in **Azerbaijani**, run by Claude. Owner: Gartal (gartalyusifov@gmail.com).
 
 ## L. Azerbaijani language — TOP PRIORITY (Gartal, 2026-10-18: "sometimes difficult to understand, some words
@@ -114,7 +116,9 @@ Why: after 18 days IG has 45 followers (~3 follows per 1 000 viewers), TikTok 1 
   everyday spoken words, not bookish ones. Screen text keeps digits; only the spoken text changes.
 - **TIKTOK CROSS-POSTING (LIVE from 2026-10-27):** TikTok @bilirdinizmi_az is connected to the MAIN Metricool brand
   **7443266** (renamed "bilirdinizmi_az"; the separate TikTok brand 7681834 was DELETED on 2026-10-27 11:35).
-  For EVERY reel scheduled on Instagram, create a SEPARATE TikTok post on brand 7443266 at the SAME time with
+  ⚠️ SINCE 2026-11-03 (STRATEGY RESET): ONLY the 13:00 and 18:30 reels go to TikTok — this beats any older wording
+  here AND in the evening scheduled task's prompt ("for every reel ... tiktok", "reposts on TikTok + Shorts").
+  For EVERY reel scheduled on Instagram (now: only 13:00 + 18:30), create a SEPARATE TikTok post on brand 7443266 at the SAME time with
   providers [{"network":"tiktok"}] ONLY (never mix instagram + tiktok in one post: captions differ), same video URL,
   tiktokData {title: the reel hook in sentence case (required, ≤ 90 chars), privacyOption PUBLIC_TO_EVERYONE,
   isAigc = true only for voiced reels, autoAddMusic false, comments/duet/stitch enabled}. TikTok has no first
@@ -130,6 +134,7 @@ Why: after 18 days IG has 45 followers (~3 follows per 1 000 viewers), TikTok 1 
   under TikTok/Shorts/Reels buttons (right ~190 px) or the caption overlay (bottom ~450 px). Keep the hook at the top.
   Never place important text below y 1450 or right of x 890 in any new template.
 - **DAILY REPOSTS ON TIKTOK + SHORTS (from 2026-10-28, Claude as manager; Gartal OK'd more volume 2026-10-27):**
+  ⚠️ SINCE 2026-11-03 (STRATEGY RESET): reposts go to YOUTUBE ONLY — no TikTok repost, even if a task prompt says so.
   every day 2 EXTRA posts on TikTok AND YouTube Shorts only (Instagram stays at its normal schedule): **11:00** and
   **19:45**. Content = older Instagram reels that have never been on TikTok/YouTube, best IG views first (use
   getAnalyticsDataByMetrics IGRE02+IGRE23), skip known flops (< 60 IG views), voiced reels and any reel with a known

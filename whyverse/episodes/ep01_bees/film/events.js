@@ -57,7 +57,7 @@
     ev.c7_s4 = L('c7_4').t - 0.15;
     ev.c7_c = ['habitat', 'pesticide', 'climate'].map((w, i) => hit(Wt('c7_4', w), 'stamp', 0.55, -0.5 + i * 0.5));
     ev.c7_s5 = L('c7_5').t - 0.15;
-    ev.c7_strip0 = Wt('c7_5', 'strips'); ev.c7_strip = []; for (let i = 0; i < 12; i++) ev.c7_strip.push(hit(ev.c7_strip0 + i * 0.12, 'chime', 0.22, -0.8 + i * 0.14));
+    ev.c7_strip0 = L('c7_5').t + 0.3; { const z = Wt('c7_5', 'fewer') - 0.2; ev.c7_strip = []; for (let i = 0; i < 12; i++) ev.c7_strip.push(hit(ev.c7_strip0 + (z - ev.c7_strip0) * i / 11, 'chime', 0.22, -0.8 + i * 0.14)); }
     ev.c7_spray = hit(Wt('c7_5', 'fewer'), 'pop', 0.5);
     ev.c7_garden = hit(Wt('c7_5', 'corner'), 'fwip', 0.5);
     ev.c7_bees = [0, 1, 2, 3, 4].map((i) => hit(Wt('c7_5', 'wild') + 0.1 + i * 0.16, 'buzz', 0.25, -0.5 + i * 0.25));

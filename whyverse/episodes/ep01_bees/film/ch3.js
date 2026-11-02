@@ -21,7 +21,7 @@
   P.shot(ev.c3_s1, (ctx, t, s) => {
     P.paperBg(ctx, '#DCEBF0');
     const m = Data.map(MAP);
-    Data.drawMap(ctx, m, { highlight: { China: '#F2C9A0' }, land: '#EFE6D2', sea: '#DCEBF0', t, t0: ev.c3_s1, dur: 1.2, stroke: C.ink, lw: 2.5 });
+    Data.drawMap(ctx, m, { highlight: { China: '#F2C9A0' }, land: '#EFE6D2', sea: '#DCEBF0', t, t0: ev.c3_s1 - 0.35, dur: 0.7, stroke: C.ink, lw: 2.5 });
     const [px, py] = m.proj(103.85, 31.68);
     const k = P.pop(t, ev.c3_china); if (k > 0) P.at(ctx, m.proj(96, 40)[0], m.proj(96, 40)[1], k, -0.05, () => G.text(ctx, 'CHINA', 0, 0, { size: 80, fam: FT.title, weight: 400, color: C.coral, align: 'center' }));
     Data.pin(ctx, px, py, { t, at: ev.c3_pin, color: C.red, size: 40, label: 'Maoxian, Sichuan', labelSide: 'right', labelSize: 44 });

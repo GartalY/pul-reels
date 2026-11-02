@@ -43,8 +43,8 @@
   // S3 — 3/4 of crop types, $577 bn
   P.shot(ev.c2_s3, (ctx, t, s) => {
     P.paperBg(ctx, '#F3E7D2');
-    const k = P.fin(t, ev.c2_threeq - 0.6, 0.4);
-    if (k > 0) Data.donut(ctx, { x: 560, y: 560, r: 270, thickness: 110, t, t0: ev.c2_threeq - 0.3, t1: ev.c2_threeq + 0.9, thickness: 80, data: [{ value: 75, color: C.coral, label: '' }, { value: 25, color: '#D8CCB6', label: '' }], center: '>¾', centerSub: 'of crop types' });
+    const k = P.fin(t, ev.c2_s3, 0.4);
+    if (k > 0) Data.donut(ctx, { x: 560, y: 560, r: 270, thickness: 110, t, t0: ev.c2_s3 + 0.2, t1: ev.c2_threeq + 0.9, thickness: 80, data: [{ value: 75, color: C.coral, label: '' }, { value: 25, color: '#D8CCB6', label: '' }], center: '>¾', centerSub: 'of crop types' });
     P.counter(ctx, { x: 1340, y: 520, from: 0, to: 577, t, t0: ev.c2_bn0, t1: ev.c2_bn, size: 104, prefix: 'up to $', suffix: ' bn', color: C.greenD, sub: 'a year of crops that pollinators help produce', subSize: 38, rot: 0.02 });
     const cs = ev.c2_bn; for (let i = 0; i < 8; i++) { const a = t - cs - i * 0.06; if (a < 0 || a > 1.2) continue; const x = 1100 + i * 80, y = 700 + a * a * 500; G.ellipse(ctx, x, y, 26, 26, { fill: C.gold, seed: i, lw: 3 }); G.text(ctx, '$', x, y + 11, { size: 30, fam: FT.title, weight: 400, color: C.navyD, align: 'center' }); }
   }, { in: { type: 'wipe', dir: 'up' }, cam: Shots.push(1.0, 1.05) });
@@ -121,8 +121,9 @@
     if (a > 0) G.rrect(ctx, x, y, w * 0.6 * a, h, 20, { fill: '#D9B46A', seed: 4, lw: 5, hatch: { color: 'rgba(0,0,0,0.12)', gap: 9 } });
     if (b > 0) G.rrect(ctx, x + w * 0.6, y, w * 0.35 * b, h, 20, { fill: C.coral, seed: 5, lw: 5, hatch: { color: 'rgba(0,0,0,0.12)', gap: 9 } });
     if (b > 0.9) G.rrect(ctx, x + w * 0.95, y, w * 0.05, h, 12, { fill: '#CFC6B4', seed: 6, lw: 4 });
-    if (a > 0.5) { G.text(ctx, '60%', x + w * 0.3, y + 135, { size: 110, fam: FT.title, weight: 400, color: C.navyD, align: 'center' }); P.note(ctx, "crops that don't need animals", x + w * 0.3, 760, t, ev.c2_60 + 0.3, 1e9, { size: 50, seed: 7 }); for (let i = 0; i < 3; i++) P.food(ctx, ['bread', 'rice', 'corn'][i], x + w * 0.3 + (i - 1) * 140, 900, 0.8); }
-    if (b > 0.5) { G.text(ctx, '35%', x + w * 0.775, y + 135, { size: 100, fam: FT.title, weight: 400, color: '#FFF8E8', align: 'center' }); P.note(ctx, 'crops that do', x + w * 0.775, 760, t, ev.c2_35 + 0.3, 1e9, { size: 50, seed: 8, fill: '#FBE3EA' }); for (let i = 0; i < 3; i++) P.food(ctx, ['apple', 'pumpkin', 'almond'][i], x + w * 0.775 + (i - 1) * 140, 900, 0.8); }
+    if (a > 0.5) { G.text(ctx, '60%', x + w * 0.3, y + 135, { size: 110, fam: FT.title, weight: 400, color: C.navyD, align: 'center' }); P.note(ctx, "crops that don't need animals", x + w * 0.3, 760, t, ev.c2_60 + 0.3, 1e9, { size: 50, seed: 7 }); }
+    if (b > 0.5) { G.text(ctx, '35%', x + w * 0.775, y + 135, { size: 100, fam: FT.title, weight: 400, color: '#FFF8E8', align: 'center' }); P.note(ctx, 'crops that do', x + w * 0.775, 760, t, ev.c2_35 + 0.3, 1e9, { size: 50, seed: 8, fill: '#FBE3EA' }); }
+    for (let i = 0; i < 3; i++) { P.food(ctx, ['bread', 'rice', 'corn'][i], x + w * 0.3 + (i - 1) * 140, 900 - Math.abs(Math.sin(t * 3 + i)) * 10 * (1 - a), 0.8 * P.pop(t, ev.c2_s7 + 0.3 + i * 0.12)); P.food(ctx, ['apple', 'pumpkin', 'almond'][i], x + w * 0.775 + (i - 1) * 140, 900 - Math.abs(Math.sin(t * 3 + i + 1)) * 10 * (1 - b), 0.8 * P.pop(t, ev.c2_s7 + 0.7 + i * 0.12)); }
     if (b > 0.95) G.text(ctx, '5% not assessed', x + w * 0.975, y - 20, { size: 34, fam: FT.label, weight: 400, color: C.ink, align: 'right' });
   }, { in: { type: 'push', dir: 'left' }, cam: Shots.push(1.0, 1.04) });
 

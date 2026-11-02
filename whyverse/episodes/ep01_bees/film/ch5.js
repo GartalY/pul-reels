@@ -51,7 +51,7 @@
       G.rrect(ctx, x - 120, base - h, 240, h, 10, { fill: col, seed: 20 + i, lw: 5, hatch: { color: 'rgba(0,0,0,0.15)', gap: 9 } });
       P.food(ctx, food, x, base - h - 70, 1.0);
       G.text(ctx, lab, x, base + 70, { size: 52, fam: FT.label, weight: 400, color: C.ink, align: 'center' });
-      if (d > 0) P.note(ctx, txt, x + 150, base - h0 + 40, t, ev.c5_drop[i] + 0.2, 1e9, { size: 64, fill: '#FFE5DE', color: C.red, seed: 30 + i, fam: FT.title }); });
+      if (d > 0) P.note(ctx, txt, x + 200, base - h0 - 30, t, ev.c5_drop[i] + 0.2, 1e9, { size: 64, fill: '#FFE5DE', color: C.red, seed: 30 + i, fam: FT.title }); });
   }, { in: { type: 'paper' }, cam: Shots.push(1.0, 1.03) });
 
   // S4 — 71M + 173M people (1 token = 1 million)
@@ -124,7 +124,7 @@
   // S10 — 427,000 a year. Now.
   P.shot(ev.c5_s10, (ctx, t, s) => {
     P.paperBg(ctx, '#E4DED3');
-    P.counter(ctx, { x: W / 2, y: 430, from: 0, to: 427000, t, t0: ev.c5_427a, t1: ev.c5_427, size: 190, color: C.navyD, sub: 'excess deaths a year, linked to poor pollination today', subSize: 44 });
+    P.counter(ctx, { x: W / 2, y: 430, from: 0, to: 427000, t, t0: ev.c5_s10 + 0.35, t1: ev.c5_427, size: 190, color: C.navyD, sub: 'excess deaths a year, linked to poor pollination today', subSize: 44 });
     P.stamp(ctx, 'NOW', W / 2, 820, t, ev.sync_now, { size: 170, color: C.red, rot: -0.08 });
   }, { in: { type: 'fade', dur: 0.4 }, cam: (s) => Shots.combine(Shots.push(1.0, 1.06), Shots.shake(20, ev.sync_now - s.t0, 7))(s) });
 })();

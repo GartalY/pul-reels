@@ -1,0 +1,896 @@
+1
+00:00:01,280 --> 00:00:03,221
+There's a famous quote about bees.
+
+2
+00:00:03,551 --> 00:00:05,851
+If the bee disappeared from the face of the Earth,
+
+3
+00:00:06,091 --> 00:00:08,784
+humans would have only four years left to live.
+
+4
+00:00:09,114 --> 00:00:11,659
+It's usually signed: Albert Einstein.
+
+5
+00:00:12,009 --> 00:00:13,389
+There's just one problem.
+
+6
+00:00:13,479 --> 00:00:15,111
+Einstein never said it.
+
+7
+00:00:15,851 --> 00:00:19,028
+The earliest version anyone has found appeared
+
+8
+00:00:19,048 --> 00:00:21,371
+in a French magazine in 1965.
+
+9
+00:00:21,651 --> 00:00:23,357
+Ten years after he died.
+
+10
+00:00:23,737 --> 00:00:25,386
+But the question behind the fake
+
+11
+00:00:25,406 --> 00:00:26,727
+quote is a real one.
+
+12
+00:00:26,977 --> 00:00:29,752
+What would actually happen if every bee disappeared?
+
+13
+00:00:30,372 --> 00:00:31,752
+The true answer is less like
+
+14
+00:00:31,772 --> 00:00:33,062
+the end of the world,
+
+15
+00:00:33,242 --> 00:00:36,085
+and more like a very strange trip to the supermarket.
+
+16
+00:00:41,325 --> 00:00:42,225
+Chapter one.
+
+17
+00:00:42,245 --> 00:00:43,753
+What a bee actually does.
+
+18
+00:00:44,433 --> 00:00:46,643
+A bee doesn't visit flowers to help us.
+
+19
+00:00:46,763 --> 00:00:47,733
+She's shopping.
+
+20
+00:00:47,933 --> 00:00:49,073
+Nectar for energy,
+
+21
+00:00:49,093 --> 00:00:50,712
+and pollen to feed her young.
+
+22
+00:00:51,042 --> 00:00:52,472
+But pollen is sticky,
+
+23
+00:00:52,512 --> 00:00:53,772
+and bees are fuzzy.
+
+24
+00:00:54,042 --> 00:00:55,162
+So on every visit,
+
+25
+00:00:55,182 --> 00:00:56,775
+a little golden dust from one
+
+26
+00:00:56,795 --> 00:00:58,771
+flower rides along to the next.
+
+27
+00:00:59,101 --> 00:01:00,381
+That's pollination.
+
+28
+00:01:00,671 --> 00:01:03,291
+When pollen reaches a flower of the same kind,
+
+29
+00:01:03,361 --> 00:01:05,331
+the flower can swell into a fruit,
+
+30
+00:01:05,351 --> 00:01:06,767
+with seeds inside.
+
+31
+00:01:07,107 --> 00:01:11,117
+No delivery, and many plants give smaller fruit, misshapen fruit,
+
+32
+00:01:11,147 --> 00:01:12,479
+or no fruit at all.
+
+33
+00:01:12,809 --> 00:01:14,729
+And bees are not one animal.
+
+34
+00:01:15,089 --> 00:01:18,149
+There are about twenty thousand species of wild bees,
+
+35
+00:01:18,249 --> 00:01:20,133
+from big fuzzy bumblebees to bees
+
+36
+00:01:20,153 --> 00:01:22,139
+smaller than a grain of rice.
+
+37
+00:01:22,519 --> 00:01:23,941
+The honeybee on your jar of
+
+38
+00:01:23,961 --> 00:01:25,675
+honey is just one of them.
+
+39
+00:01:26,845 --> 00:01:27,705
+Chapter two.
+
+40
+00:01:27,725 --> 00:01:29,251
+The supermarket test.
+
+41
+00:01:29,931 --> 00:01:32,200
+Imagine walking into a supermarket on the
+
+42
+00:01:32,220 --> 00:01:34,525
+morning after the last bee is gone.
+
+43
+00:01:34,875 --> 00:01:36,319
+Scientists who studied the world's leading food crops found
+
+44
+00:01:36,339 --> 00:01:37,925
+that eighty-seven of them depend on animal pollination,
+
+45
+00:01:38,075 --> 00:01:42,575
+at least partly.
+
+46
+00:01:42,935 --> 00:01:44,547
+Only twenty-eight don't.
+
+47
+00:01:44,867 --> 00:01:46,077
+Counted by type,
+
+48
+00:01:46,197 --> 00:01:47,836
+more than three quarters of the
+
+49
+00:01:47,856 --> 00:01:50,027
+world's food crops rely on pollinators,
+
+50
+00:01:50,097 --> 00:01:51,207
+at least partly.
+
+51
+00:01:51,567 --> 00:01:52,317
+Together,
+
+52
+00:01:52,417 --> 00:01:54,030
+they're worth up to five hundred
+
+53
+00:01:54,050 --> 00:01:56,382
+and seventy-seven billion dollars a year.
+
+54
+00:01:56,732 --> 00:01:58,581
+So start in the fruit aisle.
+
+55
+00:01:58,601 --> 00:02:01,109
+Apples, pears, cherries, melons, blueberries.
+
+56
+00:02:01,129 --> 00:02:02,043
+Fewer of them,
+
+57
+00:02:02,063 --> 00:02:03,972
+and much more expensive.
+
+58
+00:02:04,322 --> 00:02:05,502
+Then vegetables.
+
+59
+00:02:05,712 --> 00:02:07,402
+Pumpkins, cucumbers,
+
+60
+00:02:07,422 --> 00:02:09,052
+and even the seeds farmers need
+
+61
+00:02:09,072 --> 00:02:10,794
+to grow carrots and onions.
+
+62
+00:02:11,154 --> 00:02:12,554
+Nuts take a heavy hit,
+
+63
+00:02:12,574 --> 00:02:13,874
+almonds most of all.
+
+64
+00:02:14,114 --> 00:02:16,357
+And your coffee gets a little harder to grow.
+
+65
+00:02:16,707 --> 00:02:19,233
+But now, look at the other side of the store.
+
+66
+00:02:19,963 --> 00:02:21,769
+Bread, rice, pasta, cornflakes.
+
+67
+00:02:21,789 --> 00:02:25,022
+Wheat, rice and maize are pollinated by the wind.
+
+68
+00:02:25,042 --> 00:02:27,329
+They don't need a single bee.
+
+69
+00:02:27,679 --> 00:02:32,589
+That's why, by sheer weight,
+
+70
+00:02:32,609 --> 00:02:33,312
+about sixty percent of the world's food comes
+
+71
+00:02:33,332 --> 00:02:34,249
+from crops that don't need animals at all.
+
+72
+00:02:34,679 --> 00:02:37,351
+Thirty-five percent comes from crops that do.
+
+73
+00:02:37,701 --> 00:02:39,531
+So we wouldn't run out of calories.
+
+74
+00:02:39,661 --> 00:02:40,951
+We'd run out of colour.
+
+75
+00:02:41,211 --> 00:02:42,706
+The foods that fade away are
+
+76
+00:02:42,726 --> 00:02:44,557
+the ones packed with vitamins.
+
+77
+00:02:45,737 --> 00:02:46,567
+Chapter three.
+
+78
+00:02:46,587 --> 00:02:47,792
+The human bees.
+
+79
+00:02:48,462 --> 00:02:49,872
+To see what that looks like,
+
+80
+00:02:49,982 --> 00:02:52,745
+travel to the mountains of Sichuan, in China.
+
+81
+00:02:53,075 --> 00:02:54,385
+In Maoxian County,
+
+82
+00:02:54,435 --> 00:02:56,795
+apple and pear trees bloom every spring.
+
+83
+00:02:57,085 --> 00:02:57,905
+But for years,
+
+84
+00:02:57,925 --> 00:02:59,482
+not enough insects came.
+
+85
+00:02:59,892 --> 00:03:03,602
+Farmers had sprayed pesticides eight to ten times a season,
+
+86
+00:03:03,722 --> 00:03:05,212
+for about four decades.
+
+87
+00:03:05,552 --> 00:03:07,292
+And the forests and grasslands around
+
+88
+00:03:07,312 --> 00:03:09,419
+the valley were turning into farmland.
+
+89
+00:03:09,749 --> 00:03:11,572
+So, from the late nineteen-eighties,
+
+90
+00:03:11,592 --> 00:03:14,363
+people started doing the bees' job themselves.
+
+91
+00:03:14,703 --> 00:03:16,173
+They collected flowers,
+
+92
+00:03:16,193 --> 00:03:17,783
+built up a stock of pollen,
+
+93
+00:03:17,943 --> 00:03:19,462
+and climbed into the trees to
+
+94
+00:03:19,482 --> 00:03:21,013
+dab it onto the blossoms,
+
+95
+00:03:21,033 --> 00:03:22,124
+one by one.
+
+96
+00:03:22,454 --> 00:03:25,308
+A survey in 2001 found that every single
+
+97
+00:03:25,328 --> 00:03:28,434
+apple in Maoxian was pollinated by hand.
+
+98
+00:03:28,774 --> 00:03:30,234
+And the clock is brutal.
+
+99
+00:03:30,484 --> 00:03:32,279
+The flowers have to be pollinated
+
+100
+00:03:32,299 --> 00:03:34,467
+within about five days of opening.
+
+101
+00:03:34,807 --> 00:03:37,641
+One person can do five to ten trees a day.
+
+102
+00:03:37,991 --> 00:03:40,171
+As young workers left for the cities,
+
+103
+00:03:40,331 --> 00:03:42,981
+the cost of that labour rose about tenfold,
+
+104
+00:03:43,091 --> 00:03:45,977
+to twelve to nineteen dollars per person, per day.
+
+105
+00:03:46,317 --> 00:03:48,087
+Many farmers gave up on apples,
+
+106
+00:03:48,127 --> 00:03:49,337
+and switched to plums,
+
+107
+00:03:49,357 --> 00:03:51,007
+loquats and walnuts.
+
+108
+00:03:51,337 --> 00:03:52,387
+It made sense.
+
+109
+00:03:52,547 --> 00:03:55,287
+Apples were selling for less than twenty cents a kilo.
+
+110
+00:03:55,487 --> 00:03:57,531
+Plums fetched around two dollars.
+
+111
+00:03:57,881 --> 00:03:59,572
+Humans can do a bee's job.
+
+112
+00:03:59,592 --> 00:04:01,062
+Just slowly, expensively,
+
+113
+00:04:01,082 --> 00:04:02,603
+and not for long.
+
+114
+00:04:04,383 --> 00:04:05,214
+Chapter four.
+
+115
+00:04:05,234 --> 00:04:07,505
+One valley, almost every hive.
+
+116
+00:04:08,215 --> 00:04:10,055
+Now look at the opposite approach.
+
+117
+00:04:10,095 --> 00:04:11,199
+California.
+
+118
+00:04:11,539 --> 00:04:13,179
+Most of the world's almonds grow
+
+119
+00:04:13,199 --> 00:04:14,759
+in one long valley there.
+
+120
+00:04:14,949 --> 00:04:16,999
+And almond orchards need bees.
+
+121
+00:04:17,199 --> 00:04:19,301
+About two hives for every acre.
+
+122
+00:04:19,651 --> 00:04:20,791
+So every winter,
+
+123
+00:04:20,921 --> 00:04:23,201
+beekeepers load their hives onto trucks,
+
+124
+00:04:23,291 --> 00:04:26,038
+and drive them in from all over the United States.
+
+125
+00:04:26,408 --> 00:04:28,348
+For the 2024 bloom,
+
+126
+00:04:28,478 --> 00:04:32,048
+growers needed around two point seven million colonies.
+
+127
+00:04:32,408 --> 00:04:34,390
+That's roughly as many as the entire
+
+128
+00:04:34,410 --> 00:04:36,956
+country counted on the first of January.
+
+129
+00:04:37,296 --> 00:04:38,740
+The average rent was about a
+
+130
+00:04:38,760 --> 00:04:40,766
+hundred and eighty dollars per hive,
+
+131
+00:04:40,866 --> 00:04:42,199
+for a few weeks of work.
+
+132
+00:04:42,539 --> 00:04:46,648
+Almond pollination alone earned beekeepers more than three
+
+133
+00:04:46,668 --> 00:04:49,999
+hundred and twenty million dollars in 2024.
+
+134
+00:04:50,379 --> 00:04:51,974
+About eighty percent of all the
+
+135
+00:04:51,994 --> 00:04:53,971
+pollination money in the country.
+
+136
+00:04:54,311 --> 00:04:55,101
+One crop.
+
+137
+00:04:55,121 --> 00:04:56,011
+One valley.
+
+138
+00:04:56,121 --> 00:04:58,041
+Almost every hive in America.
+
+139
+00:04:59,931 --> 00:05:00,831
+Chapter five.
+
+140
+00:05:00,851 --> 00:05:01,911
+The health bill.
+
+141
+00:05:02,601 --> 00:05:05,041
+So what would losing all of them really cost us?
+
+142
+00:05:05,201 --> 00:05:06,081
+Not in money.
+
+143
+00:05:06,141 --> 00:05:07,014
+In health.
+
+144
+00:05:07,354 --> 00:05:11,544
+In 2015, a team of researchers modelled exactly that:
+
+145
+00:05:11,864 --> 00:05:14,544
+a world where every animal pollinator is gone.
+
+146
+00:05:14,694 --> 00:05:15,864
+Not just bees.
+
+147
+00:05:15,884 --> 00:05:16,759
+All of them.
+
+148
+00:05:17,089 --> 00:05:20,762
+Global fruit supplies fell by about twenty-three percent.
+
+149
+00:05:20,782 --> 00:05:22,204
+Vegetables, by sixteen.
+
+150
+00:05:22,224 --> 00:05:24,477
+Nuts and seeds, by twenty-two.
+
+151
+00:05:24,807 --> 00:05:28,347
+Seventy-one million more people could become short of vitamin A.
+
+152
+00:05:28,697 --> 00:05:31,087
+A hundred and seventy-three million more,
+
+153
+00:05:31,127 --> 00:05:32,237
+short of folate.
+
+154
+00:05:32,567 --> 00:05:34,652
+And that's on top of the two point two
+
+155
+00:05:34,672 --> 00:05:37,801
+billion people who already don't get enough vitamin A.
+
+156
+00:05:38,141 --> 00:05:40,451
+And with fewer fruits and vegetables on the plate,
+
+157
+00:05:40,681 --> 00:05:42,471
+heart disease, strokes,
+
+158
+00:05:42,491 --> 00:05:44,985
+diabetes and some cancers would rise.
+
+159
+00:05:45,315 --> 00:05:46,169
+Their estimate:
+
+160
+00:05:46,189 --> 00:05:49,356
+about one point four million extra deaths every year.
+
+161
+00:05:49,376 --> 00:05:52,255
+Almost three percent more deaths, worldwide.
+
+162
+00:05:52,585 --> 00:05:53,355
+It's a model,
+
+163
+00:05:53,375 --> 00:05:54,895
+built on big assumptions.
+
+164
+00:05:55,035 --> 00:05:56,624
+But the direction is clear.
+
+165
+00:05:56,984 --> 00:05:58,754
+Here's the uncomfortable part.
+
+166
+00:05:59,124 --> 00:06:03,010
+A follow-up study in 2022 estimated that poor pollination is
+
+167
+00:06:03,030 --> 00:06:07,074
+already costing three to five percent of the world's fruit,
+
+168
+00:06:07,204 --> 00:06:08,907
+vegetables and nuts.
+
+169
+00:06:09,257 --> 00:06:11,315
+That loss is linked to about four hundred
+
+170
+00:06:11,335 --> 00:06:13,787
+and twenty-seven thousand excess deaths a year.
+
+171
+00:06:14,017 --> 00:06:14,987
+Not someday.
+
+172
+00:06:15,167 --> 00:06:15,857
+Now.
+
+173
+00:06:17,827 --> 00:06:18,827
+Chapter six.
+
+174
+00:06:18,847 --> 00:06:20,105
+Who else is out there?
+
+175
+00:06:20,795 --> 00:06:21,595
+But wait.
+
+176
+00:06:21,705 --> 00:06:23,395
+Our question was about bees.
+
+177
+00:06:23,495 --> 00:06:25,805
+And bees are not the only pollinators.
+
+178
+00:06:26,135 --> 00:06:27,115
+Take chocolate.
+
+179
+00:06:27,375 --> 00:06:30,945
+The cacao tree's tiny flowers are pollinated by midges.
+
+180
+00:06:31,175 --> 00:06:33,737
+Flies just one to three millimetres long.
+
+181
+00:06:34,067 --> 00:06:35,557
+So in a world without bees,
+
+182
+00:06:35,577 --> 00:06:36,947
+chocolate would survive.
+
+183
+00:06:37,077 --> 00:06:37,956
+Probably.
+
+184
+00:06:38,346 --> 00:06:41,971
+Flies, beetles, moths and butterflies visit flowers too.
+
+185
+00:06:41,991 --> 00:06:43,559
+Hummingbirds sip nectar.
+
+186
+00:06:43,579 --> 00:06:44,500
+And at night,
+
+187
+00:06:44,520 --> 00:06:45,911
+bats pollinate agave,
+
+188
+00:06:45,931 --> 00:06:47,978
+the plant behind tequila.
+
+189
+00:06:48,308 --> 00:06:50,808
+But none of them do the job quite like bees.
+
+190
+00:06:50,988 --> 00:06:52,958
+Bees feed their young on pollen.
+
+191
+00:06:53,108 --> 00:06:55,248
+Their whole bodies are built to collect it.
+
+192
+00:06:55,598 --> 00:06:57,661
+Losing them wouldn't end life on Earth.
+
+193
+00:06:57,681 --> 00:07:00,449
+It would make it smaller, plainer, and harder.
+
+194
+00:07:02,229 --> 00:07:03,219
+Chapter seven.
+
+195
+00:07:03,239 --> 00:07:04,411
+The real news.
+
+196
+00:07:05,111 --> 00:07:07,261
+Here's a number that is easy to miss.
+
+197
+00:07:07,611 --> 00:07:09,121
+In the last fifty years,
+
+198
+00:07:09,211 --> 00:07:11,856
+the amount of food we grow from pollinator-dependent
+
+199
+00:07:11,876 --> 00:07:14,391
+crops has gone up by three hundred percent.
+
+200
+00:07:14,631 --> 00:07:16,106
+We need them more than ever.
+
+201
+00:07:16,456 --> 00:07:17,995
+So, are bees disappearing?
+
+202
+00:07:18,015 --> 00:07:19,070
+Not all at once.
+
+203
+00:07:19,090 --> 00:07:21,167
+Honeybees are kept like livestock,
+
+204
+00:07:21,187 --> 00:07:24,357
+and beekeepers replace the colonies they lose.
+
+205
+00:07:24,697 --> 00:07:26,937
+The real worry is the wild ones.
+
+206
+00:07:27,267 --> 00:07:29,027
+Where scientists have assessed them,
+
+207
+00:07:29,137 --> 00:07:32,457
+more than forty percent of invertebrate pollinator species,
+
+208
+00:07:32,527 --> 00:07:35,766
+mostly bees and butterflies, face extinction.
+
+209
+00:07:36,086 --> 00:07:38,986
+The causes are the ones Maoxian learned the hard way.
+
+210
+00:07:39,316 --> 00:07:42,006
+Lost habitat, heavy pesticide use,
+
+211
+00:07:42,046 --> 00:07:43,505
+and a changing climate.
+
+212
+00:07:43,835 --> 00:07:45,985
+And the fixes are surprisingly simple.
+
+213
+00:07:46,155 --> 00:07:48,485
+Strips of wildflowers along the fields.
+
+214
+00:07:48,635 --> 00:07:50,435
+Fewer, smarter sprays.
+
+215
+00:07:50,655 --> 00:07:53,037
+A corner of the garden left a little wild.
+
+216
+00:07:54,167 --> 00:07:56,467
+Einstein never warned us about bees.
+
+217
+00:07:56,647 --> 00:07:58,803
+But the quote sticks around for a reason.
+
+218
+00:07:59,143 --> 00:08:00,583
+So many of the apples,
+
+219
+00:08:00,723 --> 00:08:02,517
+almonds and bright colours on your
+
+220
+00:08:02,537 --> 00:08:04,622
+plate began with a tiny delivery.
+
+221
+00:08:05,462 --> 00:08:08,662
+Next time: something in the sky we take for granted.
+
+222
+00:08:08,872 --> 00:08:10,579
+What if the Moon disappeared?
+
+223
+00:08:11,529 --> 00:08:12,592
+This is Whyverse.
+
+224
+00:08:12,612 --> 00:08:14,487
+Big questions, visual answers.
+

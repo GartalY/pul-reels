@@ -40,12 +40,13 @@
   // ---------- events + sound effects (film.js and song.js both read these) ----------
   const ev = {}; const sfx = []; // sfx: [t, kind, gain(0..1), pan]
   const hit = (t, kind, g = 1, pan = 0) => { sfx.push([t, kind, g, pan]); return t; };
-  globalThis.__SCORE_BUILD = { L, Wt, next, ev, hit, CH, U };
   const build = node ? require('./events') : globalThis.EVENTS;
   build({ L, Wt, next, ev, hit, CH, U, DURATION });
   sfx.sort((a, b) => a[0] - b[0]);
   const markers = {};
-  for (const [k, v] of Object.entries(ev)) if (typeof v === 'number' && /^sync_/.test(k)) markers[k] = { t: v, sync: 'av' };
+  // verified hits: the title stamps land in a silence (no voice), so sound + picture can be measured cleanly
+  ev.titleWords.forEach((w, i) => { markers['title_' + (i + 1)] = { t: w.t, sync: 'av' }; });
+  for (const k of ['sync_never', 'sync_now', 'sync_moon', 'sync_logo']) markers[k.replace('sync_', '')] = { t: ev[k], sync: 'v' };
 
   const subtitles = TL.lines.map((l) => ({ t: l.t, end: l.end, text: l.text }));
   const SCORE = { FPS, FORMAT, STYLE, W, H, SAFE, WIDE, DURATION, clock, T, BEAT, m, S, CH, L, Wt, next, LINES, TL, ev, sfx, markers, subtitles, MOUTH: TL.mouth };

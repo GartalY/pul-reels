@@ -75,8 +75,8 @@ sfx.forEach(([t, kind, g, pan], i) => { const f = SFX[kind]; if (!f) { console.w
 
 // ---------- mix + levelling (bed and SFX ≥ 20 dB under the voice) ----------
 const wet = reverb(verb, { room: 0.8, damp: 0.4 });
-const music = bus(); for (const [b, g] of [[pad, 1], [keys, 1], [low, 1], [perc, 1], [wet, 1], [sting, 1]]) b.mixInto(music, g);
-MIX.duck([music], voice, { depth: 0.55, attack: 0.03, release: 0.5, threshold: 0.03 });
+const music = bus(); for (const [b, g] of [[pad, 1], [keys, 1], [low, 1], [perc, 1], [wet, 1]]) b.mixInto(music, g);
+MIX.duck([music, sting], voice, { depth: 0.65, attack: 0.03, release: 0.5, threshold: 0.03 });
 const speech = []; for (const l of TL.lines) speech.push([l.t, l.end]);
 const rms = (b, spans) => { let s = 0, n = 0; for (const [a, z] of spans) for (let i = Math.round(a * SR); i < Math.min(b.n, Math.round(z * SR)); i++) { s += b.L[i] * b.L[i] + b.R[i] * b.R[i]; n += 2; } return Math.sqrt(s / Math.max(1, n)); };
 const db = (x) => 20 * Math.log10(x + 1e-12);
@@ -84,13 +84,16 @@ const vR = rms(voice, speech);
 const mR = rms(music, speech);
 const hitSpans = sfx.map(([t]) => [t, t + 0.12]);
 const fR = rms(fx, hitSpans);
+const stingSpans = [[ev.titleWords[0].t, ev.titleBrand + 2]].concat(['c1', 'c2', 'c3', 'c4', 'c5', 'c6', 'c7'].map((c) => [ev[c + '_stamp'], ev[c + '_stamp'] + 0.8]));
+const sR = rms(sting, stingSpans);
 const MUSIC_DB = parseFloat(process.env.MUSIC_DB || '-23'), FX_DB = parseFloat(process.env.FX_DB || '-20');
 const gM = Math.pow(10, (MUSIC_DB - (db(mR) - db(vR))) / 20), gF = Math.pow(10, (FX_DB - (db(fR) - db(vR))) / 20);
-const stems = { voice, music, fx };
-const mix = MIX.mixdown(stems, { voice: 1, music: gM, fx: gF }, { stemDir: process.env.STEMS ? out : null });
+const STING_DB = parseFloat(process.env.STING_DB || '-14'); const gS = Math.pow(10, (STING_DB - (db(sR) - db(vR))) / 20);
+const stems = { voice, music, fx, sting };
+const mix = MIX.mixdown(stems, { voice: 1, music: gM, fx: gF, sting: gS }, { stemDir: process.env.STEMS ? out : null });
 MIX.highpass(mix, 30);
 MIX.fadeOut(mix, DURATION - 1.4, DURATION);
 const M = MIX.master(mix, 0.8, undefined, { lufs: parseFloat(process.env.LUFS || '-14') });
 MIX.writeWav(path.join(out, 'music.wav'), mix);
-console.log(`voice ${db(vR).toFixed(1)} dB · music bed ${(db(mR * gM) - db(vR)).toFixed(1)} dB under-voice ratio · sfx (per hit) ${(db(fR * gF) - db(vR)).toFixed(1)} dB · master ${M.lufs !== undefined ? M.lufs.toFixed(1) + ' LUFS' : ''}`);
+console.log(`voice ${db(vR).toFixed(1)} dB · music bed ${(db(mR * gM) - db(vR)).toFixed(1)} dB under-voice ratio · stings (no voice under them) ${(db(sR * gS) - db(vR)).toFixed(1)} dB · sfx (per hit) ${(db(fR * gF) - db(vR)).toFixed(1)} dB · master ${M.lufs !== undefined ? M.lufs.toFixed(1) + ' LUFS' : ''}`);
 console.log(`wrote out/music.wav (${DURATION.toFixed(2)}s)`);

@@ -37,14 +37,14 @@
     // signature
     const sg = clamp((t - ev.c0_sign) / Math.max(0.3, ev.c0_signEnd - ev.c0_sign));
     if (sg > 0) {
-      const sx = QX + QW - 560, sy = QY + QH - 70;
-      ctx.save(); ctx.beginPath(); ctx.rect(sx - 20, sy - 90, 540 * sg + 20, 140); ctx.clip();
+      const sw0 = G.measure(ctx, '— Albert Einstein', 66, FT.marker, 400) + 30; const sx = QX + QW - 90 - sw0, sy = QY + QH - 60;
+      ctx.save(); ctx.beginPath(); ctx.rect(sx - 20, sy - 90, sw0 * sg + 20, 140); ctx.clip();
       G.text(ctx, '— Albert Einstein', sx, sy, { size: 66, fam: FT.marker, weight: 400, color: C.navy }); ctx.restore();
       const cr = clamp((t - ev.c0_cross) / 0.35);
-      if (cr > 0) { const pts = []; for (let i = 0; i <= 14; i++) { const u = i / 14 * cr; pts.push([sx - 10 + u * 530, sy - 22 + Math.sin(u * 40) * 16]); } G.line(ctx, pts, { color: C.red, lw: 9, seed: 5 }); }
+      if (cr > 0) { const pts = []; for (let i = 0; i <= 14; i++) { const u = i / 14 * cr; pts.push([sx - 10 + u * (sw0 + 10), sy - 22 + Math.sin(u * 40) * 16]); } G.line(ctx, pts, { color: C.red, lw: 9, seed: 5 }); }
     }
     ctx.restore();
-    P.stamp(ctx, 'NEVER SAID IT', QX + QW / 2 - 120, QY + QH / 2 + 60, t, ev.sync_never, { size: 120, rot: -0.1 });
+    P.stamp(ctx, 'NEVER SAID IT', QX + QW / 2 - 60, QY + QH + 40, t, ev.sync_never, { size: 116, rot: -0.07 });
     // the bee flies in on a loop and lands on the card's top edge; she reads along
     const land = [QX + QW - 260, cy - 70];
     let bx, by, rot = 0, flap = 1, facing = 1;
@@ -121,7 +121,7 @@
       const sh = t > ev.c0_end ? Math.exp(-(t - ev.c0_end) * 5) * 14 : 0;
       P.globe(ctx, W / 2 + U.noise1(t * 30, 3) * sh, 520, 300, t, { grey: 0.25 });
       if (t > ev.c0_end) { const k = clamp((t - ev.c0_end) / 0.3); G.line(ctx, [[W / 2 - 40, 270], [W / 2 + 20, 420], [W / 2 - 50, 560], [W / 2 + 30, 720]].map(([x, y]) => [x, lerp(270, y, k)]), { color: C.ink, lw: 10, seed: 3 }); }
-      P.note(ctx, 'the end of the world?', W / 2, 940, t, ev.c0_end, 1e9, { size: 64, seed: 3 });
+      P.note(ctx, 'the end of the world?', W / 2, 930, t, ev.c0_end, 1e9, { size: 84, seed: 3 });
       ctx.restore();
     }
     if (sw > 0) {
@@ -130,10 +130,11 @@
       // a supermarket front
       G.rrect(ctx, 360, 260, 1200, 620, 10, { fill: '#FFFFFF', seed: 20, hatch: { color: 'rgba(0,0,0,0.06)', gap: 10 } });
       G.rrect(ctx, 330, 200, 1260, 120, 16, { fill: C.coral, seed: 21 });
-      G.text(ctx, 'SUPERMARKET', W / 2, 285, { size: 82, fam: FT.title, weight: 400, color: '#FFF8E8', align: 'center' });
-      for (let i = 0; i < 3; i++) { G.rrect(ctx, 420 + i * 380, 380, 320, 300, 8, { fill: '#BFE0F0', seed: 30 + i }); for (let j = 0; j < 4; j++) P.food(ctx, ['apple', 'melon', 'bread', 'cherry', 'pumpkin', 'rice'][(i * 2 + j) % 6], 470 + i * 380 + j * 74, 600, 0.55); }
+      'SUPERMARKET'.split('').forEach((ch, i) => { const k = P.pop(t, ev.c0_scratch + 0.1 + i * 0.05, 0.3, 3); if (k > 0) P.at(ctx, W / 2 - 330 + i * 60, 285 + Math.sin(t * 6 + i) * 4, k, 0, () => G.text(ctx, ch, 0, 0, { size: 82, fam: FT.title, weight: 400, color: '#FFF8E8', align: 'center' })); });
+      for (let i = 0; i < 3; i++) { G.rrect(ctx, 420 + i * 380, 380, 320, 300, 8, { fill: '#BFE0F0', seed: 30 + i }); for (let j = 0; j < 4; j++) P.food(ctx, ['apple', 'melon', 'bread', 'cherry', 'pumpkin', 'rice'][(i * 2 + j) % 6], 470 + i * 380 + j * 74, 600 - Math.abs(Math.sin(t * 5 + i + j * 0.8)) * 14, 0.55); }
       G.rrect(ctx, 860, 700, 200, 180, 6, { fill: '#BFE0F0', seed: 40 });
-      const cx = lerp(-300, 1500, ease.outCubic(clamp((t - ev.c0_cart + 0.5) / 1.0)));
+      const cx = lerp(-300, 1500, ease.outCubic(clamp((t - ev.c0_scratch - 0.2) / Math.max(1, ev.c0_cart - ev.c0_scratch + 0.6))));
+      { const u = clamp((t - ev.c0_scratch - 0.2) / 2.2); Ch.bee(ctx, { x: lerp(1800, 960, ease.inOutQuad(u)), y: lerp(160, 760, ease.inOutQuad(u)) - Math.sin(u * 3.14) * 120, s: 0.7 * (1 - 0.5 * u), t, facing: -1, eyes: 'happy', mouth: P.talk(t) }); }
       P.at(ctx, cx, 930, 1, 0, () => { G.poly(ctx, [[-90, -110], [90, -110], [70, -20], [-70, -20]], { fill: 'rgba(255,255,255,0.6)', seed: 50, lw: 5 }); G.line(ctx, [[-90, -110], [-130, -150]], { color: C.ink, lw: 6, seed: 51 }); for (const wx of [-50, 50]) G.ellipse(ctx, wx, 0, 16, 16, { fill: C.ink, seed: 52 + wx }); });
       ctx.restore();
     }

@@ -455,5 +455,19 @@
  "reposts": "Next in line after 2 Nov (silent, never cross-posted, no known error): 19 Oct Voyager 172 IG views (11:00), 17 Oct Greenland shark 171 (19:45; hook upper-cased, '~' removed, caption hook made number-first). Next: Pluto 164 (20 Oct n4), godwit 159 (19 Oct n1).",
  "trend_check_evening": "2026-11-02 ~21:25 Baku: news searches returned no new dominant story (Antonelli champion already used today; US midterms 3 Nov -> results trend planned for 4 Nov). No swap for 3 Nov; 18:30 = Burj Khalifa backup, the 09:10/15:23 runs pick the trend.",
  "scheduled_check": "getScheduledPosts 3 Nov before scheduling: 0 posts. After: 22 posts (IG 10 incl. 5 stories, TikTok 6, YouTube 6), each network/time exactly once.",
- "pending_schedule": []
+ "pending_schedule": [],
+ "tiktok_reset": {
+  "when": "2026-11-03 00:57 Baku",
+  "drafted": {
+   "11:00 Voyager repost": 414516552,
+   "16:00 Olympus Mons": 414516565,
+   "19:45 shark repost": 414516575,
+   "21:30 Angel Falls": 414516584
+  },
+  "live": [
+   "13:00 Maiden Tower 414292310",
+   "18:30 trend/Burj Khalifa 414293375"
+  ],
+  "why": "STRATEGY RESET 2026-11-03 in RUNBOOK: TikTok 2/day only"
+ }
 }

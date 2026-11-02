@@ -34,6 +34,33 @@ Every text (caption, slide, reel beat, quiz, story, first comment) must read lik
 2. Load Metricool tools (`ToolSearch "+Metricool"`) and Google Drive tools (`ToolSearch "+Google_Drive"`).
 3. Commit with `git -c user.email=noreply@anthropic.com -c user.name=Claude` and push to `main`.
 
+## STRATEGY RESET 2026-11-03 (Claude as manager; Gartal: "you're the manager, go with it") — OVERRIDES everything below
+Why: after 18 days IG has 45 followers (~3 follows per 1 000 viewers), TikTok 1 follower (most videos 0–10 views,
+31 Oct all six ≤ 3), while YouTube Shorts settle at ~900–1 150 views each and subscribers went 6 → 20 in 4 days.
+1. **YOUTUBE FIRST.** YouTube keeps everything: all 4 reels + both reposts (11:00, 19:45) + long videos. New ideas and
+   formats are judged on YouTube first. Daily report and weekly review lead with YouTube.
+2. **TIKTOK = 2 POSTS A DAY ONLY (from 3 Nov):** the **13:00 AZ reel** and the **18:30 trend reel**. NO TikTok post at
+   16:00 or 21:30, and NO TikTok reposts at 11:00/19:45 (reposts go to YouTube only; still log them in
+   facts/tiktok_reposts.json with the YouTube id). Reason: TikTok AZ videos are our only TikTok winners (Göygöl 473,
+   Mişon 300, Zoroastr 188, Tağıyev 2/2 194, all with 20+ shares) and 6/day from a 1-follower account looks like it is
+   being throttled. 3 Nov: 11:00, 16:00, 19:45, 21:30 TikTok posts set to draft (IDs in facts/2026-11-03.json).
+   **Check on Sun 15 Nov:** if TikTok median views of these posts is still < 100 and followers < 10 → pause TikTok
+   completely and put the effort into YouTube; if ≥ 100 → add the 21:30 reel back.
+3. **GIVE PEOPLE A REASON TO FOLLOW (Instagram):** (a) **two-part AZ stories twice a week** at 13:00 — part 1 on
+   Tuesday and Friday, part 2 the next day at 13:00 (Tağıyev 2/2 got 337 IG views on day 1 vs 180 for part 1; part 1
+   ends with "2-ci hissə sabah 13:00-da — izlə ki, qaçırmayasan"). First pair: Fri 6 / Sat 7 Nov (Tue 3 Nov is already
+   built). (b) **more Azerbaijan:** the 21:30 reel uses an Azerbaijan angle (famous Azerbaijanis, Baku places,
+   "Azerbaijan in world history") on at least 3 days a week; the 16:00 reel stays space / "wow" number.
+4. **MOTION (stop waiting):** Gartal loved the Moon motion test (prototypes/anim_studio_moon), so v6 does not wait for
+   more feedback: from **Thu 5 Nov** the 16:00 reel is built with real motion (animation-studio skill: kinetic text,
+   counters, camera moves, map/data cards) instead of the static photo template, same safe zone and length ≤ 25 s.
+   If one night's build fails, ship the static version and say so. Compare 16:00 motion vs the static 16:00 median at
+   the 15 Nov review; if better → roll out to more slots.
+5. **TURKISH PAGE: POSTPONED** until the AZ page grows on its own (≥ 150 IG followers or ≥ 5 follows per 1 000 views).
+   Not on 9 Nov.
+6. **HONEST REPORTS:** the daily message part 3 always contains one plain line on what is NOT working right now
+   (e.g. "TikTok still shows almost nothing"). No "taking off" wording unless the numbers clearly show it.
+
 ## FORMAT v4 (from 2026-10-26; Gartal approved 2026-10-25 after the weekly review) — OVERRIDES v3 below
 5 posts a day = **4 reels + 1 carousel**, and **2 quiz stories** a day. Times unchanged.
 - **PRIORITY (Gartal, 2026-10-28):** facts and writing are good; DESIGN and ANIMATION are the weak part. Plan: Sat 31 Oct night test (HyperFrames/Opuscar) → Gartal feedback → week of 2 Nov: daily reel template v6 with real motion (kinetic text, maps, data cards) on 1 reel/day, compare views vs the static template → roll out if better.

@@ -1,0 +1,377 @@
+{
+ "date": "2026-11-03",
+ "status": "planned",
+ "format": "v2",
+ "content_format": "v4",
+ "planned_note": "Planned in the 2026-11-02 09:10 run (format v4). 10:00 TBG carousel = Chevrolet company founded 3 Nov 1911 (Louis Chevrolet sold his share in 1915, came back as an employee in 1936). 13:00 AZ reel (VOICED, split kept until the 8 Nov voice decision) = Maiden Tower: 5 m walls, built on a rock sloping to the sea, buttress, on the 10-manat note. 16:00 reel (SILENT) = Olympus Mons 26 km, ~3x Everest. 18:30 trend backup reel (SILENT) = Burj Khalifa 244 m vanity height. 21:30 reel (VOICED) = Angel Falls 979 m + Jimmie Angel's plane stuck, 11-day walk. Tue = normal day (two-part stories are Wed + Sat). US midterms are today in the US: results trend planned for 4 Nov (neutral). All photos fetched from Commons/Unsplash and checked.",
+ "two_part": null,
+ "history": {
+  "n": "H",
+  "type": "card",
+  "cat": "Tarix",
+  "day": 3,
+  "month": 11,
+  "year": 1911,
+  "subject": "Chevrolet Motor Car Company founded 3 Nov 1911 by Swiss-born racing driver Louis Chevrolet (b. 25 Dec 1878, La Chaux-de-Fonds), his brother Arthur and William C. Durant (Wikipedia Louis Chevrolet + Chevrolet; MotorCities 'organized on Nov. 3, 1911'). Louis disagreed with Durant over the car's design and in 1915 sold Durant his share (Britannica, Wikipedia; MotorCities says they parted in 1914). Gulf News: Durant wanted a cheaper car; Louis did not want his name on cheap cars (single source -> 'deyilənə görə'). Lost his money (Gulf News: 1929 crash), in 1936 returned to the GM division named for him as a minor employee (Britannica; Gulf News 'regular employee at GM'). Died 6 Jun 1941, Detroit (Britannica, MotorCities). His cars won Indianapolis 500 in 1920 (driven by brother Gaston) and 1921 (MotorCities, Britannica). Brand now part of General Motors.",
+  "photo_request": "Louis Chevrolet portrait 1911 (Commons, PD)",
+  "card_title": "3 NOYABR 1911",
+  "title": "Adı milyonlarla maşının üstündədir, amma o, payını satdı",
+  "text": "1911-ci il noyabrın 3-də yarış sürücüsü Lui Şevrole «Chevrolet» şirkətini qurdu. 4 il sonra payını satdı, sonra isə öz adını daşıyan şirkətdə sadə işçi kimi çalışdı.",
+  "cover": {
+   "hook": "Adı milyonlarla maşının üstündədir, amma o, payını satdı",
+   "sub": "3 noyabr 1911 · 115 il əvvəl bu gün"
+  },
+  "slides": [
+   {
+    "h": "1911",
+    "t": "1911-ci il noyabrın 3-də isveçrəli yarış sürücüsü Lui Şevrole və iş adamı Uilyam Durant Amerikada «Chevrolet» şirkətini qurdular."
+   },
+   {
+    "h": "1915",
+    "t": "Lui ilə Durant maşının necə olacağı üstündə razılaşmadılar. Deyilənə görə, Durant ucuz maşın istəyirdi. 1915-ci ildə Lui payını Duranta satdı."
+   },
+   {
+    "h": "1936",
+    "t": "Sonralar Lui pulunu itirdi. 1936-cı ildə öz adını daşıyan şirkətə sadə işçi kimi qayıtdı. 1941-ci ildə vəfat etdi."
+   }
+  ],
+  "caption": "115 il əvvəl bu gün «Chevrolet» quruldu — amma adını verən adam payını satdı 🚗\n\n1911-ci il noyabrın 3-də isveçrəli yarış sürücüsü Lui Şevrole və iş adamı Uilyam Durant «Chevrolet» şirkətini qurdular. Lui ilə Durant maşının necə olacağı üstündə razılaşmadılar və 1915-ci ildə Lui payını Duranta satdı. Şirkət sonra «General Motors»un bir hissəsi oldu və dünyanın ən tanınmış markalarından birinə çevrildi. Lui isə pulunu itirdi və 1936-cı ildə öz adını daşıyan şirkətə sadə işçi kimi qayıtdı.\n\n📩 «Bu iş heç nə olmayacaq» deyib işi yarımçıq qoyan dostuna göndər 😄\n\nFoto: Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #tarixdəbugün #avtomobil #tarix",
+  "first_comment": "Sən Lui Şevrolenin yerində olsaydın, payını satardın? 👇",
+  "quizzes": [
+   {
+    "q": "«Chevrolet» şirkəti neçənci ildə quruldu?",
+    "options": [
+     "1899",
+     "1911",
+     "1936"
+    ],
+    "answer": "1911",
+    "why": "3 noyabr 1911."
+   },
+   {
+    "q": "Lui Şevrole əslən hansı ölkədən idi?",
+    "options": [
+     "Fransa",
+     "İsveçrə",
+     "İtaliya"
+    ],
+    "answer": "İsveçrə",
+    "why": "La-Şo-de-Fon şəhərində doğulub."
+   },
+   {
+    "q": "Lui öz şirkətindəki payını neçənci ildə satdı?",
+    "options": [
+     "1915",
+     "1929",
+     "1941"
+    ],
+    "answer": "1915",
+    "why": "Payını Duranta satdı."
+   }
+  ],
+  "story": {
+   "day": 3,
+   "month": 11,
+   "year": 1911,
+   "title": "Adını verdi, payını satdı",
+   "text": "115 il əvvəl bu gün «Chevrolet» quruldu. Adını verən Lui Şevrole 1915-ci ildə payını satdı, 1936-cı ildə isə həmin şirkətə sadə işçi kimi qayıtdı.",
+   "credit": "Wikimedia Commons (ictimai mülkiyyət)"
+  },
+  "sources": [
+   "https://en.wikipedia.org/wiki/Louis_Chevrolet",
+   "https://www.britannica.com/biography/Louis-Chevrolet",
+   "https://motorcities.org/story-of-the-week/2015/remembering-the-great-legacy-of-louis-chevrolet",
+   "https://gulfnews.com/lifestyle/the-price-louis-chevrolet-had-to-pay-for-his-pride-1.885245"
+  ],
+  "verify_note": "3 Nov 1911: Wikipedia + MotorCities. Sold share 1915: Britannica + Wikipedia (MotorCities 'parted company in 1914' -> we only say 1915 for the SALE). 1936 minor employee: Britannica ('returned to the General Motors division named for him') + Gulf News. Reason: Wikipedia 'differences over the car's design' + Gulf News 'cheaper' -> 'deyilənə görə'. Not 115 = round anniversary rule (25/50/75/100/150), so stays TBG only.",
+  "photo": {
+   "path": "fetch/img/2026-11-03_H_chevrolet.jpg",
+   "credit": "Wikimedia Commons (ictimai mülkiyyət)",
+   "cy": 0.4,
+   "full": true,
+   "source": "https://commons.wikimedia.org/wiki/File:Louis_Chevrolet_in_1911.jpg",
+   "note": "face portrait in racing cap, checked: no watermark. Slide photo alt fetch/img/2026-11-03_H_chevrolet2.jpg (at the wheel, PD). Rejected chevrolet3 (Agence Rol scan with catalogue number)."
+  }
+ },
+ "facts": [
+  {
+   "n": 1,
+   "type": "reel",
+   "cat": "Azərbaycan",
+   "voiced": true,
+   "subject": "Maiden Tower (Qız qalası), Baku: 8 floors (Wikipedia; icherisheher.gov.az 'divided into 8 floors'); height 29.5 m (Wikipedia; Coin World '97-foot'); icherisheher.gov.az: 31 m north, 28 m south -> 'təxminən 30 metr'. Base diameter 16.5 m (both). Walls 5 m thick at base (both; top 3.2-4.5 m). 1962-63 excavations: built on a large rock sloping toward the sea; the buttress projecting from the tower gives stability (Wikipedia + icherisheher.gov.az). Water well inside (0.7 m wide; Wikipedia 21 m deep vs icherisheher 13 m -> no depth given). Mostly 12th century per Wikipedia (dating disputed, older theories). On the 10-manat note: front shows Old Baku, Shirvanshahs' Palace and Maiden Tower (BanknoteWorld P-27 2005; Coin World 2022 new design; Wikipedia).",
+   "photo_request": "Maiden Tower with buttress, daytime (Commons)",
+   "title": "5 metrlik divarlar: Qız qalası maili qayanın üstündədir",
+   "text": "Qız qalasının divarlarının qalınlığı aşağıda 5 metrə çatır. Qazıntılar göstərib ki, qala dənizə tərəf maili qayanın üstündə tikilib.",
+   "reel_hook": "5 METR QALINLIQDA DİVAR: QIZ QALASININ SİRRİ",
+   "reel_beats": [
+    "Qız qalası 8 mərtəbəlidir, hündürlüyü təxminən 30 metrdir. Aşağıda divarlarının qalınlığı 5 metrə çatır.",
+    "1960-cı illərdə qazıntı aparanda məlum oldu ki, qala dənizə tərəf maili böyük bir qayanın üstündə tikilib. Yan tərəfdəki çıxıntı onu dayaq kimi saxlayır.",
+    "Qalanın içində qədim su quyusu da var. Onun şəkli isə 10 manatlıq pulun üstündədir, cibinə bax. Sən qalanın damına çıxmısan?"
+   ],
+   "voice": {
+    "voice": "az-AZ-BanuNeural",
+    "rate": "+15%",
+    "texts": [
+     "Beş metr qalınlıqda divar. Qız qalasının sirri.",
+     "Qız qalası səkkiz mərtəbəlidir, hündürlüyü təxminən otuz metrdir. Aşağıda divarlarının qalınlığı beş metrə çatır.",
+     "Min doqquz yüz altmışıncı illərdə qazıntı aparanda məlum oldu ki, qala dənizə tərəf maili böyük bir qayanın üstündə tikilib. Yan tərəfdəki çıxıntı onu dayaq kimi saxlayır.",
+     "Qalanın içində qədim su quyusu da var. Onun şəkli isə on manatlıq pulun üstündədir, cibinə bax. Sən qalanın damına çıxmısan?"
+    ]
+   },
+   "cta": "Hər gün 13:00-da yeni Bakı faktı — izlə!",
+   "caption": "Qız qalasının divarları aşağıda 5 metr qalınlığındadır 🏰\n\nQız qalası 8 mərtəbəlidir, hündürlüyü təxminən 30 metrdir. 1962–63-cü illərdə aparılan qazıntılar göstərib ki, qala dənizə tərəf maili böyük bir qayanın üstündə tikilib. Yan tərəfdəki uzun çıxıntı isə onu dayaq kimi saxlayır. Qalanın içində qədim su quyusu da var. Qalanın nə vaxt tikildiyi bu gün də mübahisəlidir: çoxu 12-ci əsri deyir, bəzi alimlər isə daha qədim olduğunu düşünür. Onun şəkli 10 manatlıq əskinasda da var.\n\n📩 Bakıda yaşayıb hələ Qız qalasına çıxmayan dostuna göndər 😄\n\n👉 Hər gün 13:00-da Azərbaycan haqqında bilmədiyin bir fakt — izlə ki, qaçırmayasan\n\nFoto: AlixSaz / Wikimedia Commons (CC BY-SA 4.0)\n\n#bilirdinizmi #maraqlıfaktlar #qızqalası #bakı #tarix",
+   "first_comment": "Qız qalasının hansı əfsanəsini bilirsən? 👇",
+   "quizzes": [
+    {
+     "q": "Qız qalası neçə mərtəbəlidir?",
+     "options": [
+      "5",
+      "8",
+      "12"
+     ],
+     "answer": "8",
+     "why": "Hündürlüyü təxminən 30 metrdir."
+    },
+    {
+     "q": "Qalanın divarları aşağıda nə qədər qalındır?",
+     "options": [
+      "1 metr",
+      "3 metr",
+      "5 metr"
+     ],
+     "answer": "5 metr",
+     "why": "Yuxarıda isə daha nazikdir."
+    },
+    {
+     "q": "Qız qalası hansı əskinasın üstündədir?",
+     "options": [
+      "1 manat",
+      "10 manat",
+      "50 manat"
+     ],
+     "answer": "10 manat",
+     "why": "Şirvanşahlar sarayı ilə birlikdə."
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Maiden_Tower_(Baku)",
+    "https://icherisheher.gov.az/en/4-monument",
+    "https://www.banknoteworld.org/azerbaijan-10-manat-2005-p-27.html",
+    "https://www.coinworld.com/news/paper-money/central-bank-of-azerbaijan-to-issue-10-manat-note-in-june"
+   ],
+   "verify_note": "8 floors, 16.5 m, 5 m walls, rock sloping to the sea + buttress: Wikipedia + icherisheher.gov.az (official). Height: 29.5 m Wikipedia/Coin World, 28-31 m official -> 'təxminən 30 metr'. Well depth differs (21 vs 13 m) -> no number. Excavation 1962-63: Wikipedia; official site mentions excavation without year -> beat says '1960-cı illərdə'. 10 manat: BanknoteWorld (2005) + Coin World (2022 design) + Wikipedia. Dating told as disputed. Maiden legend not told as fact.",
+   "photo": {
+    "path": "fetch/img/2026-11-03_1_maiden2.jpg",
+    "credit": "AlixSaz / Wikimedia Commons (CC BY-SA 4.0)",
+    "cy": 0.45,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Maiden_Tower_in_Baku_2015.jpg",
+    "note": "portrait, whole tower with the buttress visible, checked: no watermark. Alt fetch/img/2026-11-03_1_maiden.jpg (close view from below, Diego Delso CC BY-SA 4.0)."
+   }
+  },
+  {
+   "n": 2,
+   "type": "reel",
+   "cat": "Kosmos",
+   "voiced": false,
+   "subject": "Olympus Mons, Mars: 26 km above the surrounding plains, 'three times taller than Mt. Everest' (NASA JPL PIA23928, 2020); EBSCO 25.7 km, 'nearly three times'; Wikipedia: 21.3 km above Mars datum (MOLA), ~26 km from Amazonis plains. Width 585 km (JPL) / ~600 km (EBSCO, Wikipedia), wider than Arizona (JPL). Area ~300 000 km2 ≈ Italy (Wikipedia). Basal cliff up to 8 km (Wikipedia; EBSCO 9.7 km). Slopes only 2-5 degrees (JPL). Curvature of Mars + the volcano hide the whole view from the surface (Wikipedia). Tallest volcano in the solar system (JPL).",
+   "photo_request": "Olympus Mons from orbit (NASA Viking, PD)",
+   "title": "26 km: Marsdakı vulkan Everestdən 3 dəfə hündürdür",
+   "text": "Marsdakı Olimp dağı ətrafdakı düzənlikdən 26 km yüksəlir. NASA-ya görə, bu, Everestdən təxminən 3 dəfə hündürdür.",
+   "reel_hook": "26 KM: MARSDAKI DAĞ EVERESTDƏN 3 DƏFƏ HÜNDÜR",
+   "reel_beats": [
+    "Marsdakı Olimp dağı əslində nəhəng bir vulkandır. NASA-ya görə, ətrafdakı düzənlikdən 26 kilometr yüksəlir. Bu, Everestdən təxminən 3 dəfə hündürdür.",
+    "Eni isə 600 kilometrə yaxındır. Sahəsi təxminən İtaliya boyda olar. Ətəyində bəzi yerlərdə 8 kilometrlik sıldırım qayalar var.",
+    "Amma yamacları elə yatıqdır ki, üstündə dayansan, dağda olduğunu çətin hiss edərsən. Bu, Günəş sistemindəki ən hündür vulkandır. Sən oraya çıxmağa cəsarət edərdin?"
+   ],
+   "caption": "Marsda Everestdən təxminən 3 dəfə hündür bir dağ var 🔴\n\nOlimp dağı Marsdakı nəhəng bir vulkandır. NASA-ya görə, o, ətrafdakı düzənlikdən 26 kilometr yüksəlir — Everest isə 8,8 kilometrdir. Eni 600 kilometrə yaxındır, sahəsi təxminən İtaliya boydadır. Ətəyində bəzi yerlərdə 8 kilometrlik sıldırım qayalar var. Amma yamacları cəmi 2–5 dərəcə maildir, ona görə üstündə dayanan adam dağda olduğunu çətin hiss edər. Bu, Günəş sistemindəki ən hündür vulkandır.\n\n📩 Everestə çıxmaq arzusu olan dostuna göndər — Marsda ondan 3 dəfə hündürü var 😄\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: NASA\n\n#bilirdinizmi #maraqlıfaktlar #mars #kosmos #elm",
+   "first_comment": "Marsa bilet versələr, gedərdin? 👇",
+   "quizzes": [
+    {
+     "q": "Olimp dağı hansı planetdədir?",
+     "options": [
+      "Venerada",
+      "Marsda",
+      "Merkuridə"
+     ],
+     "answer": "Marsda",
+     "why": "Günəş sistemindəki ən hündür vulkan."
+    },
+    {
+     "q": "Olimp dağı düzənlikdən nə qədər yüksəlir?",
+     "options": [
+      "9 km",
+      "16 km",
+      "26 km"
+     ],
+     "answer": "26 km",
+     "why": "NASA-ya görə."
+    },
+    {
+     "q": "Olimp dağının sahəsi hansı ölkə boydadır?",
+     "options": [
+      "Lüksemburq",
+      "İtaliya",
+      "Rusiya"
+     ],
+     "answer": "İtaliya",
+     "why": "Təxminən 300 000 km²."
+    }
+   ],
+   "sources": [
+    "https://www.jpl.nasa.gov/images/olympus-mons-lava-flows",
+    "https://ebsco.com/research-starters/astronomy-and-astrophysics/olympus-mons",
+    "https://en.wikipedia.org/wiki/Olympus_Mons"
+   ],
+   "verify_note": "26 km above surrounding plains + 3x Everest: NASA JPL (2020); EBSCO 25.7 km 'nearly three times'; Wikipedia ~26 km from Amazonis plains (21.3 km above datum - we say 'düzənlikdən' so 26 is right). Width: JPL 585, EBSCO + Wikipedia 600 -> '600 km-ə yaxın'. Italy area: Wikipedia only (~300 000 km2; Italy 301 000) -> 'təxminən'. 8 km cliffs: Wikipedia ('up to 8 km'), EBSCO ~9.7 km -> 'bəzi yerlərdə 8 km'. 2-5 degrees: JPL. 'Hiss etməz' = our wording from the slope figure, softened to 'çətin hiss edərsən'. 16:00 slot = space wow number (runbook 1 Nov rule).",
+   "photo": {
+    "path": "fetch/img/2026-11-03_2_olympus.jpg",
+    "credit": "NASA",
+    "cy": 0.5,
+    "full": false,
+    "source": "https://commons.wikimedia.org/wiki/File:Olympus_Mons_alt.jpg",
+    "note": "Viking orbiter mosaic (NASA, modified by Seddon, PD); whole volcano with caldera and cliff ring; landscape -> not full-bleed. Alt fetch/img/2026-11-03_2_olympus2.jpg (MOLA colour-height map, PD)."
+   }
+  },
+  {
+   "n": 3,
+   "type": "reel",
+   "cat": "Coğrafiya",
+   "voiced": false,
+   "subject": "Burj Khalifa, Dubai: 828 m tall; highest occupiable floor 585 m; the top 244 m (29%) is 'vanity height' - unusable spire (CTBUH 2013 study via Reuters/VOA 5 Sep 2013; Gulf News; Wikipedia Vanity height + Burj Khalifa). The 244 m alone 'would rank on its own as the 11th tallest building in Europe' (Reuters/VOA 2013; Gulf News). Even without the vanity height it would still be the world's tallest by highest occupied floor (CTBUH's Daniel Safarik in Gulf News; Wikipedia: by ~2 m over Shanghai Tower). Spire >4 000 t of steel (Wikipedia). Opened 4 Jan 2010 (Wikipedia). Highest UAE share: Burj Al Arab 38.5% (Gulf News) - not used.",
+   "photo_request": "Burj Khalifa full height, portrait (Unsplash)",
+   "title": "244 metr: Bürc Xəlifənin zirvəsi boşdur",
+   "text": "Bürc Xəlifənin hündürlüyü 828 metrdir, amma ən yuxarı istifadə olunan mərtəbə 585 metrdədir. Qalan 244 metr içində heç kim yaşamayan şpildir.",
+   "reel_hook": "244 METR: BÜRC XƏLİFƏNİN ZİRVƏSİ BOŞDUR",
+   "reel_beats": [
+    "Dubaydakı Bürc Xəlifə dünyanın ən hündür binasıdır: 828 metr. Amma ən yuxarı mərtəbə, insanların gedə bildiyi yer, 585 metrdədir.",
+    "Qalan 244 metr iti şpildir, içində demək olar ki, yer yoxdur. Bu, binanın hündürlüyünün 29 faizidir. Mütəxəssislər buna «təkəbbür hündürlüyü» deyirlər.",
+    "2013-cü ildə hesablayıblar ki, bu boş hissə ayrıca bina olsaydı, Avropanın 11-ci ən hündür binası olardı. Səncə, bu, lazımsız xərcdir, yoxsa gözəllik?"
+   ],
+   "caption": "Dünyanın ən hündür binasının 244 metri boşdur 🏙️\n\nBürc Xəlifənin hündürlüyü 828 metrdir. Amma ən yuxarı istifadə olunan mərtəbə 585 metrdədir. Ondan yuxarıdakı 244 metr iti şpildir — içində demək olar ki, istifadə olunan yer yoxdur. Hündür binalar üzrə beynəlxalq şura 2013-cü ildə buna «təkəbbür hündürlüyü» adını verdi: bu, binanın 29 faizidir. Həmin boş hissə ayrıca bina olsaydı, o vaxt Avropanın 11-ci ən hündür binası olardı. Maraqlıdır ki, şpil olmasa belə, Bürc Xəlifə yenə də dünyanın ən hündür binası qalardı.\n\n📩 Həmişə «bir az da hündür olsun» deyən dostuna göndər 😄\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Damian Kamp / Unsplash\n\n#bilirdinizmi #maraqlıfaktlar #dubay #memarlıq #rekord",
+   "first_comment": "Bürc Xəlifəyə çıxmısan? Neçənci mərtəbəyə? 👇",
+   "quizzes": [
+    {
+     "q": "Bürc Xəlifənin hündürlüyü nə qədərdir?",
+     "options": [
+      "628 metr",
+      "828 metr",
+      "1 028 metr"
+     ],
+     "answer": "828 metr",
+     "why": "Dünyanın ən hündür binası."
+    },
+    {
+     "q": "Binanın yuxarıdakı boş hissəsi neçə metrdir?",
+     "options": [
+      "44 metr",
+      "144 metr",
+      "244 metr"
+     ],
+     "answer": "244 metr",
+     "why": "Hündürlüyün 29 faizi."
+    },
+    {
+     "q": "Ən yuxarı istifadə olunan mərtəbə neçə metrdədir?",
+     "options": [
+      "385 metr",
+      "585 metr",
+      "785 metr"
+     ],
+     "answer": "585 metr",
+     "why": "Ondan yuxarısı şpildir."
+    }
+   ],
+   "sources": [
+    "https://www.voanews.com/a/reu-uae-has-world-vainest-skyscrapers/1743913.html",
+    "https://gulfnews.com/amp/story/uae%2Fvanity-height-apart-burj-khalifa-still-tallest-in-the-world-1.1230151",
+    "https://en.wikipedia.org/wiki/Vanity_height",
+    "https://en.wikipedia.org/wiki/Burj_Khalifa"
+   ],
+   "verify_note": "828 / 585 / 244 m / 29%: Reuters-VOA 2013 + Gulf News (29.4%) + Wikipedia (29.3%) -> '29 faiz'. 11th tallest in Europe: Reuters-VOA + Gulf News, stated as of 2013 ('o vaxt'). Still tallest without spire: CTBUH via Gulf News + Wikipedia. 'Təkəbbür hündürlüyü' = our AZ rendering of 'vanity height' (no common AZ term), introduced as what experts call it. Not used: Ramadan sunset-by-floor fact (religion rule).",
+   "photo": {
+    "path": "fetch/img/2026-11-03_3_burj_u.jpg",
+    "credit": "Damian Kamp / Unsplash",
+    "cy": 0.35,
+    "full": true,
+    "source": "https://unsplash.com/photos/burj-khalifa-skyscraper-surrounded-by-palm-trees-and-modern-buildings-pK4fWMgw2xw",
+    "note": "Unsplash alt text names Burj Khalifa; portrait with full spire; checked: no watermark. Alt fetch/img/2026-11-03_3_burj.jpg (sunset skyline, Eric Chamchoum CC BY 4.0)."
+   }
+  },
+  {
+   "n": 4,
+   "type": "reel",
+   "cat": "Təbiət",
+   "voiced": true,
+   "subject": "Angel Falls, Venezuela: total height 979 m, longest drop 807 m; world's tallest uninterrupted waterfall (some uncertainty vs Tugela) (Wikipedia). Named after US aviator Jimmie Angel, first to fly over it in Nov 1933 (Wikipedia 16 Nov; Linda Hall 18 Nov -> no day). 9 Oct 1937 he landed his monoplane 'El Río Caroní' on top of Auyán-tepui; wheels sank in marshy ground/soft mud; he, his wife Marie and two companions walked down; took 11 days (Wikipedia + Linda Hall). Plane stayed on top 33 years, lifted by helicopter (1970, Linda Hall), now outside Ciudad Bolívar airport (Wikipedia + Linda Hall). Height surveyed 1949 (Ruth Robertson expedition, Wikipedia). Pemon name Kerepakupai Vená (Wikipedia).",
+   "photo_request": "Angel Falls portrait view (Commons)",
+   "title": "979 metr: şəlaləyə adını verən pilot 11 gün piyada qayıtdı",
+   "text": "Anxel şəlaləsi 979 metr hündürlüyü ilə dünyanın ən hündür şəlaləsi sayılır. Adını təyyarəsi şəlalənin üstündə ilişib qalan pilotdan alıb.",
+   "reel_hook": "979 METR VƏ 11 GÜN PİYADA: ANXEL ŞƏLALƏSİ",
+   "reel_beats": [
+    "Venesueladakı Anxel şəlaləsi dünyanın ən hündür şəlaləsi sayılır: 979 metr. Su bir dəfəyə 807 metr aşağı düşür.",
+    "Şəlalə adını amerikalı pilot Cimmi Anxeldən alıb. 1937-ci ildə o, təyyarəsini şəlalənin başladığı dağın düz üstünə endirdi, amma təkərlər palçığa batdı.",
+    "Pilot, həyat yoldaşı və iki yoldaşı aşağı 11 gün piyada endilər. Təyyarə isə 33 il dağın üstündə qaldı. Sən 11 gün piyada yol gedə bilərdin?"
+   ],
+   "voice": {
+    "voice": "az-AZ-BanuNeural",
+    "rate": "+15%",
+    "texts": [
+     "Doqquz yüz yetmiş doqquz metr və on bir gün piyada. Anxel şəlaləsi.",
+     "Venesueladakı Anxel şəlaləsi dünyanın ən hündür şəlaləsi sayılır: doqquz yüz yetmiş doqquz metr. Su bir dəfəyə səkkiz yüz yeddi metr aşağı düşür.",
+     "Şəlalə adını amerikalı pilot Cimmi Anxeldən alıb. Min doqquz yüz otuz yeddinci ildə o, təyyarəsini şəlalənin başladığı dağın düz üstünə endirdi, amma təkərlər palçığa batdı.",
+     "Pilot, həyat yoldaşı və iki yoldaşı, aşağı on bir gün piyada endilər. Təyyarə isə otuz üç il dağın üstündə qaldı. Sən on bir gün piyada yol gedə bilərdin?"
+    ]
+   },
+   "caption": "Dünyanın ən hündür şəlaləsinə adını verən pilot ordan 11 gün piyada qayıtdı ✈️\n\nVenesueladakı Anxel şəlaləsinin hündürlüyü 979 metrdir — Eyfel qülləsindən təxminən 3 dəfə hündür. Su bir dəfəyə 807 metr aşağı düşür. Şəlalə adını amerikalı pilot Cimmi Anxeldən alıb: o, 1933-cü ildə onun üstündən ilk dəfə uçdu. 1937-ci ildə isə təyyarəsini şəlalənin başladığı dağın üstünə endirdi, amma təkərlər palçığa batdı. Pilot, həyat yoldaşı və iki yoldaşı aşağı 11 gün piyada endilər. Təyyarə 33 il dağın üstündə qaldı, sonra vertolyotla endirildi. İndi Venesuelada, Syudad-Bolivar hava limanının qarşısında durur.\n\n📩 Maşını həmişə palçığa salan dostuna göndər 😄\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Stratokumulus / Wikimedia Commons (CC BY 4.0)\n\n#bilirdinizmi #maraqlıfaktlar #şəlalə #venesuela #təbiət",
+   "first_comment": "Ömründə gördüyün ən hündür şəlalə hansıdır? 👇",
+   "quizzes": [
+    {
+     "q": "Anxel şəlaləsi hansı ölkədədir?",
+     "options": [
+      "Braziliyada",
+      "Venesuelada",
+      "Peruda"
+     ],
+     "answer": "Venesuelada",
+     "why": "Auyan-tepui dağında."
+    },
+    {
+     "q": "Pilot və yoldaşları aşağı neçə gün piyada endilər?",
+     "options": [
+      "3 gün",
+      "11 gün",
+      "30 gün"
+     ],
+     "answer": "11 gün",
+     "why": "1937-ci ildə."
+    },
+    {
+     "q": "Pilotun təyyarəsi dağın üstündə neçə il qaldı?",
+     "options": [
+      "3 il",
+      "13 il",
+      "33 il"
+     ],
+     "answer": "33 il",
+     "why": "Sonra vertolyotla endirildi."
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Angel_Falls",
+    "https://www.lindahall.org/about/news/scientist-of-the-day/jimmie-angel/"
+   ],
+   "verify_note": "979 m / 807 m: Wikipedia (Tugela uncertainty -> 'sayılır'). 1933 first flight: Wikipedia + Linda Hall (day differs, not used). 1937 landing, plane stuck in mud, 4 people, 11 days: Wikipedia + Linda Hall. 33 years + helicopter + Ciudad Bolívar airport: Wikipedia + Linda Hall (1970). Eiffel 330 m -> 979/330 ≈ 3 (our arithmetic). 'Anxel' = Spanish pronunciation used in AZ for the falls; pilot name written the same so the link is clear.",
+   "photo": {
+    "path": "fetch/img/2026-11-03_4_angel.jpg",
+    "credit": "Stratokumulus / Wikimedia Commons (CC BY 4.0)",
+    "cy": 0.4,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:KerepakupaiVen%C3%A1.jpg",
+    "note": "portrait, full fall on red cliff; checked: no watermark. 2nd: fetch/img/2026-11-03_4_angelplane.jpg (Angel's plane at Ciudad Bolívar airport, CC BY-SA 3.0)."
+   }
+  }
+ ],
+ "language_check": "Self-check 2026-11-02 09:10 (section L): short spoken sentences; brand names in «»; no English in brackets ('vanity height' -> «təkəbbür hündürlüyü» explained); cases checked ('Durantla razılaşmadı' -> 'Lui ilə Durant ... razılaşmadılar', 'payını Duranta satdı', 'dağın üstünə endirdi', 'palçığa batdı'); voice texts have numbers in words; ı/i, ə/e checked."
+}

@@ -438,5 +438,74 @@
  "reposts": "Picked by IG views (IGRE23) among silent, never cross-posted reels (<= 25 Oct), no known error: 23 Oct bombardier beetle 186 views (11:00), 21 Oct Mars blue sunset 180 views (19:45). Next in line: Voyager 172, Greenland shark 171, Pluto 164, godwit 159.",
  "trend_check_evening": "2026-11-01 ~20:50 Baku: world + AZ news searches: no new dominant story beyond the morning check (US-Iran/Hormuz ongoing, US midterms 3 Nov planned for 4 Nov, Mexico GP tonight). No swap; 18:30 = Akashi backup, the 09:10/15:23 runs pick the trend.",
  "scheduled_check": "getScheduledPosts 2 Nov before scheduling: 0 posts. After: 22 posts (IG 10 incl. 5 stories, TikTok 6, YouTube 6), each network/time exactly once.",
- "pending_schedule": null
+ "pending_schedule": null,
+ "trend": {
+  "n": "T",
+  "type": "reel",
+  "format": "v4",
+  "cat": "İdman",
+  "voiced": false,
+  "subject": "F1 Mexico City GP, Sun 1 Nov 2026: Kimi Antonelli (Mercedes) finished 3rd and clinched the 2026 World Drivers' Championship; Verstappen won, polesitter Hamilton 2nd +0.799 s (F1.com, Autosport, RACER, Motorsport Week). Age at title 20 years 68 days; previous record Sebastian Vettel 23 years 134 days (2010) (Sky Sports table; Autosport 'by three full years'; AP via Times Leader 'Vettel ... age 23 in 2010'). First Italian champion since Alberto Ascari 1953 (AP; Sky; Wikipedia 'first Italian champion in 73 years'). Nine GP wins this season (Sky; Wikipedia). Second season in F1, debut 2025 (Motorsport Week 'second season'; Wikipedia). Born 25 Aug 2006, Bologna (Wikipedia). Passed his road driving test six weeks before his F1 debut (Wikipedia) - not used (single source). Title won with four races left (AP) - not used (Qatar/Abu Dhabi uncertain).",
+  "photo_request": "Kimi Antonelli portrait in Mercedes cap (Commons)",
+  "title": "20 yaşında dünya çempionu: Antonelli rekord qırdı",
+  "text": "Kimi Antonelli 20 yaş 68 gündə Formula 1 dünya çempionu oldu. Bu, tarixin ən gənc çempionudur. Əvvəlki rekord Sebastyan Fettelin idi.",
+  "reel_hook": "20 YAŞINDA DÜNYA ÇEMPİONU: YENİ REKORD",
+  "reel_beats": [
+   "Dünən gecə Meksikada italyan Kimi Antonelli yarışı üçüncü bitirdi. Bu, ona Formula 1 dünya çempionluğunu qazandırdı.",
+   "Onun cəmi 20 yaşı var. Əvvəlki rekord Sebastyan Fettelin idi: o, 2010-cu ildə 23 yaşında çempion olmuşdu. Antonelli bu rekordu üç il qabaqladı.",
+   "İtaliya 1953-cü ildən, yəni 73 ildir dünya çempionu gözləyirdi. Antonelli isə cəmi ikinci mövsümündədir. Səncə, bu rekordu kimsə qıra biləcək?"
+  ],
+  "caption": "20 yaşında dünya çempionu: Formula 1 tarixində ən gəncdir 🏆\n\nDünən Meksikada «Mersedes»in sürücüsü Kimi Antonelli yarışı üçüncü bitirdi və bu, çempionluq üçün kifayət etdi. O, titulu 20 yaş 68 gündə qazandı. Əvvəlki rekord 2010-cu ildən Sebastyan Fettelin idi: 23 yaş 134 gün. Antonelli bu mövsüm 9 yarışda qalib gəlib, halbuki Formula 1-də cəmi ikinci ilidir. İtaliyanın əvvəlki dünya çempionu 1953-cü ildə Alberto Askari olmuşdu.\n\nYarışın özündə Maks Ferstappen qalib gəldi, poldan başlayan Lüis Həmilton ikinci oldu.\n\n📩 «Hələ gəncəm, vaxtım var» deyən dostuna göndər — Antonelli 20 yaşında dünya çempionudur\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Yu Chu Chin / Wikimedia Commons (CC BY-SA 4.0)\n\n#bilirdinizmi #maraqlıfaktlar #formula1 #antonelli #idman",
+  "first_comment": "Sən 20 yaşında nə edirdin? 👇",
+  "quizzes": [
+   {
+    "q": "Antonelli neçə yaşında dünya çempionu oldu?",
+    "options": [
+     "18",
+     "20",
+     "23"
+    ],
+    "answer": "20",
+    "why": "20 yaş 68 gün - yeni rekord."
+   },
+   {
+    "q": "Ən gənc çempion rekordu əvvəl kimin idi?",
+    "options": [
+     "Sebastyan Fettelin",
+     "Lüis Həmiltonun",
+     "Maks Ferstappenin"
+    ],
+    "answer": "Sebastyan Fettelin",
+    "why": "2010-cu ildə, 23 yaşında."
+   },
+   {
+    "q": "İtaliyanın əvvəlki dünya çempionu neçənci ildə olmuşdu?",
+    "options": [
+     "1953",
+     "1978",
+     "1999"
+    ],
+    "answer": "1953",
+    "why": "Alberto Askari."
+   }
+  ],
+  "sources": [
+   "https://www.formula1.com/en/latest/article/antonelli-crowned-youngest-ever-f1-champion-as-verstappen-wins-eventful-mexico-city-grand-prix.xpMMeef0KmRURs9IDs3LH",
+   "https://www.autosport.com/f1/news/f1-mexico-gp-kimi-antonelli-clinches-world-title-as-max-verstappen-holds-off-lewis-hamilton-for-vic/10870724/",
+   "https://www.skysports.com/f1/news/13601049/kimi-antonelli-how-formula-1s-newest-world-champion-has-rewritten-the-record-books-at-barely-20-years-of-age",
+   "https://www.timesleader.com/sports/1764141/antonelli-becomes-youngest-f1-champion-in-history-at-age-20",
+   "https://www.motorsportweek.com/2026/11/01/kimi-antonelli-crowned-youngest-f1-champion-in-mexico-city/",
+   "https://en.wikipedia.org/wiki/Kimi_Antonelli"
+  ],
+  "verify_note": "Youngest champion + 3rd place + Verstappen win + Hamilton 2nd: F1.com, Autosport, Motorsport Week, RACER headline. 20 y 68 d and Vettel 23 y 134 d: Sky table (consistent with Wikipedia birthdate 25 Aug 2006 -> 1 Nov 2026 = 20 y 68 d, our arithmetic). Ascari 1953: AP + Sky + Wikipedia. 9 wins: Sky + Wikipedia. 'Second season': Motorsport Week + Sky + Wikipedia (debut 2025). 'Dünən gecə' is correct for the 18:30 post on 2 Nov (race ended ~02:20 Baku 2 Nov - strictly 'bu gecə'; 'dünən gecə' is how people say it the next evening). Re-check at 15:23 nothing changed (penalties/appeals).",
+  "photo": {
+   "path": "fetch/img/2026-11-02_T_antonelli.jpg",
+   "credit": "Yu Chu Chin / Wikimedia Commons (CC BY-SA 4.0)",
+   "cy": 0.45,
+   "full": true,
+   "source": "https://commons.wikimedia.org/wiki/File:Kimi_Antonelli_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_(028A7923)_cropped.jpg",
+   "note": "close portrait, Mercedes cap, Melbourne 2026; checked full size: no watermark. Face centre y≈0.6 -> hook box at top may touch cap only. Alt fetch/img/2026-11-02_T_antonelli2.jpg rejected (big Heineken ad = alcohol)."
+  }
+ },
+ "trend_check_morning": "2026-11-02 09:10-10:30 Baku: world headline searches + AZ news + F1. Big story for our audience = Antonelli youngest-ever F1 champion (Mexico GP, 1 Nov, race ended ~02:20 Baku). US-Iran/Hormuz ongoing (no new single event, tragedy rules); US midterms Tue 3 Nov (planned for results day 4 Nov, neutral). No AZ story needing an immediate swap. TODAY'S TREND = Antonelli; swap into 18:30 at 15:23 on IG + TikTok + YouTube (update existing posts, no duplicates). Akashi backup goes back to the backlog."
 }

@@ -512,6 +512,11 @@ small data-backed changes here; recommend bigger ones (times, volume, format mix
 - Future test (Gartal's idea): HeyGen digital-twin reels in his voice — free-plan test first, label as AI.
 
 ## Rules
+- NEVER SAY "I CAN'T" FIRST (Gartal, 2026-11-02: "you never tell me we can install the skills, add the plugins…
+  we could have done that a week earlier"). Before answering "can we do X?" with no/limited: run SearchPlugins,
+  SearchSkills and SearchMcpRegistry for X, and propose what would unlock it (with cost and risk). Also, once a
+  week (Sunday review), search the catalog for new tools for our weak spots (animation, design, voice, growth)
+  and suggest the best 1–3. Read any third-party skill before using it.
 - DATA BEFORE DECISIONS (Gartal, 2026-10-18): Instagram numbers keep growing for days after a post, and
   Metricool syncs late. Only judge a post once it is ≥ 3 days old. Make no sharp format/volume/time/topic-mix
   change until there are ≥ 2 full weeks of data and ≥ 5 posts in each group being compared; before that,

@@ -1,6 +1,6 @@
 {
  "date": "2026-11-03",
- "status": "planned",
+ "status": "scheduled",
  "format": "v2",
  "content_format": "v4",
  "planned_note": "Planned in the 2026-11-02 09:10 run (format v4). 10:00 TBG carousel = Chevrolet company founded 3 Nov 1911 (Louis Chevrolet sold his share in 1915, came back as an employee in 1936). 13:00 AZ reel (VOICED, split kept until the 8 Nov voice decision) = Maiden Tower: 5 m walls, built on a rock sloping to the sea, buttress, on the 10-manat note. 16:00 reel (SILENT) = Olympus Mons 26 km, ~3x Everest. 18:30 trend backup reel (SILENT) = Burj Khalifa 244 m vanity height. 21:30 reel (VOICED) = Angel Falls 979 m + Jimmie Angel's plane stuck, 11-day walk. Tue = normal day (two-part stories are Wed + Sat). US midterms are today in the US: results trend planned for 4 Nov (neutral). All photos fetched from Commons/Unsplash and checked.",
@@ -407,5 +407,53 @@
    "image": "out/2026-11-03/q2.jpg",
    "answer_image": "out/2026-11-03/q2_a.jpg"
   }
- ]
+ ],
+ "metricool": {
+  "10:00 tarixdə bu gün carousel (Chevrolet 1911)": 414292218,
+  "10:00 tarixdə bu gün story": 414292244,
+  "11:00 quiz q1 (recall Modric)": 414294784,
+  "11:10 answer a1": 414294825,
+  "13:00 reel (Maiden Tower, voiced)": 414292275,
+  "14:00 quiz q2 (Maiden Tower)": 414294876,
+  "14:10 answer a2": 414294933,
+  "16:00 reel (Olympus Mons, silent)": 414293227,
+  "18:30 reel (Burj Khalifa backup, silent)": 414293335,
+  "21:30 reel (Angel Falls, voiced)": 414294648
+ },
+ "tiktok": {
+  "11:00 REPOST 2026-10-19 n4 Voyager (safe layout)": 414294970,
+  "13:00 Maiden Tower": 414292310,
+  "16:00 Olympus Mons": 414293273,
+  "18:30 Burj Khalifa": 414293375,
+  "19:45 REPOST 2026-10-17 n3 Greenland shark (safe layout)": 414295046,
+  "21:30 Angel Falls": 414294698
+ },
+ "youtube": {
+  "11:00 REPOST Voyager": 414295004,
+  "13:00 Maiden Tower": 414292345,
+  "16:00 Olympus Mons": 414293300,
+  "18:30 Burj Khalifa": 414293402,
+  "19:45 REPOST shark": 414295067,
+  "21:30 Angel Falls": 414294749
+ },
+ "built": {
+  "when": "2026-11-02 ~21:30 Asia/Baku",
+  "checked": "5 carousel slides, tbg story, 2 quiz + 2 answer stories, 5 frames per reel (4 reels + 2 repost renders) viewed; no overflow, no watermark.",
+  "reel_seconds": {
+   "1": 32.3,
+   "2": 20.7,
+   "3": 23.4,
+   "4": 37.3
+  },
+  "voice": "Banu +15% on reels 1 and 4 (AI labels on IG/TikTok/YouTube); reels 2 and 3 silent",
+  "notes": [
+   "reel 2 beats 1+3 and reel 3 beat 2 shortened so the last beat clears the follow pill / stays above y~1450",
+   "hook_bg on all reels"
+  ]
+ },
+ "language_fix": "2026-11-02 evening: shortened reel 2 beats 1 and 3, reel 3 beat 2 (safe zone); shark repost '~' replaced with 'təxminən'.",
+ "reposts": "Next in line after 2 Nov (silent, never cross-posted, no known error): 19 Oct Voyager 172 IG views (11:00), 17 Oct Greenland shark 171 (19:45; hook upper-cased, '~' removed, caption hook made number-first). Next: Pluto 164 (20 Oct n4), godwit 159 (19 Oct n1).",
+ "trend_check_evening": "2026-11-02 ~21:25 Baku: news searches returned no new dominant story (Antonelli champion already used today; US midterms 3 Nov -> results trend planned for 4 Nov). No swap for 3 Nov; 18:30 = Burj Khalifa backup, the 09:10/15:23 runs pick the trend.",
+ "scheduled_check": "getScheduledPosts 3 Nov before scheduling: 0 posts. After: 22 posts (IG 10 incl. 5 stories, TikTok 6, YouTube 6), each network/time exactly once.",
+ "pending_schedule": []
 }

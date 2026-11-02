@@ -500,7 +500,7 @@ small data-backed changes here; recommend bigger ones (times, volume, format mix
   liked all 3 Kokoro voices (free, Apache-2.0; models in /home/claude/kokoro from GitHub kokoro-onnx) — decide with him later.
 - Whyverse Metricool brand id 7816628 (IG whyverse___, TikTok Whyverse — fixed 2026-11-02 14:14, YouTube
   UCTWyyqP6HJP64E7fA7QphGg). Daily tasks never post there; nothing goes there until Gartal approves the first English video.
-- NIGHT ANIMATION (from 2026-11-03): scheduled task "Whyverse – night animation (8–10 min)" Tue/Thu/Sat 01:17 Baku
+- NIGHT ANIMATION (from 2026-11-03): scheduled task "Whyverse – night animation (8–10 min)" Tue/Thu/Sat 00:23 Baku
   (trig_01TUDTpcqSzrr5a1LFDuj9RM). Plan + topic queue: whyverse/PLAN.md; Gartal's notes: whyverse/FEEDBACK.md. Review only, never posted.
 - Prepare cheaply now: build animations so text + voice are swappable (one scene, two languages);
   prefer universal topics (space, records, history wow) for animated pieces; keep EN renders of good ones.

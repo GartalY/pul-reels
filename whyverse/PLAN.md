@@ -37,6 +37,10 @@ review-and-gotchas.md) before building. Plan per topic:
 4. Earth stops spinning → stickman / 'chalk' explainer.
 5. Sleep → 'watercolor' with characters.
 6. World's worth → 'flat' infographic, maps, counters.
+REAL FOOTAGE (idea from Gartal's OpenMontage reel, 2026-11-02): space episodes may mix in short public-domain
+NASA clips/photos (images.nasa.gov; NASA media is generally not copyrighted — follow its media guidelines, no
+NASA logo/endorsement). Wikimedia/Archive only with a checked licence + credit in NOTES.md. Animation stays
+the main look — footage is seasoning, never a stitched stock-clip video (mass-produced-content risk).
 Record the style used in each NOTES.md; FEEDBACK.md decides which styles win.
 
 ## Topic queue (take the first one not done; Gartal may reorder)

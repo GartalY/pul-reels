@@ -517,6 +517,20 @@ small data-backed changes here; recommend bigger ones (times, volume, format mix
   SearchSkills and SearchMcpRegistry for X, and propose what would unlock it (with cost and risk). Also, once a
   week (Sunday review), search the catalog for new tools for our weak spots (animation, design, voice, growth)
   and suggest the best 1–3. Read any third-party skill before using it.
+- INSTALLED SKILLS — USE THEM (Gartal installed Social Media Skills 2026-11-02; read, safe, playbooks only).
+  Ignore their "publish via WoopSocial" parts: we publish via Metricool. Wiring:
+  - Evening build (B): before writing each reel's hook, load `social-media-skills:hook-writer`; for the reel
+    as a whole, `social-media-skills:youtube-shorts` (write backwards from the swipe: first frame + on-screen
+    text readable on mute, aim <30 s, intentional loop) and `instagram-growth` (make it SEND-worthy).
+  - Sunday 10:00 list carousel: `social-media-skills:carousel-writer` (cover = hook + promise, 1 idea/slide).
+  - Weekly review: `instagram-growth` diagnosis (reach → follow-conversion → sends → sustainability) and
+    track SENDS-PER-REACH (shares ÷ reach, target >1–2%) as the main IG signal, plus YouTube "viewed vs
+    swiped away" — not follower count.
+  - Trend days: `social-media-skills:trend-jacking`.
+- TubeAlfred YouTube (installed 2026-11-02): connector needs OAuth sign-in; free tier = 50 credits for
+  14 days, comment reads cost ≥20 credits each. Use only for 1–2 competitor/keyword studies, never in daily runs.
+- instagram plugin (installed 2026-11-02): NOT usable here — needs a Meta developer app, a Graph API token
+  and a permanent public webhook server; our sessions are temporary cloud containers. Don't plan on it.
 - DATA BEFORE DECISIONS (Gartal, 2026-10-18): Instagram numbers keep growing for days after a post, and
   Metricool syncs late. Only judge a post once it is ≥ 3 days old. Make no sharp format/volume/time/topic-mix
   change until there are ≥ 2 full weeks of data and ≥ 5 posts in each group being compared; before that,

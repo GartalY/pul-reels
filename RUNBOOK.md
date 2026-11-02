@@ -491,6 +491,13 @@ small data-backed changes here; recommend bigger ones (times, volume, format mix
   confirmed vs rumour · meaning for us). Apply a small RUNBOOK change only when a confirmed change matches our data.
 - TikTok/YouTube outlier analysis started 2026-11-01 (≥ 10 videos ≥ 72 h old); same rules, per platform median views.
 
+## LONG-TERM VISION (Gartal, 2026-11-02) — keep in mind, don't start without him
+- Azerbaijani page stays and keeps growing: it's the money side. English brand runs ALONGSIDE it later, never instead.
+- When we've learned views/animation/followers on AZ: English brand = 10–15 min animated YouTube videos,
+  cut into Shorts/TikTok/Reels, plus native 25–30 s animated reels for IG/TikTok/Shorts.
+- Prepare cheaply now: build animations so text + voice are swappable (one scene, two languages);
+  prefer universal topics (space, records, history wow) for animated pieces; keep EN renders of good ones.
+
 ## Roadmap (updated 2026-10-25)
 - NO PAID PROMOTION (Gartal, 2026-10-25: budget is tight). Don't propose boosts/ads; grow organically only.
 - TURKISH PAGE: Gartal left the decision to Claude (2026-10-25). Decision: POSTPONED. Revisit in the weekly

@@ -14,7 +14,7 @@ everything you got". Use the whole night; deliver by ~09:00 Baku. Quality over s
   (whyverse/brand/). Look: the Moon animation-studio test Gartal loved (prototypes/anim_studio_moon) —
   flat but rich, lots of motion, numbers that count up, maps, diagrams, every sound synced to the visuals.
 - Built with the animation-studio skill (one score.js timeline for picture + sound). Voice: Kokoro
-  (free, Apache-2.0, kokoro-onnx models from GitHub). VOICE IS PARKED: use `am_michael` as a placeholder;
+  (free, Apache-2.0, kokoro-onnx models from GitHub). VOICE: `am_michael` (American male) — Gartal chose it for now on 2026-11-02;
   Gartal liked all 3 test voices and will decide later.
 - Music bed and SFX at least 20 dB under the voice (Gartal: Caspian water SFX was "too loud").
 - No burned-in subtitles in the 16:9 master; write an .srt next to it.

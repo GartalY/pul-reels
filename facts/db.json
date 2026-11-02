@@ -3042,6 +3042,172 @@
      "why": "Messi–Ronaldo növbəsini qırdı."
     }
    ],
+   "asked": [
+    {
+     "date": "2026-11-03",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-1",
+   "date": "2026-11-03",
+   "subject": "Maiden Tower (Qız qalası), Baku: 8 floors (Wikipedia; icherisheher.gov.az 'divided into 8 floors'); height 29.5 m (Wikipedia; Coin World '97-foot'); icherisheher.gov.az: 31 m north, 28 m south -> 'təxminən 30 metr'. Base diameter 16.5 m (both). Walls 5 m thick at base (both; top 3.2-4.5 m). 1962-63 excavations: built on a large rock sloping toward the sea; the buttress projecting from the tower gives stability (Wikipedia + icherisheher.gov.az). Water well inside (0.7 m wide; Wikipedia 21 m deep vs icherisheher 13 m -> no depth given). Mostly 12th century per Wikipedia (dating disputed, older theories). On the 10-manat note: front shows Old Baku, Shirvanshahs' Palace and Maiden Tower (BanknoteWorld P-27 2005; Coin World 2022 new design; Wikipedia).",
+   "cat": "Azərbaycan",
+   "quizzes": [
+    {
+     "q": "Qız qalası neçə mərtəbəlidir?",
+     "options": [
+      "5",
+      "8",
+      "12"
+     ],
+     "answer": "8",
+     "why": "Hündürlüyü təxminən 30 metrdir."
+    },
+    {
+     "q": "Qalanın divarları aşağıda nə qədər qalındır?",
+     "options": [
+      "1 metr",
+      "3 metr",
+      "5 metr"
+     ],
+     "answer": "5 metr",
+     "why": "Yuxarıda isə daha nazikdir."
+    },
+    {
+     "q": "Qız qalası hansı əskinasın üstündədir?",
+     "options": [
+      "1 manat",
+      "10 manat",
+      "50 manat"
+     ],
+     "answer": "10 manat",
+     "why": "Şirvanşahlar sarayı ilə birlikdə."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-11-03",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-2",
+   "date": "2026-11-03",
+   "subject": "Olympus Mons, Mars: 26 km above the surrounding plains, 'three times taller than Mt. Everest' (NASA JPL PIA23928, 2020); EBSCO 25.7 km, 'nearly three times'; Wikipedia: 21.3 km above Mars datum (MOLA), ~26 km from Amazonis plains. Width 585 km (JPL) / ~600 km (EBSCO, Wikipedia), wider than Arizona (JPL). Area ~300 000 km2 ≈ Italy (Wikipedia). Basal cliff up to 8 km (Wikipedia; EBSCO 9.7 km). Slopes only 2-5 degrees (JPL). Curvature of Mars + the volcano hide the whole view from the surface (Wikipedia). Tallest volcano in the solar system (JPL).",
+   "cat": "Kosmos",
+   "quizzes": [
+    {
+     "q": "Olimp dağı hansı planetdədir?",
+     "options": [
+      "Venerada",
+      "Marsda",
+      "Merkuridə"
+     ],
+     "answer": "Marsda",
+     "why": "Günəş sistemindəki ən hündür vulkan."
+    },
+    {
+     "q": "Olimp dağı düzənlikdən nə qədər yüksəlir?",
+     "options": [
+      "9 km",
+      "16 km",
+      "26 km"
+     ],
+     "answer": "26 km",
+     "why": "NASA-ya görə."
+    },
+    {
+     "q": "Olimp dağının sahəsi hansı ölkə boydadır?",
+     "options": [
+      "Lüksemburq",
+      "İtaliya",
+      "Rusiya"
+     ],
+     "answer": "İtaliya",
+     "why": "Təxminən 300 000 km²."
+    }
+   ],
+   "asked": []
+  },
+  {
+   "id": "2026-11-03-3",
+   "date": "2026-11-03",
+   "subject": "Burj Khalifa, Dubai: 828 m tall; highest occupiable floor 585 m; the top 244 m (29%) is 'vanity height' - unusable spire (CTBUH 2013 study via Reuters/VOA 5 Sep 2013; Gulf News; Wikipedia Vanity height + Burj Khalifa). The 244 m alone 'would rank on its own as the 11th tallest building in Europe' (Reuters/VOA 2013; Gulf News). Even without the vanity height it would still be the world's tallest by highest occupied floor (CTBUH's Daniel Safarik in Gulf News; Wikipedia: by ~2 m over Shanghai Tower). Spire >4 000 t of steel (Wikipedia). Opened 4 Jan 2010 (Wikipedia). Highest UAE share: Burj Al Arab 38.5% (Gulf News) - not used.",
+   "cat": "Coğrafiya",
+   "quizzes": [
+    {
+     "q": "Bürc Xəlifənin hündürlüyü nə qədərdir?",
+     "options": [
+      "628 metr",
+      "828 metr",
+      "1 028 metr"
+     ],
+     "answer": "828 metr",
+     "why": "Dünyanın ən hündür binası."
+    },
+    {
+     "q": "Binanın yuxarıdakı boş hissəsi neçə metrdir?",
+     "options": [
+      "44 metr",
+      "144 metr",
+      "244 metr"
+     ],
+     "answer": "244 metr",
+     "why": "Hündürlüyün 29 faizi."
+    },
+    {
+     "q": "Ən yuxarı istifadə olunan mərtəbə neçə metrdədir?",
+     "options": [
+      "385 metr",
+      "585 metr",
+      "785 metr"
+     ],
+     "answer": "585 metr",
+     "why": "Ondan yuxarısı şpildir."
+    }
+   ],
+   "asked": []
+  },
+  {
+   "id": "2026-11-03-4",
+   "date": "2026-11-03",
+   "subject": "Angel Falls, Venezuela: total height 979 m, longest drop 807 m; world's tallest uninterrupted waterfall (some uncertainty vs Tugela) (Wikipedia). Named after US aviator Jimmie Angel, first to fly over it in Nov 1933 (Wikipedia 16 Nov; Linda Hall 18 Nov -> no day). 9 Oct 1937 he landed his monoplane 'El Río Caroní' on top of Auyán-tepui; wheels sank in marshy ground/soft mud; he, his wife Marie and two companions walked down; took 11 days (Wikipedia + Linda Hall). Plane stayed on top 33 years, lifted by helicopter (1970, Linda Hall), now outside Ciudad Bolívar airport (Wikipedia + Linda Hall). Height surveyed 1949 (Ruth Robertson expedition, Wikipedia). Pemon name Kerepakupai Vená (Wikipedia).",
+   "cat": "Təbiət",
+   "quizzes": [
+    {
+     "q": "Anxel şəlaləsi hansı ölkədədir?",
+     "options": [
+      "Braziliyada",
+      "Venesuelada",
+      "Peruda"
+     ],
+     "answer": "Venesuelada",
+     "why": "Auyan-tepui dağında."
+    },
+    {
+     "q": "Pilot və yoldaşları aşağı neçə gün piyada endilər?",
+     "options": [
+      "3 gün",
+      "11 gün",
+      "30 gün"
+     ],
+     "answer": "11 gün",
+     "why": "1937-ci ildə."
+    },
+    {
+     "q": "Pilotun təyyarəsi dağın üstündə neçə il qaldı?",
+     "options": [
+      "3 il",
+      "13 il",
+      "33 il"
+     ],
+     "answer": "33 il",
+     "why": "Sonra vertolyotla endirildi."
+    }
+   ],
    "asked": []
   }
  ]

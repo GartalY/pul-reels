@@ -287,3 +287,17 @@ search_1102_modric.json https://commons.wikimedia.org/w/api.php?action=query&for
 2026-11-02_3_akashi2.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Akashi_Bridge.JPG/1920px-Akashi_Bridge.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 2026-11-02_4_modric.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Luka_Modric_Croatia_v_Portugal_2_July_2026-177.jpg/1920px-Luka_Modric_Croatia_v_Portugal_2_July_2026-177.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 2026-11-02_4_modric2.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Luka_Modric_Croatia_v_Portugal_2_July_2026-055.jpg/1920px-Luka_Modric_Croatia_v_Portugal_2_July_2026-055.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+2026-11-02_wiki_maiden.json https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts&explaintext=1&redirects=1&titles=Maiden_Tower_%28Baku%29
+2026-11-02_wiki_olympus.json https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts&explaintext=1&redirects=1&titles=Olympus_Mons
+2026-11-02_wiki_mariner10.json https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts&explaintext=1&redirects=1&titles=Mariner_10
+2026-11-02_wiki_nov3.json https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts&explaintext=1&redirects=1&titles=November_3
+2026-11-02_wiki_burj.json https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts&explaintext=1&redirects=1&titles=Burj_Khalifa
+2026-11-02_wiki_antonelli.json https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts&explaintext=1&redirects=1&titles=Kimi_Antonelli
+2026-11-02_wiki_angel.json https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts&explaintext=1&redirects=1&titles=Angel_Falls
+2026-11-03_search_antonelli.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Kimi%20Antonelli
+2026-11-03_search_antonelli2.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Antonelli%20Mercedes%202026
+2026-11-03_search_maiden.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Maiden%20Tower%20Baku
+2026-11-03_search_olympus.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Olympus%20Mons
+2026-11-03_search_burj.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Burj%20Khalifa
+2026-11-03_search_angel.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Angel%20Falls
+2026-11-03_search_mariner.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Mariner%2010

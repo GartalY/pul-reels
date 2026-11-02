@@ -498,6 +498,9 @@ small data-backed changes here; recommend bigger ones (times, volume, format mix
 - ENGLISH CHANNEL GO (Gartal 2026-11-02): starting now as a 4-video test; format = broad "Why…?/What if…?" big-question
   explainers, 8–12 min + 4–6 Shorts cut from each. Metricool Starter has room (5 brands). Voice PARKED: Gartal
   liked all 3 Kokoro voices (free, Apache-2.0; models in /home/claude/kokoro from GitHub kokoro-onnx) — decide with him later.
+- Whyverse Metricool brand id 7816628 (IG whyverse___, YouTube UCTWyyqP6HJP64E7fA7QphGg). 2026-11-02: its TikTok
+  slot is WRONGLY linked to bilirdinizmi_az — daily tasks must NEVER post to brand 7816628; nothing goes there
+  until Gartal approves the first English video.
 - Prepare cheaply now: build animations so text + voice are swappable (one scene, two languages);
   prefer universal topics (space, records, history wow) for animated pieces; keep EN renders of good ones.
 

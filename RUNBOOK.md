@@ -495,6 +495,9 @@ small data-backed changes here; recommend bigger ones (times, volume, format mix
 - Azerbaijani page stays and keeps growing: it's the money side. English brand runs ALONGSIDE it later, never instead.
 - When we've learned views/animation/followers on AZ: English brand = 10–15 min animated YouTube videos,
   cut into Shorts/TikTok/Reels, plus native 25–30 s animated reels for IG/TikTok/Shorts.
+- ENGLISH CHANNEL GO (Gartal 2026-11-02): starting now as a 4-video test; format = broad "Why…?/What if…?" big-question
+  explainers, 8–12 min + 4–6 Shorts cut from each. Metricool Starter has room (5 brands). Voice PARKED: Gartal
+  liked all 3 Kokoro voices (free, Apache-2.0; models in /home/claude/kokoro from GitHub kokoro-onnx) — decide with him later.
 - Prepare cheaply now: build animations so text + voice are swappable (one scene, two languages);
   prefer universal topics (space, records, history wow) for animated pieces; keep EN renders of good ones.
 

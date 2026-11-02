@@ -58,8 +58,8 @@ Why: after 18 days IG has 45 followers (~3 follows per 1 000 viewers), TikTok 1 
    counters, camera moves, map/data cards) instead of the static photo template, same safe zone and length ≤ 25 s.
    If one night's build fails, ship the static version and say so. Compare 16:00 motion vs the static 16:00 median at
    the 15 Nov review; if better → roll out to more slots.
-5. **TURKISH PAGE: POSTPONED** until the AZ page grows on its own (≥ 150 IG followers or ≥ 5 follows per 1 000 views).
-   Not on 9 Nov.
+5. **TURKISH PAGE: PARKED (Gartal 2026-11-03).** Order of language pages = AZ (now) → ENGLISH (Whyverse, test running)
+   → Turkish only after the English page runs well. No Turkish decision on 9 Nov or in the weekly reviews.
 6. **HONEST REPORTS:** the daily message part 3 always contains one plain line on what is NOT working right now
    (e.g. "TikTok still shows almost nothing"). No "taking off" wording unless the numbers clearly show it.
 
@@ -155,7 +155,7 @@ Why: after 18 days IG has 45 followers (~3 follows per 1 000 viewers), TikTok 1 
 - **TREND SWAP ON 3 PLATFORMS (2026-10-27 lesson):** when the 15:23 swap re-uploads a video, UPDATE (or delete while still pending) the existing TikTok AND YouTube posts for that slot — never add a second one. On 27 Oct the old YouTube Osimhen post (407710581) stayed and both Shorts went live at 18:30.
 - **DAILY REPORT FORMAT (Gartal, 2026-10-28: reports were too complicated):** the message to Gartal is short and in plain words, 4 parts only: (1) followers on IG/TikTok/YouTube + change vs yesterday, (2) our best video and how it changed, (3) strategy changes expected soon, (4) next steps — small for tomorrow, bigger for the coming days. No big tables or metric jargon. The full detailed tables still go into reports/YYYY-MM-DD.md for the weekly review.
 - **NO FACEBOOK (Gartal, 2026-10-27):** the connected Facebook page is NOT used — never add the facebook provider.
-  Platforms = Instagram + TikTok + YouTube Shorts only. Language pages: TR (~9 Nov if growth holds), then RU (~Dec), then EN (~Jan).
+  Platforms = Instagram + TikTok + YouTube Shorts only. Language pages (Gartal 2026-11-03): ENGLISH first (Whyverse), Turkish PARKED until after English; RU not planned.
 - **LONG VIDEOS v2 (Gartal approved 2026-10-27):** TWO long YouTube videos a week (type "video"), rendered with
   `longform.py` (native 16:9, smooth sub-pixel Ken Burns, chapter cards, subtitles, Banu narration → AI label ON).
   Topics are standalone STORIES with a curiosity question, NOT lists and NOT tied to the page's daily facts:
@@ -189,7 +189,7 @@ Why: after 18 days IG has 45 followers (~3 follows per 1 000 viewers), TikTok 1 
   Metricool as soon as Gartal connects the accounts (same video, same caption; YouTube needs title ≤ 100 chars,
   type "short", madeForKids false, isAiGeneratedContent = voiced; TikTok isAigc = voiced). 2) ~9 Nov, only if
   the 1 Nov review shows the AZ page still growing: second brand = TURKISH facts page, same pipeline.
-  3) English page: December at the earliest, after the Turkish page runs on its own.
+  3) English page. (SUPERSEDED 2026-11-03: English comes BEFORE Turkish; Turkish is parked.)
 - **AI LABEL ON VOICED REELS (decided 2026-10-26):** every reel with a synthetic voice-over is scheduled with
   `instagramData.isAiGenerated: true` (Meta asks creators to disclose realistic-sounding AI audio; the label is
   honest and avoids any policy risk). Silent reels keep `false`. Never imitate a real person's voice.
@@ -539,7 +539,7 @@ small data-backed changes here; recommend bigger ones (times, volume, format mix
 
 ## Roadmap (updated 2026-10-25)
 - NO PAID PROMOTION (Gartal, 2026-10-25: budget is tight). Don't propose boosts/ads; grow organically only.
-- TURKISH PAGE: Gartal left the decision to Claude (2026-10-25). Decision: POSTPONED. Revisit in the weekly
+- TURKISH PAGE: PARKED by Gartal 2026-11-03 — comes AFTER the English page; do not revisit on 15 Nov. (Old note: revisit in the weekly
   review of 2026-11-15 and launch only if the AZ page reaches ~150 followers OR ≥ 5 follows per 1 000 reach for
   2 weeks in a row — copying a system that doesn't convert yet would just double the work.
 - HEYGEN avatar reels: the free plan gives only ~3 videos a month, so it can't be a regular slot. Use it as a

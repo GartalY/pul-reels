@@ -8,7 +8,8 @@ status: DONE (night run 2026-11-03, for Gartal's review — NOT posted or schedu
   (shopping basket, waving, worried eyes, a 3× "blueprint" close-up). Plus `Ch.person` farmers and a beekeeper,
   `Data.map` maps (China, USA), counters, bars, donuts, line chart and a lot of hand-made paper props (film/lib.js).
 - **Voice:** Kokoro v1.0 int8, `af_heart`, en-us, one wav per line (74 lines, 1,247 words, 435 s of speech).
-- **Length:** 8:19 (499.5 s), 1920×1080, 30 fps. Final file: `out/ep01_bees.mp4` (not in git). Soft subtitles: `ep01_bees.srt`.
+- **Length:** 8:19 (499.5 s), 1920×1080, 30 fps, H.264 CRF 27 + AAC 160k, 92 MB, −14.0 LUFS. Final file: `film/out/ep01_bees.mp4` (not in git). Subtitles: `ep01_bees.srt` (224 cues, no burned-in subs).
+- **Render:** 14,985 frames rendered twice (v1 for review, v2 after fixing what the v1 contact sheets showed), ~70 min each on 2 CPUs.
 - **Sound:** one score timeline: every visual hit is a named event in film/events.js, read by both film (ch*.js) and
   song.js. Music bed (chapter moods: music box / marimba / guitar / e-piano, pads, bass, light shaker) is
   ducked under the voice and levelled to −23 dB vs the voice; sound effects are levelled to −20 dB vs the voice
@@ -50,6 +51,11 @@ status: DONE (night run 2026-11-03, for Gartal's review — NOT posted or schedu
 4. 4:11.1–4:58.4 — "Almost every beehive in America drives to one valley." (almonds, 2.7 M colonies)
 5. 6:20.4–6:38.3 — "Chocolate doesn't need bees." (midges)
 6. 5:44.9–6:16.2 — "Poor pollination is already linked to 427,000 deaths a year." (needs the 2015/2022 caveat line)
+
+## Verify (skill's sound ±20 ms / picture ±1 frame check on the final mp4)
+- Title stamps: picture +1 frame on all 5 ✓; sound: 2 ✓, 1 ✗ (+95 ms: the brass stab's attack is softer than its body), 2 "?" (stamp and brass onsets too close to tell apart). Same event time drives both, so this is attack shape, not drift.
+- Picture-only hits: NOW ✓; NEVER SAID IT +2 f and the logo +2 f (both scale in over ~0.15 s); the Moon "pop" +7 f (it fades out over 0.25 s). Visible, not out of sync — the hit animates in.
+- The audio was checked by measurement (levels, LUFS, true peak), not by listening.
 
 ## Known weak spots
 - Food/props are flat icons; some shots (weight bar, farm-gate prices, clock) start with 1–2 s before their main element lands.

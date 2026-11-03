@@ -90,3 +90,12 @@ https://www.youtube.com/channel/UCTWyyqP6HJP64E7fA7QphGg
   Reels + YouTube Shorts (Gartal agreed to Shorts too), 20:00 Europe/London. Own topic (trend if any), own style.
 - Log every post (network, time, Metricool id, media URL) in whyverse/posts.json.
 - First data check after ~2 weeks: compare slots/topics with Metricool analytics and adjust (say so in NOTES).
+
+## AZERBAIJANI VERSIONS (Gartal 2026-11-03)
+- Free Azerbaijani TTS voices (Banu, Babək) tested on the bees opening: Gartal "it is so bad" → never use TTS here.
+- Gartal records the Azerbaijani voice himself. Every WEEKEND Claude sends him the Azerbaijani scripts of that
+  week's Whyverse episodes (natural, spoken Azerbaijani per RUNBOOK section L; short numbered paragraphs, one
+  recording file per paragraph, numbers written as words). He records, sends back; Claude re-times each episode's
+  score to his paragraph durations, translates ALL on-screen text/labels/counters to Azerbaijani, renders, and
+  posts on bilirdinizmi_az: long video on its YouTube + Azerbaijani Shorts on IG/TikTok/YouTube (burned captions).
+- First batch: weekend 7–8 Nov — ep01 bees, ep02, ep03.

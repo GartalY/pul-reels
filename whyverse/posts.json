@@ -1,1 +1,135 @@
-{"posts": []}
+{
+ "brand": 7816628,
+ "note": "Metricool copies media to its own storage when a post is created, so whyverse-media files are only needed at scheduling time.",
+ "posts": [
+  {
+   "episode": "ep01_bees",
+   "kind": "long",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/ep01_bees.mp4",
+   "time_london": "2026-11-03T19:00",
+   "network": "youtube",
+   "metricool_id": 414920632,
+   "title": "What If Every Bee Disappeared? (Einstein Never Said This)"
+  },
+  {
+   "episode": "ep01_bees",
+   "kind": "short",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s1_einstein.mp4",
+   "time_london": "2026-11-04T17:00",
+   "network": "youtube",
+   "metricool_id": 414920937
+  },
+  {
+   "episode": "ep01_bees",
+   "kind": "short",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s1_einstein.mp4",
+   "time_london": "2026-11-04T17:00",
+   "network": "instagram",
+   "metricool_id": 414920947
+  },
+  {
+   "episode": "ep01_bees",
+   "kind": "short",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s1_einstein.mp4",
+   "time_london": "2026-11-04T17:00",
+   "network": "tiktok",
+   "metricool_id": 414921239
+  },
+  {
+   "episode": "ep01_bees",
+   "kind": "short",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s2_colour.mp4",
+   "time_london": "2026-11-04T23:00",
+   "network": "youtube",
+   "metricool_id": 414921276
+  },
+  {
+   "episode": "ep01_bees",
+   "kind": "short",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s2_colour.mp4",
+   "time_london": "2026-11-04T23:00",
+   "network": "instagram",
+   "metricool_id": 414921296
+  },
+  {
+   "episode": "ep01_bees",
+   "kind": "short",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s2_colour.mp4",
+   "time_london": "2026-11-04T23:00",
+   "network": "tiktok",
+   "metricool_id": 414921318
+  },
+  {
+   "episode": "ep01_bees",
+   "kind": "short",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s3_maoxian.mp4",
+   "time_london": "2026-11-05T17:00",
+   "network": "youtube",
+   "metricool_id": 414921745
+  },
+  {
+   "episode": "ep01_bees",
+   "kind": "short",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s3_maoxian.mp4",
+   "time_london": "2026-11-05T17:00",
+   "network": "instagram",
+   "metricool_id": 414921754
+  },
+  {
+   "episode": "ep01_bees",
+   "kind": "short",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s3_maoxian.mp4",
+   "time_london": "2026-11-05T17:00",
+   "network": "tiktok",
+   "metricool_id": 414921762
+  },
+  {
+   "episode": "ep01_bees",
+   "kind": "short",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s4_almonds.mp4",
+   "time_london": "2026-11-05T23:00",
+   "network": "youtube",
+   "metricool_id": 414921786
+  },
+  {
+   "episode": "ep01_bees",
+   "kind": "short",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s4_almonds.mp4",
+   "time_london": "2026-11-05T23:00",
+   "network": "instagram",
+   "metricool_id": 414921795
+  },
+  {
+   "episode": "ep01_bees",
+   "kind": "short",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s4_almonds.mp4",
+   "time_london": "2026-11-05T23:00",
+   "network": "tiktok",
+   "metricool_id": 414921805
+  },
+  {
+   "episode": "ep01_bees",
+   "kind": "short",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s5_chocolate.mp4",
+   "time_london": "2026-11-06T17:00",
+   "network": "youtube",
+   "metricool_id": 414921816
+  },
+  {
+   "episode": "ep01_bees",
+   "kind": "short",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s5_chocolate.mp4",
+   "time_london": "2026-11-06T17:00",
+   "network": "instagram",
+   "metricool_id": 414921824
+  },
+  {
+   "episode": "ep01_bees",
+   "kind": "short",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s5_chocolate.mp4",
+   "time_london": "2026-11-06T17:00",
+   "network": "tiktok",
+   "metricool_id": 414921836
+  }
+ ]
+}

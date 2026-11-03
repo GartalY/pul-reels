@@ -1,6 +1,9 @@
 # Ep01 — What if every bee disappeared? — NOTES
 
-status: DONE (night run 2026-11-03, for Gartal's review — NOT posted or scheduled anywhere)
+status: DONE — v3 PUBLISHED (scheduled 2026-11-03): YouTube 19:00 London; 5 Shorts on YouTube/Instagram/TikTok 4–6 Nov (see ../../posts.json, PUBLISH.md)
+
+v3 changes after Gartal's review (2026-11-03): Moon tease cut; a spoken + on-screen HOOK after every chapter title;
+end card call to action (like, subscribe, Instagram @whyverse___, TikTok @Whyverse). Length 9:00 (540.5 s), 78 MB, CRF 29.
 
 - **Style:** animation-studio `paper` cut-out storybook (boiling pencil lines, hatching, torn-paper notes and tape),
   Whyverse palette (navy night skies, gold → coral accents, blue ringed planet on the title and end card).
@@ -44,13 +47,13 @@ status: DONE (night run 2026-11-03, for Gartal's review — NOT posted or schedu
 - Bats pollinate agave (tequila): e.g. https://www.museumfuernaturkunde.berlin/en/salud-a-bat-saves-tequila
 - Bees smaller than a grain of rice (Perdita minima, ~2 mm): USDA Forest Service https://www.fs.usda.gov/wildflowers/pollinators/pollinator-of-the-month/perdita_minima.shtml
 
-## Shorts cut points (re-stage in 9:16 later, don't crop)
-1. 0:00.8–0:23.7 — "Einstein never said this about bees." (fake quote → 1965 magazine)
-2. 2:16.3–2:44.9 — "Bread survives. Colour doesn't." (wind-pollinated staples, 60/35 %, calories vs colour)
-3. 3:09.3–3:38.0 — "In this valley, every single apple was pollinated by hand." (Maoxian)
-4. 4:11.1–4:58.4 — "Almost every beehive in America drives to one valley." (almonds, 2.7 M colonies)
-5. 6:20.4–6:38.3 — "Chocolate doesn't need bees." (midges)
-6. 5:44.9–6:16.2 — "Poor pollination is already linked to 427,000 deaths a year." (needs the 2015/2022 caveat line)
+## Shorts (v3 times; built with tools/make_shorts.py, 9:16 framed; scheduled — see PUBLISH.md)
+1. 0:00.8–0:24.0 — "Einstein never said this about bees." → Wed 4 Nov 17:00 London
+2. 2:27.8–2:56.8 — "No bees? Bread survives. Colour doesn't." → Wed 4 Nov 23:00
+3. 3:25.9–3:54.9 — "Every apple here was pollinated by hand." (Maoxian) → Thu 5 Nov 17:00
+4. 4:34.4–5:22.0 — "Almost every beehive in America drives to one valley." → Thu 5 Nov 23:00
+5. 6:53.3–7:11.6 — "Chocolate doesn't need bees." → Fri 6 Nov 17:00
+(not used: the 427,000-deaths segment, too easy to misread without the model caveat)
 
 ## Verify (skill's sound ±20 ms / picture ±1 frame check on the final mp4)
 - Title stamps: picture +1 frame on all 5 ✓; sound: 2 ✓, 1 ✗ (+95 ms: the brass stab's attack is softer than its body), 2 "?" (stamp and brass onsets too close to tell apart). Same event time drives both, so this is attack shape, not drift.

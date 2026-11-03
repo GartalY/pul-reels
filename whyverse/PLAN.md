@@ -68,8 +68,9 @@ Metricool brand **Whyverse = 7816628** (timezone Asia/Baku in Metricool; we plan
 YouTube UCTWyyqP6HJP64E7fA7QphGg, Instagram whyverse___, TikTok Whyverse. Channel link for captions:
 https://www.youtube.com/channel/UCTWyyqP6HJP64E7fA7QphGg
 - Media hosting: public raw URLs from the orphan branch `whyverse-media` of GartalY/pul-reels
-  (https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/<file>). Keep only files whose posts are not
-  yet published (rebuild the branch as one commit and force-push it; never touch main's history). Files < 95 MB.
+  (https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/<file>). Metricool copies the media into its own
+  storage when the post is created, so each run can rebuild the branch as one commit with only its new files and
+  force-push it (never touch main's history). Files < 95 MB.
 - LONG VIDEO: same day as the night build, 19:00 Europe/London (= 14:00 New York; Gartal's instinct, and it covers
   UK evening + US afternoon). YouTube only, type video, category EDUCATION, madeForKids false,
   isAiGeneratedContent false (stylised animation, not realistic), title ≤ 70 chars with the question, description:

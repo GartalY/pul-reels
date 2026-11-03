@@ -255,7 +255,27 @@
 })();
 (function () { const P = globalThis.P, S = globalThis.SCORE;
   // chapter title shot: the chapter's own background + the navy banner (P.chapter)
-  P.cardShot = (c, n, title, bg, o = {}) => P.shot(S.CH[c].t0, (ctx, t, s) => { bg(ctx, t, s); P.chapter(ctx, t, n, title, S.CH[c].t0 + 0.1, S.ev[c + '_cardOut']); }, Object.assign({ in: { type: 'paper', dur: 0.7 }, cam: globalThis.Shots.push(1.0, 1.04) }, o));
+  P.cardShot = (c, n, title, bg, o = {}) => P.shot(S.CH[c].t0, (ctx, t, s) => {
+    bg(ctx, t, s);
+    const h = S.ev[c + '_hook'], up = h ? U.ease.inOutCubic(U.clamp((t - (h.t - 0.45)) / 0.5)) : 0;
+    ctx.save(); ctx.translate(0, -250 * up); P.chapter(ctx, t, n, title, S.CH[c].t0 + 0.1, S.ev[c + '_cardOut']); ctx.restore();
+    if (h) P.hook(ctx, h, t, S.ev[c + '_cardOut']);
+  }, Object.assign({ in: { type: 'paper', dur: 0.7 }, cam: globalThis.Shots.push(1.0, 1.04) }, o));
+  // the chapter's hook line: handwritten on a big torn note, each word appears as it is spoken
+  P.hook = (ctx, h, t, t1) => {
+    const a = U.clamp((t - (h.t - 0.3)) / 0.35), b = 1 - U.clamp((t - (t1 - 0.4)) / 0.35); const k = Math.min(U.ease.outBack(a, 1.6), b); if (k <= 0.01) return;
+    const size = 84, maxW = 1400, lh = size * 1.15, sp = G.measure(ctx, ' ', size, P.FT.hand, 700);
+    const lines = [[]]; let x = 0;
+    for (const w of h.words) { const ww = G.measure(ctx, w.w, size, P.FT.hand, 700); if (x + ww > maxW && x > 0) { lines.push([]); x = 0; } lines[lines.length - 1].push({ ...w, x, ww }); x += ww + sp; }
+    const H = lines.length * lh + 70, y0 = 640 - H / 2 + 60;
+    ctx.save(); ctx.translate(G.W / 2, 640); ctx.rotate(-0.015); ctx.scale(k, k); ctx.translate(-G.W / 2, -640);
+    G.tornPaper(ctx, G.W / 2 - maxW / 2 - 60, y0 - 70, maxW + 120, H + 20, { fill: '#FFF8E8', seed: 77, tear: 4 });
+    G.tape(ctx, G.W / 2 - maxW / 2 - 30, y0 - 84, 90, 30, -0.2, 3); G.tape(ctx, G.W / 2 + maxW / 2 - 60, y0 - 84, 90, 30, 0.2, 4);
+    lines.forEach((ln, li) => { const lw = ln.length ? ln[ln.length - 1].x + ln[ln.length - 1].ww : 0; const ox = G.W / 2 - lw / 2;
+      for (const w of ln) { const q = U.clamp((t - w.t) / 0.16); if (q <= 0) continue; const key = /\?$/.test(w.w);
+        P.at(ctx, ox + w.x, y0 + li * lh, 0.75 + 0.25 * U.ease.outBack(q, 2), 0, () => G.text(ctx, w.w, 0, 0, { size, fam: P.FT.hand, color: key ? P.C.coral : P.C.ink, alpha: q })); } });
+    ctx.restore();
+  };
   P.sky = (ctx, top = '#BFE3F2', bottom = '#F4EDE0') => { const g = ctx.createLinearGradient(0, 0, 0, G.H); g.addColorStop(0, top); g.addColorStop(1, bottom); ctx.fillStyle = g; ctx.fillRect(-400, -400, G.W + 800, G.H + 800); };
   P.sun = (ctx, x, y, r, t) => { G.rays(ctx, x, y, { n: 14, r0: r * 1.25, r1: r * 1.9, color: '#F7C85A', lw: 7, spin: t * 0.15, alpha: 0.7 }); G.ellipse(ctx, x, y, r, r, { fill: '#F9CB55', seed: 77, lw: 4, hatch: { color: 'rgba(200,120,20,0.25)', gap: 8 } }); };
   P.cloud = (ctx, x, y, s, seed = 1) => { P.at(ctx, x, y, s, 0, () => { for (const [cx, cy, r] of [[-60, 10, 50], [0, -12, 66], [66, 8, 48]]) G.ellipse(ctx, cx, cy, r * 1.2, r, { fill: '#FFFFFF', seed: seed + cx, lw: 3.5, stroke: 'rgba(42,35,32,0.5)' }); }); };

@@ -33,7 +33,8 @@
     // chapter cards: whoosh in + stamp on the number
     for (const c of ['c1', 'c2', 'c3', 'c4', 'c5', 'c6', 'c7']) {
       const l = L(c + '_1'); ev[c + '_card'] = CH[c].t0; hit(CH[c].t0 + 0.05, 'whoosh', 0.6); ev[c + '_stamp'] = hit(CH[c].t0 + 0.35, 'stamp', 0.8);
-      ev[c + '_cardOut'] = l.end + 0.55; hit(ev[c + '_cardOut'] - 0.35, 'whoosh', 0.4);
+      const h = L(c + '_1h'); ev[c + '_hook'] = h; hit(h.t - 0.05, 'fwip', 0.45);
+      ev[c + '_cardOut'] = h.end + 0.5; hit(ev[c + '_cardOut'] - 0.35, 'whoosh', 0.4);
     }
 
 
@@ -67,12 +68,14 @@
     ev.c8_s2 = L('c8_2').t - 0.2;
     ev.c8_dots = [0, 1, 2, 3, 4, 5, 6].map((i) => hit(Wt('c8_2', 'apples') + i * 0.35, 'chime', 0.3, -0.6 + i * 0.2));
     ev.c8_deliv = hit(Wt('c8_2', 'delivery'), 'pop', 0.6);
-    ev.c8_s3 = L('c8_3').t - 0.2;
-    ev.c8_moon = hit(Wt('c8_3', 'sky'), 'swell', 0.5);
-    ev.sync_moon = hit(Wt('c8_3', 'disappeared'), 'pop', 1);
     ev.c8_s4 = L('c8_4').t - 0.3;
     ev.sync_logo = hit(Wt('c8_4', 'whyverse'), 'stamp', 0.8);
     ev.c8_tag = Wt('c8_4', 'big');
+    ev.c8_cta = L('c8_5').t - 0.3;
+    ev.c8_like = hit(Wt('c8_5', 'like'), 'pop', 0.7, -0.3);
+    ev.c8_sub = hit(Wt('c8_5', 'subscribe'), 'stamp', 0.7, 0.1);
+    ev.c8_ig = hit(Wt('c8_5', 'instagram'), 'pop', 0.6, -0.4);
+    ev.c8_tt = hit(Wt('c8_5', 'tiktok'), 'pop', 0.6, 0.4);
 
     // ===== c6 other pollinators =====
     ev.c6_s1 = ev.c6_cardOut - 0.1;

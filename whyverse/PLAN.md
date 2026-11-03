@@ -1,8 +1,8 @@
 # Whyverse — night animation plan (Gartal, 2026-11-02)
 
-Gartal: "create an 8–10 minute animation 3 times a week at nights when I'm sleeping … create one tonight
-for tomorrow morning so I can watch it and let you know what's the problems." NOTHING is posted anywhere
-until Gartal says "let's start posting". Then: long video on YouTube + Shorts/Reels/TikToks cut from it.
+Gartal: "create an 8–10 minute animation 3 times a week at nights when I'm sleeping". POSTING IS ON since
+2026-11-03 (Gartal approved, starting with ep01) — see POSTING below. Gartal reviews each episode during the day
+and can stop an upload before it goes live.
 
 ## Schedule
 Scheduled task "Whyverse – night animation": Tue/Thu/Sat 00:23 Baku (after the Azerbaijani page's 23:59
@@ -18,8 +18,12 @@ everything you got". Use the whole night; deliver by ~09:00 Baku. Quality over s
   Gartal liked all 3 test voices and will decide later.
 - Music bed and SFX at least 20 dB under the voice (Gartal: Caspian water SFX was "too loud").
 - No burned-in subtitles in the 16:9 master; write an .srt next to it.
+- ENDING (Gartal 2026-11-03): payoff → end card with a spoken + animated call to action: like the video,
+  subscribe to Whyverse, find us on Instagram (@whyverse___) and TikTok (@Whyverse) for shorter stories.
+  Never announce the next topic.
 - Structure: cold open hook (0–20 s, question + surprising number) → 5–7 chapters, each with its own
-  visual idea → payoff → closing question that teases the next episode.
+  visual idea AND its own opening hook line (a question / surprising claim right after the chapter title, so people
+  stay) → payoff → Whyverse end card. NEVER tease or name the next episode (Gartal 2026-11-03: topics follow trends).
 - Mark 4–6 SHORTS CUT POINTS (start/end time + the hook line) in the episode notes. Shorts get re-staged
   in 9:16 later, not cropped.
 - Fact rules as on the Azerbaijani page: every number verified with a source; listed in the notes.
@@ -43,7 +47,11 @@ NASA logo/endorsement). Wikimedia/Archive only with a checked licence + credit i
 the main look — footage is seasoning, never a stitched stock-clip video (mass-produced-content risk).
 Record the style used in each NOTES.md; FEEDBACK.md decides which styles win.
 
-## Topic queue (take the first one not done; Gartal may reorder)
+## Topic choice (Gartal 2026-11-03)
+First check what is trending worldwide (news, Google Trends, YouTube/TikTok) for a 'why / what if' angle that will
+still hold up for weeks; if nothing fits, take the first evergreen topic below that has no finished episode.
+
+## Topic queue (evergreen fallback; take the first one not done; Gartal may reorder)
 1. What if every bee disappeared?  ← tonight (2026-11-03 morning)
 2. What if the Moon disappeared?
 3. Why is the sky dark at night? (Olbers' paradox)
@@ -54,3 +62,25 @@ Record the style used in each NOTES.md; FEEDBACK.md decides which styles win.
 ## Feedback loop
 Gartal's comments go into whyverse/FEEDBACK.md (newest first). Every night run reads it FIRST and fixes
 those problems in the next episode.
+
+## POSTING (Gartal 2026-11-03: "you're the one who's making the decisions here")
+Metricool brand **Whyverse = 7816628** (timezone Asia/Baku in Metricool; we plan in Europe/London):
+YouTube UCTWyyqP6HJP64E7fA7QphGg, Instagram whyverse___, TikTok Whyverse. Channel link for captions:
+https://www.youtube.com/channel/UCTWyyqP6HJP64E7fA7QphGg
+- Media hosting: public raw URLs from the orphan branch `whyverse-media` of GartalY/pul-reels
+  (https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/<file>). Keep only files whose posts are not
+  yet published (rebuild the branch as one commit and force-push it; never touch main's history). Files < 95 MB.
+- LONG VIDEO: same day as the night build, 19:00 Europe/London (= 14:00 New York; Gartal's instinct, and it covers
+  UK evening + US afternoon). YouTube only, type video, category EDUCATION, madeForKids false,
+  isAiGeneratedContent false (stylised animation, not realistic), title ≤ 70 chars with the question, description:
+  2-line hook, chapter timestamps (first at 0:00), sources list, IG/TikTok handles. Tags 8–12.
+- SHORTS from each episode: 5 cuts, 9:16 (tools/make_shorts.py: blurred background + the 16:9 picture + hook title
+  + "Full video on YouTube: Whyverse"; proper re-staged 9:16 versions later if Gartal wants). Each Short is posted
+  as THREE separate posts (YouTube type short / Instagram REEL / TikTok), same video, same time. Slots:
+  17:00 and 23:00 Europe/London, starting the day after the long video, next free slots first
+  (check getScheduledPosts so nothing doubles). Captions: hook line, 1–2 lines of context, "Full video on our
+  YouTube channel: Whyverse" (+ channel link on YouTube; "link in bio" on IG/TikTok), 3–5 hashtags.
+- 1-MINUTE ANIMATIONS (Gartal 2026-11-03): a standalone ~60 s 9:16 animation every 4 days, on TikTok + Instagram
+  Reels + YouTube Shorts (Gartal agreed to Shorts too), 20:00 Europe/London. Own topic (trend if any), own style.
+- Log every post (network, time, Metricool id, media URL) in whyverse/posts.json.
+- First data check after ~2 weeks: compare slots/topics with Metricool analytics and adjust (say so in NOTES).

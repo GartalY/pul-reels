@@ -46,7 +46,7 @@
   const markers = {};
   // verified hits: the title stamps land in a silence (no voice), so sound + picture can be measured cleanly
   ev.titleWords.forEach((w, i) => { markers['title_' + (i + 1)] = { t: w.t, sync: 'av' }; });
-  for (const k of ['sync_never', 'sync_now', 'sync_moon', 'sync_logo']) markers[k.replace('sync_', '')] = { t: ev[k], sync: 'v' };
+  for (const k of ['sync_never', 'sync_now', 'sync_logo']) markers[k.replace('sync_', '')] = { t: ev[k], sync: 'v' };
 
   const subtitles = TL.lines.map((l) => ({ t: l.t, end: l.end, text: l.text }));
   const SCORE = { FPS, FORMAT, STYLE, W, H, SAFE, WIDE, DURATION, clock, T, BEAT, m, S, CH, L, Wt, next, LINES, TL, ev, sfx, markers, subtitles, MOUTH: TL.mouth };

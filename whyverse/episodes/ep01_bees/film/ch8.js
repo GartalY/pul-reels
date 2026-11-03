@@ -26,26 +26,27 @@
     P.note(ctx, 'a tiny delivery', W / 2, 1000, t, ev.c8_deliv, 1e9, { size: 64, seed: 5, fill: C.gold });
   }, { in: { type: 'fade', dur: 0.6 }, cam: Shots.push(1.0, 1.06) });
 
-  // S3 — tease: the Moon
-  P.shot(ev.c8_s3, (ctx, t, s) => {
-    P.nightBg(ctx, t, { stars: 220 });
-    const rise = ease.outCubic(clamp((t - ev.c8_moon + 0.4) / 1.6)); const gone = clamp((t - ev.sync_moon) / 0.25);
-    const mx = W / 2 + 120, my = lerp(980, 430, rise);
-    if (gone < 1) { ctx.save(); const sc = 1 + gone * 0.5; ctx.globalAlpha *= 1 - gone; const g = ctx.createRadialGradient(mx, my, 150, mx, my, 330); g.addColorStop(0, 'rgba(240,236,220,0.35)'); g.addColorStop(1, 'rgba(240,236,220,0)'); ctx.fillStyle = g; ctx.fillRect(mx - 340, my - 340, 680, 680);
-      G.ellipse(ctx, mx, my, 210 * sc, 210 * sc, { fill: '#E9E4D6', seed: 7, lw: 5, hatch: { color: 'rgba(90,85,78,0.25)', gap: 9 } }); for (let k = 0; k < 7; k++) { const a = U.hash(k, 1) * 6.28, d = U.hash(k, 2) * 140; G.ellipse(ctx, mx + Math.cos(a) * d * sc, my + Math.sin(a) * d * sc, (20 + 30 * U.hash(k, 3)) * sc, (20 + 30 * U.hash(k, 3)) * sc, { fill: '#CFC8B6', seed: 20 + k, lw: 3 }); } ctx.restore(); }
-    P.sparkle(ctx, mx, my, t, ev.sync_moon, { n: 18, r: 300, color: '#FFF4D6' });
-    if (gone > 0) { ctx.save(); ctx.setLineDash([18, 16]); ctx.strokeStyle = 'rgba(255,244,214,0.6)'; ctx.lineWidth = 5; ctx.beginPath(); ctx.arc(mx, my, 210, 0, 7); ctx.stroke(); ctx.restore(); G.text(ctx, '?', mx, my + 70, { size: 220, fam: FT.title, weight: 400, color: C.gold, align: 'center', alpha: gone }); }
-    G.shape(ctx, [[-300, 900], [500, 840], [1200, 900], [2200, 850], [2200, 1400], [-300, 1400]], { fill: '#2C4A57', seed: 30, hatch: { color: 'rgba(0,0,0,0.2)', gap: 9 } });
-    P.note(ctx, 'next time', 360, 200, t, ev.c8_s3 + 0.3, 1e9, { size: 60, seed: 6, fill: C.gold, rot: -0.05 });
-    Ch.bee(ctx, { x: 360, y: 700, s: 0.8, t, eyes: t > ev.sync_moon ? 'wide' : 'normal', mouth: t > ev.sync_moon && t < ev.sync_moon + 1.2 ? 'o' : P.talk(t), look: 0.8, lookY: -0.5 });
-  }, { in: { type: 'fade', dur: 0.5 }, cam: (s) => Shots.combine(Shots.push(1.0, 1.05), Shots.shake(14, ev.sync_moon - s.t0, 6))(s) });
-
   // S4 — end card
   P.shot(ev.c8_s4, (ctx, t, s) => {
     P.nightBg(ctx, t, { stars: 200 });
-    const k = P.pop(t, ev.sync_logo, 0.5); P.planet(ctx, W / 2, 430, 150 * k, t);
+    const k = P.pop(t, ev.sync_logo, 0.5); const up = ease.inOutCubic(clamp((t - ev.c8_cta) / 0.6));
+    ctx.save(); ctx.translate(W / 2, 520); ctx.scale(1 - 0.3 * up, 1 - 0.3 * up); ctx.translate(-W / 2, -520 - 330 * up);
+    P.planet(ctx, W / 2, 430, 150 * k, t);
     if (k > 0) G.text(ctx, 'WHYVERSE', W / 2, 760, { size: 120, fam: FT.title, weight: 400, color: C.gold, align: 'center', alpha: clamp(k) });
     P.words(ctx, [{ w: 'Big', t: ev.c8_tag }, { w: 'questions.', t: ev.c8_tag + 0.25 }, { w: 'Visual', t: ev.c8_tag + 0.6 }, { w: 'answers.', t: ev.c8_tag + 0.85 }], W / 2, 880, t, { size: 58, fam: FT.hand, color: '#FFF8E8', align: 'center', maxW: 1600 });
-    const u = clamp((t - ev.c8_s4) / 1.5); Ch.bee(ctx, { x: lerp(-150, 440, ease.outCubic(u)), y: 600 + Math.sin(t * 2) * 20, s: 0.8, t, eyes: 'happy', wave: u >= 1 ? 1 : 0, armR: u >= 1 ? 1.2 : -0.3, mouth: P.talk(t) || 'smile' });
+    ctx.restore();
+    // call to action: like, subscribe, Instagram + TikTok
+    const kl = P.pop(t, ev.c8_like, 0.4); if (kl > 0) P.at(ctx, 640, 700, kl * (1 + 0.08 * Math.exp(-(t - ev.c8_like) * 6)), -0.06, () => {
+      G.ellipse(ctx, 0, 0, 110, 110, { fill: C.gold, seed: 91, lw: 6 });
+      G.rrect(ctx, -52, -10, 30, 76, 8, { fill: '#FFF8E8', seed: 92, lw: 5 }); G.poly(ctx, [[-14, -10], [10, -70], [34, -66], [26, -10], [62, -10], [62, 66], [-14, 66]], { fill: '#FFF8E8', seed: 93, lw: 5 });
+      G.text(ctx, 'LIKE', 0, 160, { size: 46, fam: FT.title, weight: 400, color: '#FFF8E8', align: 'center' }); });
+    const ks = P.pop(t, ev.c8_sub, 0.4); if (ks > 0) { const pressed = t > ev.c8_sub + 0.5; P.at(ctx, 1180, 700, ks * (pressed ? 0.96 : 1), 0.02, () => {
+      G.rrect(ctx, -310, -70, 620, 140, 70, { fill: pressed ? '#8A8378' : C.red, seed: 94, lw: 6 });
+      G.text(ctx, pressed ? 'SUBSCRIBED' : 'SUBSCRIBE', 0, 24, { size: 60, fam: FT.title, weight: 400, color: '#FFF8E8', align: 'center' }); });
+      if (t > ev.c8_sub + 0.35 && t < ev.c8_sub + 1.2) { const r = (t - ev.c8_sub - 0.35) * 260; ctx.strokeStyle = `rgba(255,248,232,${1 - (t - ev.c8_sub - 0.35) / 0.85})`; ctx.lineWidth = 6; ctx.beginPath(); ctx.arc(1180, 700, r, 0, 7); ctx.stroke(); }
+      Ch.bee(ctx, { x: lerp(1750, 1560, ease.outCubic(clamp((t - ev.c8_sub) / 0.4))), y: 660 + Math.sin(t * 3) * 8, s: 0.45, t, facing: -1, eyes: 'happy', armR: 0.6 }); }
+    P.note(ctx, 'Instagram  @whyverse___', 640, 990, t, ev.c8_ig, 1e9, { size: 58, seed: 95, fill: '#FBE3EA', rot: -0.03 });
+    P.note(ctx, 'TikTok  @Whyverse', 1280, 990, t, ev.c8_tt, 1e9, { size: 58, seed: 96, fill: '#DDEFF8', rot: 0.03 });
+    const u = clamp((t - ev.c8_s4) / 1.5); if (t < ev.c8_cta + 0.3) Ch.bee(ctx, { x: lerp(-150, 440, ease.outCubic(u)), y: 600 + Math.sin(t * 2) * 20, s: 0.8, t, eyes: 'happy', wave: u >= 1 ? 1 : 0, armR: u >= 1 ? 1.2 : -0.3, mouth: P.talk(t) || 'smile' });
   }, { in: { type: 'iris', at: [W / 2, 430], color: '#0E1230' }, cam: Shots.push(1.0, 1.03) });
 })();

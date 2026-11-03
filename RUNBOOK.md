@@ -197,7 +197,7 @@ Why: after 18 days IG has 45 followers (~3 follows per 1 000 viewers), TikTok 1 
   (first paid ad), move voice generation to the official Azure Speech free tier (same az-AZ-BanuNeural voice).
 - **VOICE-OVER (Gartal, 2026-10-25: "I loved Banu voice"; scope limited by the split test above):** a reel gets the Azerbaijani
   neural voice **az-AZ-BanuNeural, rate +15%** (free Microsoft Edge read-aloud voice via `edge-tts`; host
-  speech.platform.bing.com is allowed in Gartal's Claude settings). Steps per reel:
+  speech.platform.bing.com is allowed in Gartal's Claude settings). If edge-tts fails with a DNS error, add `--proxy "$HTTPS_PROXY"` (worked 2026-11-03). Steps per reel:
   1. Write `voice_texts` in the fact JSON = [hook, beat1, beat2, beat3]: hook in sentence case (never ALL CAPS),
      beats = the on-screen beats, but write every number with a symbol/fraction/range/unit as WORDS
      ("1/12" → "on ikidə biri", "4 700 °C" → "dörd min yeddi yüz dərəcə", "50–100" → "əllidən yüzə", "90 km" →

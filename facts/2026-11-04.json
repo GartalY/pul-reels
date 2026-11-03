@@ -75,7 +75,7 @@
    "year": 1922,
    "title": "1 pillə məqbərəni açdı",
    "text": "104 il əvvəl bu gün Misirdə qayada oyulmuş bir pillə tapıldı. Bu, Tutanxamonun məqbərəsinə aparan yol idi. İçəridə 5 000-dən çox əşya vardı.",
-   "credit": "Foto: Harry Burton / Wikimedia Commons"
+   "credit": "Harry Burton / Wikimedia Commons"
   },
   "sources": [
    "https://en.wikipedia.org/wiki/Howard_Carter",
@@ -107,7 +107,7 @@
     "Layihəyə görə bir qüllə oteldir, biri yaşayış, biri isə ofis binasıdır. Sən Alov qüllələrinə gecə baxmısan?"
    ],
    "voice": [
-    "182 metr və on min işıq: Alov qüllələri.",
+    "Yüz səksən iki metr və on min işıq: Alov qüllələri.",
     "Bakının Alov qüllələri üç binadır. Ən hündürü yüz səksən iki metrdir. Onları iki min yeddinci ildə tikməyə başladılar.",
     "Gecələr qüllələrin üzü böyük ekrana çevrilir. Üstündə on mindən çox güclü işıq var. Onlar birlikdə yanan alov şəklini göstərir.",
     "Layihəyə görə bir qüllə oteldir, biri yaşayış, biri isə ofis binasıdır. Sən Alov qüllələrinə gecə baxmısan?"
@@ -357,5 +357,39 @@
    }
   }
  ],
- "language_check": "Self-check 2026-11-03 09:40 (section L): short spoken sentences; no English in brackets; 'alver günü' (not 'bazar günü') for market day in the trend; cases checked ('qüllələrə baxmaq', 'universitetə daxil olmaq', 'mövsümə pul vermək', 'dirəyin üstündə durmaq'); voice texts with numbers in words; ı/i, ə/e checked; 'Gözəl şeylər görürəm!' as natural rendering of 'wonderful things'."
+ "language_check": "Self-check 2026-11-03 09:40 (section L): short spoken sentences; no English in brackets; 'alver günü' (not 'bazar günü') for market day in the trend; cases checked ('qüllələrə baxmaq', 'universitetə daxil olmaq', 'mövsümə pul vermək', 'dirəyin üstündə durmaq'); voice texts with numbers in words; ı/i, ə/e checked; 'Gözəl şeylər görürəm!' as natural rendering of 'wonderful things'.",
+ "stories": [
+  {
+   "time": "11:00",
+   "fact_id": "2026-11-03-2",
+   "recall": true,
+   "cat": "Kosmos",
+   "q": "Olimp dağı hansı planetdədir?",
+   "options": [
+    "Marsda",
+    "Venerada",
+    "Merkuridə"
+   ],
+   "answer": "Marsda",
+   "why": "Günəş sistemindəki ən hündür vulkan.",
+   "image": "out/2026-11-04/q1.jpg",
+   "answer_image": "out/2026-11-04/q1_a.jpg"
+  },
+  {
+   "time": "14:00",
+   "fact_id": "2026-11-04-1",
+   "recall": false,
+   "cat": "Azərbaycan",
+   "q": "Ən hündür Alov qülləsi neçə metrdir?",
+   "options": [
+    "142 metr",
+    "182 metr",
+    "242 metr"
+   ],
+   "answer": "182 metr",
+   "why": "O biriləri 165 və 161 metr.",
+   "image": "out/2026-11-04/q2.jpg",
+   "answer_image": "out/2026-11-04/q2_a.jpg"
+  }
+ ]
 }

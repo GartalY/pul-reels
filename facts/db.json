@@ -3130,7 +3130,12 @@
      "why": "Təxminən 300 000 km²."
     }
    ],
-   "asked": []
+   "asked": [
+    {
+     "date": "2026-11-04",
+     "qi": 0
+    }
+   ]
   },
   {
    "id": "2026-11-03-3",
@@ -3247,6 +3252,167 @@
      ],
      "answer": "435",
      "why": "Hamısı - 435 yer."
+    }
+   ],
+   "asked": []
+  },
+  {
+   "id": "2026-11-04-1",
+   "date": "2026-11-04",
+   "subject": "Flame Towers, Baku: tallest tower 182 m (Wikipedia; Euronews 'maximum height 182 metres'), other two 165 m and 161 m (Wikipedia infobox). Construction began 2007 (Wikipedia + Euronews; completion 2012 per Wikipedia text vs opening 2013 per Euronews/infobox -> not stated). Facade covered with more than 10 000 high-power LED luminaires (Wikipedia; Euronews 'some 10,000 LED lights') that show flames at night. Planned use: hotel 250 rooms + ~60 serviced apartments, residential ~130 apartments, offices (Wikipedia + Euronews). Architect HOK (both). Cost ~US$350 m (Wikipedia only - not used). Occupancy not stated (2020 paper says two towers unoccupied).",
+   "cat": "Azərbaycan",
+   "quizzes": [
+    {
+     "q": "Ən hündür Alov qülləsi neçə metrdir?",
+     "options": [
+      "142 metr",
+      "182 metr",
+      "242 metr"
+     ],
+     "answer": "182 metr",
+     "why": "O biriləri 165 və 161 metr."
+    },
+    {
+     "q": "Qüllələrin üzündə neçə LED işıq var?",
+     "options": [
+      "1 000-dən çox",
+      "10 000-dən çox",
+      "100 000-dən çox"
+     ],
+     "answer": "10 000-dən çox",
+     "why": "Birlikdə alov şəkli göstərir."
+    },
+    {
+     "q": "Alov qüllələrini neçənci ildə tikməyə başladılar?",
+     "options": [
+      "1997",
+      "2007",
+      "2015"
+     ],
+     "answer": "2007",
+     "why": "2007-ci ildə tikinti başladı."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-11-04",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-11-04-2",
+   "date": "2026-11-04",
+   "subject": "Mercury: orbit 88 Earth days (Wikipedia 87.97 d; Caltech Cool Cosmos 'about 88'); sidereal rotation 58.6 days (both); 3:2 spin-orbit resonance (Wikipedia); one solar day (sunrise to sunrise) ~176 Earth days = twice its year (Wikipedia + Cool Cosmos). Surface -170 C at night to 420 C in sunlight (Wikipedia body text). Sun seems to move backwards at times (Cool Cosmos) - caption only.",
+   "cat": "Kosmos",
+   "quizzes": [
+    {
+     "q": "Merkuri Günəşin ətrafını neçə günə fırlanır?",
+     "options": [
+      "28",
+      "88",
+      "365"
+     ],
+     "answer": "88",
+     "why": "Bu, Merkurinin bir ilidir."
+    },
+    {
+     "q": "Merkuridə bir günəş günü neçə Yer günüdür?",
+     "options": [
+      "24",
+      "59",
+      "176"
+     ],
+     "answer": "176",
+     "why": "Merkurinin iki ili qədər."
+    },
+    {
+     "q": "Merkuridə gündüz səth neçə dərəcəyə qədər qızır?",
+     "options": [
+      "120",
+      "420",
+      "920"
+     ],
+     "answer": "420",
+     "why": "Gecə isə mənfi 170 dərəcə."
+    }
+   ],
+   "asked": []
+  },
+  {
+   "id": "2026-11-04-3",
+   "date": "2026-11-04",
+   "subject": "Danyang-Kunshan Grand Bridge, China: world's longest bridge, part of the Beijing-Shanghai High-Speed Railway, opened June 2011, ~165 km (LiveScience citing Britannica; 164.8 km widely cited, Guinness). Built in 4 years by 10 000 workers (LiveScience). Section over Yangcheng Lake ~9 km on 2 000 pillars; mostly crosses rice paddies of the Yangtze delta (LiveScience). Cost: LiveScience says '$8.5 million' (obvious error for billion) -> not used.",
+   "cat": "Coğrafiya",
+   "quizzes": [
+    {
+     "q": "Danyan–Kunşan körpüsü təxminən neçə kilometrdir?",
+     "options": [
+      "65 km",
+      "165 km",
+      "565 km"
+     ],
+     "answer": "165 km",
+     "why": "Dünyanın ən uzun körpüsü."
+    },
+    {
+     "q": "Körpünü neçə ilə tikdilər?",
+     "options": [
+      "4",
+      "12",
+      "20"
+     ],
+     "answer": "4",
+     "why": "10 000 nəfər işlədi."
+    },
+    {
+     "q": "Körpünün üstündən nə keçir?",
+     "options": [
+      "Maşınlar",
+      "Sürətli qatarlar",
+      "Yalnız piyadalar"
+     ],
+     "answer": "Sürətli qatarlar",
+     "why": "Pekin–Şanxay sürətli dəmir yolu."
+    }
+   ],
+   "asked": []
+  },
+  {
+   "id": "2026-11-04-4",
+   "date": "2026-11-04",
+   "subject": "Lev Landau: born 22 Jan 1908 in Baku; learned differential calculus at 12 and integral calculus at 13; graduated from gymnasium in 1920 at 13; in 1922 at 14 entered Baku State University, studying in two departments at once (physics-mathematics and chemistry); moved to Leningrad 1924; 1962 Nobel Prize in Physics for the theory of superfluidity / liquid helium (Wikipedia Lev Landau; Nobel page blocked this run; Britannica/encyclopedia.com list the same Baku birth + 1962 Nobel). Landau scale (Newton 0, Einstein 0.5) - caption only.",
+   "cat": "Azərbaycan",
+   "quizzes": [
+    {
+     "q": "Lev Landau neçə yaşında universitetə daxil oldu?",
+     "options": [
+      "14",
+      "17",
+      "19"
+     ],
+     "answer": "14",
+     "why": "1922-ci ildə, Bakı Dövlət Universitetinə."
+    },
+    {
+     "q": "Landau Nobel mükafatını neçənci ildə aldı?",
+     "options": [
+      "1932",
+      "1962",
+      "1992"
+     ],
+     "answer": "1962",
+     "why": "Fizika üzrə."
+    },
+    {
+     "q": "Landau universitetdə neçə fakültədə oxudu?",
+     "options": [
+      "1",
+      "2",
+      "3"
+     ],
+     "answer": "2",
+     "why": "Eyni vaxtda iki fakültədə."
     }
    ],
    "asked": []

@@ -26,7 +26,9 @@
   "2026-11-02 11:00 bombardier beetle": 413078835,
   "2026-11-02 19:45 Mars blue sunset": 413078900,
   "2026-11-03 11:00 Voyager": 414295004,
-  "2026-11-03 19:45 Greenland shark": 414295067
+  "2026-11-03 19:45 Greenland shark": 414295067,
+  "2026-11-04 11:00 Pluto": 415533318,
+  "2026-11-04 19:45 godwit": 415533363
  },
  "2026-10-28 19:45": [
   "2026-10-24 n4 blue whale heart 2 bpm (IG 483 views; safe layout out/2026-10-24/4_reel_safe.mp4)",
@@ -77,5 +79,17 @@
   "2026-10-17 n3 Greenland shark 400 years (IG 171 views; safe layout out/2026-10-17/3_reel_safe.mp4, '~' removed)",
   414295046,
   "TikTok post set to DRAFT 2026-11-03 00:57 (strategy reset: no TikTok reposts); still published on YouTube"
+ ],
+ "2026-11-04 11:00": [
+  "2026-10-20 n4 Pluto 1 year = 248 years (IG 164 views; safe layout out/2026-10-20/4_reel_safe.mp4, hook upper-cased)",
+  null,
+  "YouTube only (strategy reset)",
+  415533318
+ ],
+ "2026-11-04 19:45": [
+  "2026-10-19 n1 godwit 11 days non-stop (IG 159 views; safe layout out/2026-10-19/1_reel_safe.mp4, beats rewritten as full sentences)",
+  null,
+  "YouTube only (strategy reset)",
+  415533363
  ]
 }

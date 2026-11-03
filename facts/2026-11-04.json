@@ -1,6 +1,6 @@
 {
  "date": "2026-11-04",
- "status": "planned",
+ "status": "scheduled",
  "format": "v2",
  "content_format": "v4",
  "planned_note": "Planned in the 2026-11-03 09:10 run (format v4, STRATEGY RESET 2026-11-03). Wed 4 Nov = normal day (two-part pairs now Tue/Fri -> first pair Fri 6/Sat 7). 10:00 TBG carousel = Tutankhamun tomb step found 4 Nov 1922. 13:00 AZ reel (VOICED; split test until 8 Nov) = Flame Towers 182 m + 10 000+ LEDs. 16:00 reel (SILENT, space wow) = Mercury: 1 day = 176 Earth days = 2 Mercury years. 18:30 trend backup (SILENT) = Danyang-Kunshan bridge 165 km. 21:30 reel (VOICED, Azerbaijan angle) = Lev Landau, Baku-born, university at 14, Nobel 1962. 18:30 trend tomorrow = US midterm RESULTS (neutral), picked at 09:10 on 4 Nov. All photos fetched and checked.",
@@ -391,5 +391,49 @@
    "image": "out/2026-11-04/q2.jpg",
    "answer_image": "out/2026-11-04/q2_a.jpg"
   }
- ]
+ ],
+ "metricool": {
+  "10:00 tarixdə bu gün carousel (Tutankhamun 1922)": 415531443,
+  "10:00 tarixdə bu gün story": 415533392,
+  "11:00 quiz q1 (recall Olympus Mons)": 415533438,
+  "11:10 answer a1": 415533477,
+  "13:00 reel (Flame Towers, voiced)": 415531512,
+  "14:00 quiz q2 (Flame Towers)": 415533524,
+  "14:10 answer a2": 415533559,
+  "16:00 reel (Mercury, silent)": 415532467,
+  "18:30 reel (trend backup: Danyang-Kunshan bridge, silent)": 415532560,
+  "21:30 reel (Landau, voiced)": 415532698
+ },
+ "tiktok": {
+  "13:00 Flame Towers": 415531586,
+  "18:30 trend backup bridge": 415532646
+ },
+ "youtube": {
+  "11:00 REPOST Pluto": 415533318,
+  "13:00 Flame Towers": 415531552,
+  "16:00 Mercury": 415532518,
+  "18:30 trend backup bridge": 415532600,
+  "19:45 REPOST godwit": 415533363,
+  "21:30 Landau": 415532764
+ },
+ "built": {
+  "when": "2026-11-03 ~20:55 Asia/Baku",
+  "checked": "5 carousel slides, tbg story, 2 quiz + 2 answer stories, 5 frames per reel (4 reels + 2 repost renders) viewed; text in safe zone, no overflow, no watermark",
+  "reel_seconds": {
+   "1": 30.3,
+   "2": 21.9,
+   "3": 20.4,
+   "4": 33.1
+  },
+  "voice": "Banu +15% on reels 1 and 4 (AI labels on IG/TikTok/YouTube); reels 2 and 3 silent",
+  "notes": [
+   "static 16:00 reel (motion starts Thu 5 Nov per STRATEGY RESET)",
+   "hook_bg on all reels"
+  ]
+ },
+ "language_fix": "2026-11-03 evening: reel 1 voice hook numbers in words ('Yüz səksən iki metr'); tbg story credit doubled 'Foto: Foto:' fixed; godwit repost beats rewritten as full sentences ('üzərinə GPS cihazı taxılmış', '13 560 kilometr').",
+ "trend_check_evening": "2026-11-03 ~20:50 Baku: top story = US midterm election day (results tomorrow) - already planned as the 4 Nov 18:30 trend (15:23 swap, neutral). No other dominant story; no swap for tonight's plan. 18:30 = bridge backup until the swap.",
+ "scheduled_check": "getScheduledPosts 4 Nov before scheduling: 0 posts. After: 18 posts (IG 10 incl. 5 stories, TikTok 2, YouTube 6), each network/time exactly once.",
+ "reposts": "4 Nov: 11:00 Pluto (20 Oct n4, IG 164) and 19:45 godwit (19 Oct n1, IG 159; beats rewritten) on YouTube only. Next in line: check getAnalyticsDataByMetrics for the next silent reels never on YouTube.",
+ "pending_schedule": []
 }

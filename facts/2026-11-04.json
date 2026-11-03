@@ -1,0 +1,361 @@
+{
+ "date": "2026-11-04",
+ "status": "planned",
+ "format": "v2",
+ "content_format": "v4",
+ "planned_note": "Planned in the 2026-11-03 09:10 run (format v4, STRATEGY RESET 2026-11-03). Wed 4 Nov = normal day (two-part pairs now Tue/Fri -> first pair Fri 6/Sat 7). 10:00 TBG carousel = Tutankhamun tomb step found 4 Nov 1922. 13:00 AZ reel (VOICED; split test until 8 Nov) = Flame Towers 182 m + 10 000+ LEDs. 16:00 reel (SILENT, space wow) = Mercury: 1 day = 176 Earth days = 2 Mercury years. 18:30 trend backup (SILENT) = Danyang-Kunshan bridge 165 km. 21:30 reel (VOICED, Azerbaijan angle) = Lev Landau, Baku-born, university at 14, Nobel 1962. 18:30 trend tomorrow = US midterm RESULTS (neutral), picked at 09:10 on 4 Nov. All photos fetched and checked.",
+ "two_part": null,
+ "history": {
+  "n": "H",
+  "type": "card",
+  "cat": "Tarix",
+  "day": 4,
+  "month": 11,
+  "year": 1922,
+  "subject": "4 Nov 1922: a worker uncovered a step cut in the rock in the Valley of the Kings - the start of the stairway to Tutankhamun's tomb KV62 (Wikipedia Howard Carter; Archaeology magazine timeline). Other accounts: a water boy found it (Archaeology timeline states it; Wikipedia says disputed) -> 'deyilənə görə'. Carnarvon got the concession 1914, Carter led the work (Wikipedia); 1915-1922 excavations for Carnarvon (Archaeology). By 1922 Carnarvon agreed to fund ONE more season (Wikipedia). 26 Nov 1922 Carter made a 'tiny breach', 'wonderful things' (Wikipedia; Archaeology 'first look' 26 Nov). Over 5 000 items (Wikipedia). Clearing took nearly ten years, to 1932 (Wikipedia). Not used: Carnarvon death/curse (deaths rule), burial-chamber date (sources differ 16/17 Feb 1923).",
+  "photo_request": "Harry Burton 1923 photo of Carter at the shrine (Commons, PD)",
+  "card_title": "4 NOYABR 1922",
+  "title": "Son şans idi: 1 pillə hər şeyi dəyişdi",
+  "text": "1922-ci il noyabrın 4-də Misirdə qayada oyulmuş bir pillə tapıldı. Bu, Tutanxamonun məqbərəsinə aparan pilləkən idi. Axtarış az qala dayandırılacaqdı.",
+  "cover": {
+   "hook": "Son şans idi: 1 pillə hər şeyi dəyişdi",
+   "sub": "4 noyabr 1922 · 104 il əvvəl bu gün"
+  },
+  "slides": [
+   {
+    "h": "1914",
+    "t": "Lord Karnarvon 1914-cü ildə Krallar vadisində qazıntı icazəsi aldı. İşə arxeoloq Hovard Karter rəhbərlik edirdi. İllərlə böyük bir şey tapa bilmədilər."
+   },
+   {
+    "h": "4 noyabr",
+    "t": "1922-ci ildə Karnarvon yalnız son bir mövsümə pul verməyə razı oldu. Noyabrın 4-də qumun altında qayada oyulmuş pillə çıxdı. Deyilənə görə, onu su daşıyan bir oğlan görüb."
+   },
+   {
+    "h": "5 000+",
+    "t": "Noyabrın 26-da Karter divarda kiçik deşik açıb içəri baxdı: «Gözəl şeylər görürəm!» Məqbərədə 5 000-dən çox əşya vardı. Hamısını çıxarmaq 10 ilə yaxın çəkdi."
+   }
+  ],
+  "caption": "104 il əvvəl bu gün bir pillə Tutanxamonun məqbərəsini açdı 🏺\n\nArxeoloq Hovard Karter illərlə Misirin Krallar vadisində qazıntı aparırdı. Pulu verən Lord Karnarvon 1922-ci ildə yalnız son bir mövsümə razı oldu. Noyabrın 4-də qayada oyulmuş bir pillə tapıldı — deyilənə görə, onu su daşıyan bir oğlan görüb. Pilləkən Tutanxamonun məqbərəsinə aparırdı. İçəridə 5 000-dən çox əşya vardı, onları çıxarmaq 10 ilə yaxın çəkdi.\n\n📩 «Daha bəsdir, olmayacaq» deyib işi atmaq istəyən dostuna göndər\n\nFoto: Harry Burton / Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #tarixdəbugün #misir #tarix",
+  "first_comment": "Sən Karterin yerində olsaydın, son mövsümdə də axtarardın? 👇",
+  "quizzes": [
+   {
+    "q": "Tutanxamonun məqbərəsinin ilk pilləsi neçənci ildə tapıldı?",
+    "options": [
+     "1898",
+     "1922",
+     "1948"
+    ],
+    "answer": "1922",
+    "why": "4 noyabr 1922."
+   },
+   {
+    "q": "Məqbərədə təxminən neçə əşya tapıldı?",
+    "options": [
+     "500-dən çox",
+     "5 000-dən çox",
+     "50 000-dən çox"
+    ],
+    "answer": "5 000-dən çox",
+    "why": "Çıxarmaq 10 ilə yaxın çəkdi."
+   },
+   {
+    "q": "Qazıntıya pulu kim verirdi?",
+    "options": [
+     "Lord Karnarvon",
+     "Misir kralı",
+     "Britaniya muzeyi"
+    ],
+    "answer": "Lord Karnarvon",
+    "why": "1922-ci ildə son mövsümə razı oldu."
+   }
+  ],
+  "story": {
+   "day": 4,
+   "month": 11,
+   "year": 1922,
+   "title": "1 pillə məqbərəni açdı",
+   "text": "104 il əvvəl bu gün Misirdə qayada oyulmuş bir pillə tapıldı. Bu, Tutanxamonun məqbərəsinə aparan yol idi. İçəridə 5 000-dən çox əşya vardı.",
+   "credit": "Foto: Harry Burton / Wikimedia Commons"
+  },
+  "sources": [
+   "https://en.wikipedia.org/wiki/Howard_Carter",
+   "https://archive.archaeology.org/online/features/tutwatch/timeline.html"
+  ],
+  "photo": {
+   "path": "fetch/img/2026-11-04_H_carter.jpg",
+   "credit": "Harry Burton / Wikimedia Commons (ictimai mülkiyyət)",
+   "cy": 0.45,
+   "full": true,
+   "source": "https://commons.wikimedia.org/wiki/File:The_Moment_Carter_Opens_the_Shrine.jpg",
+   "note": "Burton photo, Carter and a worker at the shrine doors; checked at size: no watermark/agency arcs. Alts: fetch/img/2026-11-04_H_carter2.jpg (Carter + Callender, PD), fetch/img/2026-11-04_H_kv62.jpg (tomb today, PD), fetch/img/2026-11-04_H_carter3.jpg (sarcophagus, only 780 px)."
+  }
+ },
+ "facts": [
+  {
+   "n": 1,
+   "type": "reel",
+   "cat": "Azərbaycan",
+   "voiced": true,
+   "subject": "Flame Towers, Baku: tallest tower 182 m (Wikipedia; Euronews 'maximum height 182 metres'), other two 165 m and 161 m (Wikipedia infobox). Construction began 2007 (Wikipedia + Euronews; completion 2012 per Wikipedia text vs opening 2013 per Euronews/infobox -> not stated). Facade covered with more than 10 000 high-power LED luminaires (Wikipedia; Euronews 'some 10,000 LED lights') that show flames at night. Planned use: hotel 250 rooms + ~60 serviced apartments, residential ~130 apartments, offices (Wikipedia + Euronews). Architect HOK (both). Cost ~US$350 m (Wikipedia only - not used). Occupancy not stated (2020 paper says two towers unoccupied).",
+   "photo_request": "Flame Towers portrait (Unsplash)",
+   "title": "10 000 işıq: Alov qüllələrinin sirri",
+   "text": "Bakının Alov qüllələrinin ən hündürü 182 metrdir. Gecələr üzlərindəki 10 000-dən çox LED işıq birlikdə yanan alov şəklini göstərir.",
+   "reel_hook": "182 METR VƏ 10 000 İŞIQ: ALOV QÜLLƏLƏRİ",
+   "reel_beats": [
+    "Bakının Alov qüllələri üç binadır. Ən hündürü 182 metrdir. Onları 2007-ci ildə tikməyə başladılar.",
+    "Gecələr qüllələrin üzü böyük ekrana çevrilir. Üstündə 10 000-dən çox güclü LED işıq var. Onlar birlikdə yanan alov şəklini göstərir.",
+    "Layihəyə görə bir qüllə oteldir, biri yaşayış, biri isə ofis binasıdır. Sən Alov qüllələrinə gecə baxmısan?"
+   ],
+   "voice": [
+    "182 metr və on min işıq: Alov qüllələri.",
+    "Bakının Alov qüllələri üç binadır. Ən hündürü yüz səksən iki metrdir. Onları iki min yeddinci ildə tikməyə başladılar.",
+    "Gecələr qüllələrin üzü böyük ekrana çevrilir. Üstündə on mindən çox güclü işıq var. Onlar birlikdə yanan alov şəklini göstərir.",
+    "Layihəyə görə bir qüllə oteldir, biri yaşayış, biri isə ofis binasıdır. Sən Alov qüllələrinə gecə baxmısan?"
+   ],
+   "cta": "Hər gün 13:00-da yeni Bakı faktı — izlə!",
+   "caption": "Alov qüllələrinin üzündə 10 000-dən çox işıq var 🔥\n\nBakının Alov qüllələri üç binadır: ən hündürü 182 metrdir, o biriləri 165 və 161 metr. Onları 2007-ci ildə tikməyə başladılar. Gecələr qüllələrin şüşə üzü böyük ekrana çevrilir: 10 000-dən çox güclü LED işıq birlikdə yanan alov şəklini göstərir. Layihəyə görə bir qüllədə 250 otaqlı otel, birində təxminən 130 mənzil, birində isə ofislər yerləşir.\n\n📩 Bakıya gələndə ilk iş Alov qüllələrinin şəklini çəkən dostuna göndər\n\n👉 Hər gün 13:00-da Azərbaycan haqqında bilmədiyin bir fakt — izlə ki, qaçırmayasan\n\nFoto: Mohammad Wasim / Unsplash\n\n#bilirdinizmi #maraqlıfaktlar #bakı #alovqüllələri #azərbaycan",
+   "first_comment": "Alov qüllələrinə ən gözəl hansı yerdən baxmaq olur? 👇",
+   "quizzes": [
+    {
+     "q": "Ən hündür Alov qülləsi neçə metrdir?",
+     "options": [
+      "142 metr",
+      "182 metr",
+      "242 metr"
+     ],
+     "answer": "182 metr",
+     "why": "O biriləri 165 və 161 metr."
+    },
+    {
+     "q": "Qüllələrin üzündə neçə LED işıq var?",
+     "options": [
+      "1 000-dən çox",
+      "10 000-dən çox",
+      "100 000-dən çox"
+     ],
+     "answer": "10 000-dən çox",
+     "why": "Birlikdə alov şəkli göstərir."
+    },
+    {
+     "q": "Alov qüllələrini neçənci ildə tikməyə başladılar?",
+     "options": [
+      "1997",
+      "2007",
+      "2015"
+     ],
+     "answer": "2007",
+     "why": "2007-ci ildə tikinti başladı."
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Flame_Towers",
+    "https://www.euronews.com/travel/2016/06/02/hot-design-the-towers-that-look-like-flames"
+   ],
+   "verify_note": "182 m, 10 000+ LEDs, 2007 start, hotel 250 rooms, ~130 apartments, offices, HOK: Wikipedia + Euronews both. 165/161 m: Wikipedia infobox only (caption only). Completion year differs (2012 vs 2013) -> not used. Locals know this building: no myth claims, no cost.",
+   "photo": {
+    "path": "fetch/img/2026-11-04_1_flame_u.jpg",
+    "credit": "Mohammad Wasim / Unsplash",
+    "cy": 0.4,
+    "full": true,
+    "source": "https://unsplash.com/photos/white-high-rise-building-near-green-trees-under-blue-sky-during-daytime-U5JxAhddBCs",
+    "note": "Unsplash description 'Flames towers Baku'; all 3 towers, daytime, trees below; checked: no watermark. Alts: fetch/img/2026-11-04_1_flame_night2_u.jpg (Shiva Mardahi, towers lit at dusk with sea reflection - towers small in frame), fetch/img/2026-11-04_1_flame3_u.jpg (S L, close, daytime), fetch/img/2026-11-04_1_flame_night_u.jpg (Orkhan Sweden, one lit tower)."
+   }
+  },
+  {
+   "n": 2,
+   "type": "reel",
+   "cat": "Kosmos",
+   "voiced": false,
+   "subject": "Mercury: orbit 88 Earth days (Wikipedia 87.97 d; Caltech Cool Cosmos 'about 88'); sidereal rotation 58.6 days (both); 3:2 spin-orbit resonance (Wikipedia); one solar day (sunrise to sunrise) ~176 Earth days = twice its year (Wikipedia + Cool Cosmos). Surface -170 C at night to 420 C in sunlight (Wikipedia body text). Sun seems to move backwards at times (Cool Cosmos) - caption only.",
+   "photo_request": "Mercury globe, MESSENGER (NASA, Commons PD)",
+   "title": "176 gün: Merkuridə 1 gün 2 ildən uzundur",
+   "text": "Merkuri Günəşin ətrafını 88 günə fırlanır, amma orada bir günəş doğumundan o birinə 176 Yer günü keçir. Yəni bir gün iki il çəkir.",
+   "reel_hook": "176 GÜN: MERKURİDƏ 1 GÜN 2 İLDƏN UZUNDUR",
+   "reel_beats": [
+    "Merkuri Günəşin ətrafını 88 günə fırlanır. Bu, onun bir ilidir. Amma öz oxu ətrafında çox yavaş dönür.",
+    "Ona görə orada bir günəş doğumundan o biri doğuma qədər 176 Yer günü keçir. Yəni bir gün iki il çəkir.",
+    "Gündüz səth 420 dərəcəyə qədər qızır, gecə isə mənfi 170 dərəcəyə qədər soyuyur. Belə uzun gündə nə edərdin?"
+   ],
+   "caption": "Merkuridə 1 gün 2 ildən uzundur: 176 Yer günü ☀️\n\nMerkuri Günəşə ən yaxın planetdir və onun ətrafını cəmi 88 günə fırlanır. Amma öz oxu ətrafında çox yavaş dönür. Bu iki hərəkət elə düşür ki, bir günəş doğumundan o biri doğuma qədər təxminən 176 Yer günü keçir — yəni Merkurinin iki ili. Uzun gündüzdə səth 420 dərəcəyə qədər qızır, uzun gecədə isə mənfi 170 dərəcəyə qədər soyuyur. Bəzi anlarda orada Günəş göydə hətta geri gedirmiş kimi görünür.\n\n📩 «Bu gün heç bitmir» deyən dostuna göndər — Merkuridə gün 176 gündür\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: NASA / JHUAPL\n\n#bilirdinizmi #maraqlıfaktlar #kosmos #merkuri #planetlər",
+   "first_comment": "Bir gün 176 gün çəksəydi, sən nə edərdin? 👇",
+   "quizzes": [
+    {
+     "q": "Merkuri Günəşin ətrafını neçə günə fırlanır?",
+     "options": [
+      "28",
+      "88",
+      "365"
+     ],
+     "answer": "88",
+     "why": "Bu, Merkurinin bir ilidir."
+    },
+    {
+     "q": "Merkuridə bir günəş günü neçə Yer günüdür?",
+     "options": [
+      "24",
+      "59",
+      "176"
+     ],
+     "answer": "176",
+     "why": "Merkurinin iki ili qədər."
+    },
+    {
+     "q": "Merkuridə gündüz səth neçə dərəcəyə qədər qızır?",
+     "options": [
+      "120",
+      "420",
+      "920"
+     ],
+     "answer": "420",
+     "why": "Gecə isə mənfi 170 dərəcə."
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mercury_(planet)",
+    "https://coolcosmos.ipac.caltech.edu/ask/23-How-long-is-a-day-on-Mercury-"
+   ],
+   "verify_note": "88 d, 58.6 d, 176 d = 2 years: Wikipedia + Caltech Cool Cosmos. Temperatures: Wikipedia body (-170/420 C). Sun moving backwards: Cool Cosmos ('even going eastward ... at some points') - caption, worded 'kimi görünür'. Not trivia-level: the 'day longer than year' fact is usually told about Venus.",
+   "photo": {
+    "path": "fetch/img/2026-11-04_2_mercury.jpg",
+    "credit": "NASA / JHUAPL",
+    "cy": 0.5,
+    "full": false,
+    "source": "https://commons.wikimedia.org/wiki/File:Mercury_Globe-MESSENGER_mosaic_centered_at_0degN-0degE.jpg",
+    "note": "square MESSENGER globe on black, public domain; checked: no watermark."
+   }
+  },
+  {
+   "n": 3,
+   "type": "reel",
+   "cat": "Coğrafiya",
+   "voiced": false,
+   "subject": "Danyang-Kunshan Grand Bridge, China: world's longest bridge, part of the Beijing-Shanghai High-Speed Railway, opened June 2011, ~165 km (LiveScience citing Britannica; 164.8 km widely cited, Guinness). Built in 4 years by 10 000 workers (LiveScience). Section over Yangcheng Lake ~9 km on 2 000 pillars; mostly crosses rice paddies of the Yangtze delta (LiveScience). Cost: LiveScience says '$8.5 million' (obvious error for billion) -> not used.",
+   "photo_request": "Danyang-Kunshan bridge (Commons)",
+   "title": "165 km: dünyanın ən uzun körpüsü",
+   "text": "Çindəki Danyan–Kunşan körpüsü təxminən 165 kilometrdir. Onu 4 ilə 10 000 işçi tikdi, üstündən sürətli qatarlar keçir.",
+   "reel_hook": "165 KM: DÜNYANIN ƏN UZUN KÖRPÜSÜ",
+   "reel_beats": [
+    "Çindəki Danyan–Kunşan körpüsü təxminən 165 kilometrdir. Bu, dünyanın ən uzun körpüsüdür. Üstündən sürətli qatarlar keçir.",
+    "Onu cəmi 4 ilə tikdilər, işdə 10 000 nəfər çalışdı. Körpü 2011-ci ildə açıldı.",
+    "Çox hissəsi düyü tarlalarının üstündən keçir. Göl üstündəki 9 kilometrlik hissə 2 000 dirəyin üstündə durur. Bu körpü ilə getmək istərdin?"
+   ],
+   "caption": "Dünyanın ən uzun körpüsü 165 kilometrdir 🌉\n\nÇindəki Danyan–Kunşan körpüsü Pekin–Şanxay sürətli dəmir yolunun bir hissəsidir. Uzunluğu təxminən 165 kilometrdir. Onu cəmi 4 ilə tikdilər, işdə 10 000 nəfər çalışdı, körpü 2011-ci ildə açıldı. Körpünün çox hissəsi çay deltasındakı düyü tarlalarının üstündən keçir. Yançen gölünün üstündəki 9 kilometrlik hissə isə 2 000 dirəyin üstündə durur.\n\n📩 «Yol çox uzundur, getmirəm» deyən dostuna göndər\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: MNXANL / Wikimedia Commons (CC BY-SA 4.0)\n\n#bilirdinizmi #maraqlıfaktlar #çin #körpü #rekord",
+   "first_comment": "Sən ən uzun hansı körpüdən keçmisən? 👇",
+   "quizzes": [
+    {
+     "q": "Danyan–Kunşan körpüsü təxminən neçə kilometrdir?",
+     "options": [
+      "65 km",
+      "165 km",
+      "565 km"
+     ],
+     "answer": "165 km",
+     "why": "Dünyanın ən uzun körpüsü."
+    },
+    {
+     "q": "Körpünü neçə ilə tikdilər?",
+     "options": [
+      "4",
+      "12",
+      "20"
+     ],
+     "answer": "4",
+     "why": "10 000 nəfər işlədi."
+    },
+    {
+     "q": "Körpünün üstündən nə keçir?",
+     "options": [
+      "Maşınlar",
+      "Sürətli qatarlar",
+      "Yalnız piyadalar"
+     ],
+     "answer": "Sürətli qatarlar",
+     "why": "Pekin–Şanxay sürətli dəmir yolu."
+    }
+   ],
+   "sources": [
+    "https://www.livescience.com/34448-worlds-longest-bridge.html",
+    "https://en.wikipedia.org/wiki/Danyang%E2%80%93Kunshan_Grand_Bridge"
+   ],
+   "verify_note": "Length/railway/2011/4 years/10 000 workers/9 km lake section/2 000 pillars/rice paddies: LiveScience (citing Britannica). Wikipedia not readable this run (blocked) - 164.8 km is the commonly cited Guinness figure; we round to 'təxminən 165'. AZ name rendering: Danyan–Kunşan, Yançen gölü. Re-check at evening build if possible.",
+   "photo": {
+    "path": "fetch/img/2026-11-04_3_bridge.jpg",
+    "credit": "MNXANL / Wikimedia Commons (CC BY-SA 4.0)",
+    "cy": 0.5,
+    "full": false,
+    "source": "https://commons.wikimedia.org/wiki/File:201603_Danyang-Kunshan_grand_bridge_(wuxi).JPG",
+    "note": "landscape, hazy aerial view of the viaduct over fields (Wuxi, 2016); checked: no watermark. Weak but accurate; use cx ~0.5. Alt: fetch/img/2026-11-04_3_bridge2.png (route map, CC BY-SA 2.0)."
+   }
+  },
+  {
+   "n": 4,
+   "type": "reel",
+   "cat": "Azərbaycan",
+   "voiced": true,
+   "subject": "Lev Landau: born 22 Jan 1908 in Baku; learned differential calculus at 12 and integral calculus at 13; graduated from gymnasium in 1920 at 13; in 1922 at 14 entered Baku State University, studying in two departments at once (physics-mathematics and chemistry); moved to Leningrad 1924; 1962 Nobel Prize in Physics for the theory of superfluidity / liquid helium (Wikipedia Lev Landau; Nobel page blocked this run; Britannica/encyclopedia.com list the same Baku birth + 1962 Nobel). Landau scale (Newton 0, Einstein 0.5) - caption only.",
+   "photo_request": "Lev Landau portrait (Nobel Foundation, Commons PD)",
+   "title": "14 yaşında universitetə: Bakılı Nobel alimi",
+   "text": "Lev Landau 1908-ci ildə Bakıda doğuldu. 14 yaşında Bakı Dövlət Universitetinə daxil oldu, 1962-ci ildə isə fizika üzrə Nobel mükafatı aldı.",
+   "reel_hook": "14 YAŞINDA UNİVERSİTETƏ: BAKILI NOBEL ALİMİ",
+   "reel_beats": [
+    "Lev Landau 1908-ci ildə Bakıda doğuldu. 12–13 yaşında artıq ali riyaziyyatı öyrənmişdi.",
+    "13 yaşında məktəbi bitirdi. 14 yaşında isə Bakı Dövlət Universitetinə daxil oldu və eyni vaxtda iki fakültədə oxudu.",
+    "1962-ci ildə Landau fizika üzrə Nobel mükafatı aldı. Mükafatı maye heliumun sirrini açan nəzəriyyəyə görə verdilər. Sən 14 yaşında nə edirdin?"
+   ],
+   "voice": [
+    "On dörd yaşında universitetə: Bakılı Nobel alimi.",
+    "Lev Landau min doqquz yüz səkkizinci ildə Bakıda doğuldu. On iki, on üç yaşında artıq ali riyaziyyatı öyrənmişdi.",
+    "On üç yaşında məktəbi bitirdi. On dörd yaşında isə Bakı Dövlət Universitetinə daxil oldu və eyni vaxtda iki fakültədə oxudu.",
+    "Min doqquz yüz altmış ikinci ildə Landau fizika üzrə Nobel mükafatı aldı. Mükafatı maye heliumun sirrini açan nəzəriyyəyə görə verdilər. Sən on dörd yaşında nə edirdin?"
+   ],
+   "caption": "14 yaşında universitetə girən bakılı Nobel mükafatı aldı 🎓\n\nLev Landau 1908-ci ildə Bakıda doğulub. 12 yaşında ali riyaziyyatın ilk hissəsini, 13 yaşında isə o birini öyrənmişdi. 13 yaşında məktəbi bitirdi, 14 yaşında Bakı Dövlət Universitetinə daxil oldu və eyni vaxtda iki fakültədə — fizika-riyaziyyat və kimya fakültələrində oxudu. 1962-ci ildə maye heliumun qəribə xüsusiyyətlərini izah edən nəzəriyyəyə görə fizika üzrə Nobel mükafatı aldı. Maraqlıdır ki, o, fizikləri öz cədvəlində sıralayırdı: Nyutona ən yüksək yeri, Eynşteynə ikinci yeri vermişdi.\n\n📩 «Mən gec başlamışam» deyən dostuna göndər — Landau 14 yaşında universitetdə idi\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Nobel Foundation / Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #bakı #nobel #fizika",
+   "first_comment": "Bakıda doğulan başqa hansı məşhur alimi tanıyırsan? 👇",
+   "quizzes": [
+    {
+     "q": "Lev Landau neçə yaşında universitetə daxil oldu?",
+     "options": [
+      "14",
+      "17",
+      "19"
+     ],
+     "answer": "14",
+     "why": "1922-ci ildə, Bakı Dövlət Universitetinə."
+    },
+    {
+     "q": "Landau Nobel mükafatını neçənci ildə aldı?",
+     "options": [
+      "1932",
+      "1962",
+      "1992"
+     ],
+     "answer": "1962",
+     "why": "Fizika üzrə."
+    },
+    {
+     "q": "Landau universitetdə neçə fakültədə oxudu?",
+     "options": [
+      "1",
+      "2",
+      "3"
+     ],
+     "answer": "2",
+     "why": "Eyni vaxtda iki fakültədə."
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Lev_Landau",
+    "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/lev-davidovich-landau"
+   ],
+   "verify_note": "All beat facts from Wikipedia (birth Baku 22 Jan 1908; calculus 12/13; school 1920 at 13; BSU 1922 at 14, two departments; Nobel 1962 superfluidity/liquid helium II). Baku birth + 1962 Nobel also in encyclopedia.com/Britannica search results. Landau scale (Newton 0, Einstein 0.5): Wikipedia, caption only. Hook is about a person + age number (not abstract theory) - lesson from Lotfi Zadeh. Re-check Nobel motivation wording at evening build if nobelprize.org is reachable.",
+   "photo": {
+    "path": "fetch/img/2026-11-04_4_landau.jpg",
+    "credit": "Nobel Foundation / Wikimedia Commons (ictimai mülkiyyət)",
+    "cy": 0.4,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Landau.jpg",
+    "note": "close Nobel Foundation portrait, public domain; checked: no watermark. Face y~0.4. Alt fetch/img/2026-11-04_4_landau2.jpg (Landau 1964 with students, CC BY 4.0 Glavarkhiv Moskvy)."
+   }
+  }
+ ],
+ "language_check": "Self-check 2026-11-03 09:40 (section L): short spoken sentences; no English in brackets; 'alver günü' (not 'bazar günü') for market day in the trend; cases checked ('qüllələrə baxmaq', 'universitetə daxil olmaq', 'mövsümə pul vermək', 'dirəyin üstündə durmaq'); voice texts with numbers in words; ı/i, ə/e checked; 'Gözəl şeylər görürəm!' as natural rendering of 'wonderful things'."
+}

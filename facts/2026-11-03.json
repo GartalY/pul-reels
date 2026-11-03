@@ -527,7 +527,14 @@
    "https://www.cbsnews.com/news/why-tuesday/"
   ],
   "verify_note": "435 + 35 + date: TNND Fact Check Team (okcfox) + SBS 3 Nov (elections today). 1845 + Tuesday-after-first-Monday: NPR + Mental Floss + CBS. Monday/Sunday-rest and Wednesday-market reasons: NPR + Mental Floss (CBS quotes whytuesday.org). 'a day or longer' travel: CBS/whytuesday.org only -> 'bəzən daha çox'. Harvest/November: Mental Floss only (caption only). '181 il' = 2026-1845. Neutral: no party, candidate, poll or prediction. Wording 'Bazar günü istirahət günü idi' avoids the religion angle. 'Alver günü' used instead of 'bazar günü' to avoid the Sunday/market confusion in AZ. At 15:23 re-check nothing dramatic happened (e.g. violence) that would need sober mode.",
-  "photo": null,
+  "photo": {
+   "path": "fetch/img/2026-11-03_T_capitol_u.jpg",
+   "credit": "Andy Feliciotti / Unsplash",
+   "cy": 0.4,
+   "full": true,
+   "source": "https://unsplash.com/photos/white-and-brown-concrete-building-MCWONeEXhC4",
+   "note": "Unsplash description names the US Capitol (flag on dome); checked: no watermark, no people. Alt fetch/img/2026-11-03_T_capitol2_u.jpg (Andy Feliciotti, wide Capitol, long exposure)."
+  },
   "trend_check": "2026-11-03 09:15 Baku: headlines (The Standard HK recap, SBS 3 Nov): US midterms today (top story), Lee Jae-myung passport leak, Ukraine/Russia alert-app hack, Russian strike on a Zaporizhzhia school (war/tragedy - skip), Iran-US Hormuz talks. No AZ-dominant non-political story found. Results trend = tomorrow (4 Nov) 09:10 run."
  }
 }

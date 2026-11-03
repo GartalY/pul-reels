@@ -17,7 +17,12 @@ everything you got". Use the whole night; deliver by ~09:00 Baku. Quality over s
   (free, Apache-2.0, kokoro-onnx models from GitHub). VOICE: `af_heart` (American female) — Gartal chose it for now on 2026-11-02 (switched from male);
   Gartal liked all 3 test voices and will decide later.
 - Music bed and SFX at least 20 dB under the voice (Gartal: Caspian water SFX was "too loud").
-- No burned-in subtitles in the 16:9 master; write an .srt next to it.
+- SUBTITLES (decided 2026-11-03): no burned-in subtitles in the 16:9 master (the animation already carries a lot of
+  on-screen text); write an .srt and send it to Gartal with the thumbnail so he uploads it as YouTube captions.
+  SHORTS get burned-in word captions (make_shorts.py, Bungee, ≤4 words per cue) for sound-off viewing.
+- THUMBNAIL: 1280x720 jpg made with the engine (pattern: episodes/ep01_bees/tools/thumb.js — guide character +
+  3–5 big words + one visual of the payoff). After the long video goes live, tell Gartal and send him the
+  thumbnail + .srt (he sets them in YouTube Studio).
 - ENDING (Gartal 2026-11-03): payoff → end card with a spoken + animated call to action: like the video,
   subscribe to Whyverse, find us on Instagram (@whyverse___) and TikTok (@Whyverse) for shorter stories.
   Never announce the next topic.

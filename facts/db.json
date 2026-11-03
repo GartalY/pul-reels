@@ -3169,7 +3169,9 @@
      "why": "Ondan yuxarısı şpildir."
     }
    ],
-   "asked": []
+   "asked": [],
+   "unposted": true,
+   "unposted_note": "3 Nov 18:30 backup replaced by US Election Day trend reel; built reel out/2026-11-03/3_reel.mp4 can be reused on a later day"
   },
   {
    "id": "2026-11-03-4",
@@ -3206,6 +3208,45 @@
      ],
      "answer": "33 il",
      "why": "Sonra vertolyotla endirildi."
+    }
+   ],
+   "asked": []
+  },
+  {
+   "id": "2026-11-03-T",
+   "date": "2026-11-03",
+   "subject": "US midterm elections, Tue 3 Nov 2026: all 435 House seats and 35 Senate seats on the ballot; election day set for Tuesday 3 Nov 2026 (TNND Fact Check Team via okcfox, 18 Sep 2026). Why Tuesday: 1845 federal law set 'the Tuesday after the first Monday in November' (NPR 2012, Mental Floss 2023, CBS/whytuesday.org). Reasons: travel to the polls could take a day or longer (CBS/whytuesday.org); Monday ruled out because people would have to travel on Sunday, a day of rest (NPR, Mental Floss); Wednesday was market day (NPR, Mental Floss, CBS). November: harvest finished, winter not yet (Mental Floss). Neutral explainer, no parties/candidates/predictions (section D/T).",
+   "cat": "Tarix",
+   "quizzes": [
+    {
+     "q": "ABŞ-da seçki günü neçənci ildə təyin olunub?",
+     "options": [
+      "1776",
+      "1845",
+      "1920"
+     ],
+     "answer": "1845",
+     "why": "1845-ci il qanunu ilə."
+    },
+    {
+     "q": "Niyə çərşənbə günü seçki keçirmədilər?",
+     "options": [
+      "Alver günü idi",
+      "Bayram idi",
+      "Məktəb günü idi"
+     ],
+     "answer": "Alver günü idi",
+     "why": "Fermerlər bazara gedirdi."
+    },
+    {
+     "q": "Bu gün Nümayəndələr Palatasının neçə yeri seçilir?",
+     "options": [
+      "100",
+      "435",
+      "535"
+     ],
+     "answer": "435",
+     "why": "Hamısı - 435 yer."
     }
    ],
    "asked": []

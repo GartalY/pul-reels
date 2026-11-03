@@ -235,68 +235,77 @@
    }
   },
   {
-   "n": 3,
+   "n": "T",
    "type": "reel",
-   "cat": "Coğrafiya",
+   "format": "v4",
+   "cat": "Tarix",
    "voiced": false,
-   "subject": "Burj Khalifa, Dubai: 828 m tall; highest occupiable floor 585 m; the top 244 m (29%) is 'vanity height' - unusable spire (CTBUH 2013 study via Reuters/VOA 5 Sep 2013; Gulf News; Wikipedia Vanity height + Burj Khalifa). The 244 m alone 'would rank on its own as the 11th tallest building in Europe' (Reuters/VOA 2013; Gulf News). Even without the vanity height it would still be the world's tallest by highest occupied floor (CTBUH's Daniel Safarik in Gulf News; Wikipedia: by ~2 m over Shanghai Tower). Spire >4 000 t of steel (Wikipedia). Opened 4 Jan 2010 (Wikipedia). Highest UAE share: Burj Al Arab 38.5% (Gulf News) - not used.",
-   "photo_request": "Burj Khalifa full height, portrait (Unsplash)",
-   "title": "244 metr: Bürc Xəlifənin zirvəsi boşdur",
-   "text": "Bürc Xəlifənin hündürlüyü 828 metrdir, amma ən yuxarı istifadə olunan mərtəbə 585 metrdədir. Qalan 244 metr içində heç kim yaşamayan şpildir.",
-   "reel_hook": "244 METR: BÜRC XƏLİFƏNİN ZİRVƏSİ BOŞDUR",
+   "subject": "US midterm elections, Tue 3 Nov 2026: all 435 House seats and 35 Senate seats on the ballot; election day set for Tuesday 3 Nov 2026 (TNND Fact Check Team via okcfox, 18 Sep 2026). Why Tuesday: 1845 federal law set 'the Tuesday after the first Monday in November' (NPR 2012, Mental Floss 2023, CBS/whytuesday.org). Reasons: travel to the polls could take a day or longer (CBS/whytuesday.org); Monday ruled out because people would have to travel on Sunday, a day of rest (NPR, Mental Floss); Wednesday was market day (NPR, Mental Floss, CBS). November: harvest finished, winter not yet (Mental Floss). Neutral explainer, no parties/candidates/predictions (section D/T).",
+   "photo_request": "US Capitol, Washington (Unsplash)",
+   "title": "181 ildir ABŞ çərşənbə axşamı seçir",
+   "text": "Bu gün ABŞ-da seçki günüdür. 1845-ci ildən bəri seçkilər noyabrda, çərşənbə axşamı keçirilir. Səbəb o vaxtkı fermerlərin həyatıdır.",
+   "reel_hook": "181 İLDİR ABŞ ÇƏRŞƏNBƏ AXŞAMI SEÇİR",
    "reel_beats": [
-    "Dubaydakı Bürc Xəlifə dünyanın ən hündür binasıdır: 828 metr. Amma ən yuxarı mərtəbə, insanların gedə bildiyi yer, 585 metrdədir.",
-    "Qalan 244 metr iti şpildir, içində demək olar ki, yer yoxdur. Bu, binanın 29 faizidir. Buna «təkəbbür hündürlüyü» deyirlər.",
-    "2013-cü ildə hesablayıblar ki, bu boş hissə ayrıca bina olsaydı, Avropanın 11-ci ən hündür binası olardı. Səncə, bu, lazımsız xərcdir, yoxsa gözəllik?"
+    "Bu gün ABŞ-da seçki günüdür. Nümayəndələr Palatasının 435 yerinin hamısı və Senatın 35 yeri seçilir.",
+    "Seçki günü 1845-ci ildə qanunla təyin olunub. O vaxt çoxu fermer idi. Seçki yerinə at arabası ilə getmək bir gün, bəzən daha çox çəkirdi.",
+    "Bazar günü istirahət günü idi, çərşənbə isə alver günü. Ona görə çərşənbə axşamını seçdilər. Səncə, seçki hansı gün olmalıdır?"
    ],
-   "caption": "Dünyanın ən hündür binasının 244 metri boşdur 🏙️\n\nBürc Xəlifənin hündürlüyü 828 metrdir. Amma ən yuxarı istifadə olunan mərtəbə 585 metrdədir. Ondan yuxarıdakı 244 metr iti şpildir — içində demək olar ki, istifadə olunan yer yoxdur. Hündür binalar üzrə beynəlxalq şura 2013-cü ildə buna «təkəbbür hündürlüyü» adını verdi: bu, binanın 29 faizidir. Həmin boş hissə ayrıca bina olsaydı, o vaxt Avropanın 11-ci ən hündür binası olardı. Maraqlıdır ki, şpil olmasa belə, Bürc Xəlifə yenə də dünyanın ən hündür binası qalardı.\n\n📩 Həmişə «bir az da hündür olsun» deyən dostuna göndər 😄\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Damian Kamp / Unsplash\n\n#bilirdinizmi #maraqlıfaktlar #dubay #memarlıq #rekord",
-   "first_comment": "Bürc Xəlifəyə çıxmısan? Neçənci mərtəbəyə? 👇",
+   "caption": "181 ildir ABŞ-da seçki çərşənbə axşamı keçirilir 🗳️\n\nBu gün ABŞ-da ara seçkilərdir: Nümayəndələr Palatasının 435 yerinin hamısı və Senatın 35 yeri seçilir. Seçki günü 1845-ci ildə qanunla təyin olunub: «noyabrın ilk bazar ertəsindən sonrakı çərşənbə axşamı». O vaxt amerikalıların çoxu fermer idi. Noyabrda məhsul yığılırdı, qış isə hələ gəlmirdi. Seçki yerinə at arabası ilə getmək bir gün, bəzən daha çox çəkirdi. Bazar günü istirahət günü idi, çərşənbə isə alver günü. Ona görə çərşənbə axşamını seçdilər.\n\n📩 Hər şeyi «niyə belədir?» deyə soruşan dostuna göndər\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Andy Feliciotti / Unsplash\n\n#bilirdinizmi #maraqlıfaktlar #abş #seçki #tarix",
+   "first_comment": "Səncə, seçki hansı gün olmalıdır: iş günü, yoxsa həftəsonu? 👇",
    "quizzes": [
     {
-     "q": "Bürc Xəlifənin hündürlüyü nə qədərdir?",
+     "q": "ABŞ-da seçki günü neçənci ildə təyin olunub?",
      "options": [
-      "628 metr",
-      "828 metr",
-      "1 028 metr"
+      "1776",
+      "1845",
+      "1920"
      ],
-     "answer": "828 metr",
-     "why": "Dünyanın ən hündür binası."
+     "answer": "1845",
+     "why": "1845-ci il qanunu ilə."
     },
     {
-     "q": "Binanın yuxarıdakı boş hissəsi neçə metrdir?",
+     "q": "Niyə çərşənbə günü seçki keçirmədilər?",
      "options": [
-      "44 metr",
-      "144 metr",
-      "244 metr"
+      "Alver günü idi",
+      "Bayram idi",
+      "Məktəb günü idi"
      ],
-     "answer": "244 metr",
-     "why": "Hündürlüyün 29 faizi."
+     "answer": "Alver günü idi",
+     "why": "Fermerlər bazara gedirdi."
     },
     {
-     "q": "Ən yuxarı istifadə olunan mərtəbə neçə metrdədir?",
+     "q": "Bu gün Nümayəndələr Palatasının neçə yeri seçilir?",
      "options": [
-      "385 metr",
-      "585 metr",
-      "785 metr"
+      "100",
+      "435",
+      "535"
      ],
-     "answer": "585 metr",
-     "why": "Ondan yuxarısı şpildir."
+     "answer": "435",
+     "why": "Hamısı - 435 yer."
     }
    ],
    "sources": [
-    "https://www.voanews.com/a/reu-uae-has-world-vainest-skyscrapers/1743913.html",
-    "https://gulfnews.com/amp/story/uae%2Fvanity-height-apart-burj-khalifa-still-tallest-in-the-world-1.1230151",
-    "https://en.wikipedia.org/wiki/Vanity_height",
-    "https://en.wikipedia.org/wiki/Burj_Khalifa"
+    "https://okcfox.com/news/nation-world/fact-check-team-435-house-seats-and-35-senate-races-hit-the-ballot-in-november-election-day-congress-candidates-voters",
+    "https://www.npr.org/transcripts/164389324",
+    "https://www.mentalfloss.com/history/government-politics/why-are-elections-held-tuesdays",
+    "https://www.cbsnews.com/news/why-tuesday/"
    ],
-   "verify_note": "828 / 585 / 244 m / 29%: Reuters-VOA 2013 + Gulf News (29.4%) + Wikipedia (29.3%) -> '29 faiz'. 11th tallest in Europe: Reuters-VOA + Gulf News, stated as of 2013 ('o vaxt'). Still tallest without spire: CTBUH via Gulf News + Wikipedia. 'Təkəbbür hündürlüyü' = our AZ rendering of 'vanity height' (no common AZ term), introduced as what experts call it. Not used: Ramadan sunset-by-floor fact (religion rule).",
+   "verify_note": "435 + 35 + date: TNND Fact Check Team (okcfox) + SBS 3 Nov (elections today). 1845 + Tuesday-after-first-Monday: NPR + Mental Floss + CBS. Monday/Sunday-rest and Wednesday-market reasons: NPR + Mental Floss (CBS quotes whytuesday.org). 'a day or longer' travel: CBS/whytuesday.org only -> 'bəzən daha çox'. Harvest/November: Mental Floss only (caption only). '181 il' = 2026-1845. Neutral: no party, candidate, poll or prediction. Wording 'Bazar günü istirahət günü idi' avoids the religion angle. 'Alver günü' used instead of 'bazar günü' to avoid the Sunday/market confusion in AZ. At 15:23 re-check nothing dramatic happened (e.g. violence) that would need sober mode.",
    "photo": {
-    "path": "fetch/img/2026-11-03_3_burj_u.jpg",
-    "credit": "Damian Kamp / Unsplash",
-    "cy": 0.35,
+    "path": "fetch/img/2026-11-03_T_capitol_u.jpg",
+    "credit": "Andy Feliciotti / Unsplash",
+    "cy": 0.4,
     "full": true,
-    "source": "https://unsplash.com/photos/burj-khalifa-skyscraper-surrounded-by-palm-trees-and-modern-buildings-pK4fWMgw2xw",
-    "note": "Unsplash alt text names Burj Khalifa; portrait with full spire; checked: no watermark. Alt fetch/img/2026-11-03_3_burj.jpg (sunset skyline, Eric Chamchoum CC BY 4.0)."
+    "source": "https://unsplash.com/photos/white-and-brown-concrete-building-MCWONeEXhC4",
+    "note": "Unsplash description names the US Capitol (flag on dome); checked: no watermark, no people. Alt fetch/img/2026-11-03_T_capitol2_u.jpg (Andy Feliciotti, wide Capitol, long exposure)."
+   },
+   "trend_check": "2026-11-03 09:15 Baku: headlines (The Standard HK recap, SBS 3 Nov): US midterms today (top story), Lee Jae-myung passport leak, Ukraine/Russia alert-app hack, Russian strike on a Zaporizhzhia school (war/tragedy - skip), Iran-US Hormuz talks. No AZ-dominant non-political story found. Results trend = tomorrow (4 Nov) 09:10 run.",
+   "reel_file": "out/2026-11-03/T_reel.mp4",
+   "render": {
+    "seed": 3,
+    "cy": 0.4,
+    "hook_bg": true,
+    "dur_s": 22.8
    }
   },
   {
@@ -417,24 +426,24 @@
   "14:00 quiz q2 (Maiden Tower)": 414294876,
   "14:10 answer a2": 414294933,
   "16:00 reel (Olympus Mons, silent)": 414293227,
-  "18:30 reel (Burj Khalifa backup, silent)": 414293335,
-  "21:30 reel (Angel Falls, voiced)": 414294648
+  "21:30 reel (Angel Falls, voiced)": 414294648,
+  "18:30 TREND reel (US Election Day, silent)": 415136235
  },
  "tiktok": {
   "11:00 REPOST 2026-10-19 n4 Voyager (safe layout)": 414294970,
   "13:00 Maiden Tower": 414292310,
   "16:00 Olympus Mons": 414293273,
-  "18:30 Burj Khalifa": 414293375,
   "19:45 REPOST 2026-10-17 n3 Greenland shark (safe layout)": 414295046,
-  "21:30 Angel Falls": 414294698
+  "21:30 Angel Falls": 414294698,
+  "18:30 TREND US Election Day": 415136274
  },
  "youtube": {
   "11:00 REPOST Voyager": 414295004,
   "13:00 Maiden Tower": 414292345,
   "16:00 Olympus Mons": 414293300,
-  "18:30 Burj Khalifa": 414293402,
   "19:45 REPOST shark": 414295067,
-  "21:30 Angel Falls": 414294749
+  "21:30 Angel Falls": 414294749,
+  "18:30 TREND US Election Day": 415136375
  },
  "built": {
   "when": "2026-11-02 ~21:30 Asia/Baku",
@@ -535,6 +544,86 @@
    "source": "https://unsplash.com/photos/white-and-brown-concrete-building-MCWONeEXhC4",
    "note": "Unsplash description names the US Capitol (flag on dome); checked: no watermark, no people. Alt fetch/img/2026-11-03_T_capitol2_u.jpg (Andy Feliciotti, wide Capitol, long exposure)."
   },
-  "trend_check": "2026-11-03 09:15 Baku: headlines (The Standard HK recap, SBS 3 Nov): US midterms today (top story), Lee Jae-myung passport leak, Ukraine/Russia alert-app hack, Russian strike on a Zaporizhzhia school (war/tragedy - skip), Iran-US Hormuz talks. No AZ-dominant non-political story found. Results trend = tomorrow (4 Nov) 09:10 run."
+  "trend_check": "2026-11-03 09:15 Baku: headlines (The Standard HK recap, SBS 3 Nov): US midterms today (top story), Lee Jae-myung passport leak, Ukraine/Russia alert-app hack, Russian strike on a Zaporizhzhia school (war/tragedy - skip), Iran-US Hormuz talks. No AZ-dominant non-political story found. Results trend = tomorrow (4 Nov) 09:10 run.",
+  "reel_file": "out/2026-11-03/T_reel.mp4",
+  "render": {
+   "seed": 3,
+   "cy": 0.4,
+   "hook_bg": true,
+   "dur_s": 22.8
+  }
+ },
+ "backup_unused": {
+  "n": 3,
+  "type": "reel",
+  "cat": "Coğrafiya",
+  "voiced": false,
+  "subject": "Burj Khalifa, Dubai: 828 m tall; highest occupiable floor 585 m; the top 244 m (29%) is 'vanity height' - unusable spire (CTBUH 2013 study via Reuters/VOA 5 Sep 2013; Gulf News; Wikipedia Vanity height + Burj Khalifa). The 244 m alone 'would rank on its own as the 11th tallest building in Europe' (Reuters/VOA 2013; Gulf News). Even without the vanity height it would still be the world's tallest by highest occupied floor (CTBUH's Daniel Safarik in Gulf News; Wikipedia: by ~2 m over Shanghai Tower). Spire >4 000 t of steel (Wikipedia). Opened 4 Jan 2010 (Wikipedia). Highest UAE share: Burj Al Arab 38.5% (Gulf News) - not used.",
+  "photo_request": "Burj Khalifa full height, portrait (Unsplash)",
+  "title": "244 metr: Bürc Xəlifənin zirvəsi boşdur",
+  "text": "Bürc Xəlifənin hündürlüyü 828 metrdir, amma ən yuxarı istifadə olunan mərtəbə 585 metrdədir. Qalan 244 metr içində heç kim yaşamayan şpildir.",
+  "reel_hook": "244 METR: BÜRC XƏLİFƏNİN ZİRVƏSİ BOŞDUR",
+  "reel_beats": [
+   "Dubaydakı Bürc Xəlifə dünyanın ən hündür binasıdır: 828 metr. Amma ən yuxarı mərtəbə, insanların gedə bildiyi yer, 585 metrdədir.",
+   "Qalan 244 metr iti şpildir, içində demək olar ki, yer yoxdur. Bu, binanın 29 faizidir. Buna «təkəbbür hündürlüyü» deyirlər.",
+   "2013-cü ildə hesablayıblar ki, bu boş hissə ayrıca bina olsaydı, Avropanın 11-ci ən hündür binası olardı. Səncə, bu, lazımsız xərcdir, yoxsa gözəllik?"
+  ],
+  "caption": "Dünyanın ən hündür binasının 244 metri boşdur 🏙️\n\nBürc Xəlifənin hündürlüyü 828 metrdir. Amma ən yuxarı istifadə olunan mərtəbə 585 metrdədir. Ondan yuxarıdakı 244 metr iti şpildir — içində demək olar ki, istifadə olunan yer yoxdur. Hündür binalar üzrə beynəlxalq şura 2013-cü ildə buna «təkəbbür hündürlüyü» adını verdi: bu, binanın 29 faizidir. Həmin boş hissə ayrıca bina olsaydı, o vaxt Avropanın 11-ci ən hündür binası olardı. Maraqlıdır ki, şpil olmasa belə, Bürc Xəlifə yenə də dünyanın ən hündür binası qalardı.\n\n📩 Həmişə «bir az da hündür olsun» deyən dostuna göndər 😄\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Damian Kamp / Unsplash\n\n#bilirdinizmi #maraqlıfaktlar #dubay #memarlıq #rekord",
+  "first_comment": "Bürc Xəlifəyə çıxmısan? Neçənci mərtəbəyə? 👇",
+  "quizzes": [
+   {
+    "q": "Bürc Xəlifənin hündürlüyü nə qədərdir?",
+    "options": [
+     "628 metr",
+     "828 metr",
+     "1 028 metr"
+    ],
+    "answer": "828 metr",
+    "why": "Dünyanın ən hündür binası."
+   },
+   {
+    "q": "Binanın yuxarıdakı boş hissəsi neçə metrdir?",
+    "options": [
+     "44 metr",
+     "144 metr",
+     "244 metr"
+    ],
+    "answer": "244 metr",
+    "why": "Hündürlüyün 29 faizi."
+   },
+   {
+    "q": "Ən yuxarı istifadə olunan mərtəbə neçə metrdədir?",
+    "options": [
+     "385 metr",
+     "585 metr",
+     "785 metr"
+    ],
+    "answer": "585 metr",
+    "why": "Ondan yuxarısı şpildir."
+   }
+  ],
+  "sources": [
+   "https://www.voanews.com/a/reu-uae-has-world-vainest-skyscrapers/1743913.html",
+   "https://gulfnews.com/amp/story/uae%2Fvanity-height-apart-burj-khalifa-still-tallest-in-the-world-1.1230151",
+   "https://en.wikipedia.org/wiki/Vanity_height",
+   "https://en.wikipedia.org/wiki/Burj_Khalifa"
+  ],
+  "verify_note": "828 / 585 / 244 m / 29%: Reuters-VOA 2013 + Gulf News (29.4%) + Wikipedia (29.3%) -> '29 faiz'. 11th tallest in Europe: Reuters-VOA + Gulf News, stated as of 2013 ('o vaxt'). Still tallest without spire: CTBUH via Gulf News + Wikipedia. 'Təkəbbür hündürlüyü' = our AZ rendering of 'vanity height' (no common AZ term), introduced as what experts call it. Not used: Ramadan sunset-by-floor fact (religion rule).",
+  "photo": {
+   "path": "fetch/img/2026-11-03_3_burj_u.jpg",
+   "credit": "Damian Kamp / Unsplash",
+   "cy": 0.35,
+   "full": true,
+   "source": "https://unsplash.com/photos/burj-khalifa-skyscraper-surrounded-by-palm-trees-and-modern-buildings-pK4fWMgw2xw",
+   "note": "Unsplash alt text names Burj Khalifa; portrait with full spire; checked: no watermark. Alt fetch/img/2026-11-03_3_burj.jpg (sunset skyline, Eric Chamchoum CC BY 4.0)."
+  }
+ },
+ "trend_swap": {
+  "when": "2026-11-03 15:25-15:30 Baku",
+  "what": "18:30 Burj Khalifa backup -> US Election Day 'why Tuesday since 1845' trend reel (22.8 s, silent) on IG + TikTok + YouTube; existing posts 414293335/414293375/414293402 updated (new ids 415136235/415136274/415136375), none added; Burj video removed from all 3, verified with getScheduledPosts: exactly one post per network at 18:30",
+  "why": "Morning trend pick; 15:23 re-check: midterms still the top story, nothing dramatic needing sober mode; neutral explainer (no parties/candidates/predictions)",
+  "backup": "Burj Khalifa (2026-11-03-3) marked unposted in db.json; reel out/2026-11-03/3_reel.mp4 reusable",
+  "stories": "format v4: no 19:30/19:40 quiz stories today, nothing to re-render",
+  "frames_checked": "hook on dark band, beats 1-3, follow pill on last frame: text in safe zone, no watermark"
  }
 }

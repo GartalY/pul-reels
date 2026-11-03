@@ -321,3 +321,13 @@ search_1102_modric.json https://commons.wikimedia.org/w/api.php?action=query&for
 2026-11-03_H_chevrolet2.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Louis-Chevrolet-1911-full.jpg/1920px-Louis-Chevrolet-1911-full.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 2026-11-03_H_chevrolet3.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Louis_Chevrolet_1920.jpg/1920px-Louis_Chevrolet_1920.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 2026-11-03_3_burj_u.jpg https://images.unsplash.com/photo-1772175125684-4b42083464fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600
+2026-11-03_T_capitol_u.jpg https://images.unsplash.com/photo-1611010638643-051de75362ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600
+2026-11-03_T_capitol2_u.jpg https://images.unsplash.com/photo-1519922838705-9d6cb8bcfaea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600
+2026-11-04_1_flame_u.jpg https://images.unsplash.com/photo-1602485487042-e5e9b528c389?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600
+2026-11-04_1_flame2_u.jpg https://images.unsplash.com/photo-1596306499300-0b7b1689b9f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600
+2026-11-04_1_flame3_u.jpg https://images.unsplash.com/photo-1727361644856-1e412feb4774?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600
+search_1104_mercury.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=10&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Mercury%20MESSENGER%20global%20mosaic
+search_1104_landau.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=10&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Lev%20Landau
+search_1104_bridge.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=10&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Danyang%E2%80%93Kunshan%20Grand%20Bridge
+search_1104_carter.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=10&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Howard%20Carter%20Tutankhamun%20Burton
+search_1104_kv62.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=10&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=KV62%20entrance%20tomb%20Tutankhamun

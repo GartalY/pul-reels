@@ -340,3 +340,5 @@ search_1104_kv62.json https://commons.wikimedia.org/w/api.php?action=query&forma
 2026-11-04_H_carter2.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Howard_Carter_and_Arthur_Callender_in_Tutankhamun%27s_tomb.jpg/1920px-Howard_Carter_and_Arthur_Callender_in_Tutankhamun%27s_tomb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 2026-11-04_H_carter.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/The_Moment_Carter_Opens_the_Shrine.jpg/1920px-The_Moment_Carter_Opens_the_Shrine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 2026-11-04_H_kv62.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/KV62%2C_Egypt_01.jpg/1920px-KV62%2C_Egypt_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+2026-11-04_1_flame_night_u.jpg https://images.unsplash.com/photo-1778855639398-1a2b9c7d23a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600
+2026-11-04_1_flame_night2_u.jpg https://images.unsplash.com/photo-1758386669548-8a0ae6e8cb34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600

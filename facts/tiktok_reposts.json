@@ -28,7 +28,9 @@
   "2026-11-03 11:00 Voyager": 414295004,
   "2026-11-03 19:45 Greenland shark": 414295067,
   "2026-11-04 11:00 Pluto": 415533318,
-  "2026-11-04 19:45 godwit": 415533363
+  "2026-11-04 19:45 godwit": 415533363,
+  "2026-11-05 11:00 Nobel": 416770258,
+  "2026-11-05 19:45 France": 416770283
  },
  "2026-10-28 19:45": [
   "2026-10-24 n4 blue whale heart 2 bpm (IG 483 views; safe layout out/2026-10-24/4_reel_safe.mp4)",
@@ -91,5 +93,17 @@
   null,
   "YouTube only (strategy reset)",
   415533363
+ ],
+ "2026-11-05 11:00": [
+  "2026-10-18 n3 Nobel & Baku oil (IG 158 views; safe layout out/2026-10-18/3_reel_safe.mp4, hook re-written number-first, question added)",
+  null,
+  "YouTube only (strategy reset)",
+  416770258
+ ],
+ "2026-11-05 19:45": [
+  "2026-10-24 n2 France 12 time zones (IG 150 views; safe layout out/2026-10-24/2_reel_safe.mp4)",
+  null,
+  "YouTube only (strategy reset)",
+  416770283
  ]
 }

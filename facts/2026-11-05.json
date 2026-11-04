@@ -1,6 +1,6 @@
 {
  "date": "2026-11-05",
- "status": "planned",
+ "status": "scheduled",
  "format": "v2",
  "content_format": "v4",
  "planned_note": "Planned in the 2026-11-04 09:10 run (format v4, STRATEGY RESET 2026-11-03). Thu 5 Nov = normal day (two-part pair Fri 6 / Sat 7). 10:00 TBG carousel = Selden car patent 5 Nov 1895. 13:00 AZ reel (VOICED) = Yanar Dag 3 m flames. 16:00 reel (SILENT, space wow, FIRST MOTION BUILD per reset rule 4) = Saturn rings 282 000 km / 10 m thick. 18:30 trend backup (SILENT) = Baikal 330 rivers in, 1 out. 21:30 reel (VOICED, Azerbaijan angle) = Leyli and Majnun 1908, Leyli played by a man. All photos fetched and checked. Idea for Fri 6 Nov: Baku Metro opened 6 Nov 1967 (59 years) - candidate for the 13:00 two-part story.",
@@ -213,6 +213,12 @@
     "full": false,
     "source": "https://unsplash.com/photos/2W-QWAC0mzI",
     "note": "Cassini view of Saturn on black, landscape 1600x1200 (slightly tilted frame edges - crop centre, cx 0.5). Checked: no watermark."
+   },
+   "motion_build": {
+    "tool": "animation-studio (canvas + synthesized music), project source prototypes/anim_studio_saturn",
+    "seconds": 22.8,
+    "scenes": "hook on Cassini photo (push-in) -> bars: rings 282 000 km counter vs Earth-Moon 384 400 km, '≈ ¾' -> drawn Saturn turns edge-on, magnifier: 10 m slab vs 3-storey building -> drifting ice pieces 'qum dənəsindən kiçik' / 'dağ boyda'",
+    "status": "OK, shipped (no static fallback needed)"
    }
   },
   {
@@ -383,5 +389,49 @@
    "image": "out/2026-11-05/q2.jpg",
    "answer_image": "out/2026-11-05/q2_a.jpg"
   }
- ]
+ ],
+ "metricool": {
+  "10:00 tarixdə bu gün carousel (Selden 1895)": 416768405,
+  "10:00 tarixdə bu gün story": 416770543,
+  "11:00 quiz q1 (recall US Election Day)": 416770568,
+  "11:10 answer a1": 416770602,
+  "13:00 reel (Yanar Dag, voiced)": 416768943,
+  "14:00 quiz q2 (Yanar Dag)": 416770627,
+  "14:10 answer a2": 416770656,
+  "16:00 reel (Saturn rings, MOTION, silent)": 416768999,
+  "18:30 reel (Baikal backup, silent)": 416769037,
+  "21:30 reel (Leyli and Majnun, voiced)": 416769063
+ },
+ "tiktok": {
+  "13:00 Yanar Dag": 416770020,
+  "18:30 Baikal backup": 416770051
+ },
+ "youtube": {
+  "11:00 REPOST Nobel": 416770258,
+  "13:00 Yanar Dag": 416770097,
+  "16:00 Saturn": 416770148,
+  "18:30 Baikal backup": 416770188,
+  "19:45 REPOST France": 416770283,
+  "21:30 Leyli and Majnun": 416770217
+ },
+ "built": {
+  "when": "2026-11-04 ~21:00 Asia/Baku",
+  "checked": "5 carousel slides, tbg story, 2 quiz + 2 answer stories, 5 frames per reel (4 reels + 2 repost renders) viewed; text in safe zone, no overflow, no watermark",
+  "reel_seconds": {
+   "1": 28.7,
+   "2": 22.8,
+   "3": 21.6,
+   "4": 34.5
+  },
+  "voice": "Banu +15% on reels 1 and 4 (AI labels on IG/TikTok/YouTube); reels 2 and 3 silent",
+  "notes": [
+   "16:00 = first MOTION reel (STRATEGY RESET 4)",
+   "hook_bg on static reels"
+  ]
+ },
+ "reposts": "5 Nov YouTube only: 11:00 Nobel & Baku oil (18 Oct n3, IG 158; hook re-written number-first, question added) and 19:45 France 12 time zones (24 Oct n2, IG 150). Fresh repost stock is nearly empty: left = 20 Oct n1 '200 km road' (117, weak 14% >3 s), 21 Oct n2 wallpaper (116) and 22 Oct n2 computer bug (106, tech-origin = flop type), 19 Oct webcam (49, skip). Sunday review should decide what fills 11:00/19:45 from ~7 Nov.",
+ "trend_check_evening": "2026-11-04 ~20:50 Baku: searches found no single new dominant story beyond the US midterm results (already today's 18:30 trend); Euronews/Democracy Now pages unreadable. No swap for tomorrow's plan; 18:30 = Baikal backup until the 15:23 trend swap. 8 Nov Victory Day = Azerbaijani politics/conflict -> off-limits.",
+ "scheduled_check": "getScheduledPosts 5 Nov before scheduling: 0 posts. After: 18 posts (IG 10 incl. 5 stories, TikTok 2, YouTube 6), each network/time exactly once.",
+ "language_check": "Evening re-read (section L): TBG story text short sentences; Nobel repost hook names Robert (not Alfred) to stay accurate; motion reel labels 'qum dənəsindən kiçik', 'dağ boyda', 'Yer → Ay' plain words.",
+ "pending_schedule": []
 }

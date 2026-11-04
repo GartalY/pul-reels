@@ -558,6 +558,9 @@ small data-backed changes here; recommend bigger ones (times, volume, format mix
 - Future test (Gartal's idea): HeyGen digital-twin reels in his voice — free-plan test first, label as AI.
 
 ## Rules
+- SUNDAY 8 NOV REVIEW TASK (Gartal 2026-11-04): write a PER-PLATFORM plan (IG / TikTok / YouTube) — same core video,
+  but per-platform topic weighting, hook/caption/title, times and volume. Trigger: Maiden Tower reel hit on IG
+  (~1,600 views, +6–7 follows, IG 61 followers on 4 Nov, Gartal's count).
 - NEVER SAY "I CAN'T" FIRST (Gartal, 2026-11-02: "you never tell me we can install the skills, add the plugins…
   we could have done that a week earlier"). Before answering "can we do X?" with no/limited: run SearchPlugins,
   SearchSkills and SearchMcpRegistry for X, and propose what would unlock it (with cost and risk). Also, once a

@@ -1,0 +1,345 @@
+{
+ "date": "2026-11-05",
+ "status": "planned",
+ "format": "v2",
+ "content_format": "v4",
+ "planned_note": "Planned in the 2026-11-04 09:10 run (format v4, STRATEGY RESET 2026-11-03). Thu 5 Nov = normal day (two-part pair Fri 6 / Sat 7). 10:00 TBG carousel = Selden car patent 5 Nov 1895. 13:00 AZ reel (VOICED) = Yanar Dag 3 m flames. 16:00 reel (SILENT, space wow, FIRST MOTION BUILD per reset rule 4) = Saturn rings 282 000 km / 10 m thick. 18:30 trend backup (SILENT) = Baikal 330 rivers in, 1 out. 21:30 reel (VOICED, Azerbaijan angle) = Leyli and Majnun 1908, Leyli played by a man. All photos fetched and checked. Idea for Fri 6 Nov: Baku Metro opened 6 Nov 1967 (59 years) - candidate for the 13:00 two-part story.",
+ "two_part": null,
+ "history": {
+  "n": "H",
+  "type": "card",
+  "cat": "Texnologiya",
+  "day": 5,
+  "month": 11,
+  "year": 1895,
+  "subject": "5 Nov 1895: George B. Selden granted US Patent 549,160 'Road-Engine' (The Henry Ford). Application filed 9 May 1879 (The Henry Ford inscription) -> ~16 years. Selden, a patent attorney, conceived but did not build a gasoline car in 1877 and 'shrewdly waited until 1895' (The Henry Ford). After an eight-year legal fight led by Henry Ford, the broad patent claim was severely restricted in 1911 (The Henry Ford). Not used: royalty figures/ALAM (not read this run).",
+  "photo_request": "Selden road engine replica + patent drawing (Commons, PD)",
+  "card_title": "5 NOYABR 1895",
+  "title": "Maşını yox idi, amma patenti vardı",
+  "text": "1895-ci il noyabrın 5-də Corc Selden benzinlə işləyən maşın üçün ABŞ patenti aldı. Amma o, belə bir maşın tikməmişdi.",
+  "cover": {
+   "hook": "Maşını yox idi, amma patenti vardı",
+   "sub": "5 noyabr 1895 · 131 il əvvəl bu gün"
+  },
+  "slides": [
+   {
+    "h": "1879",
+    "t": "Corc Selden ABŞ-da patent vəkili idi. 1879-cu ildə benzinlə işləyən «yol maşını» üçün patentə müraciət etdi. Amma belə bir maşını heç tikməmişdi."
+   },
+   {
+    "h": "16 il",
+    "t": "Vəkil olduğu üçün işi bilərəkdən uzatdı. Patenti yalnız 1895-ci il noyabrın 5-də aldı. Bu, müraciətdən təxminən 16 il sonra idi."
+   },
+   {
+    "h": "1911",
+    "t": "Patent çox geniş yazılmışdı. Henri Ford ona qarşı 8 il məhkəmədə vuruşdu. 1911-ci ildə patentin gücü ciddi şəkildə azaldıldı."
+   }
+  ],
+  "caption": "131 il əvvəl bu gün maşını olmayan adam avtomobil patenti aldı 🚗\n\nCorc Selden ABŞ-da patent vəkili idi. 1879-cu ildə benzinlə işləyən «yol maşını» üçün patentə müraciət etdi, amma belə bir maşını tikməmişdi. İşi bilərəkdən uzatdı və patenti yalnız 1895-ci il noyabrın 5-də aldı. Patent çox geniş yazılmışdı. Henri Ford ona qarşı 8 il məhkəmədə vuruşdu və 1911-ci ildə patentin gücü ciddi şəkildə azaldıldı.\n\n📩 Hələ heç nə etmədən «bu mənim ideyam idi» deyən dostuna göndər\n\nFoto: Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #tarixdəbugün #avtomobil #tarix",
+  "first_comment": "Səncə, tikilməmiş bir şeyə patent vermək düzgündür? 👇",
+  "quizzes": [
+   {
+    "q": "Selden patentə neçənci ildə müraciət etdi?",
+    "options": [
+     "1879",
+     "1895",
+     "1911"
+    ],
+    "answer": "1879",
+    "why": "Patent 16 il sonra verildi."
+   },
+   {
+    "q": "Seldenin patentinə qarşı kim məhkəməyə getdi?",
+    "options": [
+     "Henri Ford",
+     "Tomas Edison",
+     "Karl Bens"
+    ],
+    "answer": "Henri Ford",
+    "why": "8 il məhkəmədə vuruşdu."
+   }
+  ],
+  "sources": [
+   "https://thehenryford.org/collections-and-research/digital-collections/artifact/426229"
+  ],
+  "verify_note": "All dates/claims from The Henry Ford (museum, primary artifact page: patent 549,160, 5 Nov 1895, filed 9 May 1879, conceived not built, waited until 1895, eight-year fight led by Ford, restricted 1911). 16 years = own arithmetic (1879->1895). Wikipedia not readable this run; second source = HISTORY 'This Day in History: Nov 5 - George Selden patents gas-powered car' (search result title). 131 years = not a round anniversary -> TBG only.",
+  "photo": {
+   "path": "fetch/img/2026-11-05_H_selden_replica.jpg",
+   "credit": "Wikimedia Commons (ictimai mülkiyyət)",
+   "cy": 0.5,
+   "full": false,
+   "source": "https://commons.wikimedia.org/wiki/File:Selden_Road_engine_replica_(1).jpg",
+   "note": "1000x802 B/W photo of the road-engine replica in a street; checked: no watermark. Slides: fetch/img/2026-11-05_H_selden_drawing.png (patent drawing 'Patented Nov. 5, 1895', PD) and fetch/img/2026-11-05_H_selden_1905.jpg (Selden at the wheel 1905, PD, small 606 px)."
+  }
+ },
+ "facts": [
+  {
+   "n": 1,
+   "type": "reel",
+   "cat": "Azərbaycan",
+   "voiced": true,
+   "subject": "Yanar Dag, Absheron peninsula near Baku: flames up to 3 m rise from a thin porous layer of sandstone (Wikipedia); natural gas seeping out (Wikipedia; Lonely Planet 'naturally escaping gas'). Some local accounts: discovered in the 1950s when a shepherd accidentally ignited it; others say it has burned for 4 000 years (Wikipedia; Lonely Planet: shepherd's cigarette in the 1950s vs 'unquenched for millennia') -> 'deyilənə görə'. Marco Polo (13th c.) wrote about natural gas flames in the region (Wikipedia + Lonely Planet). State reserve by presidential decree 2 May 2007 (Wikipedia). Not used: strip length (Wikipedia 15 m vs Lonely Planet 10 m), 'burns in rain' (not in body text).",
+   "photo_request": "Yanar Dag flames (Commons)",
+   "title": "3 metrlik alov: Yanar dağ niyə sönmür?",
+   "text": "Abşerondakı Yanar dağda yerdən çıxan alov 3 metrə qədər qalxır. Səbəb yerin altından sızan təbii qazdır.",
+   "reel_hook": "3 METRLİK ALOV: YANAR DAĞ NİYƏ SÖNMÜR?",
+   "reel_beats": [
+    "Abşeronda, Bakının yaxınlığında bir təpənin ətəyindən alov çıxır. Alov 3 metrə qədər qalxır.",
+    "Səbəb yerin altındakı təbii qazdır. Qaz nazik qum daşı qatından sızır və havada yanır.",
+    "Deyilənə görə, 1950-ci illərdə bir çoban qazı təsadüfən yandırıb. 2007-ci ildə Yanar dağ qoruq oldu. Sən oranı gecə görmüsən?"
+   ],
+   "voice": [
+    "Üç metrlik alov: Yanar dağ niyə sönmür?",
+    "Abşeronda, Bakının yaxınlığında bir təpənin ətəyindən alov çıxır. Alov üç metrə qədər qalxır.",
+    "Səbəb yerin altındakı təbii qazdır. Qaz nazik qum daşı qatından sızır və havada yanır.",
+    "Deyilənə görə, min doqquz yüz əllinci illərdə bir çoban qazı təsadüfən yandırıb. İki min yeddinci ildə Yanar dağ qoruq oldu. Sən oranı gecə görmüsən?"
+   ],
+   "cta": "Hər gün 13:00-da yeni Bakı faktı — izlə!",
+   "caption": "Yanar dağda alov 3 metrə qədər qalxır 🔥\n\nAbşeronda, Bakının yaxınlığında bir təpənin ətəyindən alov çıxır. Səbəb yerin altındakı təbii qazdır: qaz nazik qum daşı qatından sızır və havada yanır. Deyilənə görə, 1950-ci illərdə bir çoban qazı təsadüfən yandırıb. Başqaları isə alovun min illərdir yandığını deyir. 13-cü əsrdə Marko Polo da bu torpaqlarda öz-özünə yanan qaz alovları haqqında yazıb. 2007-ci ildə Yanar dağ dövlət qoruğu elan olundu.\n\n📩 Bakıya gələn qonağı hələ Yanar dağa aparmayan dostuna göndər\n\n👉 Hər gün 13:00-da Azərbaycan haqqında bilmədiyin bir fakt — izlə ki, qaçırmayasan\n\nFoto: Ymblanter / Wikimedia Commons (CC BY-SA 4.0)\n\n#bilirdinizmi #maraqlıfaktlar #azərbaycan #yanardağ #abşeron",
+   "first_comment": "Sən Yanar dağa getmisən? Gecə, yoxsa gündüz? 👇",
+   "quizzes": [
+    {
+     "q": "Yanar dağda alov nə qədər hündürə qalxır?",
+     "options": [
+      "30 sm-ə qədər",
+      "3 metrə qədər",
+      "30 metrə qədər"
+     ],
+     "answer": "3 metrə qədər",
+     "why": "Qum daşı qatından çıxır."
+    },
+    {
+     "q": "Yanar dağın alovunu nə yandırır?",
+     "options": [
+      "Təbii qaz",
+      "Neft",
+      "Vulkan lavası"
+     ],
+     "answer": "Təbii qaz",
+     "why": "Qaz yerin altından sızır."
+    },
+    {
+     "q": "Yanar dağ neçənci ildə qoruq oldu?",
+     "options": [
+      "1967",
+      "2007",
+      "2017"
+     ],
+     "answer": "2007",
+     "why": "Prezident fərmanı ilə."
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Yanar_Dagh",
+    "https://www.lonelyplanet.com/points-of-interest/yanar-dag/1135807"
+   ],
+   "verify_note": "3 m flames + porous sandstone + 1950s shepherd vs 4 000 years + Marco Polo + 2 May 2007 decree: Wikipedia. Shepherd's cigarette 1950s vs millennia + Marco Polo 13th c. + escaping gas: Lonely Planet (partly from summary). Locals know this place: shepherd story told as 'deyilənə görə', both versions in caption.",
+   "photo": {
+    "path": "fetch/img/2026-11-05_1_yanar_close.jpg",
+    "credit": "Ymblanter / Wikimedia Commons (CC BY-SA 4.0)",
+    "cy": 0.72,
+    "full": false,
+    "source": "https://commons.wikimedia.org/wiki/File:Yanar_Dag_closeup1.jpg",
+    "note": "portrait 1920x2560, flames along the base of the scarp in the lower third -> cy ~0.72; flags + 'YANARDAG' stones at top. Checked: no watermark. Alt: fetch/img/2026-11-05_1_yanar_dd.jpg (Diego Delso, CC BY-SA 4.0, landscape) and _2019.jpg (Chmee2, CC BY-SA 4.0, with visitors)."
+   }
+  },
+  {
+   "n": 2,
+   "type": "reel",
+   "cat": "Kosmos",
+   "voiced": false,
+   "motion": true,
+   "subject": "Saturn's rings: the ring system extends up to 282 000 km from the planet but is about 10 m thick in most places; made mostly of water-ice particles from smaller than a grain of sand to as large as mountains (NASA/JPL PIA14943, 13 Aug 2018). Caltech Cool Cosmos: 282 000 km 'across', ~1 km thick -> thickness differs; we follow NASA/JPL and say 'çox yerdə'. Earth-Moon ~384 400 km -> 282 000 ≈ three quarters.",
+   "photo_request": "Saturn (NASA via Unsplash)",
+   "title": "282 000 km, amma cəmi 10 metr qalınlıq",
+   "text": "Saturnun halqaları planetdən 282 000 kilometrə qədər uzanır. Amma NASA-ya görə, çox yerdə qalınlıqları cəmi 10 metrdir.",
+   "reel_hook": "282 000 KM, AMMA CƏMİ 10 METR QALINLIQ",
+   "reel_beats": [
+    "Saturnun halqaları planetdən 282 000 kilometrə qədər uzanır. Bu, Yerdən Aya qədər olan yolun təxminən dörddə üçüdür.",
+    "Amma NASA-ya görə, halqalar çox yerdə cəmi 10 metr qalınlığındadır. Bu, üçmərtəbəli bir binanın hündürlüyü qədərdir.",
+    "Halqalar əsasən buz parçalarından ibarətdir. Bəziləri qum dənəsindən kiçikdir, bəziləri isə dağ boyda. Sən Saturnu teleskopla görmüsən?"
+   ],
+   "caption": "Saturnun halqaları 282 000 km uzanır, amma cəmi 10 metr qalındır 🪐\n\nSaturnun halqaları planetdən 282 000 kilometrə qədər uzanır: bu, Yerdən Aya qədər olan yolun təxminən dörddə üçüdür. Amma NASA-ya görə, halqalar çox yerdə cəmi 10 metr qalınlığındadır, yəni üçmərtəbəli bina boyda. Halqalar əsasən buz parçalarından ibarətdir. Bəziləri qum dənəsindən kiçikdir, bəziləri isə dağ boyda.\n\n📩 «Kosmosda hər şey nəhəngdir» deyən dostuna göndər\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: NASA\n\n#bilirdinizmi #maraqlıfaktlar #kosmos #saturn #nasa",
+   "first_comment": "Saturnu öz gözünlə teleskopda görmək istərdin? 👇",
+   "quizzes": [
+    {
+     "q": "Saturnun halqaları planetdən nə qədər uzanır?",
+     "options": [
+      "28 000 km",
+      "282 000 km",
+      "2 820 000 km"
+     ],
+     "answer": "282 000 km",
+     "why": "Yer–Ay yolunun ~3/4-ü."
+    },
+    {
+     "q": "NASA-ya görə halqalar çox yerdə nə qədər qalındır?",
+     "options": [
+      "10 metr",
+      "10 km",
+      "1 000 km"
+     ],
+     "answer": "10 metr",
+     "why": "Üçmərtəbəli bina boyda."
+    },
+    {
+     "q": "Halqalar əsasən nədən ibarətdir?",
+     "options": [
+      "Buzdan",
+      "Dəmirdən",
+      "Qazdan"
+     ],
+     "answer": "Buzdan",
+     "why": "Su buzu parçaları."
+    }
+   ],
+   "sources": [
+    "https://www.jpl.nasa.gov/images/pia14943-translucent-arcs/",
+    "https://coolcosmos.ipac.caltech.edu/ask/108-How-large-are-Saturn-s-rings"
+   ],
+   "verify_note": "282 000 km 'from the planet' + ~10 m thick in most places + water ice sand-grain to mountain: NASA/JPL. 282 000 km also Cool Cosmos (it says ~1 km thick -> conflict noted, we attribute to NASA and say 'çox yerdə'). 3/4 of Earth-Moon: 282 000 / 384 400 = 0.73. 10 m ~ 3 floors: common ~3 m per floor. Thu 5 Nov = first MOTION 16:00 reel (STRATEGY RESET 4): good fit for counters (282 000 -> 10 m) and a zoom.",
+   "photo": {
+    "path": "fetch/img/2026-11-05_2_saturn_u.jpg",
+    "credit": "NASA / Unsplash",
+    "cy": 0.5,
+    "full": false,
+    "source": "https://unsplash.com/photos/2W-QWAC0mzI",
+    "note": "Cassini view of Saturn on black, landscape 1600x1200 (slightly tilted frame edges - crop centre, cx 0.5). Checked: no watermark."
+   }
+  },
+  {
+   "n": 3,
+   "type": "reel",
+   "cat": "Coğrafiya",
+   "voiced": false,
+   "subject": "Lake Baikal, Siberia: more than 330 rivers and streams flow in (Britannica; Wikipedia 'as many as 330'); the only outflow is the Angara (both). Deepest lake: Britannica 1 620 m, Wikipedia 1 642 m -> '1 600 metrdən çox'. Age 20-25 million years (Britannica) / 25-30 (Wikipedia) -> '20 milyon ildən çox'. About one-fifth of the fresh water on Earth's surface (Britannica; Wikipedia 22-23% / 19% unfrozen). Baikal seal (nerpa) endemic (Wikipedia; Britannica 'the one mammal species').",
+   "photo_request": "Lake Baikal ice (Unsplash)",
+   "title": "330 çay girir, 1 çay çıxır: Baykal",
+   "text": "Rusiyadakı Baykal gölünə 330-dan çox çay və axar tökülür, amma göldən cəmi bir çay çıxır. Bu, dünyanın ən dərin gölüdür.",
+   "reel_hook": "330 ÇAY GİRİR, 1 ÇAY ÇIXIR: BAYKAL",
+   "reel_beats": [
+    "Rusiyadakı Baykal gölünə 330-dan çox çay və axar tökülür. Göldən isə cəmi bir çay çıxır: Anqara.",
+    "Baykal dünyanın ən dərin gölüdür, dərinliyi 1 600 metrdən çoxdur. Alimlərə görə, onun yaşı 20 milyon ildən çoxdur.",
+    "Yer üzündəki şirin suyun təxminən beşdə biri bu göldədir. Burada yalnız Baykalda yaşayan bir suiti də var. Bura getmək istərdin?"
+   ],
+   "caption": "Baykala 330-dan çox çay tökülür, cəmi 1 çay çıxır 🏔️\n\nRusiyadakı Baykal gölünə 330-dan çox çay və axar tökülür, göldən isə cəmi bir çay çıxır: Anqara. Baykal dünyanın ən dərin gölüdür: dərinliyi 1 600 metrdən çoxdur. Alimlərə görə, onun yaşı 20 milyon ildən çoxdur. Yer üzündəki şirin suyun təxminən beşdə biri bu göldədir. Burada yalnız Baykalda yaşayan bir suiti də var.\n\n📩 Qışda da «gəl, gölə gedək» deyən dostuna göndər\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Denis Shpak / Unsplash\n\n#bilirdinizmi #maraqlıfaktlar #baykal #göl #təbiət",
+   "first_comment": "Sən ən dərin hansı gölü və ya dənizi görmüsən? 👇",
+   "quizzes": [
+    {
+     "q": "Baykal gölündən neçə çay çıxır?",
+     "options": [
+      "1",
+      "12",
+      "330"
+     ],
+     "answer": "1",
+     "why": "Yalnız Anqara çayı."
+    },
+    {
+     "q": "Baykal gölünün dərinliyi nə qədərdir?",
+     "options": [
+      "160 metrdən çox",
+      "600 metrdən çox",
+      "1 600 metrdən çox"
+     ],
+     "answer": "1 600 metrdən çox",
+     "why": "Dünyanın ən dərin gölü."
+    },
+    {
+     "q": "Yer üzündəki şirin suyun nə qədəri Baykaldadır?",
+     "options": [
+      "Yüzdə biri",
+      "Beşdə biri",
+      "Yarısı"
+     ],
+     "answer": "Beşdə biri",
+     "why": "Britannica: təxminən 1/5."
+    }
+   ],
+   "sources": [
+    "https://www.britannica.com/place/Lake-Baikal",
+    "https://en.wikipedia.org/wiki/Lake_Baikal"
+   ],
+   "verify_note": "All figures in both Britannica and Wikipedia (depth/age/share differ slightly -> conservative wording). No Russia politics. Not a repeat: Caspian (28 Oct) was 'share of lake water', different lake.",
+   "photo": {
+    "path": "fetch/img/2026-11-05_3_baikal_u.jpg",
+    "credit": "Denis Shpak / Unsplash",
+    "cy": 0.5,
+    "full": false,
+    "source": "https://unsplash.com/photos/xBoPlmkQ9QQ",
+    "note": "portrait 1600x2133, description 'ice and mountains of Baikal' (photographer in Irkutsk); clear dark water + ice + cliff. Checked: no watermark."
+   }
+  },
+  {
+   "n": 4,
+   "type": "reel",
+   "cat": "Azərbaycan",
+   "voiced": true,
+   "subject": "Leyli and Majnun opera by Uzeyir Hajibeyli: first performed 12 Jan (O.S.) = 25 Jan 1908 at the Taghiyev Theatre in Baku (Wikipedia; preslib.az 25 Jan; azer.com + Azertag 12 Jan = Old Style). Considered the first opera of the Muslim East (Wikipedia, Azertag, preslib.az, azer.com). Hajibeyli was 22 (preslib.az, Azertag; azer.com says 23; born Sept 1885 -> 22). Muslim women could not appear on stage: all parts played by men (Azertag); Leyli was played by a young non-actor, Abdurrahim Farajov, who agreed on one condition - that no one discover who he was (preslib.az; azer.com: a tea-house waiter who dressed as a woman). Majnun: Huseyngulu Sarabski (all). Job conflict (chef's apprentice vs waiter) -> not stated.",
+   "photo_request": "Uzeyir Hajibeyli portrait (Commons, PD)",
+   "title": "1908: Leylini bir kişi oynadı",
+   "text": "1908-ci ildə Bakıda müsəlman Şərqinin ilk operası «Leyli və Məcnun» göstərildi. O vaxt qadınlar səhnəyə çıxa bilmirdi, ona görə Leylini bir gənc kişi oynadı.",
+   "reel_hook": "1908: LEYLİNİ BİR KİŞİ OYNADI",
+   "reel_beats": [
+    "1908-ci ilin yanvarında Bakıda, Tağıyev teatrında «Leyli və Məcnun» operası göstərildi. Bu, müsəlman Şərqinin ilk operası sayılır.",
+    "Operanı 22 yaşlı Üzeyir Hacıbəyli yazmışdı. O vaxt müsəlman qadınlar səhnəyə çıxa bilmirdi. Ona görə bütün rolları kişilər oynadı.",
+    "Leylini aktyor olmayan bir gənc, Əbdürrəhim Fərəcov oynadı. Bir şərtlə razılaşdı: kimsə onun kim olduğunu bilməsin. Sən bunu bilirdin?"
+   ],
+   "voice": [
+    "Min doqquz yüz səkkiz: Leylini bir kişi oynadı.",
+    "Min doqquz yüz səkkizinci ilin yanvarında Bakıda, Tağıyev teatrında «Leyli və Məcnun» operası göstərildi. Bu, müsəlman Şərqinin ilk operası sayılır.",
+    "Operanı iyirmi iki yaşlı Üzeyir Hacıbəyli yazmışdı. O vaxt müsəlman qadınlar səhnəyə çıxa bilmirdi. Ona görə bütün rolları kişilər oynadı.",
+    "Leylini aktyor olmayan bir gənc, Əbdürrəhim Fərəcov oynadı. Bir şərtlə razılaşdı: kimsə onun kim olduğunu bilməsin. Sən bunu bilirdin?"
+   ],
+   "caption": "1908-ci ildə Leylini bir kişi oynadı 🎭\n\n1908-ci ilin yanvarında Bakıda, Tağıyev teatrında «Leyli və Məcnun» operası göstərildi. Bu, müsəlman Şərqinin ilk operası sayılır. Onu 22 yaşlı Üzeyir Hacıbəyli yazmışdı. O vaxt müsəlman qadınlar səhnəyə çıxa bilmirdi, ona görə bütün rolları kişilər oynadı. Məcnunu Hüseynqulu Sarabski oxudu. Leylini isə aktyor olmayan bir gənc, Əbdürrəhim Fərəcov oynadı. O, bir şərtlə razılaşmışdı: kimsə onun kim olduğunu bilməsin.\n\n📩 Hər məclisdə «Leyli və Məcnun»dan bir parça oxuyan dostuna göndər\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: N. Litvintsev, 1913 / Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #azərbaycan #opera #üzeyirhacıbəyli",
+   "first_comment": "Sən «Leyli və Məcnun» operasına teatrda baxmısan? 👇",
+   "quizzes": [
+    {
+     "q": "İlk tamaşada Leylini kim oynadı?",
+     "options": [
+      "Bir gənc kişi",
+      "Məşhur aktrisa",
+      "Bəstəkarın bacısı"
+     ],
+     "answer": "Bir gənc kişi",
+     "why": "Əbdürrəhim Fərəcov."
+    },
+    {
+     "q": "Hacıbəyli operanı neçə yaşında səhnəyə çıxardı?",
+     "options": [
+      "22",
+      "32",
+      "42"
+     ],
+     "answer": "22",
+     "why": "1908-ci ildə."
+    },
+    {
+     "q": "«Leyli və Məcnun» ilk dəfə harada göstərildi?",
+     "options": [
+      "Tağıyev teatrında",
+      "Filarmoniyada",
+      "Qız qalasında"
+     ],
+     "answer": "Tağıyev teatrında",
+     "why": "Bakı, yanvar 1908."
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Leyli_and_Majnun_(opera)",
+    "https://uzeyirhajibeyli.preslib.az/en/page/iJVhGgQ",
+    "https://azertag.az/en/xeber/_quotleyli_and_majnun_quot_first_opera_in_east-2058986",
+    "https://azer.com/aiweb/categories/magazine/54_folder/54_articles/54_leylimajnun.html"
+   ],
+   "verify_note": "Date: 12 Jan O.S. / 25 Jan N.S. 1908 -> 'yanvarında' avoids the calendar clash. Taghiyev Theatre: Wikipedia + preslib + azer.com. First opera of the Muslim East: all 4. Age 22: preslib + Azertag. Men in all roles: Azertag; Leyli = Abdurrahim Farajov + condition of anonymity: preslib (Presidential Library); man dressed as a woman: azer.com. Sarabski = Majnun: all. Locals know the opera, the 'Leyli was a man' detail is the twist. 21:30 Azerbaijan angle (STRATEGY RESET 3b).",
+   "photo": {
+    "path": "fetch/img/2026-11-05_4_hajibeyov1913.jpg",
+    "credit": "N. Litvintsev, 1913 / Wikimedia Commons (ictimai mülkiyyət)",
+    "cy": 0.3,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Uzeyir_Hajibeyov_in_1913.jpg",
+    "note": "full-length studio portrait (Litvintsev studio, Baku, 1913 - 5 years after the premiere), 956x1924, face in upper third -> cy ~0.3. Studio seal at the bottom is the photographer's own card mark, not an agency watermark. Alt: fetch/img/2026-11-05_4_hajibeyov.jpg (older portrait with glasses, PD) and fetch/img/2026-11-05_4_sarabski.jpg (Sarabski as Majnun, PD, only 305 px)."
+   }
+  }
+ ]
+}

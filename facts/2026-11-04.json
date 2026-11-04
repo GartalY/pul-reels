@@ -435,5 +435,76 @@
  "trend_check_evening": "2026-11-03 ~20:50 Baku: top story = US midterm election day (results tomorrow) - already planned as the 4 Nov 18:30 trend (15:23 swap, neutral). No other dominant story; no swap for tonight's plan. 18:30 = bridge backup until the swap.",
  "scheduled_check": "getScheduledPosts 4 Nov before scheduling: 0 posts. After: 18 posts (IG 10 incl. 5 stories, TikTok 2, YouTube 6), each network/time exactly once.",
  "reposts": "4 Nov: 11:00 Pluto (20 Oct n4, IG 164) and 19:45 godwit (19 Oct n1, IG 159; beats rewritten) on YouTube only. Next in line: check getAnalyticsDataByMetrics for the next silent reels never on YouTube.",
- "pending_schedule": []
+ "pending_schedule": [],
+ "trend": {
+  "n": "T",
+  "type": "reel",
+  "format": "v4",
+  "cat": "Tarix",
+  "voiced": false,
+  "subject": "US midterm results, 3-4 Nov 2026: Democrats projected to win the House (CNN + NBC per ANI 4 Nov 03:25 UTC; headlines NBC 'Democrats win control of House and Senate, NBC News projects', CBS 'Democrats win House and Senate control', CNBC 'Democrats flip Senate after winning House', ABC 'Democrats projected to take control of Senate, House'). Count still going; no final seat numbers used. History: since 1934 the president's party gained House seats in a midterm only 3 times - 1934 (FDR), 1998 (Clinton), 2002 (G.W. Bush) (Daily Signal 2018; davemanuel.com 2026). Trump on Mon 2 Nov: 'For some reason, the sitting president doesn't win the midterms' (CBS live, 3 Nov). New Congress convenes 3 January (ANI/Tribune). Midterm = 2 years after the presidential election. Neutral: no opinions, no predictions, both parties named only as facts.",
+  "photo_request": "US Capitol (Unsplash)",
+  "title": "92 ildə cəmi 3 dəfə: ABŞ-da ara seçki",
+  "text": "ABŞ-da ara seçkilər keçdi. Telekanalların proqnozuna görə, Demokratlar Konqresdə çoxluğu qazanır. Tarixdə bu tez-tez olur: prezidentin partiyası ara seçkidə adətən yer itirir.",
+  "reel_hook": "92 İLDƏ CƏMİ 3 DƏFƏ: ABŞ-DA ARA SEÇKİ",
+  "reel_beats": [
+   "ABŞ-da ara seçkilər keçdi. NBC və CBS-in proqnozuna görə, Demokratlar həm Nümayəndələr Palatasını, həm də Senatı qazanır. Səslər hələ sayılır.",
+   "Tarixdə bu tez-tez olub. 1934-cü ildən bəri prezidentin partiyası ara seçkidə Palatada yer artırıb cəmi 3 dəfə: 1934, 1998 və 2002-ci illərdə.",
+   "Tramp da seçkidən bir gün əvvəl belə dedi: «Nədənsə, hakimiyyətdəki prezident ara seçkini udmur». Yeni Konqres 3 yanvarda işə başlayır. Sən bunu bilirdin?"
+  ],
+  "caption": "92 ildə cəmi 3 dəfə: ABŞ-da ara seçkinin qaydası 🗳️\n\nABŞ-da ara seçkilər keçdi. NBC və CBS-in proqnozuna görə, Demokratlar həm Nümayəndələr Palatasında, həm də Senatda çoxluğu qazanır. Səslərin sayılması hələ davam edir. Ara seçki prezident seçkisindən 2 il sonra keçir. 1934-cü ildən bəri prezidentin partiyası belə seçkidə Palatada yer artıra bilib cəmi 3 dəfə: 1934, 1998 və 2002-ci illərdə. Tramp da seçkidən bir gün əvvəl belə dedi: «Nədənsə, hakimiyyətdəki prezident ara seçkini udmur». Yeni Konqres 3 yanvarda işə başlayır.\n\n📩 Hər seçkidən sonra «bunu kim gözləyirdi?» deyən dostuna göndər\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Sebastian Schuster / Unsplash\n\n#bilirdinizmi #maraqlıfaktlar #abş #seçki #tarix",
+  "first_comment": "ABŞ-da ara seçkinin hər 2 ildən bir keçdiyini bilirdin? 👇",
+  "quizzes": [
+   {
+    "q": "1934-cü ildən bəri prezidentin partiyası neçə dəfə yer artırıb?",
+    "options": [
+     "3",
+     "13",
+     "30"
+    ],
+    "answer": "3",
+    "why": "1934, 1998 və 2002."
+   },
+   {
+    "q": "Ara seçki prezident seçkisindən neçə il sonra keçir?",
+    "options": [
+     "1",
+     "2",
+     "3"
+    ],
+    "answer": "2",
+    "why": "Prezidentin müddətinin ortasında."
+   },
+   {
+    "q": "Yeni Konqres hansı gün işə başlayır?",
+    "options": [
+     "3 yanvar",
+     "1 mart",
+     "4 iyul"
+    ],
+    "answer": "3 yanvar",
+    "why": "ANI/Tribune: 3 yanvarda toplanır."
+   }
+  ],
+  "sources": [
+   "https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763",
+   "https://www.cbsnews.com/live-updates/election-day-2026-midterms/",
+   "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
+   "https://www.aninews.in/news/world/us/us-midterms-2026-democrats-projected-to-flip-us-house-hakeem-jeffries-poised-to-become-1st-african-american-speaker20261104085517/",
+   "https://www.dailysignal.com/2018/10/31/here-are-the-3-times-in-past-century-presidents-party-gained-seats-in-midterms/",
+   "https://www.davemanuel.com/2026/01/29/white-house-gain-seats-midterm-elections/"
+  ],
+  "verify_note": "House projection: CNN + NBC (ANI article, read 4 Nov). House+Senate projection: NBC + CBS headlines (search results 4 Nov ~09:30 Baku; NBC/CNBC pages not fetchable - robots/4xx); ABC headline 'projected to take control of Senate, House'. Senate wording kept as NBC/CBS projection + 'səslər hələ sayılır'. RE-CHECK at 15:23 build: if any outlet reverses the Senate call, drop 'həm də Senatı' from beat 1 + caption. 3 gains since 1934 (1934, 1998, 2002): Daily Signal + davemanuel (seat sizes differ for 2002 -> not used). Trump quote: CBS live page (remarks Monday 2 Nov). 3 January: ANI + Tribune. No seat numbers, no 'first Black speaker' line (projection-dependent), no opinions. Capitol photo: different from 3 Nov trend (that was Andy Feliciotti).",
+  "photo": {
+   "path": "fetch/img/2026-11-04_T_capitol_u.jpg",
+   "credit": "Sebastian Schuster / Unsplash",
+   "cy": 0.4,
+   "full": false,
+   "source": "https://unsplash.com/photos/GMCDmnG08X8",
+   "note": "Capitol dome at sunset, portrait 1600x2400; checked: no watermark. Alt fetch/img/2026-11-04_T_capitol2_u.jpg (Andy Feliciotti, used 3 Nov)."
+  },
+  "cta": "",
+  "trend_check": "2026-11-04 09:15-09:50 Baku: top world story = US midterm results (Democrats projected to win House; NBC/CBS also project Senate). Azerbaijan news: nothing dominant/allowed. No tragedy needing an immediate swap. Trend = midterm history angle (president's party loses midterms)."
+ },
+ "trend_check_morning": "2026-11-04 09:15-09:50 Baku: top world story = US midterm results (Democrats projected to win House; NBC/CBS also project Senate). Azerbaijan news: nothing dominant/allowed. No tragedy needing an immediate swap. Trend = midterm history angle (president's party loses midterms)."
 }

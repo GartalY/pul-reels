@@ -342,3 +342,11 @@ search_1104_kv62.json https://commons.wikimedia.org/w/api.php?action=query&forma
 2026-11-04_H_kv62.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/KV62%2C_Egypt_01.jpg/1920px-KV62%2C_Egypt_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 2026-11-04_1_flame_night_u.jpg https://images.unsplash.com/photo-1778855639398-1a2b9c7d23a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600
 2026-11-04_1_flame_night2_u.jpg https://images.unsplash.com/photo-1758386669548-8a0ae6e8cb34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600
+2026-11-04_T_capitol_u.jpg https://images.unsplash.com/photo-1775521037295-86f750e113dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600
+2026-11-04_T_capitol2_u.jpg https://images.unsplash.com/photo-1519922838705-9d6cb8bcfaea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600
+2026-11-05_2_saturn_u.jpg https://images.unsplash.com/photo-1614732414444-096e5f1122d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600
+2026-11-05_3_baikal_u.jpg https://images.unsplash.com/photo-1716475614657-4c8b558e3647?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600
+search_1105_yanar.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Yanar%20Dag
+search_1105_hajibeyov.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Uzeyir%20Hajibeyov
+search_1105_leyli.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Leyli%20Majnun%201908
+search_1105_selden.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Selden%20patent%20automobile

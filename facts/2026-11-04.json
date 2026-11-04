@@ -401,20 +401,20 @@
   "14:00 quiz q2 (Flame Towers)": 415533524,
   "14:10 answer a2": 415533559,
   "16:00 reel (Mercury, silent)": 415532467,
-  "18:30 reel (trend backup: Danyang-Kunshan bridge, silent)": 415532560,
-  "21:30 reel (Landau, voiced)": 415532698
+  "21:30 reel (Landau, voiced)": 415532698,
+  "18:30 TREND reel (US midterms, silent)": 416378980
  },
  "tiktok": {
   "13:00 Flame Towers": 415531586,
-  "18:30 trend backup bridge": 415532646
+  "18:30 TREND US midterms": 416379285
  },
  "youtube": {
   "11:00 REPOST Pluto": 415533318,
   "13:00 Flame Towers": 415531552,
   "16:00 Mercury": 415532518,
-  "18:30 trend backup bridge": 415532600,
   "19:45 REPOST godwit": 415533363,
-  "21:30 Landau": 415532764
+  "21:30 Landau": 415532764,
+  "18:30 TREND US midterms": 416379327
  },
  "built": {
   "when": "2026-11-03 ~20:55 Asia/Baku",
@@ -504,7 +504,16 @@
    "note": "Capitol dome at sunset, portrait 1600x2400; checked: no watermark. Alt fetch/img/2026-11-04_T_capitol2_u.jpg (Andy Feliciotti, used 3 Nov)."
   },
   "cta": "",
-  "trend_check": "2026-11-04 09:15-09:50 Baku: top world story = US midterm results (Democrats projected to win House; NBC/CBS also project Senate). Azerbaijan news: nothing dominant/allowed. No tragedy needing an immediate swap. Trend = midterm history angle (president's party loses midterms)."
+  "trend_check": "2026-11-04 09:15-09:50 Baku: top world story = US midterm results (Democrats projected to win House; NBC/CBS also project Senate). Azerbaijan news: nothing dominant/allowed. No tragedy needing an immediate swap. Trend = midterm history angle (president's party loses midterms).",
+  "built": "out/2026-11-04/T_reel.mp4 (24.9 s, silent, full portrait crop cy 0.4, hook_bg, no follow pill per cta '')"
  },
- "trend_check_morning": "2026-11-04 09:15-09:50 Baku: top world story = US midterm results (Democrats projected to win House; NBC/CBS also project Senate). Azerbaijan news: nothing dominant/allowed. No tragedy needing an immediate swap. Trend = midterm history angle (president's party loses midterms)."
+ "trend_check_morning": "2026-11-04 09:15-09:50 Baku: top world story = US midterm results (Democrats projected to win House; NBC/CBS also project Senate). Azerbaijan news: nothing dominant/allowed. No tragedy needing an immediate swap. Trend = midterm history angle (president's party loses midterms).",
+ "trend_swap": {
+  "when": "2026-11-04 15:24-15:30 Baku",
+  "what": "18:30 Danyang-Kunshan bridge backup -> US midterms history trend reel on IG + TikTok + YouTube (existing posts 415532560/415532646/415532600 updated, none added; bridge video removed from all 3; getScheduledPosts showed exactly one post per network at 18:30)",
+  "why": "Morning trend pick; 15:23 re-check: NBC still projects Democrats win both House and Senate (NBC 'Democrats capture full control of Congress'), so beat 1 'həm də Senatı' kept.",
+  "backup": "Bridge (2026-11-04-3) marked unposted in db.json; reel out/2026-11-04/3_reel.mp4 reusable",
+  "stories": "format v4: no 19:30/19:40 quiz stories today, nothing to re-render",
+  "frames_checked": "hook frame, beats 1-3: text in safe zone, no watermark, dome visible"
+ }
 }

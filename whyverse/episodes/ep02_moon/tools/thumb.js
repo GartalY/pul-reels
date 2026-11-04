@@ -1,24 +1,28 @@
+// Ep02 thumbnail scene (1920x1080, scaled to 1280x720): 3D Earth + a Moon crumbling away, worried Luna, 3 big words.
 (function () {
-  const { U, G, Ch, P } = globalThis; const C = P.C, FT = P.FT; const W = G.W, H = G.H;
+  const { U, G, Ch, P, K } = globalThis; const C = P.C, FT = P.FT; const W = G.W, H = G.H;
+  const MP = [2.2, 0.75, -1.3];
   Studio.film({
+    init: async () => { await M3.init(); },
     draw(ctx, t) {
-      P.sky(ctx, '#FFE3B3', '#F6C77A');
-      G.rays(ctx, 520, 600, { n: 18, r0: 200, r1: 1500, color: 'rgba(255,255,255,0.35)', lw: 40 });
-      // half-empty shelf
-      G.rrect(ctx, 60, 640, 900, 380, 10, { fill: '#C8DDE6', seed: 3, lw: 6 });
-      G.rrect(ctx, 50, 830, 920, 26, 4, { fill: '#F2F2F2', seed: 4, lw: 5 });
-      ['apple', 'cherry', 'blueberry'].forEach((f, i) => P.food(ctx, f, 160 + i * 130, 770, 1.1, { seed: i }));
-      for (let i = 0; i < 3; i++) { G.ellipse(ctx, 600 + i * 120, 780, 40, 12, { fill: 'rgba(0,0,0,0.08)', stroke: null, lw: 0, seed: 9 + i }); }
-      P.at(ctx, 760, 700, 1, -0.1, () => { G.rrect(ctx, -90, -40, 180, 80, 8, { fill: '#FFE07A', seed: 5, lw: 4 }); G.text(ctx, '$$$', 0, 22, { size: 60, fam: FT.title, weight: 400, color: C.red, align: 'center', boil: 0 }); });
-      ['bread', 'rice', 'corn'].forEach((f, i) => P.food(ctx, f, 200 + i * 200, 950, 1.0, { seed: i + 5 }));
-      Ch.bee(ctx, { x: 520, y: 380, s: 3.0, t: 0.2, eyes: 'wide', mouth: 'o', flap: 1, armL: 1.0, armR: 1.2, blush: 0.6 });
-      // headline
-      const card = (txt, x, y, size, fill, rot, col) => P.at(ctx, x, y, 1, rot, () => { const w = G.measure(ctx, txt, size, FT.title, 400) + 70; G.tornPaper(ctx, -w / 2, -size * 0.85, w, size * 1.3, { fill, seed: x | 0, tear: 4 }); G.text(ctx, txt, 0, size * 0.33, { size, fam: FT.title, weight: 400, color: col, align: 'center', boil: 0 }); });
-      card('NO BEES?', 1440, 300, 190, C.navy, -0.04, C.gold);
-      card('WHAT HAPPENS', 1440, 560, 92, '#FFF8E8', 0.03, C.navyD);
-      card('TO YOUR FOOD', 1440, 720, 92, C.coral, -0.02, '#FFF8E8');
-      P.planet(ctx, 1810, 980, 46, 0);
+      M3.draw(ctx, K.scene(0, { cam: K.cam([-0.9, 0.3, 3.0], [0.9, 0.35, -0.6], 44), sun: K.nrm([1, 0.25, 0.3]), earth: { spin: 2.3, lights: 2.0 }, moon: { show: false } }));
+      const lx = 1290, ly = 545, ls = 1.35, mr = 100 * ls;
+      P.glow(ctx, lx - 30, ly, mr * 2.6, 'rgba(210,225,255,', 0.3);
+      const oc = document.createElement('canvas'); oc.width = W; oc.height = H; const o = oc.getContext('2d');
+      Ch.luna(o, { x: lx, y: ly, s: ls, t: 0.3, eyes: 'wide', mouth: 'o', armL: 1.3, armR: -2.2, float: 0, blush: 0.5, glow: 0 });
+      o.globalCompositeOperation = 'destination-out';
+      for (let i = 0; i < 260; i++) { const yy = ly + (U.hash(i, 1) - 0.5) * mr * 2.3, edge = lx + mr * (0.42 + 0.28 * Math.sin(yy * 0.05) + 0.12 * U.hash(i, 4)); const x = edge + U.hash(i, 2) * mr * 1.4; const s = 14 + 22 * U.hash(i, 3); o.fillRect(x - s / 2, yy - s / 2, s, s); }
+      o.fillRect(lx + mr * 0.95, 0, W, H);
+      ctx.drawImage(oc, 0, 0);
+      for (let i = 0; i < 130; i++) { const k = U.hash(i, 5); const x = lx + mr * 0.95 + k * 560, y = ly + (U.hash(i, 6) - 0.5) * mr * 1.5 * (1 + 0.8 * k); const s = (16 + 20 * U.hash(i, 7)) * (1 - k * 0.75);
+        ctx.fillStyle = `rgba(${200 + 40 * U.hash(i, 8)},${195 + 40 * U.hash(i, 8)},${185 + 40 * U.hash(i, 8)},${1 - k * 0.8})`; ctx.save(); ctx.translate(x, y); ctx.rotate(U.hash(i, 9) * 3); ctx.fillRect(-s / 2, -s / 2, s, s); ctx.restore(); }
+      // words
+      const card = (txt, x, y, size, fill, col, rot) => P.at(ctx, x, y, 1, rot, () => { const w = P.measure(ctx, txt, size, FT.title, 400) + 70; P.rr(ctx, -w / 2, -size * 0.82, w, size * 1.25, 22); ctx.fillStyle = fill; ctx.fill(); G.text(ctx, txt, 0, size * 0.3, { size, fam: FT.title, weight: 400, color: col, align: 'center', boil: 0 }); });
+      card('NO MOON?', 1400, 190, 180, C.gold, C.navyD, -0.03);
+      card('WHAT HAPPENS', 1400, 880, 96, 'rgba(8,12,28,0.88)', C.white, 0.02);
+      card('TO EARTH', 1400, 1005, 96, C.coral, C.white, -0.02);
+      P.planet(ctx, 90, 80, 40, 0);
     },
-    post: { paper: 0.2, vignette: 0.12, grain: 0.02 }, fadeOut: 0,
+    post: { paper: 0, vignette: 0.2, grain: 0 }, fadeOut: 0,
   });
 })();

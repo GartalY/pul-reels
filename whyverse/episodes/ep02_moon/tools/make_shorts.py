@@ -10,11 +10,11 @@ os.makedirs(OUT, exist_ok=True)
 s = open(TLF).read(); TL = json.loads(s[s.index('=') + 1:s.index(';if(')]); LINES = {l['id']: l for l in TL['lines']}
 
 SHORTS = [
-    ('s1_einstein', 'c0_1', 'c0_5', ['EINSTEIN NEVER', 'SAID THIS', 'ABOUT BEES']),
-    ('s2_colour', 'c2_7', 'c2_10', ['NO BEES?', 'BREAD SURVIVES.', 'COLOUR DOESN\'T.']),
-    ('s3_maoxian', 'c3_5', 'c3_9', ['EVERY APPLE HERE', 'WAS POLLINATED', 'BY HAND']),
-    ('s4_almonds', 'c4_3', 'c4_8', ['ALMOST EVERY HIVE', 'IN AMERICA DRIVES', 'TO ONE VALLEY']),
-    ('s5_chocolate', 'c6_2', 'c6_4', ['CHOCOLATE', 'DOESN\'T NEED', 'BEES']),
+    ('s1_vanish', 'c0_1', 'c0_4', ['MOON GONE?', "YOU'D NOTICE", '1.3 S LATER']),
+    ('s2_asphalt', 'c1_1h', 'c1_3', ['THE MOON IS', 'AS DARK AS', 'OLD ASPHALT']),
+    ('s3_reef', 'c3_1h', 'c3_4', ['A WHOLE REEF', 'WAITS FOR', 'THE MOON']),
+    ('s4_18hours', 'c5_1h', 'c5_4b', ['A DAY ON EARTH', 'USED TO BE', '18 HOURS']),
+    ('s5_leaving', 'c7_1h', 'c7_3', ['THE MOON', 'IS LEAVING', 'US']),
 ]
 
 def ass_for(t0, t1, path):

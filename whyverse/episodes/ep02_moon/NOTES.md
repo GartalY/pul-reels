@@ -47,6 +47,14 @@ moonlight "about a tenth of a lux"; "maybe 15–20× closer" from Canup's 3–4 
 4. 4:37.6–5:09.3 — "A day on Earth used to be 18 hours." → Sun 8 Nov 17:00
 5. 6:43.3–7:08.8 — "The Moon is leaving us." → Sun 8 Nov 23:00
 
+## Verify (skill's ±20 ms / ±1 frame check on the final mp4)
+- Sound: title stamps 4/5 ✓ (title_4 +100 ms: the brass attack is soft, same as ep01); picture hits animate in (pop/stamp over
+  0.15–0.25 s) so they measure +3–5 frames late; totality ✓ (0 f) and impact ✓ (0 f). Same event time drives both sides.
+- Loudness −14.0 LUFS, true peak −1.2 dBTP. Final 34.1 MB (CRF 29), 8:21.5.
+- The VM restarted at frame ~13,440 of the render; the two half-written segments were recovered (raw H.264 salvaged from
+  the mdat with x264's SPS/PPS) and the 1,709 missing frames were re-rendered, then joined and checked (15,046 frames,
+  seams at 3:37 and 7:58 looked at frame by frame).
+
 ## Known weak spots
 - 3D is software-rendered (SwiftShader) at 0.75× internal scale and upscaled: Earth/Moon edges are a touch soft.
 - Dung beetle and the shore creatures are simple flat icons; the Arctic plankton "lunar day" is stylised (fast-forwarded).

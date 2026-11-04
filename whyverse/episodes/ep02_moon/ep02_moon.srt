@@ -1,0 +1,944 @@
+1
+00:00:01,220 --> 00:00:02,750
+Imagine the Moon vanished.
+
+2
+00:00:02,820 --> 00:00:03,440
+Right now.
+
+3
+00:00:03,460 --> 00:00:04,159
+Gone.
+
+4
+00:00:05,129 --> 00:00:07,129
+For the first one point three seconds,
+
+5
+00:00:07,179 --> 00:00:08,531
+you wouldn't notice a thing.
+
+6
+00:00:08,961 --> 00:00:10,353
+That's how long its last light
+
+7
+00:00:10,373 --> 00:00:11,801
+takes to reach your eyes.
+
+8
+00:00:12,021 --> 00:00:13,414
+Then the brightest thing in the
+
+9
+00:00:13,434 --> 00:00:15,133
+night sky just switches off.
+
+10
+00:00:16,073 --> 00:00:20,223
+Don't worry, the Moon isn't going anywhere.
+
+11
+00:00:20,243 --> 00:00:21,588
+But this thought experiment is the best way
+
+12
+00:00:21,608 --> 00:00:23,088
+to see what it actually does for us.
+
+13
+00:00:23,528 --> 00:00:25,746
+And it does a lot more than you think.
+
+14
+00:00:25,766 --> 00:00:26,936
+Our tides, our nights,
+
+15
+00:00:26,956 --> 00:00:28,412
+a reef that waits for it,
+
+16
+00:00:28,432 --> 00:00:30,053
+maybe even our seasons.
+
+17
+00:00:30,793 --> 00:00:32,816
+So, what if the Moon disappeared?
+
+18
+00:00:38,546 --> 00:00:39,406
+Chapter one.
+
+19
+00:00:39,426 --> 00:00:40,835
+The night goes dark.
+
+20
+00:00:41,535 --> 00:00:42,715
+Here's a surprise:
+
+21
+00:00:42,855 --> 00:00:45,554
+the Moon is about as dark as worn asphalt.
+
+22
+00:00:45,984 --> 00:00:47,614
+It reflects only around a tenth
+
+23
+00:00:47,634 --> 00:00:49,404
+of the sunlight that hits it.
+
+24
+00:00:49,734 --> 00:00:51,373
+It just looks bright because the
+
+25
+00:00:51,393 --> 00:00:52,945
+sky around it is black.
+
+26
+00:00:53,375 --> 00:00:55,070
+Even a full moon gives you about
+
+27
+00:00:55,090 --> 00:00:56,755
+a tenth of a lux of light.
+
+28
+00:00:57,075 --> 00:01:00,337
+The Sun is about four hundred thousand times brighter.
+
+29
+00:01:00,767 --> 00:01:02,805
+But that little bit of light matters.
+
+30
+00:01:02,825 --> 00:01:03,740
+Without the Moon,
+
+31
+00:01:03,760 --> 00:01:06,219
+every night would be a new-moon night, forever.
+
+32
+00:01:06,239 --> 00:01:08,197
+Just stars, and our own lamps.
+
+33
+00:01:08,627 --> 00:01:10,067
+Astronomers would love it.
+
+34
+00:01:10,297 --> 00:01:12,602
+Almost everyone else would need a flashlight.
+
+35
+00:01:13,062 --> 00:01:16,072
+For us, that's an inconvenience.
+
+36
+00:01:16,092 --> 00:01:17,102
+For some animals,
+
+37
+00:01:17,122 --> 00:01:17,476
+moonlight is a map.
+
+38
+00:01:17,906 --> 00:01:18,816
+In Africa,
+
+39
+00:01:18,836 --> 00:01:20,658
+dung beetles roll their dung balls
+
+40
+00:01:20,678 --> 00:01:22,366
+in straight lines at night,
+
+41
+00:01:22,536 --> 00:01:26,016
+by reading the pattern of polarized moonlight in the sky.
+
+42
+00:01:26,436 --> 00:01:28,985
+They were the first animals ever shown to do that.
+
+43
+00:01:29,425 --> 00:01:30,825
+And in the Arctic winter,
+
+44
+00:01:30,955 --> 00:01:32,915
+when the Sun doesn't rise for months,
+
+45
+00:01:33,135 --> 00:01:35,588
+tiny zooplankton across the ocean swim up
+
+46
+00:01:35,608 --> 00:01:37,741
+and down by the Moon instead.
+
+47
+00:01:39,421 --> 00:01:40,281
+Chapter two.
+
+48
+00:01:40,301 --> 00:01:41,497
+The tides shrink.
+
+49
+00:01:42,187 --> 00:01:44,307
+Tides aren't really the sea rising.
+
+50
+00:01:44,517 --> 00:01:46,621
+They're the Moon stretching the whole planet.
+
+51
+00:01:47,051 --> 00:01:48,533
+The Moon pulls a little harder on
+
+52
+00:01:48,553 --> 00:01:50,231
+the side of Earth that faces it,
+
+53
+00:01:50,431 --> 00:01:52,391
+and a little less on the far side.
+
+54
+00:01:52,641 --> 00:01:55,122
+So the oceans bulge out on both sides.
+
+55
+00:01:55,562 --> 00:01:57,472
+Earth spins under those bulges.
+
+56
+00:01:57,632 --> 00:02:00,359
+That's why most coasts get two high tides a day.
+
+57
+00:02:00,809 --> 00:02:03,546
+Not at exactly the same time each day, though.
+
+58
+00:02:03,566 --> 00:02:06,661
+High tide comes about fifty minutes later every day,
+
+59
+00:02:06,681 --> 00:02:09,777
+because the Moon keeps moving along its orbit.
+
+60
+00:02:10,217 --> 00:02:11,867
+The Sun makes tides too.
+
+61
+00:02:12,137 --> 00:02:14,243
+But it's so far away that its tidal pull
+
+62
+00:02:14,263 --> 00:02:16,805
+is only about half as strong as the Moon's.
+
+63
+00:02:17,255 --> 00:02:18,335
+So without the Moon,
+
+64
+00:02:18,355 --> 00:02:19,675
+tides wouldn't stop.
+
+65
+00:02:19,935 --> 00:02:21,460
+But the biggest tides would shrink to
+
+66
+00:02:21,480 --> 00:02:23,066
+about a third of their height.
+
+67
+00:02:23,496 --> 00:02:25,036
+In Canada's Bay of Fundy,
+
+68
+00:02:25,136 --> 00:02:26,740
+the water can rise and fall
+
+69
+00:02:26,760 --> 00:02:28,586
+by more than sixteen meters.
+
+70
+00:02:28,886 --> 00:02:30,777
+That show would mostly be over.
+
+71
+00:02:31,217 --> 00:02:34,181
+And the strip of shore between high and low tide,
+
+72
+00:02:34,201 --> 00:02:35,496
+home to crabs, mussels,
+
+73
+00:02:35,516 --> 00:02:36,811
+seaweed and shorebirds,
+
+74
+00:02:36,831 --> 00:02:38,595
+would get much narrower.
+
+75
+00:02:40,275 --> 00:02:41,185
+Chapter three.
+
+76
+00:02:41,205 --> 00:02:42,991
+The reef that waits for the Moon.
+
+77
+00:02:43,671 --> 00:02:45,061
+On a few nights each year,
+
+78
+00:02:45,081 --> 00:02:47,571
+a whole reef does something at the same moment.
+
+79
+00:02:47,791 --> 00:02:49,758
+And part of the signal is the Moon.
+
+80
+00:02:50,188 --> 00:02:52,298
+On Australia's Great Barrier Reef,
+
+81
+00:02:52,378 --> 00:02:54,098
+many corals spawn together,
+
+82
+00:02:54,248 --> 00:02:56,948
+one to six nights after a full moon in October,
+
+83
+00:02:57,008 --> 00:02:58,515
+November or December.
+
+84
+00:02:58,975 --> 00:03:00,791
+Billions of tiny bundles of eggs
+
+85
+00:03:00,811 --> 00:03:02,615
+and sperm float up at once,
+
+86
+00:03:02,755 --> 00:03:04,605
+like snow falling upwards.
+
+87
+00:03:05,425 --> 00:03:07,525
+Corals can't move to find each other.
+
+88
+00:03:07,635 --> 00:03:09,355
+So timing is everything.
+
+89
+00:03:09,575 --> 00:03:11,055
+If they all let go together,
+
+90
+00:03:11,075 --> 00:03:12,908
+the eggs have a chance to meet.
+
+91
+00:03:13,338 --> 00:03:15,138
+Warm water sets the season.
+
+92
+00:03:15,258 --> 00:03:16,818
+The Moon helps pick the night.
+
+93
+00:03:17,028 --> 00:03:17,888
+And right now,
+
+94
+00:03:17,908 --> 00:03:19,873
+it's spawning season on the reef.
+
+95
+00:03:20,303 --> 00:03:21,263
+Without the Moon,
+
+96
+00:03:21,283 --> 00:03:23,463
+the corals would lose one of their clocks,
+
+97
+00:03:23,603 --> 00:03:26,304
+and that perfect timing could start to fall apart.
+
+98
+00:03:27,984 --> 00:03:28,894
+Chapter four.
+
+99
+00:03:28,914 --> 00:03:30,273
+A wobbling planet?
+
+100
+00:03:30,953 --> 00:03:33,433
+The Moon may be the reason we have steady seasons.
+
+101
+00:03:33,523 --> 00:03:34,663
+Or maybe not.
+
+102
+00:03:34,883 --> 00:03:36,848
+Scientists are still arguing.
+
+103
+00:03:37,278 --> 00:03:39,338
+Earth spins on a tilted axis,
+
+104
+00:03:39,388 --> 00:03:41,288
+about twenty three and a half degrees.
+
+105
+00:03:41,548 --> 00:03:44,047
+That tilt is why we have summer and winter.
+
+106
+00:03:44,487 --> 00:03:46,177
+Right now it barely moves.
+
+107
+00:03:46,397 --> 00:03:48,166
+It rocks between about twenty two and
+
+108
+00:03:48,186 --> 00:03:49,907
+twenty four and a half degrees,
+
+109
+00:03:49,967 --> 00:03:51,887
+over forty one thousand years.
+
+110
+00:03:52,317 --> 00:03:53,847
+In 1993,
+
+111
+00:03:53,887 --> 00:03:55,404
+a team led by Jacques Laskar
+
+112
+00:03:55,424 --> 00:03:57,387
+ran the numbers without the Moon.
+
+113
+00:03:57,737 --> 00:03:59,357
+Their answer was alarming.
+
+114
+00:03:59,697 --> 00:04:01,667
+The tilt could swing chaotically,
+
+115
+00:04:01,687 --> 00:04:02,927
+from nearly zero,
+
+116
+00:04:02,947 --> 00:04:05,017
+up to about eighty five degrees.
+
+117
+00:04:05,857 --> 00:04:07,445
+Eighty five degrees means a pole
+
+118
+00:04:07,465 --> 00:04:09,447
+pointing almost straight at the Sun.
+
+119
+00:04:09,807 --> 00:04:11,257
+Months of endless day,
+
+120
+00:04:11,297 --> 00:04:13,064
+then months of endless night.
+
+121
+00:04:13,504 --> 00:04:15,044
+But in 2012,
+
+122
+00:04:15,124 --> 00:04:16,924
+another team took a closer look.
+
+123
+00:04:17,264 --> 00:04:18,514
+On their moonless Earth,
+
+124
+00:04:18,654 --> 00:04:20,920
+the tilt usually swung within a band only
+
+125
+00:04:20,940 --> 00:04:23,384
+about twenty to twenty five degrees wide,
+
+126
+00:04:23,554 --> 00:04:25,447
+for hundreds of millions of years.
+
+127
+00:04:25,877 --> 00:04:26,655
+So, wobblier?
+
+128
+00:04:26,675 --> 00:04:26,939
+Yes.
+
+129
+00:04:26,959 --> 00:04:27,281
+Wild?
+
+130
+00:04:27,301 --> 00:04:27,964
+Maybe not.
+
+131
+00:04:27,984 --> 00:04:29,672
+The Moon is a stabilizer,
+
+132
+00:04:29,692 --> 00:04:33,116
+but it's not the only thing keeping us steady.
+
+133
+00:04:34,796 --> 00:04:35,766
+Chapter five.
+
+134
+00:04:35,786 --> 00:04:37,320
+The brake on Earth's spin.
+
+135
+00:04:38,000 --> 00:04:40,180
+A day on Earth used to be much shorter.
+
+136
+00:04:40,440 --> 00:04:41,610
+And the Moon is a big
+
+137
+00:04:41,630 --> 00:04:43,340
+reason why it isn't anymore.
+
+138
+00:04:43,810 --> 00:04:46,910
+Those tidal bulges don't line up perfectly with the Moon.
+
+139
+00:04:47,270 --> 00:04:48,790
+Earth spins faster,
+
+140
+00:04:48,810 --> 00:04:50,582
+so it drags them a little ahead.
+
+141
+00:04:51,012 --> 00:04:52,471
+The Moon tugs them back,
+
+142
+00:04:52,491 --> 00:04:54,154
+like a brake on the planet.
+
+143
+00:04:54,174 --> 00:04:56,459
+Very slowly, the spin winds down.
+
+144
+00:04:56,889 --> 00:04:59,479
+About six hundred and twenty million years ago,
+
+145
+00:04:59,559 --> 00:05:01,809
+a day lasted under twenty two hours.
+
+146
+00:05:02,129 --> 00:05:04,199
+One point four billion years ago,
+
+147
+00:05:04,219 --> 00:05:05,493
+just over eighteen.
+
+148
+00:05:05,923 --> 00:05:08,617
+Back then, a year had about four hundred days.
+
+149
+00:05:09,047 --> 00:05:10,767
+Today the day still grows,
+
+150
+00:05:10,877 --> 00:05:13,747
+by about two thousandths of a second every century.
+
+151
+00:05:14,197 --> 00:05:15,037
+Without the Moon,
+
+152
+00:05:15,057 --> 00:05:16,797
+the brake would mostly come off.
+
+153
+00:05:17,127 --> 00:05:19,827
+The Sun's weaker tides would keep slowing us,
+
+154
+00:05:19,847 --> 00:05:21,181
+but much more gently.
+
+155
+00:05:21,621 --> 00:05:22,881
+And here's the twist.
+
+156
+00:05:23,101 --> 00:05:26,211
+The spin that Earth loses goes into the Moon's orbit.
+
+157
+00:05:26,361 --> 00:05:28,914
+That's why the Moon is slowly drifting away.
+
+158
+00:05:30,594 --> 00:05:31,544
+Chapter six.
+
+159
+00:05:31,564 --> 00:05:32,883
+The things we'd lose.
+
+160
+00:05:33,563 --> 00:05:36,323
+The most perfect eclipse we know of happens right here.
+
+161
+00:05:36,473 --> 00:05:37,901
+And it's a coincidence.
+
+162
+00:05:38,341 --> 00:05:39,814
+The Sun is about four hundred
+
+163
+00:05:39,834 --> 00:05:41,371
+times wider than the Moon,
+
+164
+00:05:41,501 --> 00:05:43,841
+and about four hundred times farther away.
+
+165
+00:05:44,211 --> 00:05:45,271
+So in our sky,
+
+166
+00:05:45,341 --> 00:05:47,873
+they look almost exactly the same size.
+
+167
+00:05:48,303 --> 00:05:50,833
+That's why the Moon can cover the Sun so neatly,
+
+168
+00:05:50,973 --> 00:05:53,217
+and show us its glowing outer atmosphere.
+
+169
+00:05:53,637 --> 00:05:55,527
+Eclipses changed science.
+
+170
+00:05:55,787 --> 00:05:58,907
+In 1868, during an eclipse,
+
+171
+00:05:58,927 --> 00:06:00,909
+Jules Janssen saw a strange yellow
+
+172
+00:06:00,929 --> 00:06:02,547
+line in the Sun's light.
+
+173
+00:06:02,747 --> 00:06:03,947
+It was a new element.
+
+174
+00:06:04,327 --> 00:06:06,617
+Norman Lockyer named it helium,
+
+175
+00:06:06,667 --> 00:06:08,480
+after the Greek word for the Sun.
+
+176
+00:06:09,210 --> 00:06:10,780
+In 1919,
+
+177
+00:06:10,910 --> 00:06:15,070
+another eclipse let astronomers measure starlight bending around the Sun.
+
+178
+00:06:15,490 --> 00:06:18,667
+It was a test of Einstein's new theory of gravity.
+
+179
+00:06:19,107 --> 00:06:20,953
+We'd lose our oldest clock, too.
+
+180
+00:06:20,973 --> 00:06:22,871
+The word month comes from moon.
+
+181
+00:06:22,891 --> 00:06:25,152
+The Islamic calendar still follows it,
+
+182
+00:06:25,172 --> 00:06:27,121
+with years of three hundred and
+
+183
+00:06:27,141 --> 00:06:29,344
+fifty four or fifty five days.
+
+184
+00:06:29,774 --> 00:06:31,874
+And twelve people have walked on the Moon.
+
+185
+00:06:32,164 --> 00:06:33,314
+In April this year,
+
+186
+00:06:33,334 --> 00:06:36,504
+the four astronauts of Artemis two flew around it.
+
+187
+00:06:36,784 --> 00:06:39,189
+Without it, there'd be nowhere close to go.
+
+188
+00:06:40,869 --> 00:06:41,859
+Chapter seven.
+
+189
+00:06:41,879 --> 00:06:43,051
+The real news.
+
+190
+00:06:43,731 --> 00:06:45,441
+The Moon isn't going to vanish.
+
+191
+00:06:45,491 --> 00:06:46,661
+But it is leaving.
+
+192
+00:06:47,101 --> 00:06:49,721
+Apollo astronauts left mirrors on the Moon.
+
+193
+00:06:50,101 --> 00:06:51,531
+For more than fifty years,
+
+194
+00:06:51,551 --> 00:06:53,761
+scientists have fired lasers at them,
+
+195
+00:06:53,861 --> 00:06:55,695
+and timed the light's round trip.
+
+196
+00:06:56,125 --> 00:06:57,935
+A pulse of light takes about two and
+
+197
+00:06:57,955 --> 00:07:00,163
+a half seconds to get there and back.
+
+198
+00:07:00,583 --> 00:07:01,383
+The result:
+
+199
+00:07:01,463 --> 00:07:03,002
+the Moon moves away from us by
+
+200
+00:07:03,022 --> 00:07:05,323
+about three point eight centimeters a year.
+
+201
+00:07:05,633 --> 00:07:08,152
+Roughly as fast as your fingernails grow.
+
+202
+00:07:08,582 --> 00:07:09,492
+When it formed,
+
+203
+00:07:09,552 --> 00:07:12,802
+after a Mars-sized world called Theia smashed into the young
+
+204
+00:07:12,822 --> 00:07:15,642
+Earth about four and a half billion years ago,
+
+205
+00:07:15,922 --> 00:07:17,877
+the Moon was maybe fifteen to twenty
+
+206
+00:07:17,897 --> 00:07:19,853
+times closer than it is today.
+
+207
+00:07:20,293 --> 00:07:22,423
+It has been backing away ever since.
+
+208
+00:07:22,753 --> 00:07:24,883
+In roughly six hundred million years,
+
+209
+00:07:24,983 --> 00:07:27,193
+it will look too small to cover the Sun,
+
+210
+00:07:27,283 --> 00:07:30,209
+and total solar eclipses will start to disappear.
+
+211
+00:07:30,649 --> 00:07:31,789
+But it won't escape.
+
+212
+00:07:31,989 --> 00:07:33,079
+Long before it could,
+
+213
+00:07:33,099 --> 00:07:34,827
+the Sun itself will change.
+
+214
+00:07:35,867 --> 00:07:37,846
+So, what if the Moon disappeared?
+
+215
+00:07:37,866 --> 00:07:39,056
+We wouldn't all die.
+
+216
+00:07:39,076 --> 00:07:42,435
+But we'd live on a darker, quieter, wobblier planet.
+
+217
+00:07:43,265 --> 00:07:44,495
+Smaller tides.
+
+218
+00:07:44,555 --> 00:07:45,635
+No eclipses.
+
+219
+00:07:45,825 --> 00:07:47,540
+Animals missing a clock they've used
+
+220
+00:07:47,560 --> 00:07:48,989
+for a very long time.
+
+221
+00:07:49,409 --> 00:07:50,992
+The Moon lights our nights,
+
+222
+00:07:51,012 --> 00:07:51,994
+lifts our oceans,
+
+223
+00:07:52,014 --> 00:07:53,446
+helps steady our seasons,
+
+224
+00:07:53,466 --> 00:07:54,951
+and slows our spin.
+
+225
+00:07:55,371 --> 00:07:56,981
+The Moon doesn't just hang there.
+
+226
+00:07:57,181 --> 00:07:58,626
+It has been shaping Earth since
+
+227
+00:07:58,646 --> 00:07:59,953
+the day it was born.
+
+228
+00:08:00,903 --> 00:08:02,783
+And there are two supermoons coming up,
+
+229
+00:08:02,803 --> 00:08:05,333
+on November twenty fourth and on Christmas Eve.
+
+230
+00:08:05,683 --> 00:08:07,193
+Go outside, look up,
+
+231
+00:08:07,213 --> 00:08:08,356
+and say thanks.
+
+232
+00:08:09,286 --> 00:08:11,036
+If you enjoyed this,
+
+233
+00:08:11,056 --> 00:08:12,626
+give it a like,
+
+234
+00:08:12,906 --> 00:08:14,286
+and subscribe to Whyverse.
+
+235
+00:08:14,366 --> 00:08:16,056
+And for shorter stories,
+
+236
+00:08:16,076 --> 00:08:16,531
+find us on Instagram and TikTok.
+

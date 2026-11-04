@@ -1,7 +1,8 @@
 # builds film/timeline.js (line times, word times, mouth track) + film/vo.wav from per-line Kokoro wavs
 import json, re, sys, numpy as np, soundfile as sf
-EP = '/home/claude/pul-reels/whyverse/episodes/ep01_bees'
-VO = '/home/claude/vo'
+import os
+EP = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))   # the episode folder
+VO = os.environ.get('VO_DIR', os.path.join(EP, 'vo'))               # one wav per script line
 L = json.load(open(f'{EP}/lines.json'))
 FPS = 30
 START = 1.2
@@ -83,7 +84,7 @@ for ln in lines:
         x = np.arange(0, len(a), sr / SR); a = np.interp(x, np.arange(len(a)), a)
     i = int(ln['t'] * SR); vo[i:i+len(a)] += a
     del ln['sr']
-sf.write(f'{EP}/film/out/vo.wav', vo.astype(np.float32), SR, subtype='FLOAT')
+os.makedirs(f'{EP}/film/out', exist_ok=True); sf.write(f'{EP}/film/out/vo.wav', vo.astype(np.float32), SR, subtype='FLOAT')
 js = '(function(){const TL=' + json.dumps({'DURATION': DUR, 'lines': lines, 'mouth': ms}, separators=(',', ':')) + ";if(typeof module!=='undefined')module.exports=TL;else globalThis.TL=TL;})();\n"
 open(f'{EP}/film/timeline.js', 'w').write(js)
 print('duration', DUR, 's =', round(DUR/60, 2), 'min; lines', len(lines))

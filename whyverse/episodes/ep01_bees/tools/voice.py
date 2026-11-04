@@ -2,7 +2,8 @@ import json, sys, os, soundfile as sf
 from kokoro_onnx import Kokoro
 src, outdir = sys.argv[1], sys.argv[2]
 os.makedirs(outdir, exist_ok=True)
-k = Kokoro('/home/claude/kokoro/kokoro-v1.0.int8.onnx', '/home/claude/kokoro/voices-v1.0.bin')
+KD = os.environ.get('KOKORO_DIR', '/home/claude/kokoro')
+k = Kokoro(os.path.join(KD, 'kokoro-v1.0.int8.onnx'), os.path.join(KD, 'voices-v1.0.bin'))
 L = json.load(open(src)); dur = {}
 only = set(sys.argv[3:])
 for ch, lid, text in L:

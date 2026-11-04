@@ -1,0 +1,1 @@
+Saturn rings motion reel (16:00, 5 Nov 2026). Scaffold with animation-studio new-project.js --format 9:16, copy these 3 files + assets/saturn.jpg (fetch/img/2026-11-05_2_saturn_u.jpg) + InterDisplay Black/Bold/SemiBold otf into assets/, then: node song.js && node engine/render.js video && node engine/render.js mux

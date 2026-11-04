@@ -70,6 +70,14 @@
    "full": false,
    "source": "https://commons.wikimedia.org/wiki/File:Selden_Road_engine_replica_(1).jpg",
    "note": "1000x802 B/W photo of the road-engine replica in a street; checked: no watermark. Slides: fetch/img/2026-11-05_H_selden_drawing.png (patent drawing 'Patented Nov. 5, 1895', PD) and fetch/img/2026-11-05_H_selden_1905.jpg (Selden at the wheel 1905, PD, small 606 px)."
+  },
+  "story": {
+   "day": 5,
+   "month": 11,
+   "year": 1895,
+   "title": "Maşını yox idi, amma patenti vardı",
+   "text": "131 il əvvəl bu gün Corc Selden benzinlə işləyən maşın üçün ABŞ patenti aldı. Amma o, belə bir maşını heç tikməmişdi. Patentə 16 il əvvəl müraciət etmişdi.",
+   "credit": "Wikimedia Commons"
   }
  },
  "facts": [
@@ -340,6 +348,40 @@
     "source": "https://commons.wikimedia.org/wiki/File:Uzeyir_Hajibeyov_in_1913.jpg",
     "note": "full-length studio portrait (Litvintsev studio, Baku, 1913 - 5 years after the premiere), 956x1924, face in upper third -> cy ~0.3. Studio seal at the bottom is the photographer's own card mark, not an agency watermark. Alt: fetch/img/2026-11-05_4_hajibeyov.jpg (older portrait with glasses, PD) and fetch/img/2026-11-05_4_sarabski.jpg (Sarabski as Majnun, PD, only 305 px)."
    }
+  }
+ ],
+ "stories": [
+  {
+   "time": "11:00",
+   "fact_id": "2026-11-03-T",
+   "recall": true,
+   "cat": "Tarix",
+   "q": "ABŞ-da seçki günü neçənci ildə təyin olunub?",
+   "options": [
+    "1776",
+    "1845",
+    "1920"
+   ],
+   "answer": "1845",
+   "why": "1845-ci il qanunu ilə.",
+   "image": "out/2026-11-05/q1.jpg",
+   "answer_image": "out/2026-11-05/q1_a.jpg"
+  },
+  {
+   "time": "14:00",
+   "fact_id": "2026-11-05-1",
+   "recall": false,
+   "cat": "Azərbaycan",
+   "q": "Yanar dağda alov nə qədər hündürə qalxır?",
+   "options": [
+    "30 sm-ə qədər",
+    "3 metrə qədər",
+    "30 metrə qədər"
+   ],
+   "answer": "3 metrə qədər",
+   "why": "Qum daşı qatından çıxır.",
+   "image": "out/2026-11-05/q2.jpg",
+   "answer_image": "out/2026-11-05/q2_a.jpg"
   }
  ]
 }

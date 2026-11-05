@@ -1,6 +1,6 @@
 {
  "date": "2026-11-06",
- "status": "planned",
+ "status": "scheduled",
  "format": "v2",
  "content_format": "v4",
  "planned_note": "Planned in the 2026-11-05 09:10 run (format v4, STRATEGY RESET 2026-11-03). Fri 6 Nov = PART 1 of the two-part pair (Fri 6 / Sat 7). 10:00 TBG carousel = first college football game Rutgers-Princeton 6 Nov 1869. 13:00 AZ reel (VOICED, 1/2) = Baku Metro 59 years today: started 1951, stopped 1953. 16:00 reel (SILENT, space wow, MOTION build) = Io volcanic plumes up to 500 km. 18:30 trend backup (SILENT) = 27 million t Saharan dust falls on the Amazon. 21:30 reel (VOICED, Azerbaijan angle) = Baku-born Rostropovich, 100+ works written for him, Berlin Wall 1989. All photos fetched and checked.",
@@ -408,9 +408,30 @@
    "answer_image": "out/2026-11-06/q2_a.jpg"
   }
  ],
- "metricool": {},
- "tiktok": {},
- "youtube": {},
+ "metricool": {
+  "10:00 tarixdə bu gün carousel (Rutgers-Princeton 1869)": 417982463,
+  "10:00 tarixdə bu gün story": 417983872,
+  "11:00 quiz q1 (recall Mercury 88 days)": 417983924,
+  "11:10 answer a1": 417983977,
+  "13:00 reel (Baku Metro 1/2, voiced)": 417983042,
+  "14:00 quiz q2 (Baku Metro)": 417984007,
+  "14:10 answer a2": 417984055,
+  "16:00 reel (Io plumes, MOTION, silent)": 417983120,
+  "18:30 reel (Sahara dust backup, silent)": 417983275,
+  "21:30 reel (Rostropovich, voiced)": 417983374
+ },
+ "tiktok": {
+  "13:00 Baku Metro 1/2": 417984703,
+  "18:30 Sahara dust backup": 417984794
+ },
+ "youtube": {
+  "11:00 REPOST Neft Daşları": 417986178,
+  "13:00 Baku Metro 1/2": 417985905,
+  "16:00 Io": 417985971,
+  "18:30 Sahara dust backup": 417986021,
+  "19:45 REPOST bubble wrap": 417986265,
+  "21:30 Rostropovich": 417986082
+ },
  "pending_schedule": [],
  "built": {
   "when": "2026-11-05 ~21:00 Asia/Baku",
@@ -429,5 +450,6 @@
  },
  "language_check": "Evening re-read (section L): reel 1 beat 1 cut to 'İlk gün 5 stansiya işə düşdü.'; beat 3 'tikinti birdən dayandı. Rəsmi səbəb: pul yoxdur.'; motion labels 'fəal vulkan', 'dartır · sıxır · qızdırır', 'Kosmik Stansiya ≈ 400 km' plain words.",
  "trend_check_evening": "2026-11-05 ~20:50 Baku: top story today = France nationwide strikes/protests (CNN live, 5 Nov); NASA Swift already today's trend. Nothing forces a swap in tomorrow's evergreen plan; 18:30 = Sahara dust backup until the 15:23 trend swap (France strikes = candidate if it continues, neutral per section D). Rostropovich birth/Berlin Wall re-checked: Classic FM, Daily Maverick, INA.",
- "reposts": "6 Nov YouTube only: 11:00 Neft Daşları 200 km road (20 Oct n1, IG 117; hook upper-case, Baku CTA) and 19:45 bubble wrap / wallpaper (21 Oct n2, IG 116; hook '1957: ƏVVƏLCƏ DİVAR KAĞIZI İDİ'). Repost stock is now EMPTY (left: computer bug = tech-origin flop type, webcam 49 = flop). Sunday review must decide what fills 11:00/19:45 from 7 Nov."
+ "reposts": "6 Nov YouTube only: 11:00 Neft Daşları 200 km road (20 Oct n1, IG 117; hook upper-case, Baku CTA) and 19:45 bubble wrap / wallpaper (21 Oct n2, IG 116; hook '1957: ƏVVƏLCƏ DİVAR KAĞIZI İDİ'). Repost stock is now EMPTY (left: computer bug = tech-origin flop type, webcam 49 = flop). Sunday review must decide what fills 11:00/19:45 from 7 Nov.",
+ "scheduled_check": "getScheduledPosts 6 Nov before scheduling: 0 posts. After: 18 posts (IG 10 incl. 5 stories, TikTok 2, YouTube 6), each network/time exactly once."
 }

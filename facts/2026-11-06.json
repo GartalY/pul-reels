@@ -1,0 +1,366 @@
+{
+ "date": "2026-11-06",
+ "status": "planned",
+ "format": "v2",
+ "content_format": "v4",
+ "planned_note": "Planned in the 2026-11-05 09:10 run (format v4, STRATEGY RESET 2026-11-03). Fri 6 Nov = PART 1 of the two-part pair (Fri 6 / Sat 7). 10:00 TBG carousel = first college football game Rutgers-Princeton 6 Nov 1869. 13:00 AZ reel (VOICED, 1/2) = Baku Metro 59 years today: started 1951, stopped 1953. 16:00 reel (SILENT, space wow, MOTION build) = Io volcanic plumes up to 500 km. 18:30 trend backup (SILENT) = 27 million t Saharan dust falls on the Amazon. 21:30 reel (VOICED, Azerbaijan angle) = Baku-born Rostropovich, 100+ works written for him, Berlin Wall 1989. All photos fetched and checked.",
+ "two_part": {
+  "part": 1,
+  "story": "Baku Metro: why it took 16 years (1951 -> 1967)",
+  "part2_date": "2026-11-07",
+  "part2_plan": "Sat 7 Nov 13:00 facts[0] (voiced), hook '(2/2)', 1-line recap first ('Dünən danışdıq: Bakı metrosunun tikintisi 1953-cü ildə pul olmadığı üçün dayandı'). Content (re-verify in the 6 Nov 09:10 run): construction re-launched in 1960 (urbanrail.net + mirprometro.info); per the National Library (eres.preslib.az) Khrushchev had frozen it as 'an expensive luxury' and the republic's leaders convinced him to restart during his 1960 visit for the 40th anniversary of Soviet power in Azerbaijan -> attribute 'Milli Kitabxananın yazdığına görə'; the first line was re-routed for new buildings (urbanrail, mirprometro); opened 6 Nov 1967, 5th metro in the USSR (mirprometro/Wikipedia); first train on the 28 May - Xətai line 22 Feb 1968 (metro.gov.az + preslib). Today: 27 stations, 40.7 km, 3 lines (metro.gov.az). Avoid: first-section length (6.5 vs 9.2 km conflict), the 1994/1995 tragedies, renamings' politics. First comment links back: '1-ci hissə profildədir'. Photo: a different station (e.g. Nizami or 28 May interior, Commons)."
+ },
+ "history": {
+  "n": "H",
+  "type": "card",
+  "cat": "Tarix",
+  "day": 6,
+  "month": 11,
+  "year": 1869,
+  "subject": "6 Nov 1869, College Field, New Brunswick NJ: Rutgers beat the College of New Jersey (Princeton) 6-4 in the first intercollegiate football game (Wikipedia 1869 season, scarletknights.com, HISTORY). 25 players a side (all 3). Ball perfectly round; no running with the ball, only kicking/batting with feet, hands, heads or sides (Wikipedia, scarletknights); rules adapted from the London Football Association (scarletknights). Each goal counted as a 'game', first to... 10 games completed the contest (scarletknights, Wikipedia). About 100 spectators (scarletknights, HISTORY). Rematch 13 Nov at Princeton, Princeton won 8-0 (Wikipedia; HISTORY 'Princeton won'). 157 years = not round -> TBG only. Not used: professor with umbrella quote (one source).",
+  "photo_request": "1869 rosters sheet / Rutgers plaque / Targum (Commons)",
+  "card_title": "6 NOYABR 1869",
+  "title": "İlk matçda hər komandada 25 oyunçu vardı",
+  "text": "1869-cu il noyabrın 6-da ABŞ-da iki universitet arasında ilk futbol matçı oldu. Hər komandada 25 oyunçu vardı, top isə tam dairəvi idi.",
+  "cover": {
+   "hook": "İlk matçda hər komandada 25 oyunçu vardı",
+   "sub": "6 noyabr 1869 · 157 il əvvəl bu gün"
+  },
+  "slides": [
+   {
+    "h": "25 + 25",
+    "t": "1869-cu il noyabrın 6-da ABŞ-da Ratgers və Prinston universitetləri ilk dəfə bir-biri ilə futbol oynadı. Hər komandada 25 oyunçu vardı."
+   },
+   {
+    "h": "Əldə qaçmaq olmaz",
+    "t": "Top tam dairəvi idi. Onu əldə götürüb qaçmaq olmazdı. Topu yalnız ayaqla, başla və ya bədənlə vurmaq olardı. Qaydalar Londonun futbol qaydalarından götürülmüşdü."
+   },
+   {
+    "h": "6:4",
+    "t": "Hər qol ayrıca «oyun» sayılırdı. 10 qoldan sonra matç bitdi və Ratgers 6:4 qalib gəldi. Matça təxminən 100 nəfər baxırdı."
+   },
+   {
+    "h": "8:0",
+    "t": "Bir həftə sonra Prinstonda cavab oyunu oldu və bu dəfə Prinston 8:0 qazandı. Bu iki matç Amerika futbolunun başlanğıcı sayılır."
+   }
+  ],
+  "caption": "157 il əvvəl bu gün ilk universitet futbol matçında hər komandada 25 oyunçu vardı ⚽\n\n1869-cu il noyabrın 6-da ABŞ-da Ratgers və Prinston universitetləri ilk dəfə bir-biri ilə oynadı. Top tam dairəvi idi və onu əldə götürüb qaçmaq olmazdı. Hər qol ayrıca «oyun» sayılırdı, 10 qoldan sonra matç bitdi. Ratgers 6:4 qalib gəldi, matça təxminən 100 nəfər baxdı. Bir həftə sonra Prinston cavab oyununu 8:0 qazandı.\n\n📩 Həyətdə 10 nəfərlə futbol oynayan dostuna göndər, qoy 50 nəfəri təsəvvür etsin\n\nFoto: Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #tarixdəbugün #futbol #tarix",
+  "first_comment": "Sən meydanda 50 oyunçu ilə oynamaq istərdin? 👇",
+  "quizzes": [
+   {
+    "q": "1869-cu ilin ilk matçında hər komandada neçə oyunçu vardı?",
+    "options": [
+     "11",
+     "15",
+     "25"
+    ],
+    "answer": "25",
+    "why": "Cəmi 50 oyunçu."
+   },
+   {
+    "q": "İlk matçı Ratgers hansı hesabla qazandı?",
+    "options": [
+     "6:4",
+     "3:1",
+     "8:0"
+    ],
+    "answer": "6:4",
+    "why": "8:0 isə Prinstonun cavab oyunu idi."
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/1869_college_football_season",
+   "https://scarletknights.com/sports/2022/7/25/sports-m-footbl-archive-first-game-html",
+   "https://www.history.com/this-day-in-history/november-6/first-college-football-game-rutgers-princeton"
+  ],
+  "verify_note": "Date, 25 a side, 6-4: all three sources. Round ball + no running: Wikipedia + scarletknights. ~100 spectators: scarletknights + HISTORY. Rematch 8-0: Wikipedia (HISTORY confirms Princeton won). London FA rules: scarletknights only -> kept as a soft detail on slide 2 (from the official Rutgers archive). Wikipedia caveat 'traditionally considered' -> we say 'başlanğıcı sayılır'.",
+  "photo": {
+   "path": "fetch/img/2026-11-06_H_rosters.jpg",
+   "credit": "Wikimedia Commons (ictimai mülkiyyət)",
+   "cy": 0.35,
+   "full": false,
+   "source": "https://commons.wikimedia.org/wiki/File:1869_first_football_game_rosters.jpg",
+   "note": "B/W sheet 'First intercollegiate football game, Nov 6 1869, won by Rutgers over Princeton, six goals to four' with 2 rows of player portraits; PD; checked: no watermark. Slides alt: fetch/img/2026-11-06_H_plaque.jpg (CC BY-SA 4.0, needs credit), fetch/img/2026-11-06_H_targum.jpg (PD newspaper page)."
+  }
+ },
+ "facts": [
+  {
+   "n": 1,
+   "type": "reel",
+   "cat": "Azərbaycan",
+   "voiced": true,
+   "two_part": "1/2",
+   "subject": "Baku Metro opened 6 Nov 1967 (Wikipedia, metro.gov.az, urbanrail.net, mirprometro.info, eres.preslib.az) with 5 stations: Bakı Soveti (now İçərişəhər), 26 Bakı Komissarı (now Sahil), 28 Aprel (now 28 May), Gənclik, Nəriman Nərimanov (metro.gov.az, Wikipedia list, urbanrail). Construction of the first line began in 1951 (Wikipedia, urbanrail, mirprometro, preslib); builders worked in three shifts (metro.gov.az). Suspended in 1953, official reason lack of funds (urbanrail, mirprometro; preslib: Khrushchev froze it). Restarted 1960 (urbanrail, mirprometro, preslib) -> PART 2. 1951->1967 = 16 years (own arithmetic). 5th metro in the USSR (mirprometro + Wikipedia; metro.gov.az 'fifth in the post-Soviet'). Not used: first-section length (6.5 km Wikipedia/urbanrail vs 9.2 km metro.gov.az vs 2 km preslib).",
+   "photo_request": "Sahil station platform (one of the 1967 stations), Commons",
+   "title": "16 ilə tikilən metro: Bakı (1/2)",
+   "text": "Bakı metrosu 59 il əvvəl bu gün açıldı. Amma tikintiyə 1951-ci ildə başlamışdılar və 1953-cü ildə iş birdən dayandı.",
+   "reel_hook": "16 İLƏ TİKİLƏN METRO: BAKI (1/2)",
+   "reel_beats": [
+    "Bakı metrosu 59 il əvvəl bu gün, 1967-ci il noyabrın 6-da açıldı. İlk gün 5 stansiya işə düşdü: indiki İçərişəhər, Sahil, 28 May, Gənclik və Nərimanov.",
+    "Amma tikintiyə hələ 1951-ci ildə başlamışdılar. Fəhlələr yerin altında gecə-gündüz, üç növbə ilə işləyirdilər.",
+    "1953-cü ildə isə tikinti birdən dayandırıldı. Rəsmi səbəb belə idi: pul yoxdur. Bəs metro necə xilas oldu? 2-ci hissə sabah 13:00-da."
+   ],
+   "voice_texts": [
+    "On altı ilə tikilən metro: Bakı, birinci hissə.",
+    "Bakı metrosu əlli doqquz il əvvəl bu gün, min doqquz yüz altmış yeddinci il, noyabrın altısında açıldı. İlk gün beş stansiya işə düşdü: indiki İçərişəhər, Sahil, iyirmi səkkiz May, Gənclik və Nərimanov.",
+    "Amma tikintiyə hələ min doqquz yüz əlli birinci ildə başlamışdılar. Fəhlələr yerin altında gecə-gündüz, üç növbə ilə işləyirdilər.",
+    "Min doqquz yüz əlli üçüncü ildə isə tikinti birdən dayandırıldı. Rəsmi səbəb belə idi: pul yoxdur. Bəs metro necə xilas oldu? İkinci hissə sabah, saat on üçdə."
+   ],
+   "cta": "2-ci hissə sabah 13:00-da — izlə!",
+   "caption": "Bakı metrosunu tikmək 16 il çəkdi (1/2) 🚇\n\nBakı metrosu 59 il əvvəl bu gün, 1967-ci il noyabrın 6-da açıldı. İlk gün 5 stansiya işə düşdü: indiki İçərişəhər, Sahil, 28 May, Gənclik və Nərimanov. Bu, Sovet İttifaqında beşinci metro idi. Amma tikintiyə hələ 1951-ci ildə başlamışdılar: fəhlələr yerin altında üç növbə ilə işləyirdi. 1953-cü ildə isə tikinti birdən dayandırıldı. Rəsmi səbəb: pul yoxdur.\n\nBəs metro necə xilas oldu və kim onu yenidən başlatdı? 2-ci hissə sabah 13:00-da — izlə ki, qaçırmayasan.\n\n📩 Hər gün metroda «yenə qatar gecikir» deyən dostuna göndər 😄\n\n👉 Hər gün 13:00-da Azərbaycan haqqında bilmədiyin bir fakt — izlə ki, qaçırmayasan\n\nFoto: لاله171 / Wikimedia Commons (CC BY-SA 4.0)\n\n#bilirdinizmi #maraqlıfaktlar #bakımetrosu #bakı #azərbaycan",
+   "first_comment": "Səncə, 1953-cü ildə dayanan metro necə xilas oldu? 👇",
+   "quizzes": [
+    {
+     "q": "Bakı metrosunun tikintisinə neçənci ildə başlandı?",
+     "options": [
+      "1941",
+      "1951",
+      "1961"
+     ],
+     "answer": "1951",
+     "why": "Açılış isə 1967-ci ildə oldu."
+    },
+    {
+     "q": "Bakı metrosu açılanda neçə stansiyası vardı?",
+     "options": [
+      "3",
+      "5",
+      "9"
+     ],
+     "answer": "5",
+     "why": "İndiki İçərişəhər, Sahil, 28 May, Gənclik, Nərimanov."
+    },
+    {
+     "q": "Tikinti 1953-cü ildə hansı rəsmi səbəblə dayandı?",
+     "options": [
+      "Pul yox idi",
+      "Zəlzələ oldu",
+      "Su basdı"
+     ],
+     "answer": "Pul yox idi",
+     "why": "urbanrail.net və mirprometro.info."
+    }
+   ],
+   "sources": [
+    "https://metro.gov.az/en/page/haqqimizda",
+    "https://en.wikipedia.org/wiki/Baku_Metro",
+    "https://urbanrail.net/as/baku/baku.htm",
+    "https://mirprometro.info/en/Baku/",
+    "https://eres.preslib.az/site/historical/page/en/P8MhVow"
+   ],
+   "verify_note": "Opening date + 5 stations: 4-5 sources incl. official metro.gov.az. 1951 start: 4 sources. 1953 stop for lack of funds: urbanrail + mirprometro (+ preslib: frozen by Khrushchev). Three shifts: metro.gov.az only (official, kept as a small detail). 5th in USSR: mirprometro + Wikipedia. Station list uses today's names ('indiki') to avoid the Soviet-name politics. Two-part is genuine: the restart story (1960) is a real second half.",
+   "photo": {
+    "path": "fetch/img/2026-11-06_1_sahil.jpg",
+    "credit": "لاله171 / Wikimedia Commons (CC BY-SA 4.0)",
+    "cy": 0.5,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Sahil_metro_station.jpg",
+    "note": "portrait 1280x1707, empty Sahil platform with track and station sign, no people; CC BY-SA 4.0 (credit required); checked: no watermark."
+   }
+  },
+  {
+   "n": 2,
+   "type": "reel",
+   "cat": "Kosmos",
+   "voiced": false,
+   "motion": true,
+   "subject": "Jupiter's moon Io: more than 150 active volcanoes observed, up to ~400 predicted (Wikipedia 'Volcanism on Io'; Live Science 2024 'estimated 400 volcanoes, according to NASA'; WorldAtlas 'over 400'). Pele-type plumes reach 300-500 km (Wikipedia; WorldAtlas 'plumes ... 500 kilometres'). ISS orbits ~400 km up (NASA, general knowledge; we say 'təxminən 400'). Cause: tidal heating by Jupiter's gravity, kept going by the resonance with Europa and Ganymede (Wikipedia; Live Science 'tidal flexing'; WorldAtlas). Io diameter ~3 600 km, slightly larger than our Moon (Live Science, WorldAtlas). Volcanism discovered 1979 by Linda Morabito in Voyager 1 images (Wikipedia, Live Science).",
+   "photo_request": "Io true colour (Galileo, NASA, Commons PD)",
+   "title": "500 km hündürlüyə qalxan vulkan buludu: İo",
+   "text": "Yupiterin peyki İoda vulkan buludları 500 kilometr hündürlüyə qalxa bilir. Bu, Kosmik Stansiyanın uçduğu yerdən də yüksəkdir.",
+   "reel_hook": "500 KM HÜNDÜRLÜYƏ QALXAN VULKAN BULUDU: İO",
+   "reel_beats": [
+    "Yupiterin peyki İo Günəş sistemində vulkanı ən çox olan dünyadır. Alimlər orada 150-dən çox fəal vulkan görüblər, cəmi 400-ə qədər ola bilər.",
+    "Ən güclü püskürmələrdə vulkan buludu 300–500 kilometr hündürlüyə qalxır. Müqayisə üçün: Beynəlxalq Kosmik Stansiya Yerdən təxminən 400 kilometr yüksəkdə uçur.",
+    "Səbəb Yupiterin güclü cazibəsidir: o, İonu daim dartıb-sıxır və peykin içi qızır. İo bizim Aydan bir az böyükdür. Belə bir yerə baxmaq istərdin?"
+   ],
+   "caption": "Bu peykdə vulkan buludu 500 km hündürlüyə qalxır 🌋\n\nYupiterin peyki İo Günəş sistemində vulkanı ən çox olan dünyadır. Alimlər orada 150-dən çox fəal vulkan görüblər, cəmi 400-ə qədər ola bilər. Ən güclü püskürmələrdə vulkan buludu 300–500 kilometr hündürlüyə qalxır, Beynəlxalq Kosmik Stansiya isə Yerdən təxminən 400 kilometr yüksəkdə uçur. Səbəb Yupiterin cazibəsidir: o, İonu daim dartıb-sıxır və peykin içi qızır. İonun vulkanlarını ilk dəfə 1979-cu ildə «Voyacer 1» zondunun şəkillərində gördülər.\n\n📩 Hirslənəndə «vulkan kimi püskürən» dostuna göndər 😄\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: NASA / JPL / Arizona Universiteti\n\n#bilirdinizmi #maraqlıfaktlar #kosmos #yupiter #vulkan",
+   "first_comment": "Səncə, İoya nə vaxtsa insan gedə bilər? 👇",
+   "quizzes": [
+    {
+     "q": "İoda vulkan buludu nə qədər hündürlüyə qalxa bilir?",
+     "options": [
+      "50 km",
+      "500 km",
+      "5 000 km"
+     ],
+     "answer": "500 km",
+     "why": "Ən güclü püskürmələrdə 300–500 km."
+    },
+    {
+     "q": "İo hansı planetin peykidir?",
+     "options": [
+      "Saturn",
+      "Yupiter",
+      "Mars"
+     ],
+     "answer": "Yupiter",
+     "why": "Yupiterin cazibəsi onun içini qızdırır."
+    },
+    {
+     "q": "İonun vulkanlarını ilk dəfə neçənci ildə gördülər?",
+     "options": [
+      "1959",
+      "1979",
+      "1999"
+     ],
+     "answer": "1979",
+     "why": "«Voyacer 1» zondunun şəkillərində."
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Volcanism_on_Io",
+    "https://www.livescience.com/space/nasa-solves-mystery-of-why-jupiters-io-is-so-volcanically-active",
+    "https://www.worldatlas.com/space/the-volcanoes-of-io.html"
+   ],
+   "verify_note": "150+ observed / up to 400: Wikipedia + Live Science (NASA) + WorldAtlas -> we say 'cəmi 400-ə qədər ola bilər'. 300-500 km plumes: Wikipedia + WorldAtlas. Plume = gas/dust cloud, so we say 'vulkan buludu', not lava. ISS ~400 km: NASA common figure. NASA Io page and Wikipedia 'Io (moon)' unreadable this run. 16:00 rule: space wow -> OK. Different from Olympus Mons (3 Nov).",
+   "photo": {
+    "path": "fetch/img/2026-11-06_2_io.jpg",
+    "credit": "NASA / JPL / Arizona Universiteti",
+    "cy": 0.5,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Io_highest_resolution_true_color.jpg",
+    "note": "Galileo true-colour Io, square 1280 on black; PD; checked: no watermark. Second photo for motion build: fetch/img/2026-11-06_2_io_erupt.png (Galileo eruption plume on the limb, 1280x720, PD)."
+   }
+  },
+  {
+   "n": 3,
+   "type": "reel",
+   "cat": "Təbiət",
+   "voiced": false,
+   "subject": "Saharan dust and the Amazon (NASA CALIPSO lidar 2007-2013; Yu et al., Geophysical Research Letters, 24 Feb 2015): on average 182 million t of dust a year leave the Sahara past 15W; 27.7 million t fall on the Amazon basin; ~22 000 t of phosphorus a year, about the same as the Amazon loses to rain and flooding; much of it from the Bodélé Depression in Chad, an ancient dry lake bed rich in dead microorganisms; trip ~2 575 km across the Atlantic; 86% change between 2007 (most) and 2011 (least) (NASA SVS 11775, Sci.News, Gizmodo).",
+   "photo_request": "Saharan dust over the Atlantic (MODIS, NASA, Commons PD)",
+   "title": "27 milyon ton Səhra tozu Amazona düşür",
+   "text": "Hər il Böyük Səhradan qalxan tozun təxminən 27 milyon tonu okeanı keçib Amazon meşələrinə düşür və torpağı gübrələyir.",
+   "reel_hook": "27 MİLYON TON SƏHRA TOZU AMAZONA DÜŞÜR",
+   "reel_beats": [
+    "Hər il külək Böyük Səhradan təxminən 182 milyon ton toz qaldırır. Bu toz Atlantik okeanının üstündən 2 500 kilometrdən çox yol gedir.",
+    "NASA-nın peyki göstərdi ki, bu tozun təxminən 27 milyon tonu hər il Amazon meşələrinə düşür.",
+    "Tozun içində fosfor var və onun çoxu Çaddakı qədim, qurumuş bir göldən gəlir. Amazon yağışla itirdiyi fosforu təxminən bu tozla geri alır. Səhra meşəni bəsləyir, inanardın?"
+   ],
+   "caption": "Səhra hər il Amazon meşəsini «gübrələyir» 🏜️🌳\n\nHər il külək Böyük Səhradan təxminən 182 milyon ton toz qaldırır. Bu toz Atlantik okeanının üstündən 2 500 kilometrdən çox yol gedir. NASA-nın CALIPSO peyki 7 il ərzində göstərdi ki, tozun təxminən 27 milyon tonu hər il Amazon meşələrinə düşür. Tozun içində fosfor var, onun çoxu Çaddakı qədim, qurumuş bir göldən gəlir. Amazon yağışla itirdiyi fosforu təxminən bu tozla geri alır.\n\n📩 Evdə tozu silməyə nifrət edən dostuna göndər: toz da faydalı ola bilər 😄\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: NASA\n\n#bilirdinizmi #maraqlıfaktlar #səhra #amazon #təbiət",
+   "first_comment": "Səncə, Səhra olmasa, Amazon meşəsi necə olardı? 👇",
+   "quizzes": [
+    {
+     "q": "Hər il Səhra tozunun təxminən nə qədəri Amazona düşür?",
+     "options": [
+      "27 min ton",
+      "27 milyon ton",
+      "27 milyard ton"
+     ],
+     "answer": "27 milyon ton",
+     "why": "NASA-nın CALIPSO peyki, 2007–2013."
+    },
+    {
+     "q": "Tozdakı hansı maddə Amazon üçün gübrədir?",
+     "options": [
+      "Fosfor",
+      "Qızıl",
+      "Duz"
+     ],
+     "answer": "Fosfor",
+     "why": "Təxminən yağışla itən qədər fosfor gəlir."
+    },
+    {
+     "q": "Tozun çoxu hansı ölkədəki qədim göl yatağından qalxır?",
+     "options": [
+      "Misir",
+      "Çad",
+      "Mərakeş"
+     ],
+     "answer": "Çad",
+     "why": "Bodele çökəkliyi."
+    }
+   ],
+   "sources": [
+    "https://svs.gsfc.nasa.gov/11775",
+    "https://www.sci.news/othersciences/geophysics/science-phosphorus-rich-dust-sahara-desert-amazon-soils-02533.html",
+    "https://gizmodo.com/an-astounding-amount-of-saharan-dust-fuels-the-amazon-b-1687716208"
+   ],
+   "verify_note": "182 Mt, 27.7 Mt, 22 000 t P, 2 575 km, Bodélé: NASA SVS + Sci.News + Gizmodo (all citing Yu et al. 2015). Averages over 2007-2013 with big year-to-year swings (86%) -> 'təxminən', 'hər il orta hesabla' in caption. Hook rounds 27.7 down to 27.",
+   "photo": {
+    "path": "fetch/img/2026-11-06_3_sahara_modis.jpg",
+    "credit": "NASA",
+    "cy": 0.5,
+    "cx": 0.45,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Saharan_Dust_over_the_Atlantic_(MODIS).jpg",
+    "note": "MODIS satellite view, West African coast with a tan dust plume over the Atlantic, 1280x973; PD; checked: no watermark."
+   }
+  },
+  {
+   "n": 4,
+   "type": "reel",
+   "cat": "Azərbaycan",
+   "voiced": true,
+   "subject": "Mstislav Rostropovich, born 27 March 1927 in Baku (The Strad; Classic FM; search snippets Fox/Today). One of the greatest cellists; 'over 100 works written for him' incl. Prokofiev's Cello Sonata op. 119, both Shostakovich cello concertos, Britten's Cello Symphony and suites (The Strad). 11 Nov 1989, two days after the Berlin Wall fell, he played Bach's cello suites at the wall (Classic FM; The Strad '1989 impromptu performance at the fall of the Berlin Wall'). Not used: citizenship stripping/politics details.",
+   "photo_request": "Rostropovich playing (White House 1978, PD)",
+   "title": "100-dən çox əsər bu bakılı üçün yazılıb",
+   "text": "Bakıda doğulan violonçelçi Mstislav Rostropoviç üçün 100-dən çox əsər yazılıb. 1989-cu ildə o, Berlin divarının yanında çaldı.",
+   "reel_hook": "100-DƏN ÇOX ƏSƏR BU BAKILI ÜÇÜN YAZILIB",
+   "reel_beats": [
+    "Mstislav Rostropoviç 1927-ci ildə Bakıda doğulub. O, dünyanın ən məşhur violonçel ifaçılarından biri oldu.",
+    "Prokofyev, Şostakoviç və Britten kimi böyük bəstəkarlar onun üçün musiqi yazdılar. Ümumilikdə 100-dən çox əsər məhz onun üçün yazılıb.",
+    "1989-cu il noyabrın 11-də, Berlin divarı yıxılandan iki gün sonra, o, divarın yanında Baxın musiqisini çaldı. Sən hansı alətdə çalmaq istərdin?"
+   ],
+   "voice_texts": [
+    "Yüzdən çox əsər bu bakılı üçün yazılıb.",
+    "Mstislav Rostropoviç min doqquz yüz iyirmi yeddinci ildə Bakıda doğulub. O, dünyanın ən məşhur violonçel ifaçılarından biri oldu.",
+    "Prokofyev, Şostakoviç və Britten kimi böyük bəstəkarlar onun üçün musiqi yazdılar. Ümumilikdə yüzdən çox əsər məhz onun üçün yazılıb.",
+    "Min doqquz yüz səksən doqquzuncu il, noyabrın on birində, Berlin divarı yıxılandan iki gün sonra, o, divarın yanında Baxın musiqisini çaldı. Sən hansı alətdə çalmaq istərdin?"
+   ],
+   "caption": "Bu bakılı üçün 100-dən çox əsər yazılıb 🎻\n\nMstislav Rostropoviç 1927-ci ildə Bakıda doğulub və dünyanın ən məşhur violonçel ifaçılarından biri olub. Prokofyev, Şostakoviç və Britten kimi böyük bəstəkarlar onun üçün musiqi yazıblar: ümumilikdə 100-dən çox əsər məhz onun üçün yaranıb. 1989-cu il noyabrın 11-də, Berlin divarı yıxılandan iki gün sonra, o, divarın yanında Baxın violonçel süitalarını çaldı.\n\n📩 Musiqi alətində çalmağı öyrənmək istəyən dostuna göndər\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Ağ Ev fotoqrafı, 1978 (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #rostropoviç #bakı #musiqi",
+   "first_comment": "Sən hansı musiqi alətində çalmaq istərdin? 👇",
+   "quizzes": [
+    {
+     "q": "Rostropoviç hansı alətdə çalırdı?",
+     "options": [
+      "Skripka",
+      "Violonçel",
+      "Piano"
+     ],
+     "answer": "Violonçel",
+     "why": "Dünyanın ən məşhur violonçelçilərindən biri."
+    },
+    {
+     "q": "Rostropoviç üçün neçədən çox əsər yazılıb?",
+     "options": [
+      "10",
+      "50",
+      "100"
+     ],
+     "answer": "100",
+     "why": "The Strad: 100-dən çox əsər."
+    },
+    {
+     "q": "O, Berlin divarının yanında kimin musiqisini çaldı?",
+     "options": [
+      "Baxın",
+      "Motsartın",
+      "Bethovenin"
+     ],
+     "answer": "Baxın",
+     "why": "11 noyabr 1989, violonçel süitaları."
+    }
+   ],
+   "sources": [
+    "https://www.thestrad.com/playing-hub/born-on-this-day-cellist-mstislav-rostropovich/17780.article",
+    "https://www.classicfm.com/discover-music/latest/music-conflict/rostropovich-plays-for-a-united-berlin/"
+   ],
+   "verify_note": "Born Baku 27 Mar 1927: The Strad (+ Fox/Today obituary snippets). 100+ works: The Strad. 11 Nov 1989, two days after, Bach suites: Classic FM; The Strad confirms the 1989 wall performance. Wikipedia unreadable this run -> re-check birth + 11 Nov in the evening build if possible. No politics (dissident/citizenship) in the text. Not a repeat: Landau (4 Nov) was a scientist.",
+   "photo": {
+    "path": "fetch/img/2026-11-06_4_rostropovich.jpg",
+    "credit": "Ağ Ev fotoqrafı, 1978 (ictimai mülkiyyət)",
+    "cy": 0.45,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Mstislav_Rostropovich_1978.jpg",
+    "note": "Rostropovich playing the cello on a stage, colour, portrait; White House staff photo = US federal work, PD; checked: no watermark."
+   }
+  }
+ ],
+ "stories": null,
+ "metricool": {},
+ "tiktok": {},
+ "youtube": {},
+ "pending_schedule": []
+}

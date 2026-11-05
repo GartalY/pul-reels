@@ -433,5 +433,74 @@
  "trend_check_evening": "2026-11-04 ~20:50 Baku: searches found no single new dominant story beyond the US midterm results (already today's 18:30 trend); Euronews/Democracy Now pages unreadable. No swap for tomorrow's plan; 18:30 = Baikal backup until the 15:23 trend swap. 8 Nov Victory Day = Azerbaijani politics/conflict -> off-limits.",
  "scheduled_check": "getScheduledPosts 5 Nov before scheduling: 0 posts. After: 18 posts (IG 10 incl. 5 stories, TikTok 2, YouTube 6), each network/time exactly once.",
  "language_check": "Evening re-read (section L): TBG story text short sentences; Nobel repost hook names Robert (not Alfred) to stay accurate; motion reel labels 'qum dənəsindən kiçik', 'dağ boyda', 'Yer → Ay' plain words.",
- "pending_schedule": []
+ "pending_schedule": [],
+ "trend": {
+  "n": "T",
+  "type": "reel",
+  "format": "v4",
+  "cat": "Kosmos",
+  "voiced": false,
+  "subject": "NASA's Neil Gehrels Swift Observatory re-entered on Wed 4 Nov 2026 at 7:39 a.m. ET (12:39 GMT = 16:39 Baku) over North Sumatra, Indonesia, ~3.4N 98.6E (Xinhua 5 Nov, citing NASA; Space.com via ua.news 4 Nov, McDowell/US Space Force data). NASA expected most of the ~3 200 lb spacecraft to burn up, some parts may survive; risk to people ~1 in 2 100 (NASA blog 2-3 Nov). Launched 20 Nov 2004 (Wikipedia; NASA 'launched in 2004'), designed for a 2-year prime mission, worked 'almost 22 years' (NASA, Xinhua). Orbit decayed because higher solar activity expanded the atmosphere (Wikipedia). Rescue: Katalyst LINK robotic tug ($30 M NASA contract, Space.com; launched 3 Jul 2026 on Pegasus XL) failed with attitude-control/propulsion problems (Xinhua, Space.com, Wikipedia). GRB 090423 at 13.035 billion light-years, then the most distant explosion seen (Wikipedia). Not used: '2 000+ GRBs' (only Space.com).",
+  "photo_request": "Swift spacecraft rendering on black (NASA SVS, Commons PD)",
+  "title": "2 illik plan, 22 il iş: NASA teleskopu düşdü",
+  "text": "NASA-nın Swift teleskopu 4 noyabrda Sumatra üzərində atmosferə girdi. Onu 2 il üçün buraxmışdılar, amma 22 il işlədi.",
+  "reel_hook": "2 İLLİK PLAN, 22 İL İŞ: NASA TELESKOPU DÜŞDÜ",
+  "reel_beats": [
+   "Dünən NASA-nın Swift teleskopu Yerə qayıtdı. O, İndoneziyanın Sumatra adası üzərində atmosferə girdi və çox hissəsi yandı.",
+   "Onu 2004-cü ildə cəmi 2 il işləmək üçün buraxmışdılar. Amma teleskop təxminən 22 il işlədi və 13 milyard işıq ili uzaqdakı partlayışı belə gördü.",
+   "Günəş aktivləşəndə havanın üst qatı genişləndi və teleskopu yavaş-yavaş aşağı çəkdi. Onu qaldırmaq üçün robot göndərdilər, amma robot xarab oldu. Səncə, köhnə peykləri xilas etməyə dəyərmi?"
+  ],
+  "caption": "2 il üçün buraxılan teleskop 22 il işlədi və dünən Yerə düşdü 🛰️\n\nNASA-nın Swift teleskopu 4 noyabrda İndoneziyanın Sumatra adası üzərində atmosferə girdi. NASA-nın sözünə görə, onun çox hissəsi atmosferdə yanmalı idi. Teleskopu 2004-cü ildə cəmi 2 illik iş üçün buraxmışdılar, amma o, təxminən 22 il kosmosdakı ən güclü partlayışları izlədi. Bir dəfə 13 milyard işıq ili uzaqdakı partlayışı gördü. Son illər Günəş aktivləşdi, havanın üst qatı genişləndi və teleskopu aşağı çəkdi. Onu qaldırmaq üçün robot göndərdilər, amma robotda nasazlıq çıxdı.\n\n📩 Telefonunu 2 ildən sonra dəyişən dostuna göndər 😄\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: NASA\n\n#bilirdinizmi #maraqlıfaktlar #kosmos #nasa #teleskop",
+  "first_comment": "Səncə, köhnə peykləri xilas etməyə dəyərmi? 👇",
+  "quizzes": [
+   {
+    "q": "Swift teleskopu neçə il işləmək üçün buraxılmışdı?",
+    "options": [
+     "2 il",
+     "10 il",
+     "22 il"
+    ],
+    "answer": "2 il",
+    "why": "Amma təxminən 22 il işlədi."
+   },
+   {
+    "q": "Swift hansı adanın üzərində atmosferə girdi?",
+    "options": [
+     "Sumatra",
+     "Madaqaskar",
+     "İslandiya"
+    ],
+    "answer": "Sumatra",
+    "why": "İndoneziya, 4 noyabr 2026."
+   },
+   {
+    "q": "Teleskopu nə aşağı çəkdi?",
+    "options": [
+     "Genişlənən hava qatı",
+     "Ayın cazibəsi",
+     "Kosmik zibil"
+    ],
+    "answer": "Genişlənən hava qatı",
+    "why": "Günəş aktivləşəndə atmosfer genişləndi."
+   }
+  ],
+  "sources": [
+   "https://science.nasa.gov/blogs/swift/2026/11/02/nasas-swift-observatory-to-re-enter-atmosphere/",
+   "https://english.news.cn/northamerica/20261105/7bd7a50f58b74680a2b2ebb284556d7f/c.html",
+   "https://ua.news/en/technologies/teleskop-swift-ziishov-z-orbiti-nad-sumatroiu-pislia-nevdaloyi-misiyi-poriatunku-space-com",
+   "https://en.wikipedia.org/wiki/Neil_Gehrels_Swift_Observatory"
+  ],
+  "verify_note": "Reentry time/place: Xinhua (citing NASA) + Space.com (US Space Force data) agree. 2-year design / ~22 years: NASA + Xinhua. Robot failure: Xinhua + Space.com + Wikipedia. Solar activity: Wikipedia (NASA blog silent). 13 billion ly: Wikipedia timeline (GRB 090423, 13.035 bn). 'Dünən' = posting day 5 Nov, reentry 4 Nov. Not a tragedy: no injuries reported. Sky&Telescope, SatNews, NBC unreadable.",
+  "photo": {
+   "path": "fetch/img/2026-11-05_T_swift_b.png",
+   "credit": "NASA",
+   "cy": 0.5,
+   "cx": 0.5,
+   "full": true,
+   "source": "https://commons.wikimedia.org/wiki/File:Swift_Spacecraft_Animations-_2025_(SVS14786_-_Swift_1).png",
+   "note": "NASA SVS rendering, 1280x720 on black, spacecraft centred -> cover crop keeps it in frame; checked: no watermark. Alt fetch/img/2026-11-05_T_swift_a.jpg (white background, not good)."
+  },
+  "cta": null
+ },
+ "trend_check_morning": "2026-11-05 ~09:15-10:00 Baku: top stories = US midterm aftermath (Democrats win House + Senate; already the 3 + 4 Nov trend reels -> not a third day), Iran war/Hormuz tanker fires (war -> tragedy rules, skip), UCL matchday 4 (Liverpool beat Real Madrid, Arsenal/Bayern perfect; no Qarabağ link found), GTA VI still 19 Nov. Picked NASA Swift telescope re-entry (4 Nov, Sumatra) = space 'wow' number angle (2-year plan, 22 years). No immediate swap needed (section T): nothing AZ-dominant; the 18:30 Baikal backup becomes the Swift reel at 15:23. Wikipedia current-events + footballwebpages unreadable."
 }

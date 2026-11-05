@@ -448,7 +448,7 @@
   "reel_beats": [
    "Dünən NASA-nın Swift teleskopu Yerə qayıtdı. O, İndoneziyanın Sumatra adası üzərində atmosferə girdi və çox hissəsi yandı.",
    "Onu 2004-cü ildə cəmi 2 il işləmək üçün buraxmışdılar. Amma teleskop təxminən 22 il işlədi və 13 milyard işıq ili uzaqdakı partlayışı belə gördü.",
-   "Günəş aktivləşəndə havanın üst qatı genişləndi və teleskopu yavaş-yavaş aşağı çəkdi. Onu qaldırmaq üçün robot göndərdilər, amma robot xarab oldu. Səncə, köhnə peykləri xilas etməyə dəyərmi?"
+   "Günəş aktivləşəndə havanın üst qatı genişləndi və teleskopu aşağı çəkdi. Onu qaldırmaq üçün robot göndərdilər, amma robot xarab oldu."
   ],
   "caption": "2 il üçün buraxılan teleskop 22 il işlədi və dünən Yerə düşdü 🛰️\n\nNASA-nın Swift teleskopu 4 noyabrda İndoneziyanın Sumatra adası üzərində atmosferə girdi. NASA-nın sözünə görə, onun çox hissəsi atmosferdə yanmalı idi. Teleskopu 2004-cü ildə cəmi 2 illik iş üçün buraxmışdılar, amma o, təxminən 22 il kosmosdakı ən güclü partlayışları izlədi. Bir dəfə 13 milyard işıq ili uzaqdakı partlayışı gördü. Son illər Günəş aktivləşdi, havanın üst qatı genişləndi və teleskopu aşağı çəkdi. Onu qaldırmaq üçün robot göndərdilər, amma robotda nasazlıq çıxdı.\n\n📩 Telefonunu 2 ildən sonra dəyişən dostuna göndər 😄\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: NASA\n\n#bilirdinizmi #maraqlıfaktlar #kosmos #nasa #teleskop",
   "first_comment": "Səncə, köhnə peykləri xilas etməyə dəyərmi? 👇",
@@ -498,7 +498,9 @@
    "cx": 0.5,
    "full": true,
    "source": "https://commons.wikimedia.org/wiki/File:Swift_Spacecraft_Animations-_2025_(SVS14786_-_Swift_1).png",
-   "note": "NASA SVS rendering, 1280x720 on black, spacecraft centred -> cover crop keeps it in frame; checked: no watermark. Alt fetch/img/2026-11-05_T_swift_a.jpg (white background, not good)."
+   "note": "NASA SVS rendering, 1280x720 on black, spacecraft centred -> cover crop keeps it in frame; checked: no watermark. Alt fetch/img/2026-11-05_T_swift_a.jpg (white background, not good).",
+   "render_path": "fetch/img/2026-11-05_T_swift_portrait.png",
+   "render_note": "15:23: spacecraft cropped from swift_b and placed on a black 1080x1920 canvas (y 530-1016) so the hook and beat box do not cover it"
   },
   "cta": null
  },

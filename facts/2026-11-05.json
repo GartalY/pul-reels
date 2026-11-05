@@ -399,20 +399,20 @@
   "14:00 quiz q2 (Yanar Dag)": 416770627,
   "14:10 answer a2": 416770656,
   "16:00 reel (Saturn rings, MOTION, silent)": 416768999,
-  "18:30 reel (Baikal backup, silent)": 416769037,
-  "21:30 reel (Leyli and Majnun, voiced)": 416769063
+  "21:30 reel (Leyli and Majnun, voiced)": 416769063,
+  "18:30 TREND reel (NASA Swift, silent)": 417610459
  },
  "tiktok": {
   "13:00 Yanar Dag": 416770020,
-  "18:30 Baikal backup": 416770051
+  "18:30 TREND NASA Swift": 417610565
  },
  "youtube": {
   "11:00 REPOST Nobel": 416770258,
   "13:00 Yanar Dag": 416770097,
   "16:00 Saturn": 416770148,
-  "18:30 Baikal backup": 416770188,
   "19:45 REPOST France": 416770283,
-  "21:30 Leyli and Majnun": 416770217
+  "21:30 Leyli and Majnun": 416770217,
+  "18:30 TREND NASA Swift": 417610587
  },
  "built": {
   "when": "2026-11-04 ~21:00 Asia/Baku",
@@ -502,7 +502,18 @@
    "render_path": "fetch/img/2026-11-05_T_swift_portrait.png",
    "render_note": "15:23: spacecraft cropped from swift_b and placed on a black 1080x1920 canvas (y 530-1016) so the hook and beat box do not cover it"
   },
-  "cta": null
+  "cta": null,
+  "video": "out/2026-11-05/T_reel.mp4",
+  "duration_s": 23.4,
+  "language_fix": "15:23: beat 3 shortened (question removed from the frame; it stays in the first comment / TikTok + YouTube caption) because 7 lines ran below y 1450 and under the follow pill"
  },
- "trend_check_morning": "2026-11-05 ~09:15-10:00 Baku: top stories = US midterm aftermath (Democrats win House + Senate; already the 3 + 4 Nov trend reels -> not a third day), Iran war/Hormuz tanker fires (war -> tragedy rules, skip), UCL matchday 4 (Liverpool beat Real Madrid, Arsenal/Bayern perfect; no Qarabağ link found), GTA VI still 19 Nov. Picked NASA Swift telescope re-entry (4 Nov, Sumatra) = space 'wow' number angle (2-year plan, 22 years). No immediate swap needed (section T): nothing AZ-dominant; the 18:30 Baikal backup becomes the Swift reel at 15:23. Wikipedia current-events + footballwebpages unreadable."
+ "trend_check_morning": "2026-11-05 ~09:15-10:00 Baku: top stories = US midterm aftermath (Democrats win House + Senate; already the 3 + 4 Nov trend reels -> not a third day), Iran war/Hormuz tanker fires (war -> tragedy rules, skip), UCL matchday 4 (Liverpool beat Real Madrid, Arsenal/Bayern perfect; no Qarabağ link found), GTA VI still 19 Nov. Picked NASA Swift telescope re-entry (4 Nov, Sumatra) = space 'wow' number angle (2-year plan, 22 years). No immediate swap needed (section T): nothing AZ-dominant; the 18:30 Baikal backup becomes the Swift reel at 15:23. Wikipedia current-events + footballwebpages unreadable.",
+ "trend_swap": {
+  "when": "2026-11-05 15:24-15:30 Baku",
+  "what": "18:30 Baikal backup -> NASA Swift re-entry trend reel on IG + TikTok + YouTube (existing posts 416769037/416770051/416770188 updated -> new ids 417610459/417610565/417610587, none added; getScheduledPosts after the update shows exactly one post per network at 18:30, all with the new Swift video)",
+  "why": "Morning trend pick (space 'wow' number: 2-year plan, 22 years); not a tragedy (no injuries reported)",
+  "backup": "Baikal (2026-11-05-3) marked unposted in db.json; reel out/2026-11-05/3_reel.mp4 reusable",
+  "stories": "format v4: no 19:30/19:40 quiz stories today, nothing to re-render",
+  "frames_checked": "hook frame, beats 1-3, last frame with follow pill: text in safe zone, spacecraft visible above the beat box, no watermark"
+ }
 }

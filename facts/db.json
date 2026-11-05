@@ -3544,7 +3544,9 @@
      "why": "Britannica: təxminən 1/5."
     }
    ],
-   "asked": []
+   "asked": [],
+   "unposted": true,
+   "unposted_note": "5 Nov 18:30 backup replaced by NASA Swift trend reel; built reel out/2026-11-05/3_reel.mp4 can be reused on a later day"
   },
   {
    "id": "2026-11-05-4",
@@ -3581,6 +3583,45 @@
      ],
      "answer": "Tağıyev teatrında",
      "why": "Bakı, yanvar 1908."
+    }
+   ],
+   "asked": []
+  },
+  {
+   "id": "2026-11-05-T",
+   "date": "2026-11-05",
+   "subject": "NASA's Neil Gehrels Swift Observatory re-entered on Wed 4 Nov 2026 at 7:39 a.m. ET (12:39 GMT = 16:39 Baku) over North Sumatra, Indonesia, ~3.4N 98.6E (Xinhua 5 Nov, citing NASA; Space.com via ua.news 4 Nov, McDowell/US Space Force data). NASA expected most of the ~3 200 lb spacecraft to burn up, some parts may survive; risk to people ~1 in 2 100 (NASA blog 2-3 Nov). Launched 20 Nov 2004 (Wikipedia; NASA 'launched in 2004'), designed for a 2-year prime mission, worked 'almost 22 years' (NASA, Xinhua). Orbit decayed because higher solar activity expanded the atmosphere (Wikipedia). Rescue: Katalyst LINK robotic tug ($30 M NASA contract, Space.com; launched 3 Jul 2026 on Pegasus XL) failed with attitude-control/propulsion problems (Xinhua, Space.com, Wikipedia). GRB 090423 at 13.035 billion light-years, then the most distant explosion seen (Wikipedia). Not used: '2 000+ GRBs' (only Space.com).",
+   "cat": "Kosmos",
+   "quizzes": [
+    {
+     "q": "Swift teleskopu neçə il işləmək üçün buraxılmışdı?",
+     "options": [
+      "2 il",
+      "10 il",
+      "22 il"
+     ],
+     "answer": "2 il",
+     "why": "Amma təxminən 22 il işlədi."
+    },
+    {
+     "q": "Swift hansı adanın üzərində atmosferə girdi?",
+     "options": [
+      "Sumatra",
+      "Madaqaskar",
+      "İslandiya"
+     ],
+     "answer": "Sumatra",
+     "why": "İndoneziya, 4 noyabr 2026."
+    },
+    {
+     "q": "Teleskopu nə aşağı çəkdi?",
+     "options": [
+      "Genişlənən hava qatı",
+      "Ayın cazibəsi",
+      "Kosmik zibil"
+     ],
+     "answer": "Genişlənən hava qatı",
+     "why": "Günəş aktivləşəndə atmosfer genişləndi."
     }
    ],
    "asked": []

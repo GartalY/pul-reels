@@ -259,6 +259,37 @@
    "time_london": "2026-11-08T23:00",
    "network": "tiktok",
    "metricool_id": 417123767
+  },
+  {
+   "episode": "short_2026-11-05_swift-falls",
+   "kind": "minute",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-05_swift-falls.mp4",
+   "time_london": "2026-11-05T20:00",
+   "network": "youtube",
+   "metricool_id": 417536934,
+   "style": "neon",
+   "topic": "NASA Swift re-entry: why it fell (solar max, drag)",
+   "title": "NASA Built It to Last 2 Years. It Lasted 22. #shorts"
+  },
+  {
+   "episode": "short_2026-11-05_swift-falls",
+   "kind": "minute",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-05_swift-falls.mp4",
+   "time_london": "2026-11-05T20:00",
+   "network": "instagram",
+   "metricool_id": 417536959,
+   "style": "neon",
+   "topic": "NASA Swift re-entry: why it fell (solar max, drag)"
+  },
+  {
+   "episode": "short_2026-11-05_swift-falls",
+   "kind": "minute",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-05_swift-falls.mp4",
+   "time_london": "2026-11-05T20:00",
+   "network": "tiktok",
+   "metricool_id": 417536985,
+   "style": "neon",
+   "topic": "NASA Swift re-entry: why it fell (solar max, drag)"
   }
  ]
 }

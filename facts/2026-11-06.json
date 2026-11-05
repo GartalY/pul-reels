@@ -80,7 +80,17 @@
    "cy": 0.35,
    "full": false,
    "source": "https://commons.wikimedia.org/wiki/File:1869_first_football_game_rosters.jpg",
-   "note": "B/W sheet 'First intercollegiate football game, Nov 6 1869, won by Rutgers over Princeton, six goals to four' with 2 rows of player portraits; PD; checked: no watermark. Slides alt: fetch/img/2026-11-06_H_plaque.jpg (CC BY-SA 4.0, needs credit), fetch/img/2026-11-06_H_targum.jpg (PD newspaper page)."
+   "note": "B/W sheet 'First intercollegiate football game, Nov 6 1869, won by Rutgers over Princeton, six goals to four' with 2 rows of player portraits; PD; checked: no watermark. Slides alt: fetch/img/2026-11-06_H_plaque.jpg (CC BY-SA 4.0, needs credit), fetch/img/2026-11-06_H_targum.jpg (PD newspaper page).",
+   "cover_path": "fetch/img/2026-11-06_H_rosters_dark.jpg"
+  },
+  "story": {
+   "day": 6,
+   "month": 11,
+   "year": 1869,
+   "title": "İlk matçda hər komandada 25 oyunçu vardı",
+   "text": "157 il əvvəl bu gün ABŞ-da iki universitet ilk dəfə bir-biri ilə futbol oynadı. Topu əldə götürüb qaçmaq olmazdı. Ratgers 6:4 qalib gəldi.",
+   "credit": "Wikimedia Commons",
+   "cy": 0.35
   }
  },
  "facts": [
@@ -96,15 +106,15 @@
    "text": "Bakı metrosu 59 il əvvəl bu gün açıldı. Amma tikintiyə 1951-ci ildə başlamışdılar və 1953-cü ildə iş birdən dayandı.",
    "reel_hook": "16 İLƏ TİKİLƏN METRO: BAKI (1/2)",
    "reel_beats": [
-    "Bakı metrosu 59 il əvvəl bu gün, 1967-ci il noyabrın 6-da açıldı. İlk gün 5 stansiya işə düşdü: indiki İçərişəhər, Sahil, 28 May, Gənclik və Nərimanov.",
+    "Bakı metrosu 59 il əvvəl bu gün, 1967-ci il noyabrın 6-da açıldı. İlk gün 5 stansiya işə düşdü.",
     "Amma tikintiyə hələ 1951-ci ildə başlamışdılar. Fəhlələr yerin altında gecə-gündüz, üç növbə ilə işləyirdilər.",
-    "1953-cü ildə isə tikinti birdən dayandırıldı. Rəsmi səbəb belə idi: pul yoxdur. Bəs metro necə xilas oldu? 2-ci hissə sabah 13:00-da."
+    "1953-cü ildə isə tikinti birdən dayandı. Rəsmi səbəb: pul yoxdur. Bəs metro necə xilas oldu? 2-ci hissə sabah 13:00-da."
    ],
    "voice_texts": [
     "On altı ilə tikilən metro: Bakı, birinci hissə.",
-    "Bakı metrosu əlli doqquz il əvvəl bu gün, min doqquz yüz altmış yeddinci il, noyabrın altısında açıldı. İlk gün beş stansiya işə düşdü: indiki İçərişəhər, Sahil, iyirmi səkkiz May, Gənclik və Nərimanov.",
+    "Bakı metrosu əlli doqquz il əvvəl bu gün, min doqquz yüz altmış yeddinci il, noyabrın altısında açıldı. İlk gün beş stansiya işə düşdü.",
     "Amma tikintiyə hələ min doqquz yüz əlli birinci ildə başlamışdılar. Fəhlələr yerin altında gecə-gündüz, üç növbə ilə işləyirdilər.",
-    "Min doqquz yüz əlli üçüncü ildə isə tikinti birdən dayandırıldı. Rəsmi səbəb belə idi: pul yoxdur. Bəs metro necə xilas oldu? İkinci hissə sabah, saat on üçdə."
+    "Min doqquz yüz əlli üçüncü ildə isə tikinti birdən dayandı. Rəsmi səbəb: pul yoxdur. Bəs metro necə xilas oldu? İkinci hissə sabah, saat on üçdə."
    ],
    "cta": "2-ci hissə sabah 13:00-da — izlə!",
    "caption": "Bakı metrosunu tikmək 16 il çəkdi (1/2) 🚇\n\nBakı metrosu 59 il əvvəl bu gün, 1967-ci il noyabrın 6-da açıldı. İlk gün 5 stansiya işə düşdü: indiki İçərişəhər, Sahil, 28 May, Gənclik və Nərimanov. Bu, Sovet İttifaqında beşinci metro idi. Amma tikintiyə hələ 1951-ci ildə başlamışdılar: fəhlələr yerin altında üç növbə ilə işləyirdi. 1953-cü ildə isə tikinti birdən dayandırıldı. Rəsmi səbəb: pul yoxdur.\n\nBəs metro necə xilas oldu və kim onu yenidən başlatdı? 2-ci hissə sabah 13:00-da — izlə ki, qaçırmayasan.\n\n📩 Hər gün metroda «yenə qatar gecikir» deyən dostuna göndər 😄\n\n👉 Hər gün 13:00-da Azərbaycan haqqında bilmədiyin bir fakt — izlə ki, qaçırmayasan\n\nFoto: لاله171 / Wikimedia Commons (CC BY-SA 4.0)\n\n#bilirdinizmi #maraqlıfaktlar #bakımetrosu #bakı #azərbaycan",
@@ -221,6 +231,12 @@
     "full": true,
     "source": "https://commons.wikimedia.org/wiki/File:Io_highest_resolution_true_color.jpg",
     "note": "Galileo true-colour Io, square 1280 on black; PD; checked: no watermark. Second photo for motion build: fetch/img/2026-11-06_2_io_erupt.png (Galileo eruption plume on the limb, 1280x720, PD)."
+   },
+   "motion_build": {
+    "tool": "animation-studio (canvas + synthesized music), project source prototypes/anim_studio_io",
+    "seconds": 24.3,
+    "scenes": "hook on Galileo Io photo -> 150 glowing volcano dots pop with a counter, ghost dots '≈ 400-ə qədər?' -> Io limb at 1 px = 1 km, umbrella plume rises to 500 km past a dashed ISS line at 400 km -> Jupiter pulls/squeezes Io (glowing core), Io > Moon size badge",
+    "status": "OK, shipped (no static fallback needed)"
    }
   },
   {
@@ -358,9 +374,60 @@
    }
   }
  ],
- "stories": null,
+ "stories": [
+  {
+   "time": "11:00",
+   "fact_id": "2026-11-04-2",
+   "recall": true,
+   "cat": "Kosmos",
+   "q": "Merkuri Günəşin ətrafını neçə günə fırlanır?",
+   "options": [
+    "28",
+    "88",
+    "365"
+   ],
+   "answer": "88",
+   "why": "Bu, Merkurinin bir ilidir.",
+   "image": "out/2026-11-06/q1.jpg",
+   "answer_image": "out/2026-11-06/q1_a.jpg"
+  },
+  {
+   "time": "14:00",
+   "fact_id": "2026-11-06-1",
+   "recall": false,
+   "cat": "Azərbaycan",
+   "q": "Bakı metrosunun tikintisinə neçənci ildə başlandı?",
+   "options": [
+    "1941",
+    "1951",
+    "1961"
+   ],
+   "answer": "1951",
+   "why": "Açılış isə 1967-ci ildə oldu.",
+   "image": "out/2026-11-06/q2.jpg",
+   "answer_image": "out/2026-11-06/q2_a.jpg"
+  }
+ ],
  "metricool": {},
  "tiktok": {},
  "youtube": {},
- "pending_schedule": []
+ "pending_schedule": [],
+ "built": {
+  "when": "2026-11-05 ~21:00 Asia/Baku",
+  "checked": "6 carousel slides, tbg story, 2 quiz + 2 answer stories, 5 frames per reel (4 reels + 2 YouTube repost renders) viewed; text in safe zone, no overflow, no watermark",
+  "reel_seconds": {
+   "1": 34.2,
+   "2": 24.3,
+   "3": 24.3,
+   "4": 32.6
+  },
+  "voice": "Banu +15% on reels 1 and 4 (AI labels on IG/TikTok/YouTube); reels 2 and 3 silent",
+  "notes": [
+   "TBG cover + story use a darkened copy of the rosters sheet (fetch/img/2026-11-06_H_rosters_dark.jpg) so the gold hook reads",
+   "Reel 1 beats 1 and 3 shortened before rendering (38.4 s -> 34.2 s): station names stay in the caption only"
+  ]
+ },
+ "language_check": "Evening re-read (section L): reel 1 beat 1 cut to 'İlk gün 5 stansiya işə düşdü.'; beat 3 'tikinti birdən dayandı. Rəsmi səbəb: pul yoxdur.'; motion labels 'fəal vulkan', 'dartır · sıxır · qızdırır', 'Kosmik Stansiya ≈ 400 km' plain words.",
+ "trend_check_evening": "2026-11-05 ~20:50 Baku: top story today = France nationwide strikes/protests (CNN live, 5 Nov); NASA Swift already today's trend. Nothing forces a swap in tomorrow's evergreen plan; 18:30 = Sahara dust backup until the 15:23 trend swap (France strikes = candidate if it continues, neutral per section D). Rostropovich birth/Berlin Wall re-checked: Classic FM, Daily Maverick, INA.",
+ "reposts": "6 Nov YouTube only: 11:00 Neft Daşları 200 km road (20 Oct n1, IG 117; hook upper-case, Baku CTA) and 19:45 bubble wrap / wallpaper (21 Oct n2, IG 116; hook '1957: ƏVVƏLCƏ DİVAR KAĞIZI İDİ'). Repost stock is now EMPTY (left: computer bug = tech-origin flop type, webcam 49 = flop). Sunday review must decide what fills 11:00/19:45 from 7 Nov."
 }

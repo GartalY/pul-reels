@@ -3342,7 +3342,12 @@
      "why": "Gecə isə mənfi 170 dərəcə."
     }
    ],
-   "asked": []
+   "asked": [
+    {
+     "date": "2026-11-06",
+     "qi": 0
+    }
+   ]
   },
   {
    "id": "2026-11-04-3",
@@ -3622,6 +3627,167 @@
      ],
      "answer": "Genişlənən hava qatı",
      "why": "Günəş aktivləşəndə atmosfer genişləndi."
+    }
+   ],
+   "asked": []
+  },
+  {
+   "id": "2026-11-06-1",
+   "date": "2026-11-06",
+   "subject": "Baku Metro opened 6 Nov 1967 (Wikipedia, metro.gov.az, urbanrail.net, mirprometro.info, eres.preslib.az) with 5 stations: Bakı Soveti (now İçərişəhər), 26 Bakı Komissarı (now Sahil), 28 Aprel (now 28 May), Gənclik, Nəriman Nərimanov (metro.gov.az, Wikipedia list, urbanrail). Construction of the first line began in 1951 (Wikipedia, urbanrail, mirprometro, preslib); builders worked in three shifts (metro.gov.az). Suspended in 1953, official reason lack of funds (urbanrail, mirprometro; preslib: Khrushchev froze it). Restarted 1960 (urbanrail, mirprometro, preslib) -> PART 2. 1951->1967 = 16 years (own arithmetic). 5th metro in the USSR (mirprometro + Wikipedia; metro.gov.az 'fifth in the post-Soviet'). Not used: first-section length (6.5 km Wikipedia/urbanrail vs 9.2 km metro.gov.az vs 2 km preslib).",
+   "cat": "Azərbaycan",
+   "quizzes": [
+    {
+     "q": "Bakı metrosunun tikintisinə neçənci ildə başlandı?",
+     "options": [
+      "1941",
+      "1951",
+      "1961"
+     ],
+     "answer": "1951",
+     "why": "Açılış isə 1967-ci ildə oldu."
+    },
+    {
+     "q": "Bakı metrosu açılanda neçə stansiyası vardı?",
+     "options": [
+      "3",
+      "5",
+      "9"
+     ],
+     "answer": "5",
+     "why": "İndiki İçərişəhər, Sahil, 28 May, Gənclik, Nərimanov."
+    },
+    {
+     "q": "Tikinti 1953-cü ildə hansı rəsmi səbəblə dayandı?",
+     "options": [
+      "Pul yox idi",
+      "Zəlzələ oldu",
+      "Su basdı"
+     ],
+     "answer": "Pul yox idi",
+     "why": "urbanrail.net və mirprometro.info."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-11-06",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-11-06-2",
+   "date": "2026-11-06",
+   "subject": "Jupiter's moon Io: more than 150 active volcanoes observed, up to ~400 predicted (Wikipedia 'Volcanism on Io'; Live Science 2024 'estimated 400 volcanoes, according to NASA'; WorldAtlas 'over 400'). Pele-type plumes reach 300-500 km (Wikipedia; WorldAtlas 'plumes ... 500 kilometres'). ISS orbits ~400 km up (NASA, general knowledge; we say 'təxminən 400'). Cause: tidal heating by Jupiter's gravity, kept going by the resonance with Europa and Ganymede (Wikipedia; Live Science 'tidal flexing'; WorldAtlas). Io diameter ~3 600 km, slightly larger than our Moon (Live Science, WorldAtlas). Volcanism discovered 1979 by Linda Morabito in Voyager 1 images (Wikipedia, Live Science).",
+   "cat": "Kosmos",
+   "quizzes": [
+    {
+     "q": "İoda vulkan buludu nə qədər hündürlüyə qalxa bilir?",
+     "options": [
+      "50 km",
+      "500 km",
+      "5 000 km"
+     ],
+     "answer": "500 km",
+     "why": "Ən güclü püskürmələrdə 300–500 km."
+    },
+    {
+     "q": "İo hansı planetin peykidir?",
+     "options": [
+      "Saturn",
+      "Yupiter",
+      "Mars"
+     ],
+     "answer": "Yupiter",
+     "why": "Yupiterin cazibəsi onun içini qızdırır."
+    },
+    {
+     "q": "İonun vulkanlarını ilk dəfə neçənci ildə gördülər?",
+     "options": [
+      "1959",
+      "1979",
+      "1999"
+     ],
+     "answer": "1979",
+     "why": "«Voyacer 1» zondunun şəkillərində."
+    }
+   ],
+   "asked": []
+  },
+  {
+   "id": "2026-11-06-3",
+   "date": "2026-11-06",
+   "subject": "Saharan dust and the Amazon (NASA CALIPSO lidar 2007-2013; Yu et al., Geophysical Research Letters, 24 Feb 2015): on average 182 million t of dust a year leave the Sahara past 15W; 27.7 million t fall on the Amazon basin; ~22 000 t of phosphorus a year, about the same as the Amazon loses to rain and flooding; much of it from the Bodélé Depression in Chad, an ancient dry lake bed rich in dead microorganisms; trip ~2 575 km across the Atlantic; 86% change between 2007 (most) and 2011 (least) (NASA SVS 11775, Sci.News, Gizmodo).",
+   "cat": "Təbiət",
+   "quizzes": [
+    {
+     "q": "Hər il Səhra tozunun təxminən nə qədəri Amazona düşür?",
+     "options": [
+      "27 min ton",
+      "27 milyon ton",
+      "27 milyard ton"
+     ],
+     "answer": "27 milyon ton",
+     "why": "NASA-nın CALIPSO peyki, 2007–2013."
+    },
+    {
+     "q": "Tozdakı hansı maddə Amazon üçün gübrədir?",
+     "options": [
+      "Fosfor",
+      "Qızıl",
+      "Duz"
+     ],
+     "answer": "Fosfor",
+     "why": "Təxminən yağışla itən qədər fosfor gəlir."
+    },
+    {
+     "q": "Tozun çoxu hansı ölkədəki qədim göl yatağından qalxır?",
+     "options": [
+      "Misir",
+      "Çad",
+      "Mərakeş"
+     ],
+     "answer": "Çad",
+     "why": "Bodele çökəkliyi."
+    }
+   ],
+   "asked": []
+  },
+  {
+   "id": "2026-11-06-4",
+   "date": "2026-11-06",
+   "subject": "Mstislav Rostropovich, born 27 March 1927 in Baku (The Strad; Classic FM; search snippets Fox/Today). One of the greatest cellists; 'over 100 works written for him' incl. Prokofiev's Cello Sonata op. 119, both Shostakovich cello concertos, Britten's Cello Symphony and suites (The Strad). 11 Nov 1989, two days after the Berlin Wall fell, he played Bach's cello suites at the wall (Classic FM; The Strad '1989 impromptu performance at the fall of the Berlin Wall'). Not used: citizenship stripping/politics details.",
+   "cat": "Azərbaycan",
+   "quizzes": [
+    {
+     "q": "Rostropoviç hansı alətdə çalırdı?",
+     "options": [
+      "Skripka",
+      "Violonçel",
+      "Piano"
+     ],
+     "answer": "Violonçel",
+     "why": "Dünyanın ən məşhur violonçelçilərindən biri."
+    },
+    {
+     "q": "Rostropoviç üçün neçədən çox əsər yazılıb?",
+     "options": [
+      "10",
+      "50",
+      "100"
+     ],
+     "answer": "100",
+     "why": "The Strad: 100-dən çox əsər."
+    },
+    {
+     "q": "O, Berlin divarının yanında kimin musiqisini çaldı?",
+     "options": [
+      "Baxın",
+      "Motsartın",
+      "Bethovenin"
+     ],
+     "answer": "Baxın",
+     "why": "11 noyabr 1989, violonçel süitaları."
     }
    ],
    "asked": []

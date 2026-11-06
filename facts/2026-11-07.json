@@ -1,6 +1,6 @@
 {
  "date": "2026-11-07",
- "status": "planned",
+ "status": "scheduled",
  "format": "v2",
  "content_format": "v4",
  "planned_note": "RECOVERY RUN 2026-11-07 ~03:10 Baku (the weekly usage limit stopped all 6 Nov scheduled tasks, so no 7 Nov file existed). Sat 7 Nov = PART 2 of the Fri/Sat pair. 10:00 TBG carousel = CPR last spike 7 Nov 1885 (bent spike). 13:00 AZ reel (VOICED, 2/2) = Baku Metro restart 1960. 16:00 reel (SILENT, space wow, MOTION build) = Sun: 170 000 years + 8 minutes. 18:30 trend backup (SILENT) = Baikal, reused unaired 5 Nov backup (already verified + rendered). 21:30 reel (VOICED, Azerbaijan angle) = Sheki Khan's Palace shebeke, 14 000 pieces, no nails. YouTube reposts 11:00/19:45 = unaired backups Danyang-Kunshan bridge (4 Nov) and Burj Khalifa vanity height (3 Nov).",
@@ -407,5 +407,43 @@
    "image": "out/2026-11-07/q2.jpg",
    "answer_image": "out/2026-11-07/q2_a.jpg"
   }
- ]
+ ],
+ "metricool": {
+  "10:00 tarixdə bu gün carousel (last spike 1885)": 419523399,
+  "10:00 tarixdə bu gün story": 419524689,
+  "11:00 quiz q1 (recall Great Red Spot)": 419524710,
+  "11:10 answer a1": 419524729,
+  "13:00 reel (Baku Metro 2/2, voiced)": 419523608,
+  "14:00 quiz q2 (Baku Metro restart)": 419524745,
+  "14:10 answer a2": 419524762,
+  "16:00 reel (Sun, MOTION, silent)": 419523629,
+  "18:30 reel (Baikal backup, silent)": 419523953,
+  "21:30 reel (Sheki shebeke, voiced)": 419523967
+ },
+ "tiktok": {
+  "13:00 Baku Metro 2/2": 419523981,
+  "18:30 Baikal backup": 419523992
+ },
+ "youtube": {
+  "11:00 REPOST Danyang-Kunshan bridge": 419524435,
+  "13:00 Baku Metro 2/2": 419524449,
+  "16:00 Sun": 419524466,
+  "18:30 Baikal backup": 419524484,
+  "19:45 REPOST Burj Khalifa": 419524502,
+  "21:30 Sheki": 419524521
+ },
+ "pending_schedule": [],
+ "built": {
+  "when": "2026-11-07 03:10-03:35 Asia/Baku (recovery run)",
+  "checked": "6 carousel slides, tbg story, 2 quiz + 2 answer stories, 5 frames each of reels 1 and 4 (reel 4 re-rendered: '14 000' split across lines -> nbsp), 10 stills of the Sun motion reel; text in safe zone, no watermark",
+  "reel_seconds": {
+   "1": 34.4,
+   "2": 24.7,
+   "3": 21.6,
+   "4": 30.7
+  },
+  "voice": "Banu +15% on reels 1 and 4 (AI labels on IG/TikTok/YouTube); reels 2 and 3 silent"
+ },
+ "reposts": "7 Nov YouTube only: 11:00 Danyang-Kunshan 165 km bridge (out/2026-11-04/3_reel.mp4) and 19:45 Burj Khalifa 244 m vanity height (out/2026-11-03/3_reel.mp4). Both are UNAIRED 18:30 backups (swapped out by trends, never on any channel) because the IG repost stock was empty. Left unaired: Iceland mosquitoes (28 Oct), Pando, Kola (30 Oct, no mp4), Son Doong (31 Oct), Hyperion (1 Nov), Akashi (2 Nov). Sunday review should decide the repost source.",
+ "scheduled_check": "getScheduledPosts 7 Nov before scheduling: 0 posts. After: 18 posts (IG 10 incl. 5 stories, TikTok 2, YouTube 6), each network/time exactly once. No trend written (09:10/15:23 tasks handle the swap)."
 }

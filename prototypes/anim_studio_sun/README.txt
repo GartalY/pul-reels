@@ -1,0 +1,1 @@
+Sun light journey motion reel (16:00, 7 Nov 2026). Scaffold with animation-studio new-project.js --format 9:16, copy these 3 files + assets/sun.jpg (fetch/img/2026-11-07_2_sun_eso.jpg) + InterDisplay Black/Bold/SemiBold otf into assets/, then: node song.js && node engine/render.js video && node engine/render.js mux

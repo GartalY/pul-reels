@@ -229,6 +229,13 @@
     "full": true,
     "source": "https://commons.wikimedia.org/wiki/File:Full_disk_of_the_Sun_(eso1703e-comparisona).jpg",
     "note": "square 1280, SDO AIA full disk on black (credit NASA/SDO, ALMA (ESO/NAOJ/NRAO)); checked: no watermark."
+   },
+   "motion_build": {
+    "tool": "animation-studio (canvas + synthesized music), project source prototypes/anim_studio_sun",
+    "seconds": 24.7,
+    "scenes": "hook on SDO Sun photo -> photo shrinks, core glows, counter to 15 milyon °C -> Sun cross-section, a photon zig-zags from the core to the surface while a year counter climbs to 170 000 il -> Sun and Earth, straight beam with a clock to 8 dəq 19 san (150 milyon km)",
+    "verify": "sound markers all ±5 ms; hits ringLand/walk/house picture +0f; beat changes b1/b2/b3 are soft crossfades (picture -4..+8 f, same design as the Io reel)",
+    "status": "OK, shipped (no static fallback needed)"
    }
   },
   {

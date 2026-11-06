@@ -1,0 +1,404 @@
+{
+ "date": "2026-11-07",
+ "status": "planned",
+ "format": "v2",
+ "content_format": "v4",
+ "planned_note": "RECOVERY RUN 2026-11-07 ~03:10 Baku (the weekly usage limit stopped all 6 Nov scheduled tasks, so no 7 Nov file existed). Sat 7 Nov = PART 2 of the Fri/Sat pair. 10:00 TBG carousel = CPR last spike 7 Nov 1885 (bent spike). 13:00 AZ reel (VOICED, 2/2) = Baku Metro restart 1960. 16:00 reel (SILENT, space wow, MOTION build) = Sun: 170 000 years + 8 minutes. 18:30 trend backup (SILENT) = Baikal, reused unaired 5 Nov backup (already verified + rendered). 21:30 reel (VOICED, Azerbaijan angle) = Sheki Khan's Palace shebeke, 14 000 pieces, no nails. YouTube reposts 11:00/19:45 = unaired backups Danyang-Kunshan bridge (4 Nov) and Burj Khalifa vanity height (3 Nov).",
+ "two_part": {
+  "part": 2,
+  "story": "Baku Metro: why it took 16 years (1951 -> 1967)",
+  "part1_date": "2026-11-06"
+ },
+ "history": {
+  "n": "H",
+  "type": "card",
+  "cat": "Tarix",
+  "day": 7,
+  "month": 11,
+  "year": 1885,
+  "subject": "7 Nov 1885, 9:22 a.m., Craigellachie BC: Donald Smith drove the last spike of the Canadian Pacific Railway (Wikipedia, Canadian Encyclopedia, Ingenium). First spike bent, replaced, second attempt succeeded (TCE; Ingenium 'two swings'). Conventional iron spike, identical to the others (Wikipedia; Ingenium); a silver spike was prepared but the Governor General left with it (Wikipedia/TCE). Line ~4 800 km (Ingenium). Contract gave 10 years, built in about 5 (Wikipedia). Van Horne: 'All I can say is that the work has been done well in every way' (TCE). Smith kept the bent spike, strips cut from it were given to the wives of some of the party (Wikipedia; TCE: pins). 141 years = not round -> TBG only.",
+  "photo_request": "Alexander Ross photo of Donald Smith driving the last spike, 1885 (PD, Commons)",
+  "card_title": "7 NOYABR 1885",
+  "title": "Kanadanın son dəmir yolu mıxı əyildi",
+  "text": "1885-ci il noyabrın 7-də Kanadanın 4 800 km-lik dəmir yolu tamamlandı. Son mıxı vuranda o, əyildi.",
+  "cover": {
+   "hook": "Kanadanın ən məşhur mıxı ilk zərbədən əyildi",
+   "sub": "7 noyabr 1885 · 141 il əvvəl bu gün"
+  },
+  "slides": [
+   {
+    "h": "4 800 km",
+    "t": "1885-ci il noyabrın 7-də Kanadada şərqi Sakit okean sahili ilə birləşdirən dəmir yolu tamamlandı. Xəttin uzunluğu təxminən 4 800 kilometr idi."
+   },
+   {
+    "h": "Əyilən mıx",
+    "t": "Səhər saat 9:22-də şirkətin direktoru Donald Smit son mıxı vurdu. İlk zərbədə mıx əyildi. Onu dəyişdilər və ikinci dəfə alındı."
+   },
+   {
+    "h": "Qızıl yox, dəmir",
+    "t": "Son mıx qızıl deyildi. Bu, digər minlərlə mıx kimi adi dəmir mıx idi. Əyilmiş mıxı Smit özü saxladı."
+   },
+   {
+    "h": "10 yox, 5 il",
+    "t": "Tikinti üçün 10 il vaxt verilmişdi, amma xətt təxminən 5 ildə bitdi. Baş mühəndis dedi: «Deyə biləcəyim tək şey budur: iş hər cəhətdən yaxşı görülüb»."
+   }
+  ],
+  "caption": "141 il əvvəl bu gün Kanadanın ən məşhur mıxı ilk zərbədən əyildi 🚂\n\n1885-ci il noyabrın 7-də Kanadada şərqi Sakit okean sahili ilə birləşdirən, təxminən 4 800 km-lik dəmir yolu tamamlandı. Səhər saat 9:22-də şirkətin direktoru Donald Smit son mıxı vurdu, amma mıx ilk zərbədə əyildi. Onu dəyişdilər və ikinci dəfə alındı. Bu mıx qızıl deyildi: adi dəmir mıx idi. Tikinti üçün 10 il vaxt verilmişdi, xətt isə təxminən 5 ildə bitdi.\n\n📩 Hər işi «son anda» bitirən dostuna göndər 😄\n\nFoto: Alexander Ross, 1885 (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #tarixdəbugün #dəmiryolu #tarix",
+  "first_comment": "Sən qatarla ən uzun hansı yolu getmisən? 👇",
+  "quizzes": [
+   {
+    "q": "Kanadanın dəmir yolunun son mıxı nədən idi?",
+    "options": [
+     "Qızıldan",
+     "Gümüşdən",
+     "Dəmirdən"
+    ],
+    "answer": "Dəmirdən",
+    "why": "Adi dəmir mıx idi."
+   },
+   {
+    "q": "Tikinti üçün verilən 10 il əvəzinə xətt neçə ildə bitdi?",
+    "options": [
+     "Təxminən 5",
+     "Təxminən 8",
+     "Təxminən 15"
+    ],
+    "answer": "Təxminən 5",
+    "why": "1885-ci ildə tamamlandı."
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Last_spike_(Canadian_Pacific_Railway)",
+   "https://www.thecanadianencyclopedia.ca/en/article/the-last-spike",
+   "https://ingeniumcanada.org/channel/innovation/last-spike"
+  ],
+  "verify_note": "Date/time/place/Smith: all 3. Bent + replaced: TCE + Ingenium. Iron: Wikipedia + Ingenium. 4 800 km: Ingenium only (official national museum). 10 years -> ~5: Wikipedia. Van Horne quote: TCE wording. Not used: wives' strips (one source detail kept out of slides), Lansdowne silver spike story.",
+  "photo": {
+   "path": "fetch/img/2026-11-07_H_spike_ross.jpg",
+   "credit": "Alexander Ross, 1885 (ictimai mülkiyyət)",
+   "cy": 0.45,
+   "full": false,
+   "source": "https://commons.wikimedia.org/wiki/File:DrivingtheLastSpikeontheCPR.jpg",
+   "note": "Alexander Ross 1885 photo (Commons DrivingtheLastSpikeontheCPR.jpg, 1280x899): Smith with hammer, crowd, rail; PD; checked: no watermark/text."
+  },
+  "story": {
+   "day": 7,
+   "month": 11,
+   "year": 1885,
+   "title": "Kanadanın son dəmir yolu mıxı əyildi",
+   "text": "141 il əvvəl bu gün Kanadanın 4 800 km-lik dəmir yolu tamamlandı. Donald Smit son mıxı vurdu, amma mıx ilk zərbədən əyildi. Onu dəyişdilər, ikinci dəfə alındı.",
+   "credit": "Alexander Ross, 1885",
+   "cy": 0.45
+  }
+ },
+ "facts": [
+  {
+   "n": 1,
+   "type": "reel",
+   "cat": "Azərbaycan",
+   "voiced": true,
+   "two_part": "2/2",
+   "subject": "Baku Metro part 2. Construction stopped 1953, official reason lack of funds (urbanrail, mirprometro); National Library (eres.preslib.az): Khrushchev considered the metro 'a very expensive luxury' and froze it; in 1960, during his Baku visit for the 40th anniversary of Soviet power in Azerbaijan, the republic's leadership convinced him to restart (preslib); re-launched 1960 (urbanrail); first line re-routed for new urban developments (urbanrail, mirprometro). Opened 6 Nov 1967 with 5 stations, 5th in the USSR (Wikipedia, mirprometro). 1953->1960 = 7 years stopped, 1960->1967 = 7 years to finish (own arithmetic). Today 27 stations, 3 lines (Wikipedia citing metro.gov.az; urbanrail 27). Not used: first-section length conflict, 2026 section closure.",
+   "photo_request": "Baku metro train interior (Dərnəgül, Commons CC BY-SA 4.0)",
+   "title": "7 il dayanan metro necə xilas oldu (2/2)",
+   "text": "Bakı metrosunun tikintisi 1953-cü ildə dayandı. 1960-cı ildə respublikanın rəhbərləri Xruşşovu inandırdılar və tikinti yenidən başladı.",
+   "reel_hook": "7 İL DAYANAN METRO NECƏ XİLAS OLDU (2/2)",
+   "reel_beats": [
+    "Dünən danışdıq: Bakı metrosunun tikintisi 1953-cü ildə dayandı. Deyilənə görə, Xruşşov metronu çox bahalı bir «dəbdəbə» sayırdı.",
+    "1960-cı ildə Xruşşov Bakıya gəldi. Respublikanın rəhbərləri onu inandırdılar və tikinti yenidən başladı.",
+    "Metro 7 il dayandı, sonra 7 ildə bitdi: 1967-ci ildə açıldı. Bu gün onun 27 stansiyası var. Sən hansı stansiyaya ən çox gedirsən?"
+   ],
+   "voice_texts": [
+    "Yeddi il dayanan metro necə xilas oldu? İkinci hissə.",
+    "Dünən danışdıq: Bakı metrosunun tikintisi min doqquz yüz əlli üçüncü ildə dayandı. Deyilənə görə, Xruşşov metronu çox bahalı bir dəbdəbə sayırdı.",
+    "Min doqquz yüz altmışıncı ildə Xruşşov Bakıya gəldi. Respublikanın rəhbərləri onu inandırdılar və tikinti yenidən başladı.",
+    "Metro yeddi il dayandı, sonra yeddi ildə bitdi: min doqquz yüz altmış yeddinci ildə açıldı. Bu gün onun iyirmi yeddi stansiyası var. Sən hansı stansiyaya ən çox gedirsən?"
+   ],
+   "cta": "Hər gün 13:00-da yeni Bakı faktı — izlə!",
+   "caption": "Bakı metrosu 7 il dayandı. Bəs onu kim xilas etdi? (2/2) 🚇\n\nDünən danışdıq: Bakı metrosunun tikintisi 1953-cü ildə dayandı, rəsmi səbəb pul olmaması idi. Milli Kitabxananın yazdığına görə, Xruşşov metronu çox bahalı bir «dəbdəbə» sayırdı. 1960-cı ildə o, Bakıya gəldi və respublikanın rəhbərləri onu inandırdılar: tikinti yenidən başladı. Yeni binalara görə birinci xəttin yolu da dəyişdirildi. 1967-ci il noyabrın 6-da metro 5 stansiya ilə açıldı: Sovet İttifaqında beşinci metro. Bu gün onun 27 stansiyası var.\n\n1-ci hissə profildədir 👆\n\n📩 Hər səhər metroda tıxaca düşməyən dostuna göndər 😄\n\n👉 Hər gün 13:00-da Azərbaycan haqqında bilmədiyin bir fakt — izlə ki, qaçırmayasan\n\nFoto: Araz Yaquboglu / Wikimedia Commons (CC BY-SA 4.0)\n\n#bilirdinizmi #maraqlıfaktlar #bakımetrosu #bakı #azərbaycan",
+   "first_comment": "1-ci hissə profildədir 👆 Sən hansı stansiyaya ən çox gedirsən? 👇",
+   "quizzes": [
+    {
+     "q": "Bakı metrosunun tikintisi neçənci ildə yenidən başladı?",
+     "options": [
+      "1955",
+      "1960",
+      "1965"
+     ],
+     "answer": "1960",
+     "why": "Xruşşov Bakıya gələndə inandırdılar."
+    },
+    {
+     "q": "Bakı metrosu Sovet İttifaqında neçənci metro idi?",
+     "options": [
+      "İkinci",
+      "Beşinci",
+      "Onuncu"
+     ],
+     "answer": "Beşinci",
+     "why": "1967-ci ildə açıldı."
+    },
+    {
+     "q": "Bu gün Bakı metrosunun neçə stansiyası var?",
+     "options": [
+      "17",
+      "27",
+      "47"
+     ],
+     "answer": "27",
+     "why": "3 xətdə."
+    }
+   ],
+   "sources": [
+    "https://eres.preslib.az/site/historical/page/en/P8MhVow",
+    "https://urbanrail.net/as/baku/baku.htm",
+    "https://mirprometro.info/en/Baku/",
+    "https://en.wikipedia.org/wiki/Baku_Metro"
+   ],
+   "verify_note": "1960 restart: urbanrail + preslib. Khrushchev 'expensive luxury' + convinced in 1960: National Library only -> attributed ('Milli Kitabxananın yazdığına görə' in caption, 'deyilənə görə' on screen). Re-routing: urbanrail + mirprometro. 5th in USSR: Wikipedia + mirprometro. 27 stations: Wikipedia + urbanrail. Soviet-era history only, no present-day politics.",
+   "photo": {
+    "path": "fetch/img/2026-11-07_1_metro_train.jpg",
+    "credit": "Araz Yaquboglu / Wikimedia Commons (CC BY-SA 4.0)",
+    "cy": 0.45,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:D%C9%99rn%C9%99g%C3%BCl_metrostansiyas%C4%B1nda_qatar.jpg",
+    "note": "portrait 1280x2276, empty Baku metro carriage with open door to Dərnəgül platform; CC BY-SA 4.0; checked: no watermark (the station sign/clock is part of the scene)."
+   }
+  },
+  {
+   "n": 2,
+   "type": "reel",
+   "cat": "Kosmos",
+   "voiced": false,
+   "motion": true,
+   "subject": "Sun: core ~15 million °C (NASA MSFC solarscience). Energy made in the core random-walks out: mean step ~0.09 cm (Mitalas & Sills 1992 via ScienceBlog; ScienceAlert '<0.1 cm'); core to surface ~170 000 years (Mitalas & Sills 1992 via ScienceAlert + ScienceBlog; OpenStax range 100 000 - 1 million years; NASA MSFC ~1 million years to the interface layer) -> we say 'bir hesablamaya görə təxminən 170 000 il' and give the range in the caption. Surface to Earth ~499 s = 8 min 19 s (ScienceBlog; PBS 'almost 500 seconds'). Straight line would be ~2.3 s (ScienceAlert). Different from 27 Oct Sun fact (mass loss).",
+   "photo_request": "Full-disk Sun (SDO AIA, via ESO comparison image, CC BY 4.0)",
+   "title": "170 000 il + 8 dəqiqə: Günəş işığının yolu",
+   "text": "Günəşin mərkəzində yaranan enerji səthə çatmaq üçün bir hesablamaya görə 170 000 il yol gedir. Səthdən Yerə isə cəmi 8 dəqiqəyə gəlir.",
+   "reel_hook": "170 000 İL + 8 DƏQİQƏ: GÜNƏŞ İŞIĞININ YOLU",
+   "reel_beats": [
+    "Günəşin mərkəzində temperatur təxminən 15 milyon dərəcədir. İşığın enerjisi məhz orada yaranır.",
+    "Amma bu enerji çölə düz çıxa bilmir. Hər millimetrdən az yolda toqquşub istiqamətini dəyişir. Bir hesablamaya görə, səthə çatmaq təxminən 170 000 il çəkir.",
+    "Səthdən Yerə qədər isə işıq cəmi 8 dəqiqə 19 saniyəyə gəlir. Yəni bu gün üzünə düşən işığın yolu insanlar hələ mağaralarda yaşayanda başlayıb. İnanardın?"
+   ],
+   "caption": "Günəş işığının yolu 170 000 il + 8 dəqiqədir ☀️\n\nGünəşin mərkəzində temperatur təxminən 15 milyon dərəcədir və işığın enerjisi orada yaranır. Amma bu enerji çölə düz çıxa bilmir: hər millimetrdən az yolda toqquşub istiqamətini dəyişir. 1992-ci il hesablamasına görə, səthə çatmaq təxminən 170 000 il çəkir (başqa hesablamalar 100 min ildən 1 milyon ilə qədər deyir). Səthdən Yerə isə işıq cəmi 8 dəqiqə 19 saniyəyə gəlir.\n\n📩 Hər yerə gec çatan dostuna göndər: Günəşin işığı ondan da gec gəlir 😄\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: NASA / SDO (ESO vasitəsilə, CC BY 4.0)\n\n#bilirdinizmi #maraqlıfaktlar #kosmos #günəş #elm",
+   "first_comment": "Səncə, Günəş birdən sönsəydi, biz bunu neçə dəqiqə sonra bilərdik? 👇",
+   "quizzes": [
+    {
+     "q": "Günəşin işığı səthdən Yerə nə qədər vaxta gəlir?",
+     "options": [
+      "8 saniyə",
+      "8 dəqiqə",
+      "8 saat"
+     ],
+     "answer": "8 dəqiqə",
+     "why": "Təxminən 8 dəqiqə 19 saniyə."
+    },
+    {
+     "q": "Günəşin mərkəzində temperatur təxminən nə qədərdir?",
+     "options": [
+      "15 min °C",
+      "1,5 milyon °C",
+      "15 milyon °C"
+     ],
+     "answer": "15 milyon °C",
+     "why": "NASA-nın məlumatı."
+    },
+    {
+     "q": "Bir hesablamaya görə enerji Günəşin mərkəzindən səthə nə qədər vaxta çatır?",
+     "options": [
+      "170 il",
+      "17 000 il",
+      "170 000 il"
+     ],
+     "answer": "170 000 il",
+     "why": "Çünki hər millimetrdə istiqamətini dəyişir."
+    }
+   ],
+   "sources": [
+    "https://www.sciencealert.com/?p=209830",
+    "https://scienceblog.com/t-sun-energy-170000-years-radiative-zone/",
+    "https://solarscience.msfc.nasa.gov/interior.shtml",
+    "https://www.pbs.org/video/sunlight-is-way-older-than-you-think-heres-why-whzcwv"
+   ],
+   "verify_note": "15 million °C: NASA MSFC + ScienceBlog. 170 000 years: one 1992 paper via 2 outlets; other estimates differ widely -> 'bir hesablamaya görə' + range in caption. Step <1 mm: 2 outlets. 8 min 19 s: ScienceBlog + PBS (~500 s). 'Cave' line: Homo sapiens ~300 000 years old, 170 000 years ago people lived as hunter-gatherers, caves used -> soft wording 'mağaralarda yaşayanda'.",
+   "photo": {
+    "path": "fetch/img/2026-11-07_2_sun_eso.jpg",
+    "credit": "NASA / SDO (ESO vasitəsilə, CC BY 4.0)",
+    "cy": 0.5,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Full_disk_of_the_Sun_(eso1703e-comparisona).jpg",
+    "note": "square 1280, SDO AIA full disk on black (credit NASA/SDO, ALMA (ESO/NAOJ/NRAO)); checked: no watermark."
+   }
+  },
+  {
+   "n": 3,
+   "type": "reel",
+   "cat": "Coğrafiya",
+   "voiced": false,
+   "subject": "Lake Baikal, Siberia: more than 330 rivers and streams flow in (Britannica; Wikipedia 'as many as 330'); the only outflow is the Angara (both). Deepest lake: Britannica 1 620 m, Wikipedia 1 642 m -> '1 600 metrdən çox'. Age 20-25 million years (Britannica) / 25-30 (Wikipedia) -> '20 milyon ildən çox'. About one-fifth of the fresh water on Earth's surface (Britannica; Wikipedia 22-23% / 19% unfrozen). Baikal seal (nerpa) endemic (Wikipedia; Britannica 'the one mammal species').",
+   "photo_request": "Lake Baikal ice (Unsplash)",
+   "title": "330 çay girir, 1 çay çıxır: Baykal",
+   "text": "Rusiyadakı Baykal gölünə 330-dan çox çay və axar tökülür, amma göldən cəmi bir çay çıxır. Bu, dünyanın ən dərin gölüdür.",
+   "reel_hook": "330 ÇAY GİRİR, 1 ÇAY ÇIXIR: BAYKAL",
+   "reel_beats": [
+    "Rusiyadakı Baykal gölünə 330-dan çox çay və axar tökülür. Göldən isə cəmi bir çay çıxır: Anqara.",
+    "Baykal dünyanın ən dərin gölüdür, dərinliyi 1 600 metrdən çoxdur. Alimlərə görə, onun yaşı 20 milyon ildən çoxdur.",
+    "Yer üzündəki şirin suyun təxminən beşdə biri bu göldədir. Burada yalnız Baykalda yaşayan bir suiti də var. Bura getmək istərdin?"
+   ],
+   "caption": "Baykala 330-dan çox çay tökülür, cəmi 1 çay çıxır 🏔️\n\nRusiyadakı Baykal gölünə 330-dan çox çay və axar tökülür, göldən isə cəmi bir çay çıxır: Anqara. Baykal dünyanın ən dərin gölüdür: dərinliyi 1 600 metrdən çoxdur. Alimlərə görə, onun yaşı 20 milyon ildən çoxdur. Yer üzündəki şirin suyun təxminən beşdə biri bu göldədir. Burada yalnız Baykalda yaşayan bir suiti də var.\n\n📩 Qışda da «gəl, gölə gedək» deyən dostuna göndər\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Denis Shpak / Unsplash\n\n#bilirdinizmi #maraqlıfaktlar #baykal #göl #təbiət",
+   "first_comment": "Sən ən dərin hansı gölü və ya dənizi görmüsən? 👇",
+   "quizzes": [
+    {
+     "q": "Baykal gölündən neçə çay çıxır?",
+     "options": [
+      "1",
+      "12",
+      "330"
+     ],
+     "answer": "1",
+     "why": "Yalnız Anqara çayı."
+    },
+    {
+     "q": "Baykal gölünün dərinliyi nə qədərdir?",
+     "options": [
+      "160 metrdən çox",
+      "600 metrdən çox",
+      "1 600 metrdən çox"
+     ],
+     "answer": "1 600 metrdən çox",
+     "why": "Dünyanın ən dərin gölü."
+    },
+    {
+     "q": "Yer üzündəki şirin suyun nə qədəri Baykaldadır?",
+     "options": [
+      "Yüzdə biri",
+      "Beşdə biri",
+      "Yarısı"
+     ],
+     "answer": "Beşdə biri",
+     "why": "Britannica: təxminən 1/5."
+    }
+   ],
+   "sources": [
+    "https://www.britannica.com/place/Lake-Baikal",
+    "https://en.wikipedia.org/wiki/Lake_Baikal"
+   ],
+   "verify_note": "All figures in both Britannica and Wikipedia (depth/age/share differ slightly -> conservative wording). No Russia politics. Not a repeat: Caspian (28 Oct) was 'share of lake water', different lake.",
+   "photo": {
+    "path": "fetch/img/2026-11-05_3_baikal_u.jpg",
+    "credit": "Denis Shpak / Unsplash",
+    "cy": 0.5,
+    "full": false,
+    "source": "https://unsplash.com/photos/xBoPlmkQ9QQ",
+    "note": "portrait 1600x2133, description 'ice and mountains of Baikal' (photographer in Irkutsk); clear dark water + ice + cliff. Checked: no watermark."
+   },
+   "reused_from": "2026-11-05-3 (unaired 5 Nov backup; reel out/2026-11-05/3_reel.mp4 copied to out/2026-11-07/3_reel.mp4)"
+  },
+  {
+   "n": 4,
+   "type": "reel",
+   "cat": "Azərbaycan",
+   "voiced": true,
+   "subject": "Sheki Khans' Palace (18th century: 1762 or 1797 per sources -> we say '18-ci əsr'). Shebeke windows made of small wooden parts without glue or nails (Wikipedia Shabaka; AZERTAC). 'More than 14,000 pieces are assembled, using neither nails nor glue' (Euronews 2017); master Tofig Rasulov: 'six months to build one square metre' (Euronews). Inscribed on the UNESCO World Heritage List 7 July 2019 as 'Historic Centre of Sheki with the Khan's Palace' (Wikipedia, UNESCO ref 1549).",
+   "photo_request": "Sheki Khan's Palace facade with shebeke (Commons)",
+   "title": "14 000 taxta parça, bir dənə də mismar yox",
+   "text": "Şəki Xan Sarayının şəbəkə pəncərələrində 14 000-dən çox taxta parça var. Onlar mismarsız və yapışqansız yığılıb.",
+   "reel_hook": "14 000 TAXTA PARÇA, BİR DƏNƏ DƏ MİSMAR YOX",
+   "reel_beats": [
+    "Şəki Xan Sarayı 18-ci əsrdə tikilib. Onun ən məşhur yeri rəngli şüşəli pəncərələridir: şəbəkə.",
+    "Bir böyük şəbəkədə 14 000-dən çox kiçik taxta parça olur. Onları mismarsız və yapışqansız bir-birinə keçirirlər.",
+    "Ustanın sözünə görə, bir kvadrat metr şəbəkə 6 aya hazır olur. 2019-cu ildə saray UNESCO siyahısına düşdü. Sən Şəkidə olmusan?"
+   ],
+   "voice_texts": [
+    "On dörd min taxta parça, bir dənə də mismar yox.",
+    "Şəki Xan Sarayı on səkkizinci əsrdə tikilib. Onun ən məşhur yeri rəngli şüşəli pəncərələridir: şəbəkə.",
+    "Bir böyük şəbəkədə on dörd mindən çox kiçik taxta parça olur. Onları mismarsız və yapışqansız bir-birinə keçirirlər.",
+    "Ustanın sözünə görə, bir kvadrat metr şəbəkə altı aya hazır olur. İki min on doqquzuncu ildə saray UNESCO siyahısına düşdü. Sən Şəkidə olmusan?"
+   ],
+   "caption": "14 000 taxta parça, bir dənə də mismar yox 🪟\n\nŞəki Xan Sarayı 18-ci əsrdə tikilib. Onun ən məşhur yeri rəngli şüşəli şəbəkə pəncərələridir. Euronews-un yazdığına görə, bir böyük şəbəkədə 14 000-dən çox kiçik taxta parça olur və onlar mismarsız, yapışqansız bir-birinə keçirilir. Ustanın sözünə görə, bir kvadrat metr şəbəkə 6 aya hazır olur. 2019-cu ildə Şəkinin tarixi mərkəzi Xan Sarayı ilə birlikdə UNESCO-nun Dünya İrsi siyahısına daxil edildi.\n\n📩 Şəkiyə getmək istəyən dostuna göndər\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Nigar2nigarnigar / Wikimedia Commons (CC BY-SA 4.0)\n\n#bilirdinizmi #maraqlıfaktlar #şəki #xansarayı #azərbaycan",
+   "first_comment": "Sən Şəki Xan Sarayını görmüsən? 👇",
+   "quizzes": [
+    {
+     "q": "Şəbəkə pəncərələri nə ilə bərkidilir?",
+     "options": [
+      "Mismarla",
+      "Yapışqanla",
+      "Heç nə ilə"
+     ],
+     "answer": "Heç nə ilə",
+     "why": "Taxta parçalar bir-birinə keçirilir."
+    },
+    {
+     "q": "Bir böyük şəbəkədə neçədən çox taxta parça olur?",
+     "options": [
+      "1 400",
+      "14 000",
+      "140 000"
+     ],
+     "answer": "14 000",
+     "why": "Euronews, 2017."
+    },
+    {
+     "q": "Şəki Xan Sarayı neçənci ildə UNESCO siyahısına düşdü?",
+     "options": [
+      "2000",
+      "2009",
+      "2019"
+     ],
+     "answer": "2019",
+     "why": "Şəkinin tarixi mərkəzi ilə birlikdə."
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Shabaka_(window)",
+    "https://en.wikipedia.org/wiki/Palace_of_Shaki_Khans",
+    "https://www.euronews.com/travel/2017/07/14/the-shebeki-at-sheki-khans-palace-in-azerbaijan",
+    "https://azertag.az/en/xeber/shabaka_azerbaijani_traditional_stained_glass_technique-2073380"
+   ],
+   "verify_note": "No nails/glue: Wikipedia + AZERTAC + Euronews. 14 000+: Euronews only -> attributed in caption, 'bir böyük şəbəkədə' hedge. 6 months per m2: master quoted by Euronews -> 'ustanın sözünə görə'. UNESCO 2019: Wikipedia + UNESCO ref. Build year conflicts (1762/1797) -> '18-ci əsr'.",
+   "photo": {
+    "path": "fetch/img/2026-11-07_4_sheki_detail.jpg",
+    "credit": "Nigar2nigarnigar / Wikimedia Commons (CC BY-SA 4.0)",
+    "cy": 0.5,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Sheki_Khan_Palace_(details).jpg",
+    "note": "portrait 768x1024, close-up of the facade: tile patterns + shebeke lattice windows; no people, no watermark. Alt: 2026-11-07_4_sheki_wide.jpg (CC BY 4.0, tourists in front)."
+   }
+  }
+ ],
+ "stories": [
+  {
+   "time": "11:00",
+   "fact_id": "2026-11-01-2",
+   "recall": true,
+   "cat": "Kosmos",
+   "q": "1800-cü illərin sonunda Qırmızı Ləkənin uzunluğu təxminən nə qədər idi?",
+   "options": [
+    "4 100 km",
+    "41 000 km",
+    "410 000 km"
+   ],
+   "answer": "41 000 km",
+   "why": "İçinə üç Yer kürəsi sığardı.",
+   "image": "out/2026-11-07/q1.jpg",
+   "answer_image": "out/2026-11-07/q1_a.jpg"
+  },
+  {
+   "time": "14:00",
+   "fact_id": "2026-11-07-1",
+   "recall": false,
+   "cat": "Azərbaycan",
+   "q": "Bakı metrosunun tikintisi neçənci ildə yenidən başladı?",
+   "options": [
+    "1955",
+    "1960",
+    "1965"
+   ],
+   "answer": "1960",
+   "why": "Xruşşov Bakıya gələndə inandırdılar.",
+   "image": "out/2026-11-07/q2.jpg",
+   "answer_image": "out/2026-11-07/q2_a.jpg"
+  }
+ ]
+}

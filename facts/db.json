@@ -2829,7 +2829,12 @@
      "why": "Təxminən 16 500 km göstərdi."
     }
    ],
-   "asked": []
+   "asked": [
+    {
+     "date": "2026-11-07",
+     "qi": 0
+    }
+   ]
   },
   {
    "id": "2026-11-01-3",
@@ -3788,6 +3793,167 @@
      ],
      "answer": "Baxın",
      "why": "11 noyabr 1989, violonçel süitaları."
+    }
+   ],
+   "asked": []
+  },
+  {
+   "id": "2026-11-07-1",
+   "date": "2026-11-07",
+   "subject": "Baku Metro part 2. Construction stopped 1953, official reason lack of funds (urbanrail, mirprometro); National Library (eres.preslib.az): Khrushchev considered the metro 'a very expensive luxury' and froze it; in 1960, during his Baku visit for the 40th anniversary of Soviet power in Azerbaijan, the republic's leadership convinced him to restart (preslib); re-launched 1960 (urbanrail); first line re-routed for new urban developments (urbanrail, mirprometro). Opened 6 Nov 1967 with 5 stations, 5th in the USSR (Wikipedia, mirprometro). 1953->1960 = 7 years stopped, 1960->1967 = 7 years to finish (own arithmetic). Today 27 stations, 3 lines (Wikipedia citing metro.gov.az; urbanrail 27). Not used: first-section length conflict, 2026 section closure.",
+   "cat": "Azərbaycan",
+   "quizzes": [
+    {
+     "q": "Bakı metrosunun tikintisi neçənci ildə yenidən başladı?",
+     "options": [
+      "1955",
+      "1960",
+      "1965"
+     ],
+     "answer": "1960",
+     "why": "Xruşşov Bakıya gələndə inandırdılar."
+    },
+    {
+     "q": "Bakı metrosu Sovet İttifaqında neçənci metro idi?",
+     "options": [
+      "İkinci",
+      "Beşinci",
+      "Onuncu"
+     ],
+     "answer": "Beşinci",
+     "why": "1967-ci ildə açıldı."
+    },
+    {
+     "q": "Bu gün Bakı metrosunun neçə stansiyası var?",
+     "options": [
+      "17",
+      "27",
+      "47"
+     ],
+     "answer": "27",
+     "why": "3 xətdə."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-11-07",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-11-07-2",
+   "date": "2026-11-07",
+   "subject": "Sun: core ~15 million °C (NASA MSFC solarscience). Energy made in the core random-walks out: mean step ~0.09 cm (Mitalas & Sills 1992 via ScienceBlog; ScienceAlert '<0.1 cm'); core to surface ~170 000 years (Mitalas & Sills 1992 via ScienceAlert + ScienceBlog; OpenStax range 100 000 - 1 million years; NASA MSFC ~1 million years to the interface layer) -> we say 'bir hesablamaya görə təxminən 170 000 il' and give the range in the caption. Surface to Earth ~499 s = 8 min 19 s (ScienceBlog; PBS 'almost 500 seconds'). Straight line would be ~2.3 s (ScienceAlert). Different from 27 Oct Sun fact (mass loss).",
+   "cat": "Kosmos",
+   "quizzes": [
+    {
+     "q": "Günəşin işığı səthdən Yerə nə qədər vaxta gəlir?",
+     "options": [
+      "8 saniyə",
+      "8 dəqiqə",
+      "8 saat"
+     ],
+     "answer": "8 dəqiqə",
+     "why": "Təxminən 8 dəqiqə 19 saniyə."
+    },
+    {
+     "q": "Günəşin mərkəzində temperatur təxminən nə qədərdir?",
+     "options": [
+      "15 min °C",
+      "1,5 milyon °C",
+      "15 milyon °C"
+     ],
+     "answer": "15 milyon °C",
+     "why": "NASA-nın məlumatı."
+    },
+    {
+     "q": "Bir hesablamaya görə enerji Günəşin mərkəzindən səthə nə qədər vaxta çatır?",
+     "options": [
+      "170 il",
+      "17 000 il",
+      "170 000 il"
+     ],
+     "answer": "170 000 il",
+     "why": "Çünki hər millimetrdə istiqamətini dəyişir."
+    }
+   ],
+   "asked": []
+  },
+  {
+   "id": "2026-11-07-3",
+   "date": "2026-11-07",
+   "subject": "Lake Baikal, Siberia: more than 330 rivers and streams flow in (Britannica; Wikipedia 'as many as 330'); the only outflow is the Angara (both). Deepest lake: Britannica 1 620 m, Wikipedia 1 642 m -> '1 600 metrdən çox'. Age 20-25 million years (Britannica) / 25-30 (Wikipedia) -> '20 milyon ildən çox'. About one-fifth of the fresh water on Earth's surface (Britannica; Wikipedia 22-23% / 19% unfrozen). Baikal seal (nerpa) endemic (Wikipedia; Britannica 'the one mammal species').",
+   "cat": "Coğrafiya",
+   "quizzes": [
+    {
+     "q": "Baykal gölündən neçə çay çıxır?",
+     "options": [
+      "1",
+      "12",
+      "330"
+     ],
+     "answer": "1",
+     "why": "Yalnız Anqara çayı."
+    },
+    {
+     "q": "Baykal gölünün dərinliyi nə qədərdir?",
+     "options": [
+      "160 metrdən çox",
+      "600 metrdən çox",
+      "1 600 metrdən çox"
+     ],
+     "answer": "1 600 metrdən çox",
+     "why": "Dünyanın ən dərin gölü."
+    },
+    {
+     "q": "Yer üzündəki şirin suyun nə qədəri Baykaldadır?",
+     "options": [
+      "Yüzdə biri",
+      "Beşdə biri",
+      "Yarısı"
+     ],
+     "answer": "Beşdə biri",
+     "why": "Britannica: təxminən 1/5."
+    }
+   ],
+   "asked": []
+  },
+  {
+   "id": "2026-11-07-4",
+   "date": "2026-11-07",
+   "subject": "Sheki Khans' Palace (18th century: 1762 or 1797 per sources -> we say '18-ci əsr'). Shebeke windows made of small wooden parts without glue or nails (Wikipedia Shabaka; AZERTAC). 'More than 14,000 pieces are assembled, using neither nails nor glue' (Euronews 2017); master Tofig Rasulov: 'six months to build one square metre' (Euronews). Inscribed on the UNESCO World Heritage List 7 July 2019 as 'Historic Centre of Sheki with the Khan's Palace' (Wikipedia, UNESCO ref 1549).",
+   "cat": "Azərbaycan",
+   "quizzes": [
+    {
+     "q": "Şəbəkə pəncərələri nə ilə bərkidilir?",
+     "options": [
+      "Mismarla",
+      "Yapışqanla",
+      "Heç nə ilə"
+     ],
+     "answer": "Heç nə ilə",
+     "why": "Taxta parçalar bir-birinə keçirilir."
+    },
+    {
+     "q": "Bir böyük şəbəkədə neçədən çox taxta parça olur?",
+     "options": [
+      "1 400",
+      "14 000",
+      "140 000"
+     ],
+     "answer": "14 000",
+     "why": "Euronews, 2017."
+    },
+    {
+     "q": "Şəki Xan Sarayı neçənci ildə UNESCO siyahısına düşdü?",
+     "options": [
+      "2000",
+      "2009",
+      "2019"
+     ],
+     "answer": "2019",
+     "why": "Şəkinin tarixi mərkəzi ilə birlikdə."
     }
    ],
    "asked": []

@@ -403,3 +403,12 @@ search_crystalhall.json https://commons.wikimedia.org/w/api.php?action=query&for
 search_roentgen.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1280&gsrsearch=Wilhelm%20Conrad%20R%C3%B6ntgen%20portrait
 search_huang.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1280&gsrsearch=Jensen%20Huang
 search_pulsar.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1280&gsrsearch=neutron%20star%20pulsar%20illustration%20NASA
+2026-11-08_1_crystal_flag.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Baku_Crystal_Hall_and_Square_of_State_Flag_in_Baku_%282012%29.jpg/1280px-Baku_Crystal_Hall_and_Square_of_State_Flag_in_Baku_%282012%29.jpg
+2026-11-08_1_crystal_mar.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Baku_Crystal_Hall_-_25_March_2012.JPG/1280px-Baku_Crystal_Hall_-_25_March_2012.JPG
+2026-11-08_4_huang.jpg https://upload.wikimedia.org/wikipedia/commons/5/59/Jensen_Huang_%28cropped%29_%282024%29.jpg
+2026-11-08_4_huang_b.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Jensen_huang_stanford_2026-04-30_010.jpg/1280px-Jensen_huang_stanford_2026-04-30_010.jpg
+2026-11-08_H_roentgen.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Wilhelm_Conrad_R%C3%B6ntgen_%281888-1900%29%2C_88374_p.jpg/1280px-Wilhelm_Conrad_R%C3%B6ntgen_%281888-1900%29%2C_88374_p.jpg
+2026-11-08_H_roentgen2.jpg https://upload.wikimedia.org/wikipedia/commons/7/71/Roentgen2.jpg
+search_hand.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1280&gsrsearch=R%C3%B6ntgen%20hand%20Ringen%201895
+search_nstar.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1280&gsrsearch=neutron%20star%20artist%20concept
+search_pulsar2.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1280&gsrsearch=magnetar%20artist%20impression%20ESO

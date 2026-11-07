@@ -1,0 +1,1 @@
+Neutron star 716/s motion reel (16:00, 8 Nov 2026). Scaffold with animation-studio new-project.js --format 9:16, copy these 3 files + assets/star.jpg (fetch/img/2026-11-08_2_nstar_magnetar.jpg cropped x183.., 'Artist's Concept' label patched out) + InterDisplay Black/Bold/SemiBold otf into assets/, then: node song.js && node engine/render.js video && node engine/render.js mux

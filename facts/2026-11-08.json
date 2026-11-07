@@ -172,7 +172,9 @@
     "cx": 0.2,
     "full": false,
     "source": "https://commons.wikimedia.org/wiki/File:Baku_Crystal_Hall_and_Square_of_State_Flag_in_Baku_(2012).jpg",
-    "note": "landscape 1280x960 (2012): Crystal Hall on the left seen from the bay, flag square on the right; hall is small in the frame -> use full:false (whole photo) or cx 0.2 crop. Checked: no watermark. Spare: fetch/img/2026-11-08_1_crystal_mar.jpg (25 Mar 2012, under construction, Frode H. Korneliussen, CC BY-SA 4.0). Commons has no better exterior; Unsplash none."
+    "note": "landscape 1280x960 (2012): Crystal Hall on the left seen from the bay, flag square on the right; hall is small in the frame -> use full:false (whole photo) or cx 0.2 crop. Checked: no watermark. Spare: fetch/img/2026-11-08_1_crystal_mar.jpg (25 Mar 2012, under construction, Frode H. Korneliussen, CC BY-SA 4.0). Commons has no better exterior; Unsplash none.",
+    "reel_path": "fetch/img/2026-11-08_1_crystal_reel.jpg",
+    "reel_note": "9:16 composite made in the evening build: crop of crystal_flag (hall + flag square) on top over a blurred copy, so the hall sits above the text box"
    }
   },
   {
@@ -320,13 +322,13 @@
    "reel_beats": [
     "Censen Huanq 15 yaşında ABŞ-da «Denny's» restoranında işə girdi. Qab yudu, masaları yığdı, sonra ofisiant oldu.",
     "1993-cü ildə o, iki dostu ilə yenə bir «Denny's»də oturdu. Elə orada yeni bir çip şirkəti qurmaq barədə danışdılar. Bu şirkət NVIDIA oldu.",
-    "Bu gün NVIDIA dünyanın ən dəyərli şirkətlərindən biridir. Restoran isə həmin masanın yanına xatirə lövhəsi vurub. Sən ilk pulunu hansı işdə qazanmısan?"
+    "Bu gün NVIDIA dünyanın ən dəyərli şirkətlərindən biridir. O masanın yanında indi xatirə lövhəsi var. Sən ilk pulunu hansı işdə qazanmısan?"
    ],
    "voice_texts": [
     "On beş yaşında qab yuyurdu, sonra NVIDIA-nı qurdu.",
     "Censen Huanq on beş yaşında Amerikada Denis restoranında işə girdi. Qab yudu, masaları yığdı, sonra ofisiant oldu.",
     "Min doqquz yüz doxsan üçüncü ildə o, iki dostu ilə yenə bir Denis restoranında oturdu. Elə orada yeni bir çip şirkəti qurmaq barədə danışdılar. Bu şirkət NVIDIA oldu.",
-    "Bu gün NVIDIA dünyanın ən dəyərli şirkətlərindən biridir. Restoran isə həmin masanın yanına xatirə lövhəsi vurub. Sən ilk pulunu hansı işdə qazanmısan?"
+    "Bu gün NVIDIA dünyanın ən dəyərli şirkətlərindən biridir. O masanın yanında indi xatirə lövhəsi var. Sən ilk pulunu hansı işdə qazanmısan?"
    ],
    "cta": "Hər gün yeni fakt — izlə!",
    "caption": "15 yaşında qab yuyan oğlan sonra NVIDIA-nı qurdu 🍽️\n\nCensen Huanq ilk işinə 15 yaşında, ABŞ-ın Portlend şəhərində «Denny's» restoranında başladı. Özü deyir: «Qab yudum, masa yığdım, ofisiantlıq etdim». 1993-cü ildə o, iki dostu — Kris Malakovski və Kertis Priem ilə yenə bir «Denny's»də oturdu və yeni çip şirkəti qurmaq barədə danışdı. Bu şirkət NVIDIA oldu. Bu gün telefonlardan tutmuş süni intellektə qədər çox şey onun çiplərindən istifadə edir. 2023-cü ildə restoran həmin masanın yanına xatirə lövhəsi vurdu.\n\n📩 «Mənim işim heç nəyə yaramır» deyən dostuna göndər — Huanq da qab yuyurdu 😄\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Peter Dasilva / Wikimedia Commons (CC BY 4.0)\n\n#bilirdinizmi #maraqlıfaktlar #nvidia #uğur #texnologiya",
@@ -377,6 +379,43 @@
     "source": "https://commons.wikimedia.org/wiki/File:Jensen_Huang_(cropped)_(2024).jpg",
     "note": "portrait 1129x1678, face centred, leather jacket; checked: no watermark/text. Spare: fetch/img/2026-11-08_4_huang_b.jpg (Stanford 2026, Anderseidesvik, CC BY-SA 4.0) — look before use."
    }
+  }
+ ],
+ "language_fix": [
+  "4: beat 3 shortened ('Restoran isə həmin masanın yanına xatirə lövhəsi vurub' -> 'O masanın yanında indi xatirə lövhəsi var') so the box does not touch the follow pill"
+ ],
+ "stories": [
+  {
+   "time": "11:00",
+   "fact_id": "2026-11-04-4",
+   "recall": true,
+   "cat": "Azərbaycan",
+   "q": "Lev Landau neçə yaşında universitetə daxil oldu?",
+   "options": [
+    "14",
+    "17",
+    "19"
+   ],
+   "answer": "14",
+   "why": "1922-ci ildə, Bakı Dövlət Universitetinə.",
+   "image": "out/2026-11-08/q1.jpg",
+   "answer_image": "out/2026-11-08/q1_a.jpg"
+  },
+  {
+   "time": "14:00",
+   "fact_id": "2026-11-08-1",
+   "recall": false,
+   "cat": "Azərbaycan",
+   "q": "Bakı Kristal Zalı hansı müsabiqə üçün tikildi?",
+   "options": [
+    "Avropa Oyunları 2015",
+    "«Eurovision 2012»",
+    "Dünya Kuboku"
+   ],
+   "answer": "«Eurovision 2012»",
+   "why": "2011-ci ildə Ell və Nikki qalib gəldi.",
+   "image": "out/2026-11-08/q2.jpg",
+   "answer_image": "out/2026-11-08/q2_a.jpg"
   }
  ]
 }

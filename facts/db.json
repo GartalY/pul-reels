@@ -3432,7 +3432,12 @@
      "why": "Eyni vaxtda iki fakültədə."
     }
    ],
-   "asked": []
+   "asked": [
+    {
+     "date": "2026-11-08",
+     "qi": 0
+    }
+   ]
   },
   {
    "id": "2026-11-05-1",
@@ -3955,6 +3960,167 @@
      ],
      "answer": "2019",
      "why": "Şəkinin tarixi mərkəzi ilə birlikdə."
+    }
+   ],
+   "asked": []
+  },
+  {
+   "id": "2026-11-08-1",
+   "date": "2026-11-08",
+   "subject": "Baku Crystal Hall: built to host Eurovision 2012 (Wikipedia). Azerbaijan won Eurovision 2011 (Ell & Nikki, 'Running Scared', Düsseldorf 14 May 2011 — Wikipedia ESC 2012 / common knowledge) so Baku hosted 2012. Construction began August 2011 (main agreement 2 Aug 2011 with Alpine Bau Deutschland), completed 16 April 2012 (Wikipedia; Reuters Screenocean 'Country completes construction'; ArcelorMittal Constructalia case study 'construction of Crystal Hall in record time'). Aug 2011 -> mid-Apr 2012 = about 8 months (own arithmetic). On the coast near National Flag Square (Wikipedia). 12 000 seats, up to 27 000 people with standing room (Wikipedia infobox + text). Height 24 m in the middle; arena area 10 964 m² (Wikipedia). Eurovision 22–26 May 2012. Later events: J.Lo, Shakira, Rihanna 2012; 2015 European Games; UFC 2025 (Wikipedia). Not used: cost (conflicting), opening ceremony (politics-free), LED count (interior light points only).",
+   "cat": "Azərbaycan",
+   "quizzes": [
+    {
+     "q": "Bakı Kristal Zalı hansı müsabiqə üçün tikildi?",
+     "options": [
+      "«Eurovision 2012»",
+      "Avropa Oyunları 2015",
+      "Dünya Kuboku"
+     ],
+     "answer": "«Eurovision 2012»",
+     "why": "2011-ci ildə Ell və Nikki qalib gəldi."
+    },
+    {
+     "q": "Kristal Zal təxminən neçə ayda tikildi?",
+     "options": [
+      "8",
+      "18",
+      "28"
+     ],
+     "answer": "8",
+     "why": "Avqust 2011 – aprel 2012."
+    },
+    {
+     "q": "Kristal Zal ayaq üstə ən çox neçə nəfər tuta bilir?",
+     "options": [
+      "12 000",
+      "27 000",
+      "50 000"
+     ],
+     "answer": "27 000",
+     "why": "Oturacaq isə 12 000-dir."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-11-08",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-11-08-2",
+   "date": "2026-11-08",
+   "subject": "PSR J1748-2446ad, fastest-spinning known pulsar: 716 revolutions per second (716 Hz), beating the 1982 record of 642 Hz; in the globular cluster Terzan 5, about 28 000 light-years away in Sagittarius; 'twice as fast as the average kitchen blender'; 'a teaspoon of neutron star matter is thought to weigh billions of tons' (McGill newsroom, Science paper Jan 2006; phys.org 2006 'Astronomers discover fastest-spinning pulsar'). Neutron stars ~20 km across with ~half a million Earths of mass (Astronomy magazine field guide). Not used: McGill '20-mile diameter' (inconsistent).",
+   "cat": "Kosmos",
+   "quizzes": [
+    {
+     "q": "Ən sürətli neytron ulduzu saniyədə neçə dəfə fırlanır?",
+     "options": [
+      "71",
+      "716",
+      "7 160"
+     ],
+     "answer": "716",
+     "why": "Blenderdən iki dəfə sürətli."
+    },
+    {
+     "q": "Neytron ulduzunun eni təxminən nə qədərdir?",
+     "options": [
+      "20 km",
+      "2 000 km",
+      "200 000 km"
+     ],
+     "answer": "20 km",
+     "why": "Amma yarım milyon Yer qədər ağırdır."
+    },
+    {
+     "q": "Bu ulduz Yerdən təxminən neçə işıq ili uzaqdadır?",
+     "options": [
+      "28",
+      "2 800",
+      "28 000"
+     ],
+     "answer": "28 000",
+     "why": "Oxatan bürcündə."
+    }
+   ],
+   "asked": []
+  },
+  {
+   "id": "2026-11-08-3",
+   "date": "2026-11-08",
+   "subject": "Chimborazo (Ecuador): summit 6 384.4 km from Earth's centre, 2.1 km farther than Everest's (6 382.3 km) (Wikipedia); Guinness: ~6 384 km, 'more than 2 kilometres' farther than Everest. Height above sea level 6 263 m (Wikipedia; Guinness 6 270 m) vs Everest 8 849 m. Reason: Earth is an oblate spheroid, thicker at the Equator; Chimborazo is ~1 degree south of the Equator (Wikipedia; Guinness '158 km south of the equator').",
+   "cat": "Coğrafiya",
+   "quizzes": [
+    {
+     "q": "Çimboraso vulkanı hansı ölkədədir?",
+     "options": [
+      "Ekvador",
+      "Nepal",
+      "Çili"
+     ],
+     "answer": "Ekvador",
+     "why": "Ekvatordan təxminən 1 dərəcə cənubda."
+    },
+    {
+     "q": "Çimborasonun zirvəsi Yerin mərkəzindən Everestdən nə qədər uzaqdır?",
+     "options": [
+      "2 km-dən çox",
+      "20 metr",
+      "200 km"
+     ],
+     "answer": "2 km-dən çox",
+     "why": "Yer ekvatorda şişkindir."
+    },
+    {
+     "q": "Niyə Çimborasonun zirvəsi mərkəzdən daha uzaqdır?",
+     "options": [
+      "Yer ekvatorda şişkindir",
+      "Vulkan hər il böyüyür",
+      "Orada dəniz səviyyəsi aşağıdır"
+     ],
+     "answer": "Yer ekvatorda şişkindir",
+     "why": "Planet tam kürə deyil."
+    }
+   ],
+   "asked": []
+  },
+  {
+   "id": "2026-11-08-4",
+   "date": "2026-11-08",
+   "subject": "Jensen Huang (NVIDIA co-founder and CEO): got his first job at Denny's in Portland at 15: 'I was a dishwasher, I was a busboy, I waited tables' (NVIDIA blog 26 Sep 2023; Fortune; NextShark; CNBC/NBC). In 1993 Huang, Chris Malachowsky and Curtis Priem met at a Denny's in Silicon Valley (East San Jose per NBC/CNBC) to discuss creating a chip -> NVIDIA (NVIDIA blog). Quote: 'Denny's has taught me so many lessons' (NVIDIA blog). Denny's unveiled a plaque at that Denny's in 2023 (NVIDIA blog; NBC/CNBC 'started his $2 trillion company at a Denny's breakfast booth'). NVIDIA = one of the world's most valuable companies (multi-trillion market value, Fortune '$2.9 trillion', 2024-26) -> keep wording general because AI stocks are volatile this week.",
+   "cat": "Məşhur insanlar",
+   "quizzes": [
+    {
+     "q": "Censen Huanq neçə yaşında restoranda işə başladı?",
+     "options": [
+      "12",
+      "15",
+      "19"
+     ],
+     "answer": "15",
+     "why": "Portlenddə, «Denny's»də."
+    },
+    {
+     "q": "NVIDIA-nın ideyası harada danışıldı?",
+     "options": [
+      "Restoranda",
+      "Universitetdə",
+      "Qarajda"
+     ],
+     "answer": "Restoranda",
+     "why": "1993-cü ildə «Denny's»də."
+    },
+    {
+     "q": "Huanq dostları ilə neçənci ildə NVIDIA barədə danışdı?",
+     "options": [
+      "1983",
+      "1993",
+      "2003"
+     ],
+     "answer": "1993",
+     "why": "Üç dost bir masada oturdu."
     }
    ],
    "asked": []

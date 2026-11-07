@@ -10,11 +10,11 @@ os.makedirs(OUT, exist_ok=True)
 s = open(TLF).read(); TL = json.loads(s[s.index('=') + 1:s.index(';if(')]); LINES = {l['id']: l for l in TL['lines']}
 
 SHORTS = [
-    ('s1_vanish', 'c0_1', 'c0_4', ['MOON GONE?', "YOU'D NOTICE", '1.3 S LATER']),
-    ('s2_asphalt', 'c1_1h', 'c1_3', ['THE MOON IS', 'AS DARK AS', 'OLD ASPHALT']),
-    ('s3_reef', 'c3_1h', 'c3_4', ['A WHOLE REEF', 'WAITS FOR', 'THE MOON']),
-    ('s4_18hours', 'c5_1h', 'c5_4b', ['A DAY ON EARTH', 'USED TO BE', '18 HOURS']),
-    ('s5_leaving', 'c7_1h', 'c7_3', ['THE MOON', 'IS LEAVING', 'US']),
+    ('ep03_s1_blaze', 'c0_1', 'c0_4', ['THE NIGHT SKY', 'SHOULD BE', 'BLAZING']),
+    ('ep03_s2_forest', 'c1_2', 'c1_5', ['WHERE COULD', 'YOU LOOK AND', 'SEE NO STAR?']),
+    ('ep03_s3_oven', 'c2_3', 'c2_7', ["FAR STARS", "DON'T FADE", 'AWAY']),
+    ('ep03_s4_poet', 'c4_1h', 'c4_5', ['A POET', 'GUESSED IT', 'FIRST']),
+    ('ep03_s5_pigeons', 'c5_7', 'c5_8', ['THE HISS', 'FROM THE', 'BIG BANG']),
 ]
 
 def ass_for(t0, t1, path):

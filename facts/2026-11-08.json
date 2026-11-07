@@ -1,6 +1,6 @@
 {
  "date": "2026-11-08",
- "status": "planned",
+ "status": "scheduled",
  "format": "v2",
  "content_format": "v4",
  "planned_note": "Planned in the 2026-11-07 09:10 run (format v4). Sun 8 Nov (Victory Day in AZ: no war/politics topics). 10:00 TBG carousel = Röntgen discovers X-rays, 8 Nov 1895 (131 years, not round). 13:00 AZ reel (VOICED) = Baku Crystal Hall built in ~8 months for Eurovision 2012. 16:00 reel (SILENT, space wow, MOTION build) = fastest-spinning neutron star, 716 turns per second. 18:30 trend backup reel (SILENT) = Chimborazo summit 2 km farther from Earth's centre than Everest. 21:30 reel (VOICED) = Jensen Huang: dishwasher at Denny's at 15, NVIDIA idea at a Denny's in 1993. No two-part story on Sunday (next part 1 = Tue 10 Nov).",
@@ -242,6 +242,12 @@
     "full": true,
     "source": "https://commons.wikimedia.org/wiki/File:Artist%E2%80%99s_concept_of_magnetar_1E_1547.0-5408.png",
     "note": "PD NASA artist's concept, 1280x1097, glowing neutron star with beams + field lines. Small 'Artist's Concept' label in the TOP-LEFT corner: keep cx >= 0.5 so the 9:16 crop drops it (check frame 0). Spares: fetch/img/2026-11-08_2_nstar_nasa.jpg (NASA, landscape, no text), 2026-11-08_2_nstar_quake.jpg (NASA)."
+   },
+   "motion_build": {
+    "tool": "animation-studio (canvas + synthesized music), project source prototypes/anim_studio_nstar",
+    "seconds": 24.7,
+    "scenes": "hook on NASA magnetar concept -> photo shrinks, two pulsar beams sweep, counter to 716 dəfə / saniyə + 'blenderdən 2 dəfə sürətli' -> balance: tiny 20 km star vs a growing pile of Earths, counter to 500 000 Yer -> glowing teaspoon, counter to 'milyardlarla ton'",
+    "status": "OK, shipped (no static fallback needed)"
    }
   },
   {
@@ -417,5 +423,45 @@
    "image": "out/2026-11-08/q2.jpg",
    "answer_image": "out/2026-11-08/q2_a.jpg"
   }
- ]
+ ],
+ "metricool": {
+  "10:00 tarixdə bu gün carousel (Röntgen 1895)": 420097000,
+  "10:00 tarixdə bu gün story": 420097442,
+  "11:00 quiz q1 (recall Landau)": 420097523,
+  "11:10 answer a1": 420097572,
+  "13:00 reel (Crystal Hall, voiced)": 420097073,
+  "14:00 quiz q2 (Crystal Hall)": 420097646,
+  "14:10 answer a2": 420097674,
+  "16:00 reel (neutron star, MOTION, silent)": 420097100,
+  "18:30 reel (Chimborazo backup, silent)": 420097135,
+  "21:30 reel (Jensen Huang, voiced)": 420097213
+ },
+ "tiktok": {
+  "13:00 Crystal Hall": 420098302,
+  "18:30 Chimborazo backup": 420098384
+ },
+ "youtube": {
+  "11:00 REPOST Son Doong": 420098441,
+  "13:00 Crystal Hall": 420098326,
+  "16:00 neutron star": 420098350,
+  "18:30 Chimborazo backup": 420098391,
+  "19:45 REPOST Hyperion": 420098535,
+  "21:30 Jensen Huang": 420098406
+ },
+ "pending_schedule": [],
+ "reposts": "8 Nov YouTube only: 11:00 Son Doong 200 m cave (31 Oct n3, UNAIRED backup, out/2026-10-31/3_reel.mp4) and 19:45 Hyperion 116 m tree (1 Nov n3, UNAIRED backup, out/2026-11-01/3_reel.mp4). Unaired stock left: Iceland mosquitoes (28 Oct), Pando, Kola (no mp4), Akashi (2 Nov), Baikal (7 Nov). Sunday review should decide the repost source.",
+ "built": {
+  "when": "2026-11-07 20:45-21:05 Asia/Baku",
+  "checked": "6 carousel slides (H_4 uses the 1895 hand X-ray), tbg story, 2 quiz + 2 answer stories, 5 frames each of reels 1/3/4 and both repost reels, 8 stills of the motion reel; text in safe zone, no watermark",
+  "fixes": "reel 1: Crystal Hall was tiny under the text box -> 9:16 composite (fetch/img/2026-11-08_1_crystal_reel.jpg) puts the hall above the box + hook_bg; reel 4: hook_bg (white hair behind the hook) and beat 3 shortened so the box clears the follow pill",
+  "reel_seconds": {
+   "1": 33.4,
+   "2": 24.7,
+   "3": 23.4,
+   "4": 35.2
+  },
+  "voice": "Banu +15% on reels 1 and 4 (AI labels IG/TikTok/YouTube); reels 2 and 3 silent"
+ },
+ "trend_check_evening": "2026-11-07 20:50: world/AZ headline searches showed no single dominant story suitable for a swap (8 Nov = Victory Day in AZ: no war/politics topics). Tomorrow's trend reel is picked by the 09:10/15:23 runs into the 18:30 slot (IG+TikTok+YouTube updated, never added).",
+ "scheduled_check": "getScheduledPosts 8 Nov before scheduling: 0 posts. After: 18 posts (IG 10 incl. 5 stories, TikTok 2, YouTube 6), each network/time exactly once."
 }

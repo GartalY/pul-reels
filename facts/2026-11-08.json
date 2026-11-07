@@ -1,0 +1,382 @@
+{
+ "date": "2026-11-08",
+ "status": "planned",
+ "format": "v2",
+ "content_format": "v4",
+ "planned_note": "Planned in the 2026-11-07 09:10 run (format v4). Sun 8 Nov (Victory Day in AZ: no war/politics topics). 10:00 TBG carousel = Röntgen discovers X-rays, 8 Nov 1895 (131 years, not round). 13:00 AZ reel (VOICED) = Baku Crystal Hall built in ~8 months for Eurovision 2012. 16:00 reel (SILENT, space wow, MOTION build) = fastest-spinning neutron star, 716 turns per second. 18:30 trend backup reel (SILENT) = Chimborazo summit 2 km farther from Earth's centre than Everest. 21:30 reel (VOICED) = Jensen Huang: dishwasher at Denny's at 15, NVIDIA idea at a Denny's in 1993. No two-part story on Sunday (next part 1 = Tue 10 Nov).",
+ "history": {
+  "n": "H",
+  "type": "card",
+  "cat": "Tarix",
+  "day": 8,
+  "month": 11,
+  "year": 1895,
+  "subject": "8 Nov 1895, late Friday evening, Würzburg: Wilhelm Conrad Röntgen, experimenting with a Hittorf (cathode-ray) tube, saw a fluorescent screen light up even far from the tube (DPMA; wilhelmconradroentgen.de; PBS). He called them X-rays because he did not know their nature (PBS; DPMA 'as he called them'). Worked secretly ~6 weeks in the lab (PBS 'secreted in his lab for six weeks'). 22 Dec 1895: X-ray of his wife Anna Bertha Ludwig's hand; she said 'I have seen my death' (PBS; Commons file dated 1895-12-22). Paper 'A new type of ray' published 28 Dec 1895 (DPMA). Kölliker proposed the name 'Röntgen rays' 23 Jan 1896 (memorial site); in German-speaking and Central/Eastern European countries still called Röntgen rays (DPMA) -> AZ 'rentgen'. Refused a patent so it would benefit all (DPMA; memorial site). First Nobel Prize in Physics 1901 (DPMA; memorial site; 10 Dec 1901). 131 years = not round -> TBG only.",
+  "photo_request": "Röntgen portrait (Hanfstaengl, PD, Commons) + first X-ray of Anna Bertha's hand (PD)",
+  "card_title": "8 NOYABR 1895",
+  "title": "Kəşfinə «X» dedi, çünki nə olduğunu bilmirdi",
+  "text": "1895-ci il noyabrın 8-də Vilhelm Rentgen naməlum şüalar tapdı və onlara «X» dedi. Bu gün xəstəxanalarda onun adını daşıyan «rentgen» çəkilir.",
+  "cover": {
+   "hook": "Kəşfinə «X» dedi, çünki nə olduğunu bilmirdi",
+   "sub": "8 noyabr 1895 · 131 il əvvəl bu gün"
+  },
+  "slides": [
+   {
+    "h": "8 noyabr 1895",
+    "t": "Alman alimi Vilhelm Rentgen axşam laboratoriyada şüşə boru ilə təcrübə aparırdı. Birdən borudan xeyli aralıda duran ekran işıqlanmağa başladı."
+   },
+   {
+    "h": "«X» şüaları",
+    "t": "Bu şüaların nə olduğunu bilmədiyi üçün onlara «X-şüaları» dedi. Sonra başqa alimlər onları Rentgenin adı ilə çağırdı. Bizdə də «rentgen» sözü buradan gəlir."
+   },
+   {
+    "h": "6 həftə",
+    "t": "Rentgen 6 həftə demək olar laboratoriyadan çıxmadı. Dekabrın 22-də həyat yoldaşı Annanın əlinin şəklini çəkdi. Anna sümüklərini görəndə dedi: «Mən öz ölümümü gördüm»."
+   },
+   {
+    "h": "Patent yox",
+    "t": "Rentgen kəşfinə patent almadı: istəyirdi ki, hamı ondan istifadə edə bilsin. 1901-ci ildə fizika üzrə ilk Nobel mükafatını məhz o aldı."
+   }
+  ],
+  "caption": "131 il əvvəl bu gün bir alim naməlum şüalar tapdı və onlara sadəcə «X» dedi 🩻\n\n1895-ci il noyabrın 8-də alman alimi Vilhelm Rentgen laboratoriyada şüşə boru ilə işləyirdi. Birdən aralıda duran ekran işıqlandı. Bu şüaların nə olduğunu bilmədiyi üçün onlara «X-şüaları» dedi. 6 həftə sonra həyat yoldaşı Annanın əlinin şəklini çəkdi və Anna öz sümüklərini gördü. Rentgen kəşfinə patent almadı, 1901-ci ildə isə fizika üzrə ilk Nobel mükafatını aldı. Bu gün həkimə gedəndə «rentgen» deyirik — onun adı ilə.\n\n📩 Nə vaxtsa rentgen çəkdirən dostuna göndər — bu şəklin adını kimin verdiyini bilsin 😄\n\nFoto: Erwin Hanfstaengl / ictimai mülkiyyət · Vilhelm Rentgen, 1895 (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #tarixdəbugün #elm #tarix",
+  "first_comment": "Sən heç rentgen çəkdirmisən? Nəyin? 👇",
+  "quizzes": [
+   {
+    "q": "Rentgen şüalarına niyə «X» adını verdi?",
+    "options": [
+     "Nə olduqlarını bilmirdi",
+     "Adının baş hərfi idi",
+     "Onuncu təcrübəsi idi"
+    ],
+    "answer": "Nə olduqlarını bilmirdi",
+    "why": "X naməlum deməkdir."
+   },
+   {
+    "q": "Rentgen kimin əlinin şəklini çəkdi?",
+    "options": [
+     "Həyat yoldaşının",
+     "Köməkçisinin",
+     "Öz əlinin"
+    ],
+    "answer": "Həyat yoldaşının",
+    "why": "Anna, 22 dekabr 1895."
+   },
+   {
+    "q": "Rentgen fizika üzrə ilk Nobel mükafatını neçənci ildə aldı?",
+    "options": [
+     "1896",
+     "1901",
+     "1911"
+    ],
+    "answer": "1901",
+    "why": "İlk Nobel mükafatları 1901-ci ildə verildi."
+   }
+  ],
+  "sources": [
+   "https://www.dpma.de/english/our_office/publications/milestones/inventionsthatmadehistory/roentgensx-rays/index.html",
+   "https://wilhelmconradroentgen.de/en/wilhelm-roentgen/",
+   "https://www.pbs.org/newshour/health/i-have-seen-my-death-how-the-world-discovered-the-x-ray"
+  ],
+  "verify_note": "8 Nov 1895 + tube + screen: DPMA + memorial site. X = unknown nature: PBS (+ DPMA 'as he called them'). 6 weeks: PBS. Hand 22 Dec 1895 + 'I have seen my death': PBS + Commons file date. Wife = Anna Bertha Ludwig (PBS caption; DPMA 'Anna', memorial 'Bertha') -> use 'Anna'. No patent: DPMA + memorial. First physics Nobel 1901: DPMA + memorial. 'Bizdə də rentgen sözü buradan gəlir': DPMA says Central/Eastern Europe use 'Röntgen rays'; AZ 'rentgen' (via Russian) = common knowledge.",
+  "photo": {
+   "path": "fetch/img/2026-11-08_H_roentgen.jpg",
+   "credit": "Erwin Hanfstaengl (ictimai mülkiyyət)",
+   "cy": 0.35,
+   "full": false,
+   "source": "https://commons.wikimedia.org/wiki/File:Wilhelm_Conrad_R%C3%B6ntgen_(1888-1900),_88374_p.jpg",
+   "note": "PD portrait 1280x1648; small studio signature bottom-left (photographer's mark on the 1890s print, not an agency watermark) — crop keeps it out. Slide 4 photo option: fetch/img/2026-11-08_H_hand.jpg (first X-ray of Anna Bertha's hand, 1895-12-22, PD)."
+  },
+  "photo2": {
+   "path": "fetch/img/2026-11-08_H_hand.jpg",
+   "credit": "Vilhelm Rentgen, 1895 (ictimai mülkiyyət)",
+   "source": "https://commons.wikimedia.org/wiki/File:First_medical_X-ray_by_Wilhelm_R%C3%B6ntgen_of_his_wife_Anna_Bertha_Ludwig%27s_hand_-_18951222.jpg"
+  },
+  "story": {
+   "day": 8,
+   "month": 11,
+   "year": 1895,
+   "title": "Kəşfinə «X» dedi",
+   "text": "131 il əvvəl bu gün Vilhelm Rentgen naməlum şüalar tapdı. Nə olduqlarını bilmədiyi üçün onlara «X-şüaları» dedi. Bu gün çəkdirdiyimiz «rentgen» onun adını daşıyır.",
+   "credit": "Erwin Hanfstaengl (ictimai mülkiyyət)",
+   "cy": 0.35
+  }
+ },
+ "facts": [
+  {
+   "n": 1,
+   "type": "reel",
+   "cat": "Azərbaycan",
+   "voiced": true,
+   "subject": "Baku Crystal Hall: built to host Eurovision 2012 (Wikipedia). Azerbaijan won Eurovision 2011 (Ell & Nikki, 'Running Scared', Düsseldorf 14 May 2011 — Wikipedia ESC 2012 / common knowledge) so Baku hosted 2012. Construction began August 2011 (main agreement 2 Aug 2011 with Alpine Bau Deutschland), completed 16 April 2012 (Wikipedia; Reuters Screenocean 'Country completes construction'; ArcelorMittal Constructalia case study 'construction of Crystal Hall in record time'). Aug 2011 -> mid-Apr 2012 = about 8 months (own arithmetic). On the coast near National Flag Square (Wikipedia). 12 000 seats, up to 27 000 people with standing room (Wikipedia infobox + text). Height 24 m in the middle; arena area 10 964 m² (Wikipedia). Eurovision 22–26 May 2012. Later events: J.Lo, Shakira, Rihanna 2012; 2015 European Games; UFC 2025 (Wikipedia). Not used: cost (conflicting), opening ceremony (politics-free), LED count (interior light points only).",
+   "photo_request": "Baku Crystal Hall exterior (Commons)",
+   "title": "8 ayda tikilən 27 000 nəfərlik zal",
+   "text": "Bakı Kristal Zalı «Eurovision 2012» üçün təxminən 8 ayda tikildi. Zalda 12 000 oturacaq var, amma ayaq üstə 27 000 nəfər tuta bilir.",
+   "reel_hook": "8 AYDA TİKİLDİ: 27 000 NƏFƏRLİK ZAL",
+   "reel_beats": [
+    "2011-ci ilin mayında Ell və Nikki «Eurovision»u qazandı. Növbəti müsabiqə Bakıda keçirilməli idi və bunun üçün yeni zal lazım idi.",
+    "Tikinti 2011-ci ilin avqustunda başladı və 2012-ci ilin aprelində bitdi: cəmi 8 aya yaxın. Zalı Bayraq meydanının yanında, dənizin sahilində tikdilər.",
+    "Kristal Zalda 12 000 oturacaq var, amma ayaq üstə 27 000 nəfər tuta bilir. Sən orada hansı konsertə getmisən?"
+   ],
+   "voice_texts": [
+    "Səkkiz ayda tikildi: iyirmi yeddi min nəfərlik zal.",
+    "İki min on birinci ilin mayında Ell və Nikki Avroviziyanı qazandı. Növbəti müsabiqə Bakıda keçirilməli idi və bunun üçün yeni zal lazım idi.",
+    "Tikinti iki min on birinci ilin avqustunda başladı və iki min on ikinci ilin aprelində bitdi: cəmi səkkiz aya yaxın. Zalı Bayraq meydanının yanında, dənizin sahilində tikdilər.",
+    "Kristal Zalda on iki min oturacaq var, amma ayaq üstə iyirmi yeddi min nəfər tuta bilir. Sən orada hansı konsertə getmisən?"
+   ],
+   "cta": "Hər gün 13:00-da yeni Bakı faktı — izlə!",
+   "caption": "Bakı Kristal Zalı cəmi 8 aya yaxın vaxtda tikildi 🎤\n\n2011-ci ildə Ell və Nikki «Eurovision»u qazandı və növbəti müsabiqə Bakıya gəldi. Onun üçün yeni zal lazım idi. Tikinti 2011-ci ilin avqustunda başladı və 2012-ci ilin aprelində bitdi. Zalı Bayraq meydanının yanında, dənizin sahilində tikdilər. Burada 12 000 oturacaq var, amma ayaq üstə 27 000 nəfər yerləşə bilir. «Eurovision»dan sonra burada dünya ulduzlarının konsertləri, Avropa Oyunlarının yarışları və UFC döyüşləri keçirilib.\n\n📩 Kristal Zalda konsertə getməyi hələ də «gələn dəfə» deyib təxirə salan dostuna göndər 😄\n\n👉 Hər gün 13:00-da Azərbaycan haqqında bilmədiyin bir fakt — izlə ki, qaçırmayasan\n\nFoto: Patriot Kor / Wikimedia Commons (CC BY-SA 4.0)\n\n#bilirdinizmi #maraqlıfaktlar #bakı #kristalzal #azərbaycan",
+   "first_comment": "Sən Kristal Zalda hansı konsertə və ya yarışa getmisən? 👇",
+   "quizzes": [
+    {
+     "q": "Bakı Kristal Zalı hansı müsabiqə üçün tikildi?",
+     "options": [
+      "«Eurovision 2012»",
+      "Avropa Oyunları 2015",
+      "Dünya Kuboku"
+     ],
+     "answer": "«Eurovision 2012»",
+     "why": "2011-ci ildə Ell və Nikki qalib gəldi."
+    },
+    {
+     "q": "Kristal Zal təxminən neçə ayda tikildi?",
+     "options": [
+      "8",
+      "18",
+      "28"
+     ],
+     "answer": "8",
+     "why": "Avqust 2011 – aprel 2012."
+    },
+    {
+     "q": "Kristal Zal ayaq üstə ən çox neçə nəfər tuta bilir?",
+     "options": [
+      "12 000",
+      "27 000",
+      "50 000"
+     ],
+     "answer": "27 000",
+     "why": "Oturacaq isə 12 000-dir."
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Baku_Crystal_Hall",
+    "https://reuters.screenocean.com/record/218177",
+    "https://constructalia.arcelormittal.com/en/case_study_gallery/azerbaijan/construction_of_crystal_hall_baku_in_record_time_thanks_to_arcelormittals_solutions",
+    "https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2012"
+   ],
+   "verify_note": "Aug 2011 start / Apr 2012 finish: Wikipedia (2 Aug 2011 contract, completed 16 Apr 2012) + Reuters Screenocean title (completion) + ArcelorMittal 'record time'. 12 000 seats / 27 000 total: Wikipedia only (a 2011 announcement said 25 000) -> 'ayaq üstə 27 000-ə qədər'. Next to the flag square: Wikipedia + photos. Ell & Nikki 2011 win: Wikipedia ESC 2012 + widely known. Locals know this place well: no claims beyond these.",
+   "photo": {
+    "path": "fetch/img/2026-11-08_1_crystal_flag.jpg",
+    "credit": "Patriot Kor / Wikimedia Commons (CC BY-SA 4.0)",
+    "cy": 0.62,
+    "cx": 0.2,
+    "full": false,
+    "source": "https://commons.wikimedia.org/wiki/File:Baku_Crystal_Hall_and_Square_of_State_Flag_in_Baku_(2012).jpg",
+    "note": "landscape 1280x960 (2012): Crystal Hall on the left seen from the bay, flag square on the right; hall is small in the frame -> use full:false (whole photo) or cx 0.2 crop. Checked: no watermark. Spare: fetch/img/2026-11-08_1_crystal_mar.jpg (25 Mar 2012, under construction, Frode H. Korneliussen, CC BY-SA 4.0). Commons has no better exterior; Unsplash none."
+   }
+  },
+  {
+   "n": 2,
+   "type": "reel",
+   "cat": "Kosmos",
+   "voiced": false,
+   "motion": true,
+   "subject": "PSR J1748-2446ad, fastest-spinning known pulsar: 716 revolutions per second (716 Hz), beating the 1982 record of 642 Hz; in the globular cluster Terzan 5, about 28 000 light-years away in Sagittarius; 'twice as fast as the average kitchen blender'; 'a teaspoon of neutron star matter is thought to weigh billions of tons' (McGill newsroom, Science paper Jan 2006; phys.org 2006 'Astronomers discover fastest-spinning pulsar'). Neutron stars ~20 km across with ~half a million Earths of mass (Astronomy magazine field guide). Not used: McGill '20-mile diameter' (inconsistent).",
+   "photo_request": "neutron star artist's concept (NASA, PD)",
+   "title": "Saniyədə 716 dəfə fırlanan ulduz",
+   "text": "Yerdən 28 000 işıq ili uzaqda bir neytron ulduzu hər saniyədə 716 dəfə fırlanır. Onun eni cəmi 20 km-ə yaxındır.",
+   "reel_hook": "SANİYƏDƏ 716 DƏFƏ FIRLANAN ULDUZ",
+   "reel_beats": [
+    "Yerdən təxminən 28 000 işıq ili uzaqda bir neytron ulduzu var. O, hər saniyədə 716 dəfə fırlanır: adi mətbəx blenderindən iki dəfə sürətli.",
+    "Neytron ulduzu partlayan nəhəng ulduzdan qalan nüvədir. Eni cəmi 20 kilometrə yaxındır, amma çəkisi yarım milyon Yer kürəsi qədərdir.",
+    "Onun maddəsi o qədər sıxdır ki, bir çay qaşığı milyardlarla ton çəkər. Səncə, kosmosda bundan da qəribə nə var?"
+   ],
+   "cta": "Hər gün yeni fakt — izlə!",
+   "caption": "Bu ulduz hər saniyədə 716 dəfə fırlanır 🌀\n\nYerdən təxminən 28 000 işıq ili uzaqda, Oxatan bürcündəki ulduz topasında bir neytron ulduzu var. Alimlər onu 2006-cı ildə tapıblar: o, saniyədə 716 dəfə fırlanır — adi mətbəx blenderindən iki dəfə sürətli. Neytron ulduzu partlayan nəhəng ulduzdan qalan nüvədir. Eni cəmi 20 km-ə yaxındır, amma kütləsi yarım milyon Yer kürəsi qədərdir. Bir çay qaşığı maddəsi milyardlarla ton çəkər.\n\n📩 Səhərlər yerindən tərpənə bilməyən dostuna göndər — bu ulduz saniyədə 716 dəfə fırlanır 😄\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: NASA / Pablo Garcia (rəssam təsviri)\n\n#bilirdinizmi #maraqlıfaktlar #kosmos #ulduz #elm",
+   "first_comment": "Səncə, kosmosda bundan da qəribə nə var? 👇",
+   "quizzes": [
+    {
+     "q": "Ən sürətli neytron ulduzu saniyədə neçə dəfə fırlanır?",
+     "options": [
+      "71",
+      "716",
+      "7 160"
+     ],
+     "answer": "716",
+     "why": "Blenderdən iki dəfə sürətli."
+    },
+    {
+     "q": "Neytron ulduzunun eni təxminən nə qədərdir?",
+     "options": [
+      "20 km",
+      "2 000 km",
+      "200 000 km"
+     ],
+     "answer": "20 km",
+     "why": "Amma yarım milyon Yer qədər ağırdır."
+    },
+    {
+     "q": "Bu ulduz Yerdən təxminən neçə işıq ili uzaqdadır?",
+     "options": [
+      "28",
+      "2 800",
+      "28 000"
+     ],
+     "answer": "28 000",
+     "why": "Oxatan bürcündə."
+    }
+   ],
+   "sources": [
+    "https://mcgill.ca/newsroom/node/14444",
+    "https://phys.org/news/2006-01-astronomers-fastest-spinning-pulsar.html",
+    "https://www.astronomy.com/science/fantastic-stars-a-field-guide/"
+   ],
+   "verify_note": "716/s, 28 000 ly, Terzan 5/Sagittarius, blender, teaspoon = billions of tons: McGill; 716 + discovery 2006: phys.org headline. 20 km + half a million Earths: Astronomy magazine. 'tapıblar 2006' = Science paper Jan 2006 (McGill/phys.org).",
+   "photo": {
+    "path": "fetch/img/2026-11-08_2_nstar_magnetar.jpg",
+    "credit": "NASA / Pablo Garcia (təsvir)",
+    "cy": 0.5,
+    "cx": 0.5,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Artist%E2%80%99s_concept_of_magnetar_1E_1547.0-5408.png",
+    "note": "PD NASA artist's concept, 1280x1097, glowing neutron star with beams + field lines. Small 'Artist's Concept' label in the TOP-LEFT corner: keep cx >= 0.5 so the 9:16 crop drops it (check frame 0). Spares: fetch/img/2026-11-08_2_nstar_nasa.jpg (NASA, landscape, no text), 2026-11-08_2_nstar_quake.jpg (NASA)."
+   }
+  },
+  {
+   "n": 3,
+   "type": "reel",
+   "cat": "Coğrafiya",
+   "voiced": false,
+   "subject": "Chimborazo (Ecuador): summit 6 384.4 km from Earth's centre, 2.1 km farther than Everest's (6 382.3 km) (Wikipedia); Guinness: ~6 384 km, 'more than 2 kilometres' farther than Everest. Height above sea level 6 263 m (Wikipedia; Guinness 6 270 m) vs Everest 8 849 m. Reason: Earth is an oblate spheroid, thicker at the Equator; Chimborazo is ~1 degree south of the Equator (Wikipedia; Guinness '158 km south of the equator').",
+   "photo_request": "Chimborazo volcano (Unsplash)",
+   "title": "Kosmosa Everestdən 2 km yaxın dağ",
+   "text": "Ekvadordakı Çimboraso Everestdən 2 600 metr alçaqdır. Amma onun zirvəsi Yerin mərkəzindən 2 km-dən çox uzaqdadır.",
+   "reel_hook": "2 KM: KOSMOSA EVERESTDƏN YAXIN DAĞ",
+   "reel_beats": [
+    "Dəniz səviyyəsindən ən hündür dağ Everestdir: 8 849 metr. Amma kosmosa ən yaxın zirvə onun deyil, Ekvadordakı Çimboraso vulkanınındır.",
+    "Səbəb Yerin formasıdır. Planetimiz tam kürə deyil: ekvatorda bir az şişkindir. Çimboraso isə ekvatora çox yaxındır, ondan cəmi 1 dərəcə cənubda.",
+    "Ona görə Çimborasonun zirvəsi Yerin mərkəzindən Everestdən 2 km-dən çox uzaqdır, halbuki özü 6 263 metrdir. Səncə, hansı daha «hündürdür»?"
+   ],
+   "cta": "Hər gün yeni fakt — izlə!",
+   "caption": "Kosmosa ən yaxın dağ Everest deyil 🏔️\n\nDəniz səviyyəsindən ən hündür dağ Everestdir: 8 849 metr. Ekvadordakı Çimboraso vulkanı isə cəmi 6 263 metrdir. Amma Yer tam kürə deyil, ekvatorda bir az şişkindir. Çimboraso ekvatora çox yaxın, ondan təxminən 1 dərəcə cənubda yerləşir. Ona görə onun zirvəsi Yerin mərkəzindən təxminən 6 384 km uzaqdadır — Everestin zirvəsindən 2 km-dən çox uzaq. Ginnes Rekordlar Kitabı da bunu rekord kimi qeyd edir.\n\n📩 «Mən səndən hündürəm» deyən dostuna göndər — hər şey haradan ölçməyindən asılıdır 😄\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Jorge Orozco / Unsplash\n\n#bilirdinizmi #maraqlıfaktlar #everest #dağ #coğrafiya",
+   "first_comment": "Səncə, hansı daha «hündürdür»: Everest, yoxsa Çimboraso? 👇",
+   "quizzes": [
+    {
+     "q": "Çimboraso vulkanı hansı ölkədədir?",
+     "options": [
+      "Ekvador",
+      "Nepal",
+      "Çili"
+     ],
+     "answer": "Ekvador",
+     "why": "Ekvatordan təxminən 1 dərəcə cənubda."
+    },
+    {
+     "q": "Çimborasonun zirvəsi Yerin mərkəzindən Everestdən nə qədər uzaqdır?",
+     "options": [
+      "2 km-dən çox",
+      "20 metr",
+      "200 km"
+     ],
+     "answer": "2 km-dən çox",
+     "why": "Yer ekvatorda şişkindir."
+    },
+    {
+     "q": "Niyə Çimborasonun zirvəsi mərkəzdən daha uzaqdır?",
+     "options": [
+      "Yer ekvatorda şişkindir",
+      "Vulkan hər il böyüyür",
+      "Orada dəniz səviyyəsi aşağıdır"
+     ],
+     "answer": "Yer ekvatorda şişkindir",
+     "why": "Planet tam kürə deyil."
+    }
+   ],
+   "sources": [
+    "https://www.guinnessworldrecords.com/world-records/66663-mountain-with-peak-farthest-from-earths-centre",
+    "https://en.wikipedia.org/wiki/Chimborazo"
+   ],
+   "verify_note": "6 384 km and >2 km farther than Everest: Guinness + Wikipedia (2.1 km). Height 6 263 m: Wikipedia (Guinness 6 270) -> use 6 263 and 'təxminən' in text where needed. Everest 8 849 m: Wikipedia. Reason + 1 degree south: Wikipedia; Guinness 158 km south of equator. Title text '2 600 metr alçaqdır' = 8 849 - 6 263 = 2 586 (own arithmetic, rounded).",
+   "photo": {
+    "path": "fetch/img/2026-11-08_3_chimborazo_b.jpg",
+    "credit": "Jorge Orozco / Unsplash",
+    "cy": 0.45,
+    "cx": 0.5,
+    "full": false,
+    "source": "https://unsplash.com/photos/1fM_hvPSf0U",
+    "note": "landscape 1600x1200, description 'Chimborazo Volcano from Bolívar Ecuador'; snowy massif with fields in front; checked, no text/watermark. Spare (portrait, aerial, described as Chimborazo by Mateo Coello): fetch/img/2026-11-08_3_chimborazo.jpg (https://unsplash.com/photos/XZ9jRieeORI)."
+   }
+  },
+  {
+   "n": 4,
+   "type": "reel",
+   "cat": "Məşhur insanlar",
+   "voiced": true,
+   "subject": "Jensen Huang (NVIDIA co-founder and CEO): got his first job at Denny's in Portland at 15: 'I was a dishwasher, I was a busboy, I waited tables' (NVIDIA blog 26 Sep 2023; Fortune; NextShark; CNBC/NBC). In 1993 Huang, Chris Malachowsky and Curtis Priem met at a Denny's in Silicon Valley (East San Jose per NBC/CNBC) to discuss creating a chip -> NVIDIA (NVIDIA blog). Quote: 'Denny's has taught me so many lessons' (NVIDIA blog). Denny's unveiled a plaque at that Denny's in 2023 (NVIDIA blog; NBC/CNBC 'started his $2 trillion company at a Denny's breakfast booth'). NVIDIA = one of the world's most valuable companies (multi-trillion market value, Fortune '$2.9 trillion', 2024-26) -> keep wording general because AI stocks are volatile this week.",
+   "photo_request": "Jensen Huang portrait (Commons CC BY 4.0)",
+   "title": "15 yaşında qab yuyurdu, sonra NVIDIA-nı qurdu",
+   "text": "Censen Huanq 15 yaşında restoranda qab yuyurdu. 1993-cü ildə elə belə bir restoranda dostları ilə NVIDIA-nın ideyasını danışdı.",
+   "reel_hook": "15 YAŞINDA QAB YUYURDU, SONRA NVIDIA-NI QURDU",
+   "reel_beats": [
+    "Censen Huanq 15 yaşında ABŞ-da «Denny's» restoranında işə girdi. Qab yudu, masaları yığdı, sonra ofisiant oldu.",
+    "1993-cü ildə o, iki dostu ilə yenə bir «Denny's»də oturdu. Elə orada yeni bir çip şirkəti qurmaq barədə danışdılar. Bu şirkət NVIDIA oldu.",
+    "Bu gün NVIDIA dünyanın ən dəyərli şirkətlərindən biridir. Restoran isə həmin masanın yanına xatirə lövhəsi vurub. Sən ilk pulunu hansı işdə qazanmısan?"
+   ],
+   "voice_texts": [
+    "On beş yaşında qab yuyurdu, sonra NVIDIA-nı qurdu.",
+    "Censen Huanq on beş yaşında Amerikada Denis restoranında işə girdi. Qab yudu, masaları yığdı, sonra ofisiant oldu.",
+    "Min doqquz yüz doxsan üçüncü ildə o, iki dostu ilə yenə bir Denis restoranında oturdu. Elə orada yeni bir çip şirkəti qurmaq barədə danışdılar. Bu şirkət NVIDIA oldu.",
+    "Bu gün NVIDIA dünyanın ən dəyərli şirkətlərindən biridir. Restoran isə həmin masanın yanına xatirə lövhəsi vurub. Sən ilk pulunu hansı işdə qazanmısan?"
+   ],
+   "cta": "Hər gün yeni fakt — izlə!",
+   "caption": "15 yaşında qab yuyan oğlan sonra NVIDIA-nı qurdu 🍽️\n\nCensen Huanq ilk işinə 15 yaşında, ABŞ-ın Portlend şəhərində «Denny's» restoranında başladı. Özü deyir: «Qab yudum, masa yığdım, ofisiantlıq etdim». 1993-cü ildə o, iki dostu — Kris Malakovski və Kertis Priem ilə yenə bir «Denny's»də oturdu və yeni çip şirkəti qurmaq barədə danışdı. Bu şirkət NVIDIA oldu. Bu gün telefonlardan tutmuş süni intellektə qədər çox şey onun çiplərindən istifadə edir. 2023-cü ildə restoran həmin masanın yanına xatirə lövhəsi vurdu.\n\n📩 «Mənim işim heç nəyə yaramır» deyən dostuna göndər — Huanq da qab yuyurdu 😄\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Peter Dasilva / Wikimedia Commons (CC BY 4.0)\n\n#bilirdinizmi #maraqlıfaktlar #nvidia #uğur #texnologiya",
+   "first_comment": "Sən ilk pulunu hansı işdə qazanmısan? 👇",
+   "quizzes": [
+    {
+     "q": "Censen Huanq neçə yaşında restoranda işə başladı?",
+     "options": [
+      "12",
+      "15",
+      "19"
+     ],
+     "answer": "15",
+     "why": "Portlenddə, «Denny's»də."
+    },
+    {
+     "q": "NVIDIA-nın ideyası harada danışıldı?",
+     "options": [
+      "Restoranda",
+      "Universitetdə",
+      "Qarajda"
+     ],
+     "answer": "Restoranda",
+     "why": "1993-cü ildə «Denny's»də."
+    },
+    {
+     "q": "Huanq dostları ilə neçənci ildə NVIDIA barədə danışdı?",
+     "options": [
+      "1983",
+      "1993",
+      "2003"
+     ],
+     "answer": "1993",
+     "why": "Üç dost bir masada oturdu."
+    }
+   ],
+   "sources": [
+    "https://blogs.nvidia.com/blog/nvidia-dennys-trillion/",
+    "https://fortune.com/article/how-nvidias-billionaire-ceo-went-from-dennys-dishwasher-to-leading-a-company-with-a-2-9-trillion-market-cap/",
+    "https://www.nbcmiami.com/news/business/money-report/jensen-huang-started-his-2-trillion-company-nvidia-at-a-dennys-breakfast-booth/3302554"
+   ],
+   "verify_note": "Age 15, Portland, dishwasher/busboy/waiter quote: NVIDIA blog + Fortune/NextShark/NBC headlines. 1993 Denny's meeting + 3 founders: NVIDIA blog; NBC/CNBC 'started ... at a Denny's breakfast booth'. Plaque 2023: NVIDIA blog (unveiled; wording not quoted -> we say only 'xatirə lövhəsi'). 'Ən dəyərli şirkətlərindən biri': Fortune $2.9 tn + widely reported; kept vague (no ranking) due to this week's AI sell-off. Voice text says 'Denis' so Banu pronounces Denny's naturally.",
+   "photo": {
+    "path": "fetch/img/2026-11-08_4_huang.jpg",
+    "credit": "Peter Dasilva / Wikimedia Commons (CC BY 4.0)",
+    "cy": 0.4,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Jensen_Huang_(cropped)_(2024).jpg",
+    "note": "portrait 1129x1678, face centred, leather jacket; checked: no watermark/text. Spare: fetch/img/2026-11-08_4_huang_b.jpg (Stanford 2026, Anderseidesvik, CC BY-SA 4.0) — look before use."
+   }
+  }
+ ]
+}

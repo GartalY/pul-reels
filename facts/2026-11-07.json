@@ -445,5 +445,78 @@
   "voice": "Banu +15% on reels 1 and 4 (AI labels on IG/TikTok/YouTube); reels 2 and 3 silent"
  },
  "reposts": "7 Nov YouTube only: 11:00 Danyang-Kunshan 165 km bridge (out/2026-11-04/3_reel.mp4) and 19:45 Burj Khalifa 244 m vanity height (out/2026-11-03/3_reel.mp4). Both are UNAIRED 18:30 backups (swapped out by trends, never on any channel) because the IG repost stock was empty. Left unaired: Iceland mosquitoes (28 Oct), Pando, Kola (30 Oct, no mp4), Son Doong (31 Oct), Hyperion (1 Nov), Akashi (2 Nov). Sunday review should decide the repost source.",
- "scheduled_check": "getScheduledPosts 7 Nov before scheduling: 0 posts. After: 18 posts (IG 10 incl. 5 stories, TikTok 2, YouTube 6), each network/time exactly once. No trend written (09:10/15:23 tasks handle the swap)."
+ "scheduled_check": "getScheduledPosts 7 Nov before scheduling: 0 posts. After: 18 posts (IG 10 incl. 5 stories, TikTok 2, YouTube 6), each network/time exactly once. No trend written (09:10/15:23 tasks handle the swap).",
+ "trend": {
+  "n": "T",
+  "type": "reel",
+  "format": "v4",
+  "cat": "Texnologiya",
+  "voiced": false,
+  "subject": "Bitcoin fell below $75,000 on 6 Nov 2026, intraday low $74,762 (Bitcoin.com, 6 Nov 11:50 EST) / $74,780.91 (Coin-Turk citing Decrypt), 'lowest level since Aug. 21'; Yahoo/CryptoProwl weekly wrap: 'trading sideways at $75,000 ... lowest level since late August'. Context: US stocks fell on 5 Nov on AI-spending worries (Nasdaq -5.5%, Dow -1,800+ pts per Yahoo/CryptoProwl; Nasdaq -5.5%, S&P -4.3% per CoinDesk via Coin-Turk); ~$1.05 bn crypto liquidations in 24 h (Decrypt via Coin-Turk); BTC ETF outflows $430 m on 5 Nov (Yahoo). Evergreen angle: Bitcoin Pizza Day, 22 May 2010, Laszlo Hanyecz paid 10,000 BTC for two Papa John's pizzas delivered to his Florida home, worth about $41 then (Fortune/AP 22 May 2025; MoonPay; Bitcoin Magazine). 10,000 x $75,000 = $750 million (own arithmetic). Offer posted 18 May 2010 (Fortune/AP). Not used: seller name/age (not confirmed), ATH figures.",
+  "photo_request": "pizza in a delivery box (Unsplash)",
+  "title": "2 pitsa = 750 milyon dollar",
+  "text": "2010-cu ildə bir proqramçı 2 pitsa üçün 10 000 bitkoin ödədi. Bitkoin bu həftə 75 000 dollara qədər düşsə də, o pitsalar indi təxminən 750 milyon dollar edir.",
+  "reel_hook": "2 PİTSA = 750 MİLYON DOLLAR",
+  "reel_beats": [
+   "2010-cu il mayın 22-də proqramçı Laslo Hanyets evinə 2 pitsa sifariş etdi. Pulunu isə 10 000 bitkoinlə ödədi. O vaxt bu, təxminən 41 dollar idi.",
+   "Bu, bitkoinlə edilən ilk məşhur alış sayılır. Ona görə mayın 22-sini indi «Bitkoin pitsa günü» adlandırırlar.",
+   "Bu həftə bitkoin 75 000 dollara qədər düşdü, avqustdan bəri ən aşağı səviyyəyə. Amma o 2 pitsa yenə də təxminən 750 milyon dollar edir. Səncə, Laslo peşmandır?"
+  ],
+  "cta": "Hər gün yeni fakt — izlə!",
+  "caption": "2 pitsa üçün ödənən pul indi təxminən 750 milyon dollar edir 🍕\n\nBu həftə bitkoinin qiyməti 75 000 dollara qədər düşdü: avqustdan bəri ən aşağı səviyyə. Səbəb kimi ABŞ birjalarındakı böyük enişi və süni intellekt şirkətləri ilə bağlı narahatlığı göstərirlər.\n\nAmma bitkoinin ən məşhur hekayəsi 2010-cu ilə gedir. Mayın 22-də proqramçı Laslo Hanyets evinə 2 pitsa sifariş etdi və pulunu 10 000 bitkoinlə ödədi. O vaxt bu, cəmi 41 dollar idi. Bu gün həmin 10 000 bitkoin təxminən 750 milyon dollar edir — hətta qiymət düşəndən sonra da.\n\nBu, maliyyə məsləhəti deyil, sadəcə tarixdir 🙂\n\n📩 Hər şeyi «sonra alaram» deyib təxirə salan dostuna göndər 😄\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Jordon Kaplan / Unsplash\n\n#bilirdinizmi #maraqlıfaktlar #bitkoin #pitsa #texnologiya",
+  "first_comment": "Səncə, Laslo peşmandır? 👇",
+  "quizzes": [
+   {
+    "q": "Laslo Hanyets 2 pitsa üçün neçə bitkoin ödədi?",
+    "options": [
+     "100",
+     "1 000",
+     "10 000"
+    ],
+    "answer": "10 000",
+    "why": "2010-cu il mayın 22-də."
+   },
+   {
+    "q": "2010-cu ildə o bitkoinlər təxminən neçə dollar idi?",
+    "options": [
+     "41",
+     "410",
+     "4 100"
+    ],
+    "answer": "41",
+    "why": "İki pitsanın qiyməti qədər."
+   },
+   {
+    "q": "«Bitkoin pitsa günü» hansı gündür?",
+    "options": [
+     "22 may",
+     "1 aprel",
+     "31 dekabr"
+    ],
+    "answer": "22 may",
+    "why": "2010-cu ildəki alışın günü."
+   }
+  ],
+  "sources": [
+   "https://news.bitcoin.com/market-updates/bitcoin-price-falls-75k-first-time-august-tech-sell-off-deepens/",
+   "https://en.coin-turk.com/crypto-liquidations-hit-1-billion-as-bitcoin-briefly-slips-below-75000/",
+   "https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-falls-u-225000991.html",
+   "https://fortune.com/article/pizza-bitcoin-day-story-laszlo-hanyecz-papa-johns-pizzas-value",
+   "https://www.moonpay.com/learn/cryptocurrency/bitcoin-pizza-day",
+   "https://bitcoinmagazine.com/news/bitcoin-pizza-day"
+  ],
+  "verify_note": "Price below $75k / lowest since August: 3 outlets (Bitcoin.com, Coin-Turk/Decrypt, Yahoo/CryptoProwl), all 6 Nov. Re-check price at 15:23 build: if BTC moved far from ~$75k, change '750 milyon' to 10 000 x current price and the beat-3 wording. Pizza: date, 10 000 BTC, 2 pizzas, ~$41: Fortune/AP; 10 000 BTC + 22 May also MoonPay/Bitcoin Magazine headings/search. Neutral: no advice, 'not financial advice' line in caption. Trend-jacking angle = evergreen story pegged to this week's drop.",
+  "photo": {
+   "path": "fetch/img/2026-11-07_T_pizza_box.jpg",
+   "credit": "Jordon Kaplan / Unsplash",
+   "cy": 0.55,
+   "full": true,
+   "source": "https://unsplash.com/photos/tVQwwfyE5Lc",
+   "note": "portrait 1600x2133, pepperoni pizza in a cardboard delivery box, alt text 'pizza on brown cardboard box'; checked, no text/logo/watermark. Spare: 2026-11-07_T_pizza_pep.jpg (Peter Bravo de los Rios / Unsplash)."
+  }
+ },
+ "trend_pick": {
+  "when": "2026-11-07 09:10-10:00 Baku",
+  "why": "Big-news check: AA/Euronews/Yahoo/Newsylist 6 Nov. Top stories = US post-midterm politics (already 2 trend reels this week), US stock/AI sell-off + Bitcoin below $75k (first time since August), Pope's trip (religion, skip), Europa League MD4 (no Azerbaijani/Turkish hook; Qarabağ not in the EL this season per UEFA list; Galatasaray-Stuttgart was 3 Nov). Picked Bitcoin: young AZ audience follows crypto, number-first evergreen angle (pizza 10 000 BTC). No immediate section-T swap needed (no AZ-wide breaking event; 8 Nov Victory Day = off-limits topic)."
+ }
 }

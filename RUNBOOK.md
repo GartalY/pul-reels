@@ -558,6 +558,10 @@ small data-backed changes here; recommend bigger ones (times, volume, format mix
 - Future test (Gartal's idea): HeyGen digital-twin reels in his voice — free-plan test first, label as AI.
 
 ## Rules
+- GARTAL'S OBSERVATIONS 2026-11-07 (test these in the Sunday 8 Nov review): (a) each platform x brand has its own
+  audience; (b) bilirdinizmi IG: Azerbaijan-themed posts get most views and bring the followers; (c) Whyverse:
+  Shorts CUT from the long episode get almost no views, while the STANDALONE 1-minute animations (e.g. NASA Swift,
+  5 Nov) get lots of views on YouTube Shorts.
 - SUNDAY 8 NOV REVIEW TASK (Gartal 2026-11-04): write a PER-PLATFORM plan (IG / TikTok / YouTube) — same core video,
   but per-platform topic weighting, hook/caption/title, times and volume. Trigger: Maiden Tower reel hit on IG
   (~1,600 views, +6–7 follows, IG 61 followers on 4 Nov, Gartal's count).

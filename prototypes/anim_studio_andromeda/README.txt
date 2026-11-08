@@ -1,0 +1,1 @@
+Andromeda 2.5 Mly motion reel (16:00, 9 Nov 2026). Scaffold with animation-studio new-project.js --format 9:16, copy film.js/score.js/song.js, assets/gal.jpg = fetch/img/2026-11-09_2_andromeda2.jpg crop (420,76,1680,1336) with a radial fade to black, + InterDisplay Black/Bold/SemiBold otf; then node song.js && node engine/render.js video && node engine/render.js mux

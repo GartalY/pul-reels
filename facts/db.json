@@ -2342,7 +2342,12 @@
      "why": "Onları yalnız mikroskopla yaxşı görmək olur."
     }
    ],
-   "asked": []
+   "asked": [
+    {
+     "date": "2026-11-09",
+     "qi": 0
+    }
+   ]
   },
   {
    "id": "2026-10-29-3",
@@ -4123,6 +4128,167 @@
      ],
      "answer": "1993",
      "why": "Üç dost bir masada oturdu."
+    }
+   ],
+   "asked": []
+  },
+  {
+   "id": "2026-11-09-1",
+   "date": "2026-11-09",
+   "subject": "Xınalıq (Khinalig), Quba district: 2 200 m above sea level, 'one of the highest settlements in Europe', 60 km from Quba (khinalig.heritage.org.az/about; azerbaijan.travel 'nearly 2,200 meters'). 'Cultural Landscape of Khinalig and Köç Yolu Transhumance Route' inscribed on the UNESCO World Heritage List 18 Sep 2023 (45th extended session, Riyadh) (azerbaijan.travel press release 30 Sep 2023; whc.unesco.org/en/list/1696). Route 200 km, from Khinalig to the Absheron and Hajiqabul plains; ~7 000 people and 400 000 sheep from nearby settlements use it; twice a year, spring and autumn (khinalig.heritage.org.az/migration; azerbaijan.travel). Not used: own language/speaker count (not read on an official page), duration (page says 2 weeks and 1 month), altitude 2 350 (other sources).",
+   "cat": "Azərbaycan",
+   "quizzes": [
+    {
+     "q": "Köç yolunun uzunluğu təxminən nə qədərdir?",
+     "options": [
+      "20 km",
+      "200 km",
+      "2 000 km"
+     ],
+     "answer": "200 km",
+     "why": "Xınalıqdan Abşeron və Hacıqabul düzənliklərinə."
+    },
+    {
+     "q": "Bu yolla hər il təxminən neçə qoyun gedir?",
+     "options": [
+      "4 000",
+      "40 000",
+      "400 000"
+     ],
+     "answer": "400 000",
+     "why": "Təxminən 7 000 nəfərlə birlikdə."
+    },
+    {
+     "q": "UNESCO Köç yolunu hansı ildə siyahıya saldı?",
+     "options": [
+      "2003",
+      "2013",
+      "2023"
+     ],
+     "answer": "2023",
+     "why": "Dünya İrsi siyahısına."
+    }
+   ],
+   "asked": [
+    {
+     "date": "2026-11-09",
+     "qi": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-11-09-2",
+   "date": "2026-11-09",
+   "subject": "Andromeda galaxy (M31): about 2.5 million light-years away (Space.com; EarthSky; NASA) -> the light we see left it ~2.5 million years ago (definition of light-year). Roughly one trillion stars (EarthSky 23 Sep 2026). Visible to the naked eye in dark, moonless skies (Space.com; EarthSky); 'the most distant thing we humans can comfortably see with the unaided eye' (EarthSky; Triangulum 2.7 Mly is harder). Appears larger than the full Moon (EarthSky). ~260 000 ly wide per NASA (Space.com). Not used: collision (newer studies ~50 %).",
+   "cat": "Kosmos",
+   "quizzes": [
+    {
+     "q": "Andromeda bizdən təxminən neçə işıq ili uzaqdadır?",
+     "options": [
+      "2 500",
+      "2,5 milyon",
+      "2,5 milyard"
+     ],
+     "answer": "2,5 milyon",
+     "why": "İşığı 2,5 milyon il yol gəlir."
+    },
+    {
+     "q": "Andromedada təxminən neçə ulduz var?",
+     "options": [
+      "1 milyon",
+      "1 milyard",
+      "1 trilyon"
+     ],
+     "answer": "1 trilyon",
+     "why": "Süd Yolundan da böyükdür."
+    },
+    {
+     "q": "Andromedanı adi gözlə görmək üçün nə lazımdır?",
+     "options": [
+      "Qaranlıq gecə",
+      "Günorta",
+      "Dolu Ay"
+     ],
+     "answer": "Qaranlıq gecə",
+     "why": "Aysız, işıqsız yerdə."
+    }
+   ],
+   "asked": []
+  },
+  {
+   "id": "2026-11-09-3",
+   "date": "2026-11-09",
+   "subject": "Mponeng gold mine, South Africa: Guinness 'Deepest mine', 4 km; operating depth 3.9 km by 2012, later below 4 km; rock walls up to 60 °C, humidity >95 %; more than 6 000 t of ice slurry pumped underground + giant fans; ~6 400 t of rock excavated daily (Guinness). Gizmodo 2013: 'a 2.5-mile hole', rock 'as hot as 140 °F', '6,000 tons of ice a day', '4,000 workers descend' every day. Not used: owner (changed 2020), total descent time.",
+   "cat": "Coğrafiya",
+   "quizzes": [
+    {
+     "q": "Mponeng mədəninin dərinliyi təxminən nə qədərdir?",
+     "options": [
+      "400 metr",
+      "4 km",
+      "40 km"
+     ],
+     "answer": "4 km",
+     "why": "Dünyanın ən dərin mədənidir."
+    },
+    {
+     "q": "Mədəndə qaya divarları neçə dərəcəyə qədər qızır?",
+     "options": [
+      "30",
+      "60",
+      "120"
+     ],
+     "answer": "60",
+     "why": "Rütubət də 95 faizdən çoxdur."
+    },
+    {
+     "q": "Mədəni nə ilə sərinləşdirirlər?",
+     "options": [
+      "Dəniz suyu ilə",
+      "Buz qarışığı ilə",
+      "Qarla"
+     ],
+     "answer": "Buz qarışığı ilə",
+     "why": "Gündə 6 000 ton."
+    }
+   ],
+   "asked": []
+  },
+  {
+   "id": "2026-11-09-4",
+   "date": "2026-11-09",
+   "subject": "Garry Kasparov, born 13 Apr 1963 in Baku (Britannica). 1984-85 World Championship vs Karpov: first to six wins, began 10 Sep 1984, ran 48 games, aborted without a winner by FIDE president Campomanes (ChessBase 2020). 1985 rematch, 24 games, Tchaikovsky Concert Hall, Moscow; Kasparov won the 24th and final game on 9 Nov 1985 -> 13-11 (ChessBase; Chess.com; Britannica '13–11'), 'at the age of 22 he became the youngest World Champion in the history of chess' (ChessBase) -> still true then; Gukesh (18, 2024) is younger now -> 'o vaxta qədər'. Kept the title 15 years (ChessBase), lost to Kramnik 2000 (Britannica). No politics.",
+   "cat": "Məşhur insanlar",
+   "quizzes": [
+    {
+     "q": "Kasparov neçə yaşında dünya çempionu oldu?",
+     "options": [
+      "18",
+      "22",
+      "27"
+     ],
+     "answer": "22",
+     "why": "1985-ci il noyabrın 9-da."
+    },
+    {
+     "q": "1984-cü ildəki matç neçə oyun çəkdi?",
+     "options": [
+      "24",
+      "36",
+      "48"
+     ],
+     "answer": "48",
+     "why": "Və qalibsiz dayandırıldı."
+    },
+    {
+     "q": "1985-ci il matçının hesabı nə oldu?",
+     "options": [
+      "12–12",
+      "13–11",
+      "16–8"
+     ],
+     "answer": "13–11",
+     "why": "Son oyunu Kasparov qazandı."
     }
    ],
    "asked": []

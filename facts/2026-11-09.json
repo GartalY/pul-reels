@@ -27,15 +27,15 @@
    },
    {
     "h": "110 metr",
-    "t": "Raketin hündürlüyü təxminən 110 metr idi — 30 mərtəbəli binadan da hündür. İnsanları Aya məhz bu raket aparacaqdı."
+    "t": "Raketin hündürlüyü təxminən 110 metr idi — 30 mərtəbəli binadan da hündür. İnsanları Aya məhz bu raket aparacaqdı."
    },
    {
     "h": "5 km",
-    "t": "Jurnalistlər 5 km aralıda idi, amma binaları titrəyirdi. Məşhur aparıcı Uolter Kronkayt efirdə «Bina titrəyir!» deyə qışqırırdı. Pəncərəni əlləri ilə saxlayırdılar."
+    "t": "Jurnalistlər 5 km aralıda idi, amma binaları titrəyirdi. Məşhur aparıcı Uolter Kronkayt efirdə «Bina titrəyir!» deyə qışqırırdı. Pəncərəni əlləri ilə saxlayırdılar."
    },
    {
     "h": "18 000 km",
-    "t": "Raket kapsulu Yerdən 18 000 km-dən çox uzağa qaldırdı. 8 saat 37 dəqiqə sonra kapsul okeana endi. 2 il keçmədən insanlar Aya getdi."
+    "t": "Raket kapsulu Yerdən 18 000 km-dən çox uzağa qaldırdı. 8 saat 37 dəqiqə sonra kapsul okeana endi. 2 il keçmədən insanlar Aya getdi."
    }
   ],
   "caption": "59 il əvvəl bu gün bir raket qalxdı və 5 km uzaqdakı bina titrədi 🚀\n\n1967-ci il noyabrın 9-da NASA ilk dəfə «Saturn V» raketini uçurdu. Raketin hündürlüyü təxminən 110 metr idi və içində insan yox idi: bu, sınaq uçuşu idi. Jurnalistlər 5 km aralıda olsalar da, binaları titrəyirdi. Aparıcı Uolter Kronkayt efirdə «Bina titrəyir!» deyirdi. Kapsul Yerdən 18 000 km-dən çox uzaqlaşdı və 8 saat 37 dəqiqə sonra okeana endi. 2 il keçmədən insanlar bu raketlə Aya getdi.\n\n📩 Hər səsdən diksinən dostuna göndər — bu raketi eşitsəydi nə edərdi? 😄\n\nFoto: NASA (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #tarixdəbugün #kosmos #nasa",
@@ -85,6 +85,15 @@
    "full": true,
    "source": "https://commons.wikimedia.org/wiki/File:Saturn_501_-_Apollo_Saturn_V_liftoff_from_Complex_39A_at_7_a_m_(KSC-67PC-0435).jpg",
    "note": "PD NASA KSC-67PC-0435, Apollo 4 liftoff 7 a.m. 9 Nov 1967, portrait 1280x1600, no watermark. 2nd photo: 2026-11-09_H_apollo4_pad.jpg (NASA s67-50531, Saturn V on the pad at night, PD)."
+  },
+  "story": {
+   "day": 9,
+   "month": 11,
+   "year": 1967,
+   "title": "Raket qalxdı, bina titrədi",
+   "text": "59 il əvvəl bu gün NASA ilk dəfə nəhəng «Saturn V» raketini uçurdu. Səs o qədər güclü idi ki, 5 km aralıdakı jurnalistlərin binası titrəyirdi.",
+   "credit": "NASA (ictimai mülkiyyət)",
+   "cy": 0.45
   }
  },
  "facts": [
@@ -154,7 +163,7 @@
    "photo": {
     "path": "fetch/img/2026-11-09_1_khinalig_g_full.jpg",
     "credit": "Aykhan Zayedzadeh / Wikimedia Commons (CC BY 4.0)",
-    "cy": 0.6,
+    "cy": 0.85,
     "cx": 0.3,
     "full": true,
     "source": "https://commons.wikimedia.org/wiki/File:X%C4%B1nal%C4%B1q_village_of_Quba_Raion,_Azerbaijan,_in_2025_(26183).jpg",
@@ -239,8 +248,8 @@
    "text": "Cənubi Afrikadakı Mponeng qızıl mədəni 4 km dərinliyə çatır. Orada qaya divarları 60 dərəcəyə qədər qızır.",
    "reel_hook": "4 KM YERİN ALTINDA: QAYA 60 °C",
    "reel_beats": [
-    "Cənubi Afrikadakı Mponeng qızıl mədəni dünyanın ən dərin mədənidir. Onun dərinliyi 4 kilometrə çatır.",
-    "Bu dərinlikdə qaya divarları 60 dərəcəyə qədər qızır. Havanın rütubəti də 95 faizdən çox ola bilər.",
+    "Cənubi Afrikadakı Mponeng qızıl mədəni dünyanın ən dərin mədənidir. Onun dərinliyi 4 kilometrə çatır.",
+    "Bu dərinlikdə qaya divarları 60 dərəcəyə qədər qızır. Havanın rütubəti də 95 faizdən çox ola bilər.",
     "Mədəni sərinləşdirmək üçün aşağıya buz qarışığı vurulur — gündə 6 000 ton. Hər gün minlərlə fəhlə bu dərinliyə enir."
    ],
    "cta": "Hər gün yeni fakt — izlə!",
@@ -366,5 +375,39 @@
    }
   }
  ],
- "photos_note": "All 5 photos found by Claude 2026-11-08 09:10 run (Unsplash + Commons via fetch job), looked at; nothing needed from Gartal."
+ "photos_note": "All 5 photos found by Claude 2026-11-08 09:10 run (Unsplash + Commons via fetch job), looked at; nothing needed from Gartal.",
+ "stories": [
+  {
+   "time": "11:00",
+   "fact_id": "2026-10-29-2",
+   "recall": true,
+   "cat": "Elm",
+   "q": "Su ayıları açıq kosmosda neçə gün qaldı?",
+   "options": [
+    "1 gün",
+    "10 gün",
+    "100 gün"
+   ],
+   "answer": "10 gün",
+   "why": "2007-ci ildə, Yer ətrafında peykin üstündə.",
+   "image": "out/2026-11-09/q1.jpg",
+   "answer_image": "out/2026-11-09/q1_a.jpg"
+  },
+  {
+   "time": "14:00",
+   "fact_id": "2026-11-09-1",
+   "recall": false,
+   "cat": "Azərbaycan",
+   "q": "Köç yolunun uzunluğu təxminən nə qədərdir?",
+   "options": [
+    "20 km",
+    "200 km",
+    "2 000 km"
+   ],
+   "answer": "200 km",
+   "why": "Xınalıqdan Abşeron və Hacıqabul düzənliklərinə.",
+   "image": "out/2026-11-09/q2.jpg",
+   "answer_image": "out/2026-11-09/q2_a.jpg"
+  }
+ ]
 }

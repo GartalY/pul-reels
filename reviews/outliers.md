@@ -92,3 +92,44 @@ Conclusions so far:
 - **Confirmed flop pattern (3): small animal/body facts**, all at 16:00. → RUNBOOK 2026-11-01 (16:00 = space/record/famous person).
 - Rags-to-riches, giant nature records: 1 each — **not enough data yet**.
 - TikTok and YouTube: **not enough data yet** for hook conclusions (flops have non-topic causes: copyright, duplicates, ~0-view distribution).
+
+## 2026-11-08 (new pieces posted 29 Oct 21:15 – 5 Nov 21:15, ≥ 72 h old)
+
+### Instagram bilirdinizmi (reel median 148.5 reach, n = 66; avg watch 4.5 s, 33 % >3 s)
+| Piece | Format | Posted (Baku) | Category | Hook type | Reach | × median | Avg watch | >3 s | Verdict |
+|---|---|---|---|---|---|---|---|---|---|
+| Qız qalası 5 m walls | photo reel, voiced | 3 Nov 13:08 | Azərbaycan | number + local AZ | 1 387 | 9.3× | 17.1 s | 64 % | OUTLIER |
+| Landau, Baku Nobel at 14 | photo reel, voiced | 4 Nov 21:33 | Azərbaycan | number + local AZ famous person | 1 339 | 9.0× | 14.7 s | 69 % | OUTLIER |
+| Tağıyev 2/2 | photo reel, voiced (two-part) | 1 Nov 13:04 | Azərbaycan | local AZ + "part 2" | 526 | 3.5× | 7.7 s | 56 % | OUTLIER |
+| Saturn rings 282 000 km / 10 m | MOTION reel | 5 Nov 16:05 | Kosmos | number + space "impossible" twist | 474 | 3.2× | 9.9 s | 51 % | OUTLIER |
+| Alov qüllələri 10 000 lights | photo reel, voiced | 4 Nov 13:06 | Azərbaycan | number + local AZ | 366 | 2.5× | 11.3 s | 57 % | OUTLIER |
+| Göygöl 887 years | photo reel, voiced | 30 Oct 13:05 | Azərbaycan | number + local AZ | 329 | 2.2× | 7.5 s | 54 % | OUTLIER |
+| Yanar dağ 3 m flames | photo reel, voiced | 5 Nov 13:06 | Azərbaycan | number + local AZ | 319 | 2.1× | 7.5 s | 57 % | OUTLIER |
+| Koum signed $19 bn deal | photo reel | 30 Oct 16:04 | Məşhur insanlar | number + rags-to-riches | 39 | 0.26× | 8.0 s | 42 % | FLOP |
+| Sun rises 16×/day | photo reel (static) | 2 Nov 16:04 | Kosmos | number + space | 49 | 0.33× | 3.9 s | 23 % | FLOP |
+| Angel Falls pilot 11 days | photo reel, voiced | 3 Nov 21:31 | Təbiət | number + story | 54 | 0.36× | 4.9 s | 30 % | FLOP |
+| Halloween $13.5 bn | photo reel (trend) | 31 Oct 18:31 | Xəbər | number + news (money) | 55 | 0.37× | 3.1 s | 24 % | FLOP |
+| Uranus 42 yrs day/night | photo reel (static) | 29 Oct 21:32 | Kosmos | number + space | 56 | 0.38× | 3.9 s | 30 % | FLOP |
+Watch (< 72 h): Io volcano MOTION 648 (58 %), Metro 1/2 1 144, Leyli 446, sunlight MOTION 205.
+
+### TikTok bilirdinizmi (median 110 views, n = 30 since 30 Oct)
+OUTLIERS: Göygöl 497 (4.5×, 24 shares) · first film in Baku repost 310 (2.8×, 27 shares) · Alov 308 (2.8×, 25) · Tağıyev 2/2 290 (2.7×, 17) · Maiden 260 (2.4×, 25) · Swift trend 221 (2.0×, 0 shares).
+FLOPS: all 15 posts of 31 Oct–1 Nov (1–8 views, every topic → distribution/volume cause, 6 posts/day) · Antonelli trend 0 · Qobustan 20 (2 Nov, last 6/day day).
+→ **Pattern confirmed (5 outliers): number + local AZ on TikTok, and only AZ videos get shared.** Since 2/day (3 Nov) no video < 86 views.
+
+### YouTube bilirdinizmi (median 264 views, n = 48, synced to 4 Nov)
+Outliers/flops split by DATE (27–31 Oct vs 1–4 Nov: median 860 → 90) → channel slowdown, not topic. Inside both periods: trend Shorts weak (5 of 7 below period median). Maiden Tower 15 views (IG hit) → Baku topics do NOT carry over to YouTube.
+
+### Whyverse (since 3 Nov)
+Only Einstein, bread/colour, Maoxian are ≥ 72 h → **not enough data yet**. Watch: Swift standalone (69 h) IG 1 834 = 10× cut median 179; TikTok Einstein 933 = 2.5× cut median 378; YouTube Shorts not synced.
+
+## Hook ranking (cumulative, Instagram, after 2026-11-08)
+| Hook type | Outliers | Flops |
+|---|---|---|
+| number + local AZ (Baku place/person/history) | **9** (Şollar, Mişon, Boulevard, Göygöl, Tağıyev 2/2, Qız qalası, Alov, Landau, Yanar dağ) | 0 on IG (Qobustan 0.93× is the weakest) |
+| number + space "impossible" twist | **3** (18 h, Neptune, Saturn MOTION) | 2 static plain space (Sun 16×, Uranus) |
+| number + rags-to-riches / news | 1 (Osimhen) | 2 (Koum, Halloween) |
+| number + giant nature record | 1 (blue whale) | 0 |
+| number + small animal/body fact | 0 | 3 |
+| surprise "first X was really Y" (no number) | 0 | 2 |
+Conclusions: (1) local AZ is the strongest hook on IG AND TikTok (≥ 2 platforms, 9 + 5 outliers). (2) Space works when it has a visual "impossible" twist and/or MOTION; static plain-space facts flop (2). (3) Rags-to-riches/news: 1 outlier vs 2 flops → not a reliable hook.

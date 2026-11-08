@@ -52,7 +52,8 @@ Why: after 18 days IG has 45 followers (~3 follows per 1 000 viewers), TikTok 1 
    Tuesday and Friday, part 2 the next day at 13:00 (Tağıyev 2/2 got 337 IG views on day 1 vs 180 for part 1; part 1
    ends with "2-ci hissə sabah 13:00-da — izlə ki, qaçırmayasan"). First pair: Fri 6 / Sat 7 Nov (Tue 3 Nov is already
    built). (b) **more Azerbaijan:** the 21:30 reel uses an Azerbaijan angle (famous Azerbaijanis, Baku places,
-   "Azerbaijan in world history") on at least 3 days a week; the 16:00 reel stays space / "wow" number.
+   "Azerbaijan in world history") on at least **5 days a week** (raised from 3 on 2026-11-08: AZ reels median reach 278 vs 139,
+   9/18 AZ reels ≥ 2× median vs 5/48 others; Landau 21:30 = 1 339); the 16:00 reel stays space / "wow" number.
 4. **MOTION (stop waiting):** Gartal loved the Moon motion test (prototypes/anim_studio_moon), so v6 does not wait for
    more feedback: from **Thu 5 Nov** the 16:00 reel is built with real motion (animation-studio skill: kinetic text,
    counters, camera moves, map/data cards) instead of the static photo template, same safe zone and length ≤ 25 s.
@@ -558,6 +559,11 @@ small data-backed changes here; recommend bigger ones (times, volume, format mix
 - Future test (Gartal's idea): HeyGen digital-twin reels in his voice — free-plan test first, label as AI.
 
 ## Rules
+- 2026-11-08 WEEKLY REVIEW (reviews/2026-11-08.md): Gartal's observations (a) + (b) CONFIRMED strongly, (c) partly (IG yes,
+  TikTok no, YouTube unverifiable). Applied: 21:30 AZ angle ≥ 5 days/week (above); 16:00 stays MOTION space/"wow" (motion 205–648
+  vs static 16:00 median 85, n = 3 → final call 15 Nov); TikTok captions of the 13:00 AZ reel end with one short Baku question
+  (e.g. "Sən oranı görmüsən?") — AZ TikToks get 4–25 shares but the account still has 1 follower. Pending Gartal: YouTube 6 → 3/day,
+  TikTok 18:30 trend → 2nd AZ video.
 - GARTAL'S OBSERVATIONS 2026-11-07 (test these in the Sunday 8 Nov review): (a) each platform x brand has its own
   audience; (b) bilirdinizmi IG: Azerbaijan-themed posts get most views and bring the followers; (c) Whyverse:
   Shorts CUT from the long episode get almost no views, while the STANDALONE 1-minute animations (e.g. NASA Swift,

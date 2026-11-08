@@ -33,3 +33,28 @@ Official sources first, then reputable industry coverage. Every claim dated and 
   and the same-day trend reel is our 2nd-best IG slot (18:30 median 171 vs 146 at 21:30 and 54 at 16:00). Keep the daily trend reel; no change needed.
 - YouTube originality: our videos are our own, so reposting them to YouTube is fine. But a DUPLICATE of the same video on our channel
   looks like a re-upload — and our only duplicate (Osimhen, 27 Oct) got 9 views vs median 799. **Applied to RUNBOOK:** one upload per video per channel.
+
+## 2026-11-08 (covers ~25 Oct – 8 Nov)
+
+### Instagram
+- **No confirmed Reels ranking change in the window.** "Features" (horizontal videos up to 90 min) remains a slow US/Brazil test —
+  Mosseri, Threads, 26 Oct ("our recent steps into longer-form video") and 27 Oct ("Features is not fully launched yet, we're testing and
+  ramping up access slowly"), via the [Keywords Everywhere tracker, updated 7 Nov](https://keywordseverywhere.com/news/instagram-algorithm-updates/).
+- Blog claim only (no official source cited): a Reels "Series" feature to group Reels by topic is in development ([SocialBee, ~3 Nov](https://socialbee.com/blog/instagram-updates/)).
+- Not product changes: UK CMA information request to Meta about the "Meta One" business subscription (~30 Oct); Meta sued California (4 Nov) over AB 1709 (no personalised feeds for under-16s from 1 Jan 2027) — tracker above.
+
+### TikTok
+- **REGULATOR, not a product change yet:** European Commission preliminary DSA findings (6 Nov) say the For You feed creates harmful
+  "rabbit holes"; it wants less reliance on viewing time, more weight on explicit user preferences and a working "not interested" control.
+  TikTok calls the findings "fundamentally inaccurate"; possible fine up to 6 % of turnover ([AP via News4JAX, 6 Nov](https://www.news4jax.com/business/2026/11/06/eu-says-rabbit-hole-video-feeds-on-tiktok-violate-its-digital-rules/)).
+  Azerbaijan is outside the EU, so no direct effect on bilirdinizmi; could matter for Whyverse's EU viewers later.
+- No TikTok ranking/creator change found in TikTok's newsroom or trade press.
+
+### YouTube
+- Blog reports, ~1–2 Nov ([SocialBee, updated 2–3 Nov](https://socialbee.com/blog/youtube-updates-news-features/), citing Social Media Today / YouTube blog):
+  Shorts can be organised into seasons/episodes; $20 (instead of $100) payout threshold test in US/India/Indonesia; "Conversational Editing" AI test for Shorts (Oct).
+- **No Shorts/long-video ranking change found.** The 1 Oct "originality" update (logged 2026-11-01) is still the latest ranking news.
+
+### Meaning for us
+- Nothing changed that explains bilirdinizmi's YouTube drop (860 → 90 views per new Short after 1 Nov); our own volume (6 uploads/day incl. reposts) is the likelier cause → recommended cut to 3/day.
+- Shorts "seasons/episodes" could suit Whyverse (group each episode's cut-downs) once available on our channel — check in YouTube Studio, no action now.

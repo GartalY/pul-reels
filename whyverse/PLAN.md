@@ -89,6 +89,11 @@ https://www.youtube.com/channel/UCTWyyqP6HJP64E7fA7QphGg
   17:00 and 23:00 Europe/London, starting the day after the long video, next free slots first
   (check getScheduledPosts so nothing doubles). Captions: hook line, 1–2 lines of context, "Full video on our
   YouTube channel: Whyverse" (+ channel link on YouTube; "link in bio" on IG/TikTok), 3–5 hashtags.
+- DATA RULES (weekly review 2026-11-08): (1) 1-minute animation topic = a "this week" news hook + ONE precise number in the
+  first line (Swift "built for 2 years, lasted 22": IG 1 834 views vs 179 median for cuts); evergreen fallback = blueprint
+  "how does X actually work?". (2) Short order from each episode: myth-bust / "no X? Y survives" / "you" hook FIRST (Einstein =
+  best TikTok 933), places/process cuts later; skip a cut whose first 2 s have no motion and no number (asphalt 43 TikTok).
+  (3) Whyverse YouTube Short numbers do not sync to Metricool yet — note YouTube Studio numbers from Gartal in FEEDBACK.md.
 - 1-MINUTE ANIMATIONS (Gartal 2026-11-03): a standalone ~60 s 9:16 animation every 4 days, on TikTok + Instagram
   Reels + YouTube Shorts (Gartal agreed to Shorts too), 20:00 Europe/London. Own topic (trend if any), own style.
 - Log every post (network, time, Metricool id, media URL) in whyverse/posts.json.

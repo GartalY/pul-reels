@@ -463,5 +463,75 @@
   "voice": "Banu +15% on reels 1 and 4 (AI labels IG/TikTok/YouTube); reels 2 and 3 silent"
  },
  "trend_check_evening": "2026-11-07 20:50: world/AZ headline searches showed no single dominant story suitable for a swap (8 Nov = Victory Day in AZ: no war/politics topics). Tomorrow's trend reel is picked by the 09:10/15:23 runs into the 18:30 slot (IG+TikTok+YouTube updated, never added).",
- "scheduled_check": "getScheduledPosts 8 Nov before scheduling: 0 posts. After: 18 posts (IG 10 incl. 5 stories, TikTok 2, YouTube 6), each network/time exactly once."
+ "scheduled_check": "getScheduledPosts 8 Nov before scheduling: 0 posts. After: 18 posts (IG 10 incl. 5 stories, TikTok 2, YouTube 6), each network/time exactly once.",
+ "trend": {
+  "n": "T",
+  "type": "reel",
+  "format": "v4",
+  "cat": "Texnologiya",
+  "voiced": false,
+  "subject": "GTA 6 launches 19 Nov 2026 (Rockstar newswire 'Grand Theft Auto VI is Now Set to Launch November 19, 2026'; Take-Two's Zelnick 'November 19 release' quoted by Game Developer 7 Aug 2026). Preload: Xbox from 9 Nov 16:00 PST / 10 Nov 00:00 GMT, PS5 from 10 Nov midnight local (GamesRadar 3 Nov 2026, 'preload date and times confirmed'; 212 GB per Rockstar quote). GTA V released worldwide 17 Sep 2013 and reached $1 billion in 3 days on 20 Sep 2013 = Guinness 'Fastest entertainment property to gross $1 billion' (beat Black Ops II's 15 days) (Guinness record page; Gematsu/Engadget/MCV 2013). GTA V sold-in over 230 million units (Take-Two fiscal Q1 report, Game Developer 7 Aug 2026; PSU/Instant Gaming). 2013 -> 2026 = 13 years (own arithmetic). Not used: $800m day one (one source), GTA 6 price.",
+  "photo_request": "game controller (Unsplash; no game art: copyrighted)",
+  "title": "3 gündə 1 milyard dollar",
+  "text": "GTA 5 2013-cü ildə satışa çıxdı və cəmi 3 günə 1 milyard dollar qazandı. 13 il sonra GTA 6 noyabrın 19-da çıxır.",
+  "reel_hook": "3 GÜNDƏ 1 MİLYARD DOLLAR",
+  "reel_beats": [
+   "2013-cü il sentyabrın 17-də GTA 5 oyunu satışa çıxdı. Cəmi 3 gün sonra satışlar 1 milyard dollara çatdı.",
+   "Ginnes bunu rekord kimi yazdı: 1 milyarda bundan tez çatan film, kitab və ya oyun olmamışdı. İndiyədək GTA 5-in 230 milyondan çox nüsxəsi satılıb.",
+   "13 il sonra hamı GTA 6-nı gözləyir. Oyun noyabrın 19-da çıxır, yükləmə isə bu həftə başlayır."
+  ],
+  "cta": null,
+  "caption": "Bu oyun cəmi 3 günə 1 milyard dollar qazandı 🎮\n\n2013-cü il sentyabrın 17-də GTA 5 satışa çıxdı. 3 gün sonra satışlar 1 milyard dollara çatdı. Ginnes bunu «1 milyard dollara ən tez çatan əyləncə məhsulu» rekordu kimi qeyd etdi. Oyun indiyədək 230 milyondan çox nüsxə satılıb və hələ də satılır.\n\nİndi isə 13 illik gözləmə bitir: GTA 6 noyabrın 19-da çıxır, oyunu əvvəlcədən yükləmək isə bu həftə başlayır.\n\n📩 GTA 6 çıxan gün «xəstələnəcək» dostuna göndər 😄\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Luis Villasmil / Unsplash\n\n#bilirdinizmi #maraqlıfaktlar #gta6 #oyun #rekord",
+  "first_comment": "Səncə, GTA 6 bu rekordu qıracaq? 👇",
+  "quizzes": [
+   {
+    "q": "GTA 5 neçə günə 1 milyard dollar qazandı?",
+    "options": [
+     "3",
+     "15",
+     "30"
+    ],
+    "answer": "3",
+    "why": "2013-cü ildə, Ginnes rekordu."
+   },
+   {
+    "q": "GTA 5 hansı ildə satışa çıxdı?",
+    "options": [
+     "2010",
+     "2013",
+     "2016"
+    ],
+    "answer": "2013",
+    "why": "17 sentyabr 2013."
+   },
+   {
+    "q": "GTA 6 hansı gün çıxır?",
+    "options": [
+     "19 noyabr",
+     "1 dekabr",
+     "31 oktyabr"
+    ],
+    "answer": "19 noyabr",
+    "why": "2026-cı il noyabrın 19-da."
+   }
+  ],
+  "sources": [
+   "https://www.rockstargames.com/newswire/article/ak3ak31a49a221/grand-theft-auto-vi-is-now-set-to-launch-november-19-2026",
+   "https://www.gamesradar.com/games/grand-theft-auto/gta-6-preload-date-times/",
+   "https://www.guinnessworldrecords.com/world-records/105330-fastest-entertainment-property-to-gross-1-billion",
+   "https://gematsu.com/2013/09/grand-theft-auto-v-sales-surpass-1-billion-in-first-three-days",
+   "https://www.gamedeveloper.com/business/gta-v-surpasses-230-million-sales-months-before-gta-vi-touches-down",
+   "https://www.psu.com/news/grand-theft-auto-v-sales-top-230-million-copies-red-dead-redemption-2-passes-85-million/"
+  ],
+  "verify_note": "Trend check 8 Nov 09:10: no single dominant world headline found in searches (8 Nov = Victory Day in AZ -> no war/politics). GTA 6 is the biggest entertainment launch of the year, 11 days away, preload opens 9-10 Nov -> young AZ audience talks about it. 19 Nov: Rockstar newswire + Zelnick (Game Developer). Preload 'this week': GamesRadar 3 Nov. $1bn in 3 days: Guinness + Gematsu/Engadget/MCV. 230 m: Take-Two via Game Developer + PSU. Guinness wording kept as 'film, book or game' = entertainment property. At 15:23 re-check for any delay news before building. No copyrighted game art.",
+  "photo": {
+   "path": "fetch/img/2026-11-08_T_controller.jpg",
+   "credit": "Luis Villasmil / Unsplash",
+   "cy": 0.5,
+   "full": true,
+   "source": "https://unsplash.com/photos/ITFwHdPEED0",
+   "note": "portrait, pink neon controller on purple, alt 'person holding black and gray game controller'. Spare: 2026-11-08_T_controller2.jpg (Nikita Kachanovsky / Unsplash, white PS4 controller on palm)."
+  }
+ },
+ "trend_pick": "2026-11-08 09:10: trend = GTA 6 (out 19 Nov, preload opens 9-10 Nov) via GTA 5's Guinness record (1 bn $ in 3 days). Swap into 18:30 at 15:23 (IG+TikTok+YouTube update, never add); Chimborazo backup goes back to a later day."
 }

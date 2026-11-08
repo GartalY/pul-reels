@@ -1,0 +1,326 @@
+{
+ "date": "2026-11-09",
+ "status": "planned",
+ "format": "v2",
+ "content_format": "v4",
+ "planned_note": "Planned in the 2026-11-08 09:10 run (format v4). Mon 9 Nov. 10:00 TBG carousel = Apollo 4, first Saturn V launch, 9 Nov 1967 (59 years, not round). 13:00 AZ reel (VOICED) = Xınalıq and the 200 km Köç yolu (7 000 people, 400 000 sheep, UNESCO 2023). 16:00 reel (SILENT, space wow, MOTION build) = Andromeda, 2.5 million-year-old light, ~1 trillion stars. 18:30 trend backup reel (SILENT) = Mponeng, 4 km deep, rock 60 °C. 21:30 reel (VOICED, AZ angle + anniversary) = Baku-born Kasparov becomes world champion at 22 on 9 Nov 1985 (13-11). No two-part story on Monday (next part 1 = Tue 10 Nov).",
+ "history": {
+  "n": "H",
+  "type": "card",
+  "cat": "Kosmos",
+  "day": 9,
+  "month": 11,
+  "year": 1967,
+  "subject": "Apollo 4 (AS-501), first flight of Saturn V, uncrewed, 7:00 a.m. EST 9 Nov 1967, first launch from Kennedy's Launch Complex 39 (NASA feature, Bob Granath 2017; Space.com 'Saturn V at 50'). Height 363 ft (~110.6 m) (NASA; Space.com). Walter Cronkite (CBS) 'the building is shaking!'; he and a producer held the window; press site / LCC 'three miles' (~5 km) away (NASA; Space.com 'more than 3 miles (5 kilometers)'). Apogee 11 234 miles (18 079 km) (Space.com). Mission 8 h 36 min 59 s (Space.com; NASA 8 h 36 min). Apollo 11 = July 1969 (<2 years later, common knowledge). 59 years -> TBG only.",
+  "photo_request": "Apollo 4 / AS-501 Saturn V on the pad or launch (NASA, PD, Commons)",
+  "card_title": "9 NOYABR 1967",
+  "title": "Raket qalxdı, 5 km uzaqdakı bina titrədi",
+  "text": "1967-ci il noyabrın 9-da NASA ilk dəfə «Saturn V» raketini uçurdu. Səs o qədər güclü idi ki, 5 km aralıdakı jurnalistlərin binası titrəyirdi.",
+  "cover": {
+   "hook": "Raket qalxdı, 5 km uzaqdakı bina titrədi",
+   "sub": "9 noyabr 1967 · 59 il əvvəl bu gün"
+  },
+  "slides": [
+   {
+    "h": "9 noyabr 1967",
+    "t": "Səhər saat 7-də NASA ilk dəfə nəhəng «Saturn V» raketini uçurdu. İçində insan yox idi: bu, sınaq uçuşu idi. Ad isə belə idi: «Apollon-4»."
+   },
+   {
+    "h": "110 metr",
+    "t": "Raketin hündürlüyü təxminən 110 metr idi — 30 mərtəbəli binadan da hündür. İnsanları Aya məhz bu raket aparacaqdı."
+   },
+   {
+    "h": "5 km",
+    "t": "Jurnalistlər 5 km aralıda idi, amma binaları titrəyirdi. Məşhur aparıcı Uolter Kronkayt efirdə «Bina titrəyir!» deyə qışqırırdı. Pəncərəni əlləri ilə saxlayırdılar."
+   },
+   {
+    "h": "18 000 km",
+    "t": "Raket kapsulu Yerdən 18 000 km-dən çox uzağa qaldırdı. 8 saat 37 dəqiqə sonra kapsul okeana endi. 2 il keçmədən insanlar Aya getdi."
+   }
+  ],
+  "caption": "59 il əvvəl bu gün bir raket qalxdı və 5 km uzaqdakı bina titrədi 🚀\n\n1967-ci il noyabrın 9-da NASA ilk dəfə «Saturn V» raketini uçurdu. Raketin hündürlüyü təxminən 110 metr idi və içində insan yox idi: bu, sınaq uçuşu idi. Jurnalistlər 5 km aralıda olsalar da, binaları titrəyirdi. Aparıcı Uolter Kronkayt efirdə «Bina titrəyir!» deyirdi. Kapsul Yerdən 18 000 km-dən çox uzaqlaşdı və 8 saat 37 dəqiqə sonra okeana endi. 2 il keçmədən insanlar bu raketlə Aya getdi.\n\n📩 Hər səsdən diksinən dostuna göndər — bu raketi eşitsəydi nə edərdi? 😄\n\nFoto: NASA (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #tarixdəbugün #kosmos #nasa",
+  "first_comment": "Sən raket buraxılışını canlı görmək istərdinmi? 👇",
+  "quizzes": [
+   {
+    "q": "«Saturn V» raketinin hündürlüyü təxminən nə qədər idi?",
+    "options": [
+     "50 metr",
+     "110 metr",
+     "300 metr"
+    ],
+    "answer": "110 metr",
+    "why": "30 mərtəbəli binadan hündür."
+   },
+   {
+    "q": "İlk «Saturn V» uçuşunda içəridə neçə nəfər var idi?",
+    "options": [
+     "0",
+     "3",
+     "7"
+    ],
+    "answer": "0",
+    "why": "Bu, sınaq uçuşu idi."
+   },
+   {
+    "q": "Jurnalistlərin binası raketdən nə qədər aralıda idi?",
+    "options": [
+     "500 metr",
+     "5 km",
+     "50 km"
+    ],
+    "answer": "5 km",
+    "why": "Yenə də titrəyirdi."
+   }
+  ],
+  "sources": [
+   "https://www.nasa.gov/feature/apollo-4-was-first-ever-launch-from-nasas-kennedy-space-center",
+   "https://www.space.com/38719-saturn-v-rocket-50th-launch-anniversary.html",
+   "https://www.collectspace.com/news/news-110917c-saturn-v-rocket-50-years.html"
+  ],
+  "verify_note": "Date/time, uncrewed, 363 ft, Cronkite + window, 3 miles: NASA + Space.com. 18 079 km apogee + 8 h 36 min 59 s: Space.com (NASA 8 h 36 min) -> '8 saat 37 dəqiqə' rounds 36:59. 110.6 m vs 30 floors (~3 m/floor = 90 m): safe."
+ },
+ "facts": [
+  {
+   "n": 1,
+   "type": "reel",
+   "cat": "Azərbaycan",
+   "voiced": true,
+   "subject": "Xınalıq (Khinalig), Quba district: 2 200 m above sea level, 'one of the highest settlements in Europe', 60 km from Quba (khinalig.heritage.org.az/about; azerbaijan.travel 'nearly 2,200 meters'). 'Cultural Landscape of Khinalig and Köç Yolu Transhumance Route' inscribed on the UNESCO World Heritage List 18 Sep 2023 (45th extended session, Riyadh) (azerbaijan.travel press release 30 Sep 2023; whc.unesco.org/en/list/1696). Route 200 km, from Khinalig to the Absheron and Hajiqabul plains; ~7 000 people and 400 000 sheep from nearby settlements use it; twice a year, spring and autumn (khinalig.heritage.org.az/migration; azerbaijan.travel). Not used: own language/speaker count (not read on an official page), duration (page says 2 weeks and 1 month), altitude 2 350 (other sources).",
+   "photo_request": "Xınalıq village in the mountains (Commons, CC)",
+   "title": "200 km yol, 400 000 qoyun",
+   "text": "Xınalıqdan başlayan 200 km-lik köç yolunda hər il 7 000-ə yaxın insan və 400 000 qoyun hərəkət edir. UNESCO bu yolu 2023-cü ildə Dünya İrsi siyahısına saldı.",
+   "reel_hook": "200 KM YOL, 400 000 QOYUN",
+   "reel_beats": [
+    "Qubada, dəniz səviyyəsindən 2 200 metr hündürlükdə Xınalıq kəndi var. Bu, Avropanın ən yüksək yaşayış yerlərindən biridir.",
+    "Hər il yazda və payızda buradan 200 km-lik köç yolu başlayır. Çobanlar sürüləri dağdan Abşeron və Hacıqabul düzənliklərinə aparıb-gətirir.",
+    "Bu yolla təxminən 7 000 nəfər və 400 000 qoyun gedir. 2023-cü ildə UNESCO bu yolu Dünya İrsi siyahısına saldı."
+   ],
+   "voice_texts": [
+    "İki yüz kilometr yol, dörd yüz min qoyun.",
+    "Qubada, dəniz səviyyəsindən iki min iki yüz metr hündürlükdə Xınalıq kəndi var. Bu, Avropanın ən yüksək yaşayış yerlərindən biridir.",
+    "Hər il yazda və payızda buradan iki yüz kilometrlik köç yolu başlayır. Çobanlar sürüləri dağdan Abşeron və Hacıqabul düzənliklərinə aparıb-gətirir.",
+    "Bu yolla təxminən yeddi min nəfər və dörd yüz min qoyun gedir. İki min iyirmi üçüncü ildə UNESCO bu yolu Dünya İrsi siyahısına saldı."
+   ],
+   "cta": "Hər gün 13:00-da yeni Bakı faktı — izlə!",
+   "caption": "Hər il 400 000 qoyun 200 km yol gedir — Xınalıqdan aran yerlərinə 🐑\n\nXınalıq Qubada, dəniz səviyyəsindən 2 200 metr hündürlükdə yerləşir və Avropanın ən yüksək yaşayış yerlərindən biridir. Hər yaz və payız buradan 200 km-lik «Köç yolu» başlayır: çobanlar sürüləri yay otlaqlarından Abşeron və Hacıqabul düzənliklərindəki qış otlaqlarına aparır, sonra geri qaytarır. Bu yolla təxminən 7 000 nəfər və 400 000 qoyun hərəkət edir. 2023-cü ildə UNESCO «Xınalıq və Köç yolu»nu Dünya İrsi siyahısına daxil etdi.\n\n📩 Hər həftə sonu «dağa gedək» deyib getməyən dostuna göndər 😄\n\n👉 Hər gün 13:00-da Azərbaycan haqqında bilmədiyin bir fakt — izlə ki, qaçırmayasan\n\n#bilirdinizmi #maraqlıfaktlar #xınalıq #quba #azərbaycan",
+   "first_comment": "Sən Xınalığa getmisən? 👇",
+   "quizzes": [
+    {
+     "q": "Köç yolunun uzunluğu təxminən nə qədərdir?",
+     "options": [
+      "20 km",
+      "200 km",
+      "2 000 km"
+     ],
+     "answer": "200 km",
+     "why": "Xınalıqdan Abşeron və Hacıqabul düzənliklərinə."
+    },
+    {
+     "q": "Bu yolla hər il təxminən neçə qoyun gedir?",
+     "options": [
+      "4 000",
+      "40 000",
+      "400 000"
+     ],
+     "answer": "400 000",
+     "why": "Təxminən 7 000 nəfərlə birlikdə."
+    },
+    {
+     "q": "UNESCO Köç yolunu hansı ildə siyahıya saldı?",
+     "options": [
+      "2003",
+      "2013",
+      "2023"
+     ],
+     "answer": "2023",
+     "why": "Dünya İrsi siyahısına."
+    }
+   ],
+   "sources": [
+    "https://khinalig.heritage.org.az/en/migration",
+    "https://khinalig.heritage.org.az/en/about",
+    "https://azerbaijan.travel/press-media/press-releases/cultural-landscape-of-khinalig-and-koc-yolu-transhumance-route-inscribed-to-unescos-world-heritage-list",
+    "https://whc.unesco.org/en/list/1696"
+   ],
+   "verify_note": "200 km, 7 000 people, 400 000 sheep, spring+autumn: khinalig.heritage.org.az + azerbaijan.travel (both official). 2 200 m + 'one of the highest settlements in Europe': heritage site; azerbaijan.travel 'nearly 2,200'. UNESCO 18 Sep 2023: azerbaijan.travel + WHC list 1696. Locals know Xınalıq well -> kept to official figures only."
+  },
+  {
+   "n": 2,
+   "type": "reel",
+   "cat": "Kosmos",
+   "voiced": false,
+   "motion": true,
+   "subject": "Andromeda galaxy (M31): about 2.5 million light-years away (Space.com; EarthSky; NASA) -> the light we see left it ~2.5 million years ago (definition of light-year). Roughly one trillion stars (EarthSky 23 Sep 2026). Visible to the naked eye in dark, moonless skies (Space.com; EarthSky); 'the most distant thing we humans can comfortably see with the unaided eye' (EarthSky; Triangulum 2.7 Mly is harder). Appears larger than the full Moon (EarthSky). ~260 000 ly wide per NASA (Space.com). Not used: collision (newer studies ~50 %).",
+   "photo_request": "Andromeda galaxy astrophoto (Unsplash)",
+   "title": "2,5 milyon il əvvəlki işıq",
+   "text": "Andromeda qalaktikasını qaranlıq gecədə adi gözlə görmək olar. Amma gördüyün işıq oradan 2,5 milyon il əvvəl çıxıb.",
+   "reel_hook": "2,5 MİLYON İL ƏVVƏLKİ İŞIQ",
+   "reel_beats": [
+    "Aysız, qaranlıq gecədə göydə kiçik dumanlı bir ləkə görə bilərsən. Bu, qonşu Andromeda qalaktikasıdır.",
+    "O, bizdən 2,5 milyon işıq ili uzaqdadır. Yəni gözünə düşən işıq oradan 2,5 milyon il əvvəl yola çıxıb.",
+    "Andromedada təxminən 1 trilyon ulduz var. Bu, adi gözlə rahat görə bildiyimiz ən uzaq şeydir."
+   ],
+   "cta": "Hər gün yeni fakt — izlə!",
+   "caption": "Bu gecə göyə baxsan, 2,5 milyon il əvvəl yola çıxmış işığı görə bilərsən 🌌\n\nAndromeda bizə ən yaxın böyük qalaktikadır. Qaranlıq, aysız gecədə onu adi gözlə kiçik dumanlı ləkə kimi görmək olar. Amma o, 2,5 milyon işıq ili uzaqdadır: gözünə düşən işıq oradan 2,5 milyon il əvvəl çıxıb. Andromedada təxminən 1 trilyon ulduz var və bu, adi gözlə rahat görə bildiyimiz ən uzaq cisimdir.\n\n📩 «Ulduzlara baxmağı» sevən dostuna göndər — bu gecə Andromedanı axtarsın 😄\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Joel Henry / Unsplash\n\n#bilirdinizmi #maraqlıfaktlar #kosmos #qalaktika #elm",
+   "first_comment": "Sən heç Andromedanı öz gözünlə görmüsən? 👇",
+   "quizzes": [
+    {
+     "q": "Andromeda bizdən təxminən neçə işıq ili uzaqdadır?",
+     "options": [
+      "2 500",
+      "2,5 milyon",
+      "2,5 milyard"
+     ],
+     "answer": "2,5 milyon",
+     "why": "İşığı 2,5 milyon il yol gəlir."
+    },
+    {
+     "q": "Andromedada təxminən neçə ulduz var?",
+     "options": [
+      "1 milyon",
+      "1 milyard",
+      "1 trilyon"
+     ],
+     "answer": "1 trilyon",
+     "why": "Süd Yolundan da böyükdür."
+    },
+    {
+     "q": "Andromedanı adi gözlə görmək üçün nə lazımdır?",
+     "options": [
+      "Qaranlıq gecə",
+      "Günorta",
+      "Dolu Ay"
+     ],
+     "answer": "Qaranlıq gecə",
+     "why": "Aysız, işıqsız yerdə."
+    }
+   ],
+   "sources": [
+    "https://www.space.com/15590-andromeda-galaxy-m31.html",
+    "https://earthsky.org/clusters-nebulae-galaxies/andromeda-galaxy-closest-spiral-to-milky-way/",
+    "https://www.smithsonianmag.com/smart-news/check-out-the-hubble-space-telescopes-stunning-new-view-of-the-andromeda-galaxy-180985882/"
+   ],
+   "verify_note": "2.5 Mly: Space.com + EarthSky (+ Smithsonian headline search). 1 trillion stars + 'most distant thing comfortably seen': EarthSky. Naked eye in dark skies: Space.com + EarthSky. 'Ən uzaq şey' kept with 'rahat' (comfortably) because Triangulum is slightly farther but hard to see."
+  },
+  {
+   "n": 3,
+   "type": "reel",
+   "cat": "Coğrafiya",
+   "voiced": false,
+   "subject": "Mponeng gold mine, South Africa: Guinness 'Deepest mine', 4 km; operating depth 3.9 km by 2012, later below 4 km; rock walls up to 60 °C, humidity >95 %; more than 6 000 t of ice slurry pumped underground + giant fans; ~6 400 t of rock excavated daily (Guinness). Gizmodo 2013: 'a 2.5-mile hole', rock 'as hot as 140 °F', '6,000 tons of ice a day', '4,000 workers descend' every day. Not used: owner (changed 2020), total descent time.",
+   "photo_request": "deep mine shaft / miners underground (Commons)",
+   "title": "4 km yerin altında: qaya 60 °C",
+   "text": "Cənubi Afrikadakı Mponeng qızıl mədəni 4 km dərinliyə çatır. Orada qaya divarları 60 dərəcəyə qədər qızır.",
+   "reel_hook": "4 KM YERİN ALTINDA: QAYA 60 °C",
+   "reel_beats": [
+    "Cənubi Afrikadakı Mponeng qızıl mədəni dünyanın ən dərin mədənidir. Onun dərinliyi 4 kilometrə çatır.",
+    "Bu dərinlikdə qaya divarları 60 dərəcəyə qədər qızır. Havanın rütubəti də 95 faizdən çox ola bilər.",
+    "Mədəni sərinləşdirmək üçün aşağıya buz qarışığı vurulur — gündə 6 000 ton. Hər gün minlərlə fəhlə bu dərinliyə enir."
+   ],
+   "cta": "Hər gün yeni fakt — izlə!",
+   "caption": "Bu mədəndə qaya divarları 60 dərəcəyə qədər qızır 🥵\n\nCənubi Afrikadakı Mponeng qızıl mədəni Ginnesə görə dünyanın ən dərin mədənidir: 4 km. Bu dərinlikdə qaya 60 dərəcəyə qədər isti olur, havanın rütubəti də 95 faizdən çox ola bilər. Fəhlələrin işləyə bilməsi üçün aşağıya gündə 6 000 ton buz qarışığı vurulur və nəhəng ventilyatorlar işləyir. Hər gün minlərlə fəhlə bu dərinliyə enir.\n\n📩 Hər yay «isti öldürür» deyən dostuna göndər 😄\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\n#bilirdinizmi #maraqlıfaktlar #rekord #coğrafiya #qızıl",
+   "first_comment": "Səncə, sən orada neçə dəqiqə dözərdin? 👇",
+   "quizzes": [
+    {
+     "q": "Mponeng mədəninin dərinliyi təxminən nə qədərdir?",
+     "options": [
+      "400 metr",
+      "4 km",
+      "40 km"
+     ],
+     "answer": "4 km",
+     "why": "Dünyanın ən dərin mədənidir."
+    },
+    {
+     "q": "Mədəndə qaya divarları neçə dərəcəyə qədər qızır?",
+     "options": [
+      "30",
+      "60",
+      "120"
+     ],
+     "answer": "60",
+     "why": "Rütubət də 95 faizdən çoxdur."
+    },
+    {
+     "q": "Mədəni nə ilə sərinləşdirirlər?",
+     "options": [
+      "Dəniz suyu ilə",
+      "Buz qarışığı ilə",
+      "Qarla"
+     ],
+     "answer": "Buz qarışığı ilə",
+     "why": "Gündə 6 000 ton."
+    }
+   ],
+   "sources": [
+    "https://www.guinnessworldrecords.com/world-records/66169-deepest-mine",
+    "https://gizmodo.com/terrifying-facts-about-the-worlds-deepest-gold-mine-1484301368",
+    "https://www.mining-technology.com/?p=21313"
+   ],
+   "verify_note": "4 km + 60 °C + >95 % humidity + >6 000 t ice slurry: Guinness. 'a day' + thousands of workers daily (4 000): Gizmodo 2013 -> written as 'minlərlə'. 140 °F = 60 °C consistent."
+  },
+  {
+   "n": 4,
+   "type": "reel",
+   "cat": "Məşhur insanlar",
+   "voiced": true,
+   "subject": "Garry Kasparov, born 13 Apr 1963 in Baku (Britannica). 1984-85 World Championship vs Karpov: first to six wins, began 10 Sep 1984, ran 48 games, aborted without a winner by FIDE president Campomanes (ChessBase 2020). 1985 rematch, 24 games, Tchaikovsky Concert Hall, Moscow; Kasparov won the 24th and final game on 9 Nov 1985 -> 13-11 (ChessBase; Chess.com; Britannica '13–11'), 'at the age of 22 he became the youngest World Champion in the history of chess' (ChessBase) -> still true then; Gukesh (18, 2024) is younger now -> 'o vaxta qədər'. Kept the title 15 years (ChessBase), lost to Kramnik 2000 (Britannica). No politics.",
+   "photo_request": "Kasparov portrait, 1980s (Commons, Nationaal Archief CC BY-SA / CC0)",
+   "title": "22 yaşında dünya çempionu oldu",
+   "text": "Bakıda doğulan Harri Kasparov 1985-ci il noyabrın 9-da Karpovu məğlub etdi. 22 yaşında o vaxta qədər tarixin ən gənc dünya çempionu oldu.",
+   "reel_hook": "22 YAŞINDA DÜNYA ÇEMPİONU OLDU",
+   "reel_beats": [
+    "Harri Kasparov 1963-cü ildə Bakıda doğulub. 1984-cü ildə dünya çempionu Anatoli Karpovla matça çıxdı.",
+    "Bu matç 48 oyun çəkdi və qalibsiz dayandırıldı. Bir il sonra onlar yenidən qarşılaşdılar.",
+    "1985-ci il noyabrın 9-da Kasparov son oyunu qazandı: hesab 13–11. 22 yaşında o vaxta qədər tarixin ən gənc dünya çempionu oldu."
+   ],
+   "voice_texts": [
+    "İyirmi iki yaşında dünya çempionu oldu.",
+    "Harri Kasparov min doqquz yüz altmış üçüncü ildə Bakıda doğulub. Min doqquz yüz səksən dördüncü ildə dünya çempionu Anatoli Karpovla matça çıxdı.",
+    "Bu matç qırx səkkiz oyun çəkdi və qalibsiz dayandırıldı. Bir il sonra onlar yenidən qarşılaşdılar.",
+    "Min doqquz yüz səksən beşinci il noyabrın doqquzunda Kasparov son oyunu qazandı, hesab on üç — on bir. İyirmi iki yaşında, o vaxta qədər tarixin ən gənc dünya çempionu oldu."
+   ],
+   "cta": "Hər gün yeni fakt — izlə!",
+   "caption": "41 il əvvəl bu gün bakılı şahmatçı 22 yaşında dünya çempionu oldu ♟️\n\nHarri Kasparov 1963-cü ildə Bakıda doğulub. 1984-cü ildə dünya çempionu Anatoli Karpovla matçı 48 oyun çəkdi və qalibsiz dayandırıldı. 1985-ci ildə yeni matç başladı və noyabrın 9-da Kasparov son, 24-cü oyunu qazandı: hesab 13–11. 22 yaşında o vaxta qədər tarixin ən gənc dünya çempionu oldu və bu titulu 15 il saxladı.\n\n📩 Şahmatda heç vaxt uduzmadığını deyən dostuna göndər 😄\n\n👉 Hər gün 5 yeni fakt — izlə ki, qaçırmayasan\n\n#bilirdinizmi #maraqlıfaktlar #şahmat #bakı #kasparov",
+   "first_comment": "Sən şahmat oynayırsan? 👇",
+   "quizzes": [
+    {
+     "q": "Kasparov neçə yaşında dünya çempionu oldu?",
+     "options": [
+      "18",
+      "22",
+      "27"
+     ],
+     "answer": "22",
+     "why": "1985-ci il noyabrın 9-da."
+    },
+    {
+     "q": "1984-cü ildəki matç neçə oyun çəkdi?",
+     "options": [
+      "24",
+      "36",
+      "48"
+     ],
+     "answer": "48",
+     "why": "Və qalibsiz dayandırıldı."
+    },
+    {
+     "q": "1985-ci il matçının hesabı nə oldu?",
+     "options": [
+      "12–12",
+      "13–11",
+      "16–8"
+     ],
+     "answer": "13–11",
+     "why": "Son oyunu Kasparov qazandı."
+    }
+   ],
+   "sources": [
+    "https://en.chessbase.com/post/35-years-ago-kasparov-becomes-youngest-world-champion-in-the-history-of-chess",
+    "https://www.britannica.com/summary/Garry-Kasparov",
+    "https://www.chess.com/article/view/karpov-vs-kasparov-world-chess-championship-1985"
+   ],
+   "verify_note": "9 Nov 1985 + age 22 + youngest (then) + 48-game match aborted + 15 years: ChessBase. Born Baku 13 Apr 1963 + 13-11 + lost 2000: Britannica. 13-11 + Moscow: Chess.com. 'o vaxta qədər' added because Gukesh (18) became youngest in 2024. 41 years = 1985 -> 2026. Chess only, no politics."
+  }
+ ]
+}

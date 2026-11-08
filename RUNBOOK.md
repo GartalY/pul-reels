@@ -1,6 +1,6 @@
 # @bilirdinizmi_az — daily runbook
 
-> **READ FIRST: "STRATEGY RESET 2026-11-03" below overrides older rules AND the wording of older scheduled-task prompts (TikTok = 13:00 + 18:30 only; reposts YouTube only).**
+> **READ FIRST: "DECISIONS 2026-11-09" and "STRATEGY RESET 2026-11-03" below overrides older rules AND the wording of older scheduled-task prompts (TikTok = 13:00 + 18:30 only; reposts YouTube only).**
 
 Instagram facts page in **Azerbaijani**, run by Claude. Owner: Gartal (gartalyusifov@gmail.com).
 
@@ -35,6 +35,24 @@ Every text (caption, slide, reel beat, quiz, story, first comment) must read lik
 1. `add_repo` GartalY/pul-reels with push access; clone to /home/claude/pul-reels.
 2. Load Metricool tools (`ToolSearch "+Metricool"`) and Google Drive tools (`ToolSearch "+Google_Drive"`).
 3. Commit with `git -c user.email=noreply@anthropic.com -c user.name=Claude` and push to `main`.
+
+## DECISIONS 2026-11-09 (Gartal, live, ~00:40 Baku) — OVERRIDE the reset items below where they differ
+1. **YouTube (bilirdinizmi) = 3 Shorts a day:** 13:00 AZ reel, 16:00 MOTION reel, 21:30 reel. **No reposts (11:00, 19:45) and
+   no 18:30 trend Short on YouTube.** Still build/log nothing extra for them. 9 Nov: 420901065 / 420901180 / 420901260 set to draft
+   (new ids 421070898 / 421070909 / 421070925). Test: does views per new Short recover above 300? Judge on 15 Nov.
+2. **TikTok 18:30 = a 2nd Azerbaijan video, not the trend** (Claude's call as manager: AZ TikToks median 211 views + 4–25 shares;
+   trend TikToks median 157 + 0 shares on 4 of 5). Default = the day's 21:30 reel when it has an AZ angle, posted on TikTok at
+   18:30 with a Baku/AZ question at the end; on a non-AZ 21:30 day, use the best older AZ reel not yet on TikTok. The 15:23 trend
+   swap now changes **IG only** (TikTok and YouTube keep their posts). 9 Nov: TikTok 18:30 Mponeng → Kasparov (same post, new id 421071073).
+3. **MORE ANIMATION on bilirdinizmi (Gartal: people watch motion more than photo + text + AI voice):** from **Tue 10 Nov the
+   21:30 reel is built with MOTION too** (animation-studio, AZ angle, ≤ 25 s), so 16:00 + 21:30 = 2 motion reels a day. 13:00 stays
+   the voiced photo AZ reel for now because it is still our best slot (Maiden Tower 1 970, Landau 1 722, Metro 1/2 1 346); on 15 Nov
+   compare 21:30 motion vs the 21:30 photo median — if motion wins, move 13:00 to motion as well. If a motion build fails, ship
+   the static version and say so in the report.
+4. **Whyverse:** long episodes stay at **3 a week** (Gartal: Whyverse is mainly long videos). **YouTube Shorts cut:** only
+   (a) every standalone 1-minute animation and (b) ONE cut per new episode (its hook Short, the day after the episode). All other
+   episode cuts go to IG + TikTok only. 9–11 Nov YouTube cuts set to draft: 417123683→421070463, 420291777→421070834,
+   420291948→421070848, 420292202→421070856, 420292400→421070881. Kept: 420291605 (9 Nov 21:00 ep03 hook).
 
 ## STRATEGY RESET 2026-11-03 (Claude as manager; Gartal: "you're the manager, go with it") — OVERRIDES everything below
 Why: after 18 days IG has 45 followers (~3 follows per 1 000 viewers), TikTok 1 follower (most videos 0–10 views,

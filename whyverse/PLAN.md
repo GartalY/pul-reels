@@ -107,3 +107,8 @@ https://www.youtube.com/channel/UCTWyyqP6HJP64E7fA7QphGg
   score to his paragraph durations, translates ALL on-screen text/labels/counters to Azerbaijani, renders, and
   posts on bilirdinizmi_az: long video on its YouTube + Azerbaijani Shorts on IG/TikTok/YouTube (burned captions).
 - First batch: weekend 7–8 Nov — ep01 bees, ep02, ep03.
+
+## DECISION 2026-11-09 (Gartal)
+- Long episodes stay at 3 a week (Whyverse = mainly long videos); the weekly review's 3 → 2 idea is rejected.
+- YouTube Shorts: only standalone 1-minute animations + ONE hook cut per new episode (day after the episode). Other cuts:
+  Instagram + TikTok only (TikTok likes the cuts: Einstein 933). Already-scheduled extra YouTube cuts 9–11 Nov set to draft.

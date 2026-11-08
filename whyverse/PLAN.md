@@ -50,6 +50,9 @@ REAL FOOTAGE (idea from Gartal's OpenMontage reel, 2026-11-02): space episodes m
 NASA clips/photos (images.nasa.gov; NASA media is generally not copyrighted — follow its media guidelines, no
 NASA logo/endorsement). Wikimedia/Archive only with a checked licence + credit in NOTES.md. Animation stays
 the main look — footage is seasoning, never a stitched stock-clip video (mass-produced-content risk).
+BLUEPRINT STYLE (Gartal loved a blueprint explainer reel, 2026-11-08; see brand/STYLE_REFERENCES.md):
+navy grid, white technical line art, yellow tags, digits in boxes, step-by-step worked example. Best for "how does
+X actually work?" topics. NEXT 1-minute animation uses it (topic: an everyday thing with a hidden mechanism).
 Record the style used in each NOTES.md; FEEDBACK.md decides which styles win.
 
 ## Topic choice (Gartal 2026-11-03)

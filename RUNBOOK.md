@@ -562,6 +562,9 @@ small data-backed changes here; recommend bigger ones (times, volume, format mix
   audience; (b) bilirdinizmi IG: Azerbaijan-themed posts get most views and bring the followers; (c) Whyverse:
   Shorts CUT from the long episode get almost no views, while the STANDALONE 1-minute animations (e.g. NASA Swift,
   5 Nov) get lots of views on YouTube Shorts.
+- BLUEPRINT TEST (Gartal 2026-11-08): one 16:00 motion reel this week in the blueprint explainer style
+  (brand/STYLE_REFERENCES.md "prinsipinedir"): an everyday thing in Azerbaijan + "how does it actually work?"
+  (e.g. Bakı Kart, QR payments, why ATMs ask for PIN, phone battery %). Our own look, not a copy.
 - SUNDAY 8 NOV REVIEW TASK (Gartal 2026-11-04): write a PER-PLATFORM plan (IG / TikTok / YouTube) — same core video,
   but per-platform topic weighting, hook/caption/title, times and volume. Trigger: Maiden Tower reel hit on IG
   (~1,600 views, +6–7 follows, IG 61 followers on 4 Nov, Gartal's count).

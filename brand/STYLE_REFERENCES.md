@@ -104,3 +104,13 @@ section below.
 - Caspian (daylight glass columns) = weaker: "too simple", and the water/rush sound effects were TOO LOUD.
   → Rule: keep SFX well under the voice (water/noise SFX ≤ −20 dB relative to voice); richer, more realistic
   scenes beat clean-but-simple diagrams. Default direction for the new reel design = the Moon approach.
+
+## prinsipinedir — "blueprint explainer" (Gartal loved it, 2026-11-08) — refs/prinsipinedir_blueprint.jpg
+Azerbaijani account. Reel: how a banking app knows a card number is wrong (Luhn algorithm), ~60 s.
+7.7k likes, **6.1k sends**, 3.6k saves — enormous share rate (everyone in AZ does "kartdan karta").
+- Look: navy blueprint grid, white chalk/technical line art (phone, bank, card), yellow highlighter tags,
+  monospaced digits in boxes, a small spec box top-right ("step 1/7"), karaoke subtitles with one yellow word.
+- Story: everyday action → "how does it know?" → the inventor/history beat (Luhn, IBM, 1960s) → the mechanism
+  step by step with a worked example → "why x2?" twist → payoff (1 in 10 random numbers still passes) → tip.
+- Lesson: "how does the everyday thing you use actually work" + a local hook = sends. Do NOT copy their
+  brand marks (the "Prinsipi nədir?" spec box, their topics); make our own blueprint variant.

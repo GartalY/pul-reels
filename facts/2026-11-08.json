@@ -433,20 +433,20 @@
   "14:00 quiz q2 (Crystal Hall)": 420097646,
   "14:10 answer a2": 420097674,
   "16:00 reel (neutron star, MOTION, silent)": 420097100,
-  "18:30 reel (Chimborazo backup, silent)": 420097135,
-  "21:30 reel (Jensen Huang, voiced)": 420097213
+  "21:30 reel (Jensen Huang, voiced)": 420097213,
+  "18:30 reel (TREND GTA 5 record / GTA 6, silent)": 420659945
  },
  "tiktok": {
   "13:00 Crystal Hall": 420098302,
-  "18:30 Chimborazo backup": 420098384
+  "18:30 TREND GTA 5 / GTA 6": 420660113
  },
  "youtube": {
   "11:00 REPOST Son Doong": 420098441,
   "13:00 Crystal Hall": 420098326,
   "16:00 neutron star": 420098350,
-  "18:30 Chimborazo backup": 420098391,
   "19:45 REPOST Hyperion": 420098535,
-  "21:30 Jensen Huang": 420098406
+  "21:30 Jensen Huang": 420098406,
+  "18:30 TREND GTA 5 / GTA 6": 420660131
  },
  "pending_schedule": [],
  "reposts": "8 Nov YouTube only: 11:00 Son Doong 200 m cave (31 Oct n3, UNAIRED backup, out/2026-10-31/3_reel.mp4) and 19:45 Hyperion 116 m tree (1 Nov n3, UNAIRED backup, out/2026-11-01/3_reel.mp4). Unaired stock left: Iceland mosquitoes (28 Oct), Pando, Kola (no mp4), Akashi (2 Nov), Baikal (7 Nov). Sunday review should decide the repost source.",
@@ -531,7 +531,18 @@
    "full": true,
    "source": "https://unsplash.com/photos/ITFwHdPEED0",
    "note": "portrait, pink neon controller on purple, alt 'person holding black and gray game controller'. Spare: 2026-11-08_T_controller2.jpg (Nikita Kachanovsky / Unsplash, white PS4 controller on palm)."
-  }
+  },
+  "video": "out/2026-11-08/T_reel.mp4",
+  "duration_s": 22.8
  },
- "trend_pick": "2026-11-08 09:10: trend = GTA 6 (out 19 Nov, preload opens 9-10 Nov) via GTA 5's Guinness record (1 bn $ in 3 days). Swap into 18:30 at 15:23 (IG+TikTok+YouTube update, never add); Chimborazo backup goes back to a later day."
+ "trend_pick": "2026-11-08 09:10: trend = GTA 6 (out 19 Nov, preload opens 9-10 Nov) via GTA 5's Guinness record (1 bn $ in 3 days). Swap into 18:30 at 15:23 (IG+TikTok+YouTube update, never add); Chimborazo backup goes back to a later day.",
+ "trend_swap": {
+  "when": "2026-11-08 15:23-15:30 Baku",
+  "what": "18:30 Chimborazo backup -> GTA 5 record / GTA 6 trend reel on IG + TikTok + YouTube (existing posts 420097135/420098384/420098391 updated -> new ids 420659945/420660113/420660131, none added; getScheduledPosts after update: exactly one post per network at 18:30, all with the new video)",
+  "why": "Morning trend pick (GTA 6 out 19 Nov, preload opens 9-10 Nov). Re-check 15:23: no delay news; release date still 19 Nov (Vice: Take-Two CEO says no further delay; CharlieIntel 'one year ago today... delayed to Nov 19'). No bigger world story found.",
+  "backup": "Chimborazo (2026-11-08-3) marked unposted in db.json; out/2026-11-08/3_reel.mp4 reusable on a later day",
+  "stories": "format v4: no 19:30/19:40 quiz stories today, nothing to re-render",
+  "frames_checked": "hook (dark band), beats 1-3, last frame with follow pill: text inside safe zone, no watermark/logo",
+  "render": "factgen.py reel, photo fetch/img/2026-11-08_T_controller.jpg, cy 0.45, seed 8, silent"
+ }
 }

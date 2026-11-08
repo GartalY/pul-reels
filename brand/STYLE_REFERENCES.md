@@ -114,3 +114,10 @@ Azerbaijani account. Reel: how a banking app knows a card number is wrong (Luhn 
   step by step with a worked example → "why x2?" twist → payoff (1 in 10 random numbers still passes) → tip.
 - Lesson: "how does the everyday thing you use actually work" + a local hook = sends. Do NOT copy their
   brand marks (the "Prinsipi nədir?" spec box, their topics); make our own blueprint variant.
+
+## selahattin.unlu — "sticker pop" (Gartal shared 2026-11-08) — refs/selahattin_sticker_pop.jpg
+Turkish reel about the agency-agents repo (the tool itself is NOT useful for us — evaluated before). The LOOK is:
+cream background, chunky rounded robot mascots in 5 candy colours, sticker cards with thick black outlines and
+hard offset shadows, a progress bar "1/6 … 6/6" top-left with coloured squares filling in, starburst badges for
+big numbers ("230+", "0₺"), hazard-tape corners, one red keyword per subtitle. Fast: a new card every ~1 s.
+Good for list/"N things" reels and the Sunday list carousel. The progress bar is a great retention trick.

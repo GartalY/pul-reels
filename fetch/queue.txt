@@ -418,3 +418,14 @@ search_pulsar2.json https://commons.wikimedia.org/w/api.php?action=query&format=
 2026-11-08_2_nstar_nasa.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Neutron_star.TIF/lossy-page1-1280px-Neutron_star.TIF.jpg
 search_crystal2.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1280&gsrsearch=Crystal%20Hall%20Baku%20night
 search_crystal3.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1280&gsrsearch=Baku%20Crystal%20Hall%20exterior
+2026-11-08_T_controller.jpg https://images.unsplash.com/photo-1586182987320-4f376d39d787?fm=jpg&q=85&w=1600
+2026-11-08_T_controller2.jpg https://images.unsplash.com/photo-1509198397868-475647b2a1e5?fm=jpg&q=85&w=1600
+2026-11-09_2_andromeda.jpg https://images.unsplash.com/photo-1785655140667-63a186e89ce1?fm=jpg&q=85&w=2000
+2026-11-09_2_andromeda2.jpg https://images.unsplash.com/photo-1604423203943-54721eff418a?fm=jpg&q=85&w=2000
+search_khinalig.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1280&gsrsearch=Khinalig
+search_xinaliq.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1280&gsrsearch=Xinaliq%20village
+search_kasparov.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1280&gsrsearch=Kasparov%201985
+search_kasparov2.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1280&gsrsearch=Garry%20Kasparov%20Nationaal%20Archief
+search_apollo4.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1280&gsrsearch=Apollo%204%20launch%20Saturn%20V%20AS-501
+search_mponeng.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1280&gsrsearch=Mponeng
+search_goldmine.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1280&gsrsearch=gold%20mine%20underground%20miners%20South%20Africa

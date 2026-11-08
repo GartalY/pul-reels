@@ -1,6 +1,6 @@
 {
  "date": "2026-11-09",
- "status": "planned",
+ "status": "scheduled",
  "format": "v2",
  "content_format": "v4",
  "planned_note": "Planned in the 2026-11-08 09:10 run (format v4). Mon 9 Nov. 10:00 TBG carousel = Apollo 4, first Saturn V launch, 9 Nov 1967 (59 years, not round). 13:00 AZ reel (VOICED) = Xınalıq and the 200 km Köç yolu (7 000 people, 400 000 sheep, UNESCO 2023). 16:00 reel (SILENT, space wow, MOTION build) = Andromeda, 2.5 million-year-old light, ~1 trillion stars. 18:30 trend backup reel (SILENT) = Mponeng, 4 km deep, rock 60 °C. 21:30 reel (VOICED, AZ angle + anniversary) = Baku-born Kasparov becomes world champion at 22 on 9 Nov 1985 (13-11). No two-part story on Monday (next part 1 = Tue 10 Nov).",
@@ -235,6 +235,12 @@
     "full": true,
     "source": "https://unsplash.com/photos/45Z6hW1dQMI",
     "note": "astrophoto of M31 with M32/M110, description 'Far away Andromeda galaxy, or M31 in deep space'; landscape 2000 px; no text. Spare: 2026-11-09_2_andromeda.jpg (Joel Henry / Unsplash)."
+   },
+   "motion_build": {
+    "tool": "animation-studio (canvas + synthesized music), project source prototypes/anim_studio_andromeda",
+    "seconds": 24.7,
+    "scenes": "hook on the Andromeda photo -> galaxy shrinks to a faint smudge, dashed ring lands: ANDROMEDA / adi gözlə görünür -> light pulse travels Andromeda -> Earth, counter to 2 500 000 il -> galaxy returns big, sparkles + counter to 1 trilyon ulduz -> follow pill",
+    "status": "OK, shipped (no static fallback needed)"
    }
   },
   {
@@ -409,5 +415,45 @@
    "image": "out/2026-11-09/q2.jpg",
    "answer_image": "out/2026-11-09/q2_a.jpg"
   }
- ]
+ ],
+ "metricool": {
+  "10:00 tarixdə bu gün carousel (Apollo 4 1967)": 420899879,
+  "10:00 tarixdə bu gün story": 420901759,
+  "11:00 quiz q1 (recall water bears)": 420901808,
+  "11:10 answer a1": 420901843,
+  "13:00 reel (Xınalıq köç yolu, voiced)": 420899926,
+  "14:00 quiz q2 (Köç yolu)": 420901878,
+  "14:10 answer a2": 420901922,
+  "16:00 reel (Andromeda, MOTION, silent)": 420899964,
+  "18:30 reel (Mponeng backup, silent)": 420900394,
+  "21:30 reel (Kasparov 1985, voiced)": 420900417
+ },
+ "tiktok": {
+  "13:00 Xınalıq": 420900436,
+  "18:30 Mponeng backup": 420900449
+ },
+ "youtube": {
+  "11:00 REPOST Akashi": 420901065,
+  "13:00 Xınalıq": 420901103,
+  "16:00 Andromeda": 420901146,
+  "18:30 Mponeng backup": 420901180,
+  "19:45 REPOST Baikal": 420901260,
+  "21:30 Kasparov": 420901369
+ },
+ "pending_schedule": [],
+ "reposts": "9 Nov YouTube only: 11:00 Akashi bridge 1 m (2 Nov n3, UNAIRED backup, out/2026-11-02/3_reel.mp4) and 19:45 Baikal 330 rivers (7 Nov n3, UNAIRED backup, out/2026-11-07/3_reel.mp4). Unaired stock left: Iceland mosquitoes (28 Oct; check: mosquitoes were found in Iceland in Oct 2025 before reuse), Pando, Kola (no mp4), Chimborazo (8 Nov, back in pool).",
+ "built": {
+  "when": "2026-11-08 20:46-21:02 Asia/Baku",
+  "checked": "6 carousel slides, tbg story, 2 quiz + 2 answer stories, 5 frames each of reels 1/3/4, 4 frames each of both repost reels, 12-frame sheet + 6 frames of the motion reel; text in safe zone, no watermark",
+  "fixes": "reel 1: cy 0.6 -> 0.85 so the Xınalıq houses show above the text box; reel 3 + TBG slides 3/5: non-breaking spaces so '4 kilometrə', '60 dərəcəyə', '110 metr', '18 000 km' never split",
+  "reel_seconds": {
+   "1": 30.1,
+   "2": 24.7,
+   "3": 20.1,
+   "4": 32.0
+  },
+  "voice": "Banu +15% on reels 1 and 4 (AI labels IG/TikTok/YouTube); reels 2 and 3 silent"
+ },
+ "trend_check_evening": "2026-11-08 20:50: world/AZ/sports headline searches showed no single dominant story suitable for a swap (9 Nov = State Flag Day in AZ: state symbol, skipped). Tomorrow's trend reel is picked by the 09:10/15:23 runs into the 18:30 slot (IG+TikTok+YouTube updated, never added).",
+ "scheduled_check": "getScheduledPosts 9 Nov before scheduling: 0 posts. After: 18 posts (IG 10 incl. 5 stories, TikTok 2, YouTube 6), each network/time exactly once."
 }

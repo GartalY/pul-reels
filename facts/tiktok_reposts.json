@@ -34,7 +34,11 @@
   "2026-11-06 11:00 Neft Daşları": 417986178,
   "2026-11-06 19:45 bubble wrap": 417986265,
   "2026-11-07 11:00 Danyang-Kunshan bridge": 419524435,
-  "2026-11-07 19:45 Burj Khalifa": 419524502
+  "2026-11-07 19:45 Burj Khalifa": 419524502,
+  "2026-11-08 11:00 Son Doong": 420098441,
+  "2026-11-08 19:45 Hyperion": 420098535,
+  "2026-11-09 11:00 Akashi": 420901065,
+  "2026-11-09 19:45 Baikal": 420901260
  },
  "2026-10-28 19:45": [
   "2026-10-24 n4 blue whale heart 2 bpm (IG 483 views; safe layout out/2026-10-24/4_reel_safe.mp4)",
@@ -143,5 +147,17 @@
   null,
   "YouTube only (strategy reset)",
   420098535
+ ],
+ "2026-11-09 11:00": [
+  "2026-11-02 n3 Akashi bridge 1 m (UNAIRED backup, out/2026-11-02/3_reel.mp4)",
+  null,
+  "YouTube only (strategy reset)",
+  420901065
+ ],
+ "2026-11-09 19:45": [
+  "2026-11-07 n3 Baikal 330 rivers (UNAIRED backup, out/2026-11-07/3_reel.mp4)",
+  null,
+  "YouTube only (strategy reset)",
+  420901260
  ]
 }

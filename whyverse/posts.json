@@ -487,6 +487,71 @@
    "network": "tiktok",
    "metricool_id": 421757298,
    "note": "v2: illustrated faces (Gartal 2026-11-09)"
+  },
+  {
+   "episode": "ep04_spin",
+   "kind": "long",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep04/ep04_spin_long.mp4",
+   "time_london": "2026-11-10T19:00",
+   "time_baku": "2026-11-10T23:00",
+   "network": "youtube",
+   "metricool_id": 422462470,
+   "style": "chalk",
+   "title": "What If Earth Stopped Spinning? (1,670 km/h to Zero)",
+   "thumbnail": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep04/ep04_thumbnail.jpg"
+  },
+  {
+   "episode": "ep04_spin",
+   "kind": "short1",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep04/ep04_s1_you_are_moving.mp4",
+   "time_london": "2026-11-11T23:00",
+   "time_baku": "2026-11-12T03:00",
+   "network": "youtube",
+   "metricool_id": 422462877,
+   "style": "chalk",
+   "title": "Earth's Spin: You're Moving 1,000+ km/h Right Now #shorts"
+  },
+  {
+   "episode": "ep04_spin",
+   "kind": "short1",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep04/ep04_s1_you_are_moving.mp4",
+   "time_london": "2026-11-11T23:00",
+   "time_baku": "2026-11-12T03:00",
+   "network": "instagram",
+   "metricool_id": 422462902,
+   "style": "chalk"
+  },
+  {
+   "episode": "ep04_spin",
+   "kind": "short1",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep04/ep04_s1_you_are_moving.mp4",
+   "time_london": "2026-11-11T23:00",
+   "time_baku": "2026-11-12T03:00",
+   "network": "tiktok",
+   "metricool_id": 422462929,
+   "style": "chalk",
+   "title": "Earth's Spin: You're Moving 1,000+ km/h"
+  },
+  {
+   "episode": "ep04_spin",
+   "kind": "short2",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep04/ep04_s2_sudden_stop.mp4",
+   "time_london": "2026-11-12T23:00",
+   "time_baku": "2026-11-13T03:00",
+   "network": "instagram",
+   "metricool_id": 422462959,
+   "style": "chalk"
+  },
+  {
+   "episode": "ep04_spin",
+   "kind": "short2",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep04/ep04_s2_sudden_stop.mp4",
+   "time_london": "2026-11-12T23:00",
+   "time_baku": "2026-11-13T03:00",
+   "network": "tiktok",
+   "metricool_id": 422462983,
+   "style": "chalk",
+   "title": "What If Earth Stopped Spinning Instantly?"
   }
  ]
 }

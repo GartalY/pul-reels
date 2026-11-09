@@ -40,19 +40,48 @@
       if (year) G.text(ctx, year, 0, w * 0.45, { size: w * 0.12, fam: 'Inter', weight: 800, color: C.plum, align: 'center', boil: 0 });
     });
   };
-  // neutral illustrated portrait card: silhouette bust (no likeness), name plate
-  const portrait = (ctx, x, y, s, name, sub, k, { col = C.teal } = {}) => {
+  // illustrated faces (flat, friendly, no caricature): main features only — hair, beard, skin tone, suit
+  const FACES = {
+    elsayed: { skin: '#B9835E', shade: '#9A6646', hair: '#17110D', style: 'short', beard: 'full', suit: '#1F2747', tie: '#3EC8C0', seed: 1 },
+    rogers: { skin: '#F1C8A8', shade: '#D8A784', hair: '#D9D7D2', style: 'side', beard: null, suit: '#2B3040', tie: '#B9B0E8', seed: 2 },
+    ellison: { skin: '#7A4E35', shade: '#613C28', hair: '#211C1A', style: 'buzz', beard: 'goatee', suit: '#22233A', tie: '#FF7E5F', seed: 3 },
+  };
+  const bust = (ctx, f, t) => {
+    // suit + shirt + tie
+    ctx.fillStyle = f.suit; ctx.beginPath(); ctx.ellipse(0, 165, 155, 125, 0, Math.PI, 0); ctx.fill(); ctx.fillRect(-155, 165, 310, 60);
+    ctx.fillStyle = '#FFFFFF'; ctx.beginPath(); ctx.moveTo(-46, 44); ctx.lineTo(0, 130); ctx.lineTo(46, 44); ctx.closePath(); ctx.fill();
+    ctx.fillStyle = f.tie; ctx.beginPath(); ctx.moveTo(-11, 58); ctx.lineTo(11, 58); ctx.lineTo(15, 120); ctx.lineTo(0, 145); ctx.lineTo(-15, 120); ctx.closePath(); ctx.fill();
+    ctx.strokeStyle = 'rgba(0,0,0,0.25)'; ctx.lineWidth = 4; ctx.beginPath(); ctx.moveTo(-46, 44); ctx.lineTo(-20, 150); ctx.moveTo(46, 44); ctx.lineTo(20, 150); ctx.stroke(); // lapels
+    // neck
+    ctx.fillStyle = f.shade; ctx.fillRect(-32, -10, 64, 66);
+    // ears
+    ctx.fillStyle = f.skin; for (const sx of [-1, 1]) { ctx.beginPath(); ctx.ellipse(sx * 74, -52, 15, 24, 0, 0, 7); ctx.fill(); }
+    // head
+    ctx.fillStyle = f.skin; ctx.beginPath(); ctx.ellipse(0, -58, 72, 88, 0, 0, 7); ctx.fill();
+    // hair
+    ctx.fillStyle = f.hair;
+    if (f.style === 'short') { ctx.beginPath(); ctx.ellipse(0, -112, 76, 46, 0, Math.PI, 0); ctx.fill(); ctx.beginPath(); ctx.moveTo(-76, -112); ctx.quadraticCurveTo(-70, -150, 0, -152); ctx.quadraticCurveTo(70, -150, 76, -112); ctx.lineTo(70, -84); ctx.quadraticCurveTo(40, -122, -10, -118); ctx.quadraticCurveTo(-56, -116, -70, -84); ctx.closePath(); ctx.fill(); }
+    else if (f.style === 'side') { ctx.beginPath(); ctx.moveTo(-74, -80); ctx.quadraticCurveTo(-80, -150, -10, -150); ctx.quadraticCurveTo(70, -152, 76, -86); ctx.quadraticCurveTo(50, -126, -24, -120); ctx.quadraticCurveTo(-56, -114, -74, -80); ctx.closePath(); ctx.fill(); ctx.strokeStyle = 'rgba(0,0,0,0.12)'; ctx.lineWidth = 3; ctx.beginPath(); ctx.moveTo(-30, -146); ctx.quadraticCurveTo(-26, -132, -40, -120); ctx.stroke(); }
+    else { ctx.beginPath(); ctx.ellipse(0, -100, 72, 50, 0, Math.PI * 1.02, -0.02); ctx.fill(); }
+    // beard
+    if (f.beard === 'full') { ctx.fillStyle = f.hair; ctx.beginPath(); ctx.moveTo(-70, -60); ctx.quadraticCurveTo(-72, 18, 0, 34); ctx.quadraticCurveTo(72, 18, 70, -60); ctx.quadraticCurveTo(62, -20, 40, -14); ctx.quadraticCurveTo(0, -30, -40, -14); ctx.quadraticCurveTo(-62, -20, -70, -60); ctx.closePath(); ctx.fill(); }
+    if (f.beard === 'goatee') { ctx.fillStyle = f.hair; ctx.beginPath(); ctx.ellipse(0, 6, 26, 22, 0, 0, 7); ctx.fill(); ctx.fillRect(-30, -22, 60, 9); }
+    // brows, eyes (gentle blink), nose, smile
+    ctx.strokeStyle = f.style === 'side' ? '#9A928A' : f.hair; ctx.lineWidth = 7; ctx.lineCap = 'round';
+    for (const sx of [-1, 1]) { ctx.beginPath(); ctx.moveTo(sx * 18, -86); ctx.quadraticCurveTo(sx * 34, -94, sx * 48, -86); ctx.stroke(); }
+    const blink = ((t + f.seed * 1.3) % 3.7) < 0.12;
+    ctx.fillStyle = '#1A1440'; for (const sx of [-1, 1]) { ctx.beginPath(); ctx.ellipse(sx * 32, -64, 8, blink ? 1.5 : 9, 0, 0, 7); ctx.fill(); }
+    ctx.strokeStyle = f.shade; ctx.lineWidth = 5; ctx.beginPath(); ctx.moveTo(0, -56); ctx.quadraticCurveTo(-8, -34, 4, -32); ctx.stroke();
+    ctx.strokeStyle = f.beard === 'full' ? '#F3E3D3' : '#5A2E22'; ctx.lineWidth = 5; ctx.beginPath(); ctx.moveTo(-22, -12); ctx.quadraticCurveTo(0, 2, 22, -12); ctx.stroke();
+  };
+  // illustrated portrait card: silhouette bust (no likeness), name plate
+  const portrait = (ctx, x, y, s, name, sub, k, { col = C.teal, face = FACES.elsayed, t = 0 } = {}) => {
     if (k <= 0) return;
     P.at(ctx, x, y, k, 0, () => {
       ctx.scale(s, s);
       P.sticker(ctx, -170, -210, 340, 360, col, { r: 40, border: 10 });
       ctx.save(); P.rr(ctx, -170, -210, 340, 360, 40); ctx.clip();
-      ctx.fillStyle = 'rgba(26,20,64,0.9)';
-      ctx.beginPath(); ctx.ellipse(0, 150, 150, 120, 0, Math.PI, 0); ctx.fill();          // shoulders
-      ctx.fillRect(-36, -10, 72, 60);                                                     // neck
-      ctx.beginPath(); ctx.ellipse(0, -60, 78, 92, 0, 0, 7); ctx.fill();                  // head
-      ctx.fillStyle = C.paper; ctx.beginPath(); ctx.moveTo(-34, 40); ctx.lineTo(0, 110); ctx.lineTo(34, 40); ctx.closePath(); ctx.fill(); // shirt collar
-      ctx.fillStyle = col; ctx.beginPath(); ctx.moveTo(-10, 52); ctx.lineTo(10, 52); ctx.lineTo(14, 120); ctx.lineTo(0, 140); ctx.lineTo(-14, 120); ctx.closePath(); ctx.fill(); // tie
+      bust(ctx, face, t);
       ctx.restore();
       if (name) { P.sticker(ctx, -230, 175, 460, 92, C.ink, { r: 22, border: 7 }); G.text(ctx, name, 0, 236, { size: 46, fam: P.FT.title, color: C.paper, align: 'center', boil: 0 }); }
       if (sub) G.text(ctx, sub, 0, 330, { size: 30, fam: 'Inter', weight: 800, color: C.yellow, align: 'center', boil: 0 });
@@ -123,7 +152,7 @@
     P.tag(ctx, 'MICHIGAN', 700, 470, t, ev.s2_map, 1e9, { size: 46, bg: C.teal, txt: C.ink, rot: 0.04 });
     // ballot check mark
     if (t >= ev.s2_vote && t < ev.s2_name + 0.3) { const k = pop(t, ev.s2_vote, 0.3, 2); P.at(ctx, 700, 590, k, 0, () => { P.sticker(ctx, -60, -40, 120, 80, C.paper, { r: 12, border: 4, shadow: 5 }); }); P.check(ctx, 700, 590, 60, t, ev.s2_vote + 0.05, C.plum); }
-    portrait(ctx, CX, 855, 1, 'ABDUL EL-SAYED', 'SENATOR-ELECT · MICHIGAN', pop(t, ev.s2_name, 0.45, 1.6));
+    portrait(ctx, CX, 855, 1, 'ABDUL EL-SAYED', 'SENATOR-ELECT · MICHIGAN', pop(t, ev.s2_name, 0.45, 1.6), { face: FACES.elsayed, t });
     P.stamp(ctx, 'FIRST IN U.S. HISTORY', CX, 1315, t, ev.sync_first, { size: 58, rot: -0.04 });
     P.flash(ctx, t, ev.sync_first);
   } });
@@ -131,7 +160,7 @@
   // ================= S3 — son of Egyptian immigrants; public health; never held office =================
   SH.push({ at: ev.s3, in: { type: 'fade', dur: 0.25 }, draw(ctx, t) {
     P.bg(ctx, t);
-    portrait(ctx, 250, 520, 0.62, null, null, pop(t, ev.s3 + 0.05, 0.4, 1.6), { col: C.teal });
+    portrait(ctx, 250, 520, 0.62, null, null, pop(t, ev.s3 + 0.05, 0.4, 1.6), { col: C.teal, face: FACES.elsayed, t });
     ui(ctx, 'ABDUL EL-SAYED', 650, 470, { size: 40, fam: P.FT.title, alpha: fin(t, ev.s3 + 0.1) });
     ui(ctx, 'WHO IS HE?', 650, 530, { size: 34, color: C.yellow, alpha: fin(t, ev.s3 + 0.2) });
     const card = (y, t0, col, draw, line1, line2) => { const k = pop(t, t0, 0.35, 1.8); if (k <= 0) return; P.at(ctx, CX, y, k, 0, () => { P.sticker(ctx, -400, -85, 800, 170, col, { r: 30, border: 8 }); draw(); G.text(ctx, line1, -150, -6, { size: 42, fam: P.FT.title, color: C.ink, align: 'left', boil: 0 }); G.text(ctx, line2, -150, 46, { size: 30, fam: 'Inter', weight: 800, color: C.ink, align: 'left', boil: 0 }); }); };
@@ -169,9 +198,9 @@
     const fwd = t < ev.s5_time ? 2018 : Math.round(Data.count(t, ev.s5_time, ev.s5_time + 0.6, 2018, 2026, ease.outCubic));
     P.at(ctx, CX, 330, 1, 0, () => P.digits(ctx, String(fwd), 0, 0, { size: 90, color: fwd === 2026 ? C.yellow : C.line, bg: 'rgba(26,20,64,0.75)' }));
     // two neutral candidate cards (same colours: no side taken)
-    const cardC = (x, t0, name, party, win) => { const k = pop(t, t0, 0.35, 1.8); if (k <= 0) return; P.at(ctx, x, 720, k, 0, () => { P.sticker(ctx, -200, -170, 400, 340, C.paper, { r: 30, border: 8 }); ctx.fillStyle = 'rgba(26,20,64,0.9)'; ctx.beginPath(); ctx.arc(0, -60, 60, 0, 7); ctx.fill(); ctx.beginPath(); ctx.ellipse(0, 70, 110, 80, 0, Math.PI, 0); ctx.fill(); G.text(ctx, name, 0, 120, { size: 40, fam: P.FT.title, color: C.ink, align: 'center', boil: 0 }); G.text(ctx, party, 0, 158, { size: 26, fam: 'Inter', weight: 800, color: C.plum, align: 'center', boil: 0 }); }); };
-    cardC(280, ev.s5 + 0.1, 'EL-SAYED', 'DEMOCRAT');
-    cardC(720, ev.s5_rogers, 'ROGERS', 'REPUBLICAN');
+    const cardC = (x, t0, name, party, face) => { const k = pop(t, t0, 0.35, 1.8); if (k <= 0) return; P.at(ctx, x, 720, k, 0, () => { P.sticker(ctx, -200, -170, 400, 340, C.paper, { r: 30, border: 8 }); ctx.save(); P.rr(ctx, -200, -170, 400, 250, 30); ctx.clip(); ctx.fillStyle = C.dim; ctx.fillRect(-200, -170, 400, 250); ctx.translate(0, -20); ctx.scale(0.62, 0.62); bust(ctx, face, t); ctx.restore(); G.text(ctx, name, 0, 120, { size: 40, fam: P.FT.title, color: C.ink, align: 'center', boil: 0 }); G.text(ctx, party, 0, 158, { size: 26, fam: 'Inter', weight: 800, color: C.plum, align: 'center', boil: 0 }); }); };
+    cardC(280, ev.s5 + 0.1, 'EL-SAYED', 'DEMOCRAT', FACES.elsayed);
+    cardC(720, ev.s5_rogers, 'ROGERS', 'REPUBLICAN', FACES.rogers);
     P.stamp(ctx, 'WON', 280, 480, t, ev.sync_won, { size: 80, color: C.yellow, rot: -0.08 });
     // the open seat
     const ks = pop(t, ev.s5_seat, 0.4, 1.8);
@@ -199,7 +228,7 @@
     ui(ctx, 'THE ROAD', 230, 300, { size: 34, color: C.dim, alpha: fin(t, ev.s6_ruler) });
     // Capitol + Ellison card
     ctx.save(); ctx.globalAlpha *= fin(t, ev.s6 + 0.1, 0.5); dome(ctx, CX, 860, 1.25 + 0.03 * clamp((t - ev.s6) / 6), 'rgba(255,246,232,0.32)'); ctx.restore();
-    portrait(ctx, CX, 860, 0.85, 'KEITH ELLISON', 'U.S. HOUSE · MINNESOTA', pop(t, ev.s6_name, 0.45, 1.6), { col: C.coral });
+    portrait(ctx, CX, 860, 0.85, 'KEITH ELLISON', 'U.S. HOUSE · MINNESOTA', pop(t, ev.s6_name, 0.45, 1.6), { col: C.coral, face: FACES.ellison, t });
     P.stamp(ctx, 'FIRST MUSLIM IN CONGRESS', CX, 1300, t, ev.sync_congress, { size: 52, rot: -0.03 });
     P.flash(ctx, t, ev.sync_congress);
   } });

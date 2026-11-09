@@ -1,6 +1,6 @@
 # Whyverse daily trend Short — 2026-11-09 — "The first Muslim U.S. senator"
 
-status: scheduled 2026-11-09 19:00 Asia/Baku (= 15:00 London) on YouTube Shorts, Instagram Reels, TikTok (see ../../posts.json).
+status: v2 (illustrated faces) scheduled 2026-11-09 19:00 Asia/Baku (= 15:00 London) on YouTube Shorts, Instagram Reels, TikTok (see ../../posts.json).
 
 - **Topic:** PLAN.md "TOPIC OVERRIDE for 2026-11-09" (Gartal's request). Abdul El-Sayed won Michigan's U.S. Senate seat on
   3 Nov 2026 and will be the first Muslim senator in U.S. history. Neutral and factual (POLITICS rule): both candidates shown
@@ -43,3 +43,8 @@ status: scheduled 2026-11-09 19:00 Asia/Baku (= 15:00 London) on YouTube Shorts,
   1789 → Jan 2027 = 238 years. The Senate has 100 seats (2 per state × 50).
 - Illustrative: the chamber seating layout and gold seat position; silhouettes are not likenesses.
 - Not used (unverified this run): vote shares, his age/education, the 2018 primary percentage.
+
+## v2 — Gartal 2026-11-09 16:28 Baku: "they don't have faces"
+- Silhouettes replaced with flat illustrated faces (FACES in shots.js: El-Sayed dark hair + beard, Rogers grey hair clean-shaven, Ellison short hair + goatee; suits, gentle blink). No caricature; not photos.
+- Real photos: Claude does not pull photos of public figures from the web; Gartal may supply rights-cleared ones (e.g. public-domain official portraits) and they go in as framed prints.
+- Media: shorts/2026-11-09_first-muslim-senator_v2.mp4; Metricool posts updated (new ids in posts.json).

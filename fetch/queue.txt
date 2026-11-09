@@ -450,3 +450,10 @@ search_goldmine.json https://commons.wikimedia.org/w/api.php?action=query&format
 search_khinalig_sheep.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1280&gsrsearch=Khinalig%20sheep
 2026-11-09_1_khinalig_g_full.jpg https://upload.wikimedia.org/wikipedia/commons/9/90/X%C4%B1nal%C4%B1q_village_of_Quba_Raion%2C_Azerbaijan%2C_in_2025_%2826183%29.jpg
 2026-11-09_1_khinalig_j_full.jpg https://upload.wikimedia.org/wikipedia/commons/f/f5/Khinalug_village_in_winter.jpg
+2026-11-09_T_antalya.jpg https://images.unsplash.com/photo-1644522236794-3a120ab06744?fm=jpg&q=85&w=1600
+2026-11-10_3_tristan.jpg https://images.unsplash.com/photo-1710232154263-336085a264a0?fm=jpg&q=85&w=1600
+search_bayil_stones.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1280&gsrsearch=Bayil%20stones
+search_sabayil.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1280&gsrsearch=Sabayil%20castle
+search_europa.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1280&gsrsearch=Europa%20moon%20Galileo%20PIA
+search_baku_oil1900.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1280&gsrsearch=Baku%20oil%20derricks%20Balakhany
+search_livingstone.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1280&gsrsearch=Stanley%20meeting%20Livingstone

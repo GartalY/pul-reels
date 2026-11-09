@@ -112,3 +112,14 @@ https://www.youtube.com/channel/UCTWyyqP6HJP64E7fA7QphGg
 - Long episodes stay at 3 a week (Whyverse = mainly long videos); the weekly review's 3 → 2 idea is rejected.
 - YouTube Shorts: only standalone 1-minute animations + ONE hook cut per new episode (day after the episode). Other cuts:
   Instagram + TikTok only (TikTok likes the cuts: Einstein 933). Already-scheduled extra YouTube cuts 9–11 Nov set to draft.
+
+## DAILY TREND SHORT (Gartal 2026-11-09) — replaces the every-4-days 1-minute task
+- Every day: scheduled task "Whyverse – daily trend Short" at 15:31 Baku looks for the biggest worldwide moment of
+  the last ~48 h with a strong hook ("historic first", "why did this happen", a record, a discovery), animates a
+  ~45–60 s vertical Short the same day and publishes it at 19:00 Baku on YouTube Shorts, Instagram and TikTok.
+  If there is no good trend, an evergreen surprising fact (blueprint "how does X work?" is a good fallback).
+- Long episodes stay at 3 a week (night task).
+- POLITICS (Gartal 2026-11-09): neutral, factual historic moments from anywhere are allowed, incl. US elections
+  (e.g. first Muslim US senator). Never take sides, praise or attack a party/politician; never anything about
+  Azerbaijani politics. Tragedies: sober mode (no jokes, no CTA hype).
+- Every Short needs a hook in the first 2 s and a reason to watch to the end (a reveal/payoff at the end).

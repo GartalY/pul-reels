@@ -129,3 +129,5 @@ https://www.youtube.com/channel/UCTWyyqP6HJP64E7fA7QphGg
   2007); Zohran Mamdani, New York City mayor since 1 Jan 2026. Neutral and factual, no party praise/attack. Re-verify.
 
 - CUT SHORTS (2026-11-09): only the 2 strongest cut points per long episode get published (was 5).
+
+- SEARCH (2026-11-09): searchable keywords in the first caption line, on screen in the first 2 s and in the YouTube title; 3–5 specific hashtags only (no #fyp/#viral piles).

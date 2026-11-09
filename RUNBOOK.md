@@ -62,6 +62,24 @@ Every text (caption, slide, reel beat, quiz, story, first comment) must read lik
 Daily bilirdinizmi plan is now: 11:00 YouTube repost · 13:00 AZ reel · 16:00 motion reel · 18:30 trend reel ·
 19:45 YouTube repost · 21:30 AZ reel (platform rules unchanged).
 
+## TREND & SEARCH UPGRADE 2026-11-09 (Gartal approved all three) — applies to both brands
+1. KEYWORDS OVER HASHTAGS. Instagram allows max 5 hashtags and they barely move reach; search does. Every reel:
+   the main searchable words (place, person, thing: "Bakı", "Qız qalası", "Neptun") in the FIRST caption line,
+   on screen in the first 2 s, and in the YouTube title. Then exactly 3–5 SPECIFIC hashtags (topic + place +
+   #bilirdinizmi), never generic piles (#fyp #viral #explore). Same for Whyverse in English.
+2. AZERBAIJAN TRENDS FIRST at 09:10/15:23 (section D): before world news, check what Azerbaijan is talking about
+   today — report.az, apa.az, oxu.az, trend.az, azertag.az, sports (Qarabağ FK, national team), weather/events in
+   Baku, Google Trends Azerbaijan — and prefer a local story when it has a fact angle. Azerbaijani politics stays
+   off-limits; tragedies sober mode. Note the source used in the day JSON `trend.source_scan`.
+3. TRENDING INSTAGRAM SOUND TEST (Tue 10 – Sat 14 Nov): the 18:30 trend reel AND the 21:30 reel on INSTAGRAM only get
+   a trending song from Instagram's own library via Metricool `instagramData.audioConfiguration`
+   ({"audioId": "<numeric id or exact song title + artist>", "audioVolume": 15, "videoVolume": 100} — voice stays
+   on top). Find this week's trending Reels audio with web search (Later / Buffer / Hootsuite "trending Instagram
+   audio this week" posts, dated within 7 days; or a song Gartal names). If Metricool can't resolve it to exactly
+   one catalogue song, pick another; if it rejects audioConfiguration entirely, post without and log why. Log
+   `ig_audio: {title, artist, id}` in the day JSON. NOT on TikTok/YouTube copies (own audio only there).
+   Sunday 15 Nov review: compare these 10 reels vs the same slots the week before (views, sends, follows).
+
 ## STRATEGY RESET 2026-11-03 (Claude as manager; Gartal: "you're the manager, go with it") — OVERRIDES everything below
 Why: after 18 days IG has 45 followers (~3 follows per 1 000 viewers), TikTok 1 follower (most videos 0–10 views,
 31 Oct all six ≤ 3), while YouTube Shorts settle at ~900–1 150 views each and subscribers went 6 → 20 in 4 days.

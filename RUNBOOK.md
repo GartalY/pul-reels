@@ -54,6 +54,14 @@ Every text (caption, slide, reel beat, quiz, story, first comment) must read lik
    episode cuts go to IG + TikTok only. 9–11 Nov YouTube cuts set to draft: 417123683→421070463, 420291777→421070834,
    420291948→421070848, 420292202→421070856, 420292400→421070881. Kept: 420291605 (9 Nov 21:00 ep03 hook).
 
+## CUTS 2026-11-09 (Gartal approved, to save usage) — OVERRIDE everything below
+1. NO 10:00 "Tarixdə bu gün" carousel and NO 10:00 on-this-day story any more (section H and the `history`
+   carousel are paused). Don't research, write, render or schedule them.
+2. NO quiz stories any more (11:00 / 14:00 and their answers): don't run quizplan.py, don't schedule stories.
+3. Whyverse: only 2 Shorts cut from each long episode (was 5); the daily 19:00 trend Short covers the rest.
+Daily bilirdinizmi plan is now: 11:00 YouTube repost · 13:00 AZ reel · 16:00 motion reel · 18:30 trend reel ·
+19:45 YouTube repost · 21:30 AZ reel (platform rules unchanged).
+
 ## STRATEGY RESET 2026-11-03 (Claude as manager; Gartal: "you're the manager, go with it") — OVERRIDES everything below
 Why: after 18 days IG has 45 followers (~3 follows per 1 000 viewers), TikTok 1 follower (most videos 0–10 views,
 31 Oct all six ≤ 3), while YouTube Shorts settle at ~900–1 150 views each and subscribers went 6 → 20 in 4 days.

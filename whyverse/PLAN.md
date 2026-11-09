@@ -127,3 +127,5 @@ https://www.youtube.com/channel/UCTWyyqP6HJP64E7fA7QphGg
   the first Muslim US senator. Son of Egyptian immigrants, former public health official, never held office, lost the
   2018 Michigan governor primary and came back. History beats: Keith Ellison, first Muslim in Congress (sworn in
   2007); Zohran Mamdani, New York City mayor since 1 Jan 2026. Neutral and factual, no party praise/attack. Re-verify.
+
+- CUT SHORTS (2026-11-09): only the 2 strongest cut points per long episode get published (was 5).

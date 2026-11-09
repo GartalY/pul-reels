@@ -419,6 +419,37 @@
    "time_london": "2026-11-11T17:00",
    "network": "tiktok",
    "metricool_id": 420292418
+  },
+  {
+   "episode": "short_2026-11-09_rain-glacier",
+   "kind": "minute",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-09_rain-glacier.mp4",
+   "time_london": "2026-11-09T20:00",
+   "network": "youtube",
+   "metricool_id": 421594946,
+   "style": "blueprint",
+   "topic": "Rain speeds up Turner Glacier, Alaska (7.5 m in a day): how water at the bed makes ice slide",
+   "title": "Rain Made This Glacier Slide 7.5 m in One Day #shorts"
+  },
+  {
+   "episode": "short_2026-11-09_rain-glacier",
+   "kind": "minute",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-09_rain-glacier.mp4",
+   "time_london": "2026-11-09T20:00",
+   "network": "instagram",
+   "metricool_id": 421594994,
+   "style": "blueprint",
+   "topic": "Rain speeds up Turner Glacier, Alaska (7.5 m in a day): how water at the bed makes ice slide"
+  },
+  {
+   "episode": "short_2026-11-09_rain-glacier",
+   "kind": "minute",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-09_rain-glacier.mp4",
+   "time_london": "2026-11-09T20:00",
+   "network": "tiktok",
+   "metricool_id": 421595028,
+   "style": "blueprint",
+   "topic": "Rain speeds up Turner Glacier, Alaska (7.5 m in a day): how water at the bed makes ice slide"
   }
  ]
 }

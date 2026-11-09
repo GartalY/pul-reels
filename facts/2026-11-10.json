@@ -1,6 +1,6 @@
 {
  "date": "2026-11-10",
- "status": "planned",
+ "status": "scheduled",
  "format": "v2",
  "content_format": "v4",
  "planned_note": "Planned in the 2026-11-09 09:10 run (format v4). Tue 10 Nov. 10:00 TBG carousel = Stanley finds Livingstone at Ujiji (10 Nov 1871, date disputed). 13:00 AZ reel (VOICED, PART 1/2 of the twice-weekly two-part story) = Sabayil (Bayil) castle: built ~1235 on an island 300 m off Baku, 180 m long, 15 towers, sank after the 1306 earthquake. PART 2 = Wed 11 Nov 13:00 (the 10 Nov 09:10 run writes it): reappeared 1723 when the sea dropped; 1939-1969 Academy of Sciences work raised ~700 inscribed stones (Persian script, faces, animals, names of Shirvanshahs); they now stand in the Shirvanshahs' Palace courtyard; ruins visible from the Boulevard / Ferris wheel (sources: azer.com 82_sabayil, advantour bail-castle, azernews 201360, Wikipedia Sabayil_Castle; photo spare fetch/img/2026-11-10_1_bayil_stones2.jpg + search_bayil_stones.json). 16:00 reel (SILENT, MOTION) = Europa ocean ~2x Earth's oceans. 18:30 trend backup reel (SILENT) = Tristan da Cunha, 2 435 km to the nearest neighbour. 21:30 reel (AZ angle, MOTION from 10 Nov per DECISIONS 2026-11-09; voice_texts given in case the build stays voiced) = 1901: Baku ~11 million t, more than half of world oil.",
@@ -377,5 +377,40 @@
    },
    "voice_note": "Built as a SILENT motion reel (≤ 25 s rule for motion, DECISIONS 2026-11-09 #3); voice_texts kept unused. No AI label."
   }
- ]
+ ],
+ "metricool": {
+  "13:00 reel (Səbail qalası 1/2, voiced)": 422128459,
+  "16:00 reel (Europa, MOTION, silent)": 422134042,
+  "18:30 reel (trend backup Tristan da Cunha, silent)": 422129772,
+  "21:30 reel (Baku oil 1901, MOTION, silent)": 422136079
+ },
+ "tiktok": {
+  "13:00 Səbail qalası 1/2": 422128505,
+  "18:30 Baku oil 1901 (2nd AZ video, DECISIONS 2026-11-09 #2)": 422136115
+ },
+ "youtube": {
+  "13:00 Səbail qalası 1/2": 422128577,
+  "16:00 Europa": 422134138,
+  "21:30 Baku oil 1901": 422136146
+ },
+ "pending_schedule": [],
+ "reposts": "None: DECISIONS 2026-11-09 #1 (Gartal) = YouTube 3 Shorts/day, no 11:00/19:45 reposts and no 18:30 Short (overrides the older task-prompt wording). Nothing logged in facts/tiktok_reposts.json.",
+ "paused": "No TBG carousel/10:00 story (history block left unused) and no quiz stories (CUTS 2026-11-09).",
+ "ig_audio": {
+  "status": "not used",
+  "why": "Trending-sound test (18:30/21:30 IG): Metricool's Instagram catalogue returned no official track for 'Linger - The Cranberries', 'Blue Moon - Zara Larsson' or 'Everlong - Foo Fighters' (only user 'original_sound' uploads/covers, rights unclear), so both reels went out with their own audio. Tried 2026-11-09 evening build."
+ },
+ "built": {
+  "when": "2026-11-09 20:46-21:12 Asia/Baku",
+  "reels": {
+   "1": "factgen voiced (Banu +15%), 31.6 s; photo = portrait composite of the Sabayil photo so the ruin sits above the text box",
+   "2": "MOTION prototypes/anim_studio_europa 24.7 s: Europa photo -> next to the Moon (ring) -> water spheres Earth vs Europa x2 -> ice/ocean/rock layers + Europa Clipper counter to aprel 2030",
+   "3": "factgen silent 23.4 s (nbsp fix '2 435 km')",
+   "4": "MOTION prototypes/anim_studio_oil1901 24.7 s: photochrome postcard hook -> pie 51.5 % -> bars 1900 Baku 11,5 vs USA 9,1 -> name pills Nobellər/Rotşildlər/yerli milyonçular. Built SILENT (motion <=25 s) -> no AI label"
+  },
+  "checked": "5 frames each of reels 1/3, 8+ frames of both motion reels; fixes: reel 1 new crop, reel 3 nbsp, Europa ice label moved, oil '1-ci yer' badge overlapped 11,5 -> moved",
+  "motion_status": "both motion builds OK, no static fallback"
+ },
+ "trend_check_evening": "9 Nov 21:00: no big AZ/world story found that beats the plan (searches thin). Candidates for the 15:23 swap: 10 Nov = Atatürk's death anniversary (1938, Turkish link); COP31 Antalya continues. 18:30 IG stays Tristan backup unless swapped; TikTok 18:30 = oil reel (unchanged by swaps).",
+ "scheduled_check": "getScheduledPosts 10 Nov before: 0 posts. After: 9 (IG 4, TikTok 2 at 13:00/18:30, YouTube 3 at 13:00/16:00/21:30), each network/time once."
 }

@@ -79,6 +79,10 @@ Daily bilirdinizmi plan is now: 11:00 YouTube repost · 13:00 AZ reel · 16:00 m
    one catalogue song, pick another; if it rejects audioConfiguration entirely, post without and log why. Log
    `ig_audio: {title, artist, id}` in the day JSON. NOT on TikTok/YouTube copies (own audio only there).
    Sunday 15 Nov review: compare these 10 reels vs the same slots the week before (views, sends, follows).
+   ⚠️ 9 Nov evening build: the Metricool IG catalogue returned NO official track for 'Linger' (Cranberries), 'Blue Moon'
+   (Zara Larsson) or 'Everlong' (Foo Fighters) — only users' 'original_sound' rips/covers (rights unclear, don't use) and
+   unrelated royalty-free songs. Next runs: try at most 2 searches with the numeric id of an audioType=music result whose
+   title + artist match exactly; otherwise post without and log it. If it never resolves by 12 Nov, drop the test.
 
 ## STRATEGY RESET 2026-11-03 (Claude as manager; Gartal: "you're the manager, go with it") — OVERRIDES everything below
 Why: after 18 days IG has 45 followers (~3 follows per 1 000 viewers), TikTok 1 follower (most videos 0–10 views,

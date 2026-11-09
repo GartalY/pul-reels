@@ -123,3 +123,7 @@ https://www.youtube.com/channel/UCTWyyqP6HJP64E7fA7QphGg
   (e.g. first Muslim US senator). Never take sides, praise or attack a party/politician; never anything about
   Azerbaijani politics. Tragedies: sober mode (no jokes, no CTA hype).
 - Every Short needs a hook in the first 2 s and a reason to watch to the end (a reveal/payoff at the end).
+- TOPIC OVERRIDE for 2026-11-09 (Gartal's request): Abdul El-Sayed won Michigan's US Senate seat on 3 Nov 2026 →
+  the first Muslim US senator. Son of Egyptian immigrants, former public health official, never held office, lost the
+  2018 Michigan governor primary and came back. History beats: Keith Ellison, first Muslim in Congress (sworn in
+  2007); Zohran Mamdani, New York City mayor since 1 Jan 2026. Neutral and factual, no party praise/attack. Re-verify.

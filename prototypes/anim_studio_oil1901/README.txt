@@ -1,0 +1,1 @@
+Baku 1901 oil motion reel (21:30, 10 Nov 2026). Engine copy of anim_studio_andromeda; assets/oil.jpg = fetch/img/2026-11-10_4_bibiheybat_photochrome.jpg minus the Russian header (rows 95+). node song.js && node engine/render.js video && node engine/render.js mux

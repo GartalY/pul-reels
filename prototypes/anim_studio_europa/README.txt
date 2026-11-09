@@ -1,0 +1,1 @@
+Europa ocean motion reel (16:00, 10 Nov 2026). Copy of anim_studio_andromeda engine; assets/eu.jpg = square crop of fetch/img/2026-11-10_2_europa.jpg. node song.js && node engine/render.js video && node engine/render.js mux

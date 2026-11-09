@@ -1,0 +1,856 @@
+1
+00:00:01,240 --> 00:00:03,114
+Right now, sitting perfectly still,
+
+2
+00:00:03,134 --> 00:00:03,989
+you are moving.
+
+3
+00:00:04,009 --> 00:00:04,629
+Fast.
+
+4
+00:00:05,399 --> 00:00:06,719
+For most people on Earth,
+
+5
+00:00:06,939 --> 00:00:10,025
+the ground under your feet is swinging around the planet's
+
+6
+00:00:10,045 --> 00:00:13,003
+axis at more than a thousand kilometres an hour.
+
+7
+00:00:13,433 --> 00:00:14,263
+At the equator,
+
+8
+00:00:14,283 --> 00:00:16,403
+it's about sixteen hundred and seventy.
+
+9
+00:00:16,673 --> 00:00:18,602
+That's faster than the speed of sound.
+
+10
+00:00:19,352 --> 00:00:20,467
+You don't feel a thing.
+
+11
+00:00:20,487 --> 00:00:21,517
+But what if, one day,
+
+12
+00:00:21,537 --> 00:00:22,816
+Earth just stopped?
+
+13
+00:00:23,966 --> 00:00:25,136
+No more spin.
+
+14
+00:00:25,436 --> 00:00:27,166
+The winds, the oceans,
+
+15
+00:00:27,196 --> 00:00:28,802
+even the length of a day would change
+
+16
+00:00:28,822 --> 00:00:30,587
+in ways that are hard to believe.
+
+17
+00:00:31,337 --> 00:00:33,692
+So, what would happen if Earth stopped spinning?
+
+18
+00:00:39,422 --> 00:00:40,282
+Chapter one.
+
+19
+00:00:40,302 --> 00:00:41,797
+The ride you never feel.
+
+20
+00:00:42,477 --> 00:00:44,897
+If we're all moving faster than a jet plane,
+
+21
+00:00:45,047 --> 00:00:47,347
+why does everything feel perfectly still?
+
+22
+00:00:47,777 --> 00:00:49,347
+Earth turns once a day.
+
+23
+00:00:49,617 --> 00:00:50,577
+To be exact,
+
+24
+00:00:50,597 --> 00:00:53,427
+once every twenty three hours and fifty six minutes,
+
+25
+00:00:53,457 --> 00:00:55,080
+measured against the stars.
+
+26
+00:00:55,510 --> 00:00:56,390
+In that time,
+
+27
+00:00:56,410 --> 00:00:59,450
+a spot on the equator travels all the way around,
+
+28
+00:00:59,600 --> 00:01:01,580
+about forty thousand kilometres.
+
+29
+00:01:01,910 --> 00:01:05,309
+That's roughly sixteen hundred and seventy kilometres an hour.
+
+30
+00:01:06,069 --> 00:01:08,559
+Move toward the poles and your circle gets smaller,
+
+31
+00:01:08,579 --> 00:01:09,769
+so you go slower.
+
+32
+00:01:10,099 --> 00:01:12,589
+Baku, about twelve hundred and seventy.
+
+33
+00:01:12,869 --> 00:01:15,209
+London, about a thousand and forty.
+
+34
+00:01:15,359 --> 00:01:16,739
+Stand on the North Pole,
+
+35
+00:01:16,759 --> 00:01:18,547
+and you just turn on the spot.
+
+36
+00:01:19,387 --> 00:01:21,437
+The spin even changes your weight.
+
+37
+00:01:21,767 --> 00:01:24,687
+On the equator,
+
+38
+00:01:24,837 --> 00:01:27,307
+it flings you outward just a little,
+
+39
+00:01:27,327 --> 00:01:28,207
+so you weigh about a third of a percent
+
+40
+00:01:28,227 --> 00:01:29,581
+less than you would if the planet stood still.
+
+41
+00:01:30,321 --> 00:01:31,601
+So why don't we feel it?
+
+42
+00:01:31,771 --> 00:01:34,661
+Because your body only feels changes in speed.
+
+43
+00:01:34,931 --> 00:01:36,001
+On a smooth flight,
+
+44
+00:01:36,111 --> 00:01:37,277
+you can pour a drink at
+
+45
+00:01:37,297 --> 00:01:39,107
+nine hundred kilometres an hour.
+
+46
+00:01:39,837 --> 00:01:42,036
+Earth is the smoothest ride there is.
+
+47
+00:01:42,056 --> 00:01:44,357
+The ground, the air, the oceans, and you,
+
+48
+00:01:44,377 --> 00:01:45,795
+all move together.
+
+49
+00:01:46,235 --> 00:01:48,325
+The trouble starts if one of them stops,
+
+50
+00:01:48,345 --> 00:01:49,539
+and the others don't.
+
+51
+00:01:51,309 --> 00:01:52,129
+Chapter two.
+
+52
+00:01:52,149 --> 00:01:53,309
+The sudden stop.
+
+53
+00:01:53,989 --> 00:01:56,489
+Imagine the planet hits the brakes in an instant.
+
+54
+00:01:56,699 --> 00:01:57,779
+The ground stops.
+
+55
+00:01:57,799 --> 00:01:58,561
+You don't.
+
+56
+00:01:58,991 --> 00:02:02,101
+Everything that isn't bolted to bedrock keeps going east,
+
+57
+00:02:02,211 --> 00:02:05,131
+at up to sixteen hundred and seventy kilometres an hour.
+
+58
+00:02:05,481 --> 00:02:08,363
+People, cars, trees, loose rock.
+
+59
+00:02:09,193 --> 00:02:10,773
+The air keeps going too.
+
+60
+00:02:11,113 --> 00:02:13,093
+A wind more than three times faster
+
+61
+00:02:13,113 --> 00:02:15,873
+than the strongest tornado winds ever measured,
+
+62
+00:02:16,013 --> 00:02:18,373
+sweeping across the whole planet at once.
+
+63
+00:02:19,113 --> 00:02:20,888
+And the oceans would slosh out of
+
+64
+00:02:20,908 --> 00:02:23,505
+their basins and surge across the continents.
+
+65
+00:02:23,935 --> 00:02:27,325
+Buildings ripped from their foundations, forests flattened,
+
+66
+00:02:27,495 --> 00:02:29,520
+the land swept clean of almost anything
+
+67
+00:02:29,540 --> 00:02:31,685
+that isn't part of the rock itself.
+
+68
+00:02:32,145 --> 00:02:33,386
+Now, the honest part.
+
+69
+00:02:33,406 --> 00:02:34,962
+This can't actually happen.
+
+70
+00:02:34,982 --> 00:02:37,326
+Earth's spin holds about two times ten
+
+71
+00:02:37,346 --> 00:02:39,951
+to the twenty nine joules of energy.
+
+72
+00:02:40,781 --> 00:02:43,094
+That's more than three hundred million years
+
+73
+00:02:43,114 --> 00:02:45,101
+of all the energy humanity uses.
+
+74
+00:02:45,391 --> 00:02:48,191
+Nothing we know of could stop that in an instant.
+
+75
+00:02:48,931 --> 00:02:50,881
+So let's take the gentler version.
+
+76
+00:02:51,121 --> 00:02:53,041
+The spin slowly winds down,
+
+77
+00:02:53,061 --> 00:02:54,351
+all the way to zero.
+
+78
+00:02:54,631 --> 00:02:57,482
+Even then, our planet would be unrecognisable.
+
+79
+00:02:59,262 --> 00:03:00,182
+Chapter three.
+
+80
+00:03:00,202 --> 00:03:01,637
+The oceans move out.
+
+81
+00:03:02,317 --> 00:03:03,417
+Without the spin,
+
+82
+00:03:03,507 --> 00:03:05,993
+the oceans would pack up and leave the equator.
+
+83
+00:03:06,423 --> 00:03:08,433
+Spinning has squashed our planet.
+
+84
+00:03:08,763 --> 00:03:11,451
+Earth is about forty three kilometres wider at the
+
+85
+00:03:11,471 --> 00:03:13,832
+equator than it is from pole to pole.
+
+86
+00:03:14,272 --> 00:03:16,572
+The spin flings water outward too.
+
+87
+00:03:16,872 --> 00:03:18,267
+Today the oceans are piled up
+
+88
+00:03:18,287 --> 00:03:19,912
+in a bulge around the middle,
+
+89
+00:03:20,002 --> 00:03:21,714
+about eight kilometres high.
+
+90
+00:03:22,464 --> 00:03:23,564
+Stop the spin,
+
+91
+00:03:23,614 --> 00:03:25,304
+and all that water flows downhill,
+
+92
+00:03:25,324 --> 00:03:26,440
+toward the poles.
+
+93
+00:03:27,380 --> 00:03:31,050
+Geographer Witold Fraczek modelled this with mapping software.
+
+94
+00:03:31,460 --> 00:03:33,730
+The result: two great oceans,
+
+95
+00:03:33,750 --> 00:03:35,090
+one around each pole,
+
+96
+00:03:35,190 --> 00:03:36,821
+and a single giant continent wrapped
+
+97
+00:03:36,841 --> 00:03:38,641
+around the middle of the planet.
+
+98
+00:03:39,681 --> 00:03:41,331
+Measured from the new sea level,
+
+99
+00:03:41,411 --> 00:03:44,441
+the Andes would rise more than twelve kilometres high.
+
+100
+00:03:44,801 --> 00:03:46,591
+Your favourite beach would be a long,
+
+101
+00:03:46,611 --> 00:03:48,147
+long way from the sea.
+
+102
+00:03:48,577 --> 00:03:50,451
+A few deep basins would keep
+
+103
+00:03:50,471 --> 00:03:52,507
+some water as isolated seas.
+
+104
+00:03:52,797 --> 00:03:54,422
+And the two polar oceans wouldn't
+
+105
+00:03:54,442 --> 00:03:56,127
+even sit at the same height.
+
+106
+00:03:56,457 --> 00:04:00,274
+Their surfaces would differ by about one point four kilometres.
+
+107
+00:04:02,054 --> 00:04:03,014
+Chapter four.
+
+108
+00:04:03,034 --> 00:04:04,557
+A day that lasts a year.
+
+109
+00:04:05,227 --> 00:04:06,557
+If Earth stopped turning,
+
+110
+00:04:06,637 --> 00:04:09,019
+your next sunrise could be six months away.
+
+111
+00:04:09,449 --> 00:04:11,209
+We'd still race around the Sun,
+
+112
+00:04:11,299 --> 00:04:14,429
+at about a hundred and seven thousand kilometres an hour.
+
+113
+00:04:14,849 --> 00:04:16,049
+But with no spin,
+
+114
+00:04:16,139 --> 00:04:18,679
+each place would face the Sun for half the year,
+
+115
+00:04:18,769 --> 00:04:20,677
+and face away for the other half.
+
+116
+00:04:21,507 --> 00:04:22,917
+Six months of daylight.
+
+117
+00:04:23,117 --> 00:04:24,357
+The day side would bake,
+
+118
+00:04:24,377 --> 00:04:26,186
+with no night to cool it down.
+
+119
+00:04:26,626 --> 00:04:27,516
+Six months of darkness.
+
+120
+00:04:27,536 --> 00:04:31,316
+The night side would sink into a long, deep freeze.
+
+121
+00:04:32,146 --> 00:04:34,353
+Every plant and animal tuned to a twenty
+
+122
+00:04:34,373 --> 00:04:36,761
+four hour rhythm would suddenly be living on
+
+123
+00:04:36,781 --> 00:04:39,193
+a calendar where one day is one year.
+
+124
+00:04:39,613 --> 00:04:41,543
+The weather would change completely.
+
+125
+00:04:41,813 --> 00:04:44,953
+Today, the spin bends moving air sideways.
+
+126
+00:04:45,173 --> 00:04:47,073
+It's called the Coriolis effect,
+
+127
+00:04:47,093 --> 00:04:49,251
+and it's what makes hurricanes rotate.
+
+128
+00:04:49,681 --> 00:04:51,564
+Without it, no spinning storms.
+
+129
+00:04:51,584 --> 00:04:53,141
+Models suggest one giant,
+
+130
+00:04:53,161 --> 00:04:54,283
+slow flow of air,
+
+131
+00:04:54,303 --> 00:04:56,983
+from the hot side to the cold side.
+
+132
+00:04:57,713 --> 00:05:02,213
+And deep below us,
+
+133
+00:05:02,283 --> 00:05:03,176
+the spin helps organise the swirling liquid
+
+134
+00:05:03,196 --> 00:05:04,233
+iron that makes Earth's magnetic field.
+
+135
+00:05:04,633 --> 00:05:08,109
+Many scientists think that shield would weaken dramatically.
+
+136
+00:05:09,889 --> 00:05:10,869
+Chapter five.
+
+137
+00:05:10,889 --> 00:05:12,413
+It's already slowing down.
+
+138
+00:05:13,113 --> 00:05:14,183
+Here's the twist.
+
+139
+00:05:14,263 --> 00:05:16,293
+Earth's spin really is winding down.
+
+140
+00:05:16,343 --> 00:05:17,239
+Right now.
+
+141
+00:05:17,659 --> 00:05:20,759
+The Moon pulls on our oceans and raises tides.
+
+142
+00:05:21,089 --> 00:05:23,729
+As the planet turns under those tidal bulges,
+
+143
+00:05:23,819 --> 00:05:25,867
+friction works like a gentle brake.
+
+144
+00:05:26,297 --> 00:05:27,237
+On average,
+
+145
+00:05:27,327 --> 00:05:28,841
+a day gets longer by about
+
+146
+00:05:28,861 --> 00:05:31,488
+one point eight milliseconds every century.
+
+147
+00:05:32,228 --> 00:05:38,218
+Tiny, but it adds up.
+
+148
+00:05:38,258 --> 00:05:39,029
+Fossil corals from about four hundred million
+
+149
+00:05:39,049 --> 00:05:39,701
+years ago have growth lines that show
+
+150
+00:05:39,721 --> 00:05:40,598
+around four hundred days in a year.
+
+151
+00:05:41,018 --> 00:05:44,107
+Back then, a day lasted about twenty two hours.
+
+152
+00:05:44,947 --> 00:05:47,117
+The spin we lose doesn't just vanish.
+
+153
+00:05:47,377 --> 00:05:48,697
+It's handed to the Moon,
+
+154
+00:05:48,717 --> 00:05:50,412
+which drifts away from us by about
+
+155
+00:05:50,432 --> 00:05:52,437
+three point eight centimetres a year.
+
+156
+00:05:52,837 --> 00:05:54,967
+Astronauts left mirrors on the Moon,
+
+157
+00:05:54,987 --> 00:05:56,699
+and lasers still measure it.
+
+158
+00:05:57,539 --> 00:05:59,239
+The spin also wobbles.
+
+159
+00:05:59,549 --> 00:06:00,849
+On the fifth of July,
+
+160
+00:06:00,869 --> 00:06:02,059
+twenty twenty four,
+
+161
+00:06:02,169 --> 00:06:05,019
+Earth set its record for the shortest day ever measured,
+
+162
+00:06:05,179 --> 00:06:07,754
+one point six six milliseconds short.
+
+163
+00:06:08,204 --> 00:06:09,734
+Since nineteen seventy two,
+
+164
+00:06:09,814 --> 00:06:12,427
+timekeepers have added twenty seven leap seconds to
+
+165
+00:06:12,447 --> 00:06:14,804
+keep our clocks in step with the planet.
+
+166
+00:06:15,234 --> 00:06:18,473
+This autumn, they voted to retire the leap second.
+
+167
+00:06:20,253 --> 00:06:21,213
+Chapter six.
+
+168
+00:06:21,233 --> 00:06:22,735
+Worlds that hit the brakes.
+
+169
+00:06:23,415 --> 00:06:26,205
+Some worlds really did slow almost to a stop.
+
+170
+00:06:26,405 --> 00:06:28,371
+One of them is our closest neighbour.
+
+171
+00:06:28,811 --> 00:06:31,491
+Venus turns so slowly, and backwards,
+
+172
+00:06:31,511 --> 00:06:33,098
+that one spin takes two hundred
+
+173
+00:06:33,118 --> 00:06:34,721
+and forty three Earth days.
+
+174
+00:06:35,071 --> 00:06:36,651
+That's longer than its whole year,
+
+175
+00:06:36,671 --> 00:06:38,429
+of two hundred and twenty five.
+
+176
+00:06:39,199 --> 00:06:41,699
+From one sunrise to the next on Venus,
+
+177
+00:06:41,829 --> 00:06:44,520
+about a hundred and seventeen Earth days go by.
+
+178
+00:06:44,980 --> 00:06:46,860
+Mercury is stranger still.
+
+179
+00:06:47,170 --> 00:06:48,713
+It spins three times for every
+
+180
+00:06:48,733 --> 00:06:50,250
+two trips around the Sun,
+
+181
+00:06:50,290 --> 00:06:51,690
+so one Mercury day,
+
+182
+00:06:51,720 --> 00:06:53,260
+sunrise to sunrise,
+
+183
+00:06:53,290 --> 00:06:54,855
+lasts two of its years.
+
+184
+00:06:55,685 --> 00:06:59,065
+Venus also has no global magnetic field of its own,
+
+185
+00:06:59,255 --> 00:07:02,113
+though scientists still debate exactly why.
+
+186
+00:07:02,563 --> 00:07:04,123
+Our Moon has stopped spinning,
+
+187
+00:07:04,143 --> 00:07:05,563
+at least as seen from here.
+
+188
+00:07:05,913 --> 00:07:07,273
+Earth's pull locked it,
+
+189
+00:07:07,293 --> 00:07:09,462
+so it always shows us the same face.
+
+190
+00:07:09,892 --> 00:07:11,762
+Could Earth end up locked to the Moon?
+
+191
+00:07:11,992 --> 00:07:13,372
+In theory, yes,
+
+192
+00:07:13,392 --> 00:07:15,812
+but only after tens of billions of years.
+
+193
+00:07:16,132 --> 00:07:17,052
+Long before that,
+
+194
+00:07:17,072 --> 00:07:18,912
+in about five billion years,
+
+195
+00:07:18,972 --> 00:07:21,483
+the Sun will swell into a red giant.
+
+196
+00:07:22,733 --> 00:07:24,639
+So, what if Earth stopped spinning?
+
+197
+00:07:25,069 --> 00:07:27,599
+A sudden stop would scour the planet clean.
+
+198
+00:07:27,919 --> 00:07:30,449
+A slow one would move the oceans to the poles,
+
+199
+00:07:30,509 --> 00:07:32,139
+stretch a day into a year,
+
+200
+00:07:32,219 --> 00:07:34,740
+and swap our storms for one long wind.
+
+201
+00:07:35,580 --> 00:07:37,660
+Spin gives us more than sunrise.
+
+202
+00:07:37,910 --> 00:07:39,320
+It shapes the oceans,
+
+203
+00:07:39,340 --> 00:07:40,320
+steers the weather,
+
+204
+00:07:40,340 --> 00:07:42,745
+and helps power the shield around our world.
+
+205
+00:07:43,475 --> 00:07:44,685
+And it's still turning,
+
+206
+00:07:44,705 --> 00:07:45,356
+carrying most of us more than
+
+207
+00:07:45,376 --> 00:07:46,185
+a thousand kilometres every hour.
+
+208
+00:07:46,205 --> 00:07:50,395
+So smoothly, you never noticed.
+
+209
+00:07:50,545 --> 00:07:51,567
+Until now.
+
+210
+00:07:52,897 --> 00:07:54,647
+If you enjoyed this,
+
+211
+00:07:54,667 --> 00:07:56,237
+give it a like,
+
+212
+00:07:56,517 --> 00:07:57,897
+and subscribe to Whyverse.
+
+213
+00:07:57,977 --> 00:07:59,667
+And for shorter stories,
+
+214
+00:07:59,687 --> 00:08:00,141
+find us on Instagram and TikTok.
+

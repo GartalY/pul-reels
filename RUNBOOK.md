@@ -62,6 +62,9 @@ Every text (caption, slide, reel beat, quiz, story, first comment) must read lik
 Daily bilirdinizmi plan is now: 11:00 YouTube repost · 13:00 AZ reel · 16:00 motion reel · 18:30 trend reel ·
 19:45 YouTube repost · 21:30 AZ reel (platform rules unchanged).
 
+## USAGE FALLBACK (Gartal 2026-11-10)
+If the weekly usage runs low before the Friday-night reset, FRIDAY's posts are the ones to skip (Gartal: "we can skip posting Friday"). Never skip a Whyverse long episode for it.
+
 ## TREND & SEARCH UPGRADE 2026-11-09 (Gartal approved all three) — applies to both brands
 1. KEYWORDS OVER HASHTAGS. Instagram allows max 5 hashtags and they barely move reach; search does. Every reel:
    the main searchable words (place, person, thing: "Bakı", "Qız qalası", "Neptun") in the FIRST caption line,

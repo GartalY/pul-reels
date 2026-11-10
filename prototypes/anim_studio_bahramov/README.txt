@@ -1,0 +1,1 @@
+Tofiq Bahramov 1966 motion reel (21:30, 11 Nov 2026). Copy of anim_studio_oil1901 engine; assets/bah.jpg = fetch/img/2026-11-11_4_bahramov.jpg. Audio = ambience + SFX only. node song.js && node engine/render.js video && node engine/render.js mux

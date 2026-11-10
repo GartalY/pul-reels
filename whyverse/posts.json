@@ -552,6 +552,40 @@
    "metricool_id": 422462983,
    "style": "chalk",
    "title": "What If Earth Stopped Spinning Instantly?"
+  },
+  {
+   "episode": "short_2026-11-10_robot-builds-in-space",
+   "kind": "trend",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-10_robot-builds-in-space.mp4",
+   "time_london": "2026-11-10T15:00",
+   "time_baku": "2026-11-10T19:00",
+   "style": "neon",
+   "topic": "Caltech ASTRA: first structure built autonomously in space (no astronauts), DARPA NOM4D",
+   "network": "youtube",
+   "metricool_id": 423055277,
+   "title": "A Robot Just Built Something in Space, No Astronauts #shorts"
+  },
+  {
+   "episode": "short_2026-11-10_robot-builds-in-space",
+   "kind": "trend",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-10_robot-builds-in-space.mp4",
+   "time_london": "2026-11-10T15:00",
+   "time_baku": "2026-11-10T19:00",
+   "style": "neon",
+   "topic": "Caltech ASTRA: first structure built autonomously in space (no astronauts), DARPA NOM4D",
+   "network": "instagram",
+   "metricool_id": 423055309
+  },
+  {
+   "episode": "short_2026-11-10_robot-builds-in-space",
+   "kind": "trend",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-10_robot-builds-in-space.mp4",
+   "time_london": "2026-11-10T15:00",
+   "time_baku": "2026-11-10T19:00",
+   "style": "neon",
+   "topic": "Caltech ASTRA: first structure built autonomously in space (no astronauts), DARPA NOM4D",
+   "network": "tiktok",
+   "metricool_id": 423055331
   }
  ]
 }

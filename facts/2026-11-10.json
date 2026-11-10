@@ -381,8 +381,8 @@
   "metricool": {
     "13:00 reel (Səbail qalası 1/2, voiced)": 422128459,
     "16:00 reel (Europa, MOTION, silent)": 422134042,
-    "18:30 reel (trend backup Tristan da Cunha, silent)": 422129772,
-    "21:30 reel (Baku oil 1901, MOTION, silent)": 422136079
+    "21:30 reel (Baku oil 1901, MOTION, silent)": 422136079,
+    "18:30 reel (TREND Atatürk 88th anniversary, silent; swapped 15:28)": 423026811
   },
   "tiktok": {
     "13:00 Səbail qalası 1/2": 422128505,
@@ -446,6 +446,20 @@
       "https://www.dailysabah.com/turkey/turkey-remembers-mustafa-kemal-ataturk-on-anniversary-of-his-passing/news"
     ],
     "source_scan": "10 Nov 09:10: azertag/apa/report.az searches (only military oath ceremonies, Victory Day echoes = off-limits/thin), Qarabağ (no match today), world top headlines (US Iran-war politics - not suitable); no dominant safe story -> Atatürk 88th death anniversary (Turkish link, flagged in 9 Nov evening check).",
-    "planned_at": "2026-11-10 09:40 Baku (morning run)"
+    "planned_at": "2026-11-10 09:40 Baku (morning run)",
+    "built": {
+      "file": "out/2026-11-10/T_reel.mp4",
+      "dur_s": 20.7,
+      "hook_bg": true,
+      "audio": "ambience only",
+      "at": "2026-11-10 15:28 Baku"
+    }
+  },
+  "trend_swap": {
+    "what": "18:30 IG reel Tristan da Cunha (422129772) -> Atatürk 88th death anniversary trend reel (423026811), same time",
+    "why": "10 Nov = Atatürk commemoration (09:05 sirens across Türkiye), Turkish link, no stronger safe AZ/world story in the 09:10 scan",
+    "platforms": "Instagram only per DECISIONS 2026-11-09 #1/#2: TikTok 18:30 stays Baku oil 1901 (422136115, 2nd AZ video); YouTube has no 18:30 Short",
+    "quiz": "none (quiz stories cut 2026-11-09)",
+    "backup_moved": "Tristan da Cunha (facts[2]) -> backlog, out/2026-11-10/3_reel.mp4 never published; reuse as a later 18:30 backup"
   }
 }

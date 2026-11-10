@@ -475,3 +475,7 @@ search_1111_bahramov2.json https://commons.wikimedia.org/w/api.php?action=query&
 search_1111_bahramov3.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&iiurlwidth=1600&gsrsearch=Bəhramov
 2026-11-11_3_deadsea_salt.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Dead_Sea_salt3.jpg/1280px-Dead_Sea_salt3.jpg
 2026-11-11_3_deadsea_jordan.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Dead_Sea%2C_Jordan_02.jpg/1280px-Dead_Sea%2C_Jordan_02.jpg
+2026-11-11_4_bahramov.jpg https://upload.wikimedia.org/wikipedia/commons/d/d6/Tofiq_Bahramov.jpg
+2026-11-11_4_bahramov_stadium.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Qaraba%C4%9F_-_Simurq_match_in_Tofiq_Bahramov_Stadium.JPG/1280px-Qaraba%C4%9F_-_Simurq_match_in_Tofiq_Bahramov_Stadium.JPG
+2026-11-11_2_ganymede_juno.png https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Ganymede_-_Perijove_34_Composite.png/1600px-Ganymede_-_Perijove_34_Composite.png
+2026-11-11_2_ganymede_galileo.jpg https://upload.wikimedia.org/wikipedia/commons/f/f2/Ganymede_g1_true-edit1.jpg

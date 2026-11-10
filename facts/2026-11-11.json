@@ -1,6 +1,6 @@
 {
  "date": "2026-11-11",
- "status": "planned",
+ "status": "scheduled",
  "format": "v2",
  "content_format": "v4 + CUTS/DECISIONS 2026-11-09",
  "planned_note": "Planned in the 2026-11-10 09:10 run. Wed 11 Nov. No TBG carousel / on-this-day story / quizzes (CUTS 2026-11-09). 13:00 AZ reel (VOICED, PART 2/2) = Səbail castle: sea receded from 1723, ~700 stones raised 1939-1969, now in the Shirvanshahs' Palace courtyard. 16:00 reel (SILENT, MOTION) = Ganymede 5 260 km, bigger than Mercury. 18:30 trend backup reel (SILENT) = Dead Sea 430 m below sea level, drops ~1 m a year. 21:30 reel (AZ angle, MOTION; voice_texts given in case it stays voiced) = Tofiq Bahramov, 1966 World Cup final linesman. TikTok 18:30 default = the Bahramov reel (AZ angle) per DECISIONS 2026-11-09 #2.",
@@ -159,7 +159,8 @@
  "metricool": {
   "13:00 reel (Səbail qalası 2/2, voiced)": 423414609,
   "18:30 reel (Dead Sea backup, silent)": 423415119,
-  "21:30 reel (Tofiq Bəhramov 1966, MOTION, silent)": 423424140
+  "21:30 reel (Tofiq Bəhramov 1966, MOTION, silent)": 423424140,
+  "16:00 reel (Ganymede, MOTION, silent)": 423430669
  },
  "tiktok": {
   "13:00 Səbail qalası 2/2": 423415081,
@@ -167,7 +168,23 @@
  },
  "youtube": {
   "13:00 Səbail qalası 2/2": 423415060,
-  "21:30 Tofiq Bəhramov 1966": 423424233
+  "21:30 Tofiq Bəhramov 1966": 423424233,
+  "16:00 Ganymede": 423430689
  },
- "pending_schedule": []
+ "pending_schedule": [],
+ "reposts": "None: DECISIONS 2026-11-09 #1 (Gartal) = YouTube 3 Shorts/day, no 11:00/19:45 reposts and no 18:30 Short (overrides the task-prompt wording). Nothing logged in facts/tiktok_reposts.json.",
+ "paused": "No TBG carousel/10:00 story and no quiz stories (CUTS 2026-11-09).",
+ "built": {
+  "when": "2026-11-10 20:47-21:10 Asia/Baku",
+  "reels": {
+   "1": "factgen voiced (Banu +15%), 32.3 s, hook_bg on (busy stone photo), ambience only, AI label on IG/YT/TikTok",
+   "2": "MOTION prototypes/anim_studio_ganymede 24.7 s: Juno photo -> shrinks next to Mercury (Ganymede drawn slightly bigger, 5 260 vs 4 880 km) -> mass bars (Ganymede ~45 %) -> ice/ocean layers + JUICE counter to 2031. Audio = noise ambience + whoosh/thud/tick/pop only (no music)",
+   "3": "factgen silent 20.4 s, ambience only",
+   "4": "MOTION prototypes/anim_studio_bahramov 24.7 s: portrait hook -> scoreboard 2:2 + clock to 101' + ƏLAVƏ VAXT -> side-on goal, ball hits bar, QOL? -> flag QOL! Tofiq Bəhramov -> 4:2 + pills 1966 dünya çempionu / 1993 Tofiq Bəhramov stadionu. Silent, no AI label"
+  },
+  "checked": "6 frames of reels 1/3, 12-frame storyboards + 9 frames of final motion files; fixes: reel 1 hook_bg, Ganymede/Mercury disc sizes (first render showed Mercury bigger), 'yarısı qədər' label moved off the title/right edge",
+  "motion_status": "both motion builds OK, no static fallback"
+ },
+ "trend_check_evening": "10 Nov ~20:50: news searches thin, no big AZ/world story that beats tomorrow's plan; no swap. 15:23 candidates for 11 Nov: Armistice Day (11 Nov 1918), COP31. 18:30 IG stays Dead Sea backup unless swapped; TikTok 18:30 = Bahramov (unchanged by swaps).",
+ "scheduled_check": "getScheduledPosts 11 Nov before: 0 posts. After: 9 (IG 4 at 13:00/16:00/18:30/21:30, TikTok 2 at 13:00/18:30, YouTube 3 at 13:00/16:00/21:30), each network/time once."
 }

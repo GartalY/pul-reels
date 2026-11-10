@@ -187,7 +187,23 @@ def render_frame(spec, t, total):
     d.rectangle([0, H - 10, W * t / total, H], fill=COL["gold"])
     return im
 
-# ---------------- original background music ----------------
+# ---------------- non-melodic ambience (2026-11-10) ----------------
+def ambience(path, seconds, seed=1):
+    """Soft filtered noise, no notes, no rhythm. Meta has NO music licences in Azerbaijan, so any reel its systems
+    treat as containing music gets muted there (10 Nov: Sabail 1/2 muted in AZ, Belarus, Iran, China ... — the same
+    country list as the 29 Oct horse-tram block). No melody = nothing to match."""
+    import wave
+    sr = 44100; n = int(sr * seconds); rng = np.random.default_rng(seed)
+    x = rng.standard_normal(n); y = np.zeros(n); a = 0.004; acc = 0.0
+    for i in range(n):              # very dark brown-ish noise
+        acc += a * (x[i] - acc); y[i] = acc
+    y = y / (np.abs(y).max() + 1e-9) * 0.05
+    fade = np.minimum(1, np.minimum(np.arange(n) / sr / 0.6, (seconds - np.arange(n) / sr) / 0.8))
+    y = (y * fade * 32767).astype(np.int16)
+    with wave.open(path, "wb") as w:
+        w.setnchannels(1); w.setsampwidth(2); w.setframerate(sr); w.writeframes(y.tobytes())
+
+# ---------------- original background music (NOT for bilirdinizmi reels since 2026-11-10) ----------------
 def music(path, seconds, seed=1):
     sr = 44100; n = int(sr * seconds); t = np.arange(n) / sr
     rng = np.random.default_rng(seed)

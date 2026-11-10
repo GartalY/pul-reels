@@ -7,7 +7,7 @@ python3 factgen.py story photo.jpg out.jpg  '{"n":"1/3","q":..}'
 import json, subprocess, sys, tempfile, os
 from PIL import Image, ImageDraw, ImageFont, ImageFilter, ImageOps
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from reelgen import music, wrap, ease
+from reelgen import music, ambience, wrap, ease
 
 FD = "/usr/share/fonts/opentype/inter/"
 def F(w, s): return ImageFont.truetype(FD + f"InterDisplay-{w}.otf", s)
@@ -155,7 +155,8 @@ def reel(photo, out, c):
             for q, l in enumerate(cl): d.text((100, 1483 + q * 54), l, font=fc, fill=INK)
         d.rectangle([0, H - 8, W * t / dur, H], fill=GOLD)
         fr.save(f"{tmp}/{i:05d}.jpg", quality=90)
-    music(f"{tmp}/m.wav", dur, c.get("seed", 1))
+    # 2026-11-10: no melodic music on bilirdinizmi reels (Meta has no music rights in Azerbaijan -> muted there)
+    (music if c.get("music") else ambience)(f"{tmp}/m.wav", dur, c.get("seed", 1))
     if VO:   # voice at its segment start, music ducked underneath
         starts = [0.1] + [HK + START[j] + 0.1 for j in range(len(beats))]
         ins, fl = ["-i", f"{tmp}/m.wav"], [f"[0:a]volume={c.get('music_vol', 0.18)}[m]"]

@@ -62,6 +62,20 @@ Every text (caption, slide, reel beat, quiz, story, first comment) must read lik
 Daily bilirdinizmi plan is now: 11:00 YouTube repost · 13:00 AZ reel · 16:00 motion reel · 18:30 trend reel ·
 19:45 YouTube repost · 21:30 AZ reel (platform rules unchanged).
 
+## NO MUSIC ON BILIRDINIZMI (2026-11-10) — OVERRIDES every music/sound rule below
+10 Nov 13:00 Sabail 1/2 (voiced, only our own synth music, no songs) was MUTED "in countries where Meta does not have
+music rights": Azerbaijan, Belarus, Iran, China, Cuba, North Korea, Andorra … — the same list as the 29 Oct horse-tram
+block. Meta has no music licences in Azerbaijan, our main audience, so anything its systems read as music gets
+muted there. Rules from now on, for ALL bilirdinizmi reels (static and motion, all platforms):
+1. No melodic music bed (no chords, pads, melodies, beats). factgen.py now uses reelgen.ambience() (soft noise, no
+   notes) by default; never pass `music: true` for bilirdinizmi.
+2. Motion reels (animation-studio): voice + short non-melodic SFX (whoosh, tick, pop, thud) + ambience only; delete
+   the pad/chord/marimba/music-box/bell tracks from song.js. No tonal "stings".
+3. The TRENDING INSTAGRAM SOUND TEST is CANCELLED for bilirdinizmi (Instagram library music is exactly what Meta
+   can't license in Azerbaijan). Remove any audioConfiguration from not-yet-published bilirdinizmi posts.
+4. Never "Restore"/dispute these claims. Log every muted/blocked reel with its territories in reviews/rights.md.
+Whyverse (global audience) may keep its own synth music beds.
+
 ## USAGE FALLBACK (Gartal 2026-11-10)
 If the weekly usage runs low before the Friday-night reset, FRIDAY's posts are the ones to skip (Gartal: "we can skip posting Friday"). Never skip a Whyverse long episode for it.
 
@@ -74,7 +88,7 @@ If the weekly usage runs low before the Friday-night reset, FRIDAY's posts are t
    today — report.az, apa.az, oxu.az, trend.az, azertag.az, sports (Qarabağ FK, national team), weather/events in
    Baku, Google Trends Azerbaijan — and prefer a local story when it has a fact angle. Azerbaijani politics stays
    off-limits; tragedies sober mode. Note the source used in the day JSON `trend.source_scan`.
-3. TRENDING INSTAGRAM SOUND TEST (Tue 10 – Sat 14 Nov): the 18:30 trend reel AND the 21:30 reel on INSTAGRAM only get
+3. [CANCELLED 2026-11-10 for bilirdinizmi — see NO MUSIC ON BILIRDINIZMI] TRENDING INSTAGRAM SOUND TEST (Tue 10 – Sat 14 Nov): the 18:30 trend reel AND the 21:30 reel on INSTAGRAM only get
    a trending song from Instagram's own library via Metricool `instagramData.audioConfiguration`
    ({"audioId": "<numeric id or exact song title + artist>", "audioVolume": 15, "videoVolume": 100} — voice stays
    on top). Find this week's trending Reels audio with web search (Later / Buffer / Hootsuite "trending Instagram

@@ -1,0 +1,1 @@
+Ganymede motion reel (16:00, 11 Nov 2026). Copy of anim_studio_europa; assets/gan.jpg = fetch/img/2026-11-11_2_ganymede_juno2.png. Audio = ambience + SFX only (no music). node song.js && node engine/render.js video && node engine/render.js mux

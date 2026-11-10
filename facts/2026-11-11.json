@@ -1,151 +1,173 @@
 {
-  "date": "2026-11-11",
-  "status": "planned",
-  "format": "v2",
-  "content_format": "v4 + CUTS/DECISIONS 2026-11-09",
-  "planned_note": "Planned in the 2026-11-10 09:10 run. Wed 11 Nov. No TBG carousel / on-this-day story / quizzes (CUTS 2026-11-09). 13:00 AZ reel (VOICED, PART 2/2) = Səbail castle: sea receded from 1723, ~700 stones raised 1939-1969, now in the Shirvanshahs' Palace courtyard. 16:00 reel (SILENT, MOTION) = Ganymede 5 260 km, bigger than Mercury. 18:30 trend backup reel (SILENT) = Dead Sea 430 m below sea level, drops ~1 m a year. 21:30 reel (AZ angle, MOTION; voice_texts given in case it stays voiced) = Tofiq Bahramov, 1966 World Cup final linesman. TikTok 18:30 default = the Bahramov reel (AZ angle) per DECISIONS 2026-11-09 #2.",
-  "facts": [
-    {
-      "n": 1,
-      "type": "reel",
-      "cat": "Azərbaycan",
-      "voiced": true,
-      "part": "2/2",
-      "subject": "Sabayil (Bayil) castle part 2: the sea receded from 1723 (azer.com) and the ruins resurfaced in the early 18th century (Wikipedia); from the 1930s the ruins could be seen under water (azer.com); 1939-1969 archaeological expedition raised 'more than 700' (Wikipedia) / 'close to 700' (azer.com) inscribed stone panels; inscriptions in Arabic and Persian, images of people, animals, birds, mythical animals; names of 15 Shirvanshahs (Wikipedia); azer.com: human faces, oxen, dogs, camels, birds; stones now in the courtyard of the Shirvanshahs' Palace, Icherisheher (Wikipedia, azer.com). Recap from part 1: built ~1235, ~300 m offshore, sank after 1306.",
-      "photo_request": "inscribed Bayil stone (Commons, already fetched)",
-      "title": "700 daş dənizin dibindən",
-      "text": "Dənizin altında qalan Səbail qalasının 700-ə yaxın daşını 1939–1969-cu illərdə sudan çıxardılar. İndi onlar Şirvanşahlar sarayının həyətindədir.",
-      "reel_hook": "700 DAŞ DƏNİZİN DİBİNDƏN (2/2)",
-      "reel_beats": [
-        "Dünən danışdıq: Səbail qalası 1306-cı ildə Bakı buxtasında suyun altında qaldı. Bəs sonra nə oldu?",
-        "XVIII əsrdə Xəzər geri çəkildi və qalanın xarabalığı yenidən göründü. 1939–1969-cu illərdə alimlər dənizdən 700-ə yaxın daş çıxardılar.",
-        "Daşlarda ərəb və fars dilində yazılar, insan üzləri və heyvan şəkilləri var. Onları bu gün İçərişəhərdə, Şirvanşahlar sarayının həyətində görə bilərsən."
-      ],
-      "voice_texts": [
-        "Yeddi yüz daş dənizin dibindən çıxdı.",
-        "Dünən danışdıq: Səbail qalası min üç yüz altıncı ildə Bakı buxtasında suyun altında qaldı. Bəs sonra nə oldu?",
-        "On səkkizinci əsrdə Xəzər geri çəkildi və qalanın xarabalığı yenidən göründü. Min doqquz yüz otuz doqquzdan min doqquz yüz altmış doqquzuncu ilə qədər alimlər dənizdən yeddi yüzə yaxın daş çıxardılar.",
-        "Daşlarda ərəb və fars dilində yazılar, insan üzləri və heyvan şəkilləri var. Onları bu gün İçərişəhərdə, Şirvanşahlar sarayının həyətində görə bilərsən."
-      ],
-      "cta": "Hər gün 13:00-da yeni Bakı faktı — izlə!",
-      "caption": "Səbail qalası: dənizin dibindən 700 daş çıxdı 🌊 (2/2)\n\nDünən danışdıq: Bakı buxtasındakı Səbail (Bayıl) qalası 1306-cı ildə suyun altında qaldı. XVIII əsrdə Xəzər geri çəkildi və qalanın xarabalığı yenidən göründü. 1939–1969-cu illərdə alimlər dənizdən 700-ə yaxın daş çıxardılar. Daşlarda ərəb və fars dilində yazılar, insan üzləri, quş və heyvan şəkilləri var. Yazılarda 15 Şirvanşahın adı tapılıb. Bu daşları bu gün İçərişəhərdə, Şirvanşahlar sarayının həyətində öz gözünlə görə bilərsən.\n\n📩 İçərişəhərdə gəzməyi sevən dostuna göndər — növbəti dəfə bu daşlara baxsın 😄\n\n👉 Hər gün Azərbaycan haqqında bilmədiyin bir fakt — izlə ki, qaçırmayasan\n\nFoto: Urmen19 / Wikimedia Commons (CC BY-SA 4.0)\n\n#bilirdinizmi #səbailqalası #bakı #içərişəhər #tarix",
-      "first_comment": "1-ci hissə profildədir 👆 Sən bu daşları Şirvanşahlar sarayında görmüsən? 👇",
-      "photo": {
-        "path": "fetch/img/2026-11-10_1_bayil_stones2.jpg",
-        "credit": "Urmen19 / Wikimedia Commons (CC BY-SA 4.0)",
-        "cy": 0.45,
-        "full": true,
-        "source": "https://commons.wikimedia.org/wiki/File:Bay%C4%B1l_da%C5%9Flar%C4%B1_2.JPG",
-        "note": "1280x2067 portrait, an inscribed Bayil stone with Arabic-script carving, checked: no watermark. Spare: 2026-11-10_1_bayil_place.jpg (ruin + Ferris wheel, Interfase CC BY-SA 3.0)."
-      },
-      "sources": [
-        "https://en.wikipedia.org/wiki/Sabayil_Castle",
-        "https://www.azer.com/aiweb/categories/magazine/82_folder/82_articles/82_sabayil.html"
-      ]
-    },
-    {
-      "n": 2,
-      "type": "reel",
-      "cat": "Kosmos",
-      "voiced": false,
-      "motion": true,
-      "subject": "Ganymede: largest moon in the Solar System, diameter ~5 260 km (ESA: 'With a diameter of about 5260 km'), larger than Mercury (ESA; Space.com: 'Although Ganymede is larger than Mercury it only has half its mass'); Mercury diameter 4 879 km (NASA, standard); only moon known to have its own magnetic field (ESA: 'No other moon in the Solar System is known to have one'); subsurface saltwater ocean (ESA, Space.com); ESA JUICE reaches Jupiter in 2031 (ESA; Space.com says Dec 2031 in an older update - keep the year only) and will later orbit Ganymede.",
-      "photo_request": "Ganymede Juno PJ34 composite (Commons)",
-      "title": "Planetdən böyük peyk",
-      "text": "Yupiterin peyki Qanimedin diametri təxminən 5 260 km-dir. Bu, Merkuri planetindən də böyükdür.",
-      "reel_hook": "5 260 KM: PLANETDƏN BÖYÜK PEYK",
-      "reel_beats": [
-        "Yupiterin peyki Qanimed Günəş sistemindəki ən böyük peykdir. Onun diametri təxminən 5 260 km-dir.",
-        "Bu, Merkuri planetindən də böyükdür: Merkurinin diametri 4 880 km-dir. Amma Qanimed yüngüldür, kütləsi Merkurinin yarısı qədərdir.",
-        "Öz maqnit sahəsi olan yeganə peyk də odur. Buzun altında isə duzlu okean var. Avropanın «JUICE» aparatı 2031-ci ildə ora çatacaq."
-      ],
-      "cta": "Hər gün yeni fakt — izlə!",
-      "caption": "Qanimed: Merkuri planetindən böyük peyk 🪐\n\nYupiterin peyki Qanimed Günəş sistemindəki ən böyük peykdir: diametri təxminən 5 260 km-dir. Merkuri planetinin diametri isə 4 880 km-dir. Yəni bu peyk bir planetdən böyükdür! Amma Qanimed yüngüldür, kütləsi Merkurinin yarısı qədərdir, çünki çoxu buzdan ibarətdir. Öz maqnit sahəsi olan yeganə peykdir, buz qabığının altında isə duzlu okean var. Avropa Kosmik Agentliyinin «JUICE» aparatı 2031-ci ildə Yupiterə çatacaq.\n\n📩 «Peyk planetdən böyük ola bilməz» deyən dostuna göndər 😄\n\n👉 Hər gün yeni fakt — izlə ki, qaçırmayasan\n\nFoto: NASA / JPL-Caltech / SwRI / MSSS / Kevin M. Gill (CC BY 2.0)\n\n#bilirdinizmi #qanimed #yupiter #kosmos",
-      "first_comment": "Səncə, Qanimedin okeanında həyat ola bilər? 👇",
-      "photo": {
-        "path": "fetch/img/2026-11-11_2_ganymede_juno2.png",
-        "credit": "NASA / JPL-Caltech / SwRI / MSSS / Kevin M. Gill (CC BY 2.0)",
-        "cy": 0.5,
-        "full": false,
-        "source": "https://commons.wikimedia.org/wiki/File:Ganymede_-_Perijove_34_Composite.png",
-        "note": "Juno flyby 7 Jun 2021 composite; spare = 2026-11-11_2_ganymede_galileo.jpg (NASA/JPL, PD, 860x860, globe slightly cut on the right)."
-      },
-      "sources": [
-        "https://sci.esa.int/web/juice/-/59905-juice-s-primary-target-ganymede",
-        "https://www.space.com/16440-ganymede-facts-about-jupiters-largest-moon.html",
-        "https://science.nasa.gov/mercury/facts/"
-      ]
-    },
-    {
-      "n": 3,
-      "type": "reel",
-      "cat": "Coğrafiya",
-      "voiced": false,
-      "subject": "Dead Sea: surface about 430 m below sea level by the mid-2010s, lowest land point (Britannica: 'about 1,410 feet (430 metres) below sea level'); level 'continued to drop by about 3 feet (1 metre) annually' (Britannica); 'dropping by more than one meter per year' (phys.org 2017); 'Several hundred sinkholes have formed' (Britannica; phys.org says thousands - use 'yüzlərlə'). Main cause: water of the Jordan River diverted for farming and drinking (Britannica). Baku ~28 m below sea level (our 26 Oct fact) -> 430/28 ≈ 15x.",
-      "photo_request": "Dead Sea salt shore (Commons)",
-      "title": "Hər il 1 metr alçalan dəniz",
-      "text": "Ölü dəniz quruda ən alçaq yerdir: dəniz səviyyəsindən təxminən 430 metr aşağıda. Onun suyu hər il təxminən 1 metr azalır.",
-      "reel_hook": "HƏR İL 1 METR ALÇALAN DƏNİZ",
-      "reel_beats": [
-        "Ölü dəniz quruda ən alçaq yerdir. Onun səthi dəniz səviyyəsindən təxminən 430 metr aşağıdadır.",
-        "Müqayisə üçün: Bakı dəniz səviyyəsindən 28 metr aşağıdadır. Ölü dəniz ondan 15 dəfə aşağıdadır.",
-        "Və hər il su təxminən 1 metr azalır. Ona tökülən İordan çayının suyunu insanlar əkinə və içməyə götürür. Sahildə yüzlərlə çuxur açılıb."
-      ],
-      "cta": "Hər gün yeni fakt — izlə!",
-      "caption": "Ölü dəniz hər il təxminən 1 metr alçalır 🌊\n\nÖlü dəniz quruda ən alçaq yerdir: səthi dəniz səviyyəsindən təxminən 430 metr aşağıdadır. Bakı da dəniz səviyyəsindən aşağıdadır, amma cəmi 28 metr — Ölü dəniz ondan 15 dəfə aşağıdadır. Ən maraqlısı: su hər il təxminən 1 metr azalır. Əsas səbəb: ona tökülən İordan çayının suyunu insanlar əkinə və içməyə götürür. Su çəkildikcə sahildə yüzlərlə dərin çuxur açılıb.\n\n📩 Ölü dənizdə üzmək istəyən dostuna göndər — tələsməlidir 😄\n\n👉 Hər gün yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Tiia Monto / Wikimedia Commons (CC BY-SA 3.0)\n\n#bilirdinizmi #ölüdəniz #iordaniya #coğrafiya",
-      "first_comment": "Sən Ölü dənizdə olmusan? 👇",
-      "photo": {
-        "path": "fetch/img/2026-11-11_3_deadsea_salt.jpg",
-        "credit": "Tiia Monto / Wikimedia Commons (CC BY-SA 3.0)",
-        "cy": 0.5,
-        "full": true,
-        "source": "https://commons.wikimedia.org/wiki/File:Dead_Sea_salt3.jpg",
-        "note": "1280x1923 portrait: salt crust on the shore, stranded beach-umbrella frames in the back (shows the retreat); checked, no watermark. Spare: 2026-11-11_3_deadsea_jordan.jpg (Bernard Gagnon CC BY-SA 3.0, salt cliff over green water, landscape)."
-      },
-      "sources": [
-        "https://www.britannica.com/place/Dead-Sea",
-        "https://phys.org/news/2017-09-dead-seaenvironmental-edge-extremes.pdf",
-        "https://www.wamc.org/2022-11-16/the-dead-sea-is-drying-up-because-of-overexploitation-and-climate-change"
-      ]
-    },
-    {
-      "n": 4,
-      "type": "reel",
-      "cat": "Azərbaycan",
-      "voiced": false,
-      "motion": true,
-      "subject": "Tofiq Bahramov (29 Jan 1925 - 26 Mar 1993), Azerbaijani Soviet referee; linesman in the 1966 World Cup final at Wembley, England v West Germany: 2-2 after 90 min, in extra time (11th min) Geoff Hurst's shot hit the underside of the crossbar and bounced down; referee Gottfried Dienst consulted Bahramov, who signalled a goal; England won 4-2 (Wikipedia via Wikiwand; ednews.net 2018). Baku Republican Stadium renamed after him in 1993 (Wikipedia). Monument unveiled 13 Oct 2004 before Azerbaijan v England (2006 WC qualifier), inaugurated by Geoff Hurst, attended by Blatter and Platini (Wikipedia: Monument to Tofiq Bahramov). England's only World Cup title (common knowledge). Birthplace not confirmed -> say 'azərbaycanlı', not 'bakılı'.",
-      "photo_request": "Tofiq Bahramov portrait (Anefo, Commons)",
-      "title": "1966: finalı həll edən azərbaycanlı",
-      "text": "1966-cı il Dünya çempionatının finalında İngiltərənin məşhur qolunu azərbaycanlı xətt hakimi Tofiq Bəhramov təsdiqlədi. İngiltərə ilk və yeganə dəfə çempion oldu.",
-      "reel_hook": "1966: FİNALI HƏLL EDƏN AZƏRBAYCANLI",
-      "reel_beats": [
-        "1966-cı il, London, Dünya çempionatının finalı: İngiltərə – Qərbi Almaniya. Hesab 2:2 idi və oyun əlavə vaxta keçdi.",
-        "Cefri Herstin zərbəsindən top tirə dəydi və yerə düşdü. Qol idi, ya yox? Baş hakim azərbaycanlı xətt hakimi Tofiq Bəhramova baxdı. O, «qol» dedi.",
-        "İngiltərə 4:2 qalib gəldi və ilk dəfə dünya çempionu oldu. 1993-cü ildə Bakıdakı Respublika stadionuna Bəhramovun adı verildi."
-      ],
-      "voice_texts": [
-        "Min doqquz yüz altmış altı: finalı həll edən azərbaycanlı.",
-        "Min doqquz yüz altmış altıncı il, London, Dünya çempionatının finalı: İngiltərə və Qərbi Almaniya. Hesab iki-iki idi və oyun əlavə vaxta keçdi.",
-        "Cefri Herstin zərbəsindən top tirə dəydi və yerə düşdü. Qol idi, ya yox? Baş hakim azərbaycanlı xətt hakimi Tofiq Bəhramova baxdı. O, qol dedi.",
-        "İngiltərə dörd-iki qalib gəldi və ilk dəfə dünya çempionu oldu. Min doqquz yüz doxsan üçüncü ildə Bakıdakı Respublika stadionuna Bəhramovun adı verildi."
-      ],
-      "cta": "Hər gün yeni fakt — izlə!",
-      "caption": "Tofiq Bəhramov: 1966-cı il Dünya çempionatının finalını həll edən azərbaycanlı ⚽\n\n1966-cı ildə Londonda, finalda İngiltərə Qərbi Almaniya ilə oynayırdı. Hesab 2:2 idi, oyun əlavə vaxta keçdi. Cefri Herstin zərbəsindən top tirə dəyib yerə düşdü. Baş hakim qərarı azərbaycanlı xətt hakimi Tofiq Bəhramova həvalə etdi — o, «qol» dedi. İngiltərə 4:2 qalib gəldi və tarixində ilk və yeganə dəfə dünya çempionu oldu. 1993-cü ildə Bakıdakı Respublika stadionuna Bəhramovun adı verildi. 2004-cü ildə stadionun yanında onun heykəli açıldı, açılışda Cefri Herstin özü də iştirak etdi.\n\n📩 Futbolu sevən dostuna göndər — bunu bilmirdi 😄\n\n👉 Hər gün Azərbaycan haqqında bilmədiyin bir fakt — izlə ki, qaçırmayasan\n\nFoto: Joost Evers / Anefo, Nationaal Archief / Wikimedia Commons (CC BY-SA 3.0 NL)\n\n#bilirdinizmi #tofiqbəhramov #bakı #futbol #1966",
-      "first_comment": "Səncə, o top xətti keçmişdi? 👇",
-      "photo": {
-        "path": "fetch/img/2026-11-11_4_bahramov.jpg",
-        "credit": "Joost Evers / Anefo, Nationaal Archief / Wikimedia Commons (CC BY-SA 3.0 NL)",
-        "cy": 0.35,
-        "full": true,
-        "source": "https://commons.wikimedia.org/wiki/File:Tofiq_Bahramov.jpg",
-        "note": "1872x1470, Bahramov smiling in a cap and scarf (Dutch National Archive), checked: no watermark. Face = main person. Spare: 2026-11-11_4_bahramov_stadium.jpg (Tofiq Bahramov Stadium, Eminn CC BY-SA 4.0)."
-      },
-      "sources": [
-        "https://www.wikiwand.com/en/articles/Tofiq_Bahramov",
-        "https://ednews.net/en/news/sport/241515-the-story-of-footballs-most-famous-linesman",
-        "https://en.wikipedia.org/wiki/Monument_to_Tofiq_Bahramov"
-      ]
-    }
-  ]
+ "date": "2026-11-11",
+ "status": "planned",
+ "format": "v2",
+ "content_format": "v4 + CUTS/DECISIONS 2026-11-09",
+ "planned_note": "Planned in the 2026-11-10 09:10 run. Wed 11 Nov. No TBG carousel / on-this-day story / quizzes (CUTS 2026-11-09). 13:00 AZ reel (VOICED, PART 2/2) = Səbail castle: sea receded from 1723, ~700 stones raised 1939-1969, now in the Shirvanshahs' Palace courtyard. 16:00 reel (SILENT, MOTION) = Ganymede 5 260 km, bigger than Mercury. 18:30 trend backup reel (SILENT) = Dead Sea 430 m below sea level, drops ~1 m a year. 21:30 reel (AZ angle, MOTION; voice_texts given in case it stays voiced) = Tofiq Bahramov, 1966 World Cup final linesman. TikTok 18:30 default = the Bahramov reel (AZ angle) per DECISIONS 2026-11-09 #2.",
+ "facts": [
+  {
+   "n": 1,
+   "type": "reel",
+   "cat": "Azərbaycan",
+   "voiced": true,
+   "part": "2/2",
+   "subject": "Sabayil (Bayil) castle part 2: the sea receded from 1723 (azer.com) and the ruins resurfaced in the early 18th century (Wikipedia); from the 1930s the ruins could be seen under water (azer.com); 1939-1969 archaeological expedition raised 'more than 700' (Wikipedia) / 'close to 700' (azer.com) inscribed stone panels; inscriptions in Arabic and Persian, images of people, animals, birds, mythical animals; names of 15 Shirvanshahs (Wikipedia); azer.com: human faces, oxen, dogs, camels, birds; stones now in the courtyard of the Shirvanshahs' Palace, Icherisheher (Wikipedia, azer.com). Recap from part 1: built ~1235, ~300 m offshore, sank after 1306.",
+   "photo_request": "inscribed Bayil stone (Commons, already fetched)",
+   "title": "700 daş dənizin dibindən",
+   "text": "Dənizin altında qalan Səbail qalasının 700-ə yaxın daşını 1939–1969-cu illərdə sudan çıxardılar. İndi onlar Şirvanşahlar sarayının həyətindədir.",
+   "reel_hook": "700 DAŞ DƏNİZİN DİBİNDƏN (2/2)",
+   "reel_beats": [
+    "Dünən danışdıq: Səbail qalası 1306-cı ildə Bakı buxtasında suyun altında qaldı. Bəs sonra nə oldu?",
+    "XVIII əsrdə Xəzər geri çəkildi və qalanın xarabalığı yenidən göründü. 1939–1969-cu illərdə alimlər dənizdən 700-ə yaxın daş çıxardılar.",
+    "Daşlarda ərəb və fars dilində yazılar, insan üzləri və heyvan şəkilləri var. Onları bu gün İçərişəhərdə, Şirvanşahlar sarayının həyətində görə bilərsən."
+   ],
+   "voice_texts": [
+    "Yeddi yüz daş dənizin dibindən çıxdı.",
+    "Dünən danışdıq: Səbail qalası min üç yüz altıncı ildə Bakı buxtasında suyun altında qaldı. Bəs sonra nə oldu?",
+    "On səkkizinci əsrdə Xəzər geri çəkildi və qalanın xarabalığı yenidən göründü. Min doqquz yüz otuz doqquzdan min doqquz yüz altmış doqquzuncu ilə qədər alimlər dənizdən yeddi yüzə yaxın daş çıxardılar.",
+    "Daşlarda ərəb və fars dilində yazılar, insan üzləri və heyvan şəkilləri var. Onları bu gün İçərişəhərdə, Şirvanşahlar sarayının həyətində görə bilərsən."
+   ],
+   "cta": "Hər gün 13:00-da yeni Bakı faktı — izlə!",
+   "caption": "Səbail qalası: dənizin dibindən 700 daş çıxdı 🌊 (2/2)\n\nDünən danışdıq: Bakı buxtasındakı Səbail (Bayıl) qalası 1306-cı ildə suyun altında qaldı. XVIII əsrdə Xəzər geri çəkildi və qalanın xarabalığı yenidən göründü. 1939–1969-cu illərdə alimlər dənizdən 700-ə yaxın daş çıxardılar. Daşlarda ərəb və fars dilində yazılar, insan üzləri, quş və heyvan şəkilləri var. Yazılarda 15 Şirvanşahın adı tapılıb. Bu daşları bu gün İçərişəhərdə, Şirvanşahlar sarayının həyətində öz gözünlə görə bilərsən.\n\n📩 İçərişəhərdə gəzməyi sevən dostuna göndər — növbəti dəfə bu daşlara baxsın 😄\n\n👉 Hər gün Azərbaycan haqqında bilmədiyin bir fakt — izlə ki, qaçırmayasan\n\nFoto: Urmen19 / Wikimedia Commons (CC BY-SA 4.0)\n\n#bilirdinizmi #səbailqalası #bakı #içərişəhər #tarix",
+   "first_comment": "1-ci hissə profildədir 👆 Sən bu daşları Şirvanşahlar sarayında görmüsən? 👇",
+   "photo": {
+    "path": "fetch/img/2026-11-10_1_bayil_stones2.jpg",
+    "credit": "Urmen19 / Wikimedia Commons (CC BY-SA 4.0)",
+    "cy": 0.45,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Bay%C4%B1l_da%C5%9Flar%C4%B1_2.JPG",
+    "note": "1280x2067 portrait, an inscribed Bayil stone with Arabic-script carving, checked: no watermark. Spare: 2026-11-10_1_bayil_place.jpg (ruin + Ferris wheel, Interfase CC BY-SA 3.0)."
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Sabayil_Castle",
+    "https://www.azer.com/aiweb/categories/magazine/82_folder/82_articles/82_sabayil.html"
+   ]
+  },
+  {
+   "n": 2,
+   "type": "reel",
+   "cat": "Kosmos",
+   "voiced": false,
+   "motion": true,
+   "subject": "Ganymede: largest moon in the Solar System, diameter ~5 260 km (ESA: 'With a diameter of about 5260 km'), larger than Mercury (ESA; Space.com: 'Although Ganymede is larger than Mercury it only has half its mass'); Mercury diameter 4 879 km (NASA, standard); only moon known to have its own magnetic field (ESA: 'No other moon in the Solar System is known to have one'); subsurface saltwater ocean (ESA, Space.com); ESA JUICE reaches Jupiter in 2031 (ESA; Space.com says Dec 2031 in an older update - keep the year only) and will later orbit Ganymede.",
+   "photo_request": "Ganymede Juno PJ34 composite (Commons)",
+   "title": "Planetdən böyük peyk",
+   "text": "Yupiterin peyki Qanimedin diametri təxminən 5 260 km-dir. Bu, Merkuri planetindən də böyükdür.",
+   "reel_hook": "5 260 KM: PLANETDƏN BÖYÜK PEYK",
+   "reel_beats": [
+    "Yupiterin peyki Qanimed Günəş sistemindəki ən böyük peykdir. Onun diametri təxminən 5 260 km-dir.",
+    "Bu, Merkuri planetindən də böyükdür: Merkurinin diametri 4 880 km-dir. Amma Qanimed yüngüldür, kütləsi Merkurinin yarısı qədərdir.",
+    "Öz maqnit sahəsi olan yeganə peyk də odur. Buzun altında isə duzlu okean var. Avropanın «JUICE» aparatı 2031-ci ildə ora çatacaq."
+   ],
+   "cta": "Hər gün yeni fakt — izlə!",
+   "caption": "Qanimed: Merkuri planetindən böyük peyk 🪐\n\nYupiterin peyki Qanimed Günəş sistemindəki ən böyük peykdir: diametri təxminən 5 260 km-dir. Merkuri planetinin diametri isə 4 880 km-dir. Yəni bu peyk bir planetdən böyükdür! Amma Qanimed yüngüldür, kütləsi Merkurinin yarısı qədərdir, çünki çoxu buzdan ibarətdir. Öz maqnit sahəsi olan yeganə peykdir, buz qabığının altında isə duzlu okean var. Avropa Kosmik Agentliyinin «JUICE» aparatı 2031-ci ildə Yupiterə çatacaq.\n\n📩 «Peyk planetdən böyük ola bilməz» deyən dostuna göndər 😄\n\n👉 Hər gün yeni fakt — izlə ki, qaçırmayasan\n\nFoto: NASA / JPL-Caltech / SwRI / MSSS / Kevin M. Gill (CC BY 2.0)\n\n#bilirdinizmi #qanimed #yupiter #kosmos",
+   "first_comment": "Səncə, Qanimedin okeanında həyat ola bilər? 👇",
+   "photo": {
+    "path": "fetch/img/2026-11-11_2_ganymede_juno2.png",
+    "credit": "NASA / JPL-Caltech / SwRI / MSSS / Kevin M. Gill (CC BY 2.0)",
+    "cy": 0.5,
+    "full": false,
+    "source": "https://commons.wikimedia.org/wiki/File:Ganymede_-_Perijove_34_Composite.png",
+    "note": "Juno flyby 7 Jun 2021 composite; spare = 2026-11-11_2_ganymede_galileo.jpg (NASA/JPL, PD, 860x860, globe slightly cut on the right)."
+   },
+   "sources": [
+    "https://sci.esa.int/web/juice/-/59905-juice-s-primary-target-ganymede",
+    "https://www.space.com/16440-ganymede-facts-about-jupiters-largest-moon.html",
+    "https://science.nasa.gov/mercury/facts/"
+   ]
+  },
+  {
+   "n": 3,
+   "type": "reel",
+   "cat": "Coğrafiya",
+   "voiced": false,
+   "subject": "Dead Sea: surface about 430 m below sea level by the mid-2010s, lowest land point (Britannica: 'about 1,410 feet (430 metres) below sea level'); level 'continued to drop by about 3 feet (1 metre) annually' (Britannica); 'dropping by more than one meter per year' (phys.org 2017); 'Several hundred sinkholes have formed' (Britannica; phys.org says thousands - use 'yüzlərlə'). Main cause: water of the Jordan River diverted for farming and drinking (Britannica). Baku ~28 m below sea level (our 26 Oct fact) -> 430/28 ≈ 15x.",
+   "photo_request": "Dead Sea salt shore (Commons)",
+   "title": "Hər il 1 metr alçalan dəniz",
+   "text": "Ölü dəniz quruda ən alçaq yerdir: dəniz səviyyəsindən təxminən 430 metr aşağıda. Onun suyu hər il təxminən 1 metr azalır.",
+   "reel_hook": "HƏR İL 1 METR ALÇALAN DƏNİZ",
+   "reel_beats": [
+    "Ölü dəniz quruda ən alçaq yerdir. Onun səthi dəniz səviyyəsindən təxminən 430 metr aşağıdadır.",
+    "Müqayisə üçün: Bakı dəniz səviyyəsindən 28 metr aşağıdadır. Ölü dəniz ondan 15 dəfə aşağıdadır.",
+    "Və hər il su təxminən 1 metr azalır. Ona tökülən İordan çayının suyunu insanlar əkinə və içməyə götürür. Sahildə yüzlərlə çuxur açılıb."
+   ],
+   "cta": "Hər gün yeni fakt — izlə!",
+   "caption": "Ölü dəniz hər il təxminən 1 metr alçalır 🌊\n\nÖlü dəniz quruda ən alçaq yerdir: səthi dəniz səviyyəsindən təxminən 430 metr aşağıdadır. Bakı da dəniz səviyyəsindən aşağıdadır, amma cəmi 28 metr — Ölü dəniz ondan 15 dəfə aşağıdadır. Ən maraqlısı: su hər il təxminən 1 metr azalır. Əsas səbəb: ona tökülən İordan çayının suyunu insanlar əkinə və içməyə götürür. Su çəkildikcə sahildə yüzlərlə dərin çuxur açılıb.\n\n📩 Ölü dənizdə üzmək istəyən dostuna göndər — tələsməlidir 😄\n\n👉 Hər gün yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Tiia Monto / Wikimedia Commons (CC BY-SA 3.0)\n\n#bilirdinizmi #ölüdəniz #iordaniya #coğrafiya",
+   "first_comment": "Sən Ölü dənizdə olmusan? 👇",
+   "photo": {
+    "path": "fetch/img/2026-11-11_3_deadsea_salt.jpg",
+    "credit": "Tiia Monto / Wikimedia Commons (CC BY-SA 3.0)",
+    "cy": 0.5,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Dead_Sea_salt3.jpg",
+    "note": "1280x1923 portrait: salt crust on the shore, stranded beach-umbrella frames in the back (shows the retreat); checked, no watermark. Spare: 2026-11-11_3_deadsea_jordan.jpg (Bernard Gagnon CC BY-SA 3.0, salt cliff over green water, landscape)."
+   },
+   "sources": [
+    "https://www.britannica.com/place/Dead-Sea",
+    "https://phys.org/news/2017-09-dead-seaenvironmental-edge-extremes.pdf",
+    "https://www.wamc.org/2022-11-16/the-dead-sea-is-drying-up-because-of-overexploitation-and-climate-change"
+   ]
+  },
+  {
+   "n": 4,
+   "type": "reel",
+   "cat": "Azərbaycan",
+   "voiced": false,
+   "motion": true,
+   "subject": "Tofiq Bahramov (29 Jan 1925 - 26 Mar 1993), Azerbaijani Soviet referee; linesman in the 1966 World Cup final at Wembley, England v West Germany: 2-2 after 90 min, in extra time (11th min) Geoff Hurst's shot hit the underside of the crossbar and bounced down; referee Gottfried Dienst consulted Bahramov, who signalled a goal; England won 4-2 (Wikipedia via Wikiwand; ednews.net 2018). Baku Republican Stadium renamed after him in 1993 (Wikipedia). Monument unveiled 13 Oct 2004 before Azerbaijan v England (2006 WC qualifier), inaugurated by Geoff Hurst, attended by Blatter and Platini (Wikipedia: Monument to Tofiq Bahramov). England's only World Cup title (common knowledge). Birthplace not confirmed -> say 'azərbaycanlı', not 'bakılı'.",
+   "photo_request": "Tofiq Bahramov portrait (Anefo, Commons)",
+   "title": "1966: finalı həll edən azərbaycanlı",
+   "text": "1966-cı il Dünya çempionatının finalında İngiltərənin məşhur qolunu azərbaycanlı xətt hakimi Tofiq Bəhramov təsdiqlədi. İngiltərə ilk və yeganə dəfə çempion oldu.",
+   "reel_hook": "1966: FİNALI HƏLL EDƏN AZƏRBAYCANLI",
+   "reel_beats": [
+    "1966-cı il, London, Dünya çempionatının finalı: İngiltərə – Qərbi Almaniya. Hesab 2:2 idi və oyun əlavə vaxta keçdi.",
+    "Cefri Herstin zərbəsindən top tirə dəydi və yerə düşdü. Qol idi, ya yox? Baş hakim azərbaycanlı xətt hakimi Tofiq Bəhramova baxdı. O, «qol» dedi.",
+    "İngiltərə 4:2 qalib gəldi və ilk dəfə dünya çempionu oldu. 1993-cü ildə Bakıdakı Respublika stadionuna Bəhramovun adı verildi."
+   ],
+   "voice_texts": [
+    "Min doqquz yüz altmış altı: finalı həll edən azərbaycanlı.",
+    "Min doqquz yüz altmış altıncı il, London, Dünya çempionatının finalı: İngiltərə və Qərbi Almaniya. Hesab iki-iki idi və oyun əlavə vaxta keçdi.",
+    "Cefri Herstin zərbəsindən top tirə dəydi və yerə düşdü. Qol idi, ya yox? Baş hakim azərbaycanlı xətt hakimi Tofiq Bəhramova baxdı. O, qol dedi.",
+    "İngiltərə dörd-iki qalib gəldi və ilk dəfə dünya çempionu oldu. Min doqquz yüz doxsan üçüncü ildə Bakıdakı Respublika stadionuna Bəhramovun adı verildi."
+   ],
+   "cta": "Hər gün yeni fakt — izlə!",
+   "caption": "Tofiq Bəhramov: 1966-cı il Dünya çempionatının finalını həll edən azərbaycanlı ⚽\n\n1966-cı ildə Londonda, finalda İngiltərə Qərbi Almaniya ilə oynayırdı. Hesab 2:2 idi, oyun əlavə vaxta keçdi. Cefri Herstin zərbəsindən top tirə dəyib yerə düşdü. Baş hakim azərbaycanlı xətt hakimi Tofiq Bəhramova baxdı — o, «qol» dedi. İngiltərə 4:2 qalib gəldi və tarixində ilk və yeganə dəfə dünya çempionu oldu. 1993-cü ildə Bakıdakı Respublika stadionuna Bəhramovun adı verildi. 2004-cü ildə stadionun yanında onun heykəli açıldı, açılışda Cefri Herstin özü də iştirak etdi.\n\n📩 Futbolu sevən dostuna göndər — bunu bilmirdi 😄\n\n👉 Hər gün Azərbaycan haqqında bilmədiyin bir fakt — izlə ki, qaçırmayasan\n\nFoto: Joost Evers / Anefo, Nationaal Archief / Wikimedia Commons (CC BY-SA 3.0 NL)\n\n#bilirdinizmi #tofiqbəhramov #bakı #futbol #1966",
+   "first_comment": "Səncə, o top xətti keçmişdi? 👇",
+   "photo": {
+    "path": "fetch/img/2026-11-11_4_bahramov.jpg",
+    "credit": "Joost Evers / Anefo, Nationaal Archief / Wikimedia Commons (CC BY-SA 3.0 NL)",
+    "cy": 0.35,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Tofiq_Bahramov.jpg",
+    "note": "1872x1470, Bahramov smiling in a cap and scarf (Dutch National Archive), checked: no watermark. Face = main person. Spare: 2026-11-11_4_bahramov_stadium.jpg (Tofiq Bahramov Stadium, Eminn CC BY-SA 4.0)."
+   },
+   "sources": [
+    "https://www.wikiwand.com/en/articles/Tofiq_Bahramov",
+    "https://ednews.net/en/news/sport/241515-the-story-of-footballs-most-famous-linesman",
+    "https://en.wikipedia.org/wiki/Monument_to_Tofiq_Bahramov"
+   ]
+  }
+ ],
+ "language_fix": [
+  {
+   "fact": 4,
+   "from": "Baş hakim qərarı azərbaycanlı xətt hakimi Tofiq Bəhramova həvalə etdi — o, «qol» dedi.",
+   "to": "Baş hakim azərbaycanlı xətt hakimi Tofiq Bəhramova baxdı — o, «qol» dedi.",
+   "why": "'qərarı həvalə etdi' is bookish (section L)"
+  }
+ ],
+ "metricool": {
+  "13:00 reel (Səbail qalası 2/2, voiced)": 423414609,
+  "18:30 reel (Dead Sea backup, silent)": 423415119,
+  "21:30 reel (Tofiq Bəhramov 1966, MOTION, silent)": 423424140
+ },
+ "tiktok": {
+  "13:00 Səbail qalası 2/2": 423415081,
+  "18:30 Tofiq Bəhramov 1966 (2nd AZ video, DECISIONS 2026-11-09 #2)": 423424542
+ },
+ "youtube": {
+  "13:00 Səbail qalası 2/2": 423415060,
+  "21:30 Tofiq Bəhramov 1966": 423424233
+ },
+ "pending_schedule": []
 }

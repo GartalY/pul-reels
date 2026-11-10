@@ -479,3 +479,4 @@ search_1111_bahramov3.json https://commons.wikimedia.org/w/api.php?action=query&
 2026-11-11_4_bahramov_stadium.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Qaraba%C4%9F_-_Simurq_match_in_Tofiq_Bahramov_Stadium.JPG/1280px-Qaraba%C4%9F_-_Simurq_match_in_Tofiq_Bahramov_Stadium.JPG
 2026-11-11_2_ganymede_juno.png https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Ganymede_-_Perijove_34_Composite.png/1600px-Ganymede_-_Perijove_34_Composite.png
 2026-11-11_2_ganymede_galileo.jpg https://upload.wikimedia.org/wikipedia/commons/f/f2/Ganymede_g1_true-edit1.jpg
+2026-11-11_2_ganymede_juno2.png https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Ganymede_-_Perijove_34_Composite.png/1280px-Ganymede_-_Perijove_34_Composite.png

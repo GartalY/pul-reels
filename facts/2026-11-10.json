@@ -1,416 +1,451 @@
 {
- "date": "2026-11-10",
- "status": "scheduled",
- "format": "v2",
- "content_format": "v4",
- "planned_note": "Planned in the 2026-11-09 09:10 run (format v4). Tue 10 Nov. 10:00 TBG carousel = Stanley finds Livingstone at Ujiji (10 Nov 1871, date disputed). 13:00 AZ reel (VOICED, PART 1/2 of the twice-weekly two-part story) = Sabayil (Bayil) castle: built ~1235 on an island 300 m off Baku, 180 m long, 15 towers, sank after the 1306 earthquake. PART 2 = Wed 11 Nov 13:00 (the 10 Nov 09:10 run writes it): reappeared 1723 when the sea dropped; 1939-1969 Academy of Sciences work raised ~700 inscribed stones (Persian script, faces, animals, names of Shirvanshahs); they now stand in the Shirvanshahs' Palace courtyard; ruins visible from the Boulevard / Ferris wheel (sources: azer.com 82_sabayil, advantour bail-castle, azernews 201360, Wikipedia Sabayil_Castle; photo spare fetch/img/2026-11-10_1_bayil_stones2.jpg + search_bayil_stones.json). 16:00 reel (SILENT, MOTION) = Europa ocean ~2x Earth's oceans. 18:30 trend backup reel (SILENT) = Tristan da Cunha, 2 435 km to the nearest neighbour. 21:30 reel (AZ angle, MOTION from 10 Nov per DECISIONS 2026-11-09; voice_texts given in case the build stays voiced) = 1901: Baku ~11 million t, more than half of world oil.",
- "history": {
-  "n": "H",
-  "type": "card",
-  "cat": "Tarix",
-  "day": 10,
-  "month": 11,
-  "year": 1871,
-  "subject": "Henry Morton Stanley, sent by James Gordon Bennett Jr. of the New York Herald (History.com), set out in March 1871 (21 Mar), trek of nearly eight months and more than 700 miles (~1 100 km) (History.com); Livingstone had been out of contact for nearly six years (History.com). Met at Ujiji on Lake Tanganyika, now Tanzania (History.com; EyewitnessToHistory). Traditional date 10 Nov 1871 (History.com; Stanley's book); Livingstone Online: Stanley gives 3 or 10 Nov, Livingstone's own dating points to ~28 Oct. Stanley's own account: took off his hat and said 'Dr. Livingstone, I presume?' (EyewitnessToHistory quoting Stanley). Not used: torn-out diary pages claim (not confirmed in sources read), size of the caravan (sources conflict).",
-  "photo_request": "Engraving of Stanley meeting Livingstone (PD, Commons)",
-  "card_title": "10 NOYABR 1871",
-  "title": "8 ay axtardı, tapanda bircə sual verdi",
-  "text": "1871-ci ildə jurnalist Henri Stenli Afrikada itkin düşmüş səyyah David Livinqstonu axtarmağa getdi. 8 aya yaxın yol gəldi və onu Tanqanika gölünün sahilində tapdı.",
-  "cover": {
-   "hook": "8 ay axtardı, tapanda bircə sual verdi",
-   "sub": "10 noyabr 1871 · Ucici, Tanqanika gölü"
+  "date": "2026-11-10",
+  "status": "scheduled",
+  "format": "v2",
+  "content_format": "v4",
+  "planned_note": "Planned in the 2026-11-09 09:10 run (format v4). Tue 10 Nov. 10:00 TBG carousel = Stanley finds Livingstone at Ujiji (10 Nov 1871, date disputed). 13:00 AZ reel (VOICED, PART 1/2 of the twice-weekly two-part story) = Sabayil (Bayil) castle: built ~1235 on an island 300 m off Baku, 180 m long, 15 towers, sank after the 1306 earthquake. PART 2 = Wed 11 Nov 13:00 (the 10 Nov 09:10 run writes it): reappeared 1723 when the sea dropped; 1939-1969 Academy of Sciences work raised ~700 inscribed stones (Persian script, faces, animals, names of Shirvanshahs); they now stand in the Shirvanshahs' Palace courtyard; ruins visible from the Boulevard / Ferris wheel (sources: azer.com 82_sabayil, advantour bail-castle, azernews 201360, Wikipedia Sabayil_Castle; photo spare fetch/img/2026-11-10_1_bayil_stones2.jpg + search_bayil_stones.json). 16:00 reel (SILENT, MOTION) = Europa ocean ~2x Earth's oceans. 18:30 trend backup reel (SILENT) = Tristan da Cunha, 2 435 km to the nearest neighbour. 21:30 reel (AZ angle, MOTION from 10 Nov per DECISIONS 2026-11-09; voice_texts given in case the build stays voiced) = 1901: Baku ~11 million t, more than half of world oil.",
+  "history": {
+    "n": "H",
+    "type": "card",
+    "cat": "Tarix",
+    "day": 10,
+    "month": 11,
+    "year": 1871,
+    "subject": "Henry Morton Stanley, sent by James Gordon Bennett Jr. of the New York Herald (History.com), set out in March 1871 (21 Mar), trek of nearly eight months and more than 700 miles (~1 100 km) (History.com); Livingstone had been out of contact for nearly six years (History.com). Met at Ujiji on Lake Tanganyika, now Tanzania (History.com; EyewitnessToHistory). Traditional date 10 Nov 1871 (History.com; Stanley's book); Livingstone Online: Stanley gives 3 or 10 Nov, Livingstone's own dating points to ~28 Oct. Stanley's own account: took off his hat and said 'Dr. Livingstone, I presume?' (EyewitnessToHistory quoting Stanley). Not used: torn-out diary pages claim (not confirmed in sources read), size of the caravan (sources conflict).",
+    "photo_request": "Engraving of Stanley meeting Livingstone (PD, Commons)",
+    "card_title": "10 NOYABR 1871",
+    "title": "8 ay axtardı, tapanda bircə sual verdi",
+    "text": "1871-ci ildə jurnalist Henri Stenli Afrikada itkin düşmüş səyyah David Livinqstonu axtarmağa getdi. 8 aya yaxın yol gəldi və onu Tanqanika gölünün sahilində tapdı.",
+    "cover": {
+      "hook": "8 ay axtardı, tapanda bircə sual verdi",
+      "sub": "10 noyabr 1871 · Ucici, Tanqanika gölü"
+    },
+    "slides": [
+      {
+        "h": "6 il",
+        "t": "Şotland səyyahı David Livinqston Afrikanın içərilərinə getmişdi. 6 ilə yaxın idi ki, ondan heç bir xəbər yox idi. Çoxları onun öldüyünü düşünürdü."
+      },
+      {
+        "h": "1871",
+        "t": "«Nyu York Herald» qəzeti jurnalist Henri Stenlini onu tapmağa göndərdi. Stenli 1871-ci ilin martında böyük bir karvanla yola çıxdı."
+      },
+      {
+        "h": "1 100 km",
+        "t": "Stenli 8 aya yaxın yol getdi və 1 100 km-dən çox məsafə qət etdi. Nəhayət, Tanqanika gölünün sahilindəki Ucici kəndinə çatdı."
+      },
+      {
+        "h": "4 söz",
+        "t": "Stenlinin yazdığına görə, papağını çıxarıb dedi: «Doktor Livinqston, deyəsən, sizsiniz?» Livinqston gülümsəyib «Bəli» cavabını verdi."
+      },
+      {
+        "h": "Tarix sualı",
+        "t": "Ənənəvi tarix 10 noyabrdır. Amma Stenli öz yazılarında 3 və 10 noyabr yazıb, Livinqstonun qeydləri isə oktyabrın sonunu göstərir."
+      }
+    ],
+    "caption": "8 ay axtardı, tapanda bircə sual verdi 🧭\n\n6 ilə yaxın idi ki, səyyah David Livinqstondan xəbər yox idi. 1871-ci ildə «Nyu York Herald» qəzeti jurnalist Henri Stenlini onu tapmağa göndərdi. Stenli 8 aya yaxın yol getdi, 1 100 km-dən çox məsafə qət etdi və Tanqanika gölünün sahilindəki Ucici kəndində Livinqstonu tapdı. Öz yazdığına görə, papağını çıxarıb soruşdu: «Doktor Livinqston, deyəsən, sizsiniz?» Maraqlısı budur ki, görüşün dəqiq günü hələ də mübahisəlidir: ənənəvi tarix 10 noyabrdır, amma Livinqstonun qeydləri oktyabrın sonunu göstərir.\n\n📩 Zəngə heç vaxt cavab verməyən dostuna göndər — onu da 8 ay axtarmaq lazımdır 😄\n\nFoto: Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #tarixdəbugün #afrika #tarix",
+    "first_comment": "Sən birini tapmaq üçün ən çox nə qədər yol getmisən? 👇",
+    "quizzes": [
+      {
+        "q": "Livinqstondan neçə ilə yaxın xəbər yox idi?",
+        "options": [
+          "1",
+          "6",
+          "15"
+        ],
+        "answer": "6",
+        "why": "Stenli onu 1871-ci ildə tapdı."
+      },
+      {
+        "q": "Stenli Livinqstonu hansı gölün sahilində tapdı?",
+        "options": [
+          "Viktoriya",
+          "Tanqanika",
+          "Çad"
+        ],
+        "answer": "Tanqanika",
+        "why": "Ucici kəndində."
+      },
+      {
+        "q": "Stenlini Afrikaya kim göndərmişdi?",
+        "options": [
+          "Bir qəzet",
+          "Bir kral",
+          "Bir universitet"
+        ],
+        "answer": "Bir qəzet",
+        "why": "«Nyu York Herald» qəzeti."
+      }
+    ],
+    "sources": [
+      "https://www.history.com/articles/when-stanley-met-livingstone",
+      "https://livingstoneonline.org/node/204",
+      "https://www.eyewitnesstohistory.com/stanley.htm"
+    ],
+    "verify_note": "Bennett/New York Herald, March 1871, ~8 months, 700+ miles (~1 127 km -> '1 100 km-dən çox'), ~6 years no contact, Ujiji/Lake Tanganyika: History.com. Quote + 'Yes' reply: Stanley's narrative on EyewitnessToHistory. Date dispute 3/10 Nov vs ~28 Oct: Livingstone Online. 155 years, not round -> TBG only. Livingstone's start date varies by source (1865/1866) -> said only '6 ilə yaxın'.",
+    "photo": {
+      "path": "fetch/img/2026-11-10_H_presume.jpg",
+      "credit": "Wikimedia Commons (ictimai mülkiyyət)",
+      "cy": 0.5,
+      "full": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Dr._Livingstone,_I_Presume.png",
+      "note": "PD 19th-c. engraving, Stanley raising his hat to Livingstone, 1280x802 landscape, checked, no watermark. 2nd: 2026-11-10_H_ujiji_wellcome.jpg (Wellcome V0006855, coloured, CC BY 4.0 -> credit 'Wellcome Collection (CC BY 4.0)')."
+    },
+    "story": {
+      "day": 10,
+      "month": 11,
+      "year": 1871,
+      "title": "8 ay axtardı, bircə sual verdi",
+      "text": "155 il əvvəl bu gün jurnalist Henri Stenli itkin səyyah Livinqstonu Afrikada, Tanqanika gölünün sahilində tapdı. Dediyi ilk söz tarixə düşdü: «Doktor Livinqston, deyəsən, sizsiniz?»",
+      "credit": "Wikimedia Commons (ictimai mülkiyyət)"
+    }
   },
-  "slides": [
-   {
-    "h": "6 il",
-    "t": "Şotland səyyahı David Livinqston Afrikanın içərilərinə getmişdi. 6 ilə yaxın idi ki, ondan heç bir xəbər yox idi. Çoxları onun öldüyünü düşünürdü."
-   },
-   {
-    "h": "1871",
-    "t": "«Nyu York Herald» qəzeti jurnalist Henri Stenlini onu tapmağa göndərdi. Stenli 1871-ci ilin martında böyük bir karvanla yola çıxdı."
-   },
-   {
-    "h": "1 100 km",
-    "t": "Stenli 8 aya yaxın yol getdi və 1 100 km-dən çox məsafə qət etdi. Nəhayət, Tanqanika gölünün sahilindəki Ucici kəndinə çatdı."
-   },
-   {
-    "h": "4 söz",
-    "t": "Stenlinin yazdığına görə, papağını çıxarıb dedi: «Doktor Livinqston, deyəsən, sizsiniz?» Livinqston gülümsəyib «Bəli» cavabını verdi."
-   },
-   {
-    "h": "Tarix sualı",
-    "t": "Ənənəvi tarix 10 noyabrdır. Amma Stenli öz yazılarında 3 və 10 noyabr yazıb, Livinqstonun qeydləri isə oktyabrın sonunu göstərir."
-   }
+  "facts": [
+    {
+      "n": 1,
+      "type": "reel",
+      "cat": "Azərbaycan",
+      "voiced": true,
+      "part": "1/2",
+      "subject": "Sabayil (Bayil) castle, Baku Bay: built under Shirvanshah Fariburz III, 1232-1235 (Advantour), bas-relief dated 632 AH ~1234-35 (azer.com), 'in 1235' (azernews); on a small island ~300 m offshore (azer.com; azernews ~350 m); 180 x 40 m, 15 towers, walls 1.5-2 m (azer.com; Advantour); went under water after the 1306 earthquake / sea rise (all four sources: azer.com, Advantour, azernews, Wikipedia). Part 2 material (not used here): reappeared 1723, ~700 inscribed stones raised from 1939, now in the Shirvanshahs' Palace.",
+      "photo_request": "Sabayil castle ruins in Baku Bay (Commons)",
+      "title": "Dənizin altında 180 metrlik qala",
+      "text": "Bakı buxtasında, sahildən 300 metr aralıda suyun altında bir qala var. 1306-cı ildəki zəlzələdən sonra dəniz onu udub.",
+      "reel_hook": "180 METRLİK QALA DƏNİZİN ALTINDA (1/2)",
+      "reel_beats": [
+        "Bakı buxtasında, sahildən təxminən 300 metr aralıda, suyun altında bir qala var. Ona Səbail və ya Bayıl qalası deyirlər.",
+        "Şirvanşahlar onu təxminən 1235-ci ildə kiçik bir adada tikdirdilər. Qalanın uzunluğu 180 metr idi, 15 qülləsi vardı.",
+        "1306-cı ildə güclü zəlzələ oldu, dəniz qalxdı və qala suyun altında qaldı. Bəs onu necə tapdılar? 2-ci hissə sabah 13:00-da."
+      ],
+      "voice_texts": [
+        "Yüz səksən metrlik qala dənizin altında.",
+        "Bakı buxtasında, sahildən təxminən üç yüz metr aralıda, suyun altında bir qala var. Ona Səbail və ya Bayıl qalası deyirlər.",
+        "Şirvanşahlar onu təxminən min iki yüz otuz beşinci ildə kiçik bir adada tikdirdilər. Qalanın uzunluğu yüz səksən metr idi, on beş qülləsi vardı.",
+        "Min üç yüz altıncı ildə güclü zəlzələ oldu, dəniz qalxdı və qala suyun altında qaldı. Bəs onu necə tapdılar? İkinci hissə sabah saat on üçdə."
+      ],
+      "cta": "Hər gün 13:00-da yeni Bakı faktı — izlə!",
+      "caption": "Bakı buxtasında suyun altında 180 metrlik qala var 🌊 (1/2)\n\nOna Səbail və ya Bayıl qalası deyirlər. Şirvanşahlar onu təxminən 1235-ci ildə, sahildən 300 metr aralıdakı kiçik bir adada tikdirdilər. Qalanın uzunluğu 180 metr, divarlarının qalınlığı 2 metrə qədər idi, 15 qülləsi vardı. 1306-cı ildə güclü zəlzələ oldu, dəniz qalxdı və qala suyun altında qaldı.\n\nBəs onu necə tapdılar və daşları indi haradadır? 2-ci hissə sabah 13:00-da — izlə ki, qaçırmayasan.\n\n📩 Bulvarda hər gün gəzib bunu bilməyən dostuna göndər 😄\n\n👉 Hər gün 13:00-da Azərbaycan haqqında bilmədiyin bir fakt — izlə ki, qaçırmayasan\n\nFoto: Interfase / Wikimedia Commons (CC BY-SA 4.0)\n\n#bilirdinizmi #bakı #səbailqalası #xəzər #tarix",
+      "first_comment": "Sən bu qalanın yerini bulvardan görmüsən? 👇",
+      "quizzes": [
+        {
+          "q": "Səbail qalasının uzunluğu nə qədər idi?",
+          "options": [
+            "50 metr",
+            "180 metr",
+            "500 metr"
+          ],
+          "answer": "180 metr",
+          "why": "15 qülləsi vardı."
+        },
+        {
+          "q": "Qala hansı ildə suyun altında qaldı?",
+          "options": [
+            "1306",
+            "1723",
+            "1859"
+          ],
+          "answer": "1306",
+          "why": "Güclü zəlzələdən sonra."
+        },
+        {
+          "q": "Qalanın neçə qülləsi vardı?",
+          "options": [
+            "4",
+            "9",
+            "15"
+          ],
+          "answer": "15",
+          "why": "Uzunluğu 180 metr idi."
+        }
+      ],
+      "sources": [
+        "https://www.azer.com/aiweb/categories/magazine/82_folder/82_articles/82_sabayil.html",
+        "https://advantour.com/azerbaijan/baku/bail-castle.htm",
+        "https://www.azernews.az/culture/201360.html",
+        "https://en.wikipedia.org/wiki/Sabayil_Castle"
+      ],
+      "verify_note": "300 m offshore + 180x40 m + walls up to 2 m + 1306: azer.com; 15 towers + 180x40 + 1306 + sea rose: Advantour; 1235 + 1306: azernews; 1306 + island submerged: Wikipedia. Build year differs (1232-35) -> 'təxminən 1235'. Wikipedia swaps length/width (40 x 180) -> we say 'uzunluğu 180 metr' (the long side either way). Cause: earthquake + sea rise ('perhaps', azer.com) -> said 'zəlzələ oldu, dəniz qalxdı'. Real two halves: sinking (part 1) / reappearance + 700 stones now in Shirvanshahs' Palace (part 2).",
+      "photo": {
+        "path": "fetch/img/2026-11-10_1_sabayil_portrait.jpg",
+        "credit": "Interfase / Wikimedia Commons (CC BY-SA 4.0)",
+        "cy": 0.5,
+        "cx": 0.5,
+        "full": true,
+        "source": "https://commons.wikimedia.org/wiki/File:Sabayil_Fortress.jpg",
+        "note": "1280x853, Baku Bay from above: the castle outline in the water in front of the pier, checked, no watermark. cx 0.35 keeps the ruin in a 9:16 crop. Spare: 2026-11-10_1_bayil_place.jpg (Interfase CC BY-SA 3.0, ruin + Ferris wheel, good for part 2), 2026-11-10_1_bayil_stones2.jpg (Urmen19 CC BY-SA 4.0, inscribed stone, part 2). Evening build: portrait composite made from this photo (ruin moved above the text box, water below extended) = 2026-11-10_1_sabayil_portrait.jpg."
+      }
+    },
+    {
+      "n": 2,
+      "type": "reel",
+      "cat": "Kosmos",
+      "voiced": false,
+      "motion": true,
+      "subject": "Europa (Jupiter's moon): subsurface ocean with 'more than twice as much water as all of Earth's oceans combined' (NASA Europa Up Close) / 'about twice' (JPL Europa Clipper press kit); ice shell ~10-15 miles (15-25 km) thick, ocean 40-100 miles (60-150 km) deep (NASA); Europa Clipper 'scheduled to arrive at Jupiter in April 2030' (NASA). Europa slightly smaller than Earth's Moon (diameter ~3 100 km vs ~3 475 km, NASA facts - common reference).",
+      "photo_request": "Europa realistic colour mosaic PIA19048 (NASA, PD)",
+      "title": "Yerdəkindən 2 qat çox su",
+      "text": "Yupiterin peyki Avropanın buz qabığının altında okean var. NASA-ya görə, orada Yerdəki bütün okeanlardan təxminən 2 qat çox su ola bilər.",
+      "reel_hook": "YERDƏKİNDƏN 2 QAT ÇOX SU",
+      "reel_beats": [
+        "Yupiterin peyki Avropa bizim Aydan bir az kiçikdir. Amma qalın buz qabığının altında böyük bir okean gizlənir.",
+        "NASA-ya görə, bu okeanda Yerdəki bütün okeanlardan təxminən 2 qat çox su var. Dərinliyi 60–150 km ola bilər.",
+        "Üstündəki buzun qalınlığı 15–25 km-dir. NASA-nın «Europa Clipper» aparatı 2030-cu ilin aprelində ora çatacaq."
+      ],
+      "cta": "Hər gün yeni fakt — izlə!",
+      "caption": "Yupiterin peyki Avropada Yerdəkindən 2 qat çox su var 🪐\n\nAvropa bizim Aydan bir az kiçikdir. Amma 15–25 km qalınlığında buz qabığının altında okean gizlənir. NASA-ya görə, bu okeanda Yerdəki bütün okeanlardan təxminən 2 qat çox su var, dərinliyi isə 60–150 km ola bilər. Okeanı yaxından öyrənmək üçün NASA-nın «Europa Clipper» aparatı yoldadır və 2030-cu ilin aprelində Yupiterə çatacaq.\n\n📩 Hovuzu «dərin» sayan dostuna göndər — 150 km-lik okeanı görsün 😄\n\n👉 Hər gün yeni fakt — izlə ki, qaçırmayasan\n\nFoto: NASA / JPL-Caltech / SETI Institute\n\n#bilirdinizmi #avropa #yupiter #nasa #kosmos",
+      "first_comment": "Səncə, Avropanın okeanında həyat ola bilər? 👇",
+      "quizzes": [
+        {
+          "q": "Avropanın okeanında Yerdəkindən nə qədər su var?",
+          "options": [
+            "Yarısı qədər",
+            "Təxminən 2 qat çox",
+            "10 qat çox"
+          ],
+          "answer": "Təxminən 2 qat çox",
+          "why": "NASA-nın hesablamasına görə."
+        },
+        {
+          "q": "Avropanın üstündəki buzun qalınlığı nə qədərdir?",
+          "options": [
+            "15–25 km",
+            "1–2 km",
+            "300 km"
+          ],
+          "answer": "15–25 km",
+          "why": "Altında 60–150 km dərin okean var."
+        },
+        {
+          "q": "«Europa Clipper» Yupiterə nə vaxt çatacaq?",
+          "options": [
+            "2027",
+            "2030",
+            "2040"
+          ],
+          "answer": "2030",
+          "why": "2030-cu ilin aprelində."
+        }
+      ],
+      "sources": [
+        "https://science.nasa.gov/mission/europa-clipper/why-europa-europa-up-close",
+        "https://www.jpl.nasa.gov/press-kits/europa-clipper/mission/science/"
+      ],
+      "verify_note": "2x water (NASA 'more than twice', JPL 'about twice' -> 'təxminən 2 qat'), ice 15-25 km, ocean 60-150 km, arrival April 2030: NASA Europa Up Close + JPL. 'Smaller than our Moon': NASA Europa overview (diameter 3 100 km vs Moon 3 475 km). Not used: life claims.",
+      "photo": {
+        "path": "fetch/img/2026-11-10_2_europa.jpg",
+        "credit": "NASA / JPL-Caltech / SETI Institute",
+        "cy": 0.4,
+        "full": false,
+        "source": "https://commons.wikimedia.org/wiki/File:PIA19048_realistic_color_Europa_mosaic_edited.jpg",
+        "note": "PD NASA PIA19048 realistic-colour mosaic, 1280x946, half-lit Europa on black, checked."
+      }
+    },
+    {
+      "n": 3,
+      "type": "reel",
+      "cat": "Coğrafiya",
+      "voiced": false,
+      "subject": "Tristan da Cunha: Guinness 'Most remote inhabited island' - nearest inhabited land St Helena 2 435 km (1 315 nmi) to the NE; Live Science: around 250 people, accessible only by a six-day boat journey from South Africa; Guinness (Guardian 2005): six days by boat from Cape Town; evacuated in 1961 because of volcanic activity, 198 islanders returned in November 1963 (Guinness). Baku-Moscow straight line ~1 900 km (own check, so 2 435 km > Baku-Moscow).",
+      "photo_request": "Tristan da Cunha cliffs (Unsplash)",
+      "title": "Ən yaxın qonşu 2 435 km uzaqda",
+      "text": "Tristan-da-Kunya dünyanın ən uzaq yaşayış adasıdır. Orada təxminən 250 nəfər yaşayır, ən yaxın qonşu ada isə 2 435 km uzaqdadır.",
+      "reel_hook": "ƏN YAXIN QONŞU 2 435 KM UZAQDA",
+      "reel_beats": [
+        "Atlantik okeanının ortasında Tristan-da-Kunya adlı kiçik bir ada var. Orada cəmi 250-yə yaxın adam yaşayır.",
+        "Ən yaxın yaşayış olan yer Müqəddəs Yelena adasıdır və 2 435 km uzaqdadır. Bu, Bakıdan Moskvaya olan məsafədən də çoxdur.",
+        "Adaya yalnız gəmi ilə getmək olar: Cənubi Afrikadan 6 gün yol. 1961-ci ildə vulkan oyananda bütün sakinlər adanı tərk etdi, 2 il sonra geri qayıtdılar."
+      ],
+      "cta": "Hər gün yeni fakt — izlə!",
+      "caption": "Tristan-da-Kunya: bu adanın ən yaxın qonşusu 2 435 km uzaqdadır 🏝️\n\nTristan-da-Kunya Atlantik okeanının ortasındadır və Ginnesə görə dünyanın ən uzaq yaşayış adasıdır. Orada 250-yə yaxın adam yaşayır. Ən yaxın yaşayış olan yer Müqəddəs Yelena adasıdır — 2 435 km, yəni Bakıdan Moskvaya olan məsafədən də çox. Adaya yalnız gəmi ilə, Cənubi Afrikadan 6 günə çatmaq olur. 1961-ci ildə vulkan oyananda sakinlər adanı tərk etdi və 1963-cü ildə geri qayıtdılar.\n\n📩 «Hamıdan uzaqda yaşamaq istəyirəm» deyən dostuna göndər 😄\n\n👉 Hər gün yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Hector John Periquin / Unsplash\n\n#bilirdinizmi #tristandakunya #ada #okean #coğrafiya",
+      "first_comment": "Sən belə bir adada bir il yaşaya bilərdin? 👇",
+      "quizzes": [
+        {
+          "q": "Tristan-da-Kunyada təxminən neçə nəfər yaşayır?",
+          "options": [
+            "250",
+            "2 500",
+            "25 000"
+          ],
+          "answer": "250",
+          "why": "Dünyanın ən uzaq yaşayış adasıdır."
+        },
+        {
+          "q": "Cənubi Afrikadan adaya gəmi ilə neçə gün yol var?",
+          "options": [
+            "1",
+            "6",
+            "20"
+          ],
+          "answer": "6",
+          "why": "Adaya yalnız gəmi ilə getmək olar."
+        },
+        {
+          "q": "Sakinlər 1961-ci ildə adanı niyə tərk etdi?",
+          "options": [
+            "Vulkan",
+            "Sunami",
+            "Müharibə"
+          ],
+          "answer": "Vulkan",
+          "why": "1963-cü ildə geri qayıtdılar."
+        }
+      ],
+      "sources": [
+        "https://www.guinnessworldrecords.com/world-records/66683-most-remote-inhabited-island",
+        "https://www.livescience.com/planet-earth/geology/tristan-da-cunha-the-most-remote-inhabited-island-on-earth-forged-from-a-supercontinent-breakup"
+      ],
+      "verify_note": "2 435 km to St Helena + 1961 evacuation / 1963 return + 6 days from Cape Town: Guinness; ~250 people + six-day boat from South Africa: Live Science. 'Bakıdan Moskvaya' ~1 900-1 970 km straight line -> 2 435 is more (safe). Not used: surnames count, 'no airport' wording (said 'yalnız gəmi ilə', per Live Science 'accessible only by a six-day boat journey').",
+      "photo": {
+        "path": "fetch/img/2026-11-10_3_tristan.jpg",
+        "credit": "Hector John Periquin / Unsplash",
+        "cy": 0.5,
+        "cx": 0.5,
+        "full": true,
+        "source": "https://unsplash.com/photos/47KxYlqxDiw",
+        "note": "Unsplash description 'Cliffs along the coast of Tristan da Cunha in the Atlantic Ocean', 1600x1067, green cliffs + sea, checked."
+      }
+    },
+    {
+      "n": 4,
+      "type": "reel",
+      "cat": "Azərbaycan",
+      "voiced": false,
+      "motion": true,
+      "subject": "Baku oil boom: 'By 1901, Azerbaijan produced 11 million tons of oil, more than half of the world's total at the time' (Ministry of Energy of Azerbaijan); 'over 50% of the world's production' (azerbaijan.az); SOCAR history 1901: 51.5% of global oil production; SOCAR 1900: Baku first in the world with 11.5 million t vs USA 9.1 million t. Rothschild company controlled over 40% of Baku output early 20th c. (Ministry). Not used: Russian empire share 95% (not found).",
+      "photo_request": "Baku oil gusher / derricks c. 1900 (PD postcard, Commons)",
+      "title": "1901: dünya neftinin yarısı Bakıdan",
+      "text": "1901-ci ildə Bakıda 11 milyon ton neft çıxarıldı. Bu, o vaxt dünyada çıxarılan bütün neftin yarısından çox idi.",
+      "reel_hook": "1901: DÜNYA NEFTİNİN YARISI BAKIDAN",
+      "reel_beats": [
+        "1901-ci ildə Bakıda 11 milyon ton neft çıxarıldı. Bu, o vaxt dünyada çıxarılan bütün neftin yarısından çox idi.",
+        "Bir il əvvəl Bakı dünyada birinci yerə çıxmışdı: 11,5 milyon ton. Həmin il Amerika 9,1 milyon ton neft çıxarmışdı.",
+        "Bakıya dünyanın hər yerindən iş adamları gəlirdi. Nobellər, Rotşildlər və yerli milyonçular burada neft şirkətləri qurdular."
+      ],
+      "voice_texts": [
+        "Min doqquz yüz birinci il: dünya neftinin yarısı Bakıdan çıxırdı.",
+        "Min doqquz yüz birinci ildə Bakıda on bir milyon ton neft çıxarıldı. Bu, o vaxt dünyada çıxarılan bütün neftin yarısından çox idi.",
+        "Bir il əvvəl Bakı dünyada birinci yerə çıxmışdı: on bir yarım milyon ton. Həmin il Amerika doqquz milyon yüz min ton neft çıxarmışdı.",
+        "Bakıya dünyanın hər yerindən iş adamları gəlirdi. Nobellər, Rotşildlər və yerli milyonçular burada neft şirkətləri qurdular."
+      ],
+      "cta": "Hər gün yeni fakt — izlə!",
+      "caption": "1901-ci ildə dünya neftinin yarısından çoxu Bakıdan çıxırdı 🛢️\n\nO il Bakıda 11 milyon ton neft çıxarıldı — dünyada çıxarılan bütün neftin yarısından çox. Bir il əvvəl, 1900-cü ildə, Bakı 11,5 milyon tonla dünyada birinci yerə çıxmışdı, Amerika isə həmin il 9,1 milyon ton çıxarmışdı. Bakıya dünyanın hər yerindən iş adamları gəlirdi: Nobellər, Rotşildlər və yerli neft milyonçuları burada şirkətlər qurdular.\n\n📩 «Bakı həmişə belə idi» deyən dostuna göndər 😄\n\n👉 Hər gün Azərbaycan haqqında bilmədiyin bir fakt — izlə ki, qaçırmayasan\n\nFoto: köhnə açıqca, Bibiheybət / Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #bakı #neft #neftbumu #tarix",
+      "first_comment": "Neft bumu dövründən qalan hansı Bakı binasını ən çox sevirsən? 👇",
+      "quizzes": [
+        {
+          "q": "1901-ci ildə Bakıda neçə ton neft çıxarıldı?",
+          "options": [
+            "1 milyon",
+            "11 milyon",
+            "110 milyon"
+          ],
+          "answer": "11 milyon",
+          "why": "Dünya neftinin yarısından çox."
+        },
+        {
+          "q": "1900-cü ildə Amerika neçə ton neft çıxarmışdı?",
+          "options": [
+            "9,1 milyon",
+            "20 milyon",
+            "2 milyon"
+          ],
+          "answer": "9,1 milyon",
+          "why": "Bakı isə 11,5 milyon ton."
+        },
+        {
+          "q": "1901-ci ildə Bakı dünya neftinin nə qədərini verirdi?",
+          "options": [
+            "Onda birini",
+            "Yarısından çoxunu",
+            "Hamısını"
+          ],
+          "answer": "Yarısından çoxunu",
+          "why": "SOCAR-a görə, 51,5 faiz."
+        }
+      ],
+      "sources": [
+        "https://minenergy.gov.az/en/neft/neft-senayesinin-inkisaf-tarixi",
+        "https://azerbaijan.az/en/related-information/130",
+        "https://socar.com.tr/history-1900"
+      ],
+      "verify_note": "11 Mt + more than half in 1901: Ministry of Energy + azerbaijan.az ('over 50%') + SOCAR (51.5%). 1900: 11.5 Mt vs USA 9.1 Mt: SOCAR. Rothschilds >40% of Baku output: Ministry; Nobels in Baku: earlier verified (Zoroastr, Nobel posts). Different from used topics (Bibiheybət 1846 well, Tağıyev gusher, Nobel Foundation money) -> new angle: world share. AZ angle for 21:30 (>=5 days/week).",
+      "photo": {
+        "path": "fetch/img/2026-11-10_4_bibiheybat_photochrome.jpg",
+        "credit": "köhnə açıqca, Bibiheybət / Wikimedia Commons (ictimai mülkiyyət)",
+        "cy": 0.55,
+        "full": true,
+        "source": "https://commons.wikimedia.org/wiki/File:The_Oil_Gush_Fire_in_Bibiheybat_photochrome.jpg",
+        "note": "PD photochrome postcard (early 1900s), burning derrick at Bibiheybat with workers, 800x1253 portrait, Russian title text at the top -> crop with cy 0.55 so the header stays out under the hook, no watermark. Low-res (800 px): use with gentle zoom only."
+      },
+      "voice_note": "Built as a SILENT motion reel (≤ 25 s rule for motion, DECISIONS 2026-11-09 #3); voice_texts kept unused. No AI label."
+    }
   ],
-  "caption": "8 ay axtardı, tapanda bircə sual verdi 🧭\n\n6 ilə yaxın idi ki, səyyah David Livinqstondan xəbər yox idi. 1871-ci ildə «Nyu York Herald» qəzeti jurnalist Henri Stenlini onu tapmağa göndərdi. Stenli 8 aya yaxın yol getdi, 1 100 km-dən çox məsafə qət etdi və Tanqanika gölünün sahilindəki Ucici kəndində Livinqstonu tapdı. Öz yazdığına görə, papağını çıxarıb soruşdu: «Doktor Livinqston, deyəsən, sizsiniz?» Maraqlısı budur ki, görüşün dəqiq günü hələ də mübahisəlidir: ənənəvi tarix 10 noyabrdır, amma Livinqstonun qeydləri oktyabrın sonunu göstərir.\n\n📩 Zəngə heç vaxt cavab verməyən dostuna göndər — onu da 8 ay axtarmaq lazımdır 😄\n\nFoto: Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #maraqlıfaktlar #tarixdəbugün #afrika #tarix",
-  "first_comment": "Sən birini tapmaq üçün ən çox nə qədər yol getmisən? 👇",
-  "quizzes": [
-   {
-    "q": "Livinqstondan neçə ilə yaxın xəbər yox idi?",
-    "options": [
-     "1",
-     "6",
-     "15"
-    ],
-    "answer": "6",
-    "why": "Stenli onu 1871-ci ildə tapdı."
-   },
-   {
-    "q": "Stenli Livinqstonu hansı gölün sahilində tapdı?",
-    "options": [
-     "Viktoriya",
-     "Tanqanika",
-     "Çad"
-    ],
-    "answer": "Tanqanika",
-    "why": "Ucici kəndində."
-   },
-   {
-    "q": "Stenlini Afrikaya kim göndərmişdi?",
-    "options": [
-     "Bir qəzet",
-     "Bir kral",
-     "Bir universitet"
-    ],
-    "answer": "Bir qəzet",
-    "why": "«Nyu York Herald» qəzeti."
-   }
-  ],
-  "sources": [
-   "https://www.history.com/articles/when-stanley-met-livingstone",
-   "https://livingstoneonline.org/node/204",
-   "https://www.eyewitnesstohistory.com/stanley.htm"
-  ],
-  "verify_note": "Bennett/New York Herald, March 1871, ~8 months, 700+ miles (~1 127 km -> '1 100 km-dən çox'), ~6 years no contact, Ujiji/Lake Tanganyika: History.com. Quote + 'Yes' reply: Stanley's narrative on EyewitnessToHistory. Date dispute 3/10 Nov vs ~28 Oct: Livingstone Online. 155 years, not round -> TBG only. Livingstone's start date varies by source (1865/1866) -> said only '6 ilə yaxın'.",
-  "photo": {
-   "path": "fetch/img/2026-11-10_H_presume.jpg",
-   "credit": "Wikimedia Commons (ictimai mülkiyyət)",
-   "cy": 0.5,
-   "full": false,
-   "source": "https://commons.wikimedia.org/wiki/File:Dr._Livingstone,_I_Presume.png",
-   "note": "PD 19th-c. engraving, Stanley raising his hat to Livingstone, 1280x802 landscape, checked, no watermark. 2nd: 2026-11-10_H_ujiji_wellcome.jpg (Wellcome V0006855, coloured, CC BY 4.0 -> credit 'Wellcome Collection (CC BY 4.0)')."
+  "metricool": {
+    "13:00 reel (Səbail qalası 1/2, voiced)": 422128459,
+    "16:00 reel (Europa, MOTION, silent)": 422134042,
+    "18:30 reel (trend backup Tristan da Cunha, silent)": 422129772,
+    "21:30 reel (Baku oil 1901, MOTION, silent)": 422136079
   },
-  "story": {
-   "day": 10,
-   "month": 11,
-   "year": 1871,
-   "title": "8 ay axtardı, bircə sual verdi",
-   "text": "155 il əvvəl bu gün jurnalist Henri Stenli itkin səyyah Livinqstonu Afrikada, Tanqanika gölünün sahilində tapdı. Dediyi ilk söz tarixə düşdü: «Doktor Livinqston, deyəsən, sizsiniz?»",
-   "credit": "Wikimedia Commons (ictimai mülkiyyət)"
+  "tiktok": {
+    "13:00 Səbail qalası 1/2": 422128505,
+    "18:30 Baku oil 1901 (2nd AZ video, DECISIONS 2026-11-09 #2)": 422136115
+  },
+  "youtube": {
+    "13:00 Səbail qalası 1/2": 422128577,
+    "16:00 Europa": 422134138,
+    "21:30 Baku oil 1901": 422136146
+  },
+  "pending_schedule": [],
+  "reposts": "None: DECISIONS 2026-11-09 #1 (Gartal) = YouTube 3 Shorts/day, no 11:00/19:45 reposts and no 18:30 Short (overrides the older task-prompt wording). Nothing logged in facts/tiktok_reposts.json.",
+  "paused": "No TBG carousel/10:00 story (history block left unused) and no quiz stories (CUTS 2026-11-09).",
+  "ig_audio": {
+    "status": "not used",
+    "why": "Trending-sound test (18:30/21:30 IG): Metricool's Instagram catalogue returned no official track for 'Linger - The Cranberries', 'Blue Moon - Zara Larsson' or 'Everlong - Foo Fighters' (only user 'original_sound' uploads/covers, rights unclear), so both reels went out with their own audio. Tried 2026-11-09 evening build."
+  },
+  "built": {
+    "when": "2026-11-09 20:46-21:12 Asia/Baku",
+    "reels": {
+      "1": "factgen voiced (Banu +15%), 31.6 s; photo = portrait composite of the Sabayil photo so the ruin sits above the text box",
+      "2": "MOTION prototypes/anim_studio_europa 24.7 s: Europa photo -> next to the Moon (ring) -> water spheres Earth vs Europa x2 -> ice/ocean/rock layers + Europa Clipper counter to aprel 2030",
+      "3": "factgen silent 23.4 s (nbsp fix '2 435 km')",
+      "4": "MOTION prototypes/anim_studio_oil1901 24.7 s: photochrome postcard hook -> pie 51.5 % -> bars 1900 Baku 11,5 vs USA 9,1 -> name pills Nobellər/Rotşildlər/yerli milyonçular. Built SILENT (motion <=25 s) -> no AI label"
+    },
+    "checked": "5 frames each of reels 1/3, 8+ frames of both motion reels; fixes: reel 1 new crop, reel 3 nbsp, Europa ice label moved, oil '1-ci yer' badge overlapped 11,5 -> moved",
+    "motion_status": "both motion builds OK, no static fallback"
+  },
+  "trend_check_evening": "9 Nov 21:00: no big AZ/world story found that beats the plan (searches thin). Candidates for the 15:23 swap: 10 Nov = Atatürk's death anniversary (1938, Turkish link); COP31 Antalya continues. 18:30 IG stays Tristan backup unless swapped; TikTok 18:30 = oil reel (unchanged by swaps).",
+  "scheduled_check": "getScheduledPosts 10 Nov before: 0 posts. After: 9 (IG 4, TikTok 2 at 13:00/18:30, YouTube 3 at 13:00/16:00/21:30), each network/time once.",
+  "trend": {
+    "n": "T",
+    "type": "reel",
+    "format": "v4",
+    "cat": "Tarix",
+    "voiced": false,
+    "subject": "88th anniversary of Atatürk's death: died 10 Nov 1938 at 09:05 in Dolmabahçe Palace, Istanbul, aged 57 (Hürriyet Daily News 2023: 'at the age of 57 in 1938', 'Dolmabahçe Palace in Istanbul, where the great leader took his last breath'; Daily Sabah 2020: 'died at the age of 57'). Every year at 09:05 sirens sound across Türkiye, followed by two minutes of silence (Daily Sabah: 'sirens and car horns echoed across Turkey, followed by two minutes of silence'; Hürriyet: 'Millions across the nation observed two minutes of silence', vehicles stopped on Istanbul's bridges). Body first placed in a temporary grave at the Ethnography Museum of Ankara, moved to Anıtkabir in 1953 (Daily Sabah). 09:05 Türkiye time (UTC+3) = 10:05 Baku. Not used: 'clocks in Dolmabahçe stopped at 09:05' (not found in sources), exact 10 Nov 1953 date.",
+    "photo_request": "Atatürk portrait (Commons, public domain)",
+    "title": "09:05: Türkiyə hər il dayanır",
+    "text": "Hər il 10 noyabrda saat 09:05-də bütün Türkiyədə sirenlər çalır və insanlar yerlərində dayanır. Bu, Atatürkün vəfat etdiyi dəqiqədir.",
+    "reel_hook": "09:05: TÜRKİYƏ HƏR İL DAYANIR",
+    "reel_beats": [
+      "Bu gün saat 09:05-də bütün Türkiyədə sirenlər çaldı. İnsanlar işini dayandırdı, 2 dəqiqə sükut oldu.",
+      "88 il əvvəl, 10 noyabr 1938-ci ildə, məhz bu dəqiqədə Mustafa Kamal Atatürk vəfat etdi. Onun cəmi 57 yaşı vardı.",
+      "O, İstanbulda, Dolmabağça sarayında dünyasını dəyişdi. Əvvəlcə Ankarada müvəqqəti dəfn olundu, 1953-cü ildə isə Anıtqəbirə köçürüldü."
+    ],
+    "cta": "Hər gün yeni fakt — izlə!",
+    "caption": "Atatürk: hər il saat 09:05-də bütün Türkiyə dayanır 🇹🇷\n\nBu gün Türkiyədə saat 09:05-də (Bakı vaxtı ilə 10:05) sirenlər çaldı, insanlar yerlərində dayandı və 2 dəqiqə sükut oldu. 88 il əvvəl, 10 noyabr 1938-ci ildə, məhz bu dəqiqədə Mustafa Kamal Atatürk İstanbulda, Dolmabağça sarayında vəfat etdi. Onun cəmi 57 yaşı vardı. Atatürk əvvəlcə Ankarada, Etnoqrafiya muzeyində müvəqqəti dəfn olundu. 15 il sonra, 1953-cü ildə, Anıtqəbirə köçürüldü.\n\n👉 Hər gün yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Türkiyə Baş Nazirliyi arxivi / Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #atatürk #10noyabr #türkiyə",
+    "first_comment": "Sən Anıtqəbirdə və ya Dolmabağça sarayında olmusan? 👇",
+    "tone": "respectful commemoration: no jokes, no 📩 send-to-friend line",
+    "photo": {
+      "path": "fetch/img/2026-10-28_T_ataturk_b.png",
+      "credit": "Türkiyə Baş Nazirliyi arxivi / Wikimedia Commons (ictimai mülkiyyət)",
+      "cy": 0.3,
+      "full": true,
+      "source": "https://commons.wikimedia.org/wiki/File:Mustafa_Kemal_Atat%C3%BCrk.png",
+      "note": "1920x2590 portrait, public domain (government property per Commons), checked at full size: no watermark/logo. Fetched 28 Oct, unused then. Face = main person (section P)."
+    },
+    "sources": [
+      "https://www.hurriyetdailynews.com/turkiye-commemorates-ataturk-on-85th-anniversary-of-his-passing-187734",
+      "https://www.dailysabah.com/turkey/turkey-remembers-mustafa-kemal-ataturk-on-anniversary-of-his-passing/news"
+    ],
+    "source_scan": "10 Nov 09:10: azertag/apa/report.az searches (only military oath ceremonies, Victory Day echoes = off-limits/thin), Qarabağ (no match today), world top headlines (US Iran-war politics - not suitable); no dominant safe story -> Atatürk 88th death anniversary (Turkish link, flagged in 9 Nov evening check).",
+    "planned_at": "2026-11-10 09:40 Baku (morning run)"
   }
- },
- "facts": [
-  {
-   "n": 1,
-   "type": "reel",
-   "cat": "Azərbaycan",
-   "voiced": true,
-   "part": "1/2",
-   "subject": "Sabayil (Bayil) castle, Baku Bay: built under Shirvanshah Fariburz III, 1232-1235 (Advantour), bas-relief dated 632 AH ~1234-35 (azer.com), 'in 1235' (azernews); on a small island ~300 m offshore (azer.com; azernews ~350 m); 180 x 40 m, 15 towers, walls 1.5-2 m (azer.com; Advantour); went under water after the 1306 earthquake / sea rise (all four sources: azer.com, Advantour, azernews, Wikipedia). Part 2 material (not used here): reappeared 1723, ~700 inscribed stones raised from 1939, now in the Shirvanshahs' Palace.",
-   "photo_request": "Sabayil castle ruins in Baku Bay (Commons)",
-   "title": "Dənizin altında 180 metrlik qala",
-   "text": "Bakı buxtasında, sahildən 300 metr aralıda suyun altında bir qala var. 1306-cı ildəki zəlzələdən sonra dəniz onu udub.",
-   "reel_hook": "180 METRLİK QALA DƏNİZİN ALTINDA (1/2)",
-   "reel_beats": [
-    "Bakı buxtasında, sahildən təxminən 300 metr aralıda, suyun altında bir qala var. Ona Səbail və ya Bayıl qalası deyirlər.",
-    "Şirvanşahlar onu təxminən 1235-ci ildə kiçik bir adada tikdirdilər. Qalanın uzunluğu 180 metr idi, 15 qülləsi vardı.",
-    "1306-cı ildə güclü zəlzələ oldu, dəniz qalxdı və qala suyun altında qaldı. Bəs onu necə tapdılar? 2-ci hissə sabah 13:00-da."
-   ],
-   "voice_texts": [
-    "Yüz səksən metrlik qala dənizin altında.",
-    "Bakı buxtasında, sahildən təxminən üç yüz metr aralıda, suyun altında bir qala var. Ona Səbail və ya Bayıl qalası deyirlər.",
-    "Şirvanşahlar onu təxminən min iki yüz otuz beşinci ildə kiçik bir adada tikdirdilər. Qalanın uzunluğu yüz səksən metr idi, on beş qülləsi vardı.",
-    "Min üç yüz altıncı ildə güclü zəlzələ oldu, dəniz qalxdı və qala suyun altında qaldı. Bəs onu necə tapdılar? İkinci hissə sabah saat on üçdə."
-   ],
-   "cta": "Hər gün 13:00-da yeni Bakı faktı — izlə!",
-   "caption": "Bakı buxtasında suyun altında 180 metrlik qala var 🌊 (1/2)\n\nOna Səbail və ya Bayıl qalası deyirlər. Şirvanşahlar onu təxminən 1235-ci ildə, sahildən 300 metr aralıdakı kiçik bir adada tikdirdilər. Qalanın uzunluğu 180 metr, divarlarının qalınlığı 2 metrə qədər idi, 15 qülləsi vardı. 1306-cı ildə güclü zəlzələ oldu, dəniz qalxdı və qala suyun altında qaldı.\n\nBəs onu necə tapdılar və daşları indi haradadır? 2-ci hissə sabah 13:00-da — izlə ki, qaçırmayasan.\n\n📩 Bulvarda hər gün gəzib bunu bilməyən dostuna göndər 😄\n\n👉 Hər gün 13:00-da Azərbaycan haqqında bilmədiyin bir fakt — izlə ki, qaçırmayasan\n\nFoto: Interfase / Wikimedia Commons (CC BY-SA 4.0)\n\n#bilirdinizmi #bakı #səbailqalası #xəzər #tarix",
-   "first_comment": "Sən bu qalanın yerini bulvardan görmüsən? 👇",
-   "quizzes": [
-    {
-     "q": "Səbail qalasının uzunluğu nə qədər idi?",
-     "options": [
-      "50 metr",
-      "180 metr",
-      "500 metr"
-     ],
-     "answer": "180 metr",
-     "why": "15 qülləsi vardı."
-    },
-    {
-     "q": "Qala hansı ildə suyun altında qaldı?",
-     "options": [
-      "1306",
-      "1723",
-      "1859"
-     ],
-     "answer": "1306",
-     "why": "Güclü zəlzələdən sonra."
-    },
-    {
-     "q": "Qalanın neçə qülləsi vardı?",
-     "options": [
-      "4",
-      "9",
-      "15"
-     ],
-     "answer": "15",
-     "why": "Uzunluğu 180 metr idi."
-    }
-   ],
-   "sources": [
-    "https://www.azer.com/aiweb/categories/magazine/82_folder/82_articles/82_sabayil.html",
-    "https://advantour.com/azerbaijan/baku/bail-castle.htm",
-    "https://www.azernews.az/culture/201360.html",
-    "https://en.wikipedia.org/wiki/Sabayil_Castle"
-   ],
-   "verify_note": "300 m offshore + 180x40 m + walls up to 2 m + 1306: azer.com; 15 towers + 180x40 + 1306 + sea rose: Advantour; 1235 + 1306: azernews; 1306 + island submerged: Wikipedia. Build year differs (1232-35) -> 'təxminən 1235'. Wikipedia swaps length/width (40 x 180) -> we say 'uzunluğu 180 metr' (the long side either way). Cause: earthquake + sea rise ('perhaps', azer.com) -> said 'zəlzələ oldu, dəniz qalxdı'. Real two halves: sinking (part 1) / reappearance + 700 stones now in Shirvanshahs' Palace (part 2).",
-   "photo": {
-    "path": "fetch/img/2026-11-10_1_sabayil_portrait.jpg",
-    "credit": "Interfase / Wikimedia Commons (CC BY-SA 4.0)",
-    "cy": 0.5,
-    "cx": 0.5,
-    "full": true,
-    "source": "https://commons.wikimedia.org/wiki/File:Sabayil_Fortress.jpg",
-    "note": "1280x853, Baku Bay from above: the castle outline in the water in front of the pier, checked, no watermark. cx 0.35 keeps the ruin in a 9:16 crop. Spare: 2026-11-10_1_bayil_place.jpg (Interfase CC BY-SA 3.0, ruin + Ferris wheel, good for part 2), 2026-11-10_1_bayil_stones2.jpg (Urmen19 CC BY-SA 4.0, inscribed stone, part 2). Evening build: portrait composite made from this photo (ruin moved above the text box, water below extended) = 2026-11-10_1_sabayil_portrait.jpg."
-   }
-  },
-  {
-   "n": 2,
-   "type": "reel",
-   "cat": "Kosmos",
-   "voiced": false,
-   "motion": true,
-   "subject": "Europa (Jupiter's moon): subsurface ocean with 'more than twice as much water as all of Earth's oceans combined' (NASA Europa Up Close) / 'about twice' (JPL Europa Clipper press kit); ice shell ~10-15 miles (15-25 km) thick, ocean 40-100 miles (60-150 km) deep (NASA); Europa Clipper 'scheduled to arrive at Jupiter in April 2030' (NASA). Europa slightly smaller than Earth's Moon (diameter ~3 100 km vs ~3 475 km, NASA facts - common reference).",
-   "photo_request": "Europa realistic colour mosaic PIA19048 (NASA, PD)",
-   "title": "Yerdəkindən 2 qat çox su",
-   "text": "Yupiterin peyki Avropanın buz qabığının altında okean var. NASA-ya görə, orada Yerdəki bütün okeanlardan təxminən 2 qat çox su ola bilər.",
-   "reel_hook": "YERDƏKİNDƏN 2 QAT ÇOX SU",
-   "reel_beats": [
-    "Yupiterin peyki Avropa bizim Aydan bir az kiçikdir. Amma qalın buz qabığının altında böyük bir okean gizlənir.",
-    "NASA-ya görə, bu okeanda Yerdəki bütün okeanlardan təxminən 2 qat çox su var. Dərinliyi 60–150 km ola bilər.",
-    "Üstündəki buzun qalınlığı 15–25 km-dir. NASA-nın «Europa Clipper» aparatı 2030-cu ilin aprelində ora çatacaq."
-   ],
-   "cta": "Hər gün yeni fakt — izlə!",
-   "caption": "Yupiterin peyki Avropada Yerdəkindən 2 qat çox su var 🪐\n\nAvropa bizim Aydan bir az kiçikdir. Amma 15–25 km qalınlığında buz qabığının altında okean gizlənir. NASA-ya görə, bu okeanda Yerdəki bütün okeanlardan təxminən 2 qat çox su var, dərinliyi isə 60–150 km ola bilər. Okeanı yaxından öyrənmək üçün NASA-nın «Europa Clipper» aparatı yoldadır və 2030-cu ilin aprelində Yupiterə çatacaq.\n\n📩 Hovuzu «dərin» sayan dostuna göndər — 150 km-lik okeanı görsün 😄\n\n👉 Hər gün yeni fakt — izlə ki, qaçırmayasan\n\nFoto: NASA / JPL-Caltech / SETI Institute\n\n#bilirdinizmi #avropa #yupiter #nasa #kosmos",
-   "first_comment": "Səncə, Avropanın okeanında həyat ola bilər? 👇",
-   "quizzes": [
-    {
-     "q": "Avropanın okeanında Yerdəkindən nə qədər su var?",
-     "options": [
-      "Yarısı qədər",
-      "Təxminən 2 qat çox",
-      "10 qat çox"
-     ],
-     "answer": "Təxminən 2 qat çox",
-     "why": "NASA-nın hesablamasına görə."
-    },
-    {
-     "q": "Avropanın üstündəki buzun qalınlığı nə qədərdir?",
-     "options": [
-      "15–25 km",
-      "1–2 km",
-      "300 km"
-     ],
-     "answer": "15–25 km",
-     "why": "Altında 60–150 km dərin okean var."
-    },
-    {
-     "q": "«Europa Clipper» Yupiterə nə vaxt çatacaq?",
-     "options": [
-      "2027",
-      "2030",
-      "2040"
-     ],
-     "answer": "2030",
-     "why": "2030-cu ilin aprelində."
-    }
-   ],
-   "sources": [
-    "https://science.nasa.gov/mission/europa-clipper/why-europa-europa-up-close",
-    "https://www.jpl.nasa.gov/press-kits/europa-clipper/mission/science/"
-   ],
-   "verify_note": "2x water (NASA 'more than twice', JPL 'about twice' -> 'təxminən 2 qat'), ice 15-25 km, ocean 60-150 km, arrival April 2030: NASA Europa Up Close + JPL. 'Smaller than our Moon': NASA Europa overview (diameter 3 100 km vs Moon 3 475 km). Not used: life claims.",
-   "photo": {
-    "path": "fetch/img/2026-11-10_2_europa.jpg",
-    "credit": "NASA / JPL-Caltech / SETI Institute",
-    "cy": 0.4,
-    "full": false,
-    "source": "https://commons.wikimedia.org/wiki/File:PIA19048_realistic_color_Europa_mosaic_edited.jpg",
-    "note": "PD NASA PIA19048 realistic-colour mosaic, 1280x946, half-lit Europa on black, checked."
-   }
-  },
-  {
-   "n": 3,
-   "type": "reel",
-   "cat": "Coğrafiya",
-   "voiced": false,
-   "subject": "Tristan da Cunha: Guinness 'Most remote inhabited island' - nearest inhabited land St Helena 2 435 km (1 315 nmi) to the NE; Live Science: around 250 people, accessible only by a six-day boat journey from South Africa; Guinness (Guardian 2005): six days by boat from Cape Town; evacuated in 1961 because of volcanic activity, 198 islanders returned in November 1963 (Guinness). Baku-Moscow straight line ~1 900 km (own check, so 2 435 km > Baku-Moscow).",
-   "photo_request": "Tristan da Cunha cliffs (Unsplash)",
-   "title": "Ən yaxın qonşu 2 435 km uzaqda",
-   "text": "Tristan-da-Kunya dünyanın ən uzaq yaşayış adasıdır. Orada təxminən 250 nəfər yaşayır, ən yaxın qonşu ada isə 2 435 km uzaqdadır.",
-   "reel_hook": "ƏN YAXIN QONŞU 2 435 KM UZAQDA",
-   "reel_beats": [
-    "Atlantik okeanının ortasında Tristan-da-Kunya adlı kiçik bir ada var. Orada cəmi 250-yə yaxın adam yaşayır.",
-    "Ən yaxın yaşayış olan yer Müqəddəs Yelena adasıdır və 2 435 km uzaqdadır. Bu, Bakıdan Moskvaya olan məsafədən də çoxdur.",
-    "Adaya yalnız gəmi ilə getmək olar: Cənubi Afrikadan 6 gün yol. 1961-ci ildə vulkan oyananda bütün sakinlər adanı tərk etdi, 2 il sonra geri qayıtdılar."
-   ],
-   "cta": "Hər gün yeni fakt — izlə!",
-   "caption": "Tristan-da-Kunya: bu adanın ən yaxın qonşusu 2 435 km uzaqdadır 🏝️\n\nTristan-da-Kunya Atlantik okeanının ortasındadır və Ginnesə görə dünyanın ən uzaq yaşayış adasıdır. Orada 250-yə yaxın adam yaşayır. Ən yaxın yaşayış olan yer Müqəddəs Yelena adasıdır — 2 435 km, yəni Bakıdan Moskvaya olan məsafədən də çox. Adaya yalnız gəmi ilə, Cənubi Afrikadan 6 günə çatmaq olur. 1961-ci ildə vulkan oyananda sakinlər adanı tərk etdi və 1963-cü ildə geri qayıtdılar.\n\n📩 «Hamıdan uzaqda yaşamaq istəyirəm» deyən dostuna göndər 😄\n\n👉 Hər gün yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Hector John Periquin / Unsplash\n\n#bilirdinizmi #tristandakunya #ada #okean #coğrafiya",
-   "first_comment": "Sən belə bir adada bir il yaşaya bilərdin? 👇",
-   "quizzes": [
-    {
-     "q": "Tristan-da-Kunyada təxminən neçə nəfər yaşayır?",
-     "options": [
-      "250",
-      "2 500",
-      "25 000"
-     ],
-     "answer": "250",
-     "why": "Dünyanın ən uzaq yaşayış adasıdır."
-    },
-    {
-     "q": "Cənubi Afrikadan adaya gəmi ilə neçə gün yol var?",
-     "options": [
-      "1",
-      "6",
-      "20"
-     ],
-     "answer": "6",
-     "why": "Adaya yalnız gəmi ilə getmək olar."
-    },
-    {
-     "q": "Sakinlər 1961-ci ildə adanı niyə tərk etdi?",
-     "options": [
-      "Vulkan",
-      "Sunami",
-      "Müharibə"
-     ],
-     "answer": "Vulkan",
-     "why": "1963-cü ildə geri qayıtdılar."
-    }
-   ],
-   "sources": [
-    "https://www.guinnessworldrecords.com/world-records/66683-most-remote-inhabited-island",
-    "https://www.livescience.com/planet-earth/geology/tristan-da-cunha-the-most-remote-inhabited-island-on-earth-forged-from-a-supercontinent-breakup"
-   ],
-   "verify_note": "2 435 km to St Helena + 1961 evacuation / 1963 return + 6 days from Cape Town: Guinness; ~250 people + six-day boat from South Africa: Live Science. 'Bakıdan Moskvaya' ~1 900-1 970 km straight line -> 2 435 is more (safe). Not used: surnames count, 'no airport' wording (said 'yalnız gəmi ilə', per Live Science 'accessible only by a six-day boat journey').",
-   "photo": {
-    "path": "fetch/img/2026-11-10_3_tristan.jpg",
-    "credit": "Hector John Periquin / Unsplash",
-    "cy": 0.5,
-    "cx": 0.5,
-    "full": true,
-    "source": "https://unsplash.com/photos/47KxYlqxDiw",
-    "note": "Unsplash description 'Cliffs along the coast of Tristan da Cunha in the Atlantic Ocean', 1600x1067, green cliffs + sea, checked."
-   }
-  },
-  {
-   "n": 4,
-   "type": "reel",
-   "cat": "Azərbaycan",
-   "voiced": false,
-   "motion": true,
-   "subject": "Baku oil boom: 'By 1901, Azerbaijan produced 11 million tons of oil, more than half of the world's total at the time' (Ministry of Energy of Azerbaijan); 'over 50% of the world's production' (azerbaijan.az); SOCAR history 1901: 51.5% of global oil production; SOCAR 1900: Baku first in the world with 11.5 million t vs USA 9.1 million t. Rothschild company controlled over 40% of Baku output early 20th c. (Ministry). Not used: Russian empire share 95% (not found).",
-   "photo_request": "Baku oil gusher / derricks c. 1900 (PD postcard, Commons)",
-   "title": "1901: dünya neftinin yarısı Bakıdan",
-   "text": "1901-ci ildə Bakıda 11 milyon ton neft çıxarıldı. Bu, o vaxt dünyada çıxarılan bütün neftin yarısından çox idi.",
-   "reel_hook": "1901: DÜNYA NEFTİNİN YARISI BAKIDAN",
-   "reel_beats": [
-    "1901-ci ildə Bakıda 11 milyon ton neft çıxarıldı. Bu, o vaxt dünyada çıxarılan bütün neftin yarısından çox idi.",
-    "Bir il əvvəl Bakı dünyada birinci yerə çıxmışdı: 11,5 milyon ton. Həmin il Amerika 9,1 milyon ton neft çıxarmışdı.",
-    "Bakıya dünyanın hər yerindən iş adamları gəlirdi. Nobellər, Rotşildlər və yerli milyonçular burada neft şirkətləri qurdular."
-   ],
-   "voice_texts": [
-    "Min doqquz yüz birinci il: dünya neftinin yarısı Bakıdan çıxırdı.",
-    "Min doqquz yüz birinci ildə Bakıda on bir milyon ton neft çıxarıldı. Bu, o vaxt dünyada çıxarılan bütün neftin yarısından çox idi.",
-    "Bir il əvvəl Bakı dünyada birinci yerə çıxmışdı: on bir yarım milyon ton. Həmin il Amerika doqquz milyon yüz min ton neft çıxarmışdı.",
-    "Bakıya dünyanın hər yerindən iş adamları gəlirdi. Nobellər, Rotşildlər və yerli milyonçular burada neft şirkətləri qurdular."
-   ],
-   "cta": "Hər gün yeni fakt — izlə!",
-   "caption": "1901-ci ildə dünya neftinin yarısından çoxu Bakıdan çıxırdı 🛢️\n\nO il Bakıda 11 milyon ton neft çıxarıldı — dünyada çıxarılan bütün neftin yarısından çox. Bir il əvvəl, 1900-cü ildə, Bakı 11,5 milyon tonla dünyada birinci yerə çıxmışdı, Amerika isə həmin il 9,1 milyon ton çıxarmışdı. Bakıya dünyanın hər yerindən iş adamları gəlirdi: Nobellər, Rotşildlər və yerli neft milyonçuları burada şirkətlər qurdular.\n\n📩 «Bakı həmişə belə idi» deyən dostuna göndər 😄\n\n👉 Hər gün Azərbaycan haqqında bilmədiyin bir fakt — izlə ki, qaçırmayasan\n\nFoto: köhnə açıqca, Bibiheybət / Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #bakı #neft #neftbumu #tarix",
-   "first_comment": "Neft bumu dövründən qalan hansı Bakı binasını ən çox sevirsən? 👇",
-   "quizzes": [
-    {
-     "q": "1901-ci ildə Bakıda neçə ton neft çıxarıldı?",
-     "options": [
-      "1 milyon",
-      "11 milyon",
-      "110 milyon"
-     ],
-     "answer": "11 milyon",
-     "why": "Dünya neftinin yarısından çox."
-    },
-    {
-     "q": "1900-cü ildə Amerika neçə ton neft çıxarmışdı?",
-     "options": [
-      "9,1 milyon",
-      "20 milyon",
-      "2 milyon"
-     ],
-     "answer": "9,1 milyon",
-     "why": "Bakı isə 11,5 milyon ton."
-    },
-    {
-     "q": "1901-ci ildə Bakı dünya neftinin nə qədərini verirdi?",
-     "options": [
-      "Onda birini",
-      "Yarısından çoxunu",
-      "Hamısını"
-     ],
-     "answer": "Yarısından çoxunu",
-     "why": "SOCAR-a görə, 51,5 faiz."
-    }
-   ],
-   "sources": [
-    "https://minenergy.gov.az/en/neft/neft-senayesinin-inkisaf-tarixi",
-    "https://azerbaijan.az/en/related-information/130",
-    "https://socar.com.tr/history-1900"
-   ],
-   "verify_note": "11 Mt + more than half in 1901: Ministry of Energy + azerbaijan.az ('over 50%') + SOCAR (51.5%). 1900: 11.5 Mt vs USA 9.1 Mt: SOCAR. Rothschilds >40% of Baku output: Ministry; Nobels in Baku: earlier verified (Zoroastr, Nobel posts). Different from used topics (Bibiheybət 1846 well, Tağıyev gusher, Nobel Foundation money) -> new angle: world share. AZ angle for 21:30 (>=5 days/week).",
-   "photo": {
-    "path": "fetch/img/2026-11-10_4_bibiheybat_photochrome.jpg",
-    "credit": "köhnə açıqca, Bibiheybət / Wikimedia Commons (ictimai mülkiyyət)",
-    "cy": 0.55,
-    "full": true,
-    "source": "https://commons.wikimedia.org/wiki/File:The_Oil_Gush_Fire_in_Bibiheybat_photochrome.jpg",
-    "note": "PD photochrome postcard (early 1900s), burning derrick at Bibiheybat with workers, 800x1253 portrait, Russian title text at the top -> crop with cy 0.55 so the header stays out under the hook, no watermark. Low-res (800 px): use with gentle zoom only."
-   },
-   "voice_note": "Built as a SILENT motion reel (≤ 25 s rule for motion, DECISIONS 2026-11-09 #3); voice_texts kept unused. No AI label."
-  }
- ],
- "metricool": {
-  "13:00 reel (Səbail qalası 1/2, voiced)": 422128459,
-  "16:00 reel (Europa, MOTION, silent)": 422134042,
-  "18:30 reel (trend backup Tristan da Cunha, silent)": 422129772,
-  "21:30 reel (Baku oil 1901, MOTION, silent)": 422136079
- },
- "tiktok": {
-  "13:00 Səbail qalası 1/2": 422128505,
-  "18:30 Baku oil 1901 (2nd AZ video, DECISIONS 2026-11-09 #2)": 422136115
- },
- "youtube": {
-  "13:00 Səbail qalası 1/2": 422128577,
-  "16:00 Europa": 422134138,
-  "21:30 Baku oil 1901": 422136146
- },
- "pending_schedule": [],
- "reposts": "None: DECISIONS 2026-11-09 #1 (Gartal) = YouTube 3 Shorts/day, no 11:00/19:45 reposts and no 18:30 Short (overrides the older task-prompt wording). Nothing logged in facts/tiktok_reposts.json.",
- "paused": "No TBG carousel/10:00 story (history block left unused) and no quiz stories (CUTS 2026-11-09).",
- "ig_audio": {
-  "status": "not used",
-  "why": "Trending-sound test (18:30/21:30 IG): Metricool's Instagram catalogue returned no official track for 'Linger - The Cranberries', 'Blue Moon - Zara Larsson' or 'Everlong - Foo Fighters' (only user 'original_sound' uploads/covers, rights unclear), so both reels went out with their own audio. Tried 2026-11-09 evening build."
- },
- "built": {
-  "when": "2026-11-09 20:46-21:12 Asia/Baku",
-  "reels": {
-   "1": "factgen voiced (Banu +15%), 31.6 s; photo = portrait composite of the Sabayil photo so the ruin sits above the text box",
-   "2": "MOTION prototypes/anim_studio_europa 24.7 s: Europa photo -> next to the Moon (ring) -> water spheres Earth vs Europa x2 -> ice/ocean/rock layers + Europa Clipper counter to aprel 2030",
-   "3": "factgen silent 23.4 s (nbsp fix '2 435 km')",
-   "4": "MOTION prototypes/anim_studio_oil1901 24.7 s: photochrome postcard hook -> pie 51.5 % -> bars 1900 Baku 11,5 vs USA 9,1 -> name pills Nobellər/Rotşildlər/yerli milyonçular. Built SILENT (motion <=25 s) -> no AI label"
-  },
-  "checked": "5 frames each of reels 1/3, 8+ frames of both motion reels; fixes: reel 1 new crop, reel 3 nbsp, Europa ice label moved, oil '1-ci yer' badge overlapped 11,5 -> moved",
-  "motion_status": "both motion builds OK, no static fallback"
- },
- "trend_check_evening": "9 Nov 21:00: no big AZ/world story found that beats the plan (searches thin). Candidates for the 15:23 swap: 10 Nov = Atatürk's death anniversary (1938, Turkish link); COP31 Antalya continues. 18:30 IG stays Tristan backup unless swapped; TikTok 18:30 = oil reel (unchanged by swaps).",
- "scheduled_check": "getScheduledPosts 10 Nov before: 0 posts. After: 9 (IG 4, TikTok 2 at 13:00/18:30, YouTube 3 at 13:00/16:00/21:30), each network/time once."
 }

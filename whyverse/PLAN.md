@@ -81,7 +81,7 @@ https://www.youtube.com/channel/UCTWyyqP6HJP64E7fA7QphGg
   force-push it (never touch main's history). Files < 95 MB.
 - LONG VIDEO: same day as the night build, 19:00 Europe/London (= 14:00 New York; Gartal's instinct, and it covers
   UK evening + US afternoon). YouTube only, type video, category EDUCATION, madeForKids false,
-  isAiGeneratedContent false (stylised animation, not realistic), title ≤ 70 chars with the question, description:
+  isAiGeneratedContent true (AI voice — see AI LABELS), title ≤ 70 chars with the question, description:
   2-line hook, chapter timestamps (first at 0:00), sources list, IG/TikTok handles. Tags 8–12.
 - SHORTS from each episode: 5 cuts, 9:16 (tools/make_shorts.py: blurred background + the 16:9 picture + hook title
   + "Full video on YouTube: Whyverse"; proper re-staged 9:16 versions later if Gartal wants). Each Short is posted

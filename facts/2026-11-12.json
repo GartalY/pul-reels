@@ -1,6 +1,6 @@
 {
  "date": "2026-11-12",
- "status": "planned",
+ "status": "scheduled",
  "format": "v2",
  "content_format": "v4",
  "planned_note": "Planned in the 2026-11-11 09:10 run (format v4 + CUTS/DECISIONS 9 Nov: no TBG, no quizzes, no reposts). Thu 12 Nov (not a two-part day). 13:00 AZ reel (VOICED, photo) = Shirali Muslimov, Lerik shepherd, passport age 168 (disputed; verified record 122). 16:00 reel (SILENT, MOTION) = Venus 460 °C+, hotter than Mercury. 18:30 trend backup reel (SILENT) = Tristan da Cunha (reused unaired 10 Nov backup, video already rendered). 21:30 reel (AZ angle, MOTION; voice_texts given in case it stays voiced) = Teymur Radjabov beat Kasparov at 15 (Linares 2003). TikTok 18:30 per DECISIONS 9 Nov = 21:30 Radjabov (AZ angle) with a Baku question at the end.",
@@ -149,5 +149,36 @@
    ],
    "verify_note": "Born Baku 12 Mar 1987, GM at 14 (Mar 2001), beat Kasparov with black at Linares 2003 aged 15, 2019 World Cup: Wikipedia; brilliancy prize + Kasparov's outburst: Chessbase (Mar 2003). Kasparov Baku-born: verified for the 9 Nov reel. Not used: exact Kasparov quote (Chessbase says wording varies)."
   }
- ]
+ ],
+ "metricool": {
+  "13:00 reel (Şirəli Müslümov, voiced)": 424681671,
+  "16:00 reel (Venera 460 °C, MOTION, silent)": 424681715,
+  "18:30 reel (Tristan-da-Kunya backup, silent)": 424681741,
+  "21:30 reel (Teymur Rəcəbov, MOTION, silent)": 424681768
+ },
+ "tiktok": {
+  "13:00 Şirəli Müslümov": 424682424,
+  "18:30 Teymur Rəcəbov (2nd AZ video, DECISIONS 2026-11-09 #2)": 424682503
+ },
+ "youtube": {
+  "13:00 Şirəli Müslümov": 424682308,
+  "16:00 Venera": 424682328,
+  "21:30 Teymur Rəcəbov": 424682350
+ },
+ "pending_schedule": [],
+ "reposts": "None: DECISIONS 2026-11-09 #1 (YouTube 3 Shorts/day, no 11:00/19:45 reposts, no 18:30 Short) overrides the task-prompt wording. Nothing logged in facts/tiktok_reposts.json.",
+ "paused": "No TBG carousel/10:00 story and no quiz stories (CUTS 2026-11-09).",
+ "built": {
+  "when": "2026-11-11 20:46-21:25 Asia/Baku",
+  "reels": {
+   "1": "factgen voiced (Banu +15%), 36.1 s, hook_bg, ambience only, AI label IG/YT/TikTok",
+   "2": "MOTION prototypes/anim_studio_venus 24.7 s: Venus photo hook -> Sun/Mercury 58 vs Venus 108 mln km orbit diagram + ring -> thermometer counter to 460 °C past lead line 327 °C -> Venus in haze, sun rays in / heat trapped, day 243 vs year 225 counters. Ambience + SFX only",
+   "3": "factgen silent 23.4 s, re-rendered (10 Nov file predated the no-music rule), ambience only",
+   "4": "MOTION prototypes/anim_studio_radjabov 24.7 s: portrait hook -> BAKI 1987 + age counter to 14 + 2001 qrossmeyster -> Linares 2003 chessboard, white king topples, QALİB: 15 YAŞLI TEYMUR -> pills «Ən gözəl oyun» mükafatı / 2019 Dünya Kuboku. Silent, no AI label"
+  },
+  "checked": "5-6 frames of reels 1/3, 8-frame boards + 6 frames of each final motion file; fixes: Venus 460 °C counter moved off the lead label, Venus disc drawn clipped (was washed out), Radjabov beat-3 pills moved off his face",
+  "motion_status": "both motion builds OK, no static fallback"
+ },
+ "trend_check_evening": "11 Nov ~20:50: news searches thin (no dominant AZ or world story for 12 Nov); no swap. 15:23 run can still swap the 18:30 IG backup (Tristan) only.",
+ "scheduled_check": "getScheduledPosts 12 Nov before: 0 posts. After: 9 (IG 4 at 13:00/16:00/18:30/21:30, TikTok 2 at 13:00/18:30, YouTube 3 at 13:00/16:00/21:30), each network/time once."
 }

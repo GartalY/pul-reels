@@ -19,7 +19,6 @@
     P.ell(ctx, -196, -128, 76, 26, C.white, { seed: seed + 6, edge: 0.3, rot: -0.05 }); // pillow
     const hx = -190, hy = -160 - lift; const br = Math.sin(t * 1.5 + seed) * 7 * breathe;
     if (!empty) {
-      P.ell(ctx, hx - 16, hy - 6, 48, 44, hair, { seed: seed + 7, edge: 0.3 });     // hair behind
       P.ell(ctx, hx, hy, 40, 40, skin, { seed: seed + 8 });
       P.wash(ctx, (c) => { c.beginPath(); c.arc(hx, hy, 41, Math.PI * 0.95, Math.PI * 1.75); c.quadraticCurveTo(hx - 6, hy - 14, hx - 40, hy - 4); c.closePath(); }, hair, { seed: seed + 9, edge: 0.3 });
       const ey = hy + 2;

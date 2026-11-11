@@ -16,13 +16,13 @@ const pad = bus(), keys = bus(), low = bus(), perc = bus(), fx = bus(), verb = b
 // ---------- music bed: one mood per chapter ----------
 const CHD = { Am: ['A3', 'C4', 'E4'], F: ['F3', 'A3', 'C4'], C: ['C4', 'E4', 'G4'], G: ['G3', 'B3', 'D4'], Dm: ['D4', 'F4', 'A4'], Bb: ['Bb3', 'D4', 'F4'], Em: ['E3', 'G3', 'B3'], D: ['D4', 'F#4', 'A4'], Bm: ['B3', 'D4', 'F#4'], A: ['A3', 'C#4', 'E4'], Gm: ['G3', 'Bb3', 'D4'], Fmaj7: ['F3', 'A3', 'C4', 'E4'], Cmaj7: ['C4', 'E4', 'G4', 'B4'] };
 const MOOD = {
-  c0: { prog: ['C', 'Am', 'F', 'G'], lead: 'marimba', bpm: 92, shaker: true, kick: false, pad: 1.0 },
-  c1: { prog: ['Fmaj7', 'Cmaj7', 'Dm', 'G'], lead: 'guitar', bpm: 86, shaker: false, kick: false, pad: 1.0 },
-  c2: { prog: ['Am', 'F', 'C', 'G'], lead: 'marimba', bpm: 100, shaker: true, kick: true, pad: 0.7 },
-  c3: { prog: ['Dm', 'Bb', 'F', 'C'], lead: 'musicBox', bpm: 84, shaker: false, kick: false, pad: 1.1 },
-  c4: { prog: ['Em', 'C', 'G', 'D'], lead: 'epiano', bpm: 90, shaker: true, kick: false, pad: 0.9 },
-  c5: { prog: ['C', 'G', 'Am', 'F'], lead: 'guitar', bpm: 94, shaker: true, kick: true, pad: 0.8 },
-  c6: { prog: ['Am', 'Em', 'F', 'G'], lead: 'musicBox', bpm: 80, shaker: false, kick: false, pad: 1.1 },
+  c0: { prog: ['Fmaj7', 'Dm', 'Bb', 'C'], lead: 'musicBox', bpm: 80, shaker: false, kick: false, pad: 1.2 },
+  c1: { prog: ['C', 'Am', 'F', 'G'], lead: 'guitar', bpm: 88, shaker: true, kick: false, pad: 0.9 },
+  c2: { prog: ['Am', 'F', 'C', 'G'], lead: 'marimba', bpm: 96, shaker: true, kick: false, pad: 0.8 },
+  c3: { prog: ['Dm', 'Bb', 'F', 'C'], lead: 'epiano', bpm: 74, shaker: false, kick: false, pad: 1.2 },
+  c4: { prog: ['Em', 'C', 'G', 'D'], lead: 'marimba', bpm: 92, shaker: true, kick: true, pad: 0.8 },
+  c5: { prog: ['C', 'G', 'Am', 'F'], lead: 'guitar', bpm: 90, shaker: true, kick: false, pad: 0.9 },
+  c6: { prog: ['Am', 'Em', 'F', 'G'], lead: 'musicBox', bpm: 84, shaker: true, kick: false, pad: 1.0 },
   c7: { prog: ['Fmaj7', 'Dm', 'Bb', 'C'], lead: 'epiano', bpm: 76, shaker: false, kick: false, pad: 1.2 },
 };
 const ARP = [0, 1, 2, 1, 0, 2, 1, 2];

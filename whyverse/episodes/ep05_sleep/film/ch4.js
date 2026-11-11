@@ -36,17 +36,18 @@
       P.dot(ctx, cx, cy + 16, 15, sick ? C.coral : C.sky, 0.9); P.dot(ctx, cx, cy - 6, 11, C.skin); }
     P.counter(ctx, { x: 960, y: 550, from: 0, to: 164, t, t0: ev.c4_164a, t1: ev.c4_164, size: 100, sub: 'volunteers', subSize: 36, color: C.navy, tEnd: ev.c4_six - 0.2 });
     if (t > ev.c4_virus) for (let i = 0; i < 30; i++) { const u = clamp((t - ev.c4_virus - U.hash(i, 1) * 0.4) / 0.7); if (u <= 0 || u >= 1) continue; P.drop(ctx, 200 + U.hash(i, 2) * 1520, lerp(120, 420, u), 9, C.coral, 1 - u * 0.5); }
+    { const ks = P.pop(t, ev.c4_immune, 0.4) * P.fout(t, ev.c4_164a + 0.2, 0.3); if (ks > 0) P.at(ctx, 960, 620, ks, 0, () => { P.shape(ctx, [[0, -230], [190, -160], [180, 40], [0, 230], [-180, 40], [-190, -160]], C.mint, { seed: 9, k: 0.35 }); P.line(ctx, -70, 0, -15, 60, C.cream, 26, 1); P.line(ctx, -15, 60, 90, -70, C.cream, 26, 1); }); }
     P.tag(ctx, 'the immune system', 380, 120, t, ev.c4_immune, 1e9, { size: 52, border: C.mint, fam: FT.title });
     P.tag(ctx, 'each one given a cold virus', 1400, 120, t, ev.c4_virus, 1e9, { size: 46, border: C.coral });
     // two bars: risk of catching the cold
     const base = 990, unit = 96;
-    const k6 = P.eio((t - ev.c4_six) / (ev.c4_four - ev.c4_six + 0.2)), k7 = P.eio((t - ev.c4_seven) / 0.6);
+    const k6 = P.eio((t - ev.c4_six) / (ev.c4_four - ev.c4_six + 0.2)), k7 = P.eio((t - ev.c4_four - 0.9) / 0.6);
     if (t > ev.c4_six - 0.3) { const a = P.fin(t, ev.c4_six - 0.3, 0.3); ctx.save(); ctx.globalAlpha *= a; P.line(ctx, 330, base, 1590, base, C.ink, 5, 0.7);
       P.label(ctx, 'slept less than 6 hours', 640, base + 58, { align: 'center', size: 42, color: C.ink }); P.label(ctx, 'slept more than 7 hours', 1280, base + 58, { align: 'center', size: 42, color: C.ink }); ctx.restore(); }
     if (k6 > 0) { const h = unit * 4.2 * k6; P.wash(ctx, P.pRR(530, base - h, 220, h, 18), C.coral, { bb: [640, base - h / 2, 220], seed: 5 }); G.text(ctx, (1 + 3.2 * k6).toFixed(1) + '×', 640, base - h - 20, { size: 80, fam: FT.title, weight: 700, color: C.coral, align: 'center', boil: 0 }); }
     if (k7 > 0) { const h = unit * k7; P.wash(ctx, P.pRR(1170, base - h, 220, h, 18), C.sky, { bb: [1280, base - h / 2, 220], seed: 6 }); G.text(ctx, '1×', 1280, base - h - 20, { size: 80, fam: FT.title, weight: 700, color: C.sea, align: 'center', boil: 0, alpha: k7 }); }
     P.stamp(ctx, 'ABOUT 4× MORE COLDS', 1290, 640, t, ev.c4_four, { size: 68, color: C.coral, rot: -0.04, t1: ev.c4_seven - 0.1 });
-    P.label(ctx, 'Prather et al., Sleep, 2015', 1700, 1050, { align: 'right', size: 32, alpha: P.fin(t, ev.c4_six, 0.4) });
+    P.label(ctx, 'Prather et al., Sleep, 2015', 1400, 196, { align: 'center', size: 32, alpha: P.fin(t, ev.c4_six, 0.4) });
   }, { in: { type: 'push', dir: 'left', dur: 0.5 } });
 
   // S3 — 2013, in mice: during sleep the space between brain cells grows 60 % and fluid washes waste away
@@ -76,20 +77,20 @@
     P.calendar(ctx, 260, 230, 'YEAR', '2024', P.pop(t, ev.c4_2024, 0.4), C.coral, 0.9);
     // clearance bars: awake vs asleep
     const a = P.fin(t, ev.c4_opposite - 0.3, 0.4), k = P.eio((t - ev.c4_opposite) / 0.6), dr = P.eio((t - ev.c4_30 + 0.5) / 0.7); const base = 940;
-    ctx.save(); ctx.globalAlpha *= a; P.line(ctx, 430, base, 1010, base, C.ink, 5, 0.7); P.label(ctx, 'awake', 560, base + 56, { align: 'center', size: 44, color: C.ink }); P.label(ctx, 'asleep', 880, base + 56, { align: 'center', size: 44, color: C.ink }); P.label(ctx, 'how fast the brain cleared a dye (mice)', 720, 330, { align: 'center', size: 40, color: C.ink }); ctx.restore();
+    ctx.save(); ctx.globalAlpha *= a; P.line(ctx, 430, base, 1010, base, C.ink, 5, 0.7); P.label(ctx, 'awake', 560, base + 56, { align: 'center', size: 44, color: C.ink }); P.label(ctx, 'asleep', 880, base + 56, { align: 'center', size: 44, color: C.ink }); P.label(ctx, 'how fast the brain cleared a dye (mice)', 430, 400, { align: 'left', size: 40, color: C.ink }); ctx.restore();
     if (k > 0) { P.wash(ctx, P.pRR(470, base - 480 * k, 180, 480 * k, 18), C.gold, { bb: [560, base - 240, 250], seed: 3 }); const h = 480 * k * lerp(1, 0.7, dr); P.wash(ctx, P.pRR(790, base - h, 180, h, 18), C.night2, { bb: [880, base - h / 2, 250], seed: 4 });
       if (dr > 0) { P.brush(ctx, (c) => { c.beginPath(); c.setLineDash([14, 12]); c.moveTo(790, base - 480); c.lineTo(970, base - 480); }, C.dim, 4, 0.7); ctx.setLineDash([]); } }
-    P.counter(ctx, { x: 1130, y: 560, from: 0, to: 30, t, t0: ev.c4_30 - 0.5, t1: ev.c4_30 + 0.2, size: 130, prefix: '−', suffix: '%', sub: 'in sleeping mice', subSize: 36, color: C.night2 });
+    P.counter(ctx, { x: 1150, y: 450, from: 0, to: 30, t, t0: ev.c4_30 - 0.5, t1: ev.c4_30 + 0.2, size: 130, prefix: '−', suffix: '%', sub: 'in sleeping mice', subSize: 36, color: C.night2 });
     // the see-saw: 2013 vs 2024
     const tilt = t > ev.c4_debate ? Math.sin((t - ev.c4_debate) * 2.4) * 0.12 : lerp(-0.14, 0.14, P.eio((t - ev.c4_opposite) / 0.8));
-    const ks = P.pop(t, ev.c4_but, 0.45); if (ks > 0) P.at(ctx, 1520, 780, ks, 0, () => { P.shape(ctx, [[0, 0], [70, 130], [-70, 130]], C.wood, { poly: true, seed: 5 });
+    const ks = P.pop(t, ev.c4_but, 0.45); if (ks > 0) P.at(ctx, 1560, 880, ks, 0, () => { P.shape(ctx, [[0, 0], [70, 130], [-70, 130]], C.wood, { poly: true, seed: 5 });
       ctx.save(); ctx.rotate(tilt); P.rect(ctx, -330, -18, 660, 30, 12, C.wood, { seed: 6 });
       P.at(ctx, -230, -100, 1, 0, () => { P.rect(ctx, -90, -78, 180, 156, 18, C.sea, { seed: 7 }); G.text(ctx, '2013', 0, -8, { size: 64, fam: FT.title, weight: 700, color: C.cream, align: 'center', boil: 0 }); G.text(ctx, 'washes', 0, 46, { size: 40, fam: FT.hand, color: C.cream, align: 'center', boil: 0 }); });
       P.at(ctx, 230, -100, 1, 0, () => { P.rect(ctx, -90, -78, 180, 156, 18, C.coral, { seed: 8 }); G.text(ctx, '2024', 0, -8, { size: 64, fam: FT.title, weight: 700, color: C.cream, align: 'center', boil: 0 }); G.text(ctx, 'slower?', 0, 46, { size: 40, fam: FT.hand, color: C.cream, align: 'center', boil: 0 }); }); ctx.restore(); });
     P.write(ctx, "but science isn't finished.", 1100, 170, t, ev.c4_but - 0.3, { size: 84, dur: 0.7, t1: ev.c4_debate });
     P.stamp(ctx, 'UNDER DEBATE', 1300, 190, t, ev.c4_debate, { size: 110, color: C.navy, fg: C.gold, rot: -0.03 });
-    P.label(ctx, 'Miao et al., Nature Neuroscience, 2024', 1700, 1050, { align: 'right', size: 32, alpha: P.fin(t, ev.c4_2024, 0.4) });
-    Ch.nod(ctx, { x: 1160, y: 1040, s: 0.8, t, gesture: t > ev.c4_debate ? 'shrug' : 'think', eyes: 'open', mouth: Ch.nodMouth(t), look: 0.5, lookY: -0.4 });
+    P.label(ctx, 'Miao et al., Nature Neuroscience, 2024', 720, 1050, { align: 'center', size: 32, alpha: P.fin(t, ev.c4_2024, 0.4) });
+    Ch.nod(ctx, { x: 1130, y: 1040, s: 0.75, t, gesture: t > ev.c4_debate ? 'shrug' : 'think', eyes: 'open', mouth: Ch.nodMouth(t), look: 0.5, lookY: -0.4 });
   }, { in: { type: 'whip', dir: 'left', dur: 0.3 } });
 
   // S5 — not in doubt: in flies and mice, lost sleep lets harmful molecules build up in the gut — the whole body pays

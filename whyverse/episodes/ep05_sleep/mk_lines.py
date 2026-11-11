@@ -1,0 +1,70 @@
+import json
+S = '''
+c0|c0_1|Tonight, you will lie down, lose consciousness, and barely move for hours.
+c0|c0_2|For part of the night, your muscles will be switched off, and your brain will show you things that are not there.
+c0|c0_3|You do this every single night. Add it up, and it's about a third of your life. Over eighty years, that's roughly twenty-six years asleep.
+c0|c0_4|And it's not just you. Elephants do it. Penguins do it. Even a jellyfish with no brain does it.
+c0|c0_5|In the wild, lying still with your eyes shut is about the most dangerous thing an animal can do. Yet evolution never got rid of it.
+c0|c0_6|So, why do we have to sleep?
+c1|c1_1|Chapter one. The boy who stayed awake.
+c1|c1_1h|What happens if you simply refuse to sleep?
+c1|c1_2|In December nineteen sixty-three, a seventeen-year-old from San Diego named Randy Gardner decided to find out, for a school science fair.
+c1|c1_3|Two friends kept him awake and ran the tests. A Stanford sleep researcher, William Dement, came to watch.
+c1|c1_3b|On day ten, the story goes, Randy still beat him at pinball.
+c1|c1_4|As the days passed, a Navy doctor recorded moodiness, trouble concentrating, memory lapses, and even hallucinations.
+c1|c1_5|Randy lasted eleven days and twenty-five minutes. Two hundred and sixty-four hours without sleep.
+c1|c1_6|Then he slept for almost fifteen hours straight, and doctors found him healthy.
+c1|c1_7|Rats were not so lucky. In experiments in the nineteen eighties, rats kept totally awake all died, or came close to death, within eleven to thirty-two days. Nobody could find a clear cause.
+c1|c1_8|In nineteen ninety-seven, Guinness stopped accepting this record. Too dangerous. Please, don't try it.
+c1|c1_9|So sleep is not optional. But what is it actually for?
+c2|c2_1|Chapter two. Two clocks inside you.
+c2|c2_1h|Why do you get sleepy in the first place? Because two clocks are ticking inside you.
+c2|c2_2|The first works like an hourglass. Every hour you are awake, a chemical called adenosine builds up in your brain. The more of it, the sleepier you feel.
+c2|c2_3|Sleep empties the hourglass. Coffee doesn't. Caffeine only blocks the sensors that detect adenosine, so you stop feeling a pressure that is still there.
+c2|c2_4|The second is a real clock. Deep in your brain sits a cluster of about twenty thousand nerve cells that keeps time, even in total darkness.
+c2|c2_4b|As evening comes, it tells your brain to release melatonin, the signal that night has begun.
+c2|c2_5|Left alone, it runs a little slow. One day lasts about twenty-four hours and eleven minutes. Morning light resets it, every single day.
+c2|c2_6|Fly across the world, and that clock stays on the old time. That is jet lag.
+c2|c2_7|When the hourglass is full, and the clock says night, the two line up. And you fall asleep.
+c3|c3_1|Chapter three. What a night really looks like.
+c3|c3_1h|Is sleep just your brain switching off? Not even close.
+c3|c3_2|A night of sleep moves in cycles, each roughly ninety minutes long. Most people go through four to six of them. Scientists can watch it happen, by reading the brain's electrical waves.
+c3|c3_3|First, you sink down into deep sleep. Your brain waves turn slow and huge, your heart rate drops, and you are very hard to wake.
+c3|c3_4|Then you rise back up, into something strange. REM sleep. Your eyes dart around. Your brain is almost as busy as when you are awake. This is where your most vivid dreams happen.
+c3|c3_5|And your arms and legs are temporarily paralysed, so you don't act those dreams out.
+c3|c3_6|Deep sleep comes mostly in the first half of the night. Dream sleep takes over toward morning. Cut the night short, and it's mostly dreams you lose.
+c4|c4_1|Chapter four. The night shift.
+c4|c4_1h|While you are out cold, a night shift clocks in. And it has a lot to do.
+c4|c4_2|Start with the body. In deep sleep, your body releases a large share of its daily growth hormone, the signal to build and repair.
+c4|c4_3|Your immune system counts on it too. In one experiment, a hundred and sixty-four volunteers were given a cold virus. Those who slept less than six hours a night were about four times more likely to get sick than those who slept more than seven.
+c4|c4_4|And the brain? In twenty thirteen, a study in mice found that during sleep, the space between brain cells grows by sixty percent, letting fluid wash waste away. The idea became famous. Sleep as a brain wash.
+c4|c4_5|But science isn't finished. In twenty twenty-four, another team measured the opposite. In sleeping mice, clearance was about thirty percent lower. Right now, the brain wash idea is honestly under debate.
+c4|c4_6|What is not in doubt: in studies of flies and mice, losing sleep lets harmful molecules build up in the gut. Sleep loss hurts the whole body, not just the brain.
+c5|c5_1|Chapter five. Saving the day.
+c5|c5_1h|Why does a problem look easier after a night of sleep?
+c5|c5_2|In nineteen ninety-four, scientists recorded brain cells in rats as they explored. Each place the rat visited made its own set of cells fire.
+c5|c5_3|Later, while the rats slept, the same cells fired together again. The sleeping brain was replaying the day.
+c5|c5_4|That replay is thought to help move fresh memories into long-term storage.
+c5|c5_4b|It may be part of why newborn babies, who are learning everything at once, sleep fourteen to seventeen hours a day.
+c5|c5_5|There is a second idea. Learning all day makes the connections between brain cells bigger and stronger, and that can't go on forever. In mice, a few hours of sleep shrank those connections by about eighteen percent, turning down the noise so the next day has room.
+c5|c5_6|And it has been measured since nineteen twenty-four. People remember more after sleeping than after the same hours awake.
+c5|c5_7|So, sleep on it, is real advice. Your brain does its filing at night.
+c6|c6_1|Chapter six. Sleeping dangerously.
+c6|c6_1h|If sleep is so risky, how do wild animals get away with it? Some of their tricks are unbelievable.
+c6|c6_2|Dolphins sleep with half a brain at a time. One half rests, while the other keeps them swimming, and coming up to breathe.
+c6|c6_3|Frigatebirds fly over the ocean for weeks without landing. They sleep in the air, only about forty-two minutes a day, in short bursts.
+c6|c6_4|Nesting chinstrap penguins take more than ten thousand naps a day, each about four seconds long. It adds up to eleven hours.
+c6|c6_5|Wild elephants get by on about two hours, the least of any mammal measured. A little brown bat in a lab slept almost twenty.
+c6|c6_6|And the upside-down jellyfish has no brain at all. Yet it goes quiet at night, and gets sluggish if you keep it up.
+c6|c6_7|Every animal studied closely pays the price of sleep, one way or another. The sleep scientist Allan Rechtschaffen liked to say: if sleep does not serve an absolutely vital function, then it is the biggest mistake evolution ever made.
+c7|c7_1|So, why do we have to sleep?
+c7|c7_2|There isn't one answer. Sleep repairs the body, backs up the immune system, files away memories, and resets the brain for another day.
+c7|c7_3|And scientists keep finding more. Just this month, a review of fifty-seven brain scan studies linked sleep disorders to changes deep inside the brain.
+c7|c7_4|Skip sleep, and you pay fast. After seventeen to nineteen hours awake, people did as badly on some tests as they did with a blood alcohol level of zero point zero five percent.
+c7|c7_5|For most adults, the target is at least seven hours a night.
+c7|c7_6|That third of your life isn't wasted. It is what makes the other two thirds work.
+c7|c7_7|If you enjoyed this, give it a like, and subscribe to Whyverse. And for shorter stories, find us on Instagram and TikTok. Sleep well.
+'''
+L=[l.split('|') for l in S.strip().split('\n')]
+json.dump(L,open('lines.json','w'),indent=0)
+print(len(L),'lines',sum(len(t.split()) for _,_,t in L),'words')

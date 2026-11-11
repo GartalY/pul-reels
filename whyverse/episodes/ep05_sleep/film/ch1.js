@@ -45,7 +45,7 @@
       G.text(ctx, 'PINBALL', 0, -400, { size: 52, fam: FT.title, weight: 700, color: C.gold, align: 'center', boil: 0 }); const sc = Math.round(Data.count(t, ev.c1_pinball, ev.c1_pinball + 1.4, 0, 9990, ease.outCubic) / 10) * 10; G.text(ctx, String(sc).padStart(4, '0'), 0, -340, { size: 44, fam: FT.hand, color: C.cream, align: 'center', boil: 0 });
       const bt = (t * 1.4) % 1; P.dot(ctx, -100 + 200 * Math.abs(Math.sin(t * 3.1)), -200 - 60 * Math.abs(Math.sin(t * 4.3)), 9, C.cream); });
     const kf = P.pop(t, ev.c1_friends, 0.4);
-    if (kf > 0) { P.human(ctx, { x: 640 + (pin > 0 ? 40 : 0), y: 1010, s: 1.25 * kf, t, shirt: C.mint, hair: '#2E2A33', prop: 'clipboard', armR: [72, -64], look: 0.6, eyes: 'open', seed: 8 });
+    if (kf > 0) { P.human(ctx, { x: 600 + (pin > 0 ? 60 : 0), y: 1010, s: 1.25 * kf, t, shirt: C.mint, hair: '#2E2A33', prop: 'clipboard', armR: [72, -64], look: 0.6, eyes: 'open', seed: 8 });
       P.human(ctx, { x: 1230, y: 1010, s: 1.25 * kf, t, shirt: C.gold, hair: '#8A5A2E', hairStyle: 'curly', flip: true, prop: 'cup', armR: [76, -70], look: 0.6, seed: 11 }); }
     P.rect(ctx, 850, 800, 160, 26, 8, C.wood, { seed: 4 }); for (const sx of [870, 990]) P.line(ctx, sx, 824, sx, 1005, C.wood, 12, 1);
     const pb = t > ev.c1_pinball;
@@ -64,7 +64,7 @@
     P.paper(ctx, t, { tint: C.lilac });
     const u = clamp((t - ev.c1_days) / (ev.c1_sym[3] - ev.c1_days)); const day = Math.min(11, 2 + Math.floor(u * 9.99));
     ctx.save(); P.push(ctx, s.u, 520, 600, 0.03);
-    P.human(ctx, Object.assign({ x: 520, y: 1290, s: 2.3, t, eyes: 'tired', mouth: u > 0.5 ? 'frown' : 'flat', sway: 0.03 + 0.04 * u, look: Math.sin(t * 0.9) * u, shadow: false }, RANDY));
+    P.human(ctx, Object.assign({ x: 520, y: 1330, s: 2.7, t, eyes: 'tired', mouth: u > 0.5 ? 'frown' : 'flat', sway: 0.03 + 0.04 * u, look: Math.sin(t * 0.9) * u, shadow: false }, RANDY));
     ctx.restore();
     calendar(ctx, 200, 210, 'DAY', String(day), P.pop(t, ev.c1_s3 + 0.2, 0.4) * (1 + 0.06 * Math.exp(-((u * 9.99) % 1) * 6)), C.gold, 0.9);
     const icons = [
@@ -77,7 +77,7 @@
     names.forEach((nm, i) => { const k = P.pop(t, ev.c1_sym[i], 0.4); if (k <= 0) return; const x = 1180 + (i % 2) * 440, y = 330 + Math.floor(i / 2) * 400;
       card(ctx, x, y, 400, 350, cols[i], i, () => { ctx.save(); ctx.translate(0, -30); icons[i](); ctx.restore(); G.text(ctx, nm, 0, 140, { size: nm.length > 12 ? 44 : 54, fam: FT.title, weight: 700, color: C.ink, align: 'center', boil: 0 }); }, k, (i % 2 ? 1 : -1) * 0.02);
       P.splat(ctx, x, y, t, ev.c1_sym[i], { color: cols[i], r: 260, seed: i }); });
-    P.label(ctx, 'recorded by a Navy doctor, Lt Cmdr John Ross', 520, 1040, { align: 'center', size: 36, alpha: P.fin(t, ev.c1_sym[0], 0.4) });
+    P.label(ctx, 'recorded by a Navy doctor, Lt Cmdr John Ross', 1400, 1010, { align: 'center', size: 38, alpha: P.fin(t, ev.c1_sym[0], 0.4) });
   }, { in: { type: 'fade', dur: 0.4 } });
 
   // S4 — 11 days and 25 minutes = 264 hours

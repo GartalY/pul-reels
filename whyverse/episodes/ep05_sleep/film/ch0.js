@@ -68,7 +68,7 @@
     P.rect(ctx, bx, by, bw, bh, 26, C.gold, { seed: 5 });
     const k = P.eio((t - ev.c0_third) / 0.8); if (k > 0) { ctx.save(); P.pRR(bx, by, bw, bh, 26)(ctx); ctx.clip(); P.wash(ctx, (c) => { c.beginPath(); c.rect(bx - 10, by - 10, (bw / 3 + 10) * k, bh + 20); }, C.night2, { bb: [bx + bw / 6, by + bh / 2, bw / 5], seed: 6, fillA: 0.97 }); P.stars(ctx, t, { n: 24, seed: 9, x0: bx, y0: by + 10, w: bw / 3 * k, h: bh - 20 }); ctx.restore(); }
     for (let i = 0; i <= 8; i++) { P.line(ctx, bx + i * bw / 8, by + bh + 8, bx + i * bw / 8, by + bh + 28, C.ink, 4, 0.7); P.label(ctx, String(i * 10), bx + i * bw / 8, by + bh + 72, { align: 'center', size: 38 }); }
-    P.label(ctx, 'a life, in years', bx, by - 22, { size: 40, color: C.ink });
+    P.label(ctx, 'a life, in years', bx + bw, by - 22, { size: 40, color: C.ink, align: 'right' });
     ctx.restore();
     if (k > 0.5) { G.text(ctx, 'asleep', bx + bw / 6, by + bh * 0.66, { size: 64, fam: FT.title, weight: 700, color: C.cream, align: 'center', alpha: P.fin(t, ev.c0_third + 0.5, 0.3), boil: 0 }); P.zzz(ctx, bx + bw / 3 - 90, by - 10, t, { color: C.night2, size: 50 }); }
     G.text(ctx, 'awake', bx + bw * 2 / 3, by + bh * 0.66, { size: 64, fam: FT.title, weight: 700, color: C.navy, align: 'center', alpha: a * 0.8, boil: 0 });
@@ -122,7 +122,7 @@
       ws.forEach((w) => { const ww = P.measure(ctx, w.w, size, FT.title, 700); if (t >= w.t) { const k = lerp(1.7, 1, ease.outCubic(clamp((t - w.t) / 0.14))); const col = w.w === 'SLEEP?' ? C.gold : C.cream;
         P.at(ctx, xx + ww / 2, 400 + r * 220, k, (U.hash(w.t * 10, 3) - 0.5) * 0.06, () => G.text(ctx, w.w, 0, 0, { size, fam: FT.title, weight: 700, color: col, align: 'center', boil: 0 })); P.splat(ctx, xx + ww / 2, 340 + r * 220, t, w.t, { r: ww * 0.6, color: col, seed: r * 3 + 1 }); }
         xx += ww + sp; }); });
-    const kb = P.pop(t, ev.titleBrand, 0.45); if (kb > 0) { P.planet(ctx, 800, 850, 38 * kb, t); G.text(ctx, 'WHYVERSE', 1010, 874, { size: 76, fam: FT.title, weight: 700, color: C.gold, align: 'center', alpha: clamp(kb), boil: 0 }); }
+    const kb = P.pop(t, ev.titleBrand, 0.45); if (kb > 0) { P.planet(ctx, 760, 850, 38 * kb, t); G.text(ctx, 'WHYVERSE', 1040, 874, { size: 76, fam: FT.title, weight: 700, color: C.gold, align: 'center', alpha: clamp(kb), boil: 0 }); }
     const y = t > ev.titleYawn && t < ev.titleYawn + 1.5;
     Ch.nod(ctx, { x: 1690, y: 1000, s: 1.0, t, gesture: y ? 'yawn' : t > ev.sync_title ? 'cheer' : 'idle', eyes: y ? 'closed' : t > ev.titleYawn + 1.5 ? 'sleepy' : 'open', mouth: y ? 'yawn' : Ch.nodMouth(t), look: -0.6, lookY: -0.6, swing: 1 });
   }, { in: { type: 'fade', dur: 0.5 } });

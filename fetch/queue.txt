@@ -484,3 +484,7 @@ search_1111_bahramov3.json https://commons.wikimedia.org/w/api.php?action=query&
 search_1112_radjabov.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Teimour%20Radjabov
 search_1112_muslimov.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Shirali%20Muslimov
 search_1112_lerik.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Lerik%20Azerbaijan
+2026-11-12_4_radjabov.jpg https://upload.wikimedia.org/wikipedia/commons/a/a2/Teimour_Radjabov_2013.jpg
+2026-11-12_1_lerik_mountains.jpg https://upload.wikimedia.org/wikipedia/commons/3/32/Tal%C4%B1%C5%9F_da%C4%9Flar%C4%B1%2C_Lerik_rayonu_%C9%99razisi.jpg
+search_1112_muslimov2.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Mislimov
+search_1112_muslimov3.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=M%C3%BCsl%C3%BCmov

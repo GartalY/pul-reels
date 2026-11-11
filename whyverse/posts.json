@@ -528,7 +528,9 @@
    "time_london": "2026-11-11T23:00",
    "time_baku": "2026-11-12T03:00",
    "network": "tiktok",
-   "metricool_id": 422462929,
+   "metricool_id": 424928878,
+   "old_metricool_id": 422462929,
+   "note": "2026-11-12 00:45 Baku: isAigc true added (AI LABELS rule); new id",
    "style": "chalk",
    "title": "Earth's Spin: You're Moving 1,000+ km/h"
   },

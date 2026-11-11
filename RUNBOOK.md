@@ -93,6 +93,16 @@ muted there. Rules from now on, for ALL bilirdinizmi reels (static and motion, a
 4. Never "Restore"/dispute these claims. Log every muted/blocked reel with its territories in reviews/rights.md.
 Whyverse (global audience) may keep its own synth music beds.
 
+## MANDATE DECISION 2026-11-11 (first one, applied by Claude) — bilirdinizmi topic mix
+Data: since 7 Nov every non-Azerbaijan IG reel is under ~165 views (Andromeda 35, COP31 49, Bitcoin pizza 37, Huang
+47) while Azerbaijan reels are the outliers (Maiden Tower 1 987, Landau 1 727, Metro 1/2 1 348) and the only TikTok
+videos people share (Crystal Hall 22 shares, Flame Towers 25). Sunday's review already CONFIRMED this strongly.
+Change from 12 Nov: 3 of the 4 daily reels are Azerbaijan-themed — 13:00 AZ, 21:30 AZ, and the 16:00 MOTION reel
+gets an Azerbaijan angle on at least 4 days a week (Baku/Caspian/Azerbaijani people + space or science, e.g.
+"Shamakhi observatory", "Caspian is shrinking", "Landau's physics"). Only the 18:30 trend slot may be non-AZ, and
+it takes an AZ angle when one exists. Judge on Sun 15 Nov + Sun 22 Nov: IG median views per reel and follows/day.
+Logged as E5 in reviews/experiments.md.
+
 ## USAGE FALLBACK (Gartal 2026-11-10)
 If the weekly usage runs low before the Friday-night reset, FRIDAY's posts are the ones to skip (Gartal: "we can skip posting Friday"). Never skip a Whyverse long episode for it.
 

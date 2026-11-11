@@ -93,6 +93,16 @@ muted there. Rules from now on, for ALL bilirdinizmi reels (static and motion, a
 4. Never "Restore"/dispute these claims. Log every muted/blocked reel with its territories in reviews/rights.md.
 Whyverse (global audience) may keep its own synth music beds.
 
+## PACING RULE (Gartal 2026-11-11) — all reels and Shorts, both brands
+"Attention span got less … give the hook and do fast-moving animations." From now on:
+- The HOOK is the first thing on screen, in the first 1 second (number or surprising claim, big text) — no slow
+  intro, no title card, no fade-in from black.
+- A new shot / cut / big motion every 1.5–2 s; nothing static longer than 2 s; camera always moving.
+- Total length: 20–35 s for reels and Shorts unless the story truly needs more.
+- Payoff at the end so people watch to the last second (then it loops).
+- The 11 Nov living-painting test (prototypes/living_painting) was "too raw": slow, few layers. A v2 needs cut-out
+  layers, more elements and this pacing before it is used; only when Gartal asks.
+
 ## MANDATE DECISION 2026-11-11 (first one, applied by Claude) — bilirdinizmi topic mix
 Data: since 7 Nov every non-Azerbaijan IG reel is under ~165 views (Andromeda 35, COP31 49, Bitcoin pizza 37, Huang
 47) while Azerbaijan reels are the outliers (Maiden Tower 1 987, Landau 1 727, Metro 1/2 1 348) and the only TikTok

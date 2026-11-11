@@ -1,5 +1,8 @@
 # Whyverse — Gartal's feedback on night episodes (newest first)
 
+## 2026-11-11 — pacing (Gartal)
+- Hook in the first 1 s, a new shot or big motion every 1.5–2 s, nothing static over 2 s, payoff at the end. Shorts 20–35 s. (RUNBOOK "PACING RULE".)
+
 ## 2026-11-04 00:10 — ep01 on a PC screen "feels like the video is shaking"
 - Cause: paper-style "boil" (every outline and text re-jittered 12×/s) + camera pushes + Shots.shake(10–20 px) on
   stamps/hits (ch0, ch3, ch5). Fine on a phone, tiring on a big screen.

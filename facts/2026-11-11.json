@@ -186,5 +186,42 @@
   "motion_status": "both motion builds OK, no static fallback"
  },
  "trend_check_evening": "10 Nov ~20:50: news searches thin, no big AZ/world story that beats tomorrow's plan; no swap. 15:23 candidates for 11 Nov: Armistice Day (11 Nov 1918), COP31. 18:30 IG stays Dead Sea backup unless swapped; TikTok 18:30 = Bahramov (unchanged by swaps).",
- "scheduled_check": "getScheduledPosts 11 Nov before: 0 posts. After: 9 (IG 4 at 13:00/16:00/18:30/21:30, TikTok 2 at 13:00/18:30, YouTube 3 at 13:00/16:00/21:30), each network/time once."
+ "scheduled_check": "getScheduledPosts 11 Nov before: 0 posts. After: 9 (IG 4 at 13:00/16:00/18:30/21:30, TikTok 2 at 13:00/18:30, YouTube 3 at 13:00/16:00/21:30), each network/time once.",
+ "trend": {
+  "n": "T",
+  "type": "reel",
+  "format": "v4",
+  "cat": "Texnologiya",
+  "voiced": false,
+  "subject": "Singles' Day / Double 11 (11 Nov, China). Date 11/11 'looks like four bare sticks' (Marketplace 2019). Origin: 'students of Nanjing University' in 1993 (CGTN 2019); Marketplace: origin 'not clear', widely reported version = college students in Nanjing in the 1990s -> told as 'deyilənə görə ... 1990-cı illərdə'. Alibaba joined on 11 Nov 2009 (Marketplace; Wikipedia) with 'just 27 merchants' (World Footwear 2019) / 'a mere 27 brands' (CGTN). 2019: 268.4 billion yuan GMV 'during the 24-hour event' (Marketplace, $38.3 bn) / 'within a 24-hour period' (World Footwear, $38.4 bn) -> 'təxminən 38 milyard dollar'. 2019 >200 000 brands (World Footwear). Not used: 2021 540 bn yuan (11-day period), 2025 '$150 bn' (Wikipedia, no clear source), orders/second.",
+  "photo_request": "stack of parcels / cardboard boxes (Unsplash)",
+  "title": "1 gündə 38 milyard dollarlıq alış-veriş",
+  "text": "Bu gün Çində «Subaylar günü»dür. 2019-cu ildə Alibaba bu gün cəmi 24 saatda təxminən 38 milyard dollarlıq mal satıb.",
+  "reel_hook": "1 GÜNDƏ 38 MİLYARD DOLLARLIQ ALIŞ-VERİŞ",
+  "reel_beats": [
+   "Bu gün, 11 noyabrda, Çində «Subaylar günü»dür. Tarixdəki dörd «1» rəqəmi yan-yana dayanan dörd tək çubuğa bənzəyir.",
+   "Deyilənə görə, bu günü 1990-cı illərdə Nankində tələbələr fikirləşib. 2009-cu ildə Alibaba onu endirim gününə çevirdi və cəmi 27 mağaza qoşuldu.",
+   "10 il sonra, 2019-cu ildə, Alibaba cəmi 24 saatda 268 milyard yuanlıq mal satdı. Bu, təxminən 38 milyard dollar edir."
+  ],
+  "cta": "Hər gün yeni fakt — izlə!",
+  "caption": "11.11: Çində 1 gündə 38 milyard dollarlıq alış-veriş 🛍️\n\nBu gün Çində «Subaylar günü»dür. Tarix 11.11 yan-yana dayanan dörd tək çubuğa bənzəyir, adı da buradan gəlir. Deyilənə görə, bu günü 1990-cı illərdə Nankində tələbələr fikirləşib. 2009-cu ildə Alibaba onu endirim gününə çevirdi: o il cəmi 27 mağaza qoşulmuşdu. 10 il sonra, 2019-cu ildə, 200 mindən çox brend qoşuldu və Alibaba 24 saatda 268 milyard yuanlıq, yəni təxminən 38 milyard dollarlıq mal satdı.\n\n📩 Səbətində 50 məhsul saxlayıb endirim gözləyən dostuna göndər 😄\n\n👉 Hər gün yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Kadarius Seegars / Unsplash\n\n#bilirdinizmi #11noyabr #alibaba #alışveriş #çin",
+  "first_comment": "Sən bu gün endirimdə nəsə sifariş etmisən? 👇",
+  "photo": {
+   "path": "fetch/img/2026-11-11_T_boxes.jpg",
+   "credit": "Kadarius Seegars / Unsplash",
+   "cy": 0.7,
+   "full": true,
+   "source": "https://unsplash.com/photos/DevJkLB3hWE",
+   "note": "Portrait 4480x6720 stack of plain brown cardboard boxes on brown background; no logos (Unsplash alt: 'A stack of brown cardboard boxes against a solid brown background'). No person is central (a shopping event), so a symbol photo is fine per section P. Checked at full size: plain boxes on brown wall, no logos/watermark; boxes in the lower 45 % -> cy 0.7."
+  },
+  "sources": [
+   "https://www.marketplace.org/2019/11/12/singles-day-chinas-biggest-shopping-event",
+   "https://www.worldfootwear.com/news/alibabas-singles-day-sales-top-38-billion-us-dollars/4295.html",
+   "https://news.cgtn.com/news/2019-11-12/Alibaba-determined-make-Double-11-shopping-festival-global-LyowUihnJC/index.html",
+   "https://en.wikipedia.org/wiki/Singles%27_Day"
+  ],
+  "source_scan": "11 Nov 09:10: azertag/report.az (only Victory/war-anniversary items = off-limits; sport: futsal vs Latvia, Turan volleyball, Sabah v Trabzonspor basketball = thin), Qarabağ (nothing today); world (10things, SBS, Democracy Now, Morning Star): Iran war/Hormuz (war + Azerbaijan's neighbour -> skip), US midterm aftermath/Hegseth impeachment articles (US partisan, low AZ interest), Nvidia -4.3% on Huang probe (unconfirmed allegations), Izmir Habas steelworks blast 6 dead (tragedy, local), Bundang bus crash. No dominant safe story -> Singles' Day 11.11 (today, global shopping event; AZ audience shops on AliExpress/Temu).",
+  "planned_at": "2026-11-11 09:40 Baku (morning run)"
+ },
+ "trend_check_morning": "11 Nov 09:40: no story needing an immediate swap (Iran war/Hormuz = war, neighbour -> skip; US midterm/Hegseth, Nvidia probe, Izmir steelworks blast, Bundang bus crash = not for us today). Trend for the 15:23 swap = Singles' Day 11.11 (trend). 13:00/16:00/21:30 unchanged."
 }

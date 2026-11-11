@@ -1,0 +1,153 @@
+{
+ "date": "2026-11-12",
+ "status": "planned",
+ "format": "v2",
+ "content_format": "v4",
+ "planned_note": "Planned in the 2026-11-11 09:10 run (format v4 + CUTS/DECISIONS 9 Nov: no TBG, no quizzes, no reposts). Thu 12 Nov (not a two-part day). 13:00 AZ reel (VOICED, photo) = Shirali Muslimov, Lerik shepherd, passport age 168 (disputed; verified record 122). 16:00 reel (SILENT, MOTION) = Venus 460 °C+, hotter than Mercury. 18:30 trend backup reel (SILENT) = Tristan da Cunha (reused unaired 10 Nov backup, video already rendered). 21:30 reel (AZ angle, MOTION; voice_texts given in case it stays voiced) = Teymur Radjabov beat Kasparov at 15 (Linares 2003). TikTok 18:30 per DECISIONS 9 Nov = 21:30 Radjabov (AZ angle) with a Baku question at the end.",
+ "facts": [
+  {
+   "n": 1,
+   "type": "reel",
+   "cat": "Azərbaycan",
+   "voiced": true,
+   "subject": "Shirali Muslimov (Şirəli Müslümov), shepherd from Barzavu village, Lerik District (Wikipedia). Claimed born 26 March 1805, died 2 September 1973 'at the alleged age of 168' (Wikipedia); 'claimed to have been born in 1805, which would have made him 168' and 'He died in 1973 – that much is certain' (Geographical). Only evidence = a passport listing his birthdate, issued 1939; 'no known birth certificate'; 'gerontologists have disputed Muslimov's age claims' (Wikipedia). Fame: TASS photojournalist interview 1963, Azerbaijanfilm documentary 1966, National Geographic 1973 (later recanted) (Wikipedia). Lerik has a Museum of Longevity (Geographical). Oldest verified person: Jeanne Calment, France, died 1997 aged 122 (Geographical; standard Guinness record). Not used: Soviet stamp, museum opening year, 'Guinness included him' (azertag claim, contradicts gerontologists).",
+   "photo_request": "Shirali Muslimov portrait (Commons, if a free one exists) else Talysh mountains, Lerik",
+   "title": "168 yaş? Lerikli çobanın sirri",
+   "text": "Lerikli çoban Şirəli Müslümov 1973-cü ildə vəfat edəndə pasportuna görə 168 yaşı vardı. Amma alimlər bu yaşı təsdiqləmir.",
+   "reel_hook": "168 YAŞ? LERİKLİ ÇOBANIN SİRRİ",
+   "reel_beats": [
+    "Lerikin Barzavu kəndində Şirəli Müslümov adlı bir çoban yaşayırdı. 1973-cü ildə vəfat edəndə, sənədinə görə, 168 yaşı vardı.",
+    "Onun pasportunda doğum ili 1805 yazılmışdı. 1960-cı illərdə jurnalistlər onun haqqında yazdı, film çəkdi və bütün dünya onu tanıdı.",
+    "Amma doğum şəhadətnaməsi yox idi, ona görə alimlər bu yaşı təsdiqləmir. Təsdiqlənmiş rekord isə 122 yaşdır: fransız qadın Jan Kalman."
+   ],
+   "voice_texts": [
+    "Yüz altmış səkkiz yaş? Lerikli çobanın sirri.",
+    "Lerikin Barzavu kəndində Şirəli Müslümov adlı bir çoban yaşayırdı. Min doqquz yüz yetmiş üçüncü ildə vəfat edəndə, sənədinə görə, yüz altmış səkkiz yaşı vardı.",
+    "Onun pasportunda doğum ili min səkkiz yüz beş yazılmışdı. Min doqquz yüz altmışıncı illərdə jurnalistlər onun haqqında yazdı, film çəkdi və bütün dünya onu tanıdı.",
+    "Amma doğum şəhadətnaməsi yox idi, ona görə alimlər bu yaşı təsdiqləmir. Təsdiqlənmiş rekord isə yüz iyirmi iki yaşdır: fransız qadın Jan Kalman."
+   ],
+   "cta": "Hər gün 13:00-da yeni Bakı faktı — izlə!",
+   "caption": "Lerikli çoban Şirəli Müslümov: sənədinə görə 168 yaş 🏔️\n\nŞirəli Müslümov Lerikin Barzavu kəndində çobanlıq edirdi. 1973-cü ildə vəfat edəndə pasportuna görə 168 yaşı vardı: orada doğum ili 1805 yazılmışdı. 1960-cı illərdə jurnalistlər onun haqqında yazdı, 1966-cı ildə sənədli film çəkildi və Lerik «uzunömürlülər diyarı» kimi tanındı. Bu gün Lerikdə Uzunömürlülər muzeyi var. Amma doğum şəhadətnaməsi olmadığı üçün alimlər bu yaşı təsdiqləmir. Təsdiqlənmiş dünya rekordu 122 yaşdır: fransız qadın Jan Kalman 1997-ci ildə vəfat edib.\n\n📩 «100 yaşına qədər yaşayacam» deyən dostuna göndər 😄\n\n👉 Hər gün 13:00-da Azərbaycan haqqında bilmədiyin bir fakt — izlə ki, qaçırmayasan\n\nFoto: Sefer azeri / Wikimedia Commons (CC0)\n\n#bilirdinizmi #lerik #uzunömürlülük #azərbaycan #tarix",
+   "first_comment": "Sənin ailəndə ən uzun yaşayan kim olub? 👇",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Shirali_Muslimov",
+    "https://geographical.co.uk/culture/legendary-long-livers-of-azerbaijan"
+   ],
+   "verify_note": "168 / 1805-1973 / Barzavu, Lerik / shepherd / passport 1939 / no birth certificate / disputed by gerontologists / 1963 TASS, 1966 film: Wikipedia; 1805, 168, 1973 certain, Lerik Museum of Longevity, Calment 122 (d. 1997): Geographical. Told as 'sənədinə görə' + 'alimlər təsdiqləmir' (locals know the story; we don't overclaim). Museum name in AZ 'Uzunömürlülər muzeyi' = descriptive.",
+   "photo": {
+    "path": "fetch/img/2026-11-12_1_lerik_mountains.jpg",
+    "credit": "Sefer azeri / Wikimedia Commons (CC0)",
+    "cy": 0.45,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Tal%C4%B1%C5%9F_da%C4%9Flar%C4%B1,_Lerik_rayonu_%C9%99razisi.jpg",
+    "note": "1080x1350 portrait, green Talysh mountains in Lerik district, a donkey grazing; CC0; checked, no watermark. No free portrait of Muslimov on Commons (searched 'Shirali Muslimov', 'Mislimov', 'Müslümov'; only a 500x375 Barzavu village photo, too small) -> place photo. Faces-beat-symbols: if Gartal has a free portrait, it can replace this."
+   }
+  },
+  {
+   "n": 2,
+   "type": "reel",
+   "cat": "Kosmos",
+   "voiced": false,
+   "motion": true,
+   "subject": "Venus is the hottest planet: NASA Venus facts: 'surface temperatures hot enough to melt lead', 'Venus is hotter even than the innermost planet, charbroiled Mercury', temperatures ~900 °F (475 °C); Space.com ~880 °F (465 °C) -> say '460 °C-dən çox'. Lead melts at ~327 °C (standard). Cause: thick mostly-CO2 atmosphere traps heat, clouds of sulfuric acid (NASA). Day 243 Earth days vs year 225 (NASA). Mercury ~58 mln km from the Sun, Venus ~108 mln km (NASA planet facts, standard).",
+   "photo_request": "Venus globe (NASA Magellan, Commons) - reuse fetch/img/2026-10-31_4_venus.jpg",
+   "title": "Ən isti planet Günəşə ən yaxın deyil",
+   "text": "Günəşə ən yaxın planet Merkuridir, amma ən isti planet Veneradır: səthində temperatur 460 °C-dən çoxdur.",
+   "reel_hook": "460 °C: ƏN İSTİ PLANET MERKURİ DEYİL",
+   "reel_beats": [
+    "Günəşə ən yaxın planet Merkuridir. Amma Günəş sisteminin ən isti planeti ondan iki dəfə uzaqda olan Veneradır.",
+    "Veneranın səthində temperatur 460 °C-dən çoxdur. Bu istilik qurğuşunu belə əridir.",
+    "Səbəb qalın atmosferdir: o, əsasən karbon qazıdır və istini buraxmır. Üstəlik, orada bir gün bir ildən uzundur: 243 gün və 225 gün."
+   ],
+   "cta": "Hər gün yeni fakt — izlə!",
+   "caption": "Ən isti planet Günəşə ən yaxın olan Merkuri deyil, Veneradır 🔥\n\nVenera Günəşdən Merkuridən təxminən iki dəfə uzaqdadır, amma onun səthində temperatur 460 °C-dən çoxdur — NASA-ya görə, bu, qurğuşunu əritməyə bəs edir. Səbəb çox qalın atmosferdir: o, əsasən karbon qazıdır, buludları isə sulfat turşusundandır və istini çölə buraxmır. Üstəlik, Venera öz oxu ətrafında elə yavaş fırlanır ki, orada bir gün (243 Yer günü) bir ildən (225 gün) uzundur.\n\n📩 Yayda «Bakıda cəhənnəm istidir» deyən dostuna göndər 😄\n\n👉 Hər gün yeni fakt — izlə ki, qaçırmayasan\n\nFoto: NASA / JPL (Magellan)\n\n#bilirdinizmi #venera #kosmos #nasa #planetlər",
+   "first_comment": "Səncə, Venerada nə vaxtsa insan ola bilərmi? 👇",
+   "photo": {
+    "path": "fetch/img/2026-10-31_4_venus.jpg",
+    "credit": "NASA / JPL (Magellan)",
+    "cy": 0.5,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Venus_globe_crop.jpg",
+    "note": "1920x1920 PD NASA, used once on 31 Oct (Venera-13 reel); checked then, no watermark. Motion build may use it as the planet texture."
+   },
+   "sources": [
+    "https://science.nasa.gov/venus/facts",
+    "https://www.space.com/18526-venus-temperature.html"
+   ],
+   "verify_note": "Hotter than Mercury + melts lead + 475 °C range + CO2 atmosphere + sulfuric-acid clouds + 243 vs 225 days: NASA Venus facts; 465 °C: Space.com -> '460 °C-dən çox' safe for both. Venus 108 vs Mercury 58 mln km = ~1.9x -> 'təxminən iki dəfə'. Not used: 90x pressure (not on NASA page read)."
+  },
+  {
+   "n": 3,
+   "type": "reel",
+   "cat": "Coğrafiya",
+   "voiced": false,
+   "subject": "Tristan da Cunha: Guinness 'Most remote inhabited island' - nearest inhabited land St Helena 2 435 km (1 315 nmi) to the NE; Live Science: around 250 people, accessible only by a six-day boat journey from South Africa; Guinness (Guardian 2005): six days by boat from Cape Town; evacuated in 1961 because of volcanic activity, 198 islanders returned in November 1963 (Guinness). Baku-Moscow straight line ~1 900 km (own check, so 2 435 km > Baku-Moscow).",
+   "photo_request": "Tristan da Cunha cliffs (Unsplash)",
+   "title": "Ən yaxın qonşu 2 435 km uzaqda",
+   "text": "Tristan-da-Kunya dünyanın ən uzaq yaşayış adasıdır. Orada təxminən 250 nəfər yaşayır, ən yaxın qonşu ada isə 2 435 km uzaqdadır.",
+   "reel_hook": "ƏN YAXIN QONŞU 2 435 KM UZAQDA",
+   "reel_beats": [
+    "Atlantik okeanının ortasında Tristan-da-Kunya adlı kiçik bir ada var. Orada cəmi 250-yə yaxın adam yaşayır.",
+    "Ən yaxın yaşayış olan yer Müqəddəs Yelena adasıdır və 2 435 km uzaqdadır. Bu, Bakıdan Moskvaya olan məsafədən də çoxdur.",
+    "Adaya yalnız gəmi ilə getmək olar: Cənubi Afrikadan 6 gün yol. 1961-ci ildə vulkan oyananda bütün sakinlər adanı tərk etdi, 2 il sonra geri qayıtdılar."
+   ],
+   "cta": "Hər gün yeni fakt — izlə!",
+   "caption": "Tristan-da-Kunya: bu adanın ən yaxın qonşusu 2 435 km uzaqdadır 🏝️\n\nTristan-da-Kunya Atlantik okeanının ortasındadır və Ginnesə görə dünyanın ən uzaq yaşayış adasıdır. Orada 250-yə yaxın adam yaşayır. Ən yaxın yaşayış olan yer Müqəddəs Yelena adasıdır — 2 435 km, yəni Bakıdan Moskvaya olan məsafədən də çox. Adaya yalnız gəmi ilə, Cənubi Afrikadan 6 günə çatmaq olur. 1961-ci ildə vulkan oyananda sakinlər adanı tərk etdi və 1963-cü ildə geri qayıtdılar.\n\n📩 «Hamıdan uzaqda yaşamaq istəyirəm» deyən dostuna göndər 😄\n\n👉 Hər gün yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Hector John Periquin / Unsplash\n\n#bilirdinizmi #tristandakunya #ada #okean #coğrafiya",
+   "first_comment": "Sən belə bir adada bir il yaşaya bilərdin? 👇",
+   "sources": [
+    "https://www.guinnessworldrecords.com/world-records/66683-most-remote-inhabited-island",
+    "https://www.livescience.com/planet-earth/geology/tristan-da-cunha-the-most-remote-inhabited-island-on-earth-forged-from-a-supercontinent-breakup"
+   ],
+   "verify_note": "2 435 km to St Helena + 1961 evacuation / 1963 return + 6 days from Cape Town: Guinness; ~250 people + six-day boat from South Africa: Live Science. 'Bakıdan Moskvaya' ~1 900-1 970 km straight line -> 2 435 is more (safe). Not used: surnames count, 'no airport' wording (said 'yalnız gəmi ilə', per Live Science 'accessible only by a six-day boat journey'). Re-checked 2026-11-11: Guinness \"Most remote inhabited island\" page + Live Science article still say the same.",
+   "photo": {
+    "path": "fetch/img/2026-11-10_3_tristan.jpg",
+    "credit": "Hector John Periquin / Unsplash",
+    "cy": 0.5,
+    "cx": 0.5,
+    "full": true,
+    "source": "https://unsplash.com/photos/47KxYlqxDiw",
+    "note": "Unsplash description 'Cliffs along the coast of Tristan da Cunha in the Atlantic Ocean', 1600x1067, green cliffs + sea, checked."
+   },
+   "reused_from": "2026-11-10 facts[2] (unaired backup; out/2026-11-10/3_reel.mp4 already rendered, can be reused as-is)"
+  },
+  {
+   "n": 4,
+   "type": "reel",
+   "cat": "Azərbaycan",
+   "voiced": false,
+   "motion": true,
+   "subject": "Teimour Radjabov (Teymur Rəcəbov): 'born on 12 March 1987 in Baku' (Wikipedia); 'earned the title of Grandmaster in March 2001 at age 14' (Wikipedia); Linares 2003: 'Radjabov, who was 15 years old, defeated Kasparov with the black pieces' (Wikipedia; Chessbase 2003: 'a child of 15 ... with black against Kasparov in his Linares debut'); Kasparov angrily protested when the game got the brilliancy (beauty) prize (Chessbase); 'won the 2019 Chess World Cup in Khanty-Mansiysk' (Wikipedia). Kasparov was born in Baku (our 9 Nov reel) and was world No. 1 at the time (FIDE list leader 1984-2005, standard).",
+   "photo_request": "Teimour Radjabov portrait (Commons)",
+   "title": "15 yaşında Kasparovu uddu",
+   "text": "Bakılı Teymur Rəcəbov 2003-cü ildə, cəmi 15 yaşında, dünyanın 1 nömrəli şahmatçısı Harri Kasparovu qara fiqurlarla udub.",
+   "reel_hook": "15 YAŞINDA KASPAROVU UDDU",
+   "reel_beats": [
+    "Teymur Rəcəbov 1987-ci ildə Bakıda doğulub. Cəmi 14 yaşında artıq qrossmeyster idi.",
+    "2003-cü ildə İspaniyada, Linares turnirində, 15 yaşlı Teymur qara fiqurlarla dünyanın 1 nömrəsi Kasparovu uddu. Kasparov da bakılıdır.",
+    "Bu partiya turnirin «ən gözəl oyunu» mükafatını aldı, Kasparov isə buna çox əsəbiləşdi. 2019-cu ildə Rəcəbov Dünya Kubokunu qazandı."
+   ],
+   "voice_texts": [
+    "On beş yaşında Kasparovu uddu.",
+    "Teymur Rəcəbov min doqquz yüz səksən yeddinci ildə Bakıda doğulub. Cəmi on dörd yaşında artıq qrossmeyster idi.",
+    "İki min üçüncü ildə İspaniyada, Linares turnirində, on beş yaşlı Teymur qara fiqurlarla dünyanın bir nömrəsi Kasparovu uddu. Kasparov da bakılıdır.",
+    "Bu partiya turnirin ən gözəl oyunu mükafatını aldı, Kasparov isə buna çox əsəbiləşdi. İki min on doqquzuncu ildə Rəcəbov Dünya Kubokunu qazandı."
+   ],
+   "cta": "Hər gün yeni fakt — izlə!",
+   "caption": "Teymur Rəcəbov 15 yaşında Kasparovu udub ♟️\n\nTeymur Rəcəbov 1987-ci ildə Bakıda doğulub və 14 yaşında qrossmeyster olub. 2003-cü ildə İspaniyanın Linares turnirində 15 yaşlı Teymur qara fiqurlarla o vaxt dünyanın 1 nömrəsi olan Harri Kasparovu uddu. Maraqlıdır ki, Kasparov da Bakıda doğulub. Bu partiya turnirin «ən gözəl oyunu» mükafatını aldı, Kasparov isə buna açıq şəkildə etiraz etdi. 2019-cu ildə Rəcəbov Dünya Kubokunu qazandı.\n\n📩 Şahmatda səni həmişə udan dostuna göndər 😄\n\n👉 Hər gün Azərbaycan haqqında bilmədiyin bir fakt — izlə ki, qaçırmayasan\n\nFoto: Przemysław Jahr / Wikimedia Commons (CC BY-SA 3.0)\n\n#bilirdinizmi #rəcəbov #şahmat #kasparov #bakı",
+   "first_comment": "Sən şahmat oynayırsan? Ən yaxşı nəticən nə olub? 👇",
+   "photo": {
+    "path": "fetch/img/2026-11-12_4_radjabov.jpg",
+    "credit": "Przemysław Jahr / Wikimedia Commons (CC BY-SA 3.0)",
+    "cy": 0.3,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Teimour_Radjabov_2013.jpg",
+    "note": "1500x2000 portrait, European Team Championship Warsaw 2013, own work by Przemysław Jahr (CC BY-SA 3.0). Face = main person (section P). Checked at full size: sponsor banners blurred in the background (no agency watermark)."
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Teimour_Radjabov",
+    "https://en.chessbase.com/post/kasparov-s-outburst-over-beauty-prize-in-linares"
+   ],
+   "verify_note": "Born Baku 12 Mar 1987, GM at 14 (Mar 2001), beat Kasparov with black at Linares 2003 aged 15, 2019 World Cup: Wikipedia; brilliancy prize + Kasparov's outburst: Chessbase (Mar 2003). Kasparov Baku-born: verified for the 9 Nov reel. Not used: exact Kasparov quote (Chessbase says wording varies)."
+  }
+ ]
+}

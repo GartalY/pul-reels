@@ -158,9 +158,9 @@
  ],
  "metricool": {
   "13:00 reel (Səbail qalası 2/2, voiced)": 423414609,
-  "18:30 reel (Dead Sea backup, silent)": 423415119,
   "21:30 reel (Tofiq Bəhramov 1966, MOTION, silent)": 423424140,
-  "16:00 reel (Ganymede, MOTION, silent)": 423430669
+  "16:00 reel (Ganymede, MOTION, silent)": 423430669,
+  "18:30 reel (Singles' Day 11.11 TREND, silent)": 424305001
  },
  "tiktok": {
   "13:00 Səbail qalası 2/2": 423415081,
@@ -221,7 +221,15 @@
    "https://en.wikipedia.org/wiki/Singles%27_Day"
   ],
   "source_scan": "11 Nov 09:10: azertag/report.az (only Victory/war-anniversary items = off-limits; sport: futsal vs Latvia, Turan volleyball, Sabah v Trabzonspor basketball = thin), Qarabağ (nothing today); world (10things, SBS, Democracy Now, Morning Star): Iran war/Hormuz (war + Azerbaijan's neighbour -> skip), US midterm aftermath/Hegseth impeachment articles (US partisan, low AZ interest), Nvidia -4.3% on Huang probe (unconfirmed allegations), Izmir Habas steelworks blast 6 dead (tragedy, local), Bundang bus crash. No dominant safe story -> Singles' Day 11.11 (today, global shopping event; AZ audience shops on AliExpress/Temu).",
-  "planned_at": "2026-11-11 09:40 Baku (morning run)"
+  "planned_at": "2026-11-11 09:40 Baku (morning run)",
+  "built": "2026-11-11 15:29 Baku: factgen reel, out/2026-11-11/T_reel.mp4, 22.8 s, silent (ambience only), 4 frames checked"
  },
- "trend_check_morning": "11 Nov 09:40: no story needing an immediate swap (Iran war/Hormuz = war, neighbour -> skip; US midterm/Hegseth, Nvidia probe, Izmir steelworks blast, Bundang bus crash = not for us today). Trend for the 15:23 swap = Singles' Day 11.11 (trend). 13:00/16:00/21:30 unchanged."
+ "trend_check_morning": "11 Nov 09:40: no story needing an immediate swap (Iran war/Hormuz = war, neighbour -> skip; US midterm/Hegseth, Nvidia probe, Izmir steelworks blast, Bundang bus crash = not for us today). Trend for the 15:23 swap = Singles' Day 11.11 (trend). 13:00/16:00/21:30 unchanged.",
+ "trend_swap": {
+  "what": "18:30 IG reel Dead Sea backup (423415119) -> Singles' Day 11.11 trend reel (424305001), same time",
+  "why": "morning 09:10 scan: no dominant safe AZ/world story; 11.11 is today's global shopping event (AZ audience shops on AliExpress/Temu)",
+  "platforms": "Instagram only per DECISIONS 2026-11-09 #1/#2 (overrides the older task wording): TikTok 18:30 stays Tofiq Bəhramov 1966 (423424542, 2nd AZ video, not a backup); YouTube has no 18:30 Short. Backup video is on no platform.",
+  "quiz": "none (quiz stories cut 2026-11-09)",
+  "backup_moved": "Dead Sea (facts[2]) -> backlog, out/2026-11-11/3_reel.mp4 never published; reuse as a later 18:30 backup"
+ }
 }

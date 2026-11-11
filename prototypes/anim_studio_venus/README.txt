@@ -1,0 +1,1 @@
+Venus motion reel (16:00, 12 Nov 2026). Copy of anim_studio_ganymede; assets/venus.jpg = fetch/img/2026-10-31_4_venus.jpg. Audio = ambience + SFX only (no music). node song.js && node engine/render.js video && node engine/render.js mux

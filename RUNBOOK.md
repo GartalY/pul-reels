@@ -1,3 +1,20 @@
+## MANAGER MANDATE (Gartal 2026-11-11) — READ FIRST, overrides "only recommend" anywhere below
+Gartal: "the problem with autopilot: you just create content, share it, and never change it until I say so … take
+control, you decide, you're the manager." So the system must IMPROVE ITSELF without waiting for him:
+1. Two decision points a week: SUNDAY weekly review (big changes) and WEDNESDAY mid-week check (one quick fix).
+   Both DECIDE AND APPLY, then tell Gartal what changed and why. They don't ask permission inside these limits:
+   - allowed without asking: topic mix, hook types, formats (static/motion/blueprint/sticker…), styles, posting
+     times, which slot gets what, caption/title rules, which Short formats Whyverse makes, killing a format that
+     flopped twice, doubling a format that won twice, pausing a weak platform for a brand (say so loudly).
+   - NOT allowed without Gartal: spending money, new accounts/platforms, deleting accounts or published posts,
+     raising total production above the current week (usage limit), anything about Azerbaijani politics.
+2. Always 2–3 EXPERIMENTS running, logged in reviews/experiments.md (hypothesis, what changes, metric, end date,
+   result, decision). Every experiment ends with a decision: KEEP / KILL / EXTEND (max once).
+3. Kill rule: anything in the bottom quarter for 2 weeks in a row gets replaced. Double rule: anything ≥ 2× its
+   median twice gets more slots.
+4. Never repeat a week unchanged: each Sunday must change at least one thing on each brand, based on data.
+5. Track 2 (paid local reels service) is PARKED by Gartal — don't bring it up.
+
 # @bilirdinizmi_az — daily runbook
 
 > **READ FIRST: "DECISIONS 2026-11-09" and "STRATEGY RESET 2026-11-03" below overrides older rules AND the wording of older scheduled-task prompts (TikTok = 13:00 + 18:30 only; reposts YouTube only).**

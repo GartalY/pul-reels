@@ -32,6 +32,11 @@
    `curl -o vo.mp3 "<url>"` (elevenlabsusercontent.com is allowed in Gartal's network settings) → silencedetect to find line
    starts → audio/vo.wav. ~1 credit per character (65 chars = 65 credits). If the connector says "busy", retry once later, then
    fall back to Banu. Never call generate twice for the same line (each call is charged).
+1f. GARTAL FEEDBACK 2026-11-12 21:59 (on the Nvidia v2 test): (a) "just a creamy page, moving characters, moving numbers" is NOT
+   enough — the code-drawn flat look has hit its ceiling; next step = AI-illustrated scenes (ElevenLabs image models) animated with
+   code camera moves / image-to-video, tested before rollout. (b) The vault image was very bad. (c) EVERY reel ends with a spoken +
+   on-screen call to action: AZ "Bəyən və izlə — hər gün bilmədiyin bir fakt!" (Whyverse: "Like and follow Whyverse for more.").
+   (d) Hooks lead with the most shocking number (money lost), not background (years).
 2. AZ POLITICS RULE (Gartal 2026-11-12, replaces every "never Azerbaijani politics" line): POSITIVE or NEUTRAL official/national
    news about Azerbaijan is allowed — e.g. the President attending COP31 in Antalya, and that COP29 was held in Baku in Nov 2024;
    national achievements, international events hosted, firsts, records. Facts only, verified from 2 sources (azertag.az, apa.az,

@@ -22,3 +22,8 @@
 - Keep rotating the styles (Gartal 2026-11-03 answer), every episode a different look.
 - Posting is ON: long video on YouTube at a time I choose, then Shorts on YouTube/TikTok/Instagram with the
   channel link; plus a standalone 1-minute animation every 4 days (TikTok, Instagram and YouTube Shorts).
+
+## 2026-11-12 21:59 (Gartal, on AZ Nvidia test)
+- Flat cream page + moving characters/numbers is not good enough vs the market examples. Test AI-illustrated scenes (ElevenLabs image models) + code camera moves.
+- Always end with a spoken + on-screen CTA (like + follow).
+- Hook = the most shocking number.

@@ -498,3 +498,13 @@ search_1113_shao2.json https://commons.wikimedia.org/w/api.php?action=query&form
 search_1113_caspian.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Caspian%20Sea%20shoreline%20retreat
 search_1113_caspian2.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Kulaly%20island
 search_1113_nemo.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Point%20Nemo
+2026-11-12_T_vaduz_halun.jpg https://commons.wikimedia.org/wiki/Special:FilePath/Vaduz_Castle,_Liechtenstein,_20250502_1246_8569.jpg?width=1800
+2026-11-12_T_vaduz_savin.jpg https://commons.wikimedia.org/wiki/Special:FilePath/Liechtenstein_asv2022-10_img01_Vaduz_Schloss.jpg?width=1800
+2026-11-12_T_vaduz_halun2.jpg https://commons.wikimedia.org/wiki/Special:FilePath/Vaduz_Castle,_Liechtenstein,_20250502_1248_8573.jpg?width=1800
+2026-11-13_1_naghiyev.jpg https://commons.wikimedia.org/wiki/Special:FilePath/Musa_Nagiyev.jpg
+2026-11-13_1_naghiyev_levin.jpg https://commons.wikimedia.org/wiki/Special:FilePath/A%C4%9Fa_Musa_Na%C4%9F%C4%B1yev,_XX_%C9%99srin_%C9%99vv%C9%99ll%C9%99ri.jpg
+2026-11-13_2_shao_telescope.jpg https://commons.wikimedia.org/wiki/Special:FilePath/Telescope_in_Pirgulu_State_Reserve_Observatory._Photo_by_Uzeyir_Mikayilov_1.jpg?width=1800
+2026-11-13_2_shao_telescope0.jpg https://commons.wikimedia.org/wiki/Special:FilePath/Telescope_in_Pirgulu_State_Reserve_Observatory._Photo_by_Uzeyir_Mikayilov_0.jpg?width=1800
+2026-11-13_2_shao_15.jpg https://commons.wikimedia.org/wiki/Special:FilePath/Shamakhi_Astrophysical_Observatory_15.jpg
+2026-11-13_4_caspian_modis.jpg https://commons.wikimedia.org/wiki/Special:FilePath/Shrinking_Caspian_Sea_(MODIS_2024-10-08).jpg
+2026-11-13_3_nemo_map.png https://commons.wikimedia.org/wiki/Special:FilePath/Location_of_Point_Nemo_in_the_South_Pacific_Ocean.png

@@ -153,17 +153,18 @@
  "metricool": {
   "13:00 reel (Şirəli Müslümov, voiced)": 424681671,
   "16:00 reel (Venera 460 °C, MOTION, silent)": 424681715,
-  "18:30 reel (Tristan-da-Kunya backup, silent)": 424681741,
-  "21:30 reel (Teymur Rəcəbov, MOTION, silent)": 424681768
+  "21:30 reel (Teymur Rəcəbov, MOTION, silent)": 424681768,
+  "18:30 reel (Lixtenşteyn 160 km², MOTION 60 fps; replaced Tristan backup 424681741)": 425581290
  },
  "tiktok": {
   "13:00 Şirəli Müslümov": 424682424,
-  "18:30 Teymur Rəcəbov (2nd AZ video, DECISIONS 2026-11-09 #2)": 424682503
+  "18:30 Lixtenşteyn 160 km² (replaced Rəcəbov 424682503)": 425581424
  },
  "youtube": {
   "13:00 Şirəli Müslümov": 424682308,
   "16:00 Venera": 424682328,
-  "21:30 Teymur Rəcəbov": 424682350
+  "21:30 Teymur Rəcəbov": 424682350,
+  "18:30 Lixtenşteyn 160 km²": 425581468
  },
  "pending_schedule": [],
  "reposts": "None: DECISIONS 2026-11-09 #1 (YouTube 3 Shorts/day, no 11:00/19:45 reposts, no 18:30 Short) overrides the task-prompt wording. Nothing logged in facts/tiktok_reposts.json.",
@@ -217,6 +218,64 @@
    "https://tourismus.li/en/our-country/about-liechtenstein/"
   ],
   "source_scan": "12 Nov 09:10: azertag/report.az (finance items, minimum wage, Victory/war items = off-limits), Google-style 'news today' (Iran war / Abu Dhabi Ukraine talks = war, skip), Booker Prize (M. John Harrison, 81, oldest winner, 10 Nov = 2 days old + niche), GTA 6 gone gold (already the 8 Nov trend), space (nothing big). Picked the AZ national team's Nations League away match vs Liechtenstein (Fri 13 Nov, Vaduz) = AZ sport angle + 'tiny country' wow numbers (E5 AZ mix).",
-  "status": "planned for 15:23 swap into 18:30 IG (TikTok/YouTube keep their posts, DECISIONS 9 Nov)"
+  "status": "SHIPPED 18:30 as the 60 fps animated Motion Reel (all 3 platforms)"
+ },
+ "trend_1830": {
+  "checked_at": "15:25-15:35 Baku (2nd trend check)",
+  "source_scan_2": "apa.az homepage 12 Nov (Constitution Day items, foreign PMs on AZ energy, Man Utd sacks Carrick, IMF oil), 10things global 12 Nov (Abu Dhabi POW deal, Spain strike, COP31 Antalya, Nvidia/Huang ouster reports, bomb-hoax emails). report.az fetch blocked. Nothing hotter with an AZ fact angle; Huang = non-AZ (last Huang reel 47 IG views) and covered by Whyverse; Constitution Day = dry. Kept the morning pick: AZ national team at Liechtenstein tomorrow (13 Nov, Rheinpark Stadion Vaduz).",
+  "choice": "Liechtenstein, the national team's rival tomorrow: 160 km², AZ 500x+ bigger, Baku 13x, ~41 000 people fit in Baku Olympic Stadium with seats left, army abolished 1868, no airport.",
+  "new_facts_verified": {
+   "Baku area 2 140 km2": [
+    "https://en.wikipedia.org/wiki/Baku (infobox)",
+    "https://wikiwand.com/en/Baku_Economic_Region"
+   ],
+   "Baku Olympic Stadium capacity >= 68 000": [
+    "https://en.wikipedia.org/wiki/Baku_Olympic_Stadium (69 870 / 68 700)",
+    "https://stadiumdb.com/designs/aze/baku_olympic_stadium (68 000)"
+   ],
+   "venue Rheinpark Stadion Vaduz": [
+    "https://www.uefa.com/uefanationsleague/match/2047885--liechtenstein-vs-azerbaijan/matchinfo/",
+    "report.az 11 Nov (morning)"
+   ]
+  },
+  "screen_text": [
+   "160 km²",
+   "MİLLİMİZİN SABAHKI RƏQİBİ",
+   "LİXTENŞTEYN",
+   "ƏRAZİ MÜQAYİSƏSİ",
+   "500 DƏFƏDƏN ÇOX KİÇİKDİR",
+   "sarı kvadrat = Lixtenşteyn",
+   "BAKIYA 13 LİXTENŞTEYN SIĞAR",
+   "≈ 41 000 BÜTÜN ÖLKƏNİN ƏHALİSİ",
+   "paytaxt Vaduz: cəmi 6 000",
+   "BÜTÜN ÖLKƏ BAKI OLİMPİYA STADİONUNA SIĞAR",
+   "68 000+ yer",
+   "və hələ boş yer də qalar",
+   "ORDUSU YOXDUR",
+   "1868-ci ildə",
+   "onu ləğv ediblər",
+   "HAVA LİMANI DA YOXDUR",
+   "SABAH AXŞAM VADUZDA",
+   "MİLLƏTLƏR LİQASI ? : ?",
+   "Hesabı şərhə yaz!",
+   "@bilirdinizmi_az",
+   "İZLƏ",
+   "cəmi 160 km²… bəs hesab?"
+  ],
+  "build": {
+   "skill": "motion-reel 60 fps",
+   "look": "night match-day pitch (green stripes, chalk, yellow-card accent) — new vs the 11 Nov animation-studio reels",
+   "length_s": 24,
+   "audio": "no music (silent bed), SFX impact/thud/click/tick/whoosh/sub/type only, -14 LUFS",
+   "critique_rounds": 3,
+   "source": "reels/2026-11-12_1830/",
+   "encode": "CRF 22, 5.7 MB",
+   "media_url": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-12_1830_lixtensteyn.mp4 (orphan branch bilirdinizmi-media; no mp4 on main)"
+  },
+  "replaced": {
+   "instagram": "Tristan da Cunha backup (424681741) -> updated",
+   "tiktok": "Teymur Rəcəbov copy (424682503) -> updated",
+   "youtube": "none at 18:30 -> created"
+  }
  }
 }

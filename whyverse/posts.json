@@ -678,6 +678,44 @@
    "network": "tiktok",
    "metricool_id": 425254469,
    "ai_label": true
+  },
+  {
+   "episode": "short_2026-11-12_nvidia-huang-board",
+   "kind": "trend",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-12_nvidia-huang-board.mp4",
+   "time_london": "2026-11-12T15:00",
+   "time_baku": "2026-11-12T19:00",
+   "style": "newspaper",
+   "political": false,
+   "topic": "Nvidia / Jensen Huang scandal (8-12 Nov 2026): ~$600bn value lost, admitted affair, woman reportedly believed by US intelligence to be a Chinese spy, 2nd alleged affair (NYT 11 Nov), 11-director board deciding his future; no decision as of 12 Nov",
+   "network": "youtube",
+   "metricool_id": 425581961,
+   "title": "Nvidia's $600 Billion Jensen Huang Scandal, Explained #shorts"
+  },
+  {
+   "episode": "short_2026-11-12_nvidia-huang-board",
+   "kind": "trend",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-12_nvidia-huang-board.mp4",
+   "time_london": "2026-11-12T15:00",
+   "time_baku": "2026-11-12T19:00",
+   "style": "newspaper",
+   "political": false,
+   "topic": "Nvidia / Jensen Huang scandal (8-12 Nov 2026): ~$600bn value lost, admitted affair, woman reportedly believed by US intelligence to be a Chinese spy, 2nd alleged affair (NYT 11 Nov), 11-director board deciding his future; no decision as of 12 Nov",
+   "network": "instagram",
+   "metricool_id": 425582036
+  },
+  {
+   "episode": "short_2026-11-12_nvidia-huang-board",
+   "kind": "trend",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-12_nvidia-huang-board.mp4",
+   "time_london": "2026-11-12T15:00",
+   "time_baku": "2026-11-12T19:00",
+   "style": "newspaper",
+   "political": false,
+   "topic": "Nvidia / Jensen Huang scandal (8-12 Nov 2026): ~$600bn value lost, admitted affair, woman reportedly believed by US intelligence to be a Chinese spy, 2nd alleged affair (NYT 11 Nov), 11-director board deciding his future; no decision as of 12 Nov",
+   "network": "tiktok",
+   "metricool_id": 425582116,
+   "title": "Nvidia's $600 Billion Jensen Huang Scandal"
   }
  ]
 }

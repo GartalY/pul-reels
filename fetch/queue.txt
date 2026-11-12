@@ -516,3 +516,5 @@ search_1113_nemo.json https://commons.wikimedia.org/w/api.php?action=query&forma
 2026-11-13_2_shao_15.jpg https://upload.wikimedia.org/wikipedia/commons/6/6c/Shamakhi_Astrophysical_Observatory_15.jpg
 2026-11-13_4_caspian_modis.jpg https://upload.wikimedia.org/wikipedia/commons/f/fc/Shrinking_Caspian_Sea_%28MODIS_2024-10-08%29.jpg
 2026-11-13_3_nemo_map.png https://upload.wikimedia.org/wikipedia/commons/f/fc/Location_of_Point_Nemo_in_the_South_Pacific_Ocean.png
+2026-11-13_4_caspian.jpg https://upload.wikimedia.org/wikipedia/commons/f/fc/Shrinking_Caspian_Sea_%28MODIS_2024-10-08%29.jpg
+2026-11-13_2_shao15.jpg https://upload.wikimedia.org/wikipedia/commons/6/6c/Shamakhi_Astrophysical_Observatory_15.jpg

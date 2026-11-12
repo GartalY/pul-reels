@@ -1,7 +1,22 @@
+## QUALITY RESET 2026-11-12 (Gartal: "posting 4 or 5 times a day, it's not working … come back to quality over quantity") — OVERRIDES EVERYTHING BELOW
+1. bilirdinizmi_az = ONE excellent post a day: an ANIMATED 60 fps Motion Reel (20–35 s, AZ, hook in second 1, no music, non-melodic SFX)
+   at 18:30 Baku on Instagram + TikTok + YouTube Shorts. Topic = the freshest story of the last 24–48 h people in AZ talk about
+   (TREND FRESHNESS); if nothing good, the best evergreen fact (facts[0]). Built by the 15:23 task. The 20:45 evening build only
+   prepares tomorrow's facts JSON check — NO reel builds, no 13:00 / 21:30 reels, no YouTube 11:00/19:45 reposts.
+   The 09:10 morning task picks today's trend and writes ONE backup fact for tomorrow (facts[0]) — not four.
+   Spend the saved effort on quality: 3 critique rounds, real research, a twist/payoff, Azerbaijani checked twice (section L).
+2. AZ POLITICS RULE (Gartal 2026-11-12, replaces every "never Azerbaijani politics" line): POSITIVE or NEUTRAL official/national
+   news about Azerbaijan is allowed — e.g. the President attending COP31 in Antalya, and that COP29 was held in Baku in Nov 2024;
+   national achievements, international events hosted, firsts, records. Facts only, verified from 2 sources (azertag.az, apa.az,
+   report.az + one international). NEVER anything negative, critical, mocking, about the opposition, arrests, protests, election
+   disputes, or wars/conflicts with neighbours. No opinions, no praise words of our own either ("great leader" etc.) — just facts.
+3. Experiments: E1 (motion vs static) ENDED — motion wins by Gartal's decision; E7 continues as the only format.
+   Judge by views/shares per post, not total views (fewer posts = lower totals, that's expected).
+
 ## TREND FRESHNESS (Gartal 2026-11-12: "make sure it's a new trend, something that happened yesterday or today … we are always away from the trends")
 The 18:30 trend reel must be about something from the last 24–48 h that people in Azerbaijan are talking about NOW. 09:10 picks it, 15:23 re-checks the news
 (2nd check of the day) and swaps if something hotter broke since morning. Big world stories that are everywhere in AZ feeds (e.g. Nvidia/Jensen Huang scandal,
-12 Nov) count too: tell them in Azerbaijani, facts only, "iddia edilir"/"bildirilir" for unproven claims, no gossip. Never anything about Azerbaijani politics.
+12 Nov) count too: tell them in Azerbaijani, facts only, "iddia edilir"/"bildirilir" for unproven claims, no gossip. Azerbaijani state news only per AZ POLITICS RULE (QUALITY RESET).
 
 ## MANAGER MANDATE (Gartal 2026-11-11) — READ FIRST, overrides "only recommend" anywhere below
 Gartal: "the problem with autopilot: you just create content, share it, and never change it until I say so … take
@@ -12,7 +27,7 @@ control, you decide, you're the manager." So the system must IMPROVE ITSELF with
      times, which slot gets what, caption/title rules, which Short formats Whyverse makes, killing a format that
      flopped twice, doubling a format that won twice, pausing a weak platform for a brand (say so loudly).
    - NOT allowed without Gartal: spending money, new accounts/platforms, deleting accounts or published posts,
-     raising total production above the current week (usage limit), anything about Azerbaijani politics.
+     raising total production above the current week (usage limit), anything NEGATIVE or critical about Azerbaijani politics.
 2. Always 2–3 EXPERIMENTS running, logged in reviews/experiments.md (hypothesis, what changes, metric, end date,
    result, decision). Every experiment ends with a decision: KEEP / KILL / EXTEND (max once).
 3. Kill rule: anything in the bottom quarter for 2 weeks in a row gets replaced. Double rule: anything ≥ 2× its
@@ -552,8 +567,8 @@ Goal: keep up with the real world. Before doing the main task, search the news (
   term in office"). No opinions, no praising or mocking candidates/parties, no predictions.
   Current political news abroad is also fine (Gartal, 2026-10-18): what happened, its history, and the
   reported reasons from all sides — see section D.
-- NEVER anything about Azerbaijan's politics, elections, government or its conflicts/relations with other
-  countries. Also skip religion. Wars elsewhere follow the tragedy rules above.
+- Azerbaijani politics: ONLY per "AZ POLITICS RULE" in QUALITY RESET 2026-11-12 (positive/neutral official news yes,
+  anything negative, critical, opposition, elections disputes or conflicts no). Also skip religion. Wars elsewhere follow the tragedy rules above.
 - Log every swap in facts/<date>.json ("trend_swap": what, why) and put the replaced fact back into a later day.
 
 ## A. Morning task (09:10) — pick tomorrow's facts

@@ -120,8 +120,8 @@ https://www.youtube.com/channel/UCTWyyqP6HJP64E7fA7QphGg
   If there is no good trend, an evergreen surprising fact (blueprint "how does X work?" is a good fallback).
 - Long episodes stay at 3 a week (night task).
 - POLITICS (Gartal 2026-11-09): neutral, factual historic moments from anywhere are allowed, incl. US elections
-  (e.g. first Muslim US senator). Never take sides, praise or attack a party/politician; never anything about
-  Azerbaijani politics. Tragedies: sober mode (no jokes, no CTA hype).
+  (e.g. first Muslim US senator). Never take sides, praise or attack a party/politician; Azerbaijan only positive/neutral official
+  news per RUNBOOK "AZ POLITICS RULE". Tragedies: sober mode (no jokes, no CTA hype).
 - Every Short needs a hook in the first 2 s and a reason to watch to the end (a reveal/payoff at the end).
 - TOPIC OVERRIDE for 2026-11-09 (Gartal's request): Abdul El-Sayed won Michigan's US Senate seat on 3 Nov 2026 →
   the first Muslim US senator. Son of Egyptian immigrants, former public health official, never held office, lost the
@@ -153,3 +153,13 @@ https://www.youtube.com/channel/UCTWyyqP6HJP64E7fA7QphGg
   Trends, YouTube trending, X/TikTok trending, top headlines of Reuters/AP/BBC/CNBC). Evergreen only if nothing hot exists, and say so.
   A morning scout (10:41 Baku) writes 3 ranked candidates to whyverse/trends/YYYY-MM-DD.md; the 15:31 run re-checks them (2nd trend
   check of the day) and picks the hottest.
+- QUALITY RESET 2026-11-12 (Gartal: quality over quantity; "the long videos … we have to make it 60 FPS"; dream channel = Evrim Ağacı):
+  * LONG EPISODES: 2 a week (Tue + Sat nights), 60 fps (FPS = 60 in score.js / render), 1920x1080. Fewer, better: research deeper,
+    one strong storyline, Evrim-Ağacı-style open (see EVRIM AĞACI LESSONS). If a 60 fps render can't finish in time, finish at 60 fps
+    the next night rather than drop to 30.
+  * NO cut Shorts from episodes any more (they got no views; E3 ended). The ONE daily trend Short (19:00 Baku) stays — make it great.
+  * EVRIM AĞACI LESSONS (apply to every long video): open INSIDE the question, not with "today we'll talk about" — a paradox,
+    a myth everyone believes, or a concrete scene in the first 10 s; promise the payoff ("by the end you'll know why…") and pay it
+    off at the end; one big question split into smaller questions, each answered with a reveal that raises the next question;
+    real sources shown on screen, myths corrected openly; human warmth (a narrator with opinions about the wonder, jokes allowed);
+    no filler intros/outros, CTA only at the end.

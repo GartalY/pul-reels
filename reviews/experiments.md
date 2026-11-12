@@ -8,3 +8,5 @@ Format: ## ID · brand · start → end | hypothesis | change | metric | result 
 ## E5 · bilirdinizmi · 12 → 22 Nov | AZ topics win, non-AZ flop on IG | 3 of 4 daily reels Azerbaijan-themed (16:00 motion with AZ angle ≥4 days/wk) | IG median views/reel, follows/day vs 3–11 Nov | — | decide Sun 22 Nov
 ## E6 · Whyverse · 13 → 27 Nov | neutral political 'historic moment' Shorts beat other daily Shorts | 2–3 of 7 daily trend Shorts per week = neutral historic political moments (any country except Azerbaijan politics) | views/Short, subs per Short vs other daily Shorts | — | decide Sun 29 Nov; if clearly better → Gartal decides on a separate brand
 ## E7 · bilirdinizmi · 13 → 22 Nov | 60 fps animated reels beat static photo reels | 13:00 + 21:30 animated (Motion Reel), 16:00 dropped | IG/YT/TikTok views, follows/day vs 3–12 Nov | — | decide Sun 22 Nov
+
+- 2026-11-12 QUALITY RESET: E1 ENDED (motion adopted for all bilirdinizmi reels, Gartal). E3 ENDED (cut Shorts dropped; daily trend Short only). Long episodes 3 → 2/week at 60 fps. bilirdinizmi 3 reels → 1 a day.

@@ -27,6 +27,11 @@
    (voice_id ZQJv3hwvRAIC7fvWZ1Qr, model eleven_v4) is the chosen AZ voice. PENDING Gartal's decision on the paid Starter plan
    ($6/mo, commercial licence) — the free plan forbids commercial use, so until he says the plan is active, reels keep Banu.
    Demo: prototypes/motionreel_az_voice_baku3 (warp table maps a real voice track onto the scene clock).
+   HOW (tested 2026-11-12 21:20, works end to end): ElevenLabs connector → creative_generate_speech (model eleven_v4,
+   voice_id above, generations_count 1, the whole voice_texts in one prompt) → creative_get_flow_run_status → media[0].url →
+   `curl -o vo.mp3 "<url>"` (elevenlabsusercontent.com is allowed in Gartal's network settings) → silencedetect to find line
+   starts → audio/vo.wav. ~1 credit per character (65 chars = 65 credits). If the connector says "busy", retry once later, then
+   fall back to Banu. Never call generate twice for the same line (each call is charged).
 2. AZ POLITICS RULE (Gartal 2026-11-12, replaces every "never Azerbaijani politics" line): POSITIVE or NEUTRAL official/national
    news about Azerbaijan is allowed — e.g. the President attending COP31 in Antalya, and that COP29 was held in Baku in Nov 2024;
    national achievements, international events hosted, firsts, records. Facts only, verified from 2 sources (azertag.az, apa.az,

@@ -1,6 +1,6 @@
 {
  "date": "2026-11-13",
- "status": "planned",
+ "status": "13:00 scheduled (18:30 = 15:23 task)",
  "format": "v2",
  "content_format": "v4",
  "planned_note": "Planned in the 2026-11-12 09:10 run (v4 + CUTS 9 Nov: no TBG, no quizzes, no reposts; E5 AZ mix). Fri 13 Nov = TWO-PART day: 13:00 AZ reel (VOICED, photo) = Musa Naghiyev part 1/2 (hambal -> 200+ buildings); part 2 = Sat 14 Nov 13:00 Ismailiyya Palace (see facts[0].part2_plan). 16:00 MOTION reel (silent, AZ angle) = Shamakhi observatory 2-m telescope. 18:30 trend backup reel (silent) = Point Nemo 2 688 km / ISS 400 km. 21:30 MOTION reel (AZ) = Caspian 2.45 m drop (Kazakh sector, Euronews). TikTok 18:30 per DECISIONS 9 Nov = the 21:30 Caspian reel (AZ angle). Trend note: AZ national team plays Liechtenstein in Vaduz on 13 Nov (report.az 23:45 Baku) - used as the 12 Nov trend; a match-result trend fits 14 Nov. USAGE FALLBACK: Friday is the day to skip if usage runs low.",
@@ -55,7 +55,14 @@
     "photo": "Ismailiyya facade, Commons (Diego Delso CC BY-SA 4.0 panorama or Urek Meniashvili CC BY-SA 3.0 portrait JPG)",
     "first_comment": "1-ci hissə profildədir 👆"
    },
-   "language_fix": "20:45 run: beat 1 shortened (dropped 'Bakı yaxınlığında') to keep the voiced reel near 30 s"
+   "language_fix": "20:45 run: beat 1 shortened (dropped 'Bakı yaxınlığında') to keep the voiced reel near 30 s",
+   "build": {
+    "file": "out/2026-11-13/1_reel.mp4",
+    "dur_s": 31.6,
+    "voice": "az-AZ-BanuNeural +15%",
+    "sound": "ambience, no music",
+    "hook_bg": true
+   }
   },
   {
    "n": 2,
@@ -152,5 +159,17 @@
     "https://astanatimes.com/2026/03/kazakhstan-reports-caspian-sea-level-decline-outlines-2050-scenarios/"
    ]
   }
- ]
+ ],
+ "metricool": {
+  "13:00 reel (Musa Nağıyev 1/2, static, voiced)": 425941849
+ },
+ "tiktok": {
+  "13:00 Musa Nağıyev 1/2": 425942143
+ },
+ "youtube": {
+  "13:00 Musa Nağıyev 1/2": 425942180
+ },
+ "voiced": {
+  "13:00": true
+ }
 }

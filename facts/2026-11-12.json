@@ -180,5 +180,43 @@
   "motion_status": "both motion builds OK, no static fallback"
  },
  "trend_check_evening": "11 Nov ~20:50: news searches thin (no dominant AZ or world story for 12 Nov); no swap. 15:23 run can still swap the 18:30 IG backup (Tristan) only.",
- "scheduled_check": "getScheduledPosts 12 Nov before: 0 posts. After: 9 (IG 4 at 13:00/16:00/18:30/21:30, TikTok 2 at 13:00/18:30, YouTube 3 at 13:00/16:00/21:30), each network/time once."
+ "scheduled_check": "getScheduledPosts 12 Nov before: 0 posts. After: 9 (IG 4 at 13:00/16:00/18:30/21:30, TikTok 2 at 13:00/18:30, YouTube 3 at 13:00/16:00/21:30), each network/time once.",
+ "trend": {
+  "n": "T",
+  "type": "reel",
+  "format": "v4",
+  "cat": "Coğrafiya",
+  "voiced": false,
+  "subject": "Liechtenstein = Azerbaijan's UEFA Nations League League D Group 2 opponent on Fri 13 Nov 2026 in Vaduz (report.az 11 Nov 2026: 'noyabrın 13-də', 'Bakı vaxtı ilə saat 23:45'; qol.az schedule; group = Lithuania, Liechtenstein, Azerbaijan). Area 160 km² (statistikportal.li 'Liechtenstein in figures 2026': 'Total area 160 km2', 'fourth smallest country in Europe'; tourismus.li; Britannica). Population 40 886 at 31.12.2024 (statistikportal; text 'around 41 000 inhabitants'; tourismus.li ~40 000; Britannica 2024 est. 39 900) -> 'təxminən 41 min'. Vaduz 'Around 6 000 people' (statistikportal, 6 032). Army: 'the standing army was abolished and neutrality proclaimed in 1868' (Britannica; statistikportal + tourismus.li timelines '1868 Abolition of the Liechtenstein army'). 'There is no airport' (Britannica). Azerbaijan area 86 600 km² (standard) -> 86 600/160 = 541 -> '500 dəfədən çox'. Not used: 'doubly landlocked' and 'more companies than people' (not confirmed on pages read; statistikportal lists 5 582 enterprises), stadium capacity (not read), kick-off time (report.az 23:45 vs qol.az 22:45 -> say only 'sabah axşam').",
+  "photo_request": "Vaduz Castle with mountains (Commons)",
+  "title": "160 km²: millimizin sabahkı rəqibi",
+  "text": "Sabah millimiz Vaduzda Lixtenşteynlə oynayır. Bu ölkənin ərazisi cəmi 160 kvadrat kilometrdir, orada təxminən 41 min insan yaşayır.",
+  "reel_hook": "160 KM²: MİLLİMİZİN SABAHKI RƏQİBİ",
+  "reel_beats": [
+   "Sabah axşam millimiz Millətlər Liqasında Lixtenşteynlə oynayır. Bu ölkənin ərazisi cəmi 160 kvadrat kilometrdir.",
+   "Azərbaycan ondan 500 dəfədən çox böyükdür. Lixtenşteyndə təxminən 41 min insan yaşayır, paytaxt Vaduzda isə cəmi 6 min.",
+   "Bu ölkənin ordusu yoxdur: onu hələ 1868-ci ildə ləğv ediblər. Ən maraqlısı: Lixtenşteyndə hava limanı da yoxdur."
+  ],
+  "cta": "Hər gün yeni fakt — izlə!",
+  "caption": "Lixtenşteyn: millimizin sabahkı rəqibi cəmi 160 km²-dir ⚽\n\nSabah axşam Azərbaycan millisi UEFA Millətlər Liqasında Vaduzda Lixtenşteynlə oynayır. Bu, Avropanın ən kiçik ölkələrindən biridir: ərazisi 160 kvadrat kilometrdir, Azərbaycan ondan 500 dəfədən çox böyükdür. Ölkədə təxminən 41 min insan yaşayır, paytaxt Vaduzda isə cəmi 6 min nəfər. Ən maraqlısı: Lixtenşteynin ordusu yoxdur — onu 1868-ci ildə ləğv ediblər. Ölkədə hava limanı da yoxdur.\n\n📩 Sabah matçı birlikdə izləyəcəyin dostuna göndər ⚽\n\n👉 Hər gün yeni fakt — izlə ki, qaçırmayasan\n\nFoto: A.Savin / Wikimedia Commons (FAL)\n\n#bilirdinizmi #lixtenşteyn #azərbaycanmillisi #futbol",
+  "first_comment": "Səncə, sabah hesab neçə olacaq? 👇",
+  "photo": {
+   "path": "fetch/img/2026-11-12_T_vaduz_savin.jpg",
+   "credit": "A.Savin / Wikimedia Commons (FAL)",
+   "cy": 0.5,
+   "cx": 0.42,
+   "full": true,
+   "source": "https://commons.wikimedia.org/wiki/File:Liechtenstein_asv2022-10_img01_Vaduz_Schloss.jpg",
+   "note": "1920x1200 landscape (from 7289x4556 original, Free Art License = attribution). Vaduz Castle on a green slope, autumn trees, Alps behind; checked at full size: no watermark/logos/people. No person is central (a country) so a place photo is fine. Spares: 2026-11-12_T_vaduz_halun2.jpg (Jakub Hałun CC BY 4.0, tower + Liechtenstein flag, near-square), _halun.jpg."
+  },
+  "sources": [
+   "https://report.az/futbol-xeberleri/uefa-milletler-liqasi-lixtensteyn-azerbaycan-oyununun-hakimleri-aciqlanib",
+   "https://qol.az/news/222756-azerbaycan-millisinin-oyunlarinin-teqvimi-milletler-liqasi",
+   "https://www.statistikportal.li/statistikportal/publications/103-liechtenstein-in-figures/2026/01/1/102.2026.01.1_02_liechtenstein-in-figures-2026.pdf",
+   "https://www.britannica.com/place/Liechtenstein",
+   "https://tourismus.li/en/our-country/about-liechtenstein/"
+  ],
+  "source_scan": "12 Nov 09:10: azertag/report.az (finance items, minimum wage, Victory/war items = off-limits), Google-style 'news today' (Iran war / Abu Dhabi Ukraine talks = war, skip), Booker Prize (M. John Harrison, 81, oldest winner, 10 Nov = 2 days old + niche), GTA 6 gone gold (already the 8 Nov trend), space (nothing big). Picked the AZ national team's Nations League away match vs Liechtenstein (Fri 13 Nov, Vaduz) = AZ sport angle + 'tiny country' wow numbers (E5 AZ mix).",
+  "status": "planned for 15:23 swap into 18:30 IG (TikTok/YouTube keep their posts, DECISIONS 9 Nov)"
+ }
 }

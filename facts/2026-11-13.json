@@ -1,0 +1,155 @@
+{
+ "date": "2026-11-13",
+ "status": "planned",
+ "format": "v2",
+ "content_format": "v4",
+ "planned_note": "Planned in the 2026-11-12 09:10 run (v4 + CUTS 9 Nov: no TBG, no quizzes, no reposts; E5 AZ mix). Fri 13 Nov = TWO-PART day: 13:00 AZ reel (VOICED, photo) = Musa Naghiyev part 1/2 (hambal -> 200+ buildings); part 2 = Sat 14 Nov 13:00 Ismailiyya Palace (see facts[0].part2_plan). 16:00 MOTION reel (silent, AZ angle) = Shamakhi observatory 2-m telescope. 18:30 trend backup reel (silent) = Point Nemo 2 688 km / ISS 400 km. 21:30 MOTION reel (AZ) = Caspian 2.45 m drop (Kazakh sector, Euronews). TikTok 18:30 per DECISIONS 9 Nov = the 21:30 Caspian reel (AZ angle). Trend note: AZ national team plays Liechtenstein in Vaduz on 13 Nov (report.az 23:45 Baku) - used as the 12 Nov trend; a match-result trend fits 14 Nov. USAGE FALLBACK: Friday is the day to skip if usage runs low.",
+ "facts": [
+  {
+   "n": 1,
+   "type": "reel",
+   "cat": "Azərbaycan",
+   "voiced": true,
+   "two_part": "1/2",
+   "subject": "Musa Naghiyev (Ağa Musa Nağıyev, 1849–1919): 'born into a very poor family near Baku and started working as a cargo carrier (hambal)' (Wikipedia); 'one of the richest oil industrialists in Baku, next to Nobel brothers'; 'His assets were worth 300 million rubles'; 'became the largest rental property owner in Baku owning more than 200 buildings' (Wikipedia). PART 2 (14 Nov 13:00) = Ismailiyya Palace: built 1908–1913 'in commemoration of his deceased son Ismayil' (1875–1902), Polish architect Józef Płoszko, Venetian Gothic, today the Presidium of the Azerbaijan Academy of Sciences, Istiglaliyyat Street (Wikipedia 'Ismailiyya Palace'). Not used: cause of Ismayil's death (not on page), 1918 fire (violence), 'richest man' superlatives.",
+   "photo_request": "Musa Naghiyev portrait (Commons, PD)",
+   "title": "Hambaldan milyonçuya: Musa Nağıyev (1/2)",
+   "text": "Musa Nağıyev gəncliyində hambal işləyirdi. Sonra Bakının ən varlı neftçilərindən biri oldu və şəhərdə 200-dən çox binası vardı.",
+   "reel_hook": "200 BİNA: HAMBALDAN MİLYONÇUYA (1/2)",
+   "reel_beats": [
+    "Musa Nağıyev 1849-cu ildə Bakı yaxınlığında çox kasıb bir ailədə doğulub. Gəncliyində hambal işləyib: başqalarının yükünü daşıyırdı.",
+    "Sonra neft işinə girdi və Bakının ən varlı neftçilərindən biri oldu. Deyilənə görə, var-dövləti 300 milyon rubl idi.",
+    "Bakıda 200-dən çox binası vardı. Amma onun ən gözəl binası bir kədərin xatirəsidir. 2-ci hissə sabah 13:00-da."
+   ],
+   "voice_texts": [
+    "İki yüz bina. Hambaldan milyonçuya.",
+    "Musa Nağıyev min səkkiz yüz qırx doqquzuncu ildə Bakı yaxınlığında çox kasıb bir ailədə doğulub. Gəncliyində hambal işləyib: başqalarının yükünü daşıyırdı.",
+    "Sonra neft işinə girdi və Bakının ən varlı neftçilərindən biri oldu. Deyilənə görə, var-dövləti üç yüz milyon rubl idi.",
+    "Bakıda iki yüzdən çox binası vardı. Amma onun ən gözəl binası bir kədərin xatirəsidir. İkinci hissə sabah, saat on üçdə."
+   ],
+   "cta": "2-ci hissə sabah 13:00-da — izlə ki, qaçırmayasan",
+   "caption": "Musa Nağıyev: hambaldan Bakının ən varlı adamlarından birinə (1/2) 🏛️\n\nMusa Nağıyev 1849-cu ildə Bakı yaxınlığında çox kasıb bir ailədə doğulub. Gəncliyində hambal işləyib — başqalarının yükünü daşıyıb. Sonra neft işinə girib və Nobel qardaşlarından sonra Bakının ən varlı neftçilərindən biri olub. Deyilənə görə, var-dövləti 300 milyon rubl idi. Şəhərdə 200-dən çox binası vardı: Bakıda ən çox evi kirayə verən o idi. Amma onun ən gözəl binası bir kədərin xatirəsidir.\n\n2-ci hissə sabah 13:00-da — izlə ki, qaçırmayasan\n\n📩 «Bir gün mən də varlı olacam» deyən dostuna göndər 😄\n\n👉 Hər gün 13:00-da Azərbaycan haqqında bilmədiyin bir fakt — izlə ki, qaçırmayasan\n\nFoto: Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #musanağıyev #bakı #tarix #neft",
+   "first_comment": "Səncə, Nağıyevin ən gözəl binası hansıdır? 👇",
+   "photo": {
+    "path": "fetch/img/2026-11-13_1_naghiyev.jpg",
+    "credit": "Wikimedia Commons (public domain)",
+    "cy": 0.3,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Musa_Nagiyev.jpg",
+    "note": "1296x1725 portrait, PD (early 1900s studio photo, author unknown): Naghiyev seated with a cane, papakha hat. Checked at full size: no watermark/logos, light scratches only. Face in the upper third -> cy 0.3. Spare: 2026-11-13_1_naghiyev_levin.jpg (Henry Levin, PD, 1042x1300). Faces beat symbols (section P)."
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Musa_Naghiyev",
+    "https://en.wikipedia.org/wiki/Ismailiyya_Palace"
+   ],
+   "part2_plan": {
+    "date": "2026-11-14",
+    "slot": "13:00",
+    "title": "Oğlunun xatirəsinə saray: İsmailiyyə (2/2)",
+    "hook": "5 İL: OĞLUNUN XATİRƏSİNƏ SARAY (2/2)",
+    "beats_draft": [
+     "1-ci hissədən qısa: hambaldan milyonçu olan Musa Nağıyevin oğlu İsmayıl 1902-ci ildə gənc yaşda öldü.",
+     "Nağıyev onun xatirəsinə 1908–1913-cü illərdə İstiqlaliyyət küçəsində saray tikdirdi: memarı polyak İosif Ploşko idi.",
+     "Binanı «İsmailiyyə» adlandırdı. Bu gün orada Azərbaycan Elmlər Akademiyasının Rəyasət Heyəti yerləşir."
+    ],
+    "photo": "Ismailiyya facade, Commons (Diego Delso CC BY-SA 4.0 panorama or Urek Meniashvili CC BY-SA 3.0 portrait JPG)",
+    "first_comment": "1-ci hissə profildədir 👆"
+   }
+  },
+  {
+   "n": 2,
+   "type": "reel",
+   "cat": "Kosmos",
+   "voiced": false,
+   "motion": true,
+   "subject": "Shamakhy Astrophysical Observatory named after Nasreddin Tusi: established 17 Nov 1959 (decree No. 975, Wikipedia; shao.az 'established in 1959'); eastern part of Mount Pirkuli, 'altitude of 1435–1500 m' (Wikipedia), shao.az 'height 1500 m', '150 km from Baku'; 2-m reflector by Carl Zeiss Jena (GDR) 'put into operation in September 1966' and 'the third-largest in the former USSR' (Wikipedia; shao.az 'commissioned in September 1966'); named after Tusi in 1981 (both). Not used: 'largest in the Caucasus' (not on pages read).",
+   "photo_request": "Shamakhi observatory dome (Commons)",
+   "title": "2 metrlik güzgü: Şamaxının teleskopu",
+   "text": "Şamaxı yaxınlığında, dağın başında 2 metrlik güzgüsü olan teleskop var. 1966-cı ildə işə düşəndə SSRİ-nin üçüncü ən böyük teleskopu idi.",
+   "reel_hook": "2 METRLİK GÜZGÜ: ŞAMAXININ TELESKOPU",
+   "reel_beats": [
+    "Şamaxıda, Pirqulu yaxınlığında dağın başında rəsədxana var. O, Bakıdan 150 kilometr uzaqda, təxminən 1 500 metr hündürlükdədir.",
+    "Onun ən böyük teleskopunun güzgüsü 2 metrdir. Teleskopu Almaniyada «Carl Zeiss» zavodu düzəldib, 1966-cı ildə işə salıblar.",
+    "O vaxt bu, SSRİ-nin üçüncü ən böyük teleskopu idi. Rəsədxana 1959-cu ildə açılıb və Nəsirəddin Tusinin adını daşıyır."
+   ],
+   "cta": "Hər gün yeni fakt — izlə!",
+   "caption": "Şamaxıda 2 metrlik güzgüsü olan teleskop var 🔭\n\nŞamaxı Astrofizika Rəsədxanası Pirqulu yaxınlığında, dağın başında, təxminən 1 500 metr hündürlükdədir — Bakıdan 150 kilometr uzaqda. Onun ən böyük teleskopunun güzgüsü 2 metrdir. Teleskopu Almaniyada «Carl Zeiss» zavodu düzəldib və 1966-cı ilin sentyabrında işə salıblar: o vaxt bu, SSRİ-nin üçüncü ən böyük teleskopu idi. Rəsədxana 1959-cu ildə yaradılıb, 1981-ci ildən Nəsirəddin Tusinin adını daşıyır.\n\n📩 Ulduzlara baxmağı sevən dostuna göndər — Şamaxıya gedək 🌌\n\n👉 Hər gün yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Uzeyir Mikayilov / Wikimedia Commons\n\n#bilirdinizmi #şamaxı #rəsədxana #kosmos #azərbaycan",
+   "first_comment": "Sən Şamaxı rəsədxanasında olmusan? 👇",
+   "photo": {
+    "path": "fetch/img/2026-11-13_2_shao_telescope0.jpg",
+    "credit": "Uzeyir Mikayilov / Wikimedia Commons",
+    "cy": 0.45,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Telescope_in_Pirgulu_State_Reserve_Observatory._Photo_by_Uzeyir_Mikayilov_0.jpg",
+    "note": "1920x1440 landscape (4000x3000 original, listed Public domain on Commons). Big silver dome of the Pirqulu observatory, green trees, grey sky; checked at full size: no watermark/text. Caption does not claim this is the 2-m dome. Spare: _telescope.jpg (Mikayilov CC BY-SA 4.0, smaller dome on a meadow). Motion build: dome photo as background + kinetic counters (2 m, 1966, 1 500 m)."
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Shamakhy_Astrophysical_Observatory",
+    "https://shao.az/en/content/1"
+   ]
+  },
+  {
+   "n": 3,
+   "type": "reel",
+   "cat": "Coğrafiya",
+   "voiced": false,
+   "subject": "Point Nemo (oceanic pole of inaccessibility, South Pacific): 'about 2,688km (1,670 miles) from the nearest land mass' - Ducie Island (N), Motu Nui (NE), Maher Island (S); ISS 'orbits Earth at an altitude of about 400km'; 'the closest human beings to you would be astronauts on the International Space Station, should the ISS happen to be passing overhead'; 'spacecraft cemetery' where agencies de-orbit defunct spacecraft; Mir 'intentionally de-orbited to Point Nemo in 2001' (BBC Sky at Night Magazine, 15 Jun 2025).",
+   "photo_request": "open ocean from above (Unsplash)",
+   "title": "Ən yaxın insanlar kosmosdadır",
+   "text": "Sakit okeandakı Nemo nöqtəsindən ən yaxın quruya 2 688 km var. Kosmik stansiya üstündən keçəndə ən yaxın insanlar astronavtlar olur.",
+   "reel_hook": "2 688 KM: ƏN YAXIN İNSANLAR KOSMOSDADIR",
+   "reel_beats": [
+    "Sakit okeanda Nemo nöqtəsi adlı bir yer var. Oradan ən yaxın quruya qədər təxminən 2 688 kilometrdir.",
+    "Beynəlxalq Kosmik Stansiya isə Yerdən təxminən 400 kilometr yüksəkdə uçur. O, üstündən keçəndə ən yaxın insanlar astronavtlar olur.",
+    "Ona görə köhnə peykləri və kosmik gəmiləri məhz bura salırlar. 2001-ci ildə «Mir» stansiyası da burada okeana düşüb."
+   ],
+   "cta": "Hər gün yeni fakt — izlə!",
+   "caption": "Nemo nöqtəsi: ən yaxın insanlar 400 km yuxarıdadır 🌊\n\nSakit okeanın ortasında Nemo nöqtəsi adlı bir yer var — quruya ən uzaq yer. Oradan ən yaxın adaya qədər təxminən 2 688 kilometrdir. Beynəlxalq Kosmik Stansiya isə Yerdən təxminən 400 kilometr yüksəkdə uçur, ona görə o, üstündən keçəndə ən yaxın insanlar astronavtlar olur. Bu yer «kosmik gəmilər qəbiristanlığı» da adlanır: köhnə peykləri məhz bura salırlar. 2001-ci ildə «Mir» stansiyası da burada okeana düşüb.\n\n📩 «Məni heç kim tapa bilməz» deyən dostuna göndər 😄\n\n👉 Hər gün yeni fakt — izlə ki, qaçırmayasan\n\nFoto: ITT CU / Unsplash\n\n#bilirdinizmi #okean #kosmos #coğrafiya",
+   "first_comment": "Sən Nemo nöqtəsinə getmək istərdin? 👇",
+   "photo": {
+    "path": "fetch/img/2026-11-13_3_ocean.jpg",
+    "credit": "ITT CU / Unsplash",
+    "cy": 0.5,
+    "full": true,
+    "source": "https://unsplash.com/photos/H_oJiZ6fu3A",
+    "note": "1800x2700 portrait, Unsplash alt 'Aerial view of white cumulus clouds floating above a deep blue ocean' (generic ocean, not Point Nemo itself - fine for a 'middle of nowhere' symbol). Checked: no watermark/logos/people. Download recorded via Unsplash download_asset."
+   },
+   "sources": [
+    "https://www.skyatnightmagazine.com/earth-from-space/point-nemo"
+   ]
+  },
+  {
+   "n": 4,
+   "type": "reel",
+   "cat": "Azərbaycan",
+   "voiced": false,
+   "motion": true,
+   "subject": "Caspian Sea shrinking (Euronews, 7 Oct 2026, Meruyert Zhakiyanova): 'the Caspian Sea level in the Kazakh sector fell from -26.82 metres in 1996 to -29.27 metres in 2025' = 'a decline of 2.45 metres over the past three decades, or an average of around 8–9 centimetres per year'; 'between 2000 and 2025, the area covered by water in the studied part of the north-eastern Caspian decreased by around 16,384 square kilometres'; a new island 'spotted days ago near Kulaly Island during a recent aerial survey', islands ~1 km long, 200–300 m wide. Figures are for the Kazakh sector -> said so on screen. Baku lies on the Caspian (standard). Not used: Albania-size comparison (Caspian Post page not read), 2050 scenarios.",
+   "photo_request": "Shrinking Caspian Sea MODIS satellite image (NASA, Commons)",
+   "title": "Xəzər 30 ildə 2,45 metr alçalıb",
+   "text": "Qazaxıstan sahilində Xəzərin səviyyəsi 1996-cı ildən 2025-ci ilə qədər 2,45 metr düşüb. Su çəkildikcə yeni adalar çıxır.",
+   "reel_hook": "2,45 METR: XƏZƏR ALÇALIR",
+   "reel_beats": [
+    "Bakının sahilində olduğu Xəzər dənizi alçalır. Qazaxıstan sahilində su 1996-cı ildən 2025-ci ilə qədər 2,45 metr düşüb.",
+    "Bu, ildə orta hesabla 8–9 santimetr edir. Şimal-şərqdə 25 ildə təxminən 16 min kvadrat kilometr dəniz quruya çevrilib.",
+    "Su çəkildikcə yeni adalar çıxır. Bu payız Qazaxıstan sahilində, Kulalı adası yaxınlığında daha biri göründü."
+   ],
+   "cta": "Hər gün yeni fakt — izlə!",
+   "caption": "Xəzər dənizi 30 ildə 2,45 metr alçalıb 🌊\n\nBakının sahilində olduğu Xəzər dənizi kiçilir. Qazaxıstan sahilində ölçülən səviyyə 1996-cı ildə dəniz səviyyəsindən 26,82 metr aşağı idi, 2025-ci ildə isə 29,27 metr aşağı oldu — 2,45 metr fərq, ildə orta hesabla 8–9 santimetr. Dənizin şimal-şərq hissəsində 25 ildə təxminən 16 min kvadrat kilometr su quruya çevrilib. Su çəkildikcə yeni adalar çıxır: bu payız Kulalı adası yaxınlığında daha biri göründü.\n\n📩 Bulvarda gəzməyi sevən dostuna göndər 🌊\n\n👉 Hər gün Azərbaycan haqqında bilmədiyin bir fakt — izlə ki, qaçırmayasan\n\nFoto: NASA (MODIS)\n\n#bilirdinizmi #xəzər #bakı #təbiət #azərbaycan",
+   "first_comment": "Sən Bakıda dənizin çəkildiyini görmüsən? 👇",
+   "photo": {
+    "path": "fetch/img/2026-11-13_4_caspian.jpg",
+    "credit": "NASA (MODIS)",
+    "cy": 0.5,
+    "cx": 0.55,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Shrinking_Caspian_Sea_(MODIS_2024-10-08).jpg",
+    "note": "2927x2177 PD NASA MODIS (8 Oct 2024) false-colour view of the shallow northern Caspian: Volga delta (green) left, light shoals/exposed seabed along the Kazakh coast right. Checked: no watermark/text. Landscape -> motion build pans across it. Spare for a Baku shot: none fetched."
+   },
+   "sources": [
+    "https://www.euronews.com/2026/10/07/the-caspian-sea-has-been-shrinking-for-decades-now-a-new-island-has-emerged",
+    "https://astanatimes.com/2026/03/kazakhstan-reports-caspian-sea-level-decline-outlines-2050-scenarios/"
+   ]
+  }
+ ]
+}

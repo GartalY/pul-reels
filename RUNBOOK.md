@@ -16,6 +16,7 @@
   4. One persistent world: same paper background, flat illustrated objects with thick outlines, a recurring mascot reacting
      in a corner; a new object/action every ~1 s (springs, pops, slides), never a still frame.
   5. List format works: "5 things…", "3 reasons…" with the counter. Honest hooks only — no "serious income"-type promises.
+1c. Real public figures in reels: flat illustrated character (see whyverse/PLAN.md "REAL PEOPLE ON SCREEN"), never caricature/photo; private people never shown.
 2. AZ POLITICS RULE (Gartal 2026-11-12, replaces every "never Azerbaijani politics" line): POSITIVE or NEUTRAL official/national
    news about Azerbaijan is allowed — e.g. the President attending COP31 in Antalya, and that COP29 was held in Baku in Nov 2024;
    national achievements, international events hosted, firsts, records. Facts only, verified from 2 sources (azertag.az, apa.az,

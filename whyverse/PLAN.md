@@ -179,3 +179,10 @@ https://www.youtube.com/channel/UCTWyyqP6HJP64E7fA7QphGg
   4. One persistent world: same paper background, flat illustrated objects with thick outlines, a recurring mascot reacting
      in a corner; a new object/action every ~1 s (springs, pops, slides), never a still frame.
   5. List format works: "5 things…", "3 reasons…" with the counter. Honest hooks only — no "serious income"-type promises.
+- REAL PEOPLE ON SCREEN (Gartal 2026-11-12 20:18, after the Nvidia Short had no figure: "something like El-Sayed for the CEO"):
+  when a story is about a public figure, SHOW them as a flat illustrated character like El-Sayed v2
+  (whyverse/shorts/2026-11-09_first-muslim-senator, FACES in shots.js): simple face, hair, signature clothing cue
+  (e.g. Jensen Huang = grey hair, black leather jacket), name plate, gentle blink/gestures — never a caricature, never mocking,
+  never a photo. Private individuals (e.g. the women in the Huang story) are never drawn or named.
+- FOLLOW-UP RULE: if a story we covered gets its big next step (e.g. Nvidia's board announces Huang's fate), the next daily
+  Short may be the follow-up ("Update: …"), with the illustrated character, linking back to the first Short.

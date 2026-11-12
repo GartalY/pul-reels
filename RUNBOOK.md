@@ -1,3 +1,8 @@
+## TREND FRESHNESS (Gartal 2026-11-12: "make sure it's a new trend, something that happened yesterday or today … we are always away from the trends")
+The 18:30 trend reel must be about something from the last 24–48 h that people in Azerbaijan are talking about NOW. 09:10 picks it, 15:23 re-checks the news
+(2nd check of the day) and swaps if something hotter broke since morning. Big world stories that are everywhere in AZ feeds (e.g. Nvidia/Jensen Huang scandal,
+12 Nov) count too: tell them in Azerbaijani, facts only, "iddia edilir"/"bildirilir" for unproven claims, no gossip. Never anything about Azerbaijani politics.
+
 ## MANAGER MANDATE (Gartal 2026-11-11) — READ FIRST, overrides "only recommend" anywhere below
 Gartal: "the problem with autopilot: you just create content, share it, and never change it until I say so … take
 control, you decide, you're the manager." So the system must IMPROVE ITSELF without waiting for him:

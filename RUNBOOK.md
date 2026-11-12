@@ -17,6 +17,12 @@
      in a corner; a new object/action every ~1 s (springs, pops, slides), never a still frame.
   5. List format works: "5 things…", "3 reasons…" with the counter. Honest hooks only — no "serious income"-type promises.
 1c. Real public figures in reels: flat illustrated character (see whyverse/PLAN.md "REAL PEOPLE ON SCREEN"), never caricature/photo; private people never shown.
+1d. VOICE ON BOTH DAILY REELS (Gartal 2026-11-12 20:42 "why are you not putting voice for the animation?"): the 18:30 animated reel AND
+   the 13:00 static reel get the Banu voice-over (az-AZ-BanuNeural, rate +15%, edge-tts --proxy "$HTTPS_PROXY", see VOICE-OVER
+   section; data 27–30 Oct: voice helps AZ story reels). For Motion Reels: one mp3 per line → audio/vo.wav placed on the beat grid
+   (motion-reel references/voiceover.md, "A supplied recording"), captions word-by-word on her words, silence instead of music,
+   SFX under her. 50–70 words, numbers written out in voice_texts, ≤ 30 s. AI label ON (isAiGenerated / isAigc /
+   isAiGeneratedContent true). If edge-tts fails, ship silent and say so.
 2. AZ POLITICS RULE (Gartal 2026-11-12, replaces every "never Azerbaijani politics" line): POSITIVE or NEUTRAL official/national
    news about Azerbaijan is allowed — e.g. the President attending COP31 in Antalya, and that COP29 was held in Baku in Nov 2024;
    national achievements, international events hosted, firsts, records. Facts only, verified from 2 sources (azertag.az, apa.az,

@@ -8,6 +8,14 @@
    a twist/payoff, Azerbaijani checked twice (section L).
    PLATFORM FREEDOM (Gartal): Claude may change the mix per platform at the Sunday/Wednesday decision points (e.g. if TikTok
    isn't working, change what goes there) — but keep at least 2 posts a day per platform unless Gartal says otherwise.
+1b. STYLE LESSONS from Gartal's reference reel 2026-11-12 (sofianedevs "9 GitHub repos…", watched it twice): apply to ALL Shorts/reels
+  of both brands where it fits:
+  1. PROGRESS COUNTER on screen the whole time (e.g. a little machine/grid "0/5 → 5/5" in a corner) — gives a reason to stay to the end.
+  2. LOOP: the last line flows back into the first ("…each one." → "9 GitHub repos…"), so the video replays itself.
+  3. WORD-BY-WORD captions timed to the voice, top of frame, key word in the accent colour (yellow on cream / coral on navy).
+  4. One persistent world: same paper background, flat illustrated objects with thick outlines, a recurring mascot reacting
+     in a corner; a new object/action every ~1 s (springs, pops, slides), never a still frame.
+  5. List format works: "5 things…", "3 reasons…" with the counter. Honest hooks only — no "serious income"-type promises.
 2. AZ POLITICS RULE (Gartal 2026-11-12, replaces every "never Azerbaijani politics" line): POSITIVE or NEUTRAL official/national
    news about Azerbaijan is allowed — e.g. the President attending COP31 in Antalya, and that COP29 was held in Baku in Nov 2024;
    national achievements, international events hosted, firsts, records. Facts only, verified from 2 sources (azertag.az, apa.az,

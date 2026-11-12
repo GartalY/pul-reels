@@ -186,3 +186,6 @@ https://www.youtube.com/channel/UCTWyyqP6HJP64E7fA7QphGg
   never a photo. Private individuals (e.g. the women in the Huang story) are never drawn or named.
 - FOLLOW-UP RULE: if a story we covered gets its big next step (e.g. Nvidia's board announces Huang's fate), the next daily
   Short may be the follow-up ("Update: …"), with the illustrated character, linking back to the first Short.
+- PEOPLE = SILHOUETTES (Gartal 2026-11-12 23:02, replaces REAL PEOPLE ON SCREEN faces): public figures appear as dark silhouettes with a
+  recognisable outline (hair shape, signature clothing), no facial features, name plate. AI-illustrated scenes were rejected — keep
+  code-drawn animation.

@@ -16,7 +16,7 @@
   4. One persistent world: same paper background, flat illustrated objects with thick outlines, a recurring mascot reacting
      in a corner; a new object/action every ~1 s (springs, pops, slides), never a still frame.
   5. List format works: "5 things…", "3 reasons…" with the counter. Honest hooks only — no "serious income"-type promises.
-1c. Real public figures in reels: flat illustrated character (see whyverse/PLAN.md "REAL PEOPLE ON SCREEN"), never caricature/photo; private people never shown.
+1c. (superseded by 1g: silhouettes) Real public figures in reels: flat illustrated character (see whyverse/PLAN.md "REAL PEOPLE ON SCREEN"), never caricature/photo; private people never shown.
 1d. VOICE ON BOTH DAILY REELS (Gartal 2026-11-12 20:42 "why are you not putting voice for the animation?"): the 18:30 animated reel AND
    the 13:00 static reel get the Banu voice-over (az-AZ-BanuNeural, rate +15%, edge-tts --proxy "$HTTPS_PROXY", see VOICE-OVER
    section; data 27–30 Oct: voice helps AZ story reels). For Motion Reels: one mp3 per line → audio/vo.wav placed on the beat grid
@@ -39,6 +39,10 @@
    (d) Hooks lead with the most shocking number (money lost), not background (years).
    (e) Gartal 22:02: the long Whyverse episodes' look is "okay"/liked — Claude picks the design; the vault drawing "didn't even look
        like a vault" → never use a drawn object that isn't instantly recognisable; prefer AI-illustrated assets for complex objects.
+1g. DECISION 2026-11-12 23:02 (Gartal): AI-illustrated scenes (prototypes/motionreel_az_aiscenes_nvidia) REJECTED — "the one you can
+   always do is much better": keep the code-drawn Motion Reel animation. People (public figures) = SILHOUETTES (dark figure with a
+   recognisable outline: hair shape, signature clothing like a leather jacket; no facial features) — replaces the flat-face rule 1c.
+   Keep: number-first hook, CTA at the end (1f), soft SFX only, Arif voice pending paid plan. Don't push ElevenLabs images/video.
 2. AZ POLITICS RULE (Gartal 2026-11-12, replaces every "never Azerbaijani politics" line): POSITIVE or NEUTRAL official/national
    news about Azerbaijan is allowed — e.g. the President attending COP31 in Antalya, and that COP29 was held in Baku in Nov 2024;
    national achievements, international events hosted, firsts, records. Facts only, verified from 2 sources (azertag.az, apa.az,

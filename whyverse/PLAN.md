@@ -138,3 +138,4 @@ https://www.youtube.com/channel/UCTWyyqP6HJP64E7fA7QphGg
 
 - TOOL (2026-11-12): daily trend Shorts are made with the MOTION REEL skill (Gartal liked the 60 fps test). References: prototypes/motionreel_baku (navy kinetic type), prototypes/motionreel_az_newspaper (newspaper/editorial).
 - POLITICS SHARE (2026-11-13, E6): 2–3 of the 7 daily trend Shorts per week are neutral 'historic political moment' Shorts (firsts, records, landmark elections/laws anywhere — never Azerbaijani politics, never taking sides). The other days: science/space/culture/records.
+- VOICE ON DAILY SHORTS (Gartal 2026-11-12: "I want voice on the animations … the English voice is very good"): every Whyverse Short gets the Kokoro af_heart voice-over (60–90 words, hook in the first line), placed with the Motion Reel voice-over flow (audio/vo.wav, cut points on the beat grid, music ducked under the voice). On-screen text = the key words of what she says, not a transcript.

@@ -48,6 +48,9 @@
    connector, retrying every 3 min until 16:40, then falls back to Banu. Caption line "Səs: elevenlabs.io" when Arif is used.
    The 13:00 static reel stays Banu. Budget: ~300–400 credits/day of 10,000/month — check the monthly total in the Sunday review.
    When the page starts earning, Gartal buys the Starter plan.
+1i. NO BANU (Gartal 2026-11-13 02:28: "I don't want Banu voice. I want Arif."): Banu is retired everywhere. 18:30 animated reel =
+   Arif (retry every 3 min until 17:40; if still nothing, captions only). 13:00 static reel = no voice (keeps Arif's free credits
+   for 18:30). All tasks run on claude-opus-5-5 — never Fable (Gartal).
 2. AZ POLITICS RULE (Gartal 2026-11-12, replaces every "never Azerbaijani politics" line): POSITIVE or NEUTRAL official/national
    news about Azerbaijan is allowed — e.g. the President attending COP31 in Antalya, and that COP29 was held in Baku in Nov 2024;
    national achievements, international events hosted, firsts, records. Facts only, verified from 2 sources (azertag.az, apa.az,

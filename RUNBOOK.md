@@ -1,10 +1,13 @@
 ## QUALITY RESET 2026-11-12 (Gartal: "posting 4 or 5 times a day, it's not working … come back to quality over quantity") — OVERRIDES EVERYTHING BELOW
-1. bilirdinizmi_az = ONE excellent post a day: an ANIMATED 60 fps Motion Reel (20–35 s, AZ, hook in second 1, no music, non-melodic SFX)
-   at 18:30 Baku on Instagram + TikTok + YouTube Shorts. Topic = the freshest story of the last 24–48 h people in AZ talk about
-   (TREND FRESHNESS); if nothing good, the best evergreen fact (facts[0]). Built by the 15:23 task. The 20:45 evening build only
-   prepares tomorrow's facts JSON check — NO reel builds, no 13:00 / 21:30 reels, no YouTube 11:00/19:45 reposts.
-   The 09:10 morning task picks today's trend and writes ONE backup fact for tomorrow (facts[0]) — not four.
-   Spend the saved effort on quality: 3 critique rounds, real research, a twist/payoff, Azerbaijani checked twice (section L).
+1. bilirdinizmi_az = TWO posts a day on EACH platform (Instagram + TikTok + YouTube Shorts) — Gartal corrected 2026-11-12 14:55:
+   - 13:00 = static factgen reel ("photo + words", the classic format) from facts[0] — built the evening before by the 20:45 task.
+   - 18:30 = ANIMATED 60 fps Motion Reel (20–35 s, AZ, hook in second 1, no music, non-melodic SFX) about the freshest story of
+     the last 24–48 h (TREND FRESHNESS); if nothing good, an animated evergreen from facts[1]. Built by the 15:23 task.
+   No 16:00 / 21:30 reels, no YouTube 11:00/19:45 reposts. The 09:10 morning task picks today's trend and writes TWO verified
+   facts for tomorrow (facts[0] static, facts[1] animated backup). Spend the effort on quality: 3 critique rounds, real research,
+   a twist/payoff, Azerbaijani checked twice (section L).
+   PLATFORM FREEDOM (Gartal): Claude may change the mix per platform at the Sunday/Wednesday decision points (e.g. if TikTok
+   isn't working, change what goes there) — but keep at least 2 posts a day per platform unless Gartal says otherwise.
 2. AZ POLITICS RULE (Gartal 2026-11-12, replaces every "never Azerbaijani politics" line): POSITIVE or NEUTRAL official/national
    news about Azerbaijan is allowed — e.g. the President attending COP31 in Antalya, and that COP29 was held in Baku in Nov 2024;
    national achievements, international events hosted, firsts, records. Facts only, verified from 2 sources (azertag.az, apa.az,

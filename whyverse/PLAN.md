@@ -157,7 +157,15 @@ https://www.youtube.com/channel/UCTWyyqP6HJP64E7fA7QphGg
   * LONG EPISODES: 2 a week (Tue + Sat nights), 60 fps (FPS = 60 in score.js / render), 1920x1080. Fewer, better: research deeper,
     one strong storyline, Evrim-Ağacı-style open (see EVRIM AĞACI LESSONS). If a 60 fps render can't finish in time, finish at 60 fps
     the next night rather than drop to 30.
-  * NO cut Shorts from episodes any more (they got no views; E3 ended). The ONE daily trend Short (19:00 Baku) stays — make it great.
+  * ONE cut Short per episode (Gartal 14:55: "at least one so people can come to the channel"): the single strongest moment,
+    own hook in the first 2 s, burned-in captions, real payoff, end line "Full video on our YouTube".
+  * TWO posts a day on EACH platform (Instagram, TikTok, YouTube Shorts):
+    - 19:00 Baku = the daily animated trend Short (voiced, 60 fps) — make it great.
+    - 23:00 London = second post: on the day after an episode, its cut Short; on all other days a STATIC "photo + words" fact
+      reel in English (Whyverse colours, one surprising evergreen or trending fact, 10–15 s, safe-zone text), built by the
+      10:41 scout task. Never the same topic as the day's trend Short.
+    - Long episodes additionally on YouTube (19:00 London, Tue + Sat nights' episodes).
+  * PLATFORM FREEDOM: Claude may change the mix per platform at Sunday/Wednesday decision points; keep ≥ 2 posts/day/platform.
   * EVRIM AĞACI LESSONS (apply to every long video): open INSIDE the question, not with "today we'll talk about" — a paradox,
     a myth everyone believes, or a concrete scene in the first 10 s; promise the payoff ("by the end you'll know why…") and pay it
     off at the end; one big question split into smaller questions, each answered with a reveal that raises the next question;

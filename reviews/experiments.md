@@ -10,3 +10,4 @@ Format: ## ID · brand · start → end | hypothesis | change | metric | result 
 ## E7 · bilirdinizmi · 13 → 22 Nov | 60 fps animated reels beat static photo reels | 13:00 + 21:30 animated (Motion Reel), 16:00 dropped | IG/YT/TikTok views, follows/day vs 3–12 Nov | — | decide Sun 22 Nov
 
 - 2026-11-12 QUALITY RESET: E1 ENDED (motion adopted for all bilirdinizmi reels, Gartal). E3 ENDED (cut Shorts dropped; daily trend Short only). Long episodes 3 → 2/week at 60 fps. bilirdinizmi 3 reels → 1 a day.
+- 2026-11-12 14:55 Gartal corrected: ≥ 2 posts/day/platform both brands. bilirdinizmi = 13:00 static + 18:30 animated. Whyverse = 19:00 Baku trend Short + 23:00 London (cut Short day after episode, else static fact). 1 cut Short per episode. E3 re-opened as "1 cut Short vs static fact at 23:00 London" — decide 29 Nov.

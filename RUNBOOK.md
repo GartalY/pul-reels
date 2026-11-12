@@ -93,6 +93,24 @@ muted there. Rules from now on, for ALL bilirdinizmi reels (static and motion, a
 4. Never "Restore"/dispute these claims. Log every muted/blocked reel with its territories in reviews/rights.md.
 Whyverse (global audience) may keep its own synth music beds.
 
+## 60 FPS ANIMATED REELS FOR BILIRDINIZMI (Gartal 2026-11-12) — OVERRIDES the slot plan in CUTS 2026-11-09
+Gartal loved the Motion Reel 60 fps tests ("let's keep 60 FPS … build animation for the Azerbaijani brand also, not just
+photo with the words"). Daily plan from 13 Nov (3 reels instead of 4, to stay inside the weekly usage limit):
+- 13:00 = ANIMATED Azerbaijan reel (facts[0]) — Motion Reel skill, 60 fps.
+- 18:30 = trend reel (static factgen photo reel, because it's swapped the same day at 15:23).
+- 21:30 = ANIMATED Azerbaijan reel (facts[3]) — Motion Reel skill, 60 fps.
+- The 16:00 slot is DROPPED (facts[1] stays in the file as a spare: use it if facts[0]/[3] fails verification).
+- 11:00 and 19:45 YouTube reposts unchanged. TikTok copies: 13:00 and 18:30 only. YouTube copy of every IG reel.
+How to build an animated AZ reel: copy prototypes/motionreel_az_newspaper (editorial/newspaper) or
+prototypes/motionreel_baku (navy kinetic type) as the starting point, vary the look day to day (newspaper, blueprint,
+navy kinetic, sticker-pop); text from the fact's reel_hook + reel_beats (Azerbaijani, section L), hook on frame 0,
+new idea every 1.5–2 s, 18–28 s, end card @bilirdinizmi_az + "İZLƏ". Real photo from the fact may be used inside a
+frame/cut-out, credited in the caption. SOUND (NO MUSIC ON BILIRDINIZMI): replace audio/music.wav with silence or
+reelgen.ambience(); SFX only non-melodic: impact, thud, click, tick, whoosh, sub, type, crash (never pop/bell/blip/
+tok/boing/coins/riser). Critique loop ≥ 2 rounds on phone sheets. Render --video-only 9x16, sfx, mix; encode CRF ~22,
+< 50 MB. If a Motion Reel render fails, ship the static factgen reel for that slot and say so.
+Judge on Sun 22 Nov vs the static reels (E7 in reviews/experiments.md).
+
 ## PACING RULE (Gartal 2026-11-11) — all reels and Shorts, both brands
 "Attention span got less … give the hook and do fast-moving animations." From now on:
 - The HOOK is the first thing on screen, in the first 1 second (number or surprising claim, big text) — no slow

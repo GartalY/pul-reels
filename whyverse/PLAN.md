@@ -137,3 +137,4 @@ https://www.youtube.com/channel/UCTWyyqP6HJP64E7fA7QphGg
 - AI LABELS (2026-11-11, promised to Gartal): every Whyverse video has an AI voice, so label it like bilirdinizmi does: Instagram `instagramData.isAiGenerated: true`, TikTok `tiktokData.isAigc: true`, YouTube `isAiGeneratedContent: true` (synthetic narration). Applies to long videos, cut Shorts and daily trend Shorts. Platforms say labels don't reduce reach; being caught unlabeled is the real risk.
 
 - TOOL (2026-11-12): daily trend Shorts are made with the MOTION REEL skill (Gartal liked the 60 fps test). References: prototypes/motionreel_baku (navy kinetic type), prototypes/motionreel_az_newspaper (newspaper/editorial).
+- POLITICS SHARE (2026-11-13, E6): 2–3 of the 7 daily trend Shorts per week are neutral 'historic political moment' Shorts (firsts, records, landmark elections/laws anywhere — never Azerbaijani politics, never taking sides). The other days: science/space/culture/records.

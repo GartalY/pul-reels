@@ -23,6 +23,10 @@
    (motion-reel references/voiceover.md, "A supplied recording"), captions word-by-word on her words, silence instead of music,
    SFX under her. 50–70 words, numbers written out in voice_texts, ≤ 30 s. AI label ON (isAiGenerated / isAigc /
    isAiGeneratedContent true). If edge-tts fails, ship silent and say so.
+1e. ARIF VOICE (Gartal 2026-11-12 21:01: "It's just perfect. I loved it."): ElevenLabs voice "Arif - Azerbaijani Narrator"
+   (voice_id ZQJv3hwvRAIC7fvWZ1Qr, model eleven_v4) is the chosen AZ voice. PENDING Gartal's decision on the paid Starter plan
+   ($6/mo, commercial licence) — the free plan forbids commercial use, so until he says the plan is active, reels keep Banu.
+   Demo: prototypes/motionreel_az_voice_baku3 (warp table maps a real voice track onto the scene clock).
 2. AZ POLITICS RULE (Gartal 2026-11-12, replaces every "never Azerbaijani politics" line): POSITIVE or NEUTRAL official/national
    news about Azerbaijan is allowed — e.g. the President attending COP31 in Antalya, and that COP29 was held in Baku in Nov 2024;
    national achievements, international events hosted, firsts, records. Facts only, verified from 2 sources (azertag.az, apa.az,

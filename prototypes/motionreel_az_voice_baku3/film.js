@@ -8,22 +8,26 @@ const SERIF = 'Display', UI = 'UI';
 const s = FORMAT.safe, cx = s.x + s.w / 2;
 const sp = (t, t0, cfg = SPRING.snappy) => spring(t - t0, cfg);
 
-// ---- voice lines (seconds) — start, duration, text, keyword
+// ---- voice: Arif (ElevenLabs, recorded by Gartal) — real start, duration, text, keywords
 const VO = [
-  [0.25, 2.197, 'Bakı haqqında üç fakt. Üçüncüsünü çoxu bilmir.', ['üç', 'fakt.']],
-  [2.75, 3.827, 'Bir. Bakı dəniz səviyyəsindən iyirmi səkkiz metr aşağıdadır.', ['iyirmi', 'səkkiz', 'metr']],
-  [6.75, 2.136, 'Dünyanın ən aşağıda yerləşən paytaxtıdır.', ['ən', 'aşağıda']],
-  [9.2, 4.651, 'İki. Min doqquz yüz on səkkizdə Azərbaycanda qadınlar artıq səs verirdi.', ['qadınlar', 'səs']],
-  [14.0, 1.349, 'Amerikadan iki il əvvəl!', ['iki', 'il', 'əvvəl!']],
-  [15.8, 4.230, 'Üç. Qız qalası və İçərişəhər iki min ildən UNESCO siyahısındadır.', ['UNESCO']],
-  [20.4, 1.504, 'Bunu bilməyən dostuna göndər.', ['göndər.']],
+  [0.05, 3.41, 'Bakı haqqında üç fakt. Üçüncüsünü çoxu bilmir.', ['üç', 'fakt.']],
+  [4.00, 3.61, 'Bir. Bakı dəniz səviyyəsindən iyirmi səkkiz metr aşağıdadır.', ['iyirmi', 'səkkiz', 'metr']],
+  [8.21, 1.93, 'Dünyanın ən aşağıda yerləşən paytaxtıdır.', ['ən', 'aşağıda']],
+  [10.97, 4.31, 'İki. Min doqquz yüz on səkkizdə Azərbaycanda qadınlar artıq səs verirdi.', ['qadınlar', 'səs']],
+  [15.82, 1.48, 'Amerikadan iki il əvvəl!', ['iki', 'il', 'əvvəl!']],
+  [17.90, 4.11, 'Üç. Qız qalası və İçərişəhər iki min ildən UNESCO siyahısındadır.', ['UNESCO']],
+  [22.54, 1.40, 'Bunu bilməyən dostuna göndər.', ['göndər.']],
 ];
+// scenes were laid out on the old (Banu) clock; warp real time -> scene time
+const WARP = [[0, 0], [0.05, 0.25], [4.0, 2.75], [8.21, 6.75], [10.97, 9.2], [15.82, 14.0], [17.9, 15.8], [22.54, 20.4], [26.3, 24]];
+const inv = (t) => { for (let i = 1; i < WARP.length; i++) { const [r0, o0] = WARP[i - 1], [r1, o1] = WARP[i]; if (t <= r1) return o0 + (o1 - o0) * clamp((t - r0) / (r1 - r0)); } return 24 + (t - 26.3); };
+const fwd = (o) => { for (let i = 1; i < WARP.length; i++) { const [r0, o0] = WARP[i - 1], [r1, o1] = WARP[i]; if (o <= o1) return r0 + (r1 - r0) * clamp((o - o0) / (o1 - o0)); } return 26.3; };
 // word timings ∝ word length
 const WORDS = VO.map(([t0, d, str, keys]) => {
   const ws = str.split(' '), tot = ws.reduce((a, w) => a + w.length + 2, 0); let acc = 0;
   return ws.map((w) => { const st = t0 + (acc / tot) * d; acc += w.length + 2; return { w, t: st, key: keys.includes(w) }; });
 });
-const B = (sec) => sec / 0.5; // seconds -> beats for HITS
+const B = (sec) => fwd(sec) / 0.5; // scene-clock seconds -> real beats for HITS
 const HITS = [
   [B(0.2), 'BAKI slam', 'impact'], [B(1.3), '3 FAKT', 'thud'], [B(2.75), 'counter 1', 'click'],
   [B(3.2), 'skyline drop', 'whoosh', { len: 0.4, from: 1800, to: 500 }], [B(4.6), 'depth tick', 'tick'], [B(5.8), '-28', 'thud'],
@@ -270,14 +274,15 @@ function sEnd(ctx, t) {
 M.film({
   fonts: [font(100, 700, SERIF), font(40, 800, UI)],
   hits: HITS,
-  draw(ctx, u, t) {
+  draw(ctx, u, tr) {
+    const t = inv(tr);
     if (t < 2.6) sHook(ctx, t);
     else if (t < 9.0) whip(ctx, t, 2.6, () => sHook(ctx, t), () => sSea(ctx, t));
     else if (t < 15.6) whip(ctx, t, 9.0, () => sSea(ctx, t), () => sVote(ctx, t));
     else if (t < 20.2) whip(ctx, t, 15.6, () => sVote(ctx, t), () => sTower(ctx, t));
     else whip(ctx, t, 20.2, () => sTower(ctx, t), () => sEnd(ctx, t));
     if (t < 20.3) counter(ctx, t);
-    captions(ctx, t);
+    captions(ctx, tr);
   },
   post(ctx, u, t) {
     for (let i = 0; i < 500; i++) { ctx.fillStyle = `rgba(60,40,20,${0.03 + 0.03 * hash01(i, 9)})`;

@@ -139,3 +139,17 @@ https://www.youtube.com/channel/UCTWyyqP6HJP64E7fA7QphGg
 - TOOL (2026-11-12): daily trend Shorts are made with the MOTION REEL skill (Gartal liked the 60 fps test). References: prototypes/motionreel_baku (navy kinetic type), prototypes/motionreel_az_newspaper (newspaper/editorial).
 - POLITICS SHARE (2026-11-13, E6): 2–3 of the 7 daily trend Shorts per week are neutral 'historic political moment' Shorts (firsts, records, landmark elections/laws anywhere — never Azerbaijani politics, never taking sides). The other days: science/space/culture/records.
 - VOICE ON DAILY SHORTS (Gartal 2026-11-12: "I want voice on the animations … the English voice is very good"): every Whyverse Short gets the Kokoro af_heart voice-over (60–90 words, hook in the first line), placed with the Motion Reel voice-over flow (audio/vo.wav, cut points on the beat grid, music ducked under the voice). On-screen text = the key words of what she says, not a transcript.
+- TOPIC OVERRIDE for 2026-11-12 (Gartal: "everywhere I see it … great hook"): the Nvidia / Jensen Huang scandal. FACTS ONLY,
+  careful wording (real people, ongoing story): Huang admitted this week to being unfaithful to his wife; US intelligence officials
+  REPORTEDLY believe the woman was a Chinese spy (an alleged "honeypot" operation — say "reportedly"/"alleged", never as fact);
+  Nvidia's board opened an investigation, said it has no reason to believe national security or company secrets were compromised,
+  and is meeting to decide whether he stays (WSJ: preparing to remove him; not decided at time of writing — re-check right before
+  publishing and use the latest status). Shares fell ~6% on 12 Nov. Huang co-founded Nvidia in 1993 and has led it for 33 years;
+  Nvidia's chips power most of the world's AI. Do NOT name or picture the women involved; no gossip, no jokes, no judgement.
+  Angle: "Why one man's affair could shake the whole AI industry." Sources: Tom's Hardware 11 Nov, Fortune 11 Nov, CNBC 8/11/12 Nov,
+  Axios 8 Nov, France 24 12 Nov. political: false (business/security news).
+- TREND FRESHNESS (Gartal 2026-11-12: "make sure it's a new trend, something that happened yesterday or today … we are always away
+  from the trends"): daily Shorts must be about something from the last 24–48 h that people are talking about NOW (check Google
+  Trends, YouTube trending, X/TikTok trending, top headlines of Reuters/AP/BBC/CNBC). Evergreen only if nothing hot exists, and say so.
+  A morning scout (10:41 Baku) writes 3 ranked candidates to whyverse/trends/YYYY-MM-DD.md; the 15:31 run re-checks them (2nd trend
+  check of the day) and picks the hottest.

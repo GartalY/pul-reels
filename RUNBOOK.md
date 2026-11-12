@@ -43,6 +43,11 @@
    always do is much better": keep the code-drawn Motion Reel animation. People (public figures) = SILHOUETTES (dark figure with a
    recognisable outline: hair shape, signature clothing like a leather jacket; no facial features) — replaces the flat-face rule 1c.
    Keep: number-first hook, CTA at the end (1f), soft SFX only, Arif voice pending paid plan. Don't push ElevenLabs images/video.
+1h. ARIF ON THE FREE PLAN (Gartal 2026-11-12 23:15: "we are not doing it for commercial use … we can use the free plan"): the 18:30
+   animated reel uses Arif every day. 14:47 task writes reel_1830 (topic + voice_text) and generates the voice via the ElevenLabs
+   connector, retrying every 3 min until 16:40, then falls back to Banu. Caption line "Səs: elevenlabs.io" when Arif is used.
+   The 13:00 static reel stays Banu. Budget: ~300–400 credits/day of 10,000/month — check the monthly total in the Sunday review.
+   When the page starts earning, Gartal buys the Starter plan.
 2. AZ POLITICS RULE (Gartal 2026-11-12, replaces every "never Azerbaijani politics" line): POSITIVE or NEUTRAL official/national
    news about Azerbaijan is allowed — e.g. the President attending COP31 in Antalya, and that COP29 was held in Baku in Nov 2024;
    national achievements, international events hosted, firsts, records. Facts only, verified from 2 sources (azertag.az, apa.az,

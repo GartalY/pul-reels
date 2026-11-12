@@ -17,13 +17,13 @@
    "text": "Musa Nağıyev gəncliyində hambal işləyirdi. Sonra Bakının ən varlı neftçilərindən biri oldu və şəhərdə 200-dən çox binası vardı.",
    "reel_hook": "200 BİNA: HAMBALDAN MİLYONÇUYA (1/2)",
    "reel_beats": [
-    "Musa Nağıyev 1849-cu ildə Bakı yaxınlığında çox kasıb bir ailədə doğulub. Gəncliyində hambal işləyib: başqalarının yükünü daşıyırdı.",
+    "Musa Nağıyev 1849-cu ildə çox kasıb bir ailədə doğulub. Gəncliyində hambal işləyib: başqalarının yükünü daşıyırdı.",
     "Sonra neft işinə girdi və Bakının ən varlı neftçilərindən biri oldu. Deyilənə görə, var-dövləti 300 milyon rubl idi.",
     "Bakıda 200-dən çox binası vardı. Amma onun ən gözəl binası bir kədərin xatirəsidir. 2-ci hissə sabah 13:00-da."
    ],
    "voice_texts": [
     "İki yüz bina. Hambaldan milyonçuya.",
-    "Musa Nağıyev min səkkiz yüz qırx doqquzuncu ildə Bakı yaxınlığında çox kasıb bir ailədə doğulub. Gəncliyində hambal işləyib: başqalarının yükünü daşıyırdı.",
+    "Musa Nağıyev min səkkiz yüz qırx doqquzuncu ildə çox kasıb bir ailədə doğulub. Gəncliyində hambal işləyib, başqalarının yükünü daşıyırdı.",
     "Sonra neft işinə girdi və Bakının ən varlı neftçilərindən biri oldu. Deyilənə görə, var-dövləti üç yüz milyon rubl idi.",
     "Bakıda iki yüzdən çox binası vardı. Amma onun ən gözəl binası bir kədərin xatirəsidir. İkinci hissə sabah, saat on üçdə."
    ],
@@ -54,7 +54,8 @@
     ],
     "photo": "Ismailiyya facade, Commons (Diego Delso CC BY-SA 4.0 panorama or Urek Meniashvili CC BY-SA 3.0 portrait JPG)",
     "first_comment": "1-ci hissə profildədir 👆"
-   }
+   },
+   "language_fix": "20:45 run: beat 1 shortened (dropped 'Bakı yaxınlığında') to keep the voiced reel near 30 s"
   },
   {
    "n": 2,

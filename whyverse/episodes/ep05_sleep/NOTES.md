@@ -27,7 +27,13 @@ status: DONE — scheduled 2026-11-12 (YouTube Thu 12 Nov 19:00 London; Short 1 
   Master −14.0 LUFS integrated. Measured, not listened to.
 - **Render:** 15,296 frames, resumable in 45 s chunks (tools/render_chunks.sh — the container restarted once early in the night, so the render was made
   restart-safe; ~3.1 fps, 2 Chromium workers, ~85 min). One chunk re-rendered after review (the empty opening of the gut shot).
-  Encode libx264 medium CRF 29 + AAC 160k, +faststart.
+  Encode libx264 medium CRF 29 + AAC 160k, +faststart → 34.5 MB.
+  The cloud machine was paused mid-encode (~02:55 Baku) and resumed at 08:16 Baku, so delivery and scheduling happened at ~08:25 Baku instead of during the night;
+  nothing was lost (all frames were already rendered).
+- **verify:** title_4, title_6 / title ✓ (±1 f, +0 ms). As in ep04, the six title words land 0.3 s apart, so verify's ±250 ms window picks a neighbouring
+  word for title_2 and title_5 (−8 f) and reports near-equal onsets (?); "lights" is a 0.12 s dim, not a cut (+3 f); the logo marker sits 0.15 s after the
+  end-card iris, which is the bigger pixel change (−6 f). Picture and sound read the same event times from events.js, so they cannot drift; not re-rendered.
+  Final file: −14.0 LUFS integrated, LRA 3.5, peak −1.1 dBFS.
 - **Thumbnail:** tools/thumb.js + thumb.sh — Nod yawning under the Moon, WHY DO WE / SLEEP? / 26 YEARS OF YOUR LIFE. Also attached in Metricool as
   the video thumbnail (shows only if the channel is verified) — Gartal can still upload it in Studio.
 - **Media:** whyverse-media/ep05/ (normal commit on top of the branch, as in ep03/ep04).

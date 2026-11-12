@@ -37,6 +37,8 @@
    code camera moves / image-to-video, tested before rollout. (b) The vault image was very bad. (c) EVERY reel ends with a spoken +
    on-screen call to action: AZ "Bəyən və izlə — hər gün bilmədiyin bir fakt!" (Whyverse: "Like and follow Whyverse for more.").
    (d) Hooks lead with the most shocking number (money lost), not background (years).
+   (e) Gartal 22:02: the long Whyverse episodes' look is "okay"/liked — Claude picks the design; the vault drawing "didn't even look
+       like a vault" → never use a drawn object that isn't instantly recognisable; prefer AI-illustrated assets for complex objects.
 2. AZ POLITICS RULE (Gartal 2026-11-12, replaces every "never Azerbaijani politics" line): POSITIVE or NEUTRAL official/national
    news about Azerbaijan is allowed — e.g. the President attending COP31 in Antalya, and that COP29 was held in Baku in Nov 2024;
    national achievements, international events hosted, firsts, records. Facts only, verified from 2 sources (azertag.az, apa.az,

@@ -5,7 +5,7 @@
   const W = G.W, H = G.H;
   const ARAB = ['Saudi Arabia', 'United Arab Emirates', 'Qatar', 'Kuwait', 'Oman', 'Bahrain', 'Iraq'];
   // the shipping route through the strait (simplified centre line, lon/lat)
-  P.LANE = [[54.6, 26.15], [55.3, 26.34], [55.9, 26.52], [56.3, 26.64], [56.62, 26.56], [56.88, 26.27], [57.15, 25.84], [57.5, 25.38]];
+  P.LANE = [[54.6, 26.15], [55.3, 26.34], [55.9, 26.56], [56.3, 26.72], [56.62, 26.66], [56.9, 26.33], [57.15, 25.84], [57.5, 25.38]];
   P.lanes = (ctx, m, t, z, { a = 1, k = 1, ships = 1, t0 = 0, gap = 20 } = {}) => {
     if (a <= 0.01) return; const c = P.LANE.map(([lo, la]) => m.ll(lo, la));
     const off = (d) => c.map((p, i) => { const q = c[Math.min(c.length - 1, i + 1)], r = c[Math.max(0, i - 1)]; const dx = q[0] - r[0], dy = q[1] - r[1], l = Math.hypot(dx, dy) || 1; return [p[0] - dy / l * d / z, p[1] + dx / l * d / z]; });

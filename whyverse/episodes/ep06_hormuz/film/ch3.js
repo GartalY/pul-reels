@@ -57,6 +57,8 @@
     P.rect(ctx, 200, base - big * k1, 360, big * k1, 20, C.navy, { shadow: 0.2 }); G.text(ctx, 'HORMUZ', 380, base + 60, { size: 40, fam: 'Inter', weight: 800, color: C.navy, align: 'center', boil: 0 });
     if (k1 > 0.5) G.text(ctx, '≈ 20', 380, base - big * k1 + 90, { size: 80, fam: 'Bungee', color: C.gold, align: 'center', boil: 0 });
     P.rect(ctx, 760, base - hi * k2, 360, hi * k2, 20, P.lt(C.teal, 0.5)); P.rect(ctx, 760, base - lo * k2, 360, lo * k2, 20, C.teal);
+    const flowS = (x, y, w, h, col) => { if (h <= 2) return; ctx.save(); P.pRR(x, y, w, h, 20)(ctx); ctx.clip(); ctx.strokeStyle = col; ctx.lineWidth = 14; for (let k = -6; k < 30; k++) { const yy = y + h - ((k * 46 + t * 70) % (h + 400)) ; ctx.beginPath(); ctx.moveTo(x - 20, yy + 40); ctx.lineTo(x + w + 20, yy - 40); ctx.stroke(); } ctx.restore(); };
+    flowS(200, base - big * k1, 360, big * k1, 'rgba(255,255,255,0.07)'); flowS(760, base - lo * k2, 360, lo * k2, 'rgba(255,255,255,0.18)');
     G.text(ctx, 'SPARE PIPE ROOM', 940, base + 60, { size: 40, fam: 'Inter', weight: 800, color: C.teal, align: 'center', boil: 0 });
     if (k2 > 0.5) G.text(ctx, '3.5–5.5', 940, base - hi * k2 - 26, { size: 56, fam: 'Bungee', color: C.teal, align: 'center', boil: 0 });
     P.label(ctx, 'million barrels per day', 660, base + 120, { size: 32, align: 'center' });

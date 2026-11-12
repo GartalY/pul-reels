@@ -30,7 +30,7 @@
     P.doc(ctx, 520, 560, 1.15, t, { a: P.pop(t, ev.c5_s2 + 0.1, 0.4), stamp: clamp((t - ev.c5_pulled) / 0.18), stampText: 'CANCELLED', rot: -0.04 });
     ctx.restore();
     // the anchored tanker + an owner who shakes his head
-    const ak = P.fin(t, ev.c5_wont - 0.6, 0.4) * (1 - sw); if (ak > 0) { ctx.save(); ctx.globalAlpha *= ak; P.rect(ctx, 980, 620, 860, 380, 30, C.sea, { shadow: 0.2 }); ctx.save(); P.pRR(980, 620, 860, 380, 30)(ctx); ctx.clip(); P.water(ctx, t, { y0: 820, color: C.sea, color2: C.seaDeep }); P.tanker(ctx, 1400, 860, 640, t, { load: 1 }); ctx.restore();
+    const ak = P.fin(t, ev.c5_s2 + 0.8, 0.5) * (1 - sw); if (ak > 0) { ctx.save(); ctx.globalAlpha *= ak; P.rect(ctx, 980, 620, 860, 380, 30, C.sea, { shadow: 0.2 }); ctx.save(); P.pRR(980, 620, 860, 380, 30)(ctx); ctx.clip(); P.water(ctx, t, { y0: 820, color: C.sea, color2: C.seaDeep }); P.tanker(ctx, 1400, 860, 640, t, { load: 1 }); ctx.restore();
       P.line(ctx, 1150, 870, 1150, 990, C.grey, 4); P.circ(ctx, 1150, 990, 14, C.grey); ctx.restore();
       P.person(ctx, 900, 1000, 1.0, { t, color: C.navy, arm: 0.2 }); P.tag(ctx, 'no cover → no sailing', 1410, 560, t, ev.c5_wont, ev.c5_prem - 0.2, { size: 44, fill: C.red, color: C.cream }); }
     // premiums: before vs 2026 (share of the ship's value, per voyage)
@@ -73,7 +73,7 @@
     P.tag(ctx, '≈ $126, briefly', X(2.1), Y(126) - 70, t, ev.c5_126, 1e9, { size: 40, fill: C.coral, color: C.cream });
     P.tag(ctx, '≈ $92 (11 Nov)', X(8.4) - 20, Y(92) - 70, t, ev.c5_126 + 1.6, 1e9, { size: 36, fill: C.cream, align: 'right' });
     P.label(ctx, 'Brent crude, $ per barrel, 2026 (key points only)', x0, 150, { size: 32, color: C.cream });
-    P.tag(ctx, 'BRENT = the world’s benchmark oil price', 1180, 160, t, ev.c5_brent, 1e9, { size: 34, fill: C.navy2, color: C.gold });
+    P.tag(ctx, 'BRENT = the world’s benchmark oil price', 1340, 240, t, ev.c5_brent, 1e9, { size: 34, fill: C.navy2, color: C.gold });
     P.source(ctx, 'AP / ABC 30 Apr 2026; Majalla; Reuters via HDFC Sky 11 Nov 2026', t, ev.c5_70);
   }, { in: { type: 'push', dir: 'left', dur: 0.5 } });
 

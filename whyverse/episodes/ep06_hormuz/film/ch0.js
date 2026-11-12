@@ -86,18 +86,17 @@
   // S4 — 2026: the ships almost stopped; oil jumped by more than half
   P.shot(ev.c0_s4, (ctx, t) => {
     P.bgNavy(ctx, t);
-    const ky = P.pop(t, ev.c0_2026, 0.4); P.at(ctx, 350, 230, ky, -0.04, () => { P.rect(ctx, -150, -80, 300, 160, 20, C.cream, { shadow: 0.3 }); P.rect(ctx, -150, -80, 300, 44, 20, C.coral); G.text(ctx, '2026', 0, 50, { size: 84, fam: 'Bungee', color: C.navy, align: 'center', boil: 0 }); });
-    // a lane of ships thinning out
-    const lane = (i) => 140 + i * 150; const thin = P.fin(t, ev.c0_stopped, 1.0);
-    for (let i = 0; i < 9; i++) { const x = ((lane(i) + (t - ev.c0_s4) * 70) % 1500) + 60; const keep = i === 2 || i === 6; const a = keep ? 1 : 1 - thin; P.tankerTop(ctx, x, 520, 0, 90, { a: a * 0.95 }); }
-    P.rect(ctx, 0, 470, W, 4, 2, 'rgba(255,255,255,0.15)'); P.rect(ctx, 0, 570, W, 4, 2, 'rgba(255,255,255,0.15)');
-    P.tag(ctx, 'ships almost stopped', 1320, 400, t, ev.c0_stopped, 1e9, { size: 40, fill: C.cream, dot: C.red });
+    const ky = P.pop(t, ev.c0_2026, 0.4); P.at(ctx, 1680, 170, ky, -0.04, () => { P.rect(ctx, -150, -80, 300, 160, 20, C.cream, { shadow: 0.3 }); P.rect(ctx, -150, -80, 300, 44, 20, C.coral); G.text(ctx, '2026', 0, 50, { size: 84, fam: 'Bungee', color: C.navy, align: 'center', boil: 0 }); });
+    // a lane of tankers thinning out (side view)
+    const thin = P.fin(t, ev.c0_stopped, 1.0); P.rect(ctx, 0, 330, W, 120, 0, P.rgba(C.sea, 0.55));
+    for (let i = 0; i < 6; i++) { const x = ((i * 380 + (t - ev.c0_s4) * 90) % 2280) - 180; const keep = i === 2; const a = keep ? 1 : 1 - thin; P.tanker(ctx, x, 400, 300, t + i, { a, wake: 1, rock: 0.5 }); }
+    P.tag(ctx, 'ships almost stopped', 960, 170, t, ev.c0_stopped, 1e9, { size: 40, fill: C.cream, dot: C.red });
     // the price: ~$70 → ~$126
-    const b0 = 640, bx = [620, 1080]; const v0 = P.oc((t - ev.c0_shot + 0.5) / 0.5) * 70, v1 = 70 + 56 * P.oc((t - ev.c0_shot) / 0.9);
-    if (t > ev.c0_shot - 0.6) { const sc = 3.4; P.rect(ctx, bx[0] - 90, b0 + 330 - v0 * sc, 180, v0 * sc, 14, C.grey); P.rect(ctx, bx[1] - 90, b0 + 330 - Math.max(v0, v1) * sc, 180, Math.max(v0, v1) * sc, 14, C.coral);
+    const b0 = 640, bx = [620, 1080]; const v0 = P.oc((t - ev.c0_s4 - 0.4) / 0.6) * 70, v1 = 70 + 56 * P.oc((t - ev.c0_shot) / 0.9);
+    if (t > ev.c0_s4 + 0.3) { const sc = 3.4; P.rect(ctx, bx[0] - 90, b0 + 330 - v0 * sc, 180, v0 * sc, 14, C.grey); P.rect(ctx, bx[1] - 90, b0 + 330 - Math.max(v0, v1) * sc, 180, Math.max(v0, v1) * sc, 14, C.coral);
       G.text(ctx, '$' + Math.round(v0), bx[0], b0 + 310 - v0 * sc, { size: 50, fam: 'Bungee', color: C.cream, align: 'center', boil: 0 }); G.text(ctx, '$' + Math.round(Math.max(v0, v1)), bx[1], b0 + 310 - Math.max(v0, v1) * sc, { size: 50, fam: 'Bungee', color: C.gold, align: 'center', boil: 0 });
       P.label(ctx, 'before (Feb)', bx[0], b0 + 370, { align: 'center', size: 28 }); P.label(ctx, 'peak (30 Apr)', bx[1], b0 + 370, { align: 'center', size: 28 });
-      P.label(ctx, 'Brent crude, $ per barrel', 380, b0 + 30, { size: 30, color: C.cream }); }
+      P.label(ctx, 'Brent crude, $ per barrel', 200, 560, { size: 32, color: C.cream }); }
     P.stamp(ctx, 'MORE THAN HALF', 1490, 820, t, ev.c0_half, { size: 72, color: C.coral, rot: -0.04 });
     P.source(ctx, 'AP, Reuters (Brent ≈ $70 before the war; briefly ≈ $126 on 30 Apr 2026)', t, ev.c0_shot);
   }, { in: { type: 'push', dir: 'left', dur: 0.5 } });

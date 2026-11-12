@@ -10,7 +10,7 @@
   P.cardShot('c2', 2, 'A fifth of the world', (ctx, t) => { for (let i = 0; i < 7; i++) P.barrel(ctx, ((t * 60 + i * 300) % 2200) - 120, 980, 0.6, { a: 0.14, color: C.cream, band: C.cream }); });
 
   // S1 — who sits behind the door
-  const PROD = [['Saudi Arabia', 'SAUDI ARABIA', 47.9, 25.0], ['Iraq', 'IRAQ', 47.3, 30.6], ['United Arab Emirates', 'UAE', 54.4, 23.75], ['Kuwait', 'KUWAIT', 49.4, 29.45], ['Iran', 'IRAN', 53.6, 28.9]];
+  const PROD = [['Saudi Arabia', 'SAUDI ARABIA', 47.9, 25.0], ['Iraq', 'IRAQ', 47.3, 30.6], ['United Arab Emirates', 'UAE', 54.6, 24.25], ['Kuwait', 'KUWAIT', 49.4, 29.45], ['Iran', 'IRAN', 53.6, 28.9]];
   P.shot(ev.c2_s1, (ctx, t) => {
     const m = P.gulf(); ctx.save(); const cam = P.cam(ctx, t, ev.c2_s1, ev.c2_s1 + 11, { x: 940, y: 560, z: 1.02 }, { x: 900, y: 540, z: 1.08 }, (x) => x);
     P.drawMap(ctx, m, { sea: C.sea, z: cam.z });
@@ -37,7 +37,9 @@
     P.source(ctx, 'IEA, Strait of Hormuz factsheet (Feb 2026); EIA', t, ev.c2_20m);
     // ≈ 10 supertankers a day (2 million barrels each)
     const tk = P.fin(t, ev.c2_ten[0] - 0.4, 0.3); if (tk > 0) { ctx.save(); ctx.globalAlpha *= tk; P.rect(ctx, 80, 160, 1760, 560, 30, C.navy, { shadow: 0.3 }); ctx.restore(); P.dark = true;
+      ctx.save(); P.pRR(80, 160, 1760, 560, 30)(ctx); ctx.clip();
       ev.c2_ten.forEach((tt, i) => { const k = P.pop(t, tt, 0.35); if (k <= 0) return; const sail = P.eio((t - ev.c2_leave) / 2.5) * (1 + i * 0.06); P.at(ctx, 250 + (i % 5) * 350 + sail * 900, 380 + Math.floor(i / 5) * 200, k, 0, () => P.tanker(ctx, 0, 0, 300, t + i, { load: 1, rock: 0.5, wake: sail > 0 ? 1 : 0 })); });
+      ctx.restore();
       G.text(ctx, '≈ 10 SUPERTANKERS A DAY', 960, 660, { size: 54, fam: 'Inter', weight: 800, color: C.gold, align: 'center', alpha: P.fin(t, ev.c2_ten[9], 0.3), boil: 0 }); P.dark = false; }
   }, { in: { type: 'push', dir: 'left', dur: 0.5 } });
 
@@ -85,7 +87,7 @@
     const via = { China: [[60, 22], [75, 8], [96, 6.5], [104, 2], [110, 10], [121.8, 30.6]], India: [[60, 23], [66, 21], [72.8, 19.0]], Japan: [[60, 22], [75, 8], [96, 6.5], [104, 2], [114, 12], [126, 26], [139.9, 35.4]], 'South Korea': [[60, 22], [75, 8], [96, 6.5], [104, 2], [114, 12], [124, 28], [129.4, 35.4]] };
     DEST.forEach(([n, lab, lo, la], i) => { const pts = [[56.4, 26.5], ...via[n]].map(([a, b]) => m.ll(a, b)); const k = P.eio((t - ev.c2_east - i * 0.15) / 2.2);
       P.trace(ctx, pts, k, P.rgba(C.gold, 0.85), 6 / cam.z, 1, [14 / cam.z, 9 / cam.z]); if (k > 0.02 && k < 0.999) { const [x, y, a] = P.along(pts, k); P.tankerTop(ctx, x, y, a, 34, { z: cam.z }); }
-      const p = m.ll(lo, la); P.pin(ctx, p[0], p[1], t, ev.c2_dest[i], { label: lab, z: cam.z, color: C.coral, side: i === 1 ? 'left' : 'right', size: 26 }); });
+      const p = m.ll(lo, la); P.pin(ctx, p[0], p[1], t, ev.c2_dest[i], { label: lab, z: cam.z, color: C.coral, side: i === 1 || i === 3 ? 'left' : 'right', size: 26 }); });
     P.pin(ctx, hz[0], hz[1], t, ev.c2_s5 + 0.2, { label: 'HORMUZ', z: cam.z, color: C.gold, side: 'left', size: 26 });
     ctx.restore();
     P.counter(ctx, { x: 330, y: 880, from: 0, to: 84, t, t0: ev.c2_80 - 0.6, t1: ev.c2_80 + 0.2, size: 100, suffix: '%', sub: 'of the crude → Asia (2024)', color: C.coral });

@@ -10,8 +10,8 @@ os.makedirs(OUT, exist_ok=True)
 s = open(TLF).read(); TL = json.loads(s[s.index('=') + 1:s.index(';if(')]); LINES = {l['id']: l for l in TL['lines']}
 
 SHORTS = [
-    ('ep04_s1_you_are_moving', 'c0_1', 'c0_4', ["YOU'RE MOVING", '1,000+ KM/H', 'RIGHT NOW']),
-    ('ep04_s2_sudden_stop', 'c2_1h', 'c2_6', ['THE GROUND', 'STOPS.', "YOU DON'T."]),
+    ('ep05_s1_26_years_asleep', 'c0_1', 'c0_3', ["YOU'LL SLEEP", '26 YEARS', 'OF YOUR LIFE']),
+    ('ep05_s2_10000_naps', 'c6_2', 'c6_4', ['HOW ANIMALS', 'SLEEP:', '10,000 NAPS']),
 ]
 
 def ass_for(t0, t1, path):

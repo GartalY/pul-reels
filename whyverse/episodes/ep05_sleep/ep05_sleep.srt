@@ -1,0 +1,908 @@
+1
+00:00:01,220 --> 00:00:03,775
+Tonight, you will lie down, lose consciousness,
+
+2
+00:00:03,795 --> 00:00:05,653
+and barely move for hours.
+
+3
+00:00:06,623 --> 00:00:07,613
+For part of the night,
+
+4
+00:00:07,743 --> 00:00:09,473
+your muscles will be switched off,
+
+5
+00:00:09,603 --> 00:00:10,861
+and your brain will show you
+
+6
+00:00:10,881 --> 00:00:12,371
+things that are not there.
+
+7
+00:00:13,311 --> 00:00:15,161
+You do this every single night.
+
+8
+00:00:15,341 --> 00:00:16,031
+Add it up,
+
+9
+00:00:16,051 --> 00:00:16,601
+and it's about a third of your life.
+
+10
+00:00:16,621 --> 00:00:17,611
+Over eighty years,
+
+11
+00:00:17,901 --> 00:00:21,201
+that's roughly twenty-six years asleep.
+
+12
+00:00:22,071 --> 00:00:23,251
+And it's not just you.
+
+13
+00:00:23,271 --> 00:00:24,391
+Elephants do it.
+
+14
+00:00:24,481 --> 00:00:25,491
+Penguins do it.
+
+15
+00:00:25,701 --> 00:00:28,075
+Even a jellyfish with no brain does it.
+
+16
+00:00:28,805 --> 00:00:31,665
+In the wild,
+
+17
+00:00:31,705 --> 00:00:32,986
+lying still with your eyes shut is about
+
+18
+00:00:33,006 --> 00:00:34,585
+the most dangerous thing an animal can do.
+
+19
+00:00:34,925 --> 00:00:37,003
+Yet evolution never got rid of it.
+
+20
+00:00:37,843 --> 00:00:39,653
+So, why do we have to sleep?
+
+21
+00:00:46,383 --> 00:00:47,243
+Chapter one.
+
+22
+00:00:47,263 --> 00:00:48,779
+The boy who stayed awake.
+
+23
+00:00:49,469 --> 00:00:52,005
+What happens if you simply refuse to sleep?
+
+24
+00:00:52,445 --> 00:00:54,405
+In December nineteen sixty-three,
+
+25
+00:00:54,615 --> 00:00:56,927
+a seventeen-year-old from San Diego named
+
+26
+00:00:56,947 --> 00:00:59,225
+Randy Gardner decided to find out,
+
+27
+00:00:59,505 --> 00:01:01,081
+for a school science fair.
+
+28
+00:01:01,801 --> 00:01:04,381
+Two friends kept him awake and ran the tests.
+
+29
+00:01:04,681 --> 00:01:07,511
+A Stanford sleep researcher, William Dement,
+
+30
+00:01:07,531 --> 00:01:08,623
+came to watch.
+
+31
+00:01:09,053 --> 00:01:09,893
+On day ten,
+
+32
+00:01:09,913 --> 00:01:11,033
+the story goes,
+
+33
+00:01:11,103 --> 00:01:12,943
+Randy still beat him at pinball.
+
+34
+00:01:14,283 --> 00:01:15,573
+As the days passed,
+
+35
+00:01:15,593 --> 00:01:20,273
+a Navy doctor recorded moodiness, trouble concentrating, memory lapses,
+
+36
+00:01:20,293 --> 00:01:21,959
+and even hallucinations.
+
+37
+00:01:22,799 --> 00:01:25,829
+Randy lasted eleven days and twenty-five minutes.
+
+38
+00:01:26,059 --> 00:01:28,833
+Two hundred and sixty-four hours without sleep.
+
+39
+00:01:29,903 --> 00:01:32,383
+Then he slept for almost fifteen hours straight,
+
+40
+00:01:32,503 --> 00:01:34,286
+and doctors found him healthy.
+
+41
+00:01:35,126 --> 00:01:36,716
+Rats were not so lucky.
+
+42
+00:01:37,006 --> 00:01:39,056
+In experiments in the nineteen eighties,
+
+43
+00:01:39,106 --> 00:01:41,456
+rats kept totally awake all died,
+
+44
+00:01:41,486 --> 00:01:42,776
+or came close to death,
+
+45
+00:01:42,836 --> 00:01:44,786
+within eleven to thirty-two days.
+
+46
+00:01:45,096 --> 00:01:47,069
+Nobody could find a clear cause.
+
+47
+00:01:47,899 --> 00:01:49,189
+In nineteen ninety-seven,
+
+48
+00:01:49,209 --> 00:01:50,149
+Guinness stopped accepting this record.
+
+49
+00:01:50,169 --> 00:01:51,109
+Too dangerous.
+
+50
+00:01:51,339 --> 00:01:54,007
+Please, don't try it.
+
+51
+00:01:54,747 --> 00:01:56,477
+So sleep is not optional.
+
+52
+00:01:56,607 --> 00:01:58,200
+But what is it actually for?
+
+53
+00:01:59,880 --> 00:02:00,740
+Chapter two.
+
+54
+00:02:00,760 --> 00:02:02,276
+Two clocks inside you.
+
+55
+00:02:02,966 --> 00:02:05,056
+Why do you get sleepy in the first place?
+
+56
+00:02:05,146 --> 00:02:07,400
+Because two clocks are ticking inside you.
+
+57
+00:02:07,820 --> 00:02:09,860
+The first works like an hourglass.
+
+58
+00:02:10,060 --> 00:02:11,500
+Every hour you are awake,
+
+59
+00:02:11,520 --> 00:02:14,560
+a chemical called adenosine builds up in your brain.
+
+60
+00:02:14,870 --> 00:02:15,670
+The more of it,
+
+61
+00:02:15,690 --> 00:02:17,074
+the sleepier you feel.
+
+62
+00:02:17,824 --> 00:02:19,604
+Sleep empties the hourglass.
+
+63
+00:02:19,734 --> 00:02:20,764
+Coffee doesn't.
+
+64
+00:02:21,064 --> 00:02:24,474
+Caffeine only blocks the sensors that detect adenosine,
+
+65
+00:02:24,524 --> 00:02:27,219
+so you stop feeling a pressure that is still there.
+
+66
+00:02:28,159 --> 00:02:30,039
+The second is a real clock.
+
+67
+00:02:30,319 --> 00:02:32,195
+Deep in your brain sits a cluster of
+
+68
+00:02:32,215 --> 00:02:34,909
+about twenty thousand nerve cells that keeps time,
+
+69
+00:02:35,039 --> 00:02:36,689
+even in total darkness.
+
+70
+00:02:37,119 --> 00:02:38,389
+As evening comes,
+
+71
+00:02:38,439 --> 00:02:40,679
+it tells your brain to release melatonin,
+
+72
+00:02:40,829 --> 00:02:42,715
+the signal that night has begun.
+
+73
+00:02:43,565 --> 00:02:45,825
+Left alone, it runs a little slow.
+
+74
+00:02:46,045 --> 00:02:49,135
+One day lasts about twenty-four hours and eleven minutes.
+
+75
+00:02:49,415 --> 00:02:50,855
+Morning light resets it,
+
+76
+00:02:50,875 --> 00:02:52,149
+every single day.
+
+77
+00:02:53,119 --> 00:02:54,299
+Fly across the world,
+
+78
+00:02:54,319 --> 00:02:56,289
+and that clock stays on the old time.
+
+79
+00:02:56,479 --> 00:02:57,779
+That is jet lag.
+
+80
+00:02:58,709 --> 00:02:59,759
+When the hourglass is full,
+
+81
+00:02:59,779 --> 00:03:01,299
+and the clock says night,
+
+82
+00:03:01,319 --> 00:03:02,259
+the two line up.
+
+83
+00:03:02,459 --> 00:03:03,686
+And you fall asleep.
+
+84
+00:03:05,756 --> 00:03:06,676
+Chapter three.
+
+85
+00:03:06,696 --> 00:03:08,290
+What a night really looks like.
+
+86
+00:03:08,970 --> 00:03:10,980
+Is sleep just your brain switching off?
+
+87
+00:03:11,090 --> 00:03:12,219
+Not even close.
+
+88
+00:03:12,669 --> 00:03:14,829
+A night of sleep moves in cycles,
+
+89
+00:03:14,849 --> 00:03:16,789
+each roughly ninety minutes long.
+
+90
+00:03:17,059 --> 00:03:19,389
+Most people go through four to six of them.
+
+91
+00:03:19,679 --> 00:03:21,499
+Scientists can watch it happen,
+
+92
+00:03:21,549 --> 00:03:24,027
+by reading the brain's electrical waves.
+
+93
+00:03:24,957 --> 00:03:29,857
+First, you sink down into deep sleep.
+
+94
+00:03:29,937 --> 00:03:31,227
+Your brain waves turn slow and huge,
+
+95
+00:03:31,247 --> 00:03:32,497
+your heart rate drops,
+
+96
+00:03:32,517 --> 00:03:32,906
+and you are very hard to wake.
+
+97
+00:03:33,776 --> 00:03:36,286
+Then you rise back up,
+
+98
+00:03:36,506 --> 00:03:37,866
+into something strange.
+
+99
+00:03:37,996 --> 00:03:39,456
+REM sleep.
+
+100
+00:03:39,646 --> 00:03:42,286
+Your eyes dart around.
+
+101
+00:03:42,306 --> 00:03:42,309
+Your brain is almost as busy
+
+102
+00:03:42,329 --> 00:03:42,596
+as when you are awake.
+
+103
+00:03:42,886 --> 00:03:45,327
+This is where your most vivid dreams happen.
+
+104
+00:03:46,267 --> 00:03:49,187
+And your arms and legs are temporarily paralysed,
+
+105
+00:03:49,287 --> 00:03:51,106
+so you don't act those dreams out.
+
+106
+00:03:52,046 --> 00:03:53,467
+Deep sleep comes mostly in the
+
+107
+00:03:53,487 --> 00:03:54,866
+first half of the night.
+
+108
+00:03:55,126 --> 00:03:57,326
+Dream sleep takes over toward morning.
+
+109
+00:03:57,556 --> 00:03:58,696
+Cut the night short,
+
+110
+00:03:58,806 --> 00:04:00,789
+and it's mostly dreams you lose.
+
+111
+00:04:02,769 --> 00:04:03,629
+Chapter four.
+
+112
+00:04:03,649 --> 00:04:04,781
+The night shift.
+
+113
+00:04:05,491 --> 00:04:06,671
+While you are out cold,
+
+114
+00:04:06,691 --> 00:04:08,201
+a night shift clocks in.
+
+115
+00:04:08,371 --> 00:04:09,799
+And it has a lot to do.
+
+116
+00:04:10,239 --> 00:04:11,419
+Start with the body.
+
+117
+00:04:11,739 --> 00:04:12,639
+In deep sleep,
+
+118
+00:04:12,749 --> 00:04:14,494
+your body releases a large share
+
+119
+00:04:14,514 --> 00:04:16,259
+of its daily growth hormone,
+
+120
+00:04:16,379 --> 00:04:18,342
+the signal to build and repair.
+
+121
+00:04:19,182 --> 00:04:21,272
+Your immune system counts on it too.
+
+122
+00:04:21,592 --> 00:04:22,812
+In one experiment,
+
+123
+00:04:22,902 --> 00:04:26,732
+a hundred and sixty-four volunteers were given a cold virus.
+
+124
+00:04:27,052 --> 00:04:29,379
+Those who slept less than six hours a night
+
+125
+00:04:29,399 --> 00:04:31,814
+were about four times more likely to get sick
+
+126
+00:04:31,834 --> 00:04:34,133
+than those who slept more than seven.
+
+127
+00:04:35,063 --> 00:04:35,843
+And the brain?
+
+128
+00:04:35,863 --> 00:04:36,993
+In twenty thirteen,
+
+129
+00:04:37,013 --> 00:04:39,213
+a study in mice found that during sleep,
+
+130
+00:04:39,273 --> 00:04:42,533
+the space between brain cells grows by sixty percent,
+
+131
+00:04:42,583 --> 00:04:44,663
+letting fluid wash waste away.
+
+132
+00:04:45,063 --> 00:04:46,843
+The idea became famous.
+
+133
+00:04:47,043 --> 00:04:48,851
+Sleep as a brain wash.
+
+134
+00:04:49,781 --> 00:04:51,391
+But science isn't finished.
+
+135
+00:04:51,641 --> 00:04:52,931
+In twenty twenty-four,
+
+136
+00:04:52,951 --> 00:04:54,901
+another team measured the opposite.
+
+137
+00:04:55,141 --> 00:04:56,311
+In sleeping mice,
+
+138
+00:04:56,331 --> 00:04:57,301
+clearance was about thirty percent lower.
+
+139
+00:04:57,321 --> 00:05:02,545
+Right now, the brain wash idea is honestly under debate.
+
+140
+00:05:03,595 --> 00:05:04,805
+What is not in doubt:
+
+141
+00:05:04,955 --> 00:05:06,935
+in studies of flies and mice,
+
+142
+00:05:06,965 --> 00:05:10,395
+losing sleep lets harmful molecules build up in the gut.
+
+143
+00:05:10,805 --> 00:05:12,765
+Sleep loss hurts the whole body,
+
+144
+00:05:12,785 --> 00:05:14,078
+not just the brain.
+
+145
+00:05:15,958 --> 00:05:16,858
+Chapter five.
+
+146
+00:05:16,878 --> 00:05:18,055
+Saving the day.
+
+147
+00:05:18,775 --> 00:05:20,235
+Why does a problem look easier
+
+148
+00:05:20,255 --> 00:05:21,729
+after a night of sleep?
+
+149
+00:05:22,159 --> 00:05:23,499
+In nineteen ninety-four,
+
+150
+00:05:23,569 --> 00:05:27,339
+scientists recorded brain cells in rats as they explored.
+
+151
+00:05:27,729 --> 00:05:29,370
+Each place the rat visited made
+
+152
+00:05:29,390 --> 00:05:31,147
+its own set of cells fire.
+
+153
+00:05:32,087 --> 00:05:33,688
+Later, while the rats slept,
+
+154
+00:05:33,708 --> 00:05:35,815
+the same cells fired together again.
+
+155
+00:05:35,835 --> 00:05:38,611
+The sleeping brain was replaying the day.
+
+156
+00:05:40,341 --> 00:05:42,150
+That replay is thought to help
+
+157
+00:05:42,170 --> 00:05:44,871
+move fresh memories into long-term storage.
+
+158
+00:05:45,301 --> 00:05:47,471
+It may be part of why newborn babies,
+
+159
+00:05:47,551 --> 00:05:49,331
+who are learning everything at once,
+
+160
+00:05:49,451 --> 00:05:51,793
+sleep fourteen to seventeen hours a day.
+
+161
+00:05:52,653 --> 00:05:54,053
+There is a second idea.
+
+162
+00:05:54,413 --> 00:05:56,415
+Learning all day makes the connections
+
+163
+00:05:56,435 --> 00:05:58,753
+between brain cells bigger and stronger,
+
+164
+00:05:58,893 --> 00:06:00,563
+and that can't go on forever.
+
+165
+00:06:00,973 --> 00:06:01,773
+In mice,
+
+166
+00:06:01,793 --> 00:06:03,270
+a few hours of sleep shrank
+
+167
+00:06:03,290 --> 00:06:05,743
+those connections by about eighteen percent,
+
+168
+00:06:05,883 --> 00:06:08,501
+turning down the noise so the next day has room.
+
+169
+00:06:09,451 --> 00:06:12,281
+And it has been measured since nineteen twenty-four.
+
+170
+00:06:12,601 --> 00:06:14,729
+People remember more after sleeping than
+
+171
+00:06:14,749 --> 00:06:16,563
+after the same hours awake.
+
+172
+00:06:17,403 --> 00:06:18,319
+So, sleep on it,
+
+173
+00:06:18,339 --> 00:06:19,206
+is real advice.
+
+174
+00:06:19,226 --> 00:06:21,688
+Your brain does its filing at night.
+
+175
+00:06:23,678 --> 00:06:24,618
+Chapter six.
+
+176
+00:06:24,638 --> 00:06:26,171
+Sleeping dangerously.
+
+177
+00:06:26,851 --> 00:06:28,431
+If sleep is so risky,
+
+178
+00:06:28,481 --> 00:06:30,601
+how do wild animals get away with it?
+
+179
+00:06:30,851 --> 00:06:32,831
+Some of their tricks are unbelievable.
+
+180
+00:06:33,301 --> 00:06:35,751
+Dolphins sleep with half a brain at a time.
+
+181
+00:06:36,051 --> 00:06:37,161
+One half rests,
+
+182
+00:06:37,181 --> 00:06:38,751
+while the other keeps them swimming,
+
+183
+00:06:38,771 --> 00:06:40,179
+and coming up to breathe.
+
+184
+00:06:41,149 --> 00:06:44,339
+Frigatebirds fly over the ocean for weeks without landing.
+
+185
+00:06:44,699 --> 00:06:45,969
+They sleep in the air,
+
+186
+00:06:46,039 --> 00:06:48,109
+only about forty-two minutes a day,
+
+187
+00:06:48,129 --> 00:06:49,351
+in short bursts.
+
+188
+00:06:50,301 --> 00:06:52,444
+Nesting chinstrap penguins take more than
+
+189
+00:06:52,464 --> 00:06:54,021
+ten thousand naps a day,
+
+190
+00:06:54,131 --> 00:06:55,841
+each about four seconds long.
+
+191
+00:06:56,131 --> 00:06:58,138
+It adds up to eleven hours.
+
+192
+00:06:59,188 --> 00:07:02,138
+Wild elephants get by on about two hours,
+
+193
+00:07:02,198 --> 00:07:03,748
+the least of any mammal measured.
+
+194
+00:07:04,068 --> 00:07:07,047
+A little brown bat in a lab slept almost twenty.
+
+195
+00:07:07,987 --> 00:07:10,877
+And the upside-down jellyfish has no brain at all.
+
+196
+00:07:11,167 --> 00:07:12,657
+Yet it goes quiet at night,
+
+197
+00:07:12,697 --> 00:07:14,618
+and gets sluggish if you keep it up.
+
+198
+00:07:15,648 --> 00:07:18,718
+Every animal studied closely pays the price of sleep,
+
+199
+00:07:18,808 --> 00:07:20,308
+one way or another.
+
+200
+00:07:20,788 --> 00:07:23,888
+The sleep scientist Allan Rechtschaffen liked to say:
+
+201
+00:07:24,158 --> 00:07:27,398
+if sleep does not serve an absolutely vital function,
+
+202
+00:07:27,508 --> 00:07:30,673
+then it is the biggest mistake evolution ever made.
+
+203
+00:07:32,113 --> 00:07:33,923
+So, why do we have to sleep?
+
+204
+00:07:34,363 --> 00:07:35,713
+There isn't one answer.
+
+205
+00:07:36,033 --> 00:07:37,503
+Sleep repairs the body,
+
+206
+00:07:37,523 --> 00:07:38,993
+backs up the immune system,
+
+207
+00:07:39,053 --> 00:07:40,483
+files away memories,
+
+208
+00:07:40,503 --> 00:07:42,573
+and resets the brain for another day.
+
+209
+00:07:43,513 --> 00:07:45,453
+And scientists keep finding more.
+
+210
+00:07:45,873 --> 00:07:46,823
+Just this month,
+
+211
+00:07:47,003 --> 00:07:49,888
+a review of fifty-seven brain scan studies linked
+
+212
+00:07:49,908 --> 00:07:53,174
+sleep disorders to changes deep inside the brain.
+
+213
+00:07:54,014 --> 00:07:58,474
+Skip sleep, and you pay fast.
+
+214
+00:07:58,594 --> 00:08:00,854
+After seventeen to nineteen hours awake,
+
+215
+00:08:00,874 --> 00:08:02,250
+people did as badly on some tests
+
+216
+00:08:02,270 --> 00:08:03,612
+as they did with a blood alcohol
+
+217
+00:08:03,632 --> 00:08:05,509
+level of zero point zero five percent.
+
+218
+00:08:06,489 --> 00:08:07,519
+For most adults,
+
+219
+00:08:07,539 --> 00:08:09,859
+the target is at least seven hours a night.
+
+220
+00:08:10,609 --> 00:08:12,579
+That third of your life isn't wasted.
+
+221
+00:08:12,789 --> 00:08:15,055
+It is what makes the other two thirds work.
+
+222
+00:08:16,385 --> 00:08:17,395
+If you enjoyed this,
+
+223
+00:08:17,415 --> 00:08:19,705
+give it a like,
+
+224
+00:08:19,925 --> 00:08:21,305
+and subscribe to Whyverse.
+
+225
+00:08:21,325 --> 00:08:22,875
+And for shorter stories,
+
+226
+00:08:22,895 --> 00:08:23,505
+find us on Instagram and TikTok.
+
+227
+00:08:23,715 --> 00:08:24,376
+Sleep well.
+

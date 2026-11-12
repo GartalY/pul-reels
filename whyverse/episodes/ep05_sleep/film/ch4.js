@@ -98,6 +98,8 @@
     P.paper(ctx, t, { tint: C.mint });
     const kf = P.pop(t, ev.c4_flies, 0.4); if (kf > 0) { fly(ctx, 300 + Math.sin(t * 7) * 14, 330 + Math.cos(t * 9) * 10, 90 * kf, t); P.label(ctx, 'fruit flies', 300, 480, { align: 'center', size: 42, color: C.ink, alpha: kf }); }
     const km = P.pop(t, ev.c4_mice, 0.4); if (km > 0) { P.animal(ctx, 'rat', 300, 720, 110 * km, { t, sleep: false }); P.label(ctx, 'mice', 300, 850, { align: 'center', size: 42, color: C.ink, alpha: km }); }
+    P.write(ctx, 'what is not in doubt:', 1080, 190, t, ev.c4_s5 + 0.25, { size: 96, dur: 0.7, underline: C.mint, t1: ev.c4_whole - 0.2 });
+    { const kq = P.pop(t, ev.c4_s5 + 0.5, 0.4) * P.fout(t, ev.c4_gut - 0.9, 0.3); if (kq > 0) P.at(ctx, 1080, 560, kq, 0.05 * Math.sin(t * 2.5), () => { P.ell(ctx, 0, 0, 150, 150, C.mint, { seed: 7 }); P.line(ctx, -60, 0, -15, 55, C.cream, 26, 1); P.line(ctx, -15, 55, 75, -60, C.cream, 26, 1); }); }
     P.tag(ctx, 'kept from sleeping', 300, 150, t, ev.c4_flies + 0.2, 1e9, { size: 44, border: C.coral });
     // the gut
     const kg = P.fin(t, ev.c4_gut - 1.0, 0.6); const gut = []; for (let i = 0; i <= 40; i++) { const u = i / 40; gut.push([720 + u * 560 + Math.sin(u * 22) * 20, 330 + u * 420 + Math.sin(u * 12.566) * 150]); }

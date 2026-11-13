@@ -30,3 +30,4 @@
 - 2026-11-12: Şirəli Müslümov 168 (Lerik), Venera 460 °C hottest planet, Tristan-da-Kunya (backup), Teymur Rəcəbov beat Kasparov at 15
 - 2026-11-13 trend (09:10 pick for 18:30): AZ–UK strategic partnership Dublin 12 Nov + Jenkinson in Shamakhi 18 Aug 1562
 - 2026-11-14 (planned): Ismailiyya Palace 2/2 (1908–1913, Ploszko, son Ismayil, Academy of Sciences) · Hirkan forests 25–50 million years, UNESCO 2023 (18:30 animated backup)
+- 2026-11-14 13:00: İsmailiyyə sarayı (Musa Nağıyev 2/2)

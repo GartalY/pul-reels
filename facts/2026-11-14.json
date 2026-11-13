@@ -1,6 +1,6 @@
 {
  "date": "2026-11-14",
- "status": "planned",
+ "status": "13:00 scheduled (static, no voice); 18:30 animated Arif reel = 14:47/15:23 tasks",
  "format": "v2",
  "content_format": "quality_reset_2026-11-12",
  "planned_note": "Planned in the 2026-11-13 09:10 run. Sat 14 Nov: 13:00 static factgen reel (no voice per 1i) = facts[0] Ismailiyya Palace, part 2/2 of the Musa Naghiyev story (part 1 aired 13 Nov 13:00). 18:30 animated 60 fps reel = the freshest trend (15:23 task decides; candidate: AZ national team's result at Liechtenstein, played 13 Nov 23:45 Baku) else facts[1] Hyrcanian forests (animated, Arif voice). No carousels/quizzes/stories.",
@@ -106,5 +106,15 @@
     "https://unesco.az/en/articles/news/azerbaycanin-hirkan-meseleri-unesco-nun-umumdunya-irs-siyahisina-daxil-edilib"
    ]
   }
- ]
+ ],
+ "metricool": {
+  "13:00 reel (İsmailiyyə 2/2, static, silent)": 427203903
+ },
+ "tiktok": {
+  "13:00 İsmailiyyə 2/2": 427204126
+ },
+ "youtube": {
+  "13:00 İsmailiyyə 2/2": 427204153
+ },
+ "scheduled_check": "20:54 13 Nov: getScheduledPosts for 14 Nov was empty before creating (no old-format 16:00/21:30/11:00/19:45 posts)"
 }

@@ -237,5 +237,20 @@
   "checked_at": "09:10-09:45 Baku 13 Nov",
   "choice": "AZ–UK Strategic Partnership declaration (Dublin, 12 Nov) + 1562 Jenkinson-in-Shamakhi twist",
   "why": "Freshest AZ story with wide coverage on apa/report/trend; neutral official news (AZ POLITICS RULE); history twist gives the AZ angle that performs (E5)."
+ },
+ "reel_1830": {
+  "topic": "Azərbaycan–Böyük Britaniya strateji tərəfdaşlıq bəyannaməsi (Dublin, 12 Nov 2026) + Anthony Jenkinson in Shamakhi, 18 Aug 1562 → 464 years",
+  "trend_check_2": "14:50 Baku 13 Nov: re-scanned apa.az feed (to 12:52), trend.az, report.az/azertag, 10things global 13 Nov (Ukraine talks, Hormuz/Brent, Indonesia VP resigns, Nvidia/Huang successor). Nothing fresher/AZ-hotter that fits the rules (MFA note on EPC documents skipped: diplomatic dispute angle; AZ–Liechtenstein kicks off after our slot). Kept the 09:10 trend.",
+  "sources": [
+   "https://en.apa.az/ (full declaration text, 12 Nov 23:07)",
+   "https://report.az/en (12 Nov 23:22)",
+   "https://www.trend.az/azerbaijan (12 Nov 23:13)",
+   "Kazinform 13 Nov 08:15 (international)",
+   "https://www.iranicaonline.org/articles/jenkinson-anthony (Shemakha 18 Aug 1562, ʿAbdallāh Khān, trading privileges)",
+   "https://en.wikipedia.org/wiki/Abdollah_Khan_Ustajlu (governor of Shirvan, received Jenkinson)"
+  ],
+  "voice_text": "Dörd yüz altmış dörd il. Şamaxıdan Dublinə qədər. Dünən Dublində Azərbaycan və Böyük Britaniya strateji tərəfdaşlıq bəyannaməsi imzaladı. Sənəd üç sahəni əhatə edir: müdafiə, ticarət və təhsil. Amma bu hekayə daha qədimdir. Min beş yüz altmış ikinci ildə ingilis taciri Entoni Cenkinson Şamaxıya gəlib. Şirvan hakimi Abdulla xan ingilis tacirlərinə ticarət icazəsi verib. Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+  "words": 62,
+  "language_check": "section L: short sentences, ordinal 'min beş yüz altmış ikinci ildə', 'X-i əhatə edir', no TR/RU calques; PM name kept out; no praise words (AZ POLITICS RULE)."
  }
 }

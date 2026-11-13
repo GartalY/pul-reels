@@ -56,6 +56,10 @@ or ≥ 1 reel > 5,000 views; Whyverse: any platform growing week over week. Repo
 1i. NO BANU (Gartal 2026-11-13 02:28: "I don't want Banu voice. I want Arif."): Banu is retired everywhere. 18:30 animated reel =
    Arif (retry every 3 min until 17:40; if still nothing, captions only). 13:00 static reel = no voice (keeps Arif's free credits
    for 18:30). All tasks run on claude-opus-5-5 — never Fable (Gartal).
+1j. INSTAGRAM TRIAL REELS (Gartal 2026-11-14 "why are we not doing test reels?"): the 13:00 static reel goes to Instagram as
+   instagramData.type "TRIAL_REEL" (shown first to non-followers only; Metricool supports it). 18:30 animated reel stays a normal REEL.
+   Compare 13:00 trial vs last weeks' 13:00 normal reels on views from non-followers at the Sunday reviews. Allowed in STEADY PERIOD
+   (distribution setting, not a new format).
 2. AZ POLITICS RULE (Gartal 2026-11-12, replaces every "never Azerbaijani politics" line): POSITIVE or NEUTRAL official/national
    news about Azerbaijan is allowed — e.g. the President attending COP31 in Antalya, and that COP29 was held in Baku in Nov 2024;
    national achievements, international events hosted, firsts, records. Facts only, verified from 2 sources (azertag.az, apa.az,

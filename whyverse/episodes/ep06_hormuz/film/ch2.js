@@ -77,7 +77,7 @@
   }, { in: { type: 'fade', dur: 0.4 } });
 
   // S5 — most of it heads east: >80 % of the crude goes to Asia
-  P.ASIA = [33, -8, 146, 46];
+  P.ASIA = [33, -8, 154, 46];
   P.shot(ev.c2_s5, (ctx, t) => {
     const m = P.mkMap('asia', P.ASIA); const hz = m.ll(56.4, 26.5);
     ctx.save(); const cam = P.cam(ctx, t, ev.c2_s5, ev.c2_s5 + 2.0, { x: hz[0] + 40, y: hz[1], z: 2.2 }, { x: 960, y: 560, z: 1.0 });

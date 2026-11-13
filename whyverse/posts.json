@@ -716,6 +716,49 @@
    "network": "tiktok",
    "metricool_id": 425582116,
    "title": "Nvidia's $600 Billion Jensen Huang Scandal"
+  },
+  {
+   "episode": "ep06_hormuz",
+   "kind": "long",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep06/ep06_hormuz_long.mp4",
+   "time_london": "2026-11-13T19:00",
+   "time_baku": "2026-11-13T23:00",
+   "network": "youtube",
+   "metricool_id": 426420478,
+   "title": "Why Can One Narrow Strait Shake the World? (Strait of Hormuz)",
+   "style": "flat",
+   "fps": 60,
+   "ai_label": true
+  },
+  {
+   "episode": "ep06_hormuz",
+   "kind": "short",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep06/ep06_s1_33km_gap.mp4",
+   "time_london": "2026-11-15T23:00",
+   "time_baku": "2026-11-16T03:00",
+   "network": "youtube",
+   "metricool_id": 426420622,
+   "ai_label": true
+  },
+  {
+   "episode": "ep06_hormuz",
+   "kind": "short",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep06/ep06_s1_33km_gap.mp4",
+   "time_london": "2026-11-15T23:00",
+   "time_baku": "2026-11-16T03:00",
+   "network": "instagram",
+   "metricool_id": 426420634,
+   "ai_label": true
+  },
+  {
+   "episode": "ep06_hormuz",
+   "kind": "short",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep06/ep06_s1_33km_gap.mp4",
+   "time_london": "2026-11-15T23:00",
+   "time_baku": "2026-11-16T03:00",
+   "network": "tiktok",
+   "metricool_id": 426420641,
+   "ai_label": true
   }
  ]
 }

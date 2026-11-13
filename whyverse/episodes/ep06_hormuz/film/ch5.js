@@ -100,7 +100,7 @@
     ctx.save(); const cam = P.cam(ctx, t, ev.c5_s6, ev.c5_s6 + 14, { x: c[0], y: c[1], z: 2.7 }, { x: c[0] + 20, y: c[1], z: 2.95 }, (x) => x);
     P.drawMap(ctx, m, { sea: C.sea, z: cam.z, colors: { Oman: C.sand } });
     const cl = P.LANE.map(([lo, la]) => m.ll(lo, la)); P.trace(ctx, cl, 1, 'rgba(255,255,255,0.35)', 3 / cam.z, 1, [8 / cam.z, 8 / cam.z]);
-    for (let i = 0; i < 2; i++) { const u = ((t - ev.c5_s6) * 0.03 + i * 0.5) % 1; const [x, y, a] = P.along(cl, u); P.tankerTop(ctx, x, y, a, 34, { z: cam.z }); }
+    for (let i = 0; i < 3; i++) { const u = ((t - ev.c5_s6) * 0.035 + i * 0.33) % 1; const [x, y, a] = P.along(cl, u); P.tankerTop(ctx, x, y, a, 70, { z: cam.z }); }
     const mn = m.ll(56.55, 26.62); const mk = P.pop(t, ev.c5_mines, 0.4); if (mk > 0) { ctx.save(); ctx.translate(mn[0], mn[1]); ctx.scale(mk / cam.z, mk / cam.z); P.mine(ctx, 0, 0, 30, t); ctx.restore(); }
     ctx.restore();
     P.tag(ctx, 'a fraction of the old traffic', 560, 160, t, ev.c5_autumn, 1e9, { size: 42, fill: C.navy, color: C.cream });

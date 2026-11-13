@@ -30,7 +30,7 @@ def ass_for(t0, t1, path):
         a = c[0]['t']; b = min(c[-1]['end'] + 0.15, cues[k + 1][0]['t'] if k + 1 < len(cues) else c[-1]['end'] + 0.6)
         txt = ' '.join(x['w'] for x in c).upper().replace('{', '').replace('}', '')
         lines.append(f'Dialogue: 0,{ts(a)},{ts(b)},Cap,,0,0,0,,{{\\fad(60,40)}}{txt}')
-    end = t1 - t0; lines.append(f'Dialogue: 1,{ts(t1 - 1.9)},{ts(t1)},Cap,,0,0,0,,{{\\fad(80,0)\\fs96}}FULL VIDEO ON OUR\\NYOUTUBE: WHYVERSE')
+    end = t1 - t0; lines.append(f'Dialogue: 1,{ts(t1 - 1.3)},{ts(t1)},Cap,,0,0,0,,{{\\fad(80,0)\\fs96}}FULL VIDEO ON OUR\\NYOUTUBE: WHYVERSE')
     open(path, 'w').write(hdr + '\n'.join(lines) + '\n')
 
 def overlay(title, path):
@@ -51,7 +51,7 @@ def overlay(title, path):
     im.save(path)
 
 for name, a, b, title in SHORTS:
-    t0 = max(0, LINES[a]['t'] - 0.4); t1 = LINES[b]['end'] + 2.4; dur = t1 - t0
+    t0 = max(0, LINES[a]['t'] - 0.4); t1 = LINES[b]['end'] + 1.35; dur = t1 - t0
     ov = os.path.join(OUT, name + '_ov.png'); overlay(title, ov)
     out = os.path.join(OUT, name + '.mp4')
     ass = os.path.join(OUT, name + '.ass'); ass_for(t0, t1, ass)

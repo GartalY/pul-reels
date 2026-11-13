@@ -1,3 +1,8 @@
+## STEADY PERIOD 2026-11-13 → 2026-12-15 (Gartal: "don't pause anything, keep going, both brands as they are")
+Both brands keep the current setup. NO new formats, slots, styles or voices during this period; Sunday/Wednesday reviews may only
+fix clear failures (broken posts, a format at ≤ 0.5× median two weeks running). Checkpoint 15 Dec: bilirdinizmi IG ≥ 250 followers
+or ≥ 1 reel > 5,000 views; Whyverse: any platform growing week over week. Report the checkpoint honestly.
+
 ## QUALITY RESET 2026-11-12 (Gartal: "posting 4 or 5 times a day, it's not working … come back to quality over quantity") — OVERRIDES EVERYTHING BELOW
 1. bilirdinizmi_az = TWO posts a day on EACH platform (Instagram + TikTok + YouTube Shorts) — Gartal corrected 2026-11-12 14:55:
    - 13:00 = static factgen reel ("photo + words", the classic format) from facts[0] — built the evening before by the 20:45 task.

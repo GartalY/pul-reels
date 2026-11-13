@@ -759,6 +759,49 @@
    "network": "tiktok",
    "metricool_id": 426420641,
    "ai_label": true
+  },
+  {
+   "episode": "short_2026-11-13_nvidia-after-huang",
+   "kind": "trend",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-13_nvidia-after-huang.mp4",
+   "time_london": "2026-11-13T15:00",
+   "time_baku": "2026-11-13T19:00",
+   "style": "navy kinetic type",
+   "political": false,
+   "fps": 60,
+   "ai_label": true,
+   "topic": "FOLLOW-UP to 12 Nov Short: Jensen Huang resigned as Nvidia CEO 12 Nov 2026 effective immediately after 33 years; CFO Colette Kress interim CEO; Harvey Jones first-ever board chair; shares fell >4% Thu; earnings Tue 17 Nov",
+   "network": "youtube",
+   "metricool_id": 426868124,
+   "title": "Nvidia CEO Jensen Huang Resigns: Who Runs Nvidia Now? #shorts"
+  },
+  {
+   "episode": "short_2026-11-13_nvidia-after-huang",
+   "kind": "trend",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-13_nvidia-after-huang.mp4",
+   "time_london": "2026-11-13T15:00",
+   "time_baku": "2026-11-13T19:00",
+   "style": "navy kinetic type",
+   "political": false,
+   "fps": 60,
+   "ai_label": true,
+   "topic": "FOLLOW-UP to 12 Nov Short: Jensen Huang resigned as Nvidia CEO 12 Nov 2026 effective immediately after 33 years; CFO Colette Kress interim CEO; Harvey Jones first-ever board chair; shares fell >4% Thu; earnings Tue 17 Nov",
+   "network": "instagram",
+   "metricool_id": 426868214
+  },
+  {
+   "episode": "short_2026-11-13_nvidia-after-huang",
+   "kind": "trend",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-13_nvidia-after-huang.mp4",
+   "time_london": "2026-11-13T15:00",
+   "time_baku": "2026-11-13T19:00",
+   "style": "navy kinetic type",
+   "political": false,
+   "fps": 60,
+   "ai_label": true,
+   "topic": "FOLLOW-UP to 12 Nov Short: Jensen Huang resigned as Nvidia CEO 12 Nov 2026 effective immediately after 33 years; CFO Colette Kress interim CEO; Harvey Jones first-ever board chair; shares fell >4% Thu; earnings Tue 17 Nov",
+   "network": "tiktok",
+   "metricool_id": 426868634
   }
  ]
 }

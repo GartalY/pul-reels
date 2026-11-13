@@ -1,0 +1,95 @@
+# Ep07 — How much is the whole world actually worth? — SCRIPT
+
+Voice: Kokoro v1.0 int8, af_heart, en-us. One wav per line (vo/<id>.wav). 67 lines, 1297 words.
+
+
+## Cold open — the auction
+
+- `c0_1` Imagine an auction house. The lights dim, the hammer rises, and the auctioneer says: Lot number one. Planet Earth. Everything on it, and everyone.
+- `c0_2` What would you bid? A million dollars? A billion? Every coin in every pocket?
+- `c0_3` People have actually tried to add it all up. Every home, every company, every bar of gold. The total is more than five hundred trillion dollars.
+- `c0_4` But here's the strange part. That giant number leaves out the most valuable thing on the planet. And it isn't gold, or oil, or land.
+- `c0_5` By the end of this video, you'll know the price tag on the whole world, what that number is missing, and why the honest answer might be no price at all.
+- `c0_6` So, how much is the whole world actually worth?
+
+## Chapter 1 — Everything we own
+
+- `c1_1` Chapter one. Everything we own.
+- `c1_1h` Start with a simple question. If you sold everything people own, what would you get?
+- `c1_2` Every year, the bank UBS adds it up: houses, savings, shares and pensions, minus every debt.
+- `c1_3` Add up the figures in its latest report, and people owned about five hundred and eighteen trillion dollars at the end of twenty twenty-five. And that's only the fifty-six markets it tracks.
+- `c1_4` Five hundred trillion is hard to picture. So here's a trick. If you counted one dollar every second, you would need about sixteen million years.
+- `c1_4b` Shared out evenly, that would be about a hundred and thirty thousand dollars for every adult in those markets. But it isn't shared evenly, and most people own far less.
+- `c1_5` In just one year, that pile grew by almost eleven percent, and nearly one million people became dollar millionaires.
+- `c1_6` So where is all this wealth? Mostly, it's right under our feet.
+- `c1_7` The world's buildings and land are worth about three hundred and ninety-three trillion dollars. Almost three quarters of that is homes.
+- `c1_8` Real estate is the largest store of wealth on Earth. It's worth more than all the world's shares, bonds and gold put together.
+- `c1_9` But wait. Isn't the real treasure of the world supposed to be gold?
+
+## Chapter 2 — The gold myth
+
+- `c2_1` Chapter two. The gold myth.
+- `c2_1h` Picture all the gold ever mined, in all of human history. How big a pile do you think that makes?
+- `c2_2` A mountain? A city? It's about two hundred and twenty-four thousand tonnes.
+- `c2_3` Melt it into one cube, and each side would be only about twenty-two and a half metres. It would fit on a football pitch, with room to play around it.
+- `c2_4` Gold is so dense that this one cube holds every wedding ring, every coin, and every bar in every central bank vault.
+- `c2_4b` Almost half of it is jewellery. Only about a fifth sits in central banks.
+- `c2_5` At around three thousand nine hundred dollars an ounce, it's worth about twenty-eight trillion dollars.
+- `c2_6` That sounds huge. But it's only about one twentieth of what people own. The idea that the world's wealth is gold in a vault? That's a myth.
+- `c2_7` So if wealth isn't gold, maybe it's money. Surely there's a giant pile of cash somewhere?
+
+## Chapter 3 — Where is the money?
+
+- `c3_1` Chapter three. Where is the money?
+- `c3_1h` Here's a question that sounds silly. How much of your money actually exists?
+- `c3_2` Take the United States. In September twenty twenty-six, Americans held about twenty-three trillion dollars in cash, bank accounts and savings.
+- `c3_3` But only about two point four trillion of it was real paper and coins. Roughly one dollar in ten.
+- `c3_4` The other nine are just numbers. Digits in bank computers, that move when you tap a card.
+- `c3_4b` Even the money in your bank isn't sitting in a drawer. Banks lend most of it out again, and that loan becomes someone else's deposit.
+- `c3_5` And wealth works the same way. A house is worth five hundred thousand dollars only because someone would pay that today.
+- `c3_6` If everyone tried to sell their home on the same morning, prices would crash. The wealth wouldn't move anywhere. It would simply vanish.
+- `c3_7` So worth isn't a pile of stuff. It's a price. And some of the most valuable things on Earth have no price tag at all.
+
+## Chapter 4 — The free stuff
+
+- `c4_1` Chapter four. The free stuff.
+- `c4_1h` What does the planet do for us every day, without ever sending a bill?
+- `c4_2` Forests clean the air and hold the soil. Wetlands filter water. Bees carry pollen to our crops. Oceans feed billions of people.
+- `c4_3` In twenty fourteen, a team led by the ecologist Robert Costanza tried to estimate what all these services are worth.
+- `c4_4` Their answer: about one hundred and twenty-five trillion dollars, every single year.
+- `c4_5` At the time, the whole world economy produced about seventy-five trillion dollars a year. Nature was doing more work than all of us, for free.
+- `c4_5b` And when forests are cut down or wetlands drained, we lose part of that work. The same study put the loss at somewhere between four and twenty trillion dollars a year.
+- `c4_6` And none of it shows up in the five hundred trillion. Nobody owns the rain, so no bank can count it.
+- `c4_7` It's an estimate, not a price anyone pays. But it raises a bigger question. If the land and the sea aren't fully counted, what else is missing?
+
+## Chapter 5 — The biggest asset is you
+
+- `c5_1` Chapter five. The biggest asset is you.
+- `c5_1h` What if the most valuable thing on Earth is watching this video right now?
+- `c5_2` The World Bank measures wealth a different way. It counts buildings, machines and nature. But it also counts people.
+- `c5_3` Not people for sale, of course. It counts everything people will earn over their working lives. Their skills, their health, their education.
+- `c5_4` Add it all up, and in twenty eighteen the world's total wealth came to about one thousand one hundred and fifty-two trillion dollars. More than a quadrillion.
+- `c5_5` And sixty-four percent of that, almost two thirds, was human capital. Us.
+- `c5_5b` That's why schools and hospitals matter so much to a country's wealth. People aren't just a cost on the balance sheet. They are most of it.
+- `c5_6` Every nurse, every farmer, every student learning something new is part of the biggest asset on the planet. Next to that, all the gold is small change.
+- `c5_7` So now we have a few answers. But what if we tried to price the planet itself? Rock and all?
+
+## Chapter 6 — Pricing a planet
+
+- `c6_1` Chapter six. Pricing a planet.
+- `c6_1h` Let's do the maths, blueprint style. How much would Earth fetch at the scrapyard?
+- `c6_2` Earth weighs about six trillion trillion kilograms. And roughly a third of that is iron, most of it locked in the core.
+- `c6_3` That's about two billion trillion tonnes of iron. And iron ore sells for about ninety dollars a tonne.
+- `c6_4` Multiply, and you get around one hundred and seventy sextillion dollars. That's over three hundred million times everything people own.
+- `c6_4b` Of course, that's nonsense. Nobody can dig out the core, and nobody could buy that much iron. It's like pricing a painting by the weight of its paint.
+- `c6_5` In twenty eleven, the astronomer Greg Laughlin made a playful formula for pricing planets. His estimate for Earth: about five quadrillion dollars.
+- `c6_6` So which number is right? Here's the twist. Neither. A price needs a buyer and a seller. And there's nobody to sell Earth to, and nowhere else to go.
+- `c6_7` No market, no price.
+
+## Payoff + end card
+
+- `c7_1` So, how much is the whole world worth?
+- `c7_2` Count what people own, and it's more than five hundred trillion dollars. Count the people themselves, and it's over a quadrillion. Count nature's free work, and add more than a hundred trillion, every year.
+- `c7_3` But the planet itself? There's no auction, no second Earth, and no bidder. The only honest price is priceless. Not as a slogan, but because there's nothing to compare it to.
+- `c7_4` Back at that auction, the hammer never falls. Because everyone in the room is already standing on the lot.
+- `c7_5` If you enjoyed this, give it a like, and subscribe to Whyverse. And for shorter stories, find us on Instagram and TikTok.

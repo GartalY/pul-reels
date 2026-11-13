@@ -1,0 +1,6 @@
+# Critique — 464 il: Şamaxıdan Dublinə (13 Nov 2026, 18:30, Arif voice)
+Word timing: syllable-weighted on the speech axis between measured pauses (ElevenLabs Scribe was "busy" 3x; torch aligner download blocked).
+R1 (hook 8, read 7, motion 7, variety 9, brand 8, sync 7): rendered 16:9 sheet by mistake (fixed: --format 9x16); Jenkinson walked into the ŞAMAXI sign; silhouettes small in the permit scene; end chip tiny. Fixed: stop point before the sign, silhouettes ×1.25, chip 58 px, timeline labels 52 px.
+R2 (hook 8, read 8, motion 8, variety 9, brand 8, sync 7): document + 3rd card overlapped the bottom timeline; scene-C cut frame empty until "üç"; caravan opened on empty desert. Fixed: paper 840 px high at y 720, cards 250 px pitch, big 3 pops on the cut, walkers start on screen.
+R3 (hook 8, read 8, motion 8, variety 9, brand 8, sync 8): "-ci İL" chip read oddly next to 1562 → "İL"; end-card buttons sat on the timeline → moved up; AZ re-read word by word (STRATEJİ TƏRƏFDAŞLIQ BƏYANNAMƏSİ · 12 NOYABR · DUBLİN · İMZALANDI · SAHƏ · MÜDAFİƏ/TİCARƏT/TƏHSİL · TARİX DAHA QƏDİMDİR · ENTONİ CENKİNSON ingilis taciri · ŞAMAXI · ABDULLA XAN Şirvan hakimi · TİCARƏT İCAZƏSİ · 1562 → 2026 · 464 İL · BƏYƏN · İZLƏ · hər gün bilmədiyin bir fakt).
+Next time: real word alignment (Scribe) instead of the syllable estimate; camel could carry more detail.

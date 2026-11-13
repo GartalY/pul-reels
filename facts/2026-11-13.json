@@ -1,262 +1,275 @@
 {
- "date": "2026-11-13",
- "status": "13:00 scheduled (18:30 = 15:23 task)",
- "format": "v2",
- "content_format": "v4",
- "planned_note": "Planned in the 2026-11-12 09:10 run (v4 + CUTS 9 Nov: no TBG, no quizzes, no reposts; E5 AZ mix). Fri 13 Nov = TWO-PART day: 13:00 AZ reel (VOICED, photo) = Musa Naghiyev part 1/2 (hambal -> 200+ buildings); part 2 = Sat 14 Nov 13:00 Ismailiyya Palace (see facts[0].part2_plan). 16:00 MOTION reel (silent, AZ angle) = Shamakhi observatory 2-m telescope. 18:30 trend backup reel (silent) = Point Nemo 2 688 km / ISS 400 km. 21:30 MOTION reel (AZ) = Caspian 2.45 m drop (Kazakh sector, Euronews). TikTok 18:30 per DECISIONS 9 Nov = the 21:30 Caspian reel (AZ angle). Trend note: AZ national team plays Liechtenstein in Vaduz on 13 Nov (report.az 23:45 Baku) - used as the 12 Nov trend; a match-result trend fits 14 Nov. USAGE FALLBACK: Friday is the day to skip if usage runs low.",
- "facts": [
-  {
-   "n": 1,
-   "type": "reel",
-   "cat": "Azərbaycan",
-   "voiced": true,
-   "two_part": "1/2",
-   "subject": "Musa Naghiyev (Ağa Musa Nağıyev, 1849–1919): 'born into a very poor family near Baku and started working as a cargo carrier (hambal)' (Wikipedia); 'one of the richest oil industrialists in Baku, next to Nobel brothers'; 'His assets were worth 300 million rubles'; 'became the largest rental property owner in Baku owning more than 200 buildings' (Wikipedia). PART 2 (14 Nov 13:00) = Ismailiyya Palace: built 1908–1913 'in commemoration of his deceased son Ismayil' (1875–1902), Polish architect Józef Płoszko, Venetian Gothic, today the Presidium of the Azerbaijan Academy of Sciences, Istiglaliyyat Street (Wikipedia 'Ismailiyya Palace'). Not used: cause of Ismayil's death (not on page), 1918 fire (violence), 'richest man' superlatives.",
-   "photo_request": "Musa Naghiyev portrait (Commons, PD)",
-   "title": "Hambaldan milyonçuya: Musa Nağıyev (1/2)",
-   "text": "Musa Nağıyev gəncliyində hambal işləyirdi. Sonra Bakının ən varlı neftçilərindən biri oldu və şəhərdə 200-dən çox binası vardı.",
-   "reel_hook": "200 BİNA: HAMBALDAN MİLYONÇUYA (1/2)",
-   "reel_beats": [
-    "Musa Nağıyev 1849-cu ildə çox kasıb bir ailədə doğulub. Gəncliyində hambal işləyib: başqalarının yükünü daşıyırdı.",
-    "Sonra neft işinə girdi və Bakının ən varlı neftçilərindən biri oldu. Deyilənə görə, var-dövləti 300 milyon rubl idi.",
-    "Bakıda 200-dən çox binası vardı. Amma onun ən gözəl binası bir kədərin xatirəsidir. 2-ci hissə sabah 13:00-da."
-   ],
-   "voice_texts": [
-    "İki yüz bina. Hambaldan milyonçuya.",
-    "Musa Nağıyev min səkkiz yüz qırx doqquzuncu ildə çox kasıb bir ailədə doğulub. Gəncliyində hambal işləyib, başqalarının yükünü daşıyırdı.",
-    "Sonra neft işinə girdi və Bakının ən varlı neftçilərindən biri oldu. Deyilənə görə, var-dövləti üç yüz milyon rubl idi.",
-    "Bakıda iki yüzdən çox binası vardı. Amma onun ən gözəl binası bir kədərin xatirəsidir. İkinci hissə sabah, saat on üçdə."
-   ],
-   "cta": "2-ci hissə sabah 13:00-da — izlə ki, qaçırmayasan",
-   "caption": "Musa Nağıyev: hambaldan Bakının ən varlı adamlarından birinə (1/2) 🏛️\n\nMusa Nağıyev 1849-cu ildə Bakı yaxınlığında çox kasıb bir ailədə doğulub. Gəncliyində hambal işləyib — başqalarının yükünü daşıyıb. Sonra neft işinə girib və Nobel qardaşlarından sonra Bakının ən varlı neftçilərindən biri olub. Deyilənə görə, var-dövləti 300 milyon rubl idi. Şəhərdə 200-dən çox binası vardı: Bakıda ən çox evi kirayə verən o idi. Amma onun ən gözəl binası bir kədərin xatirəsidir.\n\n2-ci hissə sabah 13:00-da — izlə ki, qaçırmayasan\n\n📩 «Bir gün mən də varlı olacam» deyən dostuna göndər 😄\n\n👉 Hər gün 13:00-da Azərbaycan haqqında bilmədiyin bir fakt — izlə ki, qaçırmayasan\n\nFoto: Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #musanağıyev #bakı #tarix #neft",
-   "first_comment": "Səncə, Nağıyevin ən gözəl binası hansıdır? 👇",
-   "photo": {
-    "path": "fetch/img/2026-11-13_1_naghiyev.jpg",
-    "credit": "Wikimedia Commons (public domain)",
-    "cy": 0.3,
-    "full": true,
-    "source": "https://commons.wikimedia.org/wiki/File:Musa_Nagiyev.jpg",
-    "note": "1296x1725 portrait, PD (early 1900s studio photo, author unknown): Naghiyev seated with a cane, papakha hat. Checked at full size: no watermark/logos, light scratches only. Face in the upper third -> cy 0.3. Spare: 2026-11-13_1_naghiyev_levin.jpg (Henry Levin, PD, 1042x1300). Faces beat symbols (section P)."
-   },
-   "sources": [
-    "https://en.wikipedia.org/wiki/Musa_Naghiyev",
-    "https://en.wikipedia.org/wiki/Ismailiyya_Palace"
-   ],
-   "part2_plan": {
-    "date": "2026-11-14",
-    "slot": "13:00",
-    "title": "Oğlunun xatirəsinə saray: İsmailiyyə (2/2)",
-    "hook": "5 İL: OĞLUNUN XATİRƏSİNƏ SARAY (2/2)",
-    "beats_draft": [
-     "1-ci hissədən qısa: hambaldan milyonçu olan Musa Nağıyevin oğlu İsmayıl 1902-ci ildə gənc yaşda öldü.",
-     "Nağıyev onun xatirəsinə 1908–1913-cü illərdə İstiqlaliyyət küçəsində saray tikdirdi: memarı polyak İosif Ploşko idi.",
-     "Binanı «İsmailiyyə» adlandırdı. Bu gün orada Azərbaycan Elmlər Akademiyasının Rəyasət Heyəti yerləşir."
+  "date": "2026-11-13",
+  "status": "13:00 + 18:30 scheduled (18:30 = animated Arif reel)",
+  "format": "v2",
+  "content_format": "v4",
+  "planned_note": "Planned in the 2026-11-12 09:10 run (v4 + CUTS 9 Nov: no TBG, no quizzes, no reposts; E5 AZ mix). Fri 13 Nov = TWO-PART day: 13:00 AZ reel (VOICED, photo) = Musa Naghiyev part 1/2 (hambal -> 200+ buildings); part 2 = Sat 14 Nov 13:00 Ismailiyya Palace (see facts[0].part2_plan). 16:00 MOTION reel (silent, AZ angle) = Shamakhi observatory 2-m telescope. 18:30 trend backup reel (silent) = Point Nemo 2 688 km / ISS 400 km. 21:30 MOTION reel (AZ) = Caspian 2.45 m drop (Kazakh sector, Euronews). TikTok 18:30 per DECISIONS 9 Nov = the 21:30 Caspian reel (AZ angle). Trend note: AZ national team plays Liechtenstein in Vaduz on 13 Nov (report.az 23:45 Baku) - used as the 12 Nov trend; a match-result trend fits 14 Nov. USAGE FALLBACK: Friday is the day to skip if usage runs low.",
+  "facts": [
+    {
+      "n": 1,
+      "type": "reel",
+      "cat": "Azərbaycan",
+      "voiced": true,
+      "two_part": "1/2",
+      "subject": "Musa Naghiyev (Ağa Musa Nağıyev, 1849–1919): 'born into a very poor family near Baku and started working as a cargo carrier (hambal)' (Wikipedia); 'one of the richest oil industrialists in Baku, next to Nobel brothers'; 'His assets were worth 300 million rubles'; 'became the largest rental property owner in Baku owning more than 200 buildings' (Wikipedia). PART 2 (14 Nov 13:00) = Ismailiyya Palace: built 1908–1913 'in commemoration of his deceased son Ismayil' (1875–1902), Polish architect Józef Płoszko, Venetian Gothic, today the Presidium of the Azerbaijan Academy of Sciences, Istiglaliyyat Street (Wikipedia 'Ismailiyya Palace'). Not used: cause of Ismayil's death (not on page), 1918 fire (violence), 'richest man' superlatives.",
+      "photo_request": "Musa Naghiyev portrait (Commons, PD)",
+      "title": "Hambaldan milyonçuya: Musa Nağıyev (1/2)",
+      "text": "Musa Nağıyev gəncliyində hambal işləyirdi. Sonra Bakının ən varlı neftçilərindən biri oldu və şəhərdə 200-dən çox binası vardı.",
+      "reel_hook": "200 BİNA: HAMBALDAN MİLYONÇUYA (1/2)",
+      "reel_beats": [
+        "Musa Nağıyev 1849-cu ildə çox kasıb bir ailədə doğulub. Gəncliyində hambal işləyib: başqalarının yükünü daşıyırdı.",
+        "Sonra neft işinə girdi və Bakının ən varlı neftçilərindən biri oldu. Deyilənə görə, var-dövləti 300 milyon rubl idi.",
+        "Bakıda 200-dən çox binası vardı. Amma onun ən gözəl binası bir kədərin xatirəsidir. 2-ci hissə sabah 13:00-da."
+      ],
+      "voice_texts": [
+        "İki yüz bina. Hambaldan milyonçuya.",
+        "Musa Nağıyev min səkkiz yüz qırx doqquzuncu ildə çox kasıb bir ailədə doğulub. Gəncliyində hambal işləyib, başqalarının yükünü daşıyırdı.",
+        "Sonra neft işinə girdi və Bakının ən varlı neftçilərindən biri oldu. Deyilənə görə, var-dövləti üç yüz milyon rubl idi.",
+        "Bakıda iki yüzdən çox binası vardı. Amma onun ən gözəl binası bir kədərin xatirəsidir. İkinci hissə sabah, saat on üçdə."
+      ],
+      "cta": "2-ci hissə sabah 13:00-da — izlə ki, qaçırmayasan",
+      "caption": "Musa Nağıyev: hambaldan Bakının ən varlı adamlarından birinə (1/2) 🏛️\n\nMusa Nağıyev 1849-cu ildə Bakı yaxınlığında çox kasıb bir ailədə doğulub. Gəncliyində hambal işləyib — başqalarının yükünü daşıyıb. Sonra neft işinə girib və Nobel qardaşlarından sonra Bakının ən varlı neftçilərindən biri olub. Deyilənə görə, var-dövləti 300 milyon rubl idi. Şəhərdə 200-dən çox binası vardı: Bakıda ən çox evi kirayə verən o idi. Amma onun ən gözəl binası bir kədərin xatirəsidir.\n\n2-ci hissə sabah 13:00-da — izlə ki, qaçırmayasan\n\n📩 «Bir gün mən də varlı olacam» deyən dostuna göndər 😄\n\n👉 Hər gün 13:00-da Azərbaycan haqqında bilmədiyin bir fakt — izlə ki, qaçırmayasan\n\nFoto: Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #musanağıyev #bakı #tarix #neft",
+      "first_comment": "Səncə, Nağıyevin ən gözəl binası hansıdır? 👇",
+      "photo": {
+        "path": "fetch/img/2026-11-13_1_naghiyev.jpg",
+        "credit": "Wikimedia Commons (public domain)",
+        "cy": 0.3,
+        "full": true,
+        "source": "https://commons.wikimedia.org/wiki/File:Musa_Nagiyev.jpg",
+        "note": "1296x1725 portrait, PD (early 1900s studio photo, author unknown): Naghiyev seated with a cane, papakha hat. Checked at full size: no watermark/logos, light scratches only. Face in the upper third -> cy 0.3. Spare: 2026-11-13_1_naghiyev_levin.jpg (Henry Levin, PD, 1042x1300). Faces beat symbols (section P)."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Musa_Naghiyev",
+        "https://en.wikipedia.org/wiki/Ismailiyya_Palace"
+      ],
+      "part2_plan": {
+        "date": "2026-11-14",
+        "slot": "13:00",
+        "title": "Oğlunun xatirəsinə saray: İsmailiyyə (2/2)",
+        "hook": "5 İL: OĞLUNUN XATİRƏSİNƏ SARAY (2/2)",
+        "beats_draft": [
+          "1-ci hissədən qısa: hambaldan milyonçu olan Musa Nağıyevin oğlu İsmayıl 1902-ci ildə gənc yaşda öldü.",
+          "Nağıyev onun xatirəsinə 1908–1913-cü illərdə İstiqlaliyyət küçəsində saray tikdirdi: memarı polyak İosif Ploşko idi.",
+          "Binanı «İsmailiyyə» adlandırdı. Bu gün orada Azərbaycan Elmlər Akademiyasının Rəyasət Heyəti yerləşir."
+        ],
+        "photo": "Ismailiyya facade, Commons (Diego Delso CC BY-SA 4.0 panorama or Urek Meniashvili CC BY-SA 3.0 portrait JPG)",
+        "first_comment": "1-ci hissə profildədir 👆"
+      },
+      "language_fix": "20:45 run: beat 1 shortened (dropped 'Bakı yaxınlığında') to keep the voiced reel near 30 s",
+      "build": {
+        "file": "out/2026-11-13/1_reel.mp4",
+        "dur_s": 31.6,
+        "voice": "az-AZ-BanuNeural +15%",
+        "sound": "ambience, no music",
+        "hook_bg": true
+      }
+    },
+    {
+      "n": 2,
+      "type": "reel",
+      "cat": "Kosmos",
+      "voiced": false,
+      "motion": true,
+      "subject": "Shamakhy Astrophysical Observatory named after Nasreddin Tusi: established 17 Nov 1959 (decree No. 975, Wikipedia; shao.az 'established in 1959'); eastern part of Mount Pirkuli, 'altitude of 1435–1500 m' (Wikipedia), shao.az 'height 1500 m', '150 km from Baku'; 2-m reflector by Carl Zeiss Jena (GDR) 'put into operation in September 1966' and 'the third-largest in the former USSR' (Wikipedia; shao.az 'commissioned in September 1966'); named after Tusi in 1981 (both). Not used: 'largest in the Caucasus' (not on pages read).",
+      "photo_request": "Shamakhi observatory dome (Commons)",
+      "title": "2 metrlik güzgü: Şamaxının teleskopu",
+      "text": "Şamaxı yaxınlığında, dağın başında 2 metrlik güzgüsü olan teleskop var. 1966-cı ildə işə düşəndə SSRİ-nin üçüncü ən böyük teleskopu idi.",
+      "reel_hook": "2 METRLİK GÜZGÜ: ŞAMAXININ TELESKOPU",
+      "reel_beats": [
+        "Şamaxıda, Pirqulu yaxınlığında dağın başında rəsədxana var. O, Bakıdan 150 kilometr uzaqda, təxminən 1 500 metr hündürlükdədir.",
+        "Onun ən böyük teleskopunun güzgüsü 2 metrdir. Teleskopu Almaniyada «Carl Zeiss» zavodu düzəldib, 1966-cı ildə işə salıblar.",
+        "O vaxt bu, SSRİ-nin üçüncü ən böyük teleskopu idi. Rəsədxana 1959-cu ildə açılıb və Nəsirəddin Tusinin adını daşıyır."
+      ],
+      "cta": "Hər gün yeni fakt — izlə!",
+      "caption": "Şamaxıda 2 metrlik güzgüsü olan teleskop var 🔭\n\nŞamaxı Astrofizika Rəsədxanası Pirqulu yaxınlığında, dağın başında, təxminən 1 500 metr hündürlükdədir — Bakıdan 150 kilometr uzaqda. Onun ən böyük teleskopunun güzgüsü 2 metrdir. Teleskopu Almaniyada «Carl Zeiss» zavodu düzəldib və 1966-cı ilin sentyabrında işə salıblar: o vaxt bu, SSRİ-nin üçüncü ən böyük teleskopu idi. Rəsədxana 1959-cu ildə yaradılıb, 1981-ci ildən Nəsirəddin Tusinin adını daşıyır.\n\n📩 Ulduzlara baxmağı sevən dostuna göndər — Şamaxıya gedək 🌌\n\n👉 Hər gün yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Uzeyir Mikayilov / Wikimedia Commons\n\n#bilirdinizmi #şamaxı #rəsədxana #kosmos #azərbaycan",
+      "first_comment": "Sən Şamaxı rəsədxanasında olmusan? 👇",
+      "photo": {
+        "path": "fetch/img/2026-11-13_2_shao_telescope0.jpg",
+        "credit": "Uzeyir Mikayilov / Wikimedia Commons",
+        "cy": 0.45,
+        "full": true,
+        "source": "https://commons.wikimedia.org/wiki/File:Telescope_in_Pirgulu_State_Reserve_Observatory._Photo_by_Uzeyir_Mikayilov_0.jpg",
+        "note": "1920x1440 landscape (4000x3000 original, listed Public domain on Commons). Big silver dome of the Pirqulu observatory, green trees, grey sky; checked at full size: no watermark/text. Caption does not claim this is the 2-m dome. Spare: _telescope.jpg (Mikayilov CC BY-SA 4.0, smaller dome on a meadow). Motion build: dome photo as background + kinetic counters (2 m, 1966, 1 500 m)."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shamakhy_Astrophysical_Observatory",
+        "https://shao.az/en/content/1"
+      ]
+    },
+    {
+      "n": 3,
+      "type": "reel",
+      "cat": "Coğrafiya",
+      "voiced": false,
+      "subject": "Point Nemo (oceanic pole of inaccessibility, South Pacific): 'about 2,688km (1,670 miles) from the nearest land mass' - Ducie Island (N), Motu Nui (NE), Maher Island (S); ISS 'orbits Earth at an altitude of about 400km'; 'the closest human beings to you would be astronauts on the International Space Station, should the ISS happen to be passing overhead'; 'spacecraft cemetery' where agencies de-orbit defunct spacecraft; Mir 'intentionally de-orbited to Point Nemo in 2001' (BBC Sky at Night Magazine, 15 Jun 2025).",
+      "photo_request": "open ocean from above (Unsplash)",
+      "title": "Ən yaxın insanlar kosmosdadır",
+      "text": "Sakit okeandakı Nemo nöqtəsindən ən yaxın quruya 2 688 km var. Kosmik stansiya üstündən keçəndə ən yaxın insanlar astronavtlar olur.",
+      "reel_hook": "2 688 KM: ƏN YAXIN İNSANLAR KOSMOSDADIR",
+      "reel_beats": [
+        "Sakit okeanda Nemo nöqtəsi adlı bir yer var. Oradan ən yaxın quruya qədər təxminən 2 688 kilometrdir.",
+        "Beynəlxalq Kosmik Stansiya isə Yerdən təxminən 400 kilometr yüksəkdə uçur. O, üstündən keçəndə ən yaxın insanlar astronavtlar olur.",
+        "Ona görə köhnə peykləri və kosmik gəmiləri məhz bura salırlar. 2001-ci ildə «Mir» stansiyası da burada okeana düşüb."
+      ],
+      "cta": "Hər gün yeni fakt — izlə!",
+      "caption": "Nemo nöqtəsi: ən yaxın insanlar 400 km yuxarıdadır 🌊\n\nSakit okeanın ortasında Nemo nöqtəsi adlı bir yer var — quruya ən uzaq yer. Oradan ən yaxın adaya qədər təxminən 2 688 kilometrdir. Beynəlxalq Kosmik Stansiya isə Yerdən təxminən 400 kilometr yüksəkdə uçur, ona görə o, üstündən keçəndə ən yaxın insanlar astronavtlar olur. Bu yer «kosmik gəmilər qəbiristanlığı» da adlanır: köhnə peykləri məhz bura salırlar. 2001-ci ildə «Mir» stansiyası da burada okeana düşüb.\n\n📩 «Məni heç kim tapa bilməz» deyən dostuna göndər 😄\n\n👉 Hər gün yeni fakt — izlə ki, qaçırmayasan\n\nFoto: ITT CU / Unsplash\n\n#bilirdinizmi #okean #kosmos #coğrafiya",
+      "first_comment": "Sən Nemo nöqtəsinə getmək istərdin? 👇",
+      "photo": {
+        "path": "fetch/img/2026-11-13_3_ocean.jpg",
+        "credit": "ITT CU / Unsplash",
+        "cy": 0.5,
+        "full": true,
+        "source": "https://unsplash.com/photos/H_oJiZ6fu3A",
+        "note": "1800x2700 portrait, Unsplash alt 'Aerial view of white cumulus clouds floating above a deep blue ocean' (generic ocean, not Point Nemo itself - fine for a 'middle of nowhere' symbol). Checked: no watermark/logos/people. Download recorded via Unsplash download_asset."
+      },
+      "sources": [
+        "https://www.skyatnightmagazine.com/earth-from-space/point-nemo"
+      ]
+    },
+    {
+      "n": 4,
+      "type": "reel",
+      "cat": "Azərbaycan",
+      "voiced": false,
+      "motion": true,
+      "subject": "Caspian Sea shrinking (Euronews, 7 Oct 2026, Meruyert Zhakiyanova): 'the Caspian Sea level in the Kazakh sector fell from -26.82 metres in 1996 to -29.27 metres in 2025' = 'a decline of 2.45 metres over the past three decades, or an average of around 8–9 centimetres per year'; 'between 2000 and 2025, the area covered by water in the studied part of the north-eastern Caspian decreased by around 16,384 square kilometres'; a new island 'spotted days ago near Kulaly Island during a recent aerial survey', islands ~1 km long, 200–300 m wide. Figures are for the Kazakh sector -> said so on screen. Baku lies on the Caspian (standard). Not used: Albania-size comparison (Caspian Post page not read), 2050 scenarios.",
+      "photo_request": "Shrinking Caspian Sea MODIS satellite image (NASA, Commons)",
+      "title": "Xəzər 30 ildə 2,45 metr alçalıb",
+      "text": "Qazaxıstan sahilində Xəzərin səviyyəsi 1996-cı ildən 2025-ci ilə qədər 2,45 metr düşüb. Su çəkildikcə yeni adalar çıxır.",
+      "reel_hook": "2,45 METR: XƏZƏR ALÇALIR",
+      "reel_beats": [
+        "Xəzər dənizi alçalır. Qazaxıstan sahilində su 1996-cı ildən 2025-ci ilə qədər 2,45 metr düşüb.",
+        "Bu, ildə orta hesabla 8–9 santimetr edir. Şimal-şərqdə 25 ildə təxminən 16 min kvadrat kilometr dəniz quruya çevrilib.",
+        "Su çəkildikcə yeni adalar çıxır. Bu payız Qazaxıstan sahilində, Kulalı adası yaxınlığında daha biri göründü."
+      ],
+      "cta": "Hər gün yeni fakt — izlə!",
+      "caption": "Xəzər dənizi 30 ildə 2,45 metr alçalıb 🌊\n\nXəzər dənizi kiçilir. Qazaxıstan sahilində ölçülən səviyyə 1996-cı ildə dəniz səviyyəsindən 26,82 metr aşağı idi, 2025-ci ildə isə 29,27 metr aşağı oldu — 2,45 metr fərq, ildə orta hesabla 8–9 santimetr. Dənizin şimal-şərq hissəsində 25 ildə təxminən 16 min kvadrat kilometr su quruya çevrilib. Su çəkildikcə yeni adalar çıxır: bu payız Kulalı adası yaxınlığında daha biri göründü.\n\n📩 Bulvarda gəzməyi sevən dostuna göndər 🌊\n\n👉 Hər gün Azərbaycan haqqında bilmədiyin bir fakt — izlə ki, qaçırmayasan\n\nFoto: NASA (MODIS)\n\n#bilirdinizmi #xəzər #bakı #təbiət #azərbaycan",
+      "first_comment": "Sən Bakıda dənizin çəkildiyini görmüsən? 👇",
+      "photo": {
+        "path": "fetch/img/2026-11-13_4_caspian.jpg",
+        "credit": "NASA (MODIS)",
+        "cy": 0.5,
+        "cx": 0.55,
+        "full": true,
+        "source": "https://commons.wikimedia.org/wiki/File:Shrinking_Caspian_Sea_(MODIS_2024-10-08).jpg",
+        "note": "2927x2177 PD NASA MODIS (8 Oct 2024) false-colour view of the shallow northern Caspian: Volga delta (green) left, light shoals/exposed seabed along the Kazakh coast right. Checked: no watermark/text. Landscape -> motion build pans across it. Spare for a Baku shot: none fetched."
+      },
+      "sources": [
+        "https://www.euronews.com/2026/10/07/the-caspian-sea-has-been-shrinking-for-decades-now-a-new-island-has-emerged",
+        "https://astanatimes.com/2026/03/kazakhstan-reports-caspian-sea-level-decline-outlines-2050-scenarios/"
+      ]
+    }
+  ],
+  "metricool": {
+    "13:00 reel (Musa Nağıyev 1/2, static, voiced)": 425941849,
+    "18:30 reel (Şamaxıdan Dublinə 464 il, MOTION 60 fps, Arif)": 426854808
+  },
+  "tiktok": {
+    "13:00 Musa Nağıyev 1/2": 425942143,
+    "18:30 Şamaxıdan Dublinə": 426854877
+  },
+  "youtube": {
+    "13:00 Musa Nağıyev 1/2": 425942180,
+    "18:30 Şamaxıdan Dublinə": 426854960
+  },
+  "voiced": {
+    "13:00": true
+  },
+  "trend": {
+    "n": "T",
+    "type": "reel",
+    "format": "animated_1830",
+    "cat": "Azərbaycan",
+    "picked_at": "09:10 Baku 13 Nov (1st trend check)",
+    "source_scan": "apa.az homepage to 08:18 13 Nov (Aliyev at the 9th EPC summit in Dublin + bilateral meetings, AZ–UK Strategic Partnership declaration full text 23:02 12 Nov, Leyla Aliyeva at COP31, Nations League md5, World Bank global conference in Baku 2027, NY building collapse, Hormuz/Iran); trend.az 12 Nov (AZ–UK declaration 23:13 + 4 follow-ups, Azeri Light >$100, 2027 budget, Narmin Abdinova European U-18 girls chess title 23:57 11 Nov); 10things global 12 Nov (Abu Dhabi POW deal, Spain strike, COP31 Antalya, Nvidia/Huang). oxu.az + report.az chess page not fetchable. AZ team at Liechtenstein kicks off 23:45 tonight (already yesterday's trend; result only after our slot).",
+    "subject": "Azerbaijan–UK Declaration on Strategic Partnership, signed by President Ilham Aliyev and UK PM Andy Burnham, 'Adopted in Dublin on 12 November 2026 in two original copies in the Azerbaijani and English languages' (apa.az full text 12 Nov 23:07; report.az 12 Nov 23:22; trend.az 12 Nov 23:13; Kazinform 13 Nov 08:15, international). Signed on the sidelines of the 9th European Political Community summit. Three pillars: defence & security; trade, investment & growth; education & innovation. 'hold an annual Strategic Partnership meeting'. Builds on 'the Joint Declaration on Friendship and Cooperation of 23 February 1994' (and 21 Jul 1998). TWIST (Encyclopaedia Iranica 'Jenkinson, Anthony', 2008): 'Jenkinson arrived at Shemakha, in the province of Širvān, on 18 August 1562'; governor-general ʿAbdallāh Khān 'richly entertained him'; 'on his return journey he obtained trading privileges from ʿAbdallāh Khān'; carried a letter from Queen Elizabeth I; Muscovy Company. 2026-1562 = 464 years; 2026-1994 = 32. AZ POLITICS RULE: neutral official news, facts only, no praise words, no defence details beyond the pillar names. Not used: 'first Englishman in Azerbaijan' (Iranica only says regions 'never before visited by English travelers' — not stated for Shirvan specifically), no money figures (none in the text), PM's name kept off screen (spelling).",
+    "title": "Şamaxıdan Dublinə: 464 il",
+    "reel_hook": "464 İL: ŞAMAXIDAN DUBLİNƏ",
+    "reel_beats": [
+      "Dünən Dublində Prezident İlham Əliyev və Böyük Britaniyanın Baş naziri strateji tərəfdaşlıq haqqında bəyannamə imzaladılar.",
+      "Sənəd üç sahəni əhatə edir: müdafiə və təhlükəsizlik, ticarət və investisiya, təhsil və innovasiya. Tərəflər hər il görüşəcək.",
+      "Bu sənəd 1994-cü il fevralın 23-də imzalanmış dostluq bəyannaməsinə əsaslanır. Yəni 32 il əvvələ.",
+      "Amma əlaqələr daha qədimdir: 1562-ci il avqustun 18-də ingilis taciri Entoni Cenkinson Şamaxıya gəlib."
     ],
-    "photo": "Ismailiyya facade, Commons (Diego Delso CC BY-SA 4.0 panorama or Urek Meniashvili CC BY-SA 3.0 portrait JPG)",
-    "first_comment": "1-ci hissə profildədir 👆"
-   },
-   "language_fix": "20:45 run: beat 1 shortened (dropped 'Bakı yaxınlığında') to keep the voiced reel near 30 s",
-   "build": {
-    "file": "out/2026-11-13/1_reel.mp4",
-    "dur_s": 31.6,
-    "voice": "az-AZ-BanuNeural +15%",
-    "sound": "ambience, no music",
-    "hook_bg": true
-   }
+    "payoff": "Şirvan hakimi Abdulla xan onu böyük hörmətlə qonaq edib və ingilis tacirlərinə ticarət icazəsi verib. Bu, 464 il əvvəl idi.",
+    "voice_texts": [
+      "Dörd yüz altmış dörd il. Şamaxıdan Dublinə.",
+      "Dünən Dublində Prezident İlham Əliyev və Böyük Britaniyanın Baş naziri strateji tərəfdaşlıq bəyannaməsi imzaladılar.",
+      "Sənəd üç sahəni əhatə edir: müdafiə, ticarət və təhsil. Tərəflər hər il görüşəcək.",
+      "Əsası min doqquz yüz doxsan dördüncü ildə qoyulub. Amma hekayə daha qədimdir.",
+      "Min beş yüz altmış ikinci ildə ingilis taciri Entoni Cenkinson Şamaxıya gəlib və Şirvan hakimindən ticarət icazəsi alıb.",
+      "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
+    ],
+    "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+    "caption": "Şamaxıdan Dublinə: Azərbaycan–Britaniya əlaqələrinin 464 illik hekayəsi 🇦🇿🇬🇧\n\nDünən, 12 noyabrda, Dublində Prezident İlham Əliyev və Böyük Britaniyanın Baş naziri strateji tərəfdaşlıq haqqında bəyannamə imzaladılar. Sənəd üç sahəni əhatə edir: müdafiə və təhlükəsizlik, ticarət və investisiya, təhsil və innovasiya; tərəflər hər il görüş keçirəcək. Bəyannamə 1994-cü il 23 fevral tarixli dostluq və əməkdaşlıq bəyannaməsinə əsaslanır. Amma əlaqələrin tarixi daha qədimdir: 1562-ci il avqustun 18-də ingilis taciri Entoni Cenkinson Şamaxıya gəlib, Şirvan hakimi Abdulla xan onu böyük hörmətlə qonaq edib və ingilis tacirlərinə ticarət icazəsi verib.\n\n📩 Tarixi sevən dostuna göndər 📜\n\n👉 Hər gün bilmədiyin bir fakt — izlə ki, qaçırmayasan\n\nSəs: elevenlabs.io\n\n#bilirdinizmi #şamaxı #azərbaycan #britaniya #tarix",
+    "first_comment": "Səncə, Şamaxı o vaxt niyə tacirlər üçün bu qədər önəmli idi? 👇",
+    "visual_ideas": [
+      "Frame 0: giant '464' counting down to '1562' with 'ŞAMAXI → DUBLİN' under it; progress counter 0/4 in the corner (style lesson 1b).",
+      "Map of Europe + Caspian (flat, thick outlines): pin pops on Dublin, dotted line flies Dublin → Baku; two flags as small stamps (no faces).",
+      "Two dark SILHOUETTES at a table signing a document (rule 1g), pen scribble animates, paper slides out with 'STRATEJİ TƏRƏFDAŞLIQ'.",
+      "Three pillars rise like columns with icons: shield (müdafiə), cargo ship/box (ticarət), book + chip (təhsil); calendar flips '1 il → hər il'.",
+      "Timeline scrub: 2026 → 1994 (stamp '23.02.1994') → 1562; paper turns to old parchment colour.",
+      "1562: a small sailing ship/caravan on the Caspian dotted route Moscow → Volga → Shamakhi; silhouette of a merchant in a 16th-c. hat bowing to a khan silhouette; a wax-sealed scroll 'TİCARƏT İCAZƏSİ' unrolls.",
+      "Loop: last frame '464 il' snaps back to the opening counter; CTA card 'Bəyən və izlə'."
+    ],
+    "sfx": "whoosh on map flight, paper slide, pen scratch, stamp thud, ticks on the counter; no music",
+    "sources": [
+      "https://en.apa.az/foreign-policy/azerbaijan-and-uk-sign-declaration-on-strategic-partnership-full-text-535816",
+      "https://report.az/en/foreign-politics/azerbaijan-uk-relations-elevated-to-strategic-level",
+      "https://www.trend.az/azerbaijan/4245849.html",
+      "https://qazinform.com/news/azerbaijan-and-uk-sign-strategic-partnership-declaration-b40e21",
+      "https://www.iranicaonline.org/articles/jenkinson-anthony"
+    ],
+    "runner_ups": [
+      {
+        "story": "Azerbaijan national team at Liechtenstein (UEFA Nations League, Vaduz, 23:45 Baku tonight 13 Nov)",
+        "note": "Result arrives after our 18:30 slot -> best as TOMORROW's (14 Nov) trend if AZ wins/scores; preview was already the 12 Nov trend, so don't redo the preview today."
+      },
+      {
+        "story": "Narmin Abdinova (WIM, AZE) won the European U-18 girls' chess title (trend.az 11 Nov 23:57; report.az 'Azərbaycan şahmatçısı Nərmin Abdinova Avropa çempionatında qızıl medal qazanıb')",
+        "note": "Feel-good sports story but details (city, points) not yet verified — report.az/trend.az pages wouldn't load at 09:10. 15:23: verify 2 sources before using; chessarchive says she is 18."
+      },
+      {
+        "story": "Leyla Aliyeva's meetings at COP31 in Antalya (apa.az 03:37 13 Nov)",
+        "note": "Allowed per AZ POLITICS RULE, but a COP31 reel already got only 49 views; low priority."
+      }
+    ],
+    "verified": true
   },
-  {
-   "n": 2,
-   "type": "reel",
-   "cat": "Kosmos",
-   "voiced": false,
-   "motion": true,
-   "subject": "Shamakhy Astrophysical Observatory named after Nasreddin Tusi: established 17 Nov 1959 (decree No. 975, Wikipedia; shao.az 'established in 1959'); eastern part of Mount Pirkuli, 'altitude of 1435–1500 m' (Wikipedia), shao.az 'height 1500 m', '150 km from Baku'; 2-m reflector by Carl Zeiss Jena (GDR) 'put into operation in September 1966' and 'the third-largest in the former USSR' (Wikipedia; shao.az 'commissioned in September 1966'); named after Tusi in 1981 (both). Not used: 'largest in the Caucasus' (not on pages read).",
-   "photo_request": "Shamakhi observatory dome (Commons)",
-   "title": "2 metrlik güzgü: Şamaxının teleskopu",
-   "text": "Şamaxı yaxınlığında, dağın başında 2 metrlik güzgüsü olan teleskop var. 1966-cı ildə işə düşəndə SSRİ-nin üçüncü ən böyük teleskopu idi.",
-   "reel_hook": "2 METRLİK GÜZGÜ: ŞAMAXININ TELESKOPU",
-   "reel_beats": [
-    "Şamaxıda, Pirqulu yaxınlığında dağın başında rəsədxana var. O, Bakıdan 150 kilometr uzaqda, təxminən 1 500 metr hündürlükdədir.",
-    "Onun ən böyük teleskopunun güzgüsü 2 metrdir. Teleskopu Almaniyada «Carl Zeiss» zavodu düzəldib, 1966-cı ildə işə salıblar.",
-    "O vaxt bu, SSRİ-nin üçüncü ən böyük teleskopu idi. Rəsədxana 1959-cu ildə açılıb və Nəsirəddin Tusinin adını daşıyır."
-   ],
-   "cta": "Hər gün yeni fakt — izlə!",
-   "caption": "Şamaxıda 2 metrlik güzgüsü olan teleskop var 🔭\n\nŞamaxı Astrofizika Rəsədxanası Pirqulu yaxınlığında, dağın başında, təxminən 1 500 metr hündürlükdədir — Bakıdan 150 kilometr uzaqda. Onun ən böyük teleskopunun güzgüsü 2 metrdir. Teleskopu Almaniyada «Carl Zeiss» zavodu düzəldib və 1966-cı ilin sentyabrında işə salıblar: o vaxt bu, SSRİ-nin üçüncü ən böyük teleskopu idi. Rəsədxana 1959-cu ildə yaradılıb, 1981-ci ildən Nəsirəddin Tusinin adını daşıyır.\n\n📩 Ulduzlara baxmağı sevən dostuna göndər — Şamaxıya gedək 🌌\n\n👉 Hər gün yeni fakt — izlə ki, qaçırmayasan\n\nFoto: Uzeyir Mikayilov / Wikimedia Commons\n\n#bilirdinizmi #şamaxı #rəsədxana #kosmos #azərbaycan",
-   "first_comment": "Sən Şamaxı rəsədxanasında olmusan? 👇",
-   "photo": {
-    "path": "fetch/img/2026-11-13_2_shao_telescope0.jpg",
-    "credit": "Uzeyir Mikayilov / Wikimedia Commons",
-    "cy": 0.45,
-    "full": true,
-    "source": "https://commons.wikimedia.org/wiki/File:Telescope_in_Pirgulu_State_Reserve_Observatory._Photo_by_Uzeyir_Mikayilov_0.jpg",
-    "note": "1920x1440 landscape (4000x3000 original, listed Public domain on Commons). Big silver dome of the Pirqulu observatory, green trees, grey sky; checked at full size: no watermark/text. Caption does not claim this is the 2-m dome. Spare: _telescope.jpg (Mikayilov CC BY-SA 4.0, smaller dome on a meadow). Motion build: dome photo as background + kinetic counters (2 m, 1966, 1 500 m)."
-   },
-   "sources": [
-    "https://en.wikipedia.org/wiki/Shamakhy_Astrophysical_Observatory",
-    "https://shao.az/en/content/1"
-   ]
+  "trend_check_morning": {
+    "checked_at": "09:10-09:45 Baku 13 Nov",
+    "choice": "AZ–UK Strategic Partnership declaration (Dublin, 12 Nov) + 1562 Jenkinson-in-Shamakhi twist",
+    "why": "Freshest AZ story with wide coverage on apa/report/trend; neutral official news (AZ POLITICS RULE); history twist gives the AZ angle that performs (E5)."
   },
-  {
-   "n": 3,
-   "type": "reel",
-   "cat": "Coğrafiya",
-   "voiced": false,
-   "subject": "Point Nemo (oceanic pole of inaccessibility, South Pacific): 'about 2,688km (1,670 miles) from the nearest land mass' - Ducie Island (N), Motu Nui (NE), Maher Island (S); ISS 'orbits Earth at an altitude of about 400km'; 'the closest human beings to you would be astronauts on the International Space Station, should the ISS happen to be passing overhead'; 'spacecraft cemetery' where agencies de-orbit defunct spacecraft; Mir 'intentionally de-orbited to Point Nemo in 2001' (BBC Sky at Night Magazine, 15 Jun 2025).",
-   "photo_request": "open ocean from above (Unsplash)",
-   "title": "Ən yaxın insanlar kosmosdadır",
-   "text": "Sakit okeandakı Nemo nöqtəsindən ən yaxın quruya 2 688 km var. Kosmik stansiya üstündən keçəndə ən yaxın insanlar astronavtlar olur.",
-   "reel_hook": "2 688 KM: ƏN YAXIN İNSANLAR KOSMOSDADIR",
-   "reel_beats": [
-    "Sakit okeanda Nemo nöqtəsi adlı bir yer var. Oradan ən yaxın quruya qədər təxminən 2 688 kilometrdir.",
-    "Beynəlxalq Kosmik Stansiya isə Yerdən təxminən 400 kilometr yüksəkdə uçur. O, üstündən keçəndə ən yaxın insanlar astronavtlar olur.",
-    "Ona görə köhnə peykləri və kosmik gəmiləri məhz bura salırlar. 2001-ci ildə «Mir» stansiyası da burada okeana düşüb."
-   ],
-   "cta": "Hər gün yeni fakt — izlə!",
-   "caption": "Nemo nöqtəsi: ən yaxın insanlar 400 km yuxarıdadır 🌊\n\nSakit okeanın ortasında Nemo nöqtəsi adlı bir yer var — quruya ən uzaq yer. Oradan ən yaxın adaya qədər təxminən 2 688 kilometrdir. Beynəlxalq Kosmik Stansiya isə Yerdən təxminən 400 kilometr yüksəkdə uçur, ona görə o, üstündən keçəndə ən yaxın insanlar astronavtlar olur. Bu yer «kosmik gəmilər qəbiristanlığı» da adlanır: köhnə peykləri məhz bura salırlar. 2001-ci ildə «Mir» stansiyası da burada okeana düşüb.\n\n📩 «Məni heç kim tapa bilməz» deyən dostuna göndər 😄\n\n👉 Hər gün yeni fakt — izlə ki, qaçırmayasan\n\nFoto: ITT CU / Unsplash\n\n#bilirdinizmi #okean #kosmos #coğrafiya",
-   "first_comment": "Sən Nemo nöqtəsinə getmək istərdin? 👇",
-   "photo": {
-    "path": "fetch/img/2026-11-13_3_ocean.jpg",
-    "credit": "ITT CU / Unsplash",
-    "cy": 0.5,
-    "full": true,
-    "source": "https://unsplash.com/photos/H_oJiZ6fu3A",
-    "note": "1800x2700 portrait, Unsplash alt 'Aerial view of white cumulus clouds floating above a deep blue ocean' (generic ocean, not Point Nemo itself - fine for a 'middle of nowhere' symbol). Checked: no watermark/logos/people. Download recorded via Unsplash download_asset."
-   },
-   "sources": [
-    "https://www.skyatnightmagazine.com/earth-from-space/point-nemo"
-   ]
-  },
-  {
-   "n": 4,
-   "type": "reel",
-   "cat": "Azərbaycan",
-   "voiced": false,
-   "motion": true,
-   "subject": "Caspian Sea shrinking (Euronews, 7 Oct 2026, Meruyert Zhakiyanova): 'the Caspian Sea level in the Kazakh sector fell from -26.82 metres in 1996 to -29.27 metres in 2025' = 'a decline of 2.45 metres over the past three decades, or an average of around 8–9 centimetres per year'; 'between 2000 and 2025, the area covered by water in the studied part of the north-eastern Caspian decreased by around 16,384 square kilometres'; a new island 'spotted days ago near Kulaly Island during a recent aerial survey', islands ~1 km long, 200–300 m wide. Figures are for the Kazakh sector -> said so on screen. Baku lies on the Caspian (standard). Not used: Albania-size comparison (Caspian Post page not read), 2050 scenarios.",
-   "photo_request": "Shrinking Caspian Sea MODIS satellite image (NASA, Commons)",
-   "title": "Xəzər 30 ildə 2,45 metr alçalıb",
-   "text": "Qazaxıstan sahilində Xəzərin səviyyəsi 1996-cı ildən 2025-ci ilə qədər 2,45 metr düşüb. Su çəkildikcə yeni adalar çıxır.",
-   "reel_hook": "2,45 METR: XƏZƏR ALÇALIR",
-   "reel_beats": [
-    "Xəzər dənizi alçalır. Qazaxıstan sahilində su 1996-cı ildən 2025-ci ilə qədər 2,45 metr düşüb.",
-    "Bu, ildə orta hesabla 8–9 santimetr edir. Şimal-şərqdə 25 ildə təxminən 16 min kvadrat kilometr dəniz quruya çevrilib.",
-    "Su çəkildikcə yeni adalar çıxır. Bu payız Qazaxıstan sahilində, Kulalı adası yaxınlığında daha biri göründü."
-   ],
-   "cta": "Hər gün yeni fakt — izlə!",
-   "caption": "Xəzər dənizi 30 ildə 2,45 metr alçalıb 🌊\n\nXəzər dənizi kiçilir. Qazaxıstan sahilində ölçülən səviyyə 1996-cı ildə dəniz səviyyəsindən 26,82 metr aşağı idi, 2025-ci ildə isə 29,27 metr aşağı oldu — 2,45 metr fərq, ildə orta hesabla 8–9 santimetr. Dənizin şimal-şərq hissəsində 25 ildə təxminən 16 min kvadrat kilometr su quruya çevrilib. Su çəkildikcə yeni adalar çıxır: bu payız Kulalı adası yaxınlığında daha biri göründü.\n\n📩 Bulvarda gəzməyi sevən dostuna göndər 🌊\n\n👉 Hər gün Azərbaycan haqqında bilmədiyin bir fakt — izlə ki, qaçırmayasan\n\nFoto: NASA (MODIS)\n\n#bilirdinizmi #xəzər #bakı #təbiət #azərbaycan",
-   "first_comment": "Sən Bakıda dənizin çəkildiyini görmüsən? 👇",
-   "photo": {
-    "path": "fetch/img/2026-11-13_4_caspian.jpg",
-    "credit": "NASA (MODIS)",
-    "cy": 0.5,
-    "cx": 0.55,
-    "full": true,
-    "source": "https://commons.wikimedia.org/wiki/File:Shrinking_Caspian_Sea_(MODIS_2024-10-08).jpg",
-    "note": "2927x2177 PD NASA MODIS (8 Oct 2024) false-colour view of the shallow northern Caspian: Volga delta (green) left, light shoals/exposed seabed along the Kazakh coast right. Checked: no watermark/text. Landscape -> motion build pans across it. Spare for a Baku shot: none fetched."
-   },
-   "sources": [
-    "https://www.euronews.com/2026/10/07/the-caspian-sea-has-been-shrinking-for-decades-now-a-new-island-has-emerged",
-    "https://astanatimes.com/2026/03/kazakhstan-reports-caspian-sea-level-decline-outlines-2050-scenarios/"
-   ]
+  "reel_1830": {
+    "topic": "Azərbaycan–Böyük Britaniya strateji tərəfdaşlıq bəyannaməsi (Dublin, 12 Nov 2026) + Anthony Jenkinson in Shamakhi, 18 Aug 1562 → 464 years",
+    "trend_check_2": "14:50 Baku 13 Nov: re-scanned apa.az feed (to 12:52), trend.az, report.az/azertag, 10things global 13 Nov (Ukraine talks, Hormuz/Brent, Indonesia VP resigns, Nvidia/Huang successor). Nothing fresher/AZ-hotter that fits the rules (MFA note on EPC documents skipped: diplomatic dispute angle; AZ–Liechtenstein kicks off after our slot). Kept the 09:10 trend.",
+    "sources": [
+      "https://en.apa.az/ (full declaration text, 12 Nov 23:07)",
+      "https://report.az/en (12 Nov 23:22)",
+      "https://www.trend.az/azerbaijan (12 Nov 23:13)",
+      "Kazinform 13 Nov 08:15 (international)",
+      "https://www.iranicaonline.org/articles/jenkinson-anthony (Shemakha 18 Aug 1562, ʿAbdallāh Khān, trading privileges)",
+      "https://en.wikipedia.org/wiki/Abdollah_Khan_Ustajlu (governor of Shirvan, received Jenkinson)"
+    ],
+    "voice_text": "Dörd yüz altmış dörd il. Şamaxıdan Dublinə. Dünən Dublində Azərbaycan və Böyük Britaniya strateji tərəfdaşlıq bəyannaməsi imzaladı. Sənəd üç sahəni əhatə edir: müdafiə, ticarət və təhsil. Amma tarix daha qədimdir. Min beş yüz altmış ikinci ildə ingilis taciri Entoni Cenkinson Şamaxıya gəlib. Şirvan hakimi Abdulla xan ingilis tacirlərinə ticarət icazəsi verib. Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+    "words": 59,
+    "language_check": "section L: short sentences, ordinal 'min beş yüz altmış ikinci ildə', 'X-i əhatə edir', no TR/RU calques; PM name kept out; no praise words (AZ POLITICS RULE).",
+    "arif_mp3": "reels/arif/2026-11-13_1830.mp3",
+    "voice": "arif",
+    "arif_duration_s": 28.16,
+    "arif_credits": 406,
+    "arif_flow": "PHtZ5mSPCyJXEvYlhESV",
+    "arif_note": "1st call 14:50 busy (not charged), 2nd call 14:54 ok",
+    "build": {
+      "source": "reels/2026-11-13_1830/",
+      "media": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-13_1830_samaxi_dublin.mp4",
+      "dur_s": 29.47,
+      "fps": 60,
+      "size_mb": 6.2,
+      "audio": "Arif VO + soft SFX (-9 dB), no music, -14 LUFS",
+      "timing": "syllable-weighted estimate between measured pauses (ElevenLabs Scribe busy x4, torch aligner download blocked)",
+      "critique_rounds": 3
+    }
   }
- ],
- "metricool": {
-  "13:00 reel (Musa Nağıyev 1/2, static, voiced)": 425941849
- },
- "tiktok": {
-  "13:00 Musa Nağıyev 1/2": 425942143
- },
- "youtube": {
-  "13:00 Musa Nağıyev 1/2": 425942180
- },
- "voiced": {
-  "13:00": true
- },
- "trend": {
-  "n": "T",
-  "type": "reel",
-  "format": "animated_1830",
-  "cat": "Azərbaycan",
-  "picked_at": "09:10 Baku 13 Nov (1st trend check)",
-  "source_scan": "apa.az homepage to 08:18 13 Nov (Aliyev at the 9th EPC summit in Dublin + bilateral meetings, AZ–UK Strategic Partnership declaration full text 23:02 12 Nov, Leyla Aliyeva at COP31, Nations League md5, World Bank global conference in Baku 2027, NY building collapse, Hormuz/Iran); trend.az 12 Nov (AZ–UK declaration 23:13 + 4 follow-ups, Azeri Light >$100, 2027 budget, Narmin Abdinova European U-18 girls chess title 23:57 11 Nov); 10things global 12 Nov (Abu Dhabi POW deal, Spain strike, COP31 Antalya, Nvidia/Huang). oxu.az + report.az chess page not fetchable. AZ team at Liechtenstein kicks off 23:45 tonight (already yesterday's trend; result only after our slot).",
-  "subject": "Azerbaijan–UK Declaration on Strategic Partnership, signed by President Ilham Aliyev and UK PM Andy Burnham, 'Adopted in Dublin on 12 November 2026 in two original copies in the Azerbaijani and English languages' (apa.az full text 12 Nov 23:07; report.az 12 Nov 23:22; trend.az 12 Nov 23:13; Kazinform 13 Nov 08:15, international). Signed on the sidelines of the 9th European Political Community summit. Three pillars: defence & security; trade, investment & growth; education & innovation. 'hold an annual Strategic Partnership meeting'. Builds on 'the Joint Declaration on Friendship and Cooperation of 23 February 1994' (and 21 Jul 1998). TWIST (Encyclopaedia Iranica 'Jenkinson, Anthony', 2008): 'Jenkinson arrived at Shemakha, in the province of Širvān, on 18 August 1562'; governor-general ʿAbdallāh Khān 'richly entertained him'; 'on his return journey he obtained trading privileges from ʿAbdallāh Khān'; carried a letter from Queen Elizabeth I; Muscovy Company. 2026-1562 = 464 years; 2026-1994 = 32. AZ POLITICS RULE: neutral official news, facts only, no praise words, no defence details beyond the pillar names. Not used: 'first Englishman in Azerbaijan' (Iranica only says regions 'never before visited by English travelers' — not stated for Shirvan specifically), no money figures (none in the text), PM's name kept off screen (spelling).",
-  "title": "Şamaxıdan Dublinə: 464 il",
-  "reel_hook": "464 İL: ŞAMAXIDAN DUBLİNƏ",
-  "reel_beats": [
-   "Dünən Dublində Prezident İlham Əliyev və Böyük Britaniyanın Baş naziri strateji tərəfdaşlıq haqqında bəyannamə imzaladılar.",
-   "Sənəd üç sahəni əhatə edir: müdafiə və təhlükəsizlik, ticarət və investisiya, təhsil və innovasiya. Tərəflər hər il görüşəcək.",
-   "Bu sənəd 1994-cü il fevralın 23-də imzalanmış dostluq bəyannaməsinə əsaslanır. Yəni 32 il əvvələ.",
-   "Amma əlaqələr daha qədimdir: 1562-ci il avqustun 18-də ingilis taciri Entoni Cenkinson Şamaxıya gəlib."
-  ],
-  "payoff": "Şirvan hakimi Abdulla xan onu böyük hörmətlə qonaq edib və ingilis tacirlərinə ticarət icazəsi verib. Bu, 464 il əvvəl idi.",
-  "voice_texts": [
-   "Dörd yüz altmış dörd il. Şamaxıdan Dublinə.",
-   "Dünən Dublində Prezident İlham Əliyev və Böyük Britaniyanın Baş naziri strateji tərəfdaşlıq bəyannaməsi imzaladılar.",
-   "Sənəd üç sahəni əhatə edir: müdafiə, ticarət və təhsil. Tərəflər hər il görüşəcək.",
-   "Əsası min doqquz yüz doxsan dördüncü ildə qoyulub. Amma hekayə daha qədimdir.",
-   "Min beş yüz altmış ikinci ildə ingilis taciri Entoni Cenkinson Şamaxıya gəlib və Şirvan hakimindən ticarət icazəsi alıb.",
-   "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
-  ],
-  "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
-  "caption": "Şamaxıdan Dublinə: Azərbaycan–Britaniya əlaqələrinin 464 illik hekayəsi 🇦🇿🇬🇧\n\nDünən, 12 noyabrda, Dublində Prezident İlham Əliyev və Böyük Britaniyanın Baş naziri strateji tərəfdaşlıq haqqında bəyannamə imzaladılar. Sənəd üç sahəni əhatə edir: müdafiə və təhlükəsizlik, ticarət və investisiya, təhsil və innovasiya; tərəflər hər il görüş keçirəcək. Bəyannamə 1994-cü il 23 fevral tarixli dostluq və əməkdaşlıq bəyannaməsinə əsaslanır. Amma əlaqələrin tarixi daha qədimdir: 1562-ci il avqustun 18-də ingilis taciri Entoni Cenkinson Şamaxıya gəlib, Şirvan hakimi Abdulla xan onu böyük hörmətlə qonaq edib və ingilis tacirlərinə ticarət icazəsi verib.\n\n📩 Tarixi sevən dostuna göndər 📜\n\n👉 Hər gün bilmədiyin bir fakt — izlə ki, qaçırmayasan\n\nSəs: elevenlabs.io\n\n#bilirdinizmi #şamaxı #azərbaycan #britaniya #tarix",
-  "first_comment": "Səncə, Şamaxı o vaxt niyə tacirlər üçün bu qədər önəmli idi? 👇",
-  "visual_ideas": [
-   "Frame 0: giant '464' counting down to '1562' with 'ŞAMAXI → DUBLİN' under it; progress counter 0/4 in the corner (style lesson 1b).",
-   "Map of Europe + Caspian (flat, thick outlines): pin pops on Dublin, dotted line flies Dublin → Baku; two flags as small stamps (no faces).",
-   "Two dark SILHOUETTES at a table signing a document (rule 1g), pen scribble animates, paper slides out with 'STRATEJİ TƏRƏFDAŞLIQ'.",
-   "Three pillars rise like columns with icons: shield (müdafiə), cargo ship/box (ticarət), book + chip (təhsil); calendar flips '1 il → hər il'.",
-   "Timeline scrub: 2026 → 1994 (stamp '23.02.1994') → 1562; paper turns to old parchment colour.",
-   "1562: a small sailing ship/caravan on the Caspian dotted route Moscow → Volga → Shamakhi; silhouette of a merchant in a 16th-c. hat bowing to a khan silhouette; a wax-sealed scroll 'TİCARƏT İCAZƏSİ' unrolls.",
-   "Loop: last frame '464 il' snaps back to the opening counter; CTA card 'Bəyən və izlə'."
-  ],
-  "sfx": "whoosh on map flight, paper slide, pen scratch, stamp thud, ticks on the counter; no music",
-  "sources": [
-   "https://en.apa.az/foreign-policy/azerbaijan-and-uk-sign-declaration-on-strategic-partnership-full-text-535816",
-   "https://report.az/en/foreign-politics/azerbaijan-uk-relations-elevated-to-strategic-level",
-   "https://www.trend.az/azerbaijan/4245849.html",
-   "https://qazinform.com/news/azerbaijan-and-uk-sign-strategic-partnership-declaration-b40e21",
-   "https://www.iranicaonline.org/articles/jenkinson-anthony"
-  ],
-  "runner_ups": [
-   {
-    "story": "Azerbaijan national team at Liechtenstein (UEFA Nations League, Vaduz, 23:45 Baku tonight 13 Nov)",
-    "note": "Result arrives after our 18:30 slot -> best as TOMORROW's (14 Nov) trend if AZ wins/scores; preview was already the 12 Nov trend, so don't redo the preview today."
-   },
-   {
-    "story": "Narmin Abdinova (WIM, AZE) won the European U-18 girls' chess title (trend.az 11 Nov 23:57; report.az 'Azərbaycan şahmatçısı Nərmin Abdinova Avropa çempionatında qızıl medal qazanıb')",
-    "note": "Feel-good sports story but details (city, points) not yet verified — report.az/trend.az pages wouldn't load at 09:10. 15:23: verify 2 sources before using; chessarchive says she is 18."
-   },
-   {
-    "story": "Leyla Aliyeva's meetings at COP31 in Antalya (apa.az 03:37 13 Nov)",
-    "note": "Allowed per AZ POLITICS RULE, but a COP31 reel already got only 49 views; low priority."
-   }
-  ],
-  "verified": true
- },
- "trend_check_morning": {
-  "checked_at": "09:10-09:45 Baku 13 Nov",
-  "choice": "AZ–UK Strategic Partnership declaration (Dublin, 12 Nov) + 1562 Jenkinson-in-Shamakhi twist",
-  "why": "Freshest AZ story with wide coverage on apa/report/trend; neutral official news (AZ POLITICS RULE); history twist gives the AZ angle that performs (E5)."
- },
- "reel_1830": {
-  "topic": "Azərbaycan–Böyük Britaniya strateji tərəfdaşlıq bəyannaməsi (Dublin, 12 Nov 2026) + Anthony Jenkinson in Shamakhi, 18 Aug 1562 → 464 years",
-  "trend_check_2": "14:50 Baku 13 Nov: re-scanned apa.az feed (to 12:52), trend.az, report.az/azertag, 10things global 13 Nov (Ukraine talks, Hormuz/Brent, Indonesia VP resigns, Nvidia/Huang successor). Nothing fresher/AZ-hotter that fits the rules (MFA note on EPC documents skipped: diplomatic dispute angle; AZ–Liechtenstein kicks off after our slot). Kept the 09:10 trend.",
-  "sources": [
-   "https://en.apa.az/ (full declaration text, 12 Nov 23:07)",
-   "https://report.az/en (12 Nov 23:22)",
-   "https://www.trend.az/azerbaijan (12 Nov 23:13)",
-   "Kazinform 13 Nov 08:15 (international)",
-   "https://www.iranicaonline.org/articles/jenkinson-anthony (Shemakha 18 Aug 1562, ʿAbdallāh Khān, trading privileges)",
-   "https://en.wikipedia.org/wiki/Abdollah_Khan_Ustajlu (governor of Shirvan, received Jenkinson)"
-  ],
-  "voice_text": "Dörd yüz altmış dörd il. Şamaxıdan Dublinə. Dünən Dublində Azərbaycan və Böyük Britaniya strateji tərəfdaşlıq bəyannaməsi imzaladı. Sənəd üç sahəni əhatə edir: müdafiə, ticarət və təhsil. Amma tarix daha qədimdir. Min beş yüz altmış ikinci ildə ingilis taciri Entoni Cenkinson Şamaxıya gəlib. Şirvan hakimi Abdulla xan ingilis tacirlərinə ticarət icazəsi verib. Bəyən və izlə — hər gün bilmədiyin bir fakt!",
-  "words": 59,
-  "language_check": "section L: short sentences, ordinal 'min beş yüz altmış ikinci ildə', 'X-i əhatə edir', no TR/RU calques; PM name kept out; no praise words (AZ POLITICS RULE).",
-  "arif_mp3": "reels/arif/2026-11-13_1830.mp3",
-  "voice": "arif",
-  "arif_duration_s": 28.16,
-  "arif_credits": 406,
-  "arif_flow": "PHtZ5mSPCyJXEvYlhESV",
-  "arif_note": "1st call 14:50 busy (not charged), 2nd call 14:54 ok"
- }
 }

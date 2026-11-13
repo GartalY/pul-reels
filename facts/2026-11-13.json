@@ -171,5 +171,71 @@
  },
  "voiced": {
   "13:00": true
+ },
+ "trend": {
+  "n": "T",
+  "type": "reel",
+  "format": "animated_1830",
+  "cat": "Azərbaycan",
+  "picked_at": "09:10 Baku 13 Nov (1st trend check)",
+  "source_scan": "apa.az homepage to 08:18 13 Nov (Aliyev at the 9th EPC summit in Dublin + bilateral meetings, AZ–UK Strategic Partnership declaration full text 23:02 12 Nov, Leyla Aliyeva at COP31, Nations League md5, World Bank global conference in Baku 2027, NY building collapse, Hormuz/Iran); trend.az 12 Nov (AZ–UK declaration 23:13 + 4 follow-ups, Azeri Light >$100, 2027 budget, Narmin Abdinova European U-18 girls chess title 23:57 11 Nov); 10things global 12 Nov (Abu Dhabi POW deal, Spain strike, COP31 Antalya, Nvidia/Huang). oxu.az + report.az chess page not fetchable. AZ team at Liechtenstein kicks off 23:45 tonight (already yesterday's trend; result only after our slot).",
+  "subject": "Azerbaijan–UK Declaration on Strategic Partnership, signed by President Ilham Aliyev and UK PM Andy Burnham, 'Adopted in Dublin on 12 November 2026 in two original copies in the Azerbaijani and English languages' (apa.az full text 12 Nov 23:07; report.az 12 Nov 23:22; trend.az 12 Nov 23:13; Kazinform 13 Nov 08:15, international). Signed on the sidelines of the 9th European Political Community summit. Three pillars: defence & security; trade, investment & growth; education & innovation. 'hold an annual Strategic Partnership meeting'. Builds on 'the Joint Declaration on Friendship and Cooperation of 23 February 1994' (and 21 Jul 1998). TWIST (Encyclopaedia Iranica 'Jenkinson, Anthony', 2008): 'Jenkinson arrived at Shemakha, in the province of Širvān, on 18 August 1562'; governor-general ʿAbdallāh Khān 'richly entertained him'; 'on his return journey he obtained trading privileges from ʿAbdallāh Khān'; carried a letter from Queen Elizabeth I; Muscovy Company. 2026-1562 = 464 years; 2026-1994 = 32. AZ POLITICS RULE: neutral official news, facts only, no praise words, no defence details beyond the pillar names. Not used: 'first Englishman in Azerbaijan' (Iranica only says regions 'never before visited by English travelers' — not stated for Shirvan specifically), no money figures (none in the text), PM's name kept off screen (spelling).",
+  "title": "Şamaxıdan Dublinə: 464 il",
+  "reel_hook": "464 İL: ŞAMAXIDAN DUBLİNƏ",
+  "reel_beats": [
+   "Dünən Dublində Prezident İlham Əliyev və Böyük Britaniyanın Baş naziri strateji tərəfdaşlıq haqqında bəyannamə imzaladılar.",
+   "Sənəd üç sahəni əhatə edir: müdafiə və təhlükəsizlik, ticarət və investisiya, təhsil və innovasiya. Tərəflər hər il görüşəcək.",
+   "Bu sənəd 1994-cü il fevralın 23-də imzalanmış dostluq bəyannaməsinə əsaslanır. Yəni 32 il əvvələ.",
+   "Amma əlaqələr daha qədimdir: 1562-ci il avqustun 18-də ingilis taciri Entoni Cenkinson Şamaxıya gəlib."
+  ],
+  "payoff": "Şirvan hakimi Abdulla xan onu böyük hörmətlə qonaq edib və ingilis tacirlərinə ticarət icazəsi verib. Bu, 464 il əvvəl idi.",
+  "voice_texts": [
+   "Dörd yüz altmış dörd il. Şamaxıdan Dublinə.",
+   "Dünən Dublində Prezident İlham Əliyev və Böyük Britaniyanın Baş naziri strateji tərəfdaşlıq bəyannaməsi imzaladılar.",
+   "Sənəd üç sahəni əhatə edir: müdafiə, ticarət və təhsil. Tərəflər hər il görüşəcək.",
+   "Əsası min doqquz yüz doxsan dördüncü ildə qoyulub. Amma hekayə daha qədimdir.",
+   "Min beş yüz altmış ikinci ildə ingilis taciri Entoni Cenkinson Şamaxıya gəlib və Şirvan hakimindən ticarət icazəsi alıb.",
+   "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
+  ],
+  "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+  "caption": "Şamaxıdan Dublinə: Azərbaycan–Britaniya əlaqələrinin 464 illik hekayəsi 🇦🇿🇬🇧\n\nDünən, 12 noyabrda, Dublində Prezident İlham Əliyev və Böyük Britaniyanın Baş naziri strateji tərəfdaşlıq haqqında bəyannamə imzaladılar. Sənəd üç sahəni əhatə edir: müdafiə və təhlükəsizlik, ticarət və investisiya, təhsil və innovasiya; tərəflər hər il görüş keçirəcək. Bəyannamə 1994-cü il 23 fevral tarixli dostluq və əməkdaşlıq bəyannaməsinə əsaslanır. Amma əlaqələrin tarixi daha qədimdir: 1562-ci il avqustun 18-də ingilis taciri Entoni Cenkinson Şamaxıya gəlib, Şirvan hakimi Abdulla xan onu böyük hörmətlə qonaq edib və ingilis tacirlərinə ticarət icazəsi verib.\n\n📩 Tarixi sevən dostuna göndər 📜\n\n👉 Hər gün bilmədiyin bir fakt — izlə ki, qaçırmayasan\n\nSəs: elevenlabs.io\n\n#bilirdinizmi #şamaxı #azərbaycan #britaniya #tarix",
+  "first_comment": "Səncə, Şamaxı o vaxt niyə tacirlər üçün bu qədər önəmli idi? 👇",
+  "visual_ideas": [
+   "Frame 0: giant '464' counting down to '1562' with 'ŞAMAXI → DUBLİN' under it; progress counter 0/4 in the corner (style lesson 1b).",
+   "Map of Europe + Caspian (flat, thick outlines): pin pops on Dublin, dotted line flies Dublin → Baku; two flags as small stamps (no faces).",
+   "Two dark SILHOUETTES at a table signing a document (rule 1g), pen scribble animates, paper slides out with 'STRATEJİ TƏRƏFDAŞLIQ'.",
+   "Three pillars rise like columns with icons: shield (müdafiə), cargo ship/box (ticarət), book + chip (təhsil); calendar flips '1 il → hər il'.",
+   "Timeline scrub: 2026 → 1994 (stamp '23.02.1994') → 1562; paper turns to old parchment colour.",
+   "1562: a small sailing ship/caravan on the Caspian dotted route Moscow → Volga → Shamakhi; silhouette of a merchant in a 16th-c. hat bowing to a khan silhouette; a wax-sealed scroll 'TİCARƏT İCAZƏSİ' unrolls.",
+   "Loop: last frame '464 il' snaps back to the opening counter; CTA card 'Bəyən və izlə'."
+  ],
+  "sfx": "whoosh on map flight, paper slide, pen scratch, stamp thud, ticks on the counter; no music",
+  "sources": [
+   "https://en.apa.az/foreign-policy/azerbaijan-and-uk-sign-declaration-on-strategic-partnership-full-text-535816",
+   "https://report.az/en/foreign-politics/azerbaijan-uk-relations-elevated-to-strategic-level",
+   "https://www.trend.az/azerbaijan/4245849.html",
+   "https://qazinform.com/news/azerbaijan-and-uk-sign-strategic-partnership-declaration-b40e21",
+   "https://www.iranicaonline.org/articles/jenkinson-anthony"
+  ],
+  "runner_ups": [
+   {
+    "story": "Azerbaijan national team at Liechtenstein (UEFA Nations League, Vaduz, 23:45 Baku tonight 13 Nov)",
+    "note": "Result arrives after our 18:30 slot -> best as TOMORROW's (14 Nov) trend if AZ wins/scores; preview was already the 12 Nov trend, so don't redo the preview today."
+   },
+   {
+    "story": "Narmin Abdinova (WIM, AZE) won the European U-18 girls' chess title (trend.az 11 Nov 23:57; report.az 'Azərbaycan şahmatçısı Nərmin Abdinova Avropa çempionatında qızıl medal qazanıb')",
+    "note": "Feel-good sports story but details (city, points) not yet verified — report.az/trend.az pages wouldn't load at 09:10. 15:23: verify 2 sources before using; chessarchive says she is 18."
+   },
+   {
+    "story": "Leyla Aliyeva's meetings at COP31 in Antalya (apa.az 03:37 13 Nov)",
+    "note": "Allowed per AZ POLITICS RULE, but a COP31 reel already got only 49 views; low priority."
+   }
+  ],
+  "verified": true
+ },
+ "trend_check_morning": {
+  "checked_at": "09:10-09:45 Baku 13 Nov",
+  "choice": "AZ–UK Strategic Partnership declaration (Dublin, 12 Nov) + 1562 Jenkinson-in-Shamakhi twist",
+  "why": "Freshest AZ story with wide coverage on apa/report/trend; neutral official news (AZ POLITICS RULE); history twist gives the AZ angle that performs (E5)."
  }
 }

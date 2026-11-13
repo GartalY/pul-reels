@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-14",
+ "status": "planned",
+ "format": "v2",
+ "content_format": "quality_reset_2026-11-12",
+ "planned_note": "Planned in the 2026-11-13 09:10 run. Sat 14 Nov: 13:00 static factgen reel (no voice per 1i) = facts[0] Ismailiyya Palace, part 2/2 of the Musa Naghiyev story (part 1 aired 13 Nov 13:00). 18:30 animated 60 fps reel = the freshest trend (15:23 task decides; candidate: AZ national team's result at Liechtenstein, played 13 Nov 23:45 Baku) else facts[1] Hyrcanian forests (animated, Arif voice). No carousels/quizzes/stories.",
+ "facts": [
+  {
+   "n": 1,
+   "type": "reel",
+   "slot": "13:00",
+   "static": true,
+   "voiced": false,
+   "cat": "Tarix",
+   "two_part": "2/2",
+   "subject": "Ismailiyya Palace, Istiglaliyyat Street, Baku. AZERTAC (2 Apr 2022): construction began 'on December 21, 1908'; 'On April 7, 1913, this palace started working'; 'built by famous polish Józef Płoszko'; 'built commemoration of Ismail who was the son of Azerbaijan's oil millionaire Musa Naghiyev'; 'today serves as the Presidium of the Azerbaijani Academy of Sciences'. Ulduz Tourism: 'Construction began in 1908 and ended in 1913'; 'constructed for the Muslim Charity Society by Józef Plośko at the expense of the millionaire Musa Naghiyev'; 'in commemoration of his deceased son Ismayil'; 'At present, the Presidium of the Academy of Sciences located there.' Wikipedia (read 12 Nov run): Venetian Gothic, son Ismayil 1875–1902. Not used: cause of death, March 1918 fire/damage (conflict), 1923 restoration.",
+   "title": "Oğlunun xatirəsinə saray: İsmailiyyə (2/2)",
+   "text": "Musa Nağıyev oğlu İsmayılın xatirəsinə Bakıda saray tikdirdi. Bu gün orada Azərbaycan Elmlər Akademiyasının Rəyasət Heyəti yerləşir.",
+   "reel_hook": "5 İL: OĞLUNUN XATİRƏSİNƏ SARAY (2/2)",
+   "reel_beats": [
+    "Dünən danışdıq: hambaldan milyonçu olan Musa Nağıyevin Bakıda 200-dən çox binası vardı. Onun oğlu İsmayıl 1902-ci ildə gənc yaşda dünyasını dəyişdi.",
+    "Nağıyev onun xatirəsinə saray tikdirmək qərarına gəldi. Tikinti 1908-ci il dekabrın 21-də başladı, memarı polyak Iosif Ploşko idi.",
+    "Saray 1913-cü ildə açıldı və «İsmailiyyə» adlandırıldı — oğlunun adı ilə. Bu gün orada Azərbaycan Elmlər Akademiyasının Rəyasət Heyəti yerləşir."
+   ],
+   "payoff": "İstiqlaliyyət küçəsindən keçəndə bax: bu gözəl bina bir atanın oğluna sevgisidir.",
+   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+   "caption": "İsmailiyyə sarayı: Musa Nağıyevin oğluna sevgisi (2/2) 🏛️\n\nMusa Nağıyevin oğlu İsmayıl 1902-ci ildə gənc yaşda dünyasını dəyişdi. Ata onun xatirəsinə Bakıda saray tikdirdi: tikinti 1908-ci il dekabrın 21-də başladı, memarı polyak Iosif Ploşko idi. Saray 1913-cü ildə açıldı və oğlunun adı ilə «İsmailiyyə» adlandırıldı. Bina əvvəlcə «Müsəlman Xeyriyyə Cəmiyyəti» üçün tikilmişdi. Bu gün İstiqlaliyyət küçəsindəki bu sarayda Azərbaycan Elmlər Akademiyasının Rəyasət Heyəti yerləşir.\n\n1-ci hissə profildədir 👆\n\n📩 İstiqlaliyyət küçəsindən hər gün keçən dostuna göndər 🏛️\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nFoto: Urek Meniashvili / Wikimedia Commons (CC BY-SA 3.0)\n\n#bilirdinizmi #ismailiyyə #musanağıyev #bakı #tarix",
+   "first_comment": "1-ci hissə profildədir 👆 Sən bu binanın içində olmusan? 👇",
+   "photo": {
+    "path": "fetch/img/2026-11-14_1_ismailiyya.jpg",
+    "credit": "Urek Meniashvili / Wikimedia Commons (CC BY-SA 3.0)",
+    "cy": 0.35,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:%C4%B0smailiyy%C9%99_palace_common.JPG",
+    "note": "3168x4752 portrait (9 MB; downscale when building). Gothic facade with spires above Istiglaliyyat Street, trees, cars; checked at reduced size: no watermark/logos, pedestrians tiny and unidentifiable. Palace in the upper-middle -> cy 0.35. Spare: 2026-11-14_1_ismailiyya_facade.jpg (Sefer azeri, CC BY-SA 4.0, 2475x1846 landscape)."
+   },
+   "sources": [
+    "https://azertag.az/en/xeber/ismailiyya_palace___great_architecture_of_baku-2076677",
+    "https://ulduztourism.az/en/azerbaijan/historical-attractions/the-ismailiyya-palace",
+    "https://en.wikipedia.org/wiki/Ismailiyya_Palace"
+   ]
+  },
+  {
+   "n": 2,
+   "type": "reel",
+   "slot": "18:30 backup",
+   "motion": true,
+   "fps": 60,
+   "voiced": "Arif",
+   "cat": "Təbiət",
+   "subject": "Hyrcanian (Hirkan) forests, Lankaran–Astara, southern Azerbaijan. Succow Foundation (20 Sep 2023): 'At its 45th session in Riyadh (Saudi Arabia), the World Heritage Committee inscribed' them; '25-50 million old-growth forests'; 'temperate deciduous forests over 25 million years from the Tertiary to the present'; massif 'stretching over 900 km from southern Azerbaijan along the Caspian Sea into Iran'; 'Over 3,200 vascular plants were recorded'; 'two components in the Hirkan National Park in Azerbaijan'; extension of the 2019 Iranian site. worldheritagesite.org: 'They date back 25 - 50 million years, when such forests covered most parts of the Northern Temperate region'; 2023 extended with Dangyaband and İstisuchay Valley. unesco.az (17 Sep 2023): 'the first natural site of Azerbaijan to be on the list'. Not used: length (900 vs 1 000 km conflict), ironwood/leopard claims (not on pages read).",
+   "title": "50 milyon illik meşə: Hirkan",
+   "reel_hook": "50 MİLYON İL: AZƏRBAYCANIN ƏN QƏDİM MEŞƏSİ",
+   "reel_beats": [
+    "Azərbaycanın cənubunda, Lənkəran və Astarada Hirkan meşələri var. Alimlərin fikrincə, bu meşələrin yaşı 25–50 milyon ildir.",
+    "O vaxt belə meşələr Yerin şimal yarımkürəsinin böyük hissəsini örtürdü. Sonra demək olar ki, hər yerdə yox oldular, burada isə qaldılar.",
+    "Bu meşələrdə 3 200-dən çox bitki növü qeydə alınıb, onların arasında çoxlu nadir və yalnız bu bölgədə bitən növlər var."
+   ],
+   "payoff": "2023-cü ildə Hirkan meşələri UNESCO-nun Ümumdünya İrs siyahısına düşdü — Azərbaycanın bu siyahıdakı ilk təbii abidəsi oldu.",
+   "voice_texts": [
+    "Əlli milyon il. Azərbaycanın ən qədim meşəsi.",
+    "Lənkəran və Astarada Hirkan meşələri var. Alimlərin fikrincə, onların yaşı iyirmi beş ilə əlli milyon il arasındadır.",
+    "O vaxt belə meşələr Yerin şimal yarısının böyük hissəsini örtürdü. Başqa yerlərdə yox oldular, burada isə qaldılar.",
+    "Burada üç min iki yüzdən çox bitki növü qeydə alınıb.",
+    "İki min iyirmi üçüncü ildə bu meşələr UNESCO siyahısına düşdü — Azərbaycanın ilk təbii abidəsi kimi.",
+    "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
+   ],
+   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+   "caption": "Hirkan meşələri: 25–50 milyon illik meşə Azərbaycandadır 🌳\n\nLənkəran və Astarada yerləşən Hirkan meşələrinin yaşı, alimlərin fikrincə, 25–50 milyon ildir. Bir vaxtlar belə meşələr şimal yarımkürəsinin böyük hissəsini örtürdü, indi isə yalnız Xəzərin cənub sahillərində — Azərbaycanda və İranda qalıb. Burada 3 200-dən çox bitki növü qeydə alınıb, onların çoxu nadirdir. 2023-cü ildə Hirkan meşələri UNESCO-nun Ümumdünya İrs siyahısına daxil edildi — bu, Azərbaycanın siyahıdakı ilk təbii abidəsidir.\n\n📩 Lənkərana getmək istəyən dostuna göndər 🌿\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nSəs: elevenlabs.io\n\n#bilirdinizmi #hirkan #lənkəran #təbiət #azərbaycan",
+   "first_comment": "Sən Hirkan Milli Parkında olmusan? 👇",
+   "visual_ideas": [
+    "Frame 0: '50 000 000' counter ticking up over a flat green forest silhouette; progress counter 0/3.",
+    "Globe: green forest blanket shrinks from the whole northern hemisphere down to one small patch on the south Caspian (pin: Lənkəran).",
+    "Leaves/plants pop in a grid while a counter runs to 3 200+.",
+    "UNESCO-style laurel stamp thuds onto the map with '2023' and 'İLK TƏBİİ ABİDƏ'.",
+    "Loop back to '50 milyon il'."
+   ],
+   "photo": {
+    "path": null,
+    "note": "Animated reel: code-drawn; no photo needed (an Unsplash/Commons Hirkan photo is optional)."
+   },
+   "sources": [
+    "https://www.succow-stiftung.de/en/succow-stiftung/news/detail/cold-winter-deserts-of-turan-and-hyrcanian-forests-of-azerbaijan-inscribed-as-world-heritage-sites",
+    "https://www.worldheritagesite.org/list/id/1584",
+    "https://unesco.az/en/articles/news/azerbaycanin-hirkan-meseleri-unesco-nun-umumdunya-irs-siyahisina-daxil-edilib"
+   ]
+  }
+ ]
+}

@@ -10,7 +10,7 @@ os.makedirs(OUT, exist_ok=True)
 s = open(TLF).read(); TL = json.loads(s[s.index('=') + 1:s.index(';if(')]); LINES = {l['id']: l for l in TL['lines']}
 
 SHORTS = [
-    ('ep06_s1_33km_gap', 'c0_2', 'c0_4', ['THIS 33 KM GAP', 'MOVES 1 IN 5', 'BARRELS OF OIL']),
+    ('ep07_s1_gold_cube', 'c2_1h', 'c2_3', ['HOW BIG IS', 'ALL THE GOLD', 'EVER MINED?']),
 ]
 
 def ass_for(t0, t1, path):

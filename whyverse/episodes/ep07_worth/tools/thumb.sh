@@ -1,6 +1,6 @@
 #!/bin/sh
 # thumb.sh -> ../thumbnail.jpg (1280x720). Renders tools/thumb.js in a temp copy of the film folder.
-E="$(cd "$(dirname "$0")/.." && pwd)"; T=/home/claude/thumb_ep06; rm -rf $T; mkdir -p $T
+E="$(cd "$(dirname "$0")/.." && pwd)"; T=/home/claude/thumb_ep07; rm -rf $T; mkdir -p $T
 cp -r $E/film/engine $E/film/*.js $E/film/index.html $T/; cp $E/tools/thumb.js $T/film.js
 python3 - "$T/index.html" <<'PY'
 import re,sys; p=sys.argv[1]; s=open(p).read(); s=re.sub(r'<script src="ch\d\.js"></script>\n','',s); open(p,'w').write(s)

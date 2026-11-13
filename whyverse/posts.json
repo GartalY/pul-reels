@@ -802,6 +802,49 @@
    "topic": "FOLLOW-UP to 12 Nov Short: Jensen Huang resigned as Nvidia CEO 12 Nov 2026 effective immediately after 33 years; CFO Colette Kress interim CEO; Harvey Jones first-ever board chair; shares fell >4% Thu; earnings Tue 17 Nov",
    "network": "tiktok",
    "metricool_id": 426868634
+  },
+  {
+   "episode": "ep07_worth",
+   "kind": "long",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep07/ep07_worth_long.mp4",
+   "time_london": "2026-11-14T19:00",
+   "time_baku": "2026-11-14T23:00",
+   "network": "youtube",
+   "metricool_id": 427570634,
+   "title": "How Much Is the Whole World Actually Worth?",
+   "style": "blueprint",
+   "fps": 60,
+   "ai_label": true
+  },
+  {
+   "episode": "ep07_worth",
+   "kind": "short",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep07/ep07_s1_gold_cube.mp4",
+   "time_london": "2026-11-16T23:00",
+   "time_baku": "2026-11-17T03:00",
+   "network": "youtube",
+   "metricool_id": 427570952,
+   "ai_label": true
+  },
+  {
+   "episode": "ep07_worth",
+   "kind": "short",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep07/ep07_s1_gold_cube.mp4",
+   "time_london": "2026-11-16T23:00",
+   "time_baku": "2026-11-17T03:00",
+   "network": "instagram",
+   "metricool_id": 427570967,
+   "ai_label": true
+  },
+  {
+   "episode": "ep07_worth",
+   "kind": "short",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep07/ep07_s1_gold_cube.mp4",
+   "time_london": "2026-11-16T23:00",
+   "time_baku": "2026-11-17T03:00",
+   "network": "tiktok",
+   "metricool_id": 427570983,
+   "ai_label": true
   }
  ]
 }

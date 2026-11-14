@@ -77,7 +77,7 @@ or ≥ 1 reel > 5,000 views; Whyverse: any platform growing week over week. Repo
 ## PAID PROMOTION NOTE (Gartal 2026-11-15 ~01:00 Baku)
 Gartal paid for one small promotion on bilirdinizmi: $2 Instagram + $2 TikTok. Daily reports and the Sunday/Wednesday reviews
 must mark follower/view changes from 15 Nov onward as "includes paid promo" and not count them as organic growth. Compare the
-retention of promo-gained followers (do they keep watching?) with organic ones. No other paid promotion unless Gartal says so.
+retention of promo-gained followers (do they keep watching?) with organic ones. WEEKLY BOOST (Gartal 2026-11-15 01:18): from now on, ONE $2 Instagram boost per week (~$8/month), done by Gartal himself in the app (Claude never pays or touches payment). The Sunday weekly review must end with a 'BOOST PICK' line: the best bilirdinizmi reel of the last 7 days (most shares + saves + comments per view, not just views), audience = Azerbaijan, and why. Track each boost: cost, reel, followers gained, and whether those followers still watch a week later. If two boosts in a row bring followers who don't watch, recommend stopping. TikTok boosts only if Gartal asks.
 
 ## TREND FRESHNESS (Gartal 2026-11-12: "make sure it's a new trend, something that happened yesterday or today … we are always away from the trends")
 The 18:30 trend reel must be about something from the last 24–48 h that people in Azerbaijan are talking about NOW. 09:10 picks it, 15:23 re-checks the news

@@ -68,6 +68,12 @@ or ≥ 1 reel > 5,000 views; Whyverse: any platform growing week over week. Repo
 3. Experiments: E1 (motion vs static) ENDED — motion wins by Gartal's decision; E7 continues as the only format.
    Judge by views/shares per post, not total views (fewer posts = lower totals, that's expected).
 
+4. CONTEXT CHECK (lesson 2026-11-14, football reel "Bir xaldan səkkiz xala"): we said "back to League C unbeaten", but UEFA
+   abolishes League D from 2028-29 and ALL six D teams move to C automatically — a commenter corrected us (8 likes) and another
+   mocked "I wish you knew some facts". Before any sports/news reel, ask "is there a catch that makes this achievement smaller?"
+   (rule changes, automatic promotion, weak opponents) and search for it. If there is, say it honestly in the reel or pick another
+   angle. Fans know their topic; a missing catch costs trust. When a commenter corrects us correctly: thank them, admit it, pin it.
+
 ## TREND FRESHNESS (Gartal 2026-11-12: "make sure it's a new trend, something that happened yesterday or today … we are always away from the trends")
 The 18:30 trend reel must be about something from the last 24–48 h that people in Azerbaijan are talking about NOW. 09:10 picks it, 15:23 re-checks the news
 (2nd check of the day) and swaps if something hotter broke since morning. Big world stories that are everywhere in AZ feeds (e.g. Nvidia/Jensen Huang scandal,

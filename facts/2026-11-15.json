@@ -1,0 +1,87 @@
+{
+ "date": "2026-11-15",
+ "status": "planned",
+ "format": "v2",
+ "content_format": "quality_reset_2026-11-12",
+ "planned_note": "Planned in the 2026-11-14 09:10 run. Sun 15 Nov: 13:00 static factgen reel (no voice per 1i, IG TRIAL_REEL per 1j) = facts[0] Shamakhi observatory (unaired 13 Nov plan, upgraded: 67th birthday on 17 Nov + Moon crater twist). 18:30 animated 60 fps Arif reel = freshest trend (15:23 decides) else facts[1] last tigers of Azerbaijan 1932. No carousels/quizzes/stories.",
+ "facts": [
+  {
+   "n": 1,
+   "type": "reel",
+   "slot": "13:00",
+   "static": true,
+   "voiced": false,
+   "cat": "Kosmos",
+   "subject": "Shamakhy Astrophysical Observatory named after Nasir al-Din Tusi. Wikipedia: 'established on November 17, 1959, by decree No. 975 of the Council of Ministers of the Azerbaijan SSR'; 'at an altitude of 1435–1500 m'; '150 km from the city of Baku'; 2-m Carl Zeiss Jena reflector (D=2080 mm) 'put into operation in September 1966', 'the third-largest in the former USSR after two identical Russian-made 2.6-meter telescopes'; named after Tusi in 1981. shao.az: 'established in 1959 by the decision (17 november)', 'the height 1500 m', '150 km from Baku', 2-m telescope by 'Carl Seyss of the GDR' 'commissioned in September 1966', named after Nasreddin Tusi 1981, lunar crater named after Nasreddin Tusi. azertag.az 26 Mar 2026: 'an altitude of 1,500 meters above sea level', peak of Pirgulu Mountain. Moon crater: Wikipedia 'Nasireddin (crater)' (lunar crater named after Nasir al-Din al-Tusi) + shao.az. 17 Nov 2026 = 67 years. Not used: 'largest in the Caucasus' (not on pages read), clear-night counts (sources disagree 150–200), Mercury crater 'Nizami' (one source only).",
+   "title": "2 metrlik güzgü: Şamaxının teleskopu",
+   "text": "Şamaxı yaxınlığında, 1 500 metr hündürlükdə 2 metrlik güzgüsü olan teleskop var. 1966-cı ildə işə düşəndə SSRİ-nin üçüncü ən böyük teleskopu idi.",
+   "reel_hook": "2 METRLİK GÜZGÜ: ŞAMAXININ TELESKOPU",
+   "reel_beats": [
+    "Şamaxıda, Pirqulu yaxınlığında dağın başında rəsədxana var. O, Bakıdan 150 kilometr uzaqda, təxminən 1 500 metr hündürlükdədir.",
+    "Onun ən böyük teleskopunun güzgüsü 2 metrdir. Teleskopu Almaniyada «Carl Zeiss» zavodu düzəldib, 1966-cı ildə işə salıblar.",
+    "O vaxt bu, SSRİ-nin üçüncü ən böyük teleskopu idi. Rəsədxana 1959-cu il noyabrın 17-də yaradılıb."
+   ],
+   "payoff": "Rəsədxana Nəsirəddin Tusinin adını daşıyır. Ayda da onun adına krater var.",
+   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+   "caption": "Şamaxı rəsədxanası: 2 metrlik güzgüsü olan teleskop 🔭\n\nŞamaxı Astrofizika Rəsədxanası Pirqulu yaxınlığında, dağın başında, təxminən 1 500 metr hündürlükdədir — Bakıdan 150 kilometr uzaqda. Onun ən böyük teleskopunun güzgüsü 2 metrdir. Teleskopu Almaniyada «Carl Zeiss» zavodu düzəldib və 1966-cı ilin sentyabrında işə salıblar: o vaxt bu, SSRİ-nin üçüncü ən böyük teleskopu idi. Rəsədxana 1959-cu il noyabrın 17-də yaradılıb — bu çərşənbə axşamı onun 67 yaşı tamam olur. 1981-ci ildən Nəsirəddin Tusinin adını daşıyır; Ayda da onun adına krater var.\n\n📩 Ulduzlara baxmağı sevən dostuna göndər — Şamaxıya gedək 🌌\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nFoto: Uzeyir Mikayilov / Wikimedia Commons\n\n#bilirdinizmi #şamaxı #rəsədxana #kosmos #azərbaycan",
+   "first_comment": "Sən Şamaxı rəsədxanasında olmusan? 👇",
+   "photo": {
+    "path": "fetch/img/2026-11-13_2_shao_telescope0.jpg",
+    "credit": "Uzeyir Mikayilov / Wikimedia Commons",
+    "cy": 0.45,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Telescope_in_Pirgulu_State_Reserve_Observatory._Photo_by_Uzeyir_Mikayilov_0.jpg",
+    "note": "Re-checked 14 Nov 09:40: 1920x1440 landscape, big silver dome, trees, grey sky; no watermark/text (listed Public domain on Commons per 13 Nov check). Caption doesn't claim it's the 2-m dome. Spare: 2026-11-13_2_shao_15.jpg (portrait, inside the dome, very dark — needs brightening)."
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Shamakhy_Astrophysical_Observatory",
+    "https://shao.az/en/content/1",
+    "https://azertag.az/en/xeber/4093307",
+    "https://en.wikipedia.org/wiki/Nasireddin_(crater)"
+   ]
+  },
+  {
+   "n": 2,
+   "type": "reel",
+   "slot": "18:30 backup",
+   "motion": true,
+   "fps": 60,
+   "voiced": "Arif",
+   "cat": "Təbiət",
+   "subject": "Caspian (Turanian) tiger in Azerbaijan. Wikipedia 'Historical tiger hunts in Azerbaijan': 'The last documented Caspian tiger hunt in Azerbaijan occurred in 1932 near Göytəpə, when both a male and a female tiger were killed'; Göytəpə = Jalilabad district; tigers 'most suitable' in 'southeastern Azerbaijan, especially in the Talish region'; 'In the mid-19th century, 10–20 Turanian tigers were reportedly hunted each year around Lankaran'. Baku Research Institute (17 Aug 2023): 1932 Goytepe, 2, 'The last Turanian (male and female) tigers hunted and killed in Azerbaijan'; 10–20 'seen annually' (Brandt 1856) -> wording 'rast gəlinirdi'; later Lankaran sightings 'difficult to verify', 'probably sightings of leopards'. Wikipedia/Wikiwand Caspian tiger: 'In Azerbaijan, the last known tiger was killed in 1932; however, tigers were allegedly sighted in later years in the Talysh Mountains'; population extinct (1970s). 2026-1932 = 94. Not used: 1846 woman with an axe (one source), 50–80 left in 1950 (one source), Amur reintroduction, exact extinction year (sources differ).",
+   "title": "94 il əvvəl: Azərbaycanın son pələngləri",
+   "reel_hook": "94 İL ƏVVƏL: AZƏRBAYCANIN SON PƏLƏNGLƏRİ",
+   "reel_beats": [
+    "Bir vaxtlar Azərbaycanın cənubunda, Talış meşələrində və Lənkəran ətrafında pələnglər yaşayırdı. Bu, Turan pələngi idi.",
+    "XIX əsrin ortalarında Lənkəran ətrafında hər il 10–20 pələngə rast gəlinirdi.",
+    "1932-ci ildə Göytəpə yaxınlığında bir erkək və bir dişi pələng öldürüldü. Bu, Azərbaycanda qeydə alınmış son pələng ovudur."
+   ],
+   "payoff": "Sonra Talış dağlarında pələng gördüyünü deyənlər olub. Amma alimlərin fikrincə, bunlar çox güman ki, bəbirlər idi. Turan pələnginin nəsli isə bütün dünyada kəsilib.",
+   "voice_texts": [
+    "Doxsan dörd il əvvəl. Azərbaycanın son pələngləri.",
+    "Bir vaxtlar Talış meşələrində və Lənkəran ətrafında pələnglər yaşayırdı.",
+    "On doqquzuncu əsrin ortalarında Lənkəran ətrafında hər il on-iyirmi pələngə rast gəlinirdi.",
+    "Min doqquz yüz otuz ikinci ildə Göytəpə yaxınlığında son iki pələng öldürüldü — bir erkək və bir dişi.",
+    "Sonra pələng gördüyünü deyənlər olub, amma alimlərin fikrincə, bunlar bəbirlər idi.",
+    "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
+   ],
+   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+   "caption": "Azərbaycanın son pələngləri: 94 il əvvəl 🐅\n\nBir vaxtlar Azərbaycanın cənubunda — Talış meşələrində və Lənkəran ətrafında Turan (Xəzər) pələngi yaşayırdı. XIX əsrin ortalarında Lənkəran ətrafında hər il 10–20 pələngə rast gəlinirdi. 1932-ci ildə Göytəpə yaxınlığında bir erkək və bir dişi pələng öldürüldü — bu, Azərbaycanda qeydə alınmış son pələng ovudur. Sonralar Talış dağlarında pələng gördüyünü deyənlər olub, amma alimlərin fikrincə, bunlar çox güman ki, bəbirlər idi. Bu gün Turan pələnginin nəsli bütün dünyada kəsilmiş sayılır.\n\n📩 Heyvanları sevən dostuna göndər 🐾\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nSəs: elevenlabs.io\n\n#bilirdinizmi #pələng #lənkəran #təbiət #azərbaycan",
+   "first_comment": "Bilirdin ki, Azərbaycanda pələng yaşayıb? 👇",
+   "visual_ideas": [
+    "Frame 0: giant '94' with tiger-stripe fill, 'İL ƏVVƏL' + 'SON PƏLƏNGLƏR'; counter 0/4 in a corner.",
+    "Flat map of Azerbaijan: south-east (Lənkəran, Talış, Göytəpə) glows; stripes sweep across the forest.",
+    "Tally board: paw prints pop 1→20 with ticks ('hər il 10–20').",
+    "Calendar flips to 1932, two tiger SILHOUETTES in the forest fade to outlines (no blood, no hunters shown).",
+    "Binoculars view: shadow looks like a tiger, focus pulls → it's a leopard's spots; '?' mark.",
+    "Loop back to '94'; CTA card. Tiger must be instantly recognisable (stripes, orange/black) — rule 1f(e)."
+   ],
+   "sfx": "wind in leaves, paw thuds, page flip, focus click; no roars, no music",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Historical_tiger_hunts_in_Azerbaijan",
+    "https://bakuresearchinstitute.org/en/extinct-big-cat-in-azerbaijan-the-turanian-tiger/",
+    "https://en.wikipedia.org/wiki/Caspian_tiger"
+   ]
+  }
+ ]
+}

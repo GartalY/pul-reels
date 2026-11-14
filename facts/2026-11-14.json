@@ -116,5 +116,70 @@
  "youtube": {
   "13:00 İsmailiyyə 2/2": 427204153
  },
- "scheduled_check": "20:54 13 Nov: getScheduledPosts for 14 Nov was empty before creating (no old-format 16:00/21:30/11:00/19:45 posts)"
+ "scheduled_check": "20:54 13 Nov: getScheduledPosts for 14 Nov was empty before creating (no old-format 16:00/21:30/11:00/19:45 posts)",
+ "trend": {
+  "n": "T",
+  "type": "reel",
+  "format": "animated_1830",
+  "cat": "İdman",
+  "picked_at": "09:10–09:45 Baku 14 Nov (1st trend check)",
+  "source_scan": "WebSearch 14 Nov: 1news.az (02:00 14 Nov) + trend.az 4246323 = AZ beat Liechtenstein 1-0 in Vaduz, won Nations League D group 2 early; trend.az 14 Nov also: Leyla Aliyeva at COP31 joint pavilion, earthquake in Türkiye (trend.az 4246346), Iran Qom investment. ESPN match page not fetchable (permission timeout). oxu.az/report.az not checked separately this run.",
+  "subject": "UEFA Nations League 2026/27, League D Group 2, Fri 13 Nov 2026 (23:45 Baku), Rheinpark Stadium, Vaduz: Liechtenstein 0-1 Azerbaijan. 1news.az: 'decided by an accurate strike from Mahir Emreli in the 26th minute'; Rahil Mammadov goal 'was not counted by the referees'; 'After four rounds, the Azerbaijani team has eight points. Lithuania has four points, and Liechtenstein has one.'; 'can no longer change Azerbaijan's position'; 'Aykhan Abbasov's team to take first place in Group D2 ahead of schedule'; next: friendly away at Andorra 16 Nov. trend.az: '1–0 victory for Azerbaijan, with Mahir Emreli scoring the decisive goal in the 26th minute'; 'finished its group-stage campaign in first place with eight points'; head coach Aykhan Abbasov; last group game Lithuania v Liechtenstein 16 Nov. Wikipedia 2026–27 UNL D: 'The winners of both groups will be automatically promoted to the 2028–29 UEFA Nations League C' (+ idman.biz sidebar 'guaranteed promotion to League C'). 8 pts from 4 games = 2 W + 2 D (unbeaten, arithmetic). TWIST: Wikipedia 2024–25 UNL C Group 1 table: Azerbaijan 6 played, 0 W 1 D 5 L, goals 3–17, 1 point, 4th, relegated to League D; idman.biz 16 Nov 2024 'First point secured, but League D awaits' (0-0 Estonia in Gabala, coach Fernando Santos). Not used: 'first ever'/records (no source says so), Santos name on screen, ESPN details.",
+  "title": "1 xaldan 8 xala: millimiz qrupun birincisi",
+  "reel_hook": "1 XAL → 8 XAL: MİLLİMİZ QRUPUN BİRİNCİSİ",
+  "reel_beats": [
+   "Dünən gecə millimiz Vaduzda Lixtenşteyni 1:0 hesabı ilə məğlub etdi. Qolu 26-cı dəqiqədə Mahir Emreli vurdu.",
+   "Bu qələbədən sonra Azərbaycanın 4 oyunda 8 xalı var. Litvanın 4, Lixtenşteynin cəmi 1 xalı var.",
+   "Qrupun son oyunu artıq heç nəyi dəyişmir: millimiz Millətlər Liqasında D liqasının 2-ci qrupunun qalibidir.",
+   "İki il əvvəl isə hər şey başqa idi: 2024-cü ildə C liqasında millimiz 6 oyunda cəmi 1 xal toplayıb D liqasına düşmüşdü."
+  ],
+  "payoff": "Qaydaya görə qrup qalibləri C liqasına yüksəlir. Yəni millimiz yenidən C liqasına qayıdır — bu dəfə məğlubiyyətsiz.",
+  "voice_texts": [
+   "Bir xaldan səkkiz xala. Millimiz qrupun birincisidir.",
+   "Dünən gecə Vaduzda millimiz Lixtenşteyni bir sıfır hesabı ilə məğlub etdi. Qolu iyirmi altıncı dəqiqədə Mahir Emreli vurdu.",
+   "İndi millimizin dörd oyunda səkkiz xalı var. Qrupun son oyunu artıq heç nəyi dəyişmir.",
+   "İki il əvvəl isə C liqasında altı oyunda cəmi bir xal toplayıb D liqasına düşmüşdük.",
+   "İndi qrup qalibi kimi yenidən C liqasına qayıdırıq — bu dəfə məğlubiyyətsiz.",
+   "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
+  ],
+  "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+  "caption": "Azərbaycan millisi Millətlər Liqasında qrupun birincisidir: 1 xaldan 8 xala ⚽🇦🇿\n\nDünən gecə Vaduzda millimiz Lixtenşteyni 1:0 hesabı ilə məğlub etdi — qolu 26-cı dəqiqədə Mahir Emreli vurdu. 4 oyundan sonra Azərbaycanın 8 xalı var (Litva — 4, Lixtenşteyn — 1), qrupun son oyunu artıq yeri dəyişmir. İki il əvvəl, 2024-cü ildə, millimiz C liqasında 6 oyunda cəmi 1 xal toplayıb D liqasına düşmüşdü. Qaydaya görə qrup qalibləri C liqasına yüksəlir — yəni Ayxan Abbasovun komandası yenidən C liqasına qayıdır.\n\n📩 Futbolsevər dostuna göndər ⚽\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nSəs: elevenlabs.io\n\n#bilirdinizmi #azərbaycanmillisi #millətlərliqası #emreli #futbol",
+  "first_comment": "Sizcə, C liqasında millimiz neçə xal toplayar? 👇",
+  "visual_ideas": [
+   "Frame 0: huge '1' scoreboard digit flips to '8' (split-flap), 'XAL' under it, 'MİLLİMİZ QRUPUN BİRİNCİSİ' word-by-word; progress counter 0/4 in a corner (lesson 1b).",
+   "Flat stadium at night with Alpine mountain outlines (Vaduz), ball flies from a SILHOUETTE striker (no face, rule 1g) into the net at '26:00' clock; net ripples, scoreboard LIE 0 : 1 AZE with a thud.",
+   "Group table as cards stacking: AZƏ 8 / LİT 4 / LİE 1 — AZ card slides to the top with a stamp 'QRUPUN BİRİNCİSİ'; padlock clicks shut ('son oyun heç nəyi dəyişmir').",
+   "Rewind effect (tape whirl) to 2024: grey palette, an elevator/arrow drops from 'C' to 'D', counter '6 oyun = 1 xal'.",
+   "Elevator goes back up D → C with green arrow, '2 qələbə + 2 heç-heçə = 0 məğlubiyyət' ticker.",
+   "Loop: '8' collapses back to '1' and flips again; CTA card 'Bəyən və izlə'. No club/UEFA logos, no player photos."
+  ],
+  "sfx": "crowd-free: whoosh on the ball, net thud, split-flap ticks, stamp thud, tape-rewind whirl; no music, no chants",
+  "sources": [
+   "https://1news.az/en/news/20261114020009519-Azerbaijan-s-national-team-beat-Liechtenstein-and-won-its-Nations-League-group-ahead-of-schedule",
+   "https://www.trend.az/azerbaijan/4246323.html",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Nations_League_D",
+   "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Nations_League_C",
+   "https://www.idman.biz/en/news/football/51610"
+  ],
+  "runner_ups": [
+   {
+    "story": "Earthquake in Türkiye 14 Nov (trend.az world/turkey/4246346)",
+    "note": "15:23: check magnitude/damage on 2 sources; tragedy rules = sober, science/safety angle only, or skip."
+   },
+   {
+    "story": "AZ vs Andorra friendly away 16 Nov / Lithuania–Liechtenstein 16 Nov",
+    "note": "Not fresh until Monday; only if nothing else."
+   },
+   {
+    "story": "Leyla Aliyeva at COP31 joint Heydar Aliyev Foundation / Zero Waste pavilion (trend.az 4246326)",
+    "note": "neutral official news, weak fact angle."
+   }
+  ],
+  "check_1523": "Re-check apa.az/report.az/oxu.az; if nothing hotter, build this. Keep 'qaydaya görə' wording for promotion (no article states the word 'promoted' yet; check report.az/affa.az)."
+ },
+ "trend_check_morning": {
+  "checked_at": "09:10–09:50 Baku 14 Nov",
+  "choice": "AZ national team 1-0 at Liechtenstein, group won early, back to League C (1 pt in 2024 → 8 pts now)",
+  "why": "Freshest AZ story (last night), positive sports news people share; number-first twist from the 2024 relegation."
+ }
 }

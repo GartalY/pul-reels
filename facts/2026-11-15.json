@@ -1,6 +1,6 @@
 {
  "date": "2026-11-15",
- "status": "planned",
+ "status": "13:00 scheduled (static, no voice, IG TRIAL_REEL); 18:30 animated Arif reel = 14:47/15:23 tasks",
  "format": "v2",
  "content_format": "quality_reset_2026-11-12",
  "planned_note": "Planned in the 2026-11-14 09:10 run. Sun 15 Nov: 13:00 static factgen reel (no voice per 1i, IG TRIAL_REEL per 1j) = facts[0] Shamakhi observatory (unaired 13 Nov plan, upgraded: 67th birthday on 17 Nov + Moon crater twist). 18:30 animated 60 fps Arif reel = freshest trend (15:23 decides) else facts[1] last tigers of Azerbaijan 1932. No carousels/quizzes/stories.",
@@ -38,7 +38,28 @@
     "https://shao.az/en/content/1",
     "https://azertag.az/en/xeber/4093307",
     "https://en.wikipedia.org/wiki/Nasireddin_(crater)"
-   ]
+   ],
+   "build": {
+    "file": "out/2026-11-15/1_reel.mp4",
+    "dur_s": 24.0,
+    "voice": null,
+    "sound": "ambience, no music",
+    "hook_bg": true,
+    "spec": {
+     "hook": "2 METRLİK GÜZGÜ: ŞAMAXININ TELESKOPU",
+     "beats": [
+      "Şamaxıda, Pirqulu yaxınlığında dağın başında rəsədxana var. O, Bakıdan 150 kilometr uzaqda, təxminən 1 500 metr hündürlükdədir.",
+      "Onun ən böyük teleskopunun güzgüsü 2 metrdir. Teleskopu Almaniyada «Carl Zeiss» zavodu düzəldib, 1966-cı ildə işə salıblar.",
+      "O vaxt bu, SSRİ-nin üçüncü ən böyük teleskopu idi. Rəsədxana 1959-cu il noyabrın 17-də yaradılıb.",
+      "Rəsədxana Nəsirəddin Tusinin adını daşıyır. Ayda da onun adına krater var."
+     ],
+     "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+     "seed": 15,
+     "cy": 0.45,
+     "hook_bg": true
+    },
+    "checked": "9-frame sheet 14 Nov 20:47: AZ letters (ə ı ş ğ ü İ) render fine, numbers don't split, text in safe zone, CTA pill on last beat"
+   }
   },
   {
    "n": 2,
@@ -83,5 +104,18 @@
     "https://en.wikipedia.org/wiki/Caspian_tiger"
    ]
   }
- ]
+ ],
+ "metricool": {
+  "13:00 reel (Şamaxı rəsədxanası, static, silent, IG TRIAL_REEL)": 428157647
+ },
+ "ig_type": {
+  "13:00": "TRIAL_REEL"
+ },
+ "tiktok": {
+  "13:00 Şamaxı rəsədxanası": 428157875
+ },
+ "youtube": {
+  "13:00 Şamaxı rəsədxanası": 428157793
+ },
+ "scheduled_check": "20:48 14 Nov: getScheduledPosts for 15 Nov was empty before creating (no old-format 16:00/21:30/11:00/19:45 posts); no pending_schedule in 10–14 Nov JSONs. TikTok first attempt rejected for missing tiktokData.title (nothing created), retried with title OK."
 }

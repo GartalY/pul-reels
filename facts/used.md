@@ -33,3 +33,4 @@
 - 2026-11-14 13:00: İsmailiyyə sarayı (Musa Nağıyev 2/2)
 - 2026-11-14 trend (09:10 pick for 18:30): AZ 1-0 Liechtenstein (Emreli 26'), 8 pts, group won → League C (1 pt in 2024–25 C)
 - 2026-11-15 (planned): Shamakhi observatory 2-m Zeiss telescope, 1959/1966, Tusi Moon crater (13:00 static) · last tigers of Azerbaijan 1932 Göytəpə (18:30 animated backup)
+- 2026-11-15 13:00: Şamaxı Astrofizika Rəsədxanası (2 m teleskop, Tusi krateri)

@@ -1,850 +1,866 @@
 {
- "brand": 7816628,
- "note": "Metricool copies media to its own storage when a post is created, so whyverse-media files are only needed at scheduling time.",
- "posts": [
-  {
-   "episode": "ep01_bees",
-   "kind": "long",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/ep01_bees.mp4",
-   "time_london": "2026-11-03T19:00",
-   "network": "youtube",
-   "metricool_id": 414920632,
-   "title": "What If Every Bee Disappeared? (Einstein Never Said This)"
-  },
-  {
-   "episode": "ep01_bees",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s1_einstein_cc.mp4",
-   "time_london": "2026-11-04T17:00",
-   "network": "youtube",
-   "metricool_id": 414937651
-  },
-  {
-   "episode": "ep01_bees",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s1_einstein_cc.mp4",
-   "time_london": "2026-11-04T17:00",
-   "network": "instagram",
-   "metricool_id": 414937661
-  },
-  {
-   "episode": "ep01_bees",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s1_einstein_cc.mp4",
-   "time_london": "2026-11-04T17:00",
-   "network": "tiktok",
-   "metricool_id": 414937676
-  },
-  {
-   "episode": "ep01_bees",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s2_colour_cc.mp4",
-   "time_london": "2026-11-04T23:00",
-   "network": "youtube",
-   "metricool_id": 414937688
-  },
-  {
-   "episode": "ep01_bees",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s2_colour_cc.mp4",
-   "time_london": "2026-11-04T23:00",
-   "network": "instagram",
-   "metricool_id": 414937697
-  },
-  {
-   "episode": "ep01_bees",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s2_colour_cc.mp4",
-   "time_london": "2026-11-04T23:00",
-   "network": "tiktok",
-   "metricool_id": 414937710
-  },
-  {
-   "episode": "ep01_bees",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s3_maoxian_cc.mp4",
-   "time_london": "2026-11-05T17:00",
-   "network": "youtube",
-   "metricool_id": 414938135
-  },
-  {
-   "episode": "ep01_bees",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s3_maoxian_cc.mp4",
-   "time_london": "2026-11-05T17:00",
-   "network": "instagram",
-   "metricool_id": 414938145
-  },
-  {
-   "episode": "ep01_bees",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s3_maoxian_cc.mp4",
-   "time_london": "2026-11-05T17:00",
-   "network": "tiktok",
-   "metricool_id": 414938154
-  },
-  {
-   "episode": "ep01_bees",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s4_almonds_cc.mp4",
-   "time_london": "2026-11-05T23:00",
-   "network": "youtube",
-   "metricool_id": 414938190
-  },
-  {
-   "episode": "ep01_bees",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s4_almonds_cc.mp4",
-   "time_london": "2026-11-05T23:00",
-   "network": "instagram",
-   "metricool_id": 414938200
-  },
-  {
-   "episode": "ep01_bees",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s4_almonds_cc.mp4",
-   "time_london": "2026-11-05T23:00",
-   "network": "tiktok",
-   "metricool_id": 414938206
-  },
-  {
-   "episode": "ep01_bees",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s5_chocolate_cc.mp4",
-   "time_london": "2026-11-06T17:00",
-   "network": "youtube",
-   "metricool_id": 414938220
-  },
-  {
-   "episode": "ep01_bees",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s5_chocolate_cc.mp4",
-   "time_london": "2026-11-06T17:00",
-   "network": "instagram",
-   "metricool_id": 414938233
-  },
-  {
-   "episode": "ep01_bees",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s5_chocolate_cc.mp4",
-   "time_london": "2026-11-06T17:00",
-   "network": "tiktok",
-   "metricool_id": 414938245
-  },
-  {
-   "episode": "ep02_moon",
-   "kind": "long",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep02/ep02_moon_long.mp4",
-   "time_london": "2026-11-05T19:00",
-   "network": "youtube",
-   "metricool_id": 417122498,
-   "title": "What If the Moon Disappeared? (It's Slowly Leaving)"
-  },
-  {
-   "episode": "ep02_moon",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep02/ep02_s1_vanish.mp4",
-   "time_london": "2026-11-06T23:00",
-   "network": "youtube",
-   "metricool_id": 417122987
-  },
-  {
-   "episode": "ep02_moon",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep02/ep02_s1_vanish.mp4",
-   "time_london": "2026-11-06T23:00",
-   "network": "instagram",
-   "metricool_id": 417123007
-  },
-  {
-   "episode": "ep02_moon",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep02/ep02_s1_vanish.mp4",
-   "time_london": "2026-11-06T23:00",
-   "network": "tiktok",
-   "metricool_id": 417123029
-  },
-  {
-   "episode": "ep02_moon",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep02/ep02_s2_asphalt.mp4",
-   "time_london": "2026-11-07T17:00",
-   "network": "youtube",
-   "metricool_id": 417123049
-  },
-  {
-   "episode": "ep02_moon",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep02/ep02_s2_asphalt.mp4",
-   "time_london": "2026-11-07T17:00",
-   "network": "instagram",
-   "metricool_id": 417123060
-  },
-  {
-   "episode": "ep02_moon",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep02/ep02_s2_asphalt.mp4",
-   "time_london": "2026-11-07T17:00",
-   "network": "tiktok",
-   "metricool_id": 417123075
-  },
-  {
-   "episode": "ep02_moon",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep02/ep02_s3_reef.mp4",
-   "time_london": "2026-11-07T23:00",
-   "network": "youtube",
-   "metricool_id": 417123556
-  },
-  {
-   "episode": "ep02_moon",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep02/ep02_s3_reef.mp4",
-   "time_london": "2026-11-07T23:00",
-   "network": "instagram",
-   "metricool_id": 417123576
-  },
-  {
-   "episode": "ep02_moon",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep02/ep02_s3_reef.mp4",
-   "time_london": "2026-11-07T23:00",
-   "network": "tiktok",
-   "metricool_id": 417123592
-  },
-  {
-   "episode": "ep02_moon",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep02/ep02_s4_18hours.mp4",
-   "time_london": "2026-11-08T17:00",
-   "network": "youtube",
-   "metricool_id": 417123640
-  },
-  {
-   "episode": "ep02_moon",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep02/ep02_s4_18hours.mp4",
-   "time_london": "2026-11-08T17:00",
-   "network": "instagram",
-   "metricool_id": 417123652
-  },
-  {
-   "episode": "ep02_moon",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep02/ep02_s4_18hours.mp4",
-   "time_london": "2026-11-08T17:00",
-   "network": "tiktok",
-   "metricool_id": 417123672
-  },
-  {
-   "episode": "ep02_moon",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep02/ep02_s5_leaving.mp4",
-   "time_london": "2026-11-08T23:00",
-   "network": "youtube",
-   "metricool_id": 417123683
-  },
-  {
-   "episode": "ep02_moon",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep02/ep02_s5_leaving.mp4",
-   "time_london": "2026-11-08T23:00",
-   "network": "instagram",
-   "metricool_id": 417123692
-  },
-  {
-   "episode": "ep02_moon",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep02/ep02_s5_leaving.mp4",
-   "time_london": "2026-11-08T23:00",
-   "network": "tiktok",
-   "metricool_id": 417123767
-  },
-  {
-   "episode": "short_2026-11-05_swift-falls",
-   "kind": "minute",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-05_swift-falls.mp4",
-   "time_london": "2026-11-05T20:00",
-   "network": "youtube",
-   "metricool_id": 417536934,
-   "style": "neon",
-   "topic": "NASA Swift re-entry: why it fell (solar max, drag)",
-   "title": "NASA Built It to Last 2 Years. It Lasted 22. #shorts"
-  },
-  {
-   "episode": "short_2026-11-05_swift-falls",
-   "kind": "minute",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-05_swift-falls.mp4",
-   "time_london": "2026-11-05T20:00",
-   "network": "instagram",
-   "metricool_id": 417536959,
-   "style": "neon",
-   "topic": "NASA Swift re-entry: why it fell (solar max, drag)"
-  },
-  {
-   "episode": "short_2026-11-05_swift-falls",
-   "kind": "minute",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-05_swift-falls.mp4",
-   "time_london": "2026-11-05T20:00",
-   "network": "tiktok",
-   "metricool_id": 417536985,
-   "style": "neon",
-   "topic": "NASA Swift re-entry: why it fell (solar max, drag)"
-  },
-  {
-   "episode": "ep03_darksky",
-   "kind": "long",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep03/ep03_darksky_long.mp4",
-   "time_london": "2026-11-08T19:00",
-   "network": "youtube",
-   "metricool_id": 420291344,
-   "title": "Why Is the Sky Dark at Night? (It Should Be Blazing)"
-  },
-  {
-   "episode": "ep03_darksky",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep03/ep03_s1_blaze.mp4",
-   "time_london": "2026-11-09T17:00",
-   "network": "youtube",
-   "metricool_id": 420291605
-  },
-  {
-   "episode": "ep03_darksky",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep03/ep03_s1_blaze.mp4",
-   "time_london": "2026-11-09T17:00",
-   "network": "instagram",
-   "metricool_id": 420291615
-  },
-  {
-   "episode": "ep03_darksky",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep03/ep03_s1_blaze.mp4",
-   "time_london": "2026-11-09T17:00",
-   "network": "tiktok",
-   "metricool_id": 420291621
-  },
-  {
-   "episode": "ep03_darksky",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep03/ep03_s2_forest.mp4",
-   "time_london": "2026-11-09T23:00",
-   "network": "youtube",
-   "metricool_id": 420291777
-  },
-  {
-   "episode": "ep03_darksky",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep03/ep03_s2_forest.mp4",
-   "time_london": "2026-11-09T23:00",
-   "network": "instagram",
-   "metricool_id": 420291785
-  },
-  {
-   "episode": "ep03_darksky",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep03/ep03_s2_forest.mp4",
-   "time_london": "2026-11-09T23:00",
-   "network": "tiktok",
-   "metricool_id": 420291794
-  },
-  {
-   "episode": "ep03_darksky",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep03/ep03_s3_oven.mp4",
-   "time_london": "2026-11-10T17:00",
-   "network": "youtube",
-   "metricool_id": 420291948
-  },
-  {
-   "episode": "ep03_darksky",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep03/ep03_s3_oven.mp4",
-   "time_london": "2026-11-10T17:00",
-   "network": "instagram",
-   "metricool_id": 420291960
-  },
-  {
-   "episode": "ep03_darksky",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep03/ep03_s3_oven.mp4",
-   "time_london": "2026-11-10T17:00",
-   "network": "tiktok",
-   "metricool_id": 420291971
-  },
-  {
-   "episode": "ep03_darksky",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep03/ep03_s4_poet.mp4",
-   "time_london": "2026-11-10T23:00",
-   "network": "youtube",
-   "metricool_id": 420292202
-  },
-  {
-   "episode": "ep03_darksky",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep03/ep03_s4_poet.mp4",
-   "time_london": "2026-11-10T23:00",
-   "network": "instagram",
-   "metricool_id": 420292217
-  },
-  {
-   "episode": "ep03_darksky",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep03/ep03_s4_poet.mp4",
-   "time_london": "2026-11-10T23:00",
-   "network": "tiktok",
-   "metricool_id": 420292230
-  },
-  {
-   "episode": "ep03_darksky",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep03/ep03_s5_pigeons.mp4",
-   "time_london": "2026-11-11T17:00",
-   "network": "youtube",
-   "metricool_id": 420292400
-  },
-  {
-   "episode": "ep03_darksky",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep03/ep03_s5_pigeons.mp4",
-   "time_london": "2026-11-11T17:00",
-   "network": "instagram",
-   "metricool_id": 420292405
-  },
-  {
-   "episode": "ep03_darksky",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep03/ep03_s5_pigeons.mp4",
-   "time_london": "2026-11-11T17:00",
-   "network": "tiktok",
-   "metricool_id": 420292418
-  },
-  {
-   "episode": "short_2026-11-09_rain-glacier",
-   "kind": "minute",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-09_rain-glacier.mp4",
-   "time_london": "2026-11-09T20:00",
-   "network": "youtube",
-   "metricool_id": 421594946,
-   "style": "blueprint",
-   "topic": "Rain speeds up Turner Glacier, Alaska (7.5 m in a day): how water at the bed makes ice slide",
-   "title": "Rain Made This Glacier Slide 7.5 m in One Day #shorts"
-  },
-  {
-   "episode": "short_2026-11-09_rain-glacier",
-   "kind": "minute",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-09_rain-glacier.mp4",
-   "time_london": "2026-11-09T20:00",
-   "network": "instagram",
-   "metricool_id": 421594994,
-   "style": "blueprint",
-   "topic": "Rain speeds up Turner Glacier, Alaska (7.5 m in a day): how water at the bed makes ice slide"
-  },
-  {
-   "episode": "short_2026-11-09_rain-glacier",
-   "kind": "minute",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-09_rain-glacier.mp4",
-   "time_london": "2026-11-09T20:00",
-   "network": "tiktok",
-   "metricool_id": 421595028,
-   "style": "blueprint",
-   "topic": "Rain speeds up Turner Glacier, Alaska (7.5 m in a day): how water at the bed makes ice slide"
-  },
-  {
-   "episode": "short_2026-11-09_first-muslim-senator",
-   "kind": "trend",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-09_first-muslim-senator_v2.mp4",
-   "time_london": "2026-11-09T15:00",
-   "time_baku": "2026-11-09T19:00",
-   "style": "sticker-pop flat",
-   "topic": "Abdul El-Sayed: first Muslim U.S. senator (Michigan, 3 Nov 2026); Ellison 2007, Jefferson's Quran",
-   "network": "youtube",
-   "metricool_id": 421757252,
-   "title": "First Muslim U.S. Senator: 238 Years in the Making #shorts",
-   "note": "v2: illustrated faces (Gartal 2026-11-09)"
-  },
-  {
-   "episode": "short_2026-11-09_first-muslim-senator",
-   "kind": "trend",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-09_first-muslim-senator_v2.mp4",
-   "time_london": "2026-11-09T15:00",
-   "time_baku": "2026-11-09T19:00",
-   "style": "sticker-pop flat",
-   "topic": "Abdul El-Sayed: first Muslim U.S. senator (Michigan, 3 Nov 2026); Ellison 2007, Jefferson's Quran",
-   "network": "instagram",
-   "metricool_id": 421757270,
-   "note": "v2: illustrated faces (Gartal 2026-11-09)"
-  },
-  {
-   "episode": "short_2026-11-09_first-muslim-senator",
-   "kind": "trend",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-09_first-muslim-senator_v2.mp4",
-   "time_london": "2026-11-09T15:00",
-   "time_baku": "2026-11-09T19:00",
-   "style": "sticker-pop flat",
-   "topic": "Abdul El-Sayed: first Muslim U.S. senator (Michigan, 3 Nov 2026); Ellison 2007, Jefferson's Quran",
-   "network": "tiktok",
-   "metricool_id": 421757298,
-   "note": "v2: illustrated faces (Gartal 2026-11-09)"
-  },
-  {
-   "episode": "ep04_spin",
-   "kind": "long",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep04/ep04_spin_long.mp4",
-   "time_london": "2026-11-10T19:00",
-   "time_baku": "2026-11-10T23:00",
-   "network": "youtube",
-   "metricool_id": 422462470,
-   "style": "chalk",
-   "title": "What If Earth Stopped Spinning? (1,670 km/h to Zero)",
-   "thumbnail": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep04/ep04_thumbnail.jpg"
-  },
-  {
-   "episode": "ep04_spin",
-   "kind": "short1",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep04/ep04_s1_you_are_moving.mp4",
-   "time_london": "2026-11-11T23:00",
-   "time_baku": "2026-11-12T03:00",
-   "network": "youtube",
-   "metricool_id": 422462877,
-   "style": "chalk",
-   "title": "Earth's Spin: You're Moving 1,000+ km/h Right Now #shorts"
-  },
-  {
-   "episode": "ep04_spin",
-   "kind": "short1",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep04/ep04_s1_you_are_moving.mp4",
-   "time_london": "2026-11-11T23:00",
-   "time_baku": "2026-11-12T03:00",
-   "network": "instagram",
-   "metricool_id": 422462902,
-   "style": "chalk"
-  },
-  {
-   "episode": "ep04_spin",
-   "kind": "short1",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep04/ep04_s1_you_are_moving.mp4",
-   "time_london": "2026-11-11T23:00",
-   "time_baku": "2026-11-12T03:00",
-   "network": "tiktok",
-   "metricool_id": 424928878,
-   "old_metricool_id": 422462929,
-   "note": "2026-11-12 00:45 Baku: isAigc true added (AI LABELS rule); new id",
-   "style": "chalk",
-   "title": "Earth's Spin: You're Moving 1,000+ km/h"
-  },
-  {
-   "episode": "ep04_spin",
-   "kind": "short2",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep04/ep04_s2_sudden_stop.mp4",
-   "time_london": "2026-11-12T23:00",
-   "time_baku": "2026-11-13T03:00",
-   "network": "instagram",
-   "metricool_id": 422462959,
-   "style": "chalk"
-  },
-  {
-   "episode": "ep04_spin",
-   "kind": "short2",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep04/ep04_s2_sudden_stop.mp4",
-   "time_london": "2026-11-12T23:00",
-   "time_baku": "2026-11-13T03:00",
-   "network": "tiktok",
-   "metricool_id": 422462983,
-   "style": "chalk",
-   "title": "What If Earth Stopped Spinning Instantly?"
-  },
-  {
-   "episode": "short_2026-11-10_robot-builds-in-space",
-   "kind": "trend",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-10_robot-builds-in-space.mp4",
-   "time_london": "2026-11-10T15:00",
-   "time_baku": "2026-11-10T19:00",
-   "style": "neon",
-   "topic": "Caltech ASTRA: first structure built autonomously in space (no astronauts), DARPA NOM4D",
-   "network": "youtube",
-   "metricool_id": 423055772,
-   "title": "A Robot Just Built Something in Space, No Astronauts #shorts"
-  },
-  {
-   "episode": "short_2026-11-10_robot-builds-in-space",
-   "kind": "trend",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-10_robot-builds-in-space.mp4",
-   "time_london": "2026-11-10T15:00",
-   "time_baku": "2026-11-10T19:00",
-   "style": "neon",
-   "topic": "Caltech ASTRA: first structure built autonomously in space (no astronauts), DARPA NOM4D",
-   "network": "instagram",
-   "metricool_id": 423055309
-  },
-  {
-   "episode": "short_2026-11-10_robot-builds-in-space",
-   "kind": "trend",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-10_robot-builds-in-space.mp4",
-   "time_london": "2026-11-10T15:00",
-   "time_baku": "2026-11-10T19:00",
-   "style": "neon",
-   "topic": "Caltech ASTRA: first structure built autonomously in space (no astronauts), DARPA NOM4D",
-   "network": "tiktok",
-   "metricool_id": 423055331
-  },
-  {
-   "episode": "short_2026-11-11_emissions-bathtub",
-   "kind": "trend",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-11_emissions-bathtub.mp4",
-   "time_london": "2026-11-11T15:00",
-   "time_baku": "2026-11-11T19:00",
-   "style": "paper",
-   "topic": "Global Carbon Budget 2026 (10 Nov): fossil CO2 -0.4% but total CO2 still rising, 427.7 ppm, 1.5C budget < 4 years; bathtub explainer",
-   "network": "youtube",
-   "metricool_id": 424332304,
-   "title": "Emissions Are Falling. So Why Aren't Scientists Celebrating?"
-  },
-  {
-   "episode": "short_2026-11-11_emissions-bathtub",
-   "kind": "trend",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-11_emissions-bathtub.mp4",
-   "time_london": "2026-11-11T15:00",
-   "time_baku": "2026-11-11T19:00",
-   "style": "paper",
-   "topic": "Global Carbon Budget 2026 (10 Nov): fossil CO2 -0.4% but total CO2 still rising, 427.7 ppm, 1.5C budget < 4 years; bathtub explainer",
-   "network": "instagram",
-   "metricool_id": 424332331
-  },
-  {
-   "episode": "short_2026-11-11_emissions-bathtub",
-   "kind": "trend",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-11_emissions-bathtub.mp4",
-   "time_london": "2026-11-11T15:00",
-   "time_baku": "2026-11-11T19:00",
-   "style": "paper",
-   "topic": "Global Carbon Budget 2026 (10 Nov): fossil CO2 -0.4% but total CO2 still rising, 427.7 ppm, 1.5C budget < 4 years; bathtub explainer",
-   "network": "tiktok",
-   "metricool_id": 424332353,
-   "title": "Emissions Are Falling. So Why the Worry?"
-  },
-  {
-   "episode": "ep05_sleep",
-   "kind": "long",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep05/ep05_sleep_long.mp4",
-   "time_london": "2026-11-12T19:00",
-   "network": "youtube",
-   "metricool_id": 425254121,
-   "title": "Why Do We Have to Sleep? (26 Years of Your Life)",
-   "ai_label": true
-  },
-  {
-   "episode": "ep05_sleep",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep05/ep05_s1_26_years_asleep.mp4",
-   "time_london": "2026-11-13T23:00",
-   "network": "youtube",
-   "metricool_id": 425254438,
-   "ai_label": true
-  },
-  {
-   "episode": "ep05_sleep",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep05/ep05_s1_26_years_asleep.mp4",
-   "time_london": "2026-11-13T23:00",
-   "network": "instagram",
-   "metricool_id": 425254441,
-   "ai_label": true
-  },
-  {
-   "episode": "ep05_sleep",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep05/ep05_s1_26_years_asleep.mp4",
-   "time_london": "2026-11-13T23:00",
-   "network": "tiktok",
-   "metricool_id": 425254449,
-   "ai_label": true
-  },
-  {
-   "episode": "ep05_sleep",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep05/ep05_s2_10000_naps.mp4",
-   "time_london": "2026-11-14T23:00",
-   "network": "instagram",
-   "metricool_id": 425254461,
-   "ai_label": true
-  },
-  {
-   "episode": "ep05_sleep",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep05/ep05_s2_10000_naps.mp4",
-   "time_london": "2026-11-14T23:00",
-   "network": "tiktok",
-   "metricool_id": 425254469,
-   "ai_label": true
-  },
-  {
-   "episode": "short_2026-11-12_nvidia-huang-board",
-   "kind": "trend",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-12_nvidia-huang-board.mp4",
-   "time_london": "2026-11-12T15:00",
-   "time_baku": "2026-11-12T19:00",
-   "style": "newspaper",
-   "political": false,
-   "topic": "Nvidia / Jensen Huang scandal (8-12 Nov 2026): ~$600bn value lost, admitted affair, woman reportedly believed by US intelligence to be a Chinese spy, 2nd alleged affair (NYT 11 Nov), 11-director board deciding his future; no decision as of 12 Nov",
-   "network": "youtube",
-   "metricool_id": 425581961,
-   "title": "Nvidia's $600 Billion Jensen Huang Scandal, Explained #shorts"
-  },
-  {
-   "episode": "short_2026-11-12_nvidia-huang-board",
-   "kind": "trend",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-12_nvidia-huang-board.mp4",
-   "time_london": "2026-11-12T15:00",
-   "time_baku": "2026-11-12T19:00",
-   "style": "newspaper",
-   "political": false,
-   "topic": "Nvidia / Jensen Huang scandal (8-12 Nov 2026): ~$600bn value lost, admitted affair, woman reportedly believed by US intelligence to be a Chinese spy, 2nd alleged affair (NYT 11 Nov), 11-director board deciding his future; no decision as of 12 Nov",
-   "network": "instagram",
-   "metricool_id": 425582036
-  },
-  {
-   "episode": "short_2026-11-12_nvidia-huang-board",
-   "kind": "trend",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-12_nvidia-huang-board.mp4",
-   "time_london": "2026-11-12T15:00",
-   "time_baku": "2026-11-12T19:00",
-   "style": "newspaper",
-   "political": false,
-   "topic": "Nvidia / Jensen Huang scandal (8-12 Nov 2026): ~$600bn value lost, admitted affair, woman reportedly believed by US intelligence to be a Chinese spy, 2nd alleged affair (NYT 11 Nov), 11-director board deciding his future; no decision as of 12 Nov",
-   "network": "tiktok",
-   "metricool_id": 425582116,
-   "title": "Nvidia's $600 Billion Jensen Huang Scandal"
-  },
-  {
-   "episode": "ep06_hormuz",
-   "kind": "long",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep06/ep06_hormuz_long.mp4",
-   "time_london": "2026-11-13T19:00",
-   "time_baku": "2026-11-13T23:00",
-   "network": "youtube",
-   "metricool_id": 426420478,
-   "title": "Why Can One Narrow Strait Shake the World? (Strait of Hormuz)",
-   "style": "flat",
-   "fps": 60,
-   "ai_label": true
-  },
-  {
-   "episode": "ep06_hormuz",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep06/ep06_s1_33km_gap.mp4",
-   "time_london": "2026-11-15T23:00",
-   "time_baku": "2026-11-16T03:00",
-   "network": "youtube",
-   "metricool_id": 426420622,
-   "ai_label": true
-  },
-  {
-   "episode": "ep06_hormuz",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep06/ep06_s1_33km_gap.mp4",
-   "time_london": "2026-11-15T23:00",
-   "time_baku": "2026-11-16T03:00",
-   "network": "instagram",
-   "metricool_id": 426420634,
-   "ai_label": true
-  },
-  {
-   "episode": "ep06_hormuz",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep06/ep06_s1_33km_gap.mp4",
-   "time_london": "2026-11-15T23:00",
-   "time_baku": "2026-11-16T03:00",
-   "network": "tiktok",
-   "metricool_id": 426420641,
-   "ai_label": true
-  },
-  {
-   "episode": "short_2026-11-13_nvidia-after-huang",
-   "kind": "trend",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-13_nvidia-after-huang.mp4",
-   "time_london": "2026-11-13T15:00",
-   "time_baku": "2026-11-13T19:00",
-   "style": "navy kinetic type",
-   "political": false,
-   "fps": 60,
-   "ai_label": true,
-   "topic": "FOLLOW-UP to 12 Nov Short: Jensen Huang resigned as Nvidia CEO 12 Nov 2026 effective immediately after 33 years; CFO Colette Kress interim CEO; Harvey Jones first-ever board chair; shares fell >4% Thu; earnings Tue 17 Nov",
-   "network": "youtube",
-   "metricool_id": 426868124,
-   "title": "Nvidia CEO Jensen Huang Resigns: Who Runs Nvidia Now? #shorts"
-  },
-  {
-   "episode": "short_2026-11-13_nvidia-after-huang",
-   "kind": "trend",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-13_nvidia-after-huang.mp4",
-   "time_london": "2026-11-13T15:00",
-   "time_baku": "2026-11-13T19:00",
-   "style": "navy kinetic type",
-   "political": false,
-   "fps": 60,
-   "ai_label": true,
-   "topic": "FOLLOW-UP to 12 Nov Short: Jensen Huang resigned as Nvidia CEO 12 Nov 2026 effective immediately after 33 years; CFO Colette Kress interim CEO; Harvey Jones first-ever board chair; shares fell >4% Thu; earnings Tue 17 Nov",
-   "network": "instagram",
-   "metricool_id": 426868214
-  },
-  {
-   "episode": "short_2026-11-13_nvidia-after-huang",
-   "kind": "trend",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-13_nvidia-after-huang.mp4",
-   "time_london": "2026-11-13T15:00",
-   "time_baku": "2026-11-13T19:00",
-   "style": "navy kinetic type",
-   "political": false,
-   "fps": 60,
-   "ai_label": true,
-   "topic": "FOLLOW-UP to 12 Nov Short: Jensen Huang resigned as Nvidia CEO 12 Nov 2026 effective immediately after 33 years; CFO Colette Kress interim CEO; Harvey Jones first-ever board chair; shares fell >4% Thu; earnings Tue 17 Nov",
-   "network": "tiktok",
-   "metricool_id": 426868634
-  },
-  {
-   "episode": "ep07_worth",
-   "kind": "long",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep07/ep07_worth_long.mp4",
-   "time_london": "2026-11-14T19:00",
-   "time_baku": "2026-11-14T23:00",
-   "network": "youtube",
-   "metricool_id": 427570634,
-   "title": "How Much Is the Whole World Actually Worth?",
-   "style": "blueprint",
-   "fps": 60,
-   "ai_label": true
-  },
-  {
-   "episode": "ep07_worth",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep07/ep07_s1_gold_cube.mp4",
-   "time_london": "2026-11-16T23:00",
-   "time_baku": "2026-11-17T03:00",
-   "network": "youtube",
-   "metricool_id": 427570952,
-   "ai_label": true
-  },
-  {
-   "episode": "ep07_worth",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep07/ep07_s1_gold_cube.mp4",
-   "time_london": "2026-11-16T23:00",
-   "time_baku": "2026-11-17T03:00",
-   "network": "instagram",
-   "metricool_id": 427570967,
-   "ai_label": true
-  },
-  {
-   "episode": "ep07_worth",
-   "kind": "short",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep07/ep07_s1_gold_cube.mp4",
-   "time_london": "2026-11-16T23:00",
-   "time_baku": "2026-11-17T03:00",
-   "network": "tiktok",
-   "metricool_id": 427570983,
-   "ai_label": true
-  }
- ]
+  "brand": 7816628,
+  "note": "Metricool copies media to its own storage when a post is created, so whyverse-media files are only needed at scheduling time.",
+  "posts": [
+    {
+      "episode": "ep01_bees",
+      "kind": "long",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/ep01_bees.mp4",
+      "time_london": "2026-11-03T19:00",
+      "network": "youtube",
+      "metricool_id": 414920632,
+      "title": "What If Every Bee Disappeared? (Einstein Never Said This)"
+    },
+    {
+      "episode": "ep01_bees",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s1_einstein_cc.mp4",
+      "time_london": "2026-11-04T17:00",
+      "network": "youtube",
+      "metricool_id": 414937651
+    },
+    {
+      "episode": "ep01_bees",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s1_einstein_cc.mp4",
+      "time_london": "2026-11-04T17:00",
+      "network": "instagram",
+      "metricool_id": 414937661
+    },
+    {
+      "episode": "ep01_bees",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s1_einstein_cc.mp4",
+      "time_london": "2026-11-04T17:00",
+      "network": "tiktok",
+      "metricool_id": 414937676
+    },
+    {
+      "episode": "ep01_bees",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s2_colour_cc.mp4",
+      "time_london": "2026-11-04T23:00",
+      "network": "youtube",
+      "metricool_id": 414937688
+    },
+    {
+      "episode": "ep01_bees",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s2_colour_cc.mp4",
+      "time_london": "2026-11-04T23:00",
+      "network": "instagram",
+      "metricool_id": 414937697
+    },
+    {
+      "episode": "ep01_bees",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s2_colour_cc.mp4",
+      "time_london": "2026-11-04T23:00",
+      "network": "tiktok",
+      "metricool_id": 414937710
+    },
+    {
+      "episode": "ep01_bees",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s3_maoxian_cc.mp4",
+      "time_london": "2026-11-05T17:00",
+      "network": "youtube",
+      "metricool_id": 414938135
+    },
+    {
+      "episode": "ep01_bees",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s3_maoxian_cc.mp4",
+      "time_london": "2026-11-05T17:00",
+      "network": "instagram",
+      "metricool_id": 414938145
+    },
+    {
+      "episode": "ep01_bees",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s3_maoxian_cc.mp4",
+      "time_london": "2026-11-05T17:00",
+      "network": "tiktok",
+      "metricool_id": 414938154
+    },
+    {
+      "episode": "ep01_bees",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s4_almonds_cc.mp4",
+      "time_london": "2026-11-05T23:00",
+      "network": "youtube",
+      "metricool_id": 414938190
+    },
+    {
+      "episode": "ep01_bees",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s4_almonds_cc.mp4",
+      "time_london": "2026-11-05T23:00",
+      "network": "instagram",
+      "metricool_id": 414938200
+    },
+    {
+      "episode": "ep01_bees",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s4_almonds_cc.mp4",
+      "time_london": "2026-11-05T23:00",
+      "network": "tiktok",
+      "metricool_id": 414938206
+    },
+    {
+      "episode": "ep01_bees",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s5_chocolate_cc.mp4",
+      "time_london": "2026-11-06T17:00",
+      "network": "youtube",
+      "metricool_id": 414938220
+    },
+    {
+      "episode": "ep01_bees",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s5_chocolate_cc.mp4",
+      "time_london": "2026-11-06T17:00",
+      "network": "instagram",
+      "metricool_id": 414938233
+    },
+    {
+      "episode": "ep01_bees",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep01/s5_chocolate_cc.mp4",
+      "time_london": "2026-11-06T17:00",
+      "network": "tiktok",
+      "metricool_id": 414938245
+    },
+    {
+      "episode": "ep02_moon",
+      "kind": "long",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep02/ep02_moon_long.mp4",
+      "time_london": "2026-11-05T19:00",
+      "network": "youtube",
+      "metricool_id": 417122498,
+      "title": "What If the Moon Disappeared? (It's Slowly Leaving)"
+    },
+    {
+      "episode": "ep02_moon",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep02/ep02_s1_vanish.mp4",
+      "time_london": "2026-11-06T23:00",
+      "network": "youtube",
+      "metricool_id": 417122987
+    },
+    {
+      "episode": "ep02_moon",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep02/ep02_s1_vanish.mp4",
+      "time_london": "2026-11-06T23:00",
+      "network": "instagram",
+      "metricool_id": 417123007
+    },
+    {
+      "episode": "ep02_moon",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep02/ep02_s1_vanish.mp4",
+      "time_london": "2026-11-06T23:00",
+      "network": "tiktok",
+      "metricool_id": 417123029
+    },
+    {
+      "episode": "ep02_moon",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep02/ep02_s2_asphalt.mp4",
+      "time_london": "2026-11-07T17:00",
+      "network": "youtube",
+      "metricool_id": 417123049
+    },
+    {
+      "episode": "ep02_moon",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep02/ep02_s2_asphalt.mp4",
+      "time_london": "2026-11-07T17:00",
+      "network": "instagram",
+      "metricool_id": 417123060
+    },
+    {
+      "episode": "ep02_moon",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep02/ep02_s2_asphalt.mp4",
+      "time_london": "2026-11-07T17:00",
+      "network": "tiktok",
+      "metricool_id": 417123075
+    },
+    {
+      "episode": "ep02_moon",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep02/ep02_s3_reef.mp4",
+      "time_london": "2026-11-07T23:00",
+      "network": "youtube",
+      "metricool_id": 417123556
+    },
+    {
+      "episode": "ep02_moon",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep02/ep02_s3_reef.mp4",
+      "time_london": "2026-11-07T23:00",
+      "network": "instagram",
+      "metricool_id": 417123576
+    },
+    {
+      "episode": "ep02_moon",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep02/ep02_s3_reef.mp4",
+      "time_london": "2026-11-07T23:00",
+      "network": "tiktok",
+      "metricool_id": 417123592
+    },
+    {
+      "episode": "ep02_moon",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep02/ep02_s4_18hours.mp4",
+      "time_london": "2026-11-08T17:00",
+      "network": "youtube",
+      "metricool_id": 417123640
+    },
+    {
+      "episode": "ep02_moon",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep02/ep02_s4_18hours.mp4",
+      "time_london": "2026-11-08T17:00",
+      "network": "instagram",
+      "metricool_id": 417123652
+    },
+    {
+      "episode": "ep02_moon",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep02/ep02_s4_18hours.mp4",
+      "time_london": "2026-11-08T17:00",
+      "network": "tiktok",
+      "metricool_id": 417123672
+    },
+    {
+      "episode": "ep02_moon",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep02/ep02_s5_leaving.mp4",
+      "time_london": "2026-11-08T23:00",
+      "network": "youtube",
+      "metricool_id": 417123683
+    },
+    {
+      "episode": "ep02_moon",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep02/ep02_s5_leaving.mp4",
+      "time_london": "2026-11-08T23:00",
+      "network": "instagram",
+      "metricool_id": 417123692
+    },
+    {
+      "episode": "ep02_moon",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep02/ep02_s5_leaving.mp4",
+      "time_london": "2026-11-08T23:00",
+      "network": "tiktok",
+      "metricool_id": 417123767
+    },
+    {
+      "episode": "short_2026-11-05_swift-falls",
+      "kind": "minute",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-05_swift-falls.mp4",
+      "time_london": "2026-11-05T20:00",
+      "network": "youtube",
+      "metricool_id": 417536934,
+      "style": "neon",
+      "topic": "NASA Swift re-entry: why it fell (solar max, drag)",
+      "title": "NASA Built It to Last 2 Years. It Lasted 22. #shorts"
+    },
+    {
+      "episode": "short_2026-11-05_swift-falls",
+      "kind": "minute",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-05_swift-falls.mp4",
+      "time_london": "2026-11-05T20:00",
+      "network": "instagram",
+      "metricool_id": 417536959,
+      "style": "neon",
+      "topic": "NASA Swift re-entry: why it fell (solar max, drag)"
+    },
+    {
+      "episode": "short_2026-11-05_swift-falls",
+      "kind": "minute",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-05_swift-falls.mp4",
+      "time_london": "2026-11-05T20:00",
+      "network": "tiktok",
+      "metricool_id": 417536985,
+      "style": "neon",
+      "topic": "NASA Swift re-entry: why it fell (solar max, drag)"
+    },
+    {
+      "episode": "ep03_darksky",
+      "kind": "long",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep03/ep03_darksky_long.mp4",
+      "time_london": "2026-11-08T19:00",
+      "network": "youtube",
+      "metricool_id": 420291344,
+      "title": "Why Is the Sky Dark at Night? (It Should Be Blazing)"
+    },
+    {
+      "episode": "ep03_darksky",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep03/ep03_s1_blaze.mp4",
+      "time_london": "2026-11-09T17:00",
+      "network": "youtube",
+      "metricool_id": 420291605
+    },
+    {
+      "episode": "ep03_darksky",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep03/ep03_s1_blaze.mp4",
+      "time_london": "2026-11-09T17:00",
+      "network": "instagram",
+      "metricool_id": 420291615
+    },
+    {
+      "episode": "ep03_darksky",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep03/ep03_s1_blaze.mp4",
+      "time_london": "2026-11-09T17:00",
+      "network": "tiktok",
+      "metricool_id": 420291621
+    },
+    {
+      "episode": "ep03_darksky",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep03/ep03_s2_forest.mp4",
+      "time_london": "2026-11-09T23:00",
+      "network": "youtube",
+      "metricool_id": 420291777
+    },
+    {
+      "episode": "ep03_darksky",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep03/ep03_s2_forest.mp4",
+      "time_london": "2026-11-09T23:00",
+      "network": "instagram",
+      "metricool_id": 420291785
+    },
+    {
+      "episode": "ep03_darksky",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep03/ep03_s2_forest.mp4",
+      "time_london": "2026-11-09T23:00",
+      "network": "tiktok",
+      "metricool_id": 420291794
+    },
+    {
+      "episode": "ep03_darksky",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep03/ep03_s3_oven.mp4",
+      "time_london": "2026-11-10T17:00",
+      "network": "youtube",
+      "metricool_id": 420291948
+    },
+    {
+      "episode": "ep03_darksky",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep03/ep03_s3_oven.mp4",
+      "time_london": "2026-11-10T17:00",
+      "network": "instagram",
+      "metricool_id": 420291960
+    },
+    {
+      "episode": "ep03_darksky",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep03/ep03_s3_oven.mp4",
+      "time_london": "2026-11-10T17:00",
+      "network": "tiktok",
+      "metricool_id": 420291971
+    },
+    {
+      "episode": "ep03_darksky",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep03/ep03_s4_poet.mp4",
+      "time_london": "2026-11-10T23:00",
+      "network": "youtube",
+      "metricool_id": 420292202
+    },
+    {
+      "episode": "ep03_darksky",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep03/ep03_s4_poet.mp4",
+      "time_london": "2026-11-10T23:00",
+      "network": "instagram",
+      "metricool_id": 420292217
+    },
+    {
+      "episode": "ep03_darksky",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep03/ep03_s4_poet.mp4",
+      "time_london": "2026-11-10T23:00",
+      "network": "tiktok",
+      "metricool_id": 420292230
+    },
+    {
+      "episode": "ep03_darksky",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep03/ep03_s5_pigeons.mp4",
+      "time_london": "2026-11-11T17:00",
+      "network": "youtube",
+      "metricool_id": 420292400
+    },
+    {
+      "episode": "ep03_darksky",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep03/ep03_s5_pigeons.mp4",
+      "time_london": "2026-11-11T17:00",
+      "network": "instagram",
+      "metricool_id": 420292405
+    },
+    {
+      "episode": "ep03_darksky",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep03/ep03_s5_pigeons.mp4",
+      "time_london": "2026-11-11T17:00",
+      "network": "tiktok",
+      "metricool_id": 420292418
+    },
+    {
+      "episode": "short_2026-11-09_rain-glacier",
+      "kind": "minute",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-09_rain-glacier.mp4",
+      "time_london": "2026-11-09T20:00",
+      "network": "youtube",
+      "metricool_id": 421594946,
+      "style": "blueprint",
+      "topic": "Rain speeds up Turner Glacier, Alaska (7.5 m in a day): how water at the bed makes ice slide",
+      "title": "Rain Made This Glacier Slide 7.5 m in One Day #shorts"
+    },
+    {
+      "episode": "short_2026-11-09_rain-glacier",
+      "kind": "minute",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-09_rain-glacier.mp4",
+      "time_london": "2026-11-09T20:00",
+      "network": "instagram",
+      "metricool_id": 421594994,
+      "style": "blueprint",
+      "topic": "Rain speeds up Turner Glacier, Alaska (7.5 m in a day): how water at the bed makes ice slide"
+    },
+    {
+      "episode": "short_2026-11-09_rain-glacier",
+      "kind": "minute",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-09_rain-glacier.mp4",
+      "time_london": "2026-11-09T20:00",
+      "network": "tiktok",
+      "metricool_id": 421595028,
+      "style": "blueprint",
+      "topic": "Rain speeds up Turner Glacier, Alaska (7.5 m in a day): how water at the bed makes ice slide"
+    },
+    {
+      "episode": "short_2026-11-09_first-muslim-senator",
+      "kind": "trend",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-09_first-muslim-senator_v2.mp4",
+      "time_london": "2026-11-09T15:00",
+      "time_baku": "2026-11-09T19:00",
+      "style": "sticker-pop flat",
+      "topic": "Abdul El-Sayed: first Muslim U.S. senator (Michigan, 3 Nov 2026); Ellison 2007, Jefferson's Quran",
+      "network": "youtube",
+      "metricool_id": 421757252,
+      "title": "First Muslim U.S. Senator: 238 Years in the Making #shorts",
+      "note": "v2: illustrated faces (Gartal 2026-11-09)"
+    },
+    {
+      "episode": "short_2026-11-09_first-muslim-senator",
+      "kind": "trend",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-09_first-muslim-senator_v2.mp4",
+      "time_london": "2026-11-09T15:00",
+      "time_baku": "2026-11-09T19:00",
+      "style": "sticker-pop flat",
+      "topic": "Abdul El-Sayed: first Muslim U.S. senator (Michigan, 3 Nov 2026); Ellison 2007, Jefferson's Quran",
+      "network": "instagram",
+      "metricool_id": 421757270,
+      "note": "v2: illustrated faces (Gartal 2026-11-09)"
+    },
+    {
+      "episode": "short_2026-11-09_first-muslim-senator",
+      "kind": "trend",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-09_first-muslim-senator_v2.mp4",
+      "time_london": "2026-11-09T15:00",
+      "time_baku": "2026-11-09T19:00",
+      "style": "sticker-pop flat",
+      "topic": "Abdul El-Sayed: first Muslim U.S. senator (Michigan, 3 Nov 2026); Ellison 2007, Jefferson's Quran",
+      "network": "tiktok",
+      "metricool_id": 421757298,
+      "note": "v2: illustrated faces (Gartal 2026-11-09)"
+    },
+    {
+      "episode": "ep04_spin",
+      "kind": "long",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep04/ep04_spin_long.mp4",
+      "time_london": "2026-11-10T19:00",
+      "time_baku": "2026-11-10T23:00",
+      "network": "youtube",
+      "metricool_id": 422462470,
+      "style": "chalk",
+      "title": "What If Earth Stopped Spinning? (1,670 km/h to Zero)",
+      "thumbnail": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep04/ep04_thumbnail.jpg"
+    },
+    {
+      "episode": "ep04_spin",
+      "kind": "short1",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep04/ep04_s1_you_are_moving.mp4",
+      "time_london": "2026-11-11T23:00",
+      "time_baku": "2026-11-12T03:00",
+      "network": "youtube",
+      "metricool_id": 422462877,
+      "style": "chalk",
+      "title": "Earth's Spin: You're Moving 1,000+ km/h Right Now #shorts"
+    },
+    {
+      "episode": "ep04_spin",
+      "kind": "short1",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep04/ep04_s1_you_are_moving.mp4",
+      "time_london": "2026-11-11T23:00",
+      "time_baku": "2026-11-12T03:00",
+      "network": "instagram",
+      "metricool_id": 422462902,
+      "style": "chalk"
+    },
+    {
+      "episode": "ep04_spin",
+      "kind": "short1",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep04/ep04_s1_you_are_moving.mp4",
+      "time_london": "2026-11-11T23:00",
+      "time_baku": "2026-11-12T03:00",
+      "network": "tiktok",
+      "metricool_id": 424928878,
+      "old_metricool_id": 422462929,
+      "note": "2026-11-12 00:45 Baku: isAigc true added (AI LABELS rule); new id",
+      "style": "chalk",
+      "title": "Earth's Spin: You're Moving 1,000+ km/h"
+    },
+    {
+      "episode": "ep04_spin",
+      "kind": "short2",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep04/ep04_s2_sudden_stop.mp4",
+      "time_london": "2026-11-12T23:00",
+      "time_baku": "2026-11-13T03:00",
+      "network": "instagram",
+      "metricool_id": 422462959,
+      "style": "chalk"
+    },
+    {
+      "episode": "ep04_spin",
+      "kind": "short2",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep04/ep04_s2_sudden_stop.mp4",
+      "time_london": "2026-11-12T23:00",
+      "time_baku": "2026-11-13T03:00",
+      "network": "tiktok",
+      "metricool_id": 422462983,
+      "style": "chalk",
+      "title": "What If Earth Stopped Spinning Instantly?"
+    },
+    {
+      "episode": "short_2026-11-10_robot-builds-in-space",
+      "kind": "trend",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-10_robot-builds-in-space.mp4",
+      "time_london": "2026-11-10T15:00",
+      "time_baku": "2026-11-10T19:00",
+      "style": "neon",
+      "topic": "Caltech ASTRA: first structure built autonomously in space (no astronauts), DARPA NOM4D",
+      "network": "youtube",
+      "metricool_id": 423055772,
+      "title": "A Robot Just Built Something in Space, No Astronauts #shorts"
+    },
+    {
+      "episode": "short_2026-11-10_robot-builds-in-space",
+      "kind": "trend",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-10_robot-builds-in-space.mp4",
+      "time_london": "2026-11-10T15:00",
+      "time_baku": "2026-11-10T19:00",
+      "style": "neon",
+      "topic": "Caltech ASTRA: first structure built autonomously in space (no astronauts), DARPA NOM4D",
+      "network": "instagram",
+      "metricool_id": 423055309
+    },
+    {
+      "episode": "short_2026-11-10_robot-builds-in-space",
+      "kind": "trend",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-10_robot-builds-in-space.mp4",
+      "time_london": "2026-11-10T15:00",
+      "time_baku": "2026-11-10T19:00",
+      "style": "neon",
+      "topic": "Caltech ASTRA: first structure built autonomously in space (no astronauts), DARPA NOM4D",
+      "network": "tiktok",
+      "metricool_id": 423055331
+    },
+    {
+      "episode": "short_2026-11-11_emissions-bathtub",
+      "kind": "trend",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-11_emissions-bathtub.mp4",
+      "time_london": "2026-11-11T15:00",
+      "time_baku": "2026-11-11T19:00",
+      "style": "paper",
+      "topic": "Global Carbon Budget 2026 (10 Nov): fossil CO2 -0.4% but total CO2 still rising, 427.7 ppm, 1.5C budget < 4 years; bathtub explainer",
+      "network": "youtube",
+      "metricool_id": 424332304,
+      "title": "Emissions Are Falling. So Why Aren't Scientists Celebrating?"
+    },
+    {
+      "episode": "short_2026-11-11_emissions-bathtub",
+      "kind": "trend",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-11_emissions-bathtub.mp4",
+      "time_london": "2026-11-11T15:00",
+      "time_baku": "2026-11-11T19:00",
+      "style": "paper",
+      "topic": "Global Carbon Budget 2026 (10 Nov): fossil CO2 -0.4% but total CO2 still rising, 427.7 ppm, 1.5C budget < 4 years; bathtub explainer",
+      "network": "instagram",
+      "metricool_id": 424332331
+    },
+    {
+      "episode": "short_2026-11-11_emissions-bathtub",
+      "kind": "trend",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-11_emissions-bathtub.mp4",
+      "time_london": "2026-11-11T15:00",
+      "time_baku": "2026-11-11T19:00",
+      "style": "paper",
+      "topic": "Global Carbon Budget 2026 (10 Nov): fossil CO2 -0.4% but total CO2 still rising, 427.7 ppm, 1.5C budget < 4 years; bathtub explainer",
+      "network": "tiktok",
+      "metricool_id": 424332353,
+      "title": "Emissions Are Falling. So Why the Worry?"
+    },
+    {
+      "episode": "ep05_sleep",
+      "kind": "long",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep05/ep05_sleep_long.mp4",
+      "time_london": "2026-11-12T19:00",
+      "network": "youtube",
+      "metricool_id": 425254121,
+      "title": "Why Do We Have to Sleep? (26 Years of Your Life)",
+      "ai_label": true
+    },
+    {
+      "episode": "ep05_sleep",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep05/ep05_s1_26_years_asleep.mp4",
+      "time_london": "2026-11-13T23:00",
+      "network": "youtube",
+      "metricool_id": 425254438,
+      "ai_label": true
+    },
+    {
+      "episode": "ep05_sleep",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep05/ep05_s1_26_years_asleep.mp4",
+      "time_london": "2026-11-13T23:00",
+      "network": "instagram",
+      "metricool_id": 425254441,
+      "ai_label": true
+    },
+    {
+      "episode": "ep05_sleep",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep05/ep05_s1_26_years_asleep.mp4",
+      "time_london": "2026-11-13T23:00",
+      "network": "tiktok",
+      "metricool_id": 425254449,
+      "ai_label": true
+    },
+    {
+      "episode": "ep05_sleep",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep05/ep05_s2_10000_naps.mp4",
+      "time_london": "2026-11-14T23:00",
+      "network": "instagram",
+      "metricool_id": 425254461,
+      "ai_label": true
+    },
+    {
+      "episode": "ep05_sleep",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep05/ep05_s2_10000_naps.mp4",
+      "time_london": "2026-11-14T23:00",
+      "network": "tiktok",
+      "metricool_id": 425254469,
+      "ai_label": true
+    },
+    {
+      "episode": "short_2026-11-12_nvidia-huang-board",
+      "kind": "trend",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-12_nvidia-huang-board.mp4",
+      "time_london": "2026-11-12T15:00",
+      "time_baku": "2026-11-12T19:00",
+      "style": "newspaper",
+      "political": false,
+      "topic": "Nvidia / Jensen Huang scandal (8-12 Nov 2026): ~$600bn value lost, admitted affair, woman reportedly believed by US intelligence to be a Chinese spy, 2nd alleged affair (NYT 11 Nov), 11-director board deciding his future; no decision as of 12 Nov",
+      "network": "youtube",
+      "metricool_id": 425581961,
+      "title": "Nvidia's $600 Billion Jensen Huang Scandal, Explained #shorts"
+    },
+    {
+      "episode": "short_2026-11-12_nvidia-huang-board",
+      "kind": "trend",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-12_nvidia-huang-board.mp4",
+      "time_london": "2026-11-12T15:00",
+      "time_baku": "2026-11-12T19:00",
+      "style": "newspaper",
+      "political": false,
+      "topic": "Nvidia / Jensen Huang scandal (8-12 Nov 2026): ~$600bn value lost, admitted affair, woman reportedly believed by US intelligence to be a Chinese spy, 2nd alleged affair (NYT 11 Nov), 11-director board deciding his future; no decision as of 12 Nov",
+      "network": "instagram",
+      "metricool_id": 425582036
+    },
+    {
+      "episode": "short_2026-11-12_nvidia-huang-board",
+      "kind": "trend",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-12_nvidia-huang-board.mp4",
+      "time_london": "2026-11-12T15:00",
+      "time_baku": "2026-11-12T19:00",
+      "style": "newspaper",
+      "political": false,
+      "topic": "Nvidia / Jensen Huang scandal (8-12 Nov 2026): ~$600bn value lost, admitted affair, woman reportedly believed by US intelligence to be a Chinese spy, 2nd alleged affair (NYT 11 Nov), 11-director board deciding his future; no decision as of 12 Nov",
+      "network": "tiktok",
+      "metricool_id": 425582116,
+      "title": "Nvidia's $600 Billion Jensen Huang Scandal"
+    },
+    {
+      "episode": "ep06_hormuz",
+      "kind": "long",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep06/ep06_hormuz_long.mp4",
+      "time_london": "2026-11-13T19:00",
+      "time_baku": "2026-11-13T23:00",
+      "network": "youtube",
+      "metricool_id": 426420478,
+      "title": "Why Can One Narrow Strait Shake the World? (Strait of Hormuz)",
+      "style": "flat",
+      "fps": 60,
+      "ai_label": true
+    },
+    {
+      "episode": "ep06_hormuz",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep06/ep06_s1_33km_gap.mp4",
+      "time_london": "2026-11-15T23:00",
+      "time_baku": "2026-11-16T03:00",
+      "network": "youtube",
+      "metricool_id": 426420622,
+      "ai_label": true
+    },
+    {
+      "episode": "ep06_hormuz",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep06/ep06_s1_33km_gap.mp4",
+      "time_london": "2026-11-15T23:00",
+      "time_baku": "2026-11-16T03:00",
+      "network": "instagram",
+      "metricool_id": 426420634,
+      "ai_label": true
+    },
+    {
+      "episode": "ep06_hormuz",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep06/ep06_s1_33km_gap.mp4",
+      "time_london": "2026-11-15T23:00",
+      "time_baku": "2026-11-16T03:00",
+      "network": "tiktok",
+      "metricool_id": 426420641,
+      "ai_label": true
+    },
+    {
+      "episode": "short_2026-11-13_nvidia-after-huang",
+      "kind": "trend",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-13_nvidia-after-huang.mp4",
+      "time_london": "2026-11-13T15:00",
+      "time_baku": "2026-11-13T19:00",
+      "style": "navy kinetic type",
+      "political": false,
+      "fps": 60,
+      "ai_label": true,
+      "topic": "FOLLOW-UP to 12 Nov Short: Jensen Huang resigned as Nvidia CEO 12 Nov 2026 effective immediately after 33 years; CFO Colette Kress interim CEO; Harvey Jones first-ever board chair; shares fell >4% Thu; earnings Tue 17 Nov",
+      "network": "youtube",
+      "metricool_id": 426868124,
+      "title": "Nvidia CEO Jensen Huang Resigns: Who Runs Nvidia Now? #shorts"
+    },
+    {
+      "episode": "short_2026-11-13_nvidia-after-huang",
+      "kind": "trend",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-13_nvidia-after-huang.mp4",
+      "time_london": "2026-11-13T15:00",
+      "time_baku": "2026-11-13T19:00",
+      "style": "navy kinetic type",
+      "political": false,
+      "fps": 60,
+      "ai_label": true,
+      "topic": "FOLLOW-UP to 12 Nov Short: Jensen Huang resigned as Nvidia CEO 12 Nov 2026 effective immediately after 33 years; CFO Colette Kress interim CEO; Harvey Jones first-ever board chair; shares fell >4% Thu; earnings Tue 17 Nov",
+      "network": "instagram",
+      "metricool_id": 426868214
+    },
+    {
+      "episode": "short_2026-11-13_nvidia-after-huang",
+      "kind": "trend",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-13_nvidia-after-huang.mp4",
+      "time_london": "2026-11-13T15:00",
+      "time_baku": "2026-11-13T19:00",
+      "style": "navy kinetic type",
+      "political": false,
+      "fps": 60,
+      "ai_label": true,
+      "topic": "FOLLOW-UP to 12 Nov Short: Jensen Huang resigned as Nvidia CEO 12 Nov 2026 effective immediately after 33 years; CFO Colette Kress interim CEO; Harvey Jones first-ever board chair; shares fell >4% Thu; earnings Tue 17 Nov",
+      "network": "tiktok",
+      "metricool_id": 426868634
+    },
+    {
+      "episode": "ep07_worth",
+      "kind": "long",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep07/ep07_worth_long.mp4",
+      "time_london": "2026-11-14T19:00",
+      "time_baku": "2026-11-14T23:00",
+      "network": "youtube",
+      "metricool_id": 427570634,
+      "title": "How Much Is the Whole World Actually Worth?",
+      "style": "blueprint",
+      "fps": 60,
+      "ai_label": true
+    },
+    {
+      "episode": "ep07_worth",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep07/ep07_s1_gold_cube.mp4",
+      "time_london": "2026-11-16T23:00",
+      "time_baku": "2026-11-17T03:00",
+      "network": "youtube",
+      "metricool_id": 427570952,
+      "ai_label": true
+    },
+    {
+      "episode": "ep07_worth",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep07/ep07_s1_gold_cube.mp4",
+      "time_london": "2026-11-16T23:00",
+      "time_baku": "2026-11-17T03:00",
+      "network": "instagram",
+      "metricool_id": 427570967,
+      "ai_label": true
+    },
+    {
+      "episode": "ep07_worth",
+      "kind": "short",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep07/ep07_s1_gold_cube.mp4",
+      "time_london": "2026-11-16T23:00",
+      "time_baku": "2026-11-17T03:00",
+      "network": "tiktok",
+      "metricool_id": 427570983,
+      "ai_label": true
+    },
+    {
+      "episode": "static_2026-11-14_crow-235ms",
+      "kind": "static_fact",
+      "type": "static_fact",
+      "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/static/2026-11-14_crow-235ms.mp4",
+      "time_london": "2026-11-14T23:00",
+      "time_baku": "2026-11-15T03:00",
+      "network": "youtube",
+      "metricool_id": 427782825,
+      "uuid": "6918069709445416547",
+      "duration_s": 12.95,
+      "topic": "Crows decide in 235 ms (Science 2026, Tübingen) — trend candidate #3 of 14 Nov",
+      "photo": "Andrey Larionov / Unsplash (18Tj1y7-kmg, carrion crow)",
+      "ai_label": true,
+      "note": "Instagram + TikTok 23:00 slot already held by the ep05 cut Short (animal sleep, 425254461 / 425254469) → YouTube only"
+    }
+  ]
 }

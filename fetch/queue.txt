@@ -521,3 +521,4 @@ search_1113_nemo.json https://commons.wikimedia.org/w/api.php?action=query&forma
 2026-11-14_1_ismailiyya.jpg https://upload.wikimedia.org/wikipedia/commons/e/e8/%C4%B0smailiyy%C9%99_palace_common.JPG
 2026-11-14_1_ismailiyya_facade.jpg https://upload.wikimedia.org/wikipedia/commons/b/b1/Ismailiyye_palace_main_fa%C3%A7ade%2C_Baku%2C_2015.jpg
 2026-11-14_wv_crow.jpg https://images.unsplash.com/photo-1572608562395-3acc75d73cc5?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=1800
+2026-11-14_wv_carrion_crow.jpg https://images.unsplash.com/photo-1719394216920-83a36b9bfb63?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=2400

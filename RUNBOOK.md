@@ -74,6 +74,11 @@ or ≥ 1 reel > 5,000 views; Whyverse: any platform growing week over week. Repo
    (rule changes, automatic promotion, weak opponents) and search for it. If there is, say it honestly in the reel or pick another
    angle. Fans know their topic; a missing catch costs trust. When a commenter corrects us correctly: thank them, admit it, pin it.
 
+## PAID PROMOTION NOTE (Gartal 2026-11-15 ~01:00 Baku)
+Gartal paid for one small promotion on bilirdinizmi: $2 Instagram + $2 TikTok. Daily reports and the Sunday/Wednesday reviews
+must mark follower/view changes from 15 Nov onward as "includes paid promo" and not count them as organic growth. Compare the
+retention of promo-gained followers (do they keep watching?) with organic ones. No other paid promotion unless Gartal says so.
+
 ## TREND FRESHNESS (Gartal 2026-11-12: "make sure it's a new trend, something that happened yesterday or today … we are always away from the trends")
 The 18:30 trend reel must be about something from the last 24–48 h that people in Azerbaijan are talking about NOW. 09:10 picks it, 15:23 re-checks the news
 (2nd check of the day) and swaps if something hotter broke since morning. Big world stories that are everywhere in AZ feeds (e.g. Nvidia/Jensen Huang scandal,

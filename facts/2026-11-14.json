@@ -181,5 +181,20 @@
   "checked_at": "09:10–09:50 Baku 14 Nov",
   "choice": "AZ national team 1-0 at Liechtenstein, group won early, back to League C (1 pt in 2024 → 8 pts now)",
   "why": "Freshest AZ story (last night), positive sports news people share; number-first twist from the 2024 relegation."
+ },
+ "reel_1830": {
+  "topic": "Liechtenstein 0-1 Azerbaijan (Vaduz, 13 Nov 2026, Emreli 26') — AZ wins UNL D Group 2 early, 8 pts in 4 games; 2024/25 League C: 1 pt in 6 games, relegated → back to League C unbeaten",
+  "trend_check_2": "~14:55 Baku 14 Nov: re-scanned trend.az (oil output vs OPEC+, investment +9.7%, gas to Türkiye, COP31 pavilion), apa.az/report.az/azertag search, euronews 14 Nov bulletin. Nothing fresher/hotter fitting the rules; kept the 09:10 football trend (match ended ~01:45 Baku last night).",
+  "sources": [
+   "https://1news.az/en/news/20261114020009519-Azerbaijan-s-national-team-beat-Liechtenstein-and-won-its-Nations-League-group-ahead-of-schedule",
+   "https://www.trend.az/azerbaijan/4246323.html",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Nations_League_D",
+   "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Nations_League_C",
+   "https://www.idman.biz/en/news/football/51610"
+  ],
+  "voice_text": "Bir xaldan səkkiz xala! Millimiz qrupun birincisidir. Dünən gecə Vaduzda Lixtenşteyni bir sıfır hesabı ilə məğlub etdik. Qolu iyirmi altıncı dəqiqədə Mahir Emreli vurdu. İndi dörd oyunda səkkiz xalımız var. Son oyun artıq heç nəyi dəyişmir. İki il əvvəl isə altı oyunda cəmi bir xal toplayıb D liqasına düşmüşdük. İndi məğlubiyyətsiz C liqasına qayıdırıq. Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+  "words": 62,
+  "language_check": "section L: ≤10-word sentences, numbers written out ('bir sıfır', 'iyirmi altıncı dəqiqədə'), 'X-i məğlub etmək', 'D liqasına düşmək', 'C liqasına qayıtmaq'; no TR/RU calques. Unbeaten = 8 pts/4 games only possible as 2W+2D.",
+  "voice": "pending"
  }
 }

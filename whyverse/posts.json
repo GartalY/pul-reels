@@ -861,6 +861,51 @@
    "photo": "Andrey Larionov / Unsplash (18Tj1y7-kmg, carrion crow)",
    "ai_label": true,
    "note": "Instagram + TikTok 23:00 slot already held by the ep05 cut Short (animal sleep, 425254461 / 425254469) → YouTube only"
+  },
+  {
+   "episode": "short_2026-11-14_us-ground-stop",
+   "kind": "trend",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-14_us-ground-stop.mp4",
+   "time_london": "2026-11-14T15:00",
+   "time_baku": "2026-11-14T19:00",
+   "style": "blueprint",
+   "political": false,
+   "fps": 60,
+   "ai_label": true,
+   "duration_s": 35.0,
+   "topic": "US nationwide FAA ground stop 13 Nov 2026 (old telecom lines/routers overloaded)",
+   "network": "youtube",
+   "metricool_id": 427937723
+  },
+  {
+   "episode": "short_2026-11-14_us-ground-stop",
+   "kind": "trend",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-14_us-ground-stop.mp4",
+   "time_london": "2026-11-14T15:00",
+   "time_baku": "2026-11-14T19:00",
+   "style": "blueprint",
+   "political": false,
+   "fps": 60,
+   "ai_label": true,
+   "duration_s": 35.0,
+   "topic": "US nationwide FAA ground stop 13 Nov 2026 (old telecom lines/routers overloaded)",
+   "network": "instagram",
+   "metricool_id": 427937746
+  },
+  {
+   "episode": "short_2026-11-14_us-ground-stop",
+   "kind": "trend",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-14_us-ground-stop.mp4",
+   "time_london": "2026-11-14T15:00",
+   "time_baku": "2026-11-14T19:00",
+   "style": "blueprint",
+   "political": false,
+   "fps": 60,
+   "ai_label": true,
+   "duration_s": 35.0,
+   "topic": "US nationwide FAA ground stop 13 Nov 2026 (old telecom lines/routers overloaded)",
+   "network": "tiktok",
+   "metricool_id": 427937769
   }
  ]
 }

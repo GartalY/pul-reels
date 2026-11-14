@@ -195,6 +195,11 @@
   "voice_text": "Bir xaldan səkkiz xala! Millimiz qrupun birincisidir. Dünən Vaduzda Lixtenşteyni bir sıfır hesabı ilə məğlub etdik. Qolu iyirmi altıncı dəqiqədə Mahir Emreli vurdu. İndi dörd oyunda səkkiz xalımız var. Son oyun heç nəyi dəyişmir. İki il əvvəl isə altı oyunda cəmi bir xal toplayıb D liqasına düşmüşdük. İndi məğlubiyyətsiz C liqasına qayıdırıq. Bəyən və izlə — hər gün bilmədiyin bir fakt!",
   "words": 60,
   "language_check": "section L: ≤10-word sentences, numbers written out ('bir sıfır', 'iyirmi altıncı dəqiqədə'), 'X-i məğlub etmək', 'D liqasına düşmək', 'C liqasına qayıtmaq'; no TR/RU calques. Unbeaten = 8 pts/4 games only possible as 2W+2D.",
-  "voice": "pending"
+  "voice": "arif",
+  "arif_mp3": "reels/arif/2026-11-14_1830.mp3",
+  "arif_duration_s": 25.2,
+  "arif_credits": 389,
+  "arif_flow": "923RpvLNzOUUmz9F1eWM",
+  "arif_note": "1st call ~14:51 Baku busy (not charged), 2nd call 14:54 ok"
  }
 }

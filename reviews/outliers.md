@@ -133,3 +133,48 @@ Only Einstein, bread/colour, Maoxian are ≥ 72 h → **not enough data yet**. W
 | number + small animal/body fact | 0 | 3 |
 | surprise "first X was really Y" (no number) | 0 | 2 |
 Conclusions: (1) local AZ is the strongest hook on IG AND TikTok (≥ 2 platforms, 9 + 5 outliers). (2) Space works when it has a visual "impossible" twist and/or MOTION; static plain-space facts flop (2). (3) Rags-to-riches/news: 1 outlier vs 2 flops → not a reliable hook.
+
+## 2026-11-15 (new pieces posted 5 Nov 21:15 – 12 Nov 21:15, ≥ 72 h old)
+
+### Instagram bilirdinizmi (reel median 147 reach, n = 94; median views 181.5)
+| Piece | Format | Posted (Baku) | Category | Hook type | Reach | × median | Avg watch | >3 s | Verdict |
+|---|---|---|---|---|---|---|---|---|---|
+| Metro 1/2 (16 years to build) | static voiced, two-part | 6 Nov 13:05 | Azərbaycan | number + local AZ + "part 2" | 1 148 | 7.8× | 8.7 s | 56 % | OUTLIER |
+| Io volcano 500 km | MOTION | 6 Nov 16:04 | Kosmos | number + space "impossible" | 657 | 4.5× | 7.7 s | 58 % | OUTLIER |
+| Leyli played by a man (1908) | static voiced | 5 Nov 21:33 | Azərbaycan | local AZ surprise + year | 448 | 3.1× | 7.6 s | 52 % | OUTLIER |
+| 1901: half of world oil from Baku | static voiced | 10 Nov 21:33 | Azərbaycan | number + local AZ | 362 | 2.5× | 8.6 s | 52 % | OUTLIER |
+| Sunlight 170 000 yrs | MOTION | 7 Nov 16:04 | Kosmos | number + space "impossible" | 359 | 2.4× | 8.3 s | 44 % | OUTLIER |
+| Xınalıq 400 000 sheep | static voiced | 9 Nov 13:05 | Azərbaycan | number + local AZ | 347 | 2.4× | 9.7 s | 51 % | OUTLIER |
+| Şirəli 168 years | static | 12 Nov 13:09 | Azərbaycan | number + local AZ | 14 | 0.10× | 2.9 s | 14 % | FLOP (cause unknown; TikTok 234 views, 21 shares) |
+| 11.11 China shopping | trend static | 11 Nov 18:32 | Xəbər | number + news (money) | 20 | 0.14× | 2.3 s | 5 % | FLOP |
+| Bitcoin pizza | trend static | 7 Nov 18:32 | Xəbər | number + news (money) | 26 | 0.18× | 3.1 s | 27 % | FLOP |
+| Huang dishwasher → Nvidia | static | 8 Nov 21:33 | Məşhur insanlar | rags-to-riches | 37 | 0.25× | 6.5 s | 46 % | FLOP |
+| Pulsar 716×/s | MOTION | 8 Nov 16:03 | Kosmos | number + space | 53 | 0.36× | 3.2 s | 19 % | FLOP |
+| Atatürk 09:05 | trend static | 10 Nov 18:31 | Xəbər | news / on-this-day | 66 | 0.45× | 3.6 s | 26 % | FLOP |
+| Andromeda 2.5 m yrs | MOTION | 9 Nov 16:05 | Kosmos | number + space | 67 | 0.46× | 4.6 s | 28 % | FLOP |
+(COP31 0.52× just above the flop line.) Watch (< 72 h): **football 1-0 Liechtenstein, animated Arif, 14 Nov 18:32 = 1 610 reach (11×), 13.4 s, 58 %**; Dublin–Şamaxı animated 136; Nağıyev 1/2 129; İsmailiyyə 2/2 111.
+→ Conclusions: (1) number + local AZ: 4 new outliers (cumulative **13**). (2) **Non-AZ news/trend at 18:30: 4 flops in 2 weeks (Halloween, Bitcoin, 11.11, Atatürk)** — confirmed flop pattern → killed at 18:30 (E8). (3) Rags-to-riches: 3rd flop (Koum, Halloween-type, Huang) → drop as a hook. (4) Motion space: 2 outliers + 2 flops this week → motion does not rescue a weak topic.
+
+### TikTok bilirdinizmi (median 207 views since 3 Nov, n = 20)
+OUTLIER: Crystal Hall 424 (2.05×, 28 shares). FLOP: Liechtenstein preview 40 (0.19×, 0 shares). AZ history videos 20–29 shares each; news/preview 0–1 → confirmed again.
+
+### YouTube bilirdinizmi (synced to 10 Nov)
+9–10 Nov (3/day): Səbail 1/2 753 · oil 639 · Kasparov 549 · Europa 404 · Xınalıq 277 · Andromeda 168 → median 476, recovered from ~115. Not enough new pieces for a hook conclusion.
+
+### Whyverse
+- IG (median 162.5 views, n = 22): OUTLIERS senator trend 1 699 (10.5×) · Swift standalone 1 837 (11.3×) · glacier blueprint minute 381 (2.3×). FLOP ep03 cut 9 Nov 23:03, 24 (0.15×).
+- TikTok (median 495, n = 22): OUTLIER Nvidia board trend 1 389 (2.8×). FLOPS emissions trend 157 (0.32×), ep03 cut 11 Nov 17:02 149 (0.30×). Watch: ep05 cut "26 years asleep" 1 317.
+- YouTube (to 10 Nov): ASTRA 1 002, senator 918; long ep03 9, ep04 8.
+→ Pattern (≥ 2, across IG + TikTok + YouTube): **named big headline (senator, Swift, Nvidia board, ASTRA) beats data/report stories and episode cuts** → E9 topic ranking.
+
+## Hook ranking (cumulative, after 2026-11-15)
+| Hook type | Outliers | Flops |
+|---|---|---|
+| number + local AZ (Baku place/person/history) | **13** (+ Metro 1/2, Leyli, 1901 oil, Xınalıq) | 1 (Şirəli, cause unclear) |
+| fresh AZ sport/news (animated) | 1 watch (football 11×) | 1 (Liechtenstein preview, TikTok) |
+| number + space "impossible" twist | **5** (+ Io, Sunlight, both MOTION) | 4 (Sun 16×, Uranus, Pulsar, Andromeda) |
+| non-AZ news / trend (money, world events) | 1 (Osimhen) | **6** (Halloween, Bitcoin, 11.11, Atatürk + earlier) |
+| rags-to-riches | 0 | 3 (Koum, Huang, …) |
+| small animal/body fact | 0 | 3 |
+| Whyverse: named big headline + number | **4** (Swift, senator, Nvidia board, ASTRA-YT) | 0 |
+| Whyverse: data/report story | 0 | 1 (emissions) |

@@ -11,3 +11,11 @@ Format: ## ID · brand · start → end | hypothesis | change | metric | result 
 
 - 2026-11-12 QUALITY RESET: E1 ENDED (motion adopted for all bilirdinizmi reels, Gartal). E3 ENDED (cut Shorts dropped; daily trend Short only). Long episodes 3 → 2/week at 60 fps. bilirdinizmi 3 reels → 1 a day.
 - 2026-11-12 14:55 Gartal corrected: ≥ 2 posts/day/platform both brands. bilirdinizmi = 13:00 static + 18:30 animated. Whyverse = 19:00 Baku trend Short + 23:00 London (cut Short day after episode, else static fact). 1 cut Short per episode. E3 re-opened as "1 cut Short vs static fact at 23:00 London" — decide 29 Nov.
+
+## 2026-11-15 Sunday review
+- E2 · no-music: no new mute since 10 Nov (rights.md); Şirəli 12 Nov IG 28 views has no mute notice → cause unknown. Ends 17 Nov → decide Wed 18 Nov.
+- E5 · AZ mix: superseded by QUALITY RESET 12 Nov (2 reels/day). Result 9–12 Nov: AZ reels Xınalıq 2.4×, 1901 oil 2.5× vs non-AZ trend 0.14–0.52×. **KEEP** (closed; AZ is the rule; continues as E8).
+- E7 · animated vs static: redefined = 18:30 animated (Arif) vs 13:00 static. So far animated Dublin 170 / football 2 129 vs static Nağıyev 165 / İsmailiyyə 136 (IG views). Decide Sun 22 Nov.
+## E8 · bilirdinizmi · 16 → 29 Nov | fresh stories WITH an AZ angle beat non-AZ trends at 18:30 | 18:30 animated reel only on AZ-angle fresh stories (RUNBOOK SUNDAY DECISIONS 2026-11-15) | IG views + TikTok shares per 18:30 reel vs 9–14 Nov 18:30 (IG median ~110 views, TikTok median ~165 views / 1 share) | — | decide Sun 29 Nov
+## E9 · Whyverse · 16 → 29 Nov | named-headline trend Shorts beat data/report trend Shorts | topic ranking in whyverse/PLAN.md (SUNDAY DECISIONS 2026-11-15) | views per trend Short on IG (median 166) and TikTok (median 554), followers/week | — | decide Sun 29 Nov
+Running next week: bilirdinizmi E2 (→18 Nov), E7 (→22 Nov), E8 · Whyverse E3, E6, E9 (→29 Nov).

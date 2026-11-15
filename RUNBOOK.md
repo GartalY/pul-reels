@@ -3,6 +3,20 @@ Both brands keep the current setup. NO new formats, slots, styles or voices duri
 fix clear failures (broken posts, a format at ≤ 0.5× median two weeks running). Checkpoint 15 Dec: bilirdinizmi IG ≥ 250 followers
 or ≥ 1 reel > 5,000 views; Whyverse: any platform growing week over week. Report the checkpoint honestly.
 
+## SUNDAY DECISIONS 2026-11-15 (weekly review, Claude as manager — reviews/2026-11-15.md)
+1. KILL non-AZ trend topics at 18:30 (Kill rule: IG bottom quarter two weeks running — Halloween 0.37×, Bitcoin 0.18×,
+   11.11 0.14×, Atatürk 0.45×, COP31 0.52×; TikTok news/preview 0–1 shares). From 16 Nov the 18:30 ANIMATED reel (Arif) must be a
+   fresh story (last 24–48 h) WITH a real Azerbaijan angle: national team / Qarabağ / AZ athletes, events in Baku, AZ firsts and
+   records, positive/neutral national news (AZ POLITICS RULE), world news only when Azerbaijan is IN the story (not "by the way,
+   COP29 was in Baku"). Model: Azerbaijan 1-0 Liechtenstein, 14 Nov = 2 129 IG views (11× median). If no fresh story has an AZ
+   angle, take the freshest AZ sport/culture story of the week or an AZ anniversary of the day. 09:10 + 15:23 trend checks apply
+   this filter first. CONTEXT CHECK (QUALITY RESET 4) stays mandatory for every sports reel. Logged as E8, judged 29 Nov.
+2. 13:00 static stays number + AZ place/person/history (Xınalıq 2.4×, 1901 oil 2.5×, Metro 1/2 7.8×) — unchanged.
+3. TikTok 15 Nov check (STRATEGY RESET 2): median 207 views (≥ 100) but 6 followers (< 10) → TikTok stays at 2/day (QUALITY RESET
+   minimum), not paused. YouTube 3/day test: views per new Short recovered (median 476 on 9–10 Nov) — the volume cut worked.
+4. BOOST PICK this week: "1901-ci ildə dünya neftinin yarısından çoxu Bakıdan çıxırdı" (10 Nov 21:33). Never boost a reel with a
+   correction in the comments (football 14 Nov).
+
 ## QUALITY RESET 2026-11-12 (Gartal: "posting 4 or 5 times a day, it's not working … come back to quality over quantity") — OVERRIDES EVERYTHING BELOW
 1. bilirdinizmi_az = TWO posts a day on EACH platform (Instagram + TikTok + YouTube Shorts) — Gartal corrected 2026-11-12 14:55:
    - 13:00 = static factgen reel ("photo + words", the classic format) from facts[0] — built the evening before by the 20:45 task.

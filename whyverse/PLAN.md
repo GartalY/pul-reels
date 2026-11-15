@@ -225,3 +225,15 @@ Code-drawn with Motion Reel, no new tools. Use when the topic fits:
    Never a generic "share this". The SPOKEN CTA stays exactly as rule 1f ("Bəyən və izlə…" / "Like and follow Whyverse…").
 3. Captions keep their specific 📩 line (already the rule for bilirdinizmi; now Whyverse too).
 4. Reports: track sends (shares) per post where Metricool gives them; sends per view is the main quality number.
+
+## SUNDAY DECISIONS 2026-11-15 (weekly review, Claude as manager — reviews/2026-11-15.md)
+- TREND TOPIC RANKING (E9, 16 → 29 Nov): the 10:41 scout and the 15:31 run rank candidates in this order:
+  (1) a NAMED person / company / country in the day's top headlines with one big number (senator IG 1 699; Nvidia board TikTok 1 389;
+  ASTRA YouTube 1 002; Swift IG 1 837); (2) a "historic first / record" anywhere; (3) only then data/report stories (studies, budgets,
+  indexes) — the emissions-budget Short got IG 142 / TikTok 157 (0.32× TikTok median). Write the rank reason in the trends file.
+- FOLLOW-UPS: only when the update is itself a top headline of the day (Nvidia "after Huang" 198 TikTok vs the original 1 389).
+  Otherwise pick a new story.
+- CUT SHORT PICK: the episode cut must open on a "you" number (ep05 "26 years of your life asleep" TikTok 1 317 vs ep04 chalk cuts
+  184 / 355, ep03 cuts IG 24–177). If no "you" number exists in the episode, use its biggest single number in the first 2 s.
+- Long episodes (ep03 9 views, ep04 8 where synced) are NOT changed this week (STEADY PERIOD + Gartal: Whyverse is mainly long
+  videos). Check ep05–ep07 on Sun 22 Nov; if all < 100 views, put it to Gartal.

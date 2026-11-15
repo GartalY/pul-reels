@@ -857,3 +857,9 @@ rules), render it as `out/D/2_reel_trial.mp4` (same beats, new hook) and schedul
 (`hook_test: {main, trial}`). In the daily report compare >3 s view rate (IGRE28) and reach of main vs trial;
 in the weekly review list which hook styles win (number-first, question, "you" framing, shock word…) and write the
 winning patterns into the reel rules.
+
+## NEW LOOKS FOR THE ROTATION (Gartal 2026-11-15 20:51, from a david_knowsai reel "6 Claude skills that animate anything")
+Code-drawn with Motion Reel, no new tools. Use when the topic fits:
+- MAP ROUTE: animated line travelling over a simple top-down map (routes, distances, pipelines, trade roads, "how far").
+- EXPLODED VIEW: an object separating into labelled layers ("what's inside"). Only objects that stay instantly recognisable.
+- GROWING GRAPH: bars/line growing with a running number (any number that changes over time).

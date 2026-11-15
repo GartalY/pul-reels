@@ -204,3 +204,8 @@ animation on EACH platform (IG, TikTok, YouTube):
 - The second daily post per platform stays whatever works best (static photo + words, trial reels on IG); free choice.
 - Free plan: "Səs: elevenlabs.io" in bilirdinizmi captions when Arif speaks.
 
+## NEW LOOKS FOR THE ROTATION (Gartal 2026-11-15 20:51, from a david_knowsai reel "6 Claude skills that animate anything")
+Code-drawn with Motion Reel, no new tools. Use when the topic fits:
+- MAP ROUTE: animated line travelling over a simple top-down map (routes, distances, pipelines, trade roads, "how far").
+- EXPLODED VIEW: an object separating into labelled layers ("what's inside"). Only objects that stay instantly recognisable.
+- GROWING GRAPH: bars/line growing with a running number (any number that changes over time).

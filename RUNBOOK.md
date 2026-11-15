@@ -79,7 +79,7 @@ or ≥ 1 reel > 5,000 views; Whyverse: any platform growing week over week. Repo
   volume up and get a painful hiss. FIX: reelgen.ambience() now writes pure silence. Static reels = silent track, no noise.
 - ANY reel with sound: master to -14 LUFS / -1 dBTP and check with ebur128 before posting; nothing below -30 LUFS that isn't silence.
 - TRIAL REELS DON'T WORK FOR US: Instagram rejected the 15 Nov trial reel ("Trial Reel Not Enough Followers") -> rule 1j is
-  SUSPENDED; the 13:00 static goes to Instagram as a normal REEL again. Retry trial reels only after ~1,000 IG followers.
+  SUSPENDED; the 13:00 static goes to Instagram as a normal REEL again. Requirement (verified 15 Nov): public professional account with ≥ 200 followers (1,000 for personal accounts). Resume trial reels automatically once IG followers ≥ 200 (the daily report checks), with instagramData.shareTrialAutomatically = true so a winning trial reel is shown to followers too, and tell Gartal.
 - ElevenLabs: 15 Nov the free tier was DISABLED for "unusual activity" -> 18:30 without Arif. Gartal must open elevenlabs.io and
   sort it out (log in / verify). Until then the 18:30 reel goes out with captions only (never Banu).
 

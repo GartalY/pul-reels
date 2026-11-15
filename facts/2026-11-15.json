@@ -1,6 +1,6 @@
 {
  "date": "2026-11-15",
- "status": "13:00 scheduled (static, no voice, IG TRIAL_REEL); 18:30 animated Arif reel = 14:47/15:23 tasks; 09:10 15 Nov: trend picked = Ronaldo tribute + Portugal 1-4 Denmark (15:23 re-checks)",
+ "status": "13:00 scheduled (static, no voice, IG TRIAL_REEL); 18:30 animated Arif reel = 14:47/15:23 tasks; 09:10 15 Nov: trend picked = Ronaldo tribute + Portugal 1-4 Denmark (15:23 re-checks); 14:47 task: reel_1830 written (context fix: not 'first game without Ronaldo', not 'still top')",
  "format": "v2",
  "content_format": "quality_reset_2026-11-12",
  "planned_note": "Planned in the 2026-11-14 09:10 run. Sun 15 Nov: 13:00 static factgen reel (no voice per 1i, IG TRIAL_REEL per 1j) = facts[0] Shamakhi observatory (unaired 13 Nov plan, upgraded: 67th birthday on 17 Nov + Moon crater twist). 18:30 animated 60 fps Arif reel = freshest trend (15:23 decides) else facts[1] last tigers of Azerbaijan 1932. No carousels/quizzes/stories.",
@@ -126,15 +126,15 @@
   "picked_at": "09:10–10:00 Baku 15 Nov (1st trend check)",
   "source_scan": "15 Nov: apa.az homepage (Denmark beat Portugal heavily 01:46; Musk on Huang/Nvidia; Iran/Hormuz/Saudi drones = war, skipped; Putin–Xi–Trump meeting 19 Nov; Iran bus crash = tragedy, skipped), ikisahil.az (heating season starts 15 Nov), trend.az (economy only), Google News top-10 snapshot 14 Nov (US stories). report.az and oxu.az could not be fetched (permission timeout in unattended run). Google Trends AZ not reachable.",
   "subject": "Portugal 1-4 Denmark, UEFA Nations League A4, Sat 14 Nov 2026, Braga Municipal Stadium — Portugal's first match after Cristiano Ronaldo's international retirement. ESPN report 401861167: Højbjerg 43' pen, Højlund 49' 57', J. Andersen 75'; title 'Portugal 1-4 Denmark'; VAVEL 'Portugal 1-4 Denmark, Højlund brace'; Vanguard 'Denmark hammer Ronaldo-less Portugal 4-1'; fakti.bg via Ground News: Bernardo Silva pulled one back, 4-1 in Braga. Tribute (africasoccer.com 15 Nov + Goal/Yahoo 13 Nov): all players walked out in No. 7 shirts; play briefly stopped in the 7th minute while fans applauded; tifo 'Thank you, captain' (Obrigado, capi7ão per Times of India listing); UEFA approved; No. 7 shirt design changes permanently (new typeface, white line through the middle; africasoccer + ToI headline 'permanent change'). Retirement: video on social media, Thu 5 Nov 2026 (Sky Sports x2, Outlook India, Eastern Eye); 234 caps, 146 goals, both men's world records (Outlook, Eastern Eye, africasoccer, Sky); 23 years, debut 20 Aug 2003 v Kazakhstan (Outlook); trophies Euro 2016, Nations League 2019 + 2025. CONTEXT CHECK (rule 4): the loss does not hurt Portugal — still top of A4 with 12 pts and already through to the quarter-finals (Mint listing + Ground summary; ESPN pre-match 4-0-0, 12 pts) — say it. NOT used: why he retired (reported fallout with coach Jorge Jesus — unconfirmed by him, gossip), his last match (sources conflict: Norway unused sub / 24 Sep / Wales), 'heaviest competitive home defeat' (one listing only), the 'immigrants' line.",
-  "title": "234 oyun, 146 qol — və onsuz ilk oyun",
-  "reel_hook": "234 OYUN, 146 QOL. RONALDOSUZ İLK OYUN: 1:4",
+  "title": "146 qol, 234 oyun — və o gedəndən sonra ilk oyun",
+  "reel_hook": "146 QOL, 234 OYUN. RONALDO GEDƏNDƏN SONRA İLK OYUN: 1:4",
   "reel_beats": [
-   "Dünən Portuqaliya Ronaldosuz ilk oyununu keçirdi. Bragada bütün futbolçular meydana 7 nömrəli formada çıxdı.",
+   "Dünən Portuqaliya Ronaldo millidən gedəndən sonra ilk oyununu keçirdi. Bragada bütün futbolçular meydana 7 nömrəli formada çıxdı.",
    "7-ci dəqiqədə oyun bir anlıq dayandı, stadion Ronaldonu alqışladı. Tribunada yazı var idi: «Sağ ol, kapitan».",
    "Ronaldo noyabrın 5-də millidən getdiyini açıqlamışdı. 23 il, 234 oyun, 146 qol — hər ikisi kişilər arasında dünya rekordudur.",
-   "Amma onsuz ilk oyun ağır keçdi: Danimarka Portuqaliyanı 4:1 hesabı ilə məğlub etdi. Rasmus Hoylund iki qol vurdu."
+   "Amma bu oyun ağır keçdi: Danimarka Portuqaliyanı 4:1 hesabı ilə məğlub etdi. Rasmus Hoylund iki qol vurdu."
   ],
-  "payoff": "Portuqaliya yenə də qrupda birincidir və artıq 1/4 finaldadır. 7 nömrəli forma isə bundan sonra yeni şriftlə yazılacaq.",
+  "payoff": "Amma Portuqaliya onsuz da 1/4 finala çıxıb. 7 nömrəli forma isə bundan sonra yeni şriftlə yazılacaq.",
   "twist_line": "Meydanda Ronaldo yox idi — amma hamı 7 nömrə geyinmişdi.",
   "voice_texts": [
    "İki yüz otuz dörd oyun, yüz qırx altı qol. Ronaldosuz ilk oyun: bir — dörd.",
@@ -145,7 +145,7 @@
    "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
   ],
   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
-  "caption": "Ronaldosuz ilk oyun: Portuqaliya 1:4 Danimarka ⚽\n\nDünən Bragada Portuqaliya millisi Cristiano Ronaldo olmadan ilk oyununu keçirdi. Bütün futbolçular meydana 7 nömrəli formada çıxdı, 7-ci dəqiqədə oyun bir anlıq dayandı və stadion kapitanı alqışladı. Ronaldo noyabrın 5-də millidən getdiyini açıqlamışdı: 23 ildə 234 oyun və 146 qol — hər ikisi kişilər arasında dünya rekordudur. Amma onsuz ilk oyun ağır oldu: Danimarka 4:1 qalib gəldi, Rasmus Hoylund iki qol vurdu. Portuqaliya yenə də qrupda birincidir və 1/4 finala artıq çıxıb.\n\n📩 Ronaldo azarkeşi olan dostuna göndər\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nSəs: elevenlabs.io\n\n#bilirdinizmi #ronaldo #portuqaliya #futbol #millətlərliqası",
+  "caption": "Ronaldo gedəndən sonra ilk oyun: Portuqaliya 1:4 Danimarka ⚽\n\nDünən Bragada Portuqaliya Cristiano Ronaldo millidən gedəndən sonra ilk oyununu keçirdi. Bütün futbolçular meydana 7 nömrəli formada çıxdı, 7-ci dəqiqədə oyun bir anlıq dayandı və stadion kapitanı alqışladı. Ronaldo noyabrın 5-də millidən getdiyini açıqlamışdı: 23 ildə 234 oyun və 146 qol — hər ikisi kişilər arasında dünya rekordudur. Amma bu oyun ağır keçdi: Danimarka 4:1 qalib gəldi, Rasmus Hoylund iki qol vurdu. Amma Portuqaliya onsuz da 1/4 finala çıxıb.\n\n📩 Ronaldo azarkeşi olan dostuna göndər\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nSəs: elevenlabs.io\n\n#bilirdinizmi #ronaldo #portuqaliya #futbol #millətlərliqası",
   "first_comment": "Ronaldosuz Portuqaliya: sənə görə nə dəyişəcək? 👇",
   "visual_ideas": [
    "Frame 0: two giant counters '234' (oyun) and '146' (qol) slam in, then a scoreboard flips to '1:4' with a red flash; counter 0/4 in a corner.",
@@ -191,6 +191,21 @@
     ]
    }
   ],
-  "skipped": "US–Iran strikes / Hormuz tankers / Saudi drones (war), Iran bus crash and Baku dormitory death (tragedies), Nvidia–Huang (already covered 12 Nov, 47 views)."
+  "skipped": "US–Iran strikes / Hormuz tankers / Saudi drones (war), Iran bus crash and Baku dormitory death (tragedies), Nvidia–Huang (already covered 12 Nov, 47 views).",
+  "voice_texts_note": "superseded by reel_1830.voice_text (15 Nov 14:55 context fix)"
+ },
+ "reel_1830": {
+  "topic": "Portugal 1-4 Denmark (UNL, Braga, Sat 14 Nov 2026) — first match after Cristiano Ronaldo's international retirement; No. 7 shirt tribute, applause at minute 7, 'Thank you, captain' banner; Portugal already through to the quarter-finals.",
+  "picked": "15 Nov ~14:50 Baku, 2nd trend check: kept the 09:10 pick (still the biggest story in AZ sports feeds; nothing hotter found — AZ news search returned only old azertag pages, world search showed Rugby League WC finals, not an AZ-feed story).",
+  "context_check": "CATCH FOUND: Ronaldo had already missed Portugal games before retiring (fell out with coach Jorge Jesus over a September non-selection, 30-day federation suspension — Al Jazeera/AFP; Portugal beat Denmark 4-2 away on 1 Oct without him — beIN, portugalresident 'first game without Ronaldo'). So 'Ronaldosuz ilk oyun' is WRONG → say 'first match after he left the national team'. Also 'still top of the group' is NOT safe: after this loss Portugal and Denmark are both on 12 pts and Denmark lead on head-to-head goal difference (4-2, 1-4) → only say Portugal are already through to the quarter-finals (Al Jazeera: 'already sure of qualification for the last eight'). The trend hook/payoff/caption were corrected the same way.",
+  "sources": [
+   "https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league",
+   "https://www.vavel.com/en/football/2026/11/14/1279234-portugal-vs-denmark-live-latest-score-goals-and-uefa-nations-league-updates.html",
+   "https://www.espn.com/soccer/report/_/gameId/401861167",
+   "https://africasoccer.com/portugal-players-wear-number-seven-as-cristiano-ronaldo-receives-farewell-tribute/",
+   "https://www.beinsports.com/en-us/soccer/uefa-nations-league/articles/all-goals-portugal-vs-denmark-uefa-nations-league-2026-11-14"
+  ],
+  "voice_text": "Yüz qırx altı qol, iki yüz otuz dörd oyun. Ronaldo millidən gedəndən sonra Portuqaliya ilk dəfə meydana çıxdı. Dünən Bragada futbolçuların hamısı yeddi nömrəli formada idi. Yeddinci dəqiqədə stadion Ronaldonu alqışladı. Tribunada yazı var idi: «Sağ ol, kapitan». Danimarka isə dörd-bir qalib gəldi. Amma Portuqaliya onsuz da dörddəbir finala çıxıb. Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+  "voice": "pending"
  }
 }

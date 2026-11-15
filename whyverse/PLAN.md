@@ -1,3 +1,11 @@
+## CORE SETUP — LOCKED (Gartal 2026-11-15 21:40). Reviews never change this.
+- 2 posts a day on EACH platform (Instagram, TikTok, YouTube Shorts), BOTH ANIMATED, voice = Kokoro af_heart.
+  1st = 19:00 Baku daily animated trend Short. 2nd = 23:00 London: the episode's animated cut Short on the day after an episode,
+  otherwise a short ANIMATED fact Short (Motion Reel, voiced). NO static "photo + words" reels on Whyverse any more (replaces the
+  QUALITY RESET 23:00 static-fact rule below).
+- Long videos: not part of the weekly review or the message to Gartal — don't report on them or raise them.
+- Sunday/Wednesday reviews only tune topics, hooks and looks inside this setup.
+
 # Whyverse — night animation plan (Gartal, 2026-11-02)
 
 Gartal: "create an 8–10 minute animation 3 times a week at nights when I'm sleeping". POSTING IS ON since
@@ -235,5 +243,3 @@ Code-drawn with Motion Reel, no new tools. Use when the topic fits:
   Otherwise pick a new story.
 - CUT SHORT PICK: the episode cut must open on a "you" number (ep05 "26 years of your life asleep" TikTok 1 317 vs ep04 chalk cuts
   184 / 355, ep03 cuts IG 24–177). If no "you" number exists in the episode, use its biggest single number in the first 2 s.
-- Long episodes (ep03 9 views, ep04 8 where synced) are NOT changed this week (STEADY PERIOD + Gartal: Whyverse is mainly long
-  videos). Check ep05–ep07 on Sun 22 Nov; if all < 100 views, put it to Gartal.

@@ -1,3 +1,12 @@
+## CORE SETUP — LOCKED (Gartal 2026-11-15 21:40: "we already talked about this … 2 videos on each platform"). Reviews never change this.
+- bilirdinizmi_az: 2 posts a day on EACH platform (Instagram, TikTok, YouTube Shorts).
+  1st post (13:00) = NOT animated: static "photo + words" reel.  2nd post (18:30) = ANIMATED reel, voice = Arif (ElevenLabs).
+- Whyverse: 2 posts a day on EACH platform, BOTH animated, voice = Kokoro af_heart (never ElevenLabs). See whyverse/PLAN.md.
+- Long videos: not part of the weekly review or the message to Gartal — don't report on them or raise them.
+- BOOST: Gartal chooses and boosts the reel himself. Reviews don't pick one; they only track the boost he names (reel, cost, followers).
+- Sunday/Wednesday reviews may only tune things INSIDE this setup (topics, hooks, looks, captions) — never the number of posts,
+  which post is animated, the voices, or the slots.
+
 ## STEADY PERIOD 2026-11-13 → 2026-12-15 (Gartal: "don't pause anything, keep going, both brands as they are")
 Both brands keep the current setup. NO new formats, slots, styles or voices during this period; Sunday/Wednesday reviews may only
 fix clear failures (broken posts, a format at ≤ 0.5× median two weeks running). Checkpoint 15 Dec: bilirdinizmi IG ≥ 250 followers
@@ -14,8 +23,6 @@ or ≥ 1 reel > 5,000 views; Whyverse: any platform growing week over week. Repo
 2. 13:00 static stays number + AZ place/person/history (Xınalıq 2.4×, 1901 oil 2.5×, Metro 1/2 7.8×) — unchanged.
 3. TikTok 15 Nov check (STRATEGY RESET 2): median 207 views (≥ 100) but 6 followers (< 10) → TikTok stays at 2/day (QUALITY RESET
    minimum), not paused. YouTube 3/day test: views per new Short recovered (median 476 on 9–10 Nov) — the volume cut worked.
-4. BOOST PICK this week: "1901-ci ildə dünya neftinin yarısından çoxu Bakıdan çıxırdı" (10 Nov 21:33). Never boost a reel with a
-   correction in the comments (football 14 Nov).
 
 ## QUALITY RESET 2026-11-12 (Gartal: "posting 4 or 5 times a day, it's not working … come back to quality over quantity") — OVERRIDES EVERYTHING BELOW
 1. bilirdinizmi_az = TWO posts a day on EACH platform (Instagram + TikTok + YouTube Shorts) — Gartal corrected 2026-11-12 14:55:
@@ -114,7 +121,7 @@ animation on EACH platform (IG, TikTok, YouTube):
 ## PAID PROMOTION NOTE (Gartal 2026-11-15 ~01:00 Baku)
 Gartal paid for one small promotion on bilirdinizmi: $2 Instagram + $2 TikTok. Daily reports and the Sunday/Wednesday reviews
 must mark follower/view changes from 15 Nov onward as "includes paid promo" and not count them as organic growth. Compare the
-retention of promo-gained followers (do they keep watching?) with organic ones. WEEKLY BOOST (Gartal 2026-11-15 01:18): from now on, ONE $2 Instagram boost per week (~$8/month), done by Gartal himself in the app (Claude never pays or touches payment). The Sunday weekly review must end with a 'BOOST PICK' line: the best bilirdinizmi reel of the last 7 days (most shares + saves + comments per view, not just views), audience = Azerbaijan, and why. Track each boost: cost, reel, followers gained, and whether those followers still watch a week later. If two boosts in a row bring followers who don't watch, recommend stopping. TikTok boosts only if Gartal asks.
+retention of promo-gained followers (do they keep watching?) with organic ones. WEEKLY BOOST (Gartal 2026-11-15 01:18): from now on, ONE $2 Instagram boost per week (~$8/month), done by Gartal himself in the app (Claude never pays or touches payment). (UPDATED 2026-11-15 21:40: Gartal picks the reel himself — the review does NOT pick one; see CORE SETUP.) Track each boost: cost, reel, followers gained, and whether those followers still watch a week later. If two boosts in a row bring followers who don't watch, recommend stopping. TikTok boosts only if Gartal asks.
 
 ## TREND FRESHNESS (Gartal 2026-11-12: "make sure it's a new trend, something that happened yesterday or today … we are always away from the trends")
 The 18:30 trend reel must be about something from the last 24–48 h that people in Azerbaijan are talking about NOW. 09:10 picks it, 15:23 re-checks the news

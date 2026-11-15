@@ -863,3 +863,9 @@ Code-drawn with Motion Reel, no new tools. Use when the topic fits:
 - MAP ROUTE: animated line travelling over a simple top-down map (routes, distances, pipelines, trade roads, "how far").
 - EXPLODED VIEW: an object separating into labelled layers ("what's inside"). Only objects that stay instantly recognisable.
 - GROWING GRAPH: bars/line growing with a running number (any number that changes over time).
+- INK SILHOUETTE: black ink figures/objects against a warm sky or paper gradient (fits rule 1g — people as silhouettes).
+- LINE ART: thin single-weight lines drawing themselves on, one accent colour.
+- VINTAGE COMIC: halftone dots, bold outlines, panel frames, a few speech-bubble numbers.
+- PAPER CUTOUT: layered torn-paper shapes with soft shadows, slight parallax.
+(from an ohneis652 reel "10 Claude animation styles", Gartal 2026-11-15 21:00; pixel/8-bit/16-bit stay banned; soft 3D / low poly
+ only as a later Whyverse test — heavy to render on the 2-CPU box.)

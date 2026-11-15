@@ -1,6 +1,6 @@
 {
  "date": "2026-11-16",
- "status": "planned",
+ "status": "13:00 scheduled (static, no voice, silent track, IG REEL); 18:30 animated Arif reel = 14:47/15:23 tasks",
  "format": "v2",
  "content_format": "quality_reset_2026-11-12",
  "planned_note": "Planned in the 2026-11-15 09:10 run. Mon 16 Nov: 13:00 static factgen reel (no voice per 1i, IG TRIAL_REEL per 1j) = facts[0] Ateshgah flame 1969. 18:30 animated 60 fps Arif reel = freshest trend (09:10/15:23 on 16 Nov decide) else facts[1] Leyla Mammadbeyova. No carousels/quizzes/stories. NOTE: Wikipedia/report.az/oxu.az direct fetch was blocked this run (permission timeout); facts verified via Wikipedia mirrors (wikiwand, krisyotam 2026-03 snapshot) + Azerbaijani official pages (preslib.az, azertag, UNESCO preslib, wuf13.az).",
@@ -39,7 +39,28 @@
     "https://wuf13.az/en/treasures-of-azerbaijan/historical-locations/0056/Ateshgah-Temple-State-Historical-and-Architectural-Reserve",
     "https://www.atlasobscura.com/places/fire-temple-of-baku",
     "https://wikiwand.com/en/articles/Atashgah_of_Baku"
-   ]
+   ],
+   "build": {
+    "file": "out/2026-11-16/1_reel.mp4",
+    "dur_s": 24.3,
+    "voice": null,
+    "sound": "pure silence (volumedetect max -91.0 dB)",
+    "hook_bg": true,
+    "spec": {
+     "hook": "1969: ATƏŞGAHIN ODU SÖNDÜ",
+     "beats": [
+      "Suraxanıdakı Atəşgah məbədi XVII–XVIII əsrlərdə tikilib. Burada Hindistandan gələn tacirlər və zəvvarlar qalırdı.",
+      "Məbədin 24 hücrəsi var. Divarlarda təxminən 20 yazı qalıb: sanskrit, pəncab və fars dillərində.",
+      "Od burada yerin altından çıxan təbii qazla yanırdı. Amma ətrafda çoxlu neft və qaz çıxarıldı və 1969-cu ildə od söndü.",
+      "İndi Atəşgahda gördüyün od Bakıdan boru ilə gələn qazla yanır. 1975-ci ildən bura muzeydir."
+     ],
+     "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+     "seed": 16,
+     "cy": 0.5,
+     "hook_bg": true
+    },
+    "checked": "10-frame sheet 15 Nov 20:48: AZ letters (ə ı ş ğ ü İ) fine, hook on frame 0, beats in safe zone, CTA pill on last beat"
+   }
   },
   {
    "n": 2,
@@ -87,5 +108,19 @@
     "https://nargismagazine.az/en/articles/article_her-story-5/"
    ]
   }
- ]
+ ],
+ "media": {
+  "13:00 Atəşgah": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-16_1300_atesgah_silent.mp4"
+ },
+ "metricool": {
+  "13:00 reel (Atəşgah 1969, static, silent, IG REEL)": 429054339
+ },
+ "tiktok": {
+  "13:00 Atəşgah": 429054355
+ },
+ "youtube": {
+  "13:00 Atəşgah": 429054369
+ },
+ "ig_type": "REEL (trial reels suspended)",
+ "scheduled_check": "20:48 15 Nov: getScheduledPosts for 16 Nov empty before creating; no pending_schedule in 14–16 Nov JSONs."
 }

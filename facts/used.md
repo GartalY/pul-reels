@@ -36,3 +36,4 @@
 - 2026-11-15 13:00: Şamaxı Astrofizika Rəsədxanası (2 m teleskop, Tusi krateri)
 - 2026-11-15 trend (09:10 pick for 18:30): Ronaldo retired 5 Nov (234 caps, 146 goals); 14 Nov Braga tribute (all in No. 7, 7th-minute applause) + Portugal 1-4 Denmark
 - 2026-11-16 (planned): Ateshgah flame went out 1969, now Baku gas pipe (13:00 static) · Leyla Mammadbeyova first woman pilot of the South Caucasus 1931, parachute 1933, 6 children (18:30 animated backup)
+- 2026-11-16 13:00: Atəşgah — odu 1969-cu ildə söndü (static)

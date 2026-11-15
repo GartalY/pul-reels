@@ -198,6 +198,7 @@ def ambience(path, seconds, seed=1):
     for i in range(n):              # very dark brown-ish noise
         acc += a * (x[i] - acc); y[i] = acc
     y = y / (np.abs(y).max() + 1e-9) * 0.05
+    y = y * 0.0   # 2026-11-15 Gartal: the noise bed sounded like a painful hiss/rumble when the volume was turned up -> pure silence
     fade = np.minimum(1, np.minimum(np.arange(n) / sr / 0.6, (seconds - np.arange(n) / sr) / 0.8))
     y = (y * fade * 32767).astype(np.int16)
     with wave.open(path, "wb") as w:

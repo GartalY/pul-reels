@@ -74,6 +74,15 @@ or ≥ 1 reel > 5,000 views; Whyverse: any platform growing week over week. Repo
    (rule changes, automatic promotion, weak opponents) and search for it. If there is, say it honestly in the reel or pick another
    angle. Fans know their topic; a missing catch costs trust. When a commenter corrects us correctly: thank them, admit it, pin it.
 
+## 15 NOV FIXES (Gartal 14:59 "the voice is too high … when you turn up the volume it's hurting the ears")
+- The 13:00 static reel had no voice, only a noise bed at -45 LUFS (dark hiss/rumble). On a phone it sounds silent, people turn the
+  volume up and get a painful hiss. FIX: reelgen.ambience() now writes pure silence. Static reels = silent track, no noise.
+- ANY reel with sound: master to -14 LUFS / -1 dBTP and check with ebur128 before posting; nothing below -30 LUFS that isn't silence.
+- TRIAL REELS DON'T WORK FOR US: Instagram rejected the 15 Nov trial reel ("Trial Reel Not Enough Followers") -> rule 1j is
+  SUSPENDED; the 13:00 static goes to Instagram as a normal REEL again. Retry trial reels only after ~1,000 IG followers.
+- ElevenLabs: 15 Nov the free tier was DISABLED for "unusual activity" -> 18:30 without Arif. Gartal must open elevenlabs.io and
+  sort it out (log in / verify). Until then the 18:30 reel goes out with captions only (never Banu).
+
 ## VOICED ANIMATION FRAMEWORK (Gartal 2026-11-15 10:33 — overrides STEADY PERIOD "no new voices" for this one change)
 The AZ football reel (reels/2026-11-14_1830/, Liechtenstein 0-1 Azerbaijan) is the model: "voice of Arif, a good fast-moving
 animation. This is a great combination. I want same for the English brand also." Every day, each brand has AT LEAST ONE such

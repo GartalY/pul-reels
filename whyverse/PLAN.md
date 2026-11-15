@@ -215,3 +215,13 @@ Code-drawn with Motion Reel, no new tools. Use when the topic fits:
 - PAPER CUTOUT: layered torn-paper shapes with soft shadows, slight parallax.
 (from an ohneis652 reel "10 Claude animation styles", Gartal 2026-11-15 21:00; pixel/8-bit/16-bit stay banned; soft 3D / low poly
  only as a later Whyverse test — heavy to render on the 2-CPU box.)
+
+## SENDS RULE (Gartal 2026-11-15 21:11, from a vizyonajansi reel: Mosseri — DM "sends" are the strongest signal for reaching
+## NON-followers; that reel itself had 1,819 sends vs 1,033 likes)
+1. Topic test before writing: "who would a viewer send this to?" (a friend from that city, a football fan, the friend who
+   always argues about X). If nobody — weaker topic.
+2. Every animated reel's END CARD shows, under the spoken CTA, ONE on-screen line naming a specific friend:
+   AZ: "📩 …-a/ə göndər" (e.g. "📩 Ronaldonu sevən dostuna göndər"); EN: "📩 Send this to the friend who …".
+   Never a generic "share this". The SPOKEN CTA stays exactly as rule 1f ("Bəyən və izlə…" / "Like and follow Whyverse…").
+3. Captions keep their specific 📩 line (already the rule for bilirdinizmi; now Whyverse too).
+4. Reports: track sends (shares) per post where Metricool gives them; sends per view is the main quality number.

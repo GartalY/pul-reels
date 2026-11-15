@@ -106,16 +106,19 @@
   }
  ],
  "metricool": {
-  "13:00 reel (Şamaxı rəsədxanası, static, silent, IG TRIAL_REEL)": 428157647
+  "13:00 reel (Şamaxı rəsədxanası, static, silent, IG TRIAL_REEL)": 428157647,
+  "18:30 reel (Ronaldo №7: Portuqaliya 1-4 Danimarka, MOTION 60 fps, Arif)": 428809917
  },
  "ig_type": {
   "13:00": "TRIAL_REEL"
  },
  "tiktok": {
-  "13:00 Şamaxı rəsədxanası": 428157875
+  "13:00 Şamaxı rəsədxanası": 428157875,
+  "18:30 Ronaldo №7": 428809932
  },
  "youtube": {
-  "13:00 Şamaxı rəsədxanası": 428157793
+  "13:00 Şamaxı rəsədxanası": 428157793,
+  "18:30 Ronaldo №7": 428809948
  },
  "scheduled_check": "20:48 14 Nov: getScheduledPosts for 15 Nov was empty before creating (no old-format 16:00/21:30/11:00/19:45 posts); no pending_schedule in 10–14 Nov JSONs. TikTok first attempt rejected for missing tiktokData.title (nothing created), retried with title OK.",
  "trend": {
@@ -217,6 +220,19 @@
   "arif_mp3": "reels/arif/2026-11-15_1830.mp3",
   "arif_duration_s": 24.72,
   "arif_credits": 393,
-  "arif_note": "15:07 Baku: generated manually after Gartal logged into ElevenLabs (account was disabled earlier)"
+  "arif_note": "15:07 Baku: generated manually after Gartal logged into ElevenLabs (account was disabled earlier)",
+  "build": {
+   "source": "reels/2026-11-15_1830/",
+   "media": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-15_1830_ronaldo_7.mp4",
+   "dur_s": 26.03,
+   "fps": 60,
+   "size_mb": 5.4,
+   "audio": "Arif VO + soft SFX (-9 dB), no music, -14.6 LUFS / -1.5 dBTP",
+   "timing": "ElevenLabs Scribe word alignment on the Arif track (flow oYNECO7D6K8RJXamkgTr) — cost 343 credits, NOT free",
+   "critique_rounds": 3,
+   "look": "night stadium in Portugal red/green; Ronaldo as silhouette + name plate; 6 shirts flip to No.7; crowd card mosaic 7; banner SAĞ OL, KAPİTAN; POR 1:4 DEN scoreboard; quarter-final bracket; persistent bottom bug (146 QOL/234 OYUN → POR–DEN score)",
+   "language_fix": "Scribe 'Braga-da' → on screen 'Braqada'/'BRAQA' (AZ spelling)"
+  },
+  "scheduled_check": "15:39 Baku: getScheduledPosts 14–15 Nov had no 18:30 posts; created 3 new (IG REEL isAiGenerated, TikTok isAigc, YouTube short isAiGeneratedContent)."
  }
 }

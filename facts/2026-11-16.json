@@ -1,0 +1,91 @@
+{
+ "date": "2026-11-16",
+ "status": "planned",
+ "format": "v2",
+ "content_format": "quality_reset_2026-11-12",
+ "planned_note": "Planned in the 2026-11-15 09:10 run. Mon 16 Nov: 13:00 static factgen reel (no voice per 1i, IG TRIAL_REEL per 1j) = facts[0] Ateshgah flame 1969. 18:30 animated 60 fps Arif reel = freshest trend (09:10/15:23 on 16 Nov decide) else facts[1] Leyla Mammadbeyova. No carousels/quizzes/stories. NOTE: Wikipedia/report.az/oxu.az direct fetch was blocked this run (permission timeout); facts verified via Wikipedia mirrors (wikiwand, krisyotam 2026-03 snapshot) + Azerbaijani official pages (preslib.az, azertag, UNESCO preslib, wuf13.az).",
+ "facts": [
+  {
+   "n": 1,
+   "type": "reel",
+   "slot": "13:00",
+   "static": true,
+   "voiced": false,
+   "cat": "Tarix",
+   "subject": "Ateshgah of Baku (Surakhani fire temple). Built 17th–18th c. (Wikipedia mirrors wikiwand/krisyotam/ipfs, wuf13.az, Atlas Obscura); UNESCO preslib: cells built between 17th–19th c. Used by Indian (mostly North Indian, Multan region) traders and pilgrims — Hindu, Sikh, Zoroastrian/Parsi worship (Wikipedia; UNESCO preslib: 'members of the Sikh community'). 24 cells for pilgrims (UNESCO preslib 'consist of 24 cells and rooms, which used to accommodate visiting pilgrims'; wuf13 '24 cells arranged in a pentagonal formation'). Inscriptions: 17 (Wikipedia: 14 Hindu, 2 Sikh, 1 Persian), 20 + 1 Persian (UNESCO preslib), 21 (wuf13), 'over 20' (Sify) -> wording 'təxminən 20'; languages Sanskrit (Devanagari), Punjabi (Gurmukhi), Persian. Natural flame went out in 1969 after heavy gas/oil extraction in the area (all sources); now fed by gas piped from Baku (wikiwand, krisyotam, Atlas Obscura, Better India). Museum 1975 (Wikipedia mirrors, Atlas Obscura); state historical-architectural reserve by decree 19 Dec 2007 (Wikipedia + UNESCO preslib). Ceased as a place of worship after 1883 (petroleum plants). NOT used: Dumas 1858 (one source), Alexander III 1888 (unverified), 'UNESCO World Heritage' (only Tentative List 1998), '500 years old' (Better India only), Zoroastrian-origin myths.",
+   "title": "1969: Atəşgahın odu söndü",
+   "text": "Suraxanıdakı Atəşgahda od əsrlər boyu yerin altından çıxan qazla yanırdı. 1969-cu ildə o söndü. İndi Atəşgahdakı od Bakıdan boru ilə gələn qazla yanır.",
+   "reel_hook": "1969: ATƏŞGAHIN ODU SÖNDÜ",
+   "reel_beats": [
+    "Suraxanıdakı Atəşgah məbədi XVII–XVIII əsrlərdə tikilib. Burada Hindistandan gələn tacirlər və zəvvarlar qalırdı.",
+    "Məbədin 24 hücrəsi var. Divarlarda təxminən 20 yazı qalıb: sanskrit, pəncab və fars dillərində.",
+    "Od burada yerin altından çıxan təbii qazla yanırdı. Amma ətrafda çoxlu neft və qaz çıxarıldı və 1969-cu ildə od söndü."
+   ],
+   "payoff": "İndi Atəşgahda gördüyün od Bakıdan boru ilə gələn qazla yanır. 1975-ci ildən bura muzeydir.",
+   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+   "caption": "Atəşgah: 1969-cu ildə sönən od 🔥\n\nSuraxanıdakı Atəşgah məbədi XVII–XVIII əsrlərdə tikilib. Burada Hindistandan gələn tacirlər və zəvvarlar qalırdı: məbədin 24 hücrəsi var, divarlarda sanskrit, pəncab və fars dillərində təxminən 20 yazı qalıb. Od əsrlər boyu yerin altından çıxan təbii qazla yanırdı. Amma ətrafda çoxlu neft və qaz çıxarıldı və 1969-cu ildə od söndü. İndi orada gördüyün od Bakıdan boru ilə gələn qazla yanır. Atəşgah 1975-ci ildən muzeydir, 2007-ci ildən isə dövlət qoruğudur.\n\n📩 Atəşgahda olmayan dostuna göndər — həftəsonu gedək 🔥\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nFoto: Zulfugar Karimov / Unsplash\n\n#bilirdinizmi #atəşgah #suraxanı #bakı #azərbaycan",
+   "first_comment": "Sən Atəşgahda olmusan? 👇",
+   "photo": {
+    "path": "fetch/img/2026-11-16_1_ateshgah_a.jpg",
+    "credit": "Zulfugar Karimov / Unsplash",
+    "cy": 0.5,
+    "full": true,
+    "source": "https://unsplash.com/photos/stone-structure-with-an-arched-entrance-iQIaV0E7z4Q",
+    "note": "Checked 15 Nov 09:55: 2000x1333 landscape, the central altar-shrine with four chimneys and arches, deep blue sky; Unsplash description 'Ateshgah fire temple'; no watermark/text, no people. Rejected: 2026-11-16_1_ateshgah_b.jpg (a private visitor stands behind the flame)."
+   },
+   "sources": [
+    "https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Ateshgah_of_Baku",
+    "https://unesco.preslib.az/en/page/FWtwSTvkXZ",
+    "https://wuf13.az/en/treasures-of-azerbaijan/historical-locations/0056/Ateshgah-Temple-State-Historical-and-Architectural-Reserve",
+    "https://www.atlasobscura.com/places/fire-temple-of-baku",
+    "https://wikiwand.com/en/articles/Atashgah_of_Baku"
+   ]
+  },
+  {
+   "n": 2,
+   "type": "reel",
+   "slot": "18:30 backup",
+   "motion": true,
+   "fps": 60,
+   "voiced": "Arif",
+   "cat": "Məşhur insanlar",
+   "subject": "Leyla Mammadbeyova (Məmmədbəyova), born 17 Sep 1909 Baku, died 4 Jul 1989 (wikiwand/cavac Wikipedia text; preslib.az). First flight 1931 at the Baku airclub (wikiwand, cavac, azertag, azernews; preslib 'first flight in a U-1 aircraft'; Nargis: July 1931) -> aged 21. 'first female pilot of Transcaucasia, of Southern Europe and of Southwest Asia' (Wikipedia); 'first female pilot in Azerbaijan, the South Caucasus, and the Middle East' (preslib.az); Ogonyok mid-1930s 'Azerbaijani woman is the East's first woman pilot' (azertag). Parachute jump 17 Mar 1933, Moscow (Tushino per Wikipedia) — 'the second woman parachutist in the Soviet Union (after Nina Kamneva)' (Wikipedia); preslib: before her there were 84 Soviet paratroopers, only one a woman (azertag says 1934 — minority, 1933 used). Glider/parachute club trained about 4 000 paratroopers in the war (Wikipedia, preslib, Nargis). Six children (Wikipedia 'six overall', preslib 'a mother of six', Nargis); in the early 1930s already mother of two small children (azertag, azernews). Squadron leader 1941; last flight 1949. Buried in the Second Alley of Honour (preslib). NOT used: altitudes/'Soviet record' (not in sources), street/school names, 'first Muslim woman pilot' as a hard claim, medal years (preslib inconsistent), film titles.",
+   "title": "1931: Şərqin ilk qadın pilotu bakılı idi",
+   "reel_hook": "1931: ŞƏRQİN İLK QADIN PİLOTU BAKILI İDİ",
+   "reel_beats": [
+    "1931-ci ildə 21 yaşlı bakılı Leyla Məmmədbəyova ilk dəfə təyyarə ilə uçdu.",
+    "O, Azərbaycanın və bütün Cənubi Qafqazın ilk qadın pilotu oldu. Jurnallar onu «Şərqin ilk qadın pilotu» adlandırırdı.",
+    "1933-cü ildə Moskvada paraşütlə tullandı. O, SSRİ-də paraşütlə tullanan ikinci qadın idi.",
+    "Müharibə illərində onun klubu təxminən 4 000 paraşütçü hazırladı."
+   ],
+   "payoff": "Ən maraqlısı: ilk dəfə uçanda onun artıq 2 balaca uşağı var idi. Sonra 6 uşaq anası oldu.",
+   "voice_texts": [
+    "Min doqquz yüz otuz bir. Şərqin ilk qadın pilotu bakılı idi.",
+    "İyirmi bir yaşlı Leyla Məmmədbəyova Bakıda ilk dəfə təyyarə ilə uçdu.",
+    "O, Azərbaycanın və Cənubi Qafqazın ilk qadın pilotu oldu.",
+    "İki il sonra paraşütlə tullandı — SSRİ-də bunu edən ikinci qadın idi.",
+    "Ən maraqlısı: ilk uçanda onun artıq iki balaca uşağı var idi. Sonra altı uşaq anası oldu.",
+    "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
+   ],
+   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+   "caption": "Leyla Məmmədbəyova: Şərqin ilk qadın pilotu ✈️\n\n1931-ci ildə 21 yaşlı bakılı Leyla Məmmədbəyova Bakı aeroklubunda ilk dəfə təyyarə ilə uçdu və Azərbaycanın, Cənubi Qafqazın ilk qadın pilotu oldu. O vaxtın jurnalları onu «Şərqin ilk qadın pilotu» adlandırırdı. 1933-cü ildə Moskvada paraşütlə tullandı — SSRİ-də bunu edən ikinci qadın idi. Müharibə illərində onun klubu təxminən 4 000 paraşütçü hazırladı. Ən maraqlısı: ilk dəfə uçanda onun artıq 2 balaca uşağı var idi, sonra isə 6 uşaq anası oldu.\n\n📩 Cəsarətli bir qadına göndər 💪\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nSəs: elevenlabs.io\n\n#bilirdinizmi #leylaməmmədbəyova #pilot #bakı #azərbaycan",
+   "first_comment": "Leyla Məmmədbəyovanın adını əvvəl eşitmişdin? 👇",
+   "visual_ideas": [
+    "Frame 0: '1931' in giant type on a sky-blue paper background; a small biplane (U-2/Po-2 style, instantly recognisable two wings + propeller) loops behind it; counter 0/4.",
+    "Woman SILHOUETTE (rule 1g: 1930s flying helmet + goggles outline, scarf blowing, no face) climbs into the cockpit; propeller spins up.",
+    "Map: Baku pin → glow spreads over the South Caucasus; old magazine cover slides in with the quote «Şərqin ilk qadın pilotu».",
+    "Parachute jump: plane passes, silhouette drops, canopy pops open (thud SFX), '1933 · SSRİ-də 2-ci qadın'.",
+    "Counter of small parachutes raining down 0 → 4 000.",
+    "Twist: two small child silhouettes appear next to her on the airfield, then six; loop back to '1931'. CTA card."
+   ],
+   "sfx": "propeller hum (noise, not tonal), wind, canopy thud, ticks for the counter; no music",
+   "sources": [
+    "https://wikiwand.com/en/articles/Leyla_Mammadbeyova",
+    "https://www.preslib.az/en/historical/page/TgkIPvQ",
+    "https://special.azertag.az/en/xeber/2056319",
+    "https://www.azernews.az/culture/236565.html",
+    "https://nargismagazine.az/en/articles/article_her-story-5/"
+   ]
+  }
+ ]
+}

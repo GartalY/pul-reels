@@ -1,6 +1,6 @@
 {
  "date": "2026-11-15",
- "status": "13:00 scheduled (static, no voice, IG TRIAL_REEL); 18:30 animated Arif reel = 14:47/15:23 tasks",
+ "status": "13:00 scheduled (static, no voice, IG TRIAL_REEL); 18:30 animated Arif reel = 14:47/15:23 tasks; 09:10 15 Nov: trend picked = Ronaldo tribute + Portugal 1-4 Denmark (15:23 re-checks)",
  "format": "v2",
  "content_format": "quality_reset_2026-11-12",
  "planned_note": "Planned in the 2026-11-14 09:10 run. Sun 15 Nov: 13:00 static factgen reel (no voice per 1i, IG TRIAL_REEL per 1j) = facts[0] Shamakhi observatory (unaired 13 Nov plan, upgraded: 67th birthday on 17 Nov + Moon crater twist). 18:30 animated 60 fps Arif reel = freshest trend (15:23 decides) else facts[1] last tigers of Azerbaijan 1932. No carousels/quizzes/stories.",
@@ -117,5 +117,80 @@
  "youtube": {
   "13:00 Şamaxı rəsədxanası": 428157793
  },
- "scheduled_check": "20:48 14 Nov: getScheduledPosts for 15 Nov was empty before creating (no old-format 16:00/21:30/11:00/19:45 posts); no pending_schedule in 10–14 Nov JSONs. TikTok first attempt rejected for missing tiktokData.title (nothing created), retried with title OK."
+ "scheduled_check": "20:48 14 Nov: getScheduledPosts for 15 Nov was empty before creating (no old-format 16:00/21:30/11:00/19:45 posts); no pending_schedule in 10–14 Nov JSONs. TikTok first attempt rejected for missing tiktokData.title (nothing created), retried with title OK.",
+ "trend": {
+  "n": "T",
+  "type": "reel",
+  "format": "animated_1830",
+  "cat": "İdman",
+  "picked_at": "09:10–10:00 Baku 15 Nov (1st trend check)",
+  "source_scan": "15 Nov: apa.az homepage (Denmark beat Portugal heavily 01:46; Musk on Huang/Nvidia; Iran/Hormuz/Saudi drones = war, skipped; Putin–Xi–Trump meeting 19 Nov; Iran bus crash = tragedy, skipped), ikisahil.az (heating season starts 15 Nov), trend.az (economy only), Google News top-10 snapshot 14 Nov (US stories). report.az and oxu.az could not be fetched (permission timeout in unattended run). Google Trends AZ not reachable.",
+  "subject": "Portugal 1-4 Denmark, UEFA Nations League A4, Sat 14 Nov 2026, Braga Municipal Stadium — Portugal's first match after Cristiano Ronaldo's international retirement. ESPN report 401861167: Højbjerg 43' pen, Højlund 49' 57', J. Andersen 75'; title 'Portugal 1-4 Denmark'; VAVEL 'Portugal 1-4 Denmark, Højlund brace'; Vanguard 'Denmark hammer Ronaldo-less Portugal 4-1'; fakti.bg via Ground News: Bernardo Silva pulled one back, 4-1 in Braga. Tribute (africasoccer.com 15 Nov + Goal/Yahoo 13 Nov): all players walked out in No. 7 shirts; play briefly stopped in the 7th minute while fans applauded; tifo 'Thank you, captain' (Obrigado, capi7ão per Times of India listing); UEFA approved; No. 7 shirt design changes permanently (new typeface, white line through the middle; africasoccer + ToI headline 'permanent change'). Retirement: video on social media, Thu 5 Nov 2026 (Sky Sports x2, Outlook India, Eastern Eye); 234 caps, 146 goals, both men's world records (Outlook, Eastern Eye, africasoccer, Sky); 23 years, debut 20 Aug 2003 v Kazakhstan (Outlook); trophies Euro 2016, Nations League 2019 + 2025. CONTEXT CHECK (rule 4): the loss does not hurt Portugal — still top of A4 with 12 pts and already through to the quarter-finals (Mint listing + Ground summary; ESPN pre-match 4-0-0, 12 pts) — say it. NOT used: why he retired (reported fallout with coach Jorge Jesus — unconfirmed by him, gossip), his last match (sources conflict: Norway unused sub / 24 Sep / Wales), 'heaviest competitive home defeat' (one listing only), the 'immigrants' line.",
+  "title": "234 oyun, 146 qol — və onsuz ilk oyun",
+  "reel_hook": "234 OYUN, 146 QOL. RONALDOSUZ İLK OYUN: 1:4",
+  "reel_beats": [
+   "Dünən Portuqaliya Ronaldosuz ilk oyununu keçirdi. Bragada bütün futbolçular meydana 7 nömrəli formada çıxdı.",
+   "7-ci dəqiqədə oyun bir anlıq dayandı, stadion Ronaldonu alqışladı. Tribunada yazı var idi: «Sağ ol, kapitan».",
+   "Ronaldo noyabrın 5-də millidən getdiyini açıqlamışdı. 23 il, 234 oyun, 146 qol — hər ikisi kişilər arasında dünya rekordudur.",
+   "Amma onsuz ilk oyun ağır keçdi: Danimarka Portuqaliyanı 4:1 hesabı ilə məğlub etdi. Rasmus Hoylund iki qol vurdu."
+  ],
+  "payoff": "Portuqaliya yenə də qrupda birincidir və artıq 1/4 finaldadır. 7 nömrəli forma isə bundan sonra yeni şriftlə yazılacaq.",
+  "twist_line": "Meydanda Ronaldo yox idi — amma hamı 7 nömrə geyinmişdi.",
+  "voice_texts": [
+   "İki yüz otuz dörd oyun, yüz qırx altı qol. Ronaldosuz ilk oyun: bir — dörd.",
+   "Dünən Bragada bütün futbolçular meydana yeddi nömrəli formada çıxdı.",
+   "Yeddinci dəqiqədə oyun dayandı, stadion onu alqışladı.",
+   "Ronaldo noyabrın beşində millidən getdi: iyirmi üç il, iki dünya rekordu.",
+   "Amma onsuz ilk oyunda Danimarka Portuqaliyanı dörd-bir məğlub etdi.",
+   "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
+  ],
+  "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+  "caption": "Ronaldosuz ilk oyun: Portuqaliya 1:4 Danimarka ⚽\n\nDünən Bragada Portuqaliya millisi Cristiano Ronaldo olmadan ilk oyununu keçirdi. Bütün futbolçular meydana 7 nömrəli formada çıxdı, 7-ci dəqiqədə oyun bir anlıq dayandı və stadion kapitanı alqışladı. Ronaldo noyabrın 5-də millidən getdiyini açıqlamışdı: 23 ildə 234 oyun və 146 qol — hər ikisi kişilər arasında dünya rekordudur. Amma onsuz ilk oyun ağır oldu: Danimarka 4:1 qalib gəldi, Rasmus Hoylund iki qol vurdu. Portuqaliya yenə də qrupda birincidir və 1/4 finala artıq çıxıb.\n\n📩 Ronaldo azarkeşi olan dostuna göndər\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nSəs: elevenlabs.io\n\n#bilirdinizmi #ronaldo #portuqaliya #futbol #millətlərliqası",
+  "first_comment": "Ronaldosuz Portuqaliya: sənə görə nə dəyişəcək? 👇",
+  "visual_ideas": [
+   "Frame 0: two giant counters '234' (oyun) and '146' (qol) slam in, then a scoreboard flips to '1:4' with a red flash; counter 0/4 in a corner.",
+   "Row of 11 player SILHOUETTES (rule 1g) walking out; shirts all flip to a big '7' one after another (tick SFX each).",
+   "Stadium clock runs to 7:00 and freezes; crowd silhouettes rise, clap-wave across the stands; tifo banner unrolls 'SAĞ OL, KAPİTAN'.",
+   "Ronaldo silhouette (recognisable: arms-down 'Siu' stance outline, no face) with a timeline 2003 → 2026 and the two record badges.",
+   "Scoreboard: Danish goals drop in one by one (43', 49', 57', 75'), Portugal 1; small 'yenə 1-ci yer, 1/4 final ✓' sticker for honesty.",
+   "End: shirt '7' redraws in a new font with a white line through it → loops to '234'. CTA card. No club/UEFA logos, no real photos."
+  ],
+  "sfx": "crowd murmur (non-melodic), clap wave, whistle-free thud on each goal, ticks on shirt flips; no music, no chants",
+  "sources": [
+   "https://www.espn.com/soccer/report/_/gameId/401861167",
+   "https://www.vavel.com/en/football/2026/11/14/1279234-portugal-vs-denmark-live-latest-score-goals-and-uefa-nations-league-updates.html",
+   "https://www.vanguardngr.com/2026/11/denmark-hammer-ronaldo-less-portugal-4-1-in-nations-league-match/",
+   "https://africasoccer.com/portugal-players-wear-number-seven-as-cristiano-ronaldo-receives-farewell-tribute/",
+   "https://sports.yahoo.com/articles/portugal-squad-wear-no-7-122341516.html",
+   "https://www.skysports.com/football/news/13593800/cristiano-ronaldo-retires-from-international-football-after-glittering-portugal-career-that-spanned-23-years",
+   "https://www.outlookindia.com/sports/football/cristiano-ronaldos-portugal-career-in-numbers-goals-caps-record-international-retirement",
+   "https://www.easterneye.biz/cristiano-ronaldo-retires-portugal-234-caps-146-goals/",
+   "https://ground.news/article/portugal-changes-how-no-7-is-written-to-honor-cristiano-ronaldo_335af7"
+  ],
+  "runner_ups": [
+   {
+    "title": "İstilik mövsümü bu gün Bakıda başladı",
+    "why": "Everyday local story (15 Nov). Azəristiliktəchizat: Cabinet decision No. 128 (4 May 2026) — 1 Nov in 26 colder districts, 15 Nov in Baku and the rest; 3 838 buildings (~178 000 flats), 272 schools, 159 kindergartens; 12 153 m of pipe replaced. Only ikisahil.az read so far — needs a 2nd source (azertag/report.az) and a fact angle (e.g. how district heating works).",
+    "sources": [
+     "https://ikisahil.az/post/sabahdan-azerbaycanda-novbeti-istilik-movsumu-bashlayir"
+    ]
+   },
+   {
+    "title": "France v Türkiye tonight (UNL A) — Türkiye already headed to play-offs",
+    "why": "Big in AZ feeds but kicks off ~23:45 Baku, after 18:30; negative for Türkiye — only if a strong neutral angle appears.",
+    "sources": [
+     "https://www.espn.com/soccer/match/_/gameId/401861177/turkiye-france",
+     "https://www.dailysabah.com/sports/football/turkiye-seek-pride-against-france-amid-nations-league-wreckage"
+    ]
+   },
+   {
+    "title": "Putin–Xi–Trump trilateral meeting in China on 19 Nov (Kremlin confirmed 14 Nov)",
+    "why": "World politics, neutral facts only; better on 19–20 Nov when it happens.",
+    "sources": [
+     "https://apa.az/avropa/kreml-putin-si-cinpin-ve-tramp-arasinda-ucterefli-gorusun-noyabrin-19-da-cinde-kecirileceyini-tesdiqleyib-1013814"
+    ]
+   }
+  ],
+  "skipped": "US–Iran strikes / Hormuz tankers / Saudi drones (war), Iran bus crash and Baku dormitory death (tragedies), Nvidia–Huang (already covered 12 Nov, 47 views)."
+ }
 }

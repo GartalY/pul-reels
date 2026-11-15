@@ -1,6 +1,6 @@
 {
  "date": "2026-11-15",
- "status": "13:00 scheduled (static, no voice, IG TRIAL_REEL); 18:30 animated Arif reel = 14:47/15:23 tasks; 09:10 15 Nov: trend picked = Ronaldo tribute + Portugal 1-4 Denmark (15:23 re-checks); 14:47 task: reel_1830 written (context fix: not 'first game without Ronaldo', not 'still top'); ElevenLabs free tier DISABLED ('unusual activity') → 18:30 captions only",
+ "status": "13:00 scheduled (static, no voice, IG TRIAL_REEL); 18:30 animated Arif reel = 14:47/15:23 tasks; 09:10 15 Nov: trend picked = Ronaldo tribute + Portugal 1-4 Denmark (15:23 re-checks); 14:47 task: reel_1830 written (context fix: not 'first game without Ronaldo', not 'still top'); ElevenLabs re-enabled 15:05 after Gartal logged in; Arif mp3 ready 15:08",
  "format": "v2",
  "content_format": "quality_reset_2026-11-12",
  "planned_note": "Planned in the 2026-11-14 09:10 run. Sun 15 Nov: 13:00 static factgen reel (no voice per 1i, IG TRIAL_REEL per 1j) = facts[0] Shamakhi observatory (unaired 13 Nov plan, upgraded: 67th birthday on 17 Nov + Moon crater twist). 18:30 animated 60 fps Arif reel = freshest trend (15:23 decides) else facts[1] last tigers of Azerbaijan 1932. No carousels/quizzes/stories.",
@@ -206,13 +206,17 @@
    "https://www.beinsports.com/en-us/soccer/uefa-nations-league/articles/all-goals-portugal-vs-denmark-uefa-nations-league-2026-11-14"
   ],
   "voice_text": "Yüz qırx altı qol, iki yüz otuz dörd oyun. Ronaldo millidən gedəndən sonra Portuqaliya ilk dəfə meydana çıxdı. Dünən Bragada futbolçuların hamısı yeddi nömrəli formada idi. Yeddinci dəqiqədə stadion Ronaldonu alqışladı. Tribunada yazı var idi: «Sağ ol, kapitan». Danimarka isə dörd-bir qalib gəldi. Amma Portuqaliya onsuz da dörddəbir finala çıxıb. Bəyən və izlə — hər gün bilmədiyin bir fakt!",
-  "voice": "none",
+  "voice": "arif",
   "voice_error": {
    "at": "2026-11-15 ~14:58 Baku",
    "flow_id": "EvljvEhYgTF4FJc2T8gh",
    "generation": "XybJERfC3nNPtmIW2L1E (failed)",
    "message": "Unusual activity has been detected on your account, so Free Tier access has been disabled. This can be triggered by using a proxy or VPN, or by creating multiple free accounts. Please upgrade to a paid subscription to continue.",
    "decision": "Not a 'busy' error — the free tier is blocked, so 3-minute retries cannot work. Reel goes out captions only (rule 1i); no Banu. Gartal told once. Drop 'Səs: elevenlabs.io' from the caption."
-  }
+  },
+  "arif_mp3": "reels/arif/2026-11-15_1830.mp3",
+  "arif_duration_s": 24.72,
+  "arif_credits": 393,
+  "arif_note": "15:07 Baku: generated manually after Gartal logged into ElevenLabs (account was disabled earlier)"
  }
 }

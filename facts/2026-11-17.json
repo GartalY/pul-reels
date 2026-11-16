@@ -1,6 +1,6 @@
 {
  "date": "2026-11-17",
- "status": "planned",
+ "status": "13:00 scheduled (static, no voice, silent track, IG REEL); 18:30 animated Arif reel = 14:47/15:23 tasks",
  "format": "v2",
  "content_format": "quality_reset_2026-11-12",
  "planned_note": "Planned in the 2026-11-16 09:10 run. Tue 17 Nov: 13:00 static factgen reel (no voice, silent track, IG normal REEL — trial reels suspended until 200 followers) = facts[0] Əkinçi 1875. 18:30 animated 60 fps Arif reel = freshest AZ-angle trend (09:10/15:23 on 17 Nov decide) else facts[1] Bazardüzü. No carousels/quizzes/stories. Wikipedia (Bazardüzü), report.az press article not fetchable this run (permission timeout).",
@@ -17,14 +17,14 @@
    "text": "1875-ci ildə Həsən bəy Zərdabi Bakıda «Əkinçi» qəzetini çıxardı. Bu, Azərbaycan dilində ilk qəzet idi. Cəmi 56 sayı çıxdı.",
    "reel_hook": "56 SAY, 300 OXUCU: İLK AZƏRBAYCAN QƏZETİ",
    "reel_beats": [
-    "1875-ci il, 22 iyul. Həsən bəy Zərdabi Bakıda «Əkinçi» qəzetinin ilk sayını çıxardı.",
-    "Bu, tam Azərbaycan dilində çıxan ilk qəzet idi. Ayda iki dəfə, 300–400 nüsxə çap olunurdu.",
-    "Qəzetin adını Qafqaz canişini təklif etmişdi: «Əkinçi» adı siyasi görünmürdü, əkinçilikdən yazan qəzet kimi görünürdü.",
-    "Qəzet sadə, danışıq dilində yazılırdı ki, hamı başa düşsün. Amma 1877-ci ildə bağlandı — cəmi 56 sayı çıxdı."
+    "1875-ci il, 22 iyul. Həsən bəy Zərdabi Bakıda «Əkinçi» qəzetinin ilk sayını çıxardı.",
+    "Bu, tam Azərbaycan dilində çıxan ilk qəzet idi. Bir sayı 300–400 nüsxə çap olunurdu.",
+    "Qəzetin adını çar məmuru təklif etmişdi. «Əkinçi» adı siyasi görünmürdü — sanki əkinçilikdən yazan qəzet idi.",
+    "Zərdabi sadə, danışıq dilində yazırdı ki, hamı başa düşsün. Amma 1877-ci ildə qəzet bağlandı — cəmi 56 sayı çıxdı."
    ],
-   "payoff": "Ən maraqlısı: qəzet pulsuz paylanırdı, amma cəmi 300 nəfər daimi oxucusu var idi. Bu gün 22 iyul Milli Mətbuat Günüdür.",
+   "payoff": "Ən maraqlısı: qəzet pulsuz paylanırdı, amma cəmi 300 daimi oxucusu var idi. İndi 22 iyul Milli Mətbuat Günüdür.",
    "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
-   "caption": "«Əkinçi»: ilk Azərbaycan qəzeti 📰\n\n1875-ci il 22 iyulda Həsən bəy Zərdabi Bakıda «Əkinçi» qəzetinin ilk sayını çıxardı. Bu, tam Azərbaycan dilində çıxan ilk qəzet idi: ayda iki dəfə, 300–400 nüsxə. Adını Qafqaz canişini təklif etmişdi — «Əkinçi» siyasi görünmürdü. Zərdabi qəzeti sadə, danışıq dilində yazırdı ki, hamı başa düşsün. 1877-ci ildə qəzet bağlandı, cəmi 56 sayı çıxdı. Ən maraqlısı: qəzet pulsuz paylanırdı, amma cəmi 300 daimi oxucusu var idi. Bu gün 22 iyul Azərbaycanda Milli Mətbuat Günüdür.\n\n📩 Jurnalist dostuna göndər 📰\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nFoto: Wikimedia Commons (ictimai mülkiyyət); «Əkinçi» №1: Yousiphh / CC BY-SA 4.0\n\n#bilirdinizmi #əkinçi #zərdabi #mətbuat #azərbaycan",
+   "caption": "«Əkinçi»: ilk Azərbaycan qəzeti 📰\n\n1875-ci il 22 iyulda Həsən bəy Zərdabi Bakıda «Əkinçi» qəzetinin ilk sayını çıxardı. Bu, tam Azərbaycan dilində çıxan ilk qəzet idi: bir sayı 300–400 nüsxə çap olunurdu. Adını çar məmuru təklif etmişdi — «Əkinçi» siyasi görünmürdü. Zərdabi qəzeti sadə, danışıq dilində yazırdı ki, hamı başa düşsün. 1877-ci ildə qəzet bağlandı, cəmi 56 sayı çıxdı. Ən maraqlısı: qəzet pulsuz paylanırdı, amma cəmi 300 daimi oxucusu var idi. İndi 22 iyul Azərbaycanda Milli Mətbuat Günüdür.\n\n📩 Jurnalist dostuna göndər 📰\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nFoto: Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #əkinçi #zərdabi #mətbuat #azərbaycan",
    "first_comment": "Sən hansı qəzeti, saytı oxuyursan? 👇",
    "photo": {
     "path": "fetch/img/2026-11-17_1_zardabi_a.jpg",
@@ -45,7 +45,29 @@
     "https://www.preslib.az/en/historical/page/DcjkdK4",
     "https://report.az/en/media/azerbaijan-celebrates-151st-anniversary-of-national-press",
     "https://nizamimuseum.az/en/news/1805"
-   ]
+   ],
+   "build": {
+    "file": "out/2026-11-17/1_reel.mp4",
+    "dur_s": 30.6,
+    "voice": null,
+    "sound": "pure silence (volumedetect max -91.0 dB)",
+    "photo_used": "fetch/img/2026-11-17_1_zardabi_reel.jpg (portrait placed at y=360 on a blurred dark copy so the hook band doesn't cover the face)",
+    "spec": {
+     "hook": "56 SAY, 300 OXUCU: İLK AZƏRBAYCAN QƏZETİ",
+     "beats": [
+      "1875-ci il, 22 iyul. Həsən bəy Zərdabi Bakıda «Əkinçi» qəzetinin ilk sayını çıxardı.",
+      "Bu, tam Azərbaycan dilində çıxan ilk qəzet idi. Bir sayı 300–400 nüsxə çap olunurdu.",
+      "Qəzetin adını çar məmuru təklif etmişdi. «Əkinçi» adı siyasi görünmürdü — sanki əkinçilikdən yazan qəzet idi.",
+      "Zərdabi sadə, danışıq dilində yazırdı ki, hamı başa düşsün. Amma 1877-ci ildə qəzet bağlandı — cəmi 56 sayı çıxdı.",
+      "Ən maraqlısı: qəzet pulsuz paylanırdı, amma cəmi 300 daimi oxucusu var idi. İndi 22 iyul Milli Mətbuat Günüdür."
+     ],
+     "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+     "seed": 17,
+     "cy": 0.5,
+     "hook_bg": true
+    },
+    "checked": "10-frame sheet 16 Nov 20:49: AZ letters (ə ı ş ç ö ü İ « ») fine, face clear below hook, beats in safe zone, NBSP in '22 iyul' fixed a line split, CTA pill last"
+   }
   },
   {
    "n": 2,
@@ -92,5 +114,28 @@
     "https://worddisk.com/wiki/Bazardüzü"
    ]
   }
- ]
+ ],
+ "language_fix": {
+  "2026-11-16 20:50": [
+   "payoff 'Bu gün 22 iyul…' read as 'today is 22 July' -> 'İndi 22 iyul Milli Mətbuat Günüdür'",
+   "'Qafqaz canişini' (Viceroy) not supported: Wikipedia calls Staroselsky 'governor of the Caucasus', he was Baku governor at the time -> neutral 'çar məmuru'",
+   "'ayda iki dəfə' dropped (Wikipedia infobox says weekly, preslib twice a month) -> 'Bir sayı 300–400 nüsxə'",
+   "Əkinçi No.1 scan credit removed from caption (factgen uses one photo; scan not in the video)"
+  ]
+ },
+ "media": {
+  "13:00 Əkinçi": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-17_1300_akinchi_silent.mp4"
+ },
+ "metricool": {
+  "13:00 reel (Əkinçi 1875, static, silent, IG REEL)": 430357018
+ },
+ "tiktok": {
+  "13:00 Əkinçi": 430357229
+ },
+ "youtube": {
+  "13:00 Əkinçi": 430357068
+ },
+ "ig_type": "REEL (trial reels suspended)",
+ "pending_schedule": null,
+ "scheduled_check": "20:50 16 Nov: getScheduledPosts for 17 Nov empty before creating; no pending_schedule in 14–16 Nov JSONs. TikTok first attempt rejected ('TikTok title is required'), retried with tiktokData.title -> one post only."
 }

@@ -1,0 +1,94 @@
+# Ep08 — Voyager 1 Is One Light-Day Away. How Do We Still Hear It? — SCRIPT
+
+65 lines, 1425 words, voice Kokoro af_heart (en-us). One wav per line (vo/<id>.wav).
+Built per EVRIM AĞACI LESSONS: opens inside the question (a concrete scene: the light-day line, a hello that takes a day), paradox (fridge-bulb radio, 1970s memory, still talking), 3-part promise answered in the payoff; one big question → six chapters, each with a spoken hook and a reveal that raises the next question; two myths corrected openly ("fastest spacecraft", "left the solar system").
+
+
+## Cold open
+
+- **c0_1** On November eighteenth, twenty twenty-six, a machine about the size of a small car crosses a line that nothing humans have built has ever crossed.
+- **c0_2** It becomes one light-day away from Earth. Say hello to it at that moment, and your words, flying at the speed of light, need a whole day to get there. Its answer needs another day to come back.
+- **c0_3** That machine is Voyager one. It was launched in nineteen seventy-seven. Its radio is about as strong as the light bulb in your fridge, and each of its computers has less memory than a single photo on your phone.
+- **c0_4** And yet, right now, it is still talking to us. Every day, giant dishes on Earth catch its whisper.
+- **c0_5** By the end of this video, you'll know how a whisper that faint crosses a light-day, what keeps a forty-nine-year-old machine alive, and what it carries that may outlast all of us.
+- **c0_6** So, how do we still hear Voyager one?
+
+## Chapter 1 — What is a light-day?
+
+- **c1_1** Chapter one. What is a light-day?
+- **c1_1h** A light-day sounds like a length of time. It's actually a distance. And a ridiculous one.
+- **c1_2** Light is the fastest thing there is. It covers almost three hundred thousand kilometres every second.
+- **c1_3** Light from the Moon reaches you in about one and a quarter seconds. Light from the Sun takes about eight minutes and twenty seconds.
+- **c1_4** Now let light run for a full day, without stopping. Twenty-four hours. It covers about twenty-five point nine billion kilometres.
+- **c1_5** That's about a hundred and seventy-three times the distance from the Earth to the Sun.
+- **c1_6** Nothing humans have ever made has been that far away. Not one rocket, not one probe. Until now.
+- **c1_7** Voyager one needed forty-nine years of non-stop flight to get there. Which raises a question. How did a machine from the nineteen seventies get so far?
+
+## Chapter 2 — The cosmic slingshot
+
+- **c2_1** Chapter two. The cosmic slingshot.
+- **c2_1h** Here's a myth you've probably heard. Voyager one is the fastest spacecraft ever built. It isn't.
+- **c2_2** In the late nineteen seventies, the giant outer planets lined up in a way that happens only about once every hundred and seventy-five years.
+- **c2_3** Voyager two launched first, in August. Voyager one followed on September the fifth, on a faster path, so it reached Jupiter first. That's how it got the number one.
+- **c2_4** Then came the trick. Swinging past Jupiter in nineteen seventy-nine, and Saturn in nineteen eighty, it borrowed a tiny bit of each planet's motion, and was flung outward, faster than before.
+- **c2_5** Today it moves at about sixty-one thousand kilometres an hour. Fast, but not a record. The Parker Solar Probe has gone more than ten times faster, diving toward the Sun.
+- **c2_6** Voyager's real secret isn't speed. It's time. It has never stopped, not once, in forty-nine years.
+- **c2_7** Its twin, Voyager two, is billions of kilometres behind. So Voyager one is the farthest thing we have ever built. But from that far away, how does its tiny voice reach us at all?
+
+## Chapter 3 — A whisper across a light-day
+
+- **c3_1** Chapter three. A whisper across a light-day.
+- **c3_1h** Here's the part that sounds impossible. Voyager's radio is roughly as powerful as the bulb inside your fridge.
+- **c3_2** It aims that power with a dish three point seven metres wide, pointed at a planet far too small and far too distant to see.
+- **c3_3** But the beam spreads out as it travels. NASA once put the signal that reaches Earth at a tenth of a billionth of a trillionth of a watt. Today, it's even weaker.
+- **c3_4** To catch something that faint, we built giant ears. NASA's Deep Space Network has dishes seventy metres wide, in California, in Spain, and in Australia.
+- **c3_5** They sit about a third of the way around the world from each other, so as Earth turns, one of them can always face deep space.
+- **c3_6** And the data arrives slowly. A hundred and sixty bits per second. One photo from your phone would take almost two days to come through.
+- **c3_7** Talking back is even harder. To send a command, engineers need their most powerful dish, in Canberra, Australia.
+- **c3_8** So we can still hear it. But a radio needs power, and Voyager has been running on the same supply for forty-nine years. What keeps it alive?
+
+## Chapter 4 — A slowly fading heart
+
+- **c4_1** Chapter four. A slowly fading heart.
+- **c4_1h** Voyager has no solar panels. Out there, the Sun is just a very bright star.
+- **c4_2** Instead, it runs on heat. Three generators filled with plutonium turn the warmth of slowly decaying atoms into electricity.
+- **c4_3** At launch, they made about four hundred and seventy watts. Every year since, Voyager has lost about four more.
+- **c4_4** Today it lives on less than half of what it started with. Picture running your whole house on a couple of light bulbs, and losing a little more every year.
+- **c4_5** So the team rations every watt. Heaters have been switched off, and the spacecraft keeps getting colder.
+- **c4_6** It launched with ten science instruments. One by one, they have been turned off. In April twenty twenty-six, another one went dark.
+- **c4_7** Today, Voyager one has just two instruments still working. One measures magnetic fields. The other listens to waves in the thin gas around it.
+- **c4_8** NASA hopes at least one can keep going into the twenty-thirties. But what happens when something breaks, a light-day from the nearest mechanic?
+
+## Chapter 5 — Repairs from a light-day away
+
+- **c5_1** Chapter five. Repairs from a light-day away.
+- **c5_1h** Imagine fixing a computer you can't see, built before many of its engineers were born, where every test takes two days.
+- **c5_2** In November twenty twenty-three, Voyager one suddenly started sending nonsense. Gibberish, for months.
+- **c5_3** The team traced it to a single failed chip, holding about three percent of one computer's memory.
+- **c5_4** There was no spare. So in April twenty twenty-four, they split the code into pieces and moved it into other parts of the memory. Two days later, the answer came back. It worked.
+- **c5_5** Months later, a thruster fuel tube started clogging. It had narrowed from a quarter of a millimetre to just thirty-five thousandths of a millimetre. So the team switched to another set.
+- **c5_6** In twenty twenty-five, they even woke up a pair of thrusters that had been considered dead for twenty-one years. And they fired.
+- **c5_7** Every fix is a gamble, sent into the dark, with a two-day wait for the answer. As the mission manager put it, you have to expect the unexpected.
+- **c5_8** So why go to all this trouble for an old machine? Because of what it has already shown us.
+
+## Chapter 6 — Leaving the bubble
+
+- **c6_1** Chapter six. Leaving the bubble.
+- **c6_1h** The Sun blows a giant bubble around itself. In twenty twelve, Voyager one became the first human-made object to leave it.
+- **c6_2** That bubble is made of the solar wind, a stream of particles pouring off the Sun. On August the twenty-fifth, twenty twelve, about a hundred and twenty-two times farther out than Earth, Voyager crossed its edge into interstellar space.
+- **c6_3** Now, another myth. Voyager one has left the solar system. Not quite. The Sun's gravity still holds a huge cloud of icy bodies, far beyond.
+- **c6_4** Voyager needs about three hundred years to reach the inner edge of that cloud, and perhaps thirty thousand years to pass through it.
+- **c6_5** Long before any of that, in nineteen ninety, it turned around and took one last look home.
+- **c6_6** From six billion kilometres away, Earth was a speck, about a tenth of a single pixel. Carl Sagan called it the pale blue dot.
+- **c6_7** And Voyager carries a message for anyone who might find it. A golden record, with a hundred and fifteen pictures, greetings in fifty-five languages, and about ninety minutes of music.
+- **c6_8** In about forty thousand years, it will drift within one point six light-years of another star. By then, it will have been silent for a very long time.
+
+## Payoff + end card
+
+- **c7_1** So, how do we still hear Voyager one?
+- **c7_2** Because we built giant ears, and pointed them at exactly the right spot. Because we ration every watt. And because, for forty-nine years, people have kept fixing a machine they can never touch.
+- **c7_3** Some time in the twenty-thirties, the power will run too low, and the whisper will stop. But Voyager won't. It will keep sailing outward, carrying our pictures and our music.
+- **c7_4** To mark the light-day, NASA invited people everywhere to flash V, G, R, Voyager's call sign, in Morse code at the night sky.
+- **c7_5** And here's one last number. In the nine minutes you've spent watching this, Voyager one has travelled about nine thousand kilometres farther from home.
+- **c7_6** Every word it sends us today left it yesterday. A whisper from one light-day away, still saying hello.
+- **c7_7** If you enjoyed this, like the video and subscribe to Whyverse. And for shorter stories, find us on Instagram and TikTok.

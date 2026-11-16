@@ -193,7 +193,7 @@
  "trend_check_morning": "09:12 16 Nov: picked Nasibov Zagreb GP gold (AZ athlete, <24 h, title defence twist). Non-AZ Nations League results skipped per E8. No pending_schedule in 14–16 Nov JSONs.",
  "reel_1830": {
   "topic": "Kənan Nəsibov Zaqreb Qran-prisində (+100 kq) titulunu qorudu — 2025 və 2026, eyni turnir, eyni qızıl",
-  "picked_at": "15:0x Baku 16 Nov (2nd trend check): kept the 09:10 trend; nothing fresher with an AZ angle (scan: trend.az, report.az, apa.az, azertag; only economy/demining/regulation items, Bakhsaliyev bronze still single-source).",
+  "picked_at": "14:50–14:55 Baku 16 Nov (2nd trend check): kept the 09:10 trend; nothing fresher with an AZ angle (scan: trend.az, report.az, apa.az, azertag; only economy/demining/regulation items, Bakhsaliyev bronze still single-source).",
   "context_check": "Grand Prix = IJF World Tour tier below Grand Slam/Masters/Worlds → called only 'Qran-pri', never 'dünya çempionu'. Field size/absent seeds not found in any source. Single-source details (4 bouts, 3 golden score, ippon semi vs Inaneishvili, 3rd World Tour title, H2H 2:1) LEFT OUT of the voice; IJF 2026 article still not fetchable.",
   "verified": {
    "gold_2026": [
@@ -222,6 +222,12 @@
    "https://www.ijf.org/news/show/100-kg-nasibov-is-a-cut-above"
   ],
   "voice_text": "İki il dalbadal — eyni şəhər, eyni çəki, eyni qızıl! Azərbaycan cüdoçusu Kənan Nəsibov Zaqreb Qran-prisində yenə qalib gəldi. O, yüz kiloqramdan yuxarı çəkidə yarışdı. Finalda almaniyalı rəqibini məğlub etdi. Düz bir il əvvəl də bu turniri o qazanmışdı. Yəni titulunu qorudu. Eyni şəhərdə, bir il sonra — yenə Nəsibov! Bəyən və izlə — hər gün bilmədiyin bir fakt!",
-  "voice": "pending"
+  "voice": "arif",
+  "arif_mp3": "reels/arif/2026-11-16_1830.mp3",
+  "arif_duration_s": 25.73,
+  "arif_credits": 363,
+  "elevenlabs_flow": "M5t6jyhZoxERSgHOkmKw",
+  "words_json": null,
+  "words_note": "creative_transcribe_audio refused once at 14:57 ('free generations busy', not charged) — optional step skipped; 15:23 build uses silencedetect for line starts per 1e HOW."
  }
 }

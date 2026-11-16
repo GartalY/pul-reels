@@ -122,5 +122,73 @@
   "13:00 Atəşgah": 429054369
  },
  "ig_type": "REEL (trial reels suspended)",
- "scheduled_check": "20:48 15 Nov: getScheduledPosts for 16 Nov empty before creating; no pending_schedule in 14–16 Nov JSONs."
+ "scheduled_check": "20:48 15 Nov: getScheduledPosts for 16 Nov empty before creating; no pending_schedule in 14–16 Nov JSONs.",
+ "trend": {
+  "n": "T",
+  "type": "reel",
+  "format": "animated_1830",
+  "cat": "İdman",
+  "picked_at": "09:12–09:50 Baku 16 Nov (1st trend check)",
+  "source_scan": "16 Nov: en.apa.az feed (Radio 100 / TV 70 jubilee evening 15 Nov; APA 22 yrs; Nations League: Türkiye lost to France, Spain lost to England = non-AZ, skipped per E8; Xi–Putin–Trump 19 Nov; NATO summit Albania), report.az/en (Aliyev–Serbia, WUF13 prep, foreign crashes = skipped), trend.az (Nasibov Zagreb gold 16 Nov 01:35; Bakhsaliyev trampoline bronze 15 Nov 20:35; tanker drone attack off Romania with AZ crew = war, skipped), azernews/oxu.az not fetchable (permission timeout). AZ national team already covered 14 Nov. Google Trends AZ not reachable.",
+  "subject": "Kənan (IJF: Kanan) Nəsibov, Azerbaijan, judo +100 kg, wins the Zagreb Grand Prix 2026 (final day Sun 15 Nov; Trend.az 16 Nov 01:35 'Azerbaijan's Kenan Nasibov wins gold at Zagreb Grand Prix'; IJF.org news headline '+100 kg: Nasibov Nails It!' dated 15 Nov 2026; IJF event page gp_cro2026). Trend: four wins to the title, THREE bouts went to golden score; semifinal beat seeded Georgian Saba Inaneishvili by ippon; final beat Germany's Losseni Kone, head-to-head now 2–1 to Nasibov; 'successfully defending the championship he won last year'; his third World Tour title. 2025 (IJF 16 Nov 2025 '+100 kg: Nasibov is a Cut Above'; Wikipedia 2025 Judo Grand Prix Zagreb, 14–16 Nov 2025): won +100 kg final vs Jur Spijkers (NED) with o-uchi-gaeshi; Inaneishvili was bronze in 2025 too. CONTEXT CHECK (rule 4): this is a Grand Prix — IJF World Tour tier BELOW Grand Slam / Masters / World Championships; say 'Qran-pri', never 'dünya çempionu'. Teammate Ushangi Kokauri injured in the semi, 5th (not used). NOT used: his age/ranking/Olympic record (pages not readable this run), golden-score lengths, final technique 2026.",
+  "title": "Zaqreb: eyni turnir, eyni çəki, yenə qızıl",
+  "reel_hook": "4 GÖRÜŞ, 3-Ü ƏLAVƏ VAXTDA — VƏ YENƏ QIZIL",
+  "reel_beats": [
+   "Azərbaycan cüdoçusu Kənan Nəsibov Zaqreb Qran-prisində +100 kq çəkidə qızıl medal qazandı.",
+   "Qızıla qədər 4 görüş keçirdi. Onlardan 3-ü «qızıl xal»a — əlavə vaxta qaldı.",
+   "Yarımfinalda gürcü Saba İnaneişvilini təmiz qələbə ilə — ippon ilə — məğlub etdi.",
+   "Finalda almaniyalı Losseni Kone ilə qarşılaşdı və qalib gəldi. İndi aralarında hesab 2:1-dir — Nəsibovun xeyrinə."
+  ],
+  "payoff": "Ən maraqlısı: bir il əvvəl, 2025-ci ilin noyabrında da Zaqreb Qran-prisini o qazanmışdı. Titulunu qorudu — bu, onun Dünya Turunda 3-cü qızılıdır.",
+  "twist_line": "Eyni şəhər, eyni turnir, bir il sonra — yenə Nəsibov.",
+  "voice_texts": [
+   "Dörd görüş, üçü əlavə vaxtda — və yenə qızıl!",
+   "Kənan Nəsibov Zaqreb Qran-prisində yüz kiloqramdan yuxarı çəkidə qalib gəldi.",
+   "Yarımfinalda gürcü rəqibini ipponla məğlub etdi.",
+   "Finalda almaniyalı Losseni Koneni məğlub etdi. Aralarında hesab indi iki-bir.",
+   "Ən maraqlısı: bir il əvvəl də bu turniri o qazanmışdı.",
+   "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
+  ],
+  "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+  "send_line": "📩 Cüdo sevən dostuna göndər",
+  "caption": "Kənan Nəsibov Zaqrebdə yenə qızıl qazandı 🥇\n\nAzərbaycan cüdoçusu Kənan Nəsibov Zaqreb Qran-prisində +100 kq çəkidə qalib gəldi. Qızıla qədər 4 görüş keçirdi, onlardan 3-ü əlavə vaxta — «qızıl xal»a qaldı. Yarımfinalda gürcü Saba İnaneişvilini ipponla məğlub etdi, finalda isə almaniyalı Losseni Koneni məğlub etdi. Ən maraqlısı: bir il əvvəl, 2025-ci ilin noyabrında da bu turniri o qazanmışdı. Bu, onun Dünya Turunda 3-cü titulu oldu.\n\n📩 Cüdo sevən dostuna göndər 🥋\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nSəs: elevenlabs.io\n\n#bilirdinizmi #kənannəsibov #cüdo #zaqreb #azərbaycan",
+  "first_comment": "Azərbaycan cüdosunda ən çox kimi izləyirsən? 👇",
+  "visual_ideas": [
+   "Frame 0: giant '4' with three gold '+' (golden score) badges stamping onto it; tatami-mat background (green/yellow squares), counter 'GÖRÜŞ 0/4' top-right.",
+   "Two ink SILHOUETTES in judo gi (rule 1g: belts, heavyweight build, no faces) bow; a scoreboard clock flips to 'GS' (golden score) three times — each time the timer keeps running, tick SFX.",
+   "Semifinal: throw silhouette → big 'İPPON' stamp (thud), Georgian flag chip vs AZ flag chip.",
+   "Final: AZ vs GER chips, head-to-head counter 1:1 → 2:1 rolls over.",
+   "Twist: calendar flips '16.11.2025' → '15.11.2026', MAP ROUTE pin on Zagreb pulses twice; gold medal drops twice onto the same spot.",
+   "World Tour tally 1 → 2 → 3 gold medals in a row; loop back to '4'. End card CTA + '📩 Cüdo sevən dostuna göndər'."
+  ],
+  "sfx": "tick for the golden-score clock, cloth whoosh, mat thud on ippon, stamp; no music",
+  "sources": [
+   "https://www.trend.az/azerbaijan/4246731.html",
+   "https://ijf.org/news/100-kg-nasibov-nails-it",
+   "https://ijf.org/events/gp_cro2026/judoka?gender=m",
+   "https://www.ijf.org/news/show/100-kg-nasibov-is-a-cut-above",
+   "https://en.wikipedia.org/wiki/2025_Judo_Grand_Prix_Zagreb"
+  ],
+  "verify_note": "2026 details come from Trend.az (full article read) + IJF headline/event listing dated 15 Nov 2026 (IJF article body not fetchable this run). 15:23: if possible, open the IJF 2026 article to confirm the final vs Kone and the 3 golden-score bouts; if any detail conflicts, drop it.",
+  "runners_up": [
+   {
+    "subject": "Ammar Bakhsaliyev (Bəxşəliyev) — trampoline bronze, World Junior Trampoline Championships, Nanjing, 15 Nov 2026 (qual 54.850, 6th; final 55.450); 'first Azerbaijani trampoline gymnast to win an individual medal at the World Junior Championships'. AZ FIRST angle.",
+    "sources": [
+     "https://www.trend.az/azerbaijan/4246697.html",
+     "https://report.az/en/individual/azerbaijani-trampoline-gymnast-ammar-bakhshaliyev-reaches-world-final"
+    ],
+    "note": "only Trend read; needs a 2nd source (gymnastics federation / FIG / report.az) before use"
+   },
+   {
+    "subject": "Azerbaijan Radio 100 years (first broadcast 6 Nov 1926) + AzTV 70 years (1956): jubilee evening at Heydar Aliyev Palace 15 Nov 2026; President congratulated TV/radio workers. Neutral/positive national news (AZ POLITICS RULE).",
+    "sources": [
+     "https://en.apa.az/media/anniversary-evening-held-to-mark-100th-anniversary-of-azerbaijan-radio-and-70th-anniversary-of-azerbaijan-television-536216",
+     "https://www.trend.az/azerbaijan/4246727.html",
+     "https://teleradio.az/november-6-day-of-azerbaijan-television-and-radio/?lang=en"
+    ],
+    "note": "weaker: anniversary itself was 6 Nov"
+   }
+  ]
+ },
+ "trend_check_morning": "09:12 16 Nov: picked Nasibov Zagreb GP gold (AZ athlete, <24 h, title defence twist). Non-AZ Nations League results skipped per E8. No pending_schedule in 14–16 Nov JSONs."
 }

@@ -1,0 +1,96 @@
+{
+ "date": "2026-11-17",
+ "status": "planned",
+ "format": "v2",
+ "content_format": "quality_reset_2026-11-12",
+ "planned_note": "Planned in the 2026-11-16 09:10 run. Tue 17 Nov: 13:00 static factgen reel (no voice, silent track, IG normal REEL — trial reels suspended until 200 followers) = facts[0] Əkinçi 1875. 18:30 animated 60 fps Arif reel = freshest AZ-angle trend (09:10/15:23 on 17 Nov decide) else facts[1] Bazardüzü. No carousels/quizzes/stories. Wikipedia (Bazardüzü), report.az press article not fetchable this run (permission timeout).",
+ "facts": [
+  {
+   "n": 1,
+   "type": "reel",
+   "slot": "13:00",
+   "static": true,
+   "voiced": false,
+   "cat": "Tarix",
+   "subject": "Əkinçi (Akinchi / Ekinchi, 'The Cultivator'), founded and edited by Həsən bəy Zərdabi. First issue 22 July 1875 (Wikipedia; preslib.az), last 29 Sep 1877 (both). 56 issues in total (preslib). Published twice a month (preslib; the No. 1 masthead also reads 'iki həftəlik qəzetdir'; Wikipedia infobox says weekly -> we say 'ayda iki dəfə'). Circulation 300–400 (Wikipedia infobox + preslib). 'the first Azerbaijani-language newspaper' / 'first private newspaper in Russia printed in a Turkic language' (Wikipedia). Name proposed by Caucasus governor Dmitry Staroselsky so the authorities would see it as a non-political farming paper (Wikipedia). Simple colloquial language on purpose (Wikipedia). Only ~300 constant readers in 26 months even though it was given away free (Wikipedia). 22 July = National Press Day since 2010 (Wikipedia; nizamimuseum/report.az listings). NOT used: printing house, years waiting for permission, letters from Istanbul, Russo-Turkish war as the closure cause (no source).",
+   "title": "1875: ilk Azərbaycan qəzeti cəmi 56 say çıxdı",
+   "text": "1875-ci ildə Həsən bəy Zərdabi Bakıda «Əkinçi» qəzetini çıxardı. Bu, Azərbaycan dilində ilk qəzet idi. Cəmi 56 sayı çıxdı.",
+   "reel_hook": "56 SAY, 300 OXUCU: İLK AZƏRBAYCAN QƏZETİ",
+   "reel_beats": [
+    "1875-ci il, 22 iyul. Həsən bəy Zərdabi Bakıda «Əkinçi» qəzetinin ilk sayını çıxardı.",
+    "Bu, tam Azərbaycan dilində çıxan ilk qəzet idi. Ayda iki dəfə, 300–400 nüsxə çap olunurdu.",
+    "Qəzetin adını Qafqaz canişini təklif etmişdi: «Əkinçi» adı siyasi görünmürdü, əkinçilikdən yazan qəzet kimi görünürdü.",
+    "Qəzet sadə, danışıq dilində yazılırdı ki, hamı başa düşsün. Amma 1877-ci ildə bağlandı — cəmi 56 sayı çıxdı."
+   ],
+   "payoff": "Ən maraqlısı: qəzet pulsuz paylanırdı, amma cəmi 300 nəfər daimi oxucusu var idi. Bu gün 22 iyul Milli Mətbuat Günüdür.",
+   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+   "caption": "«Əkinçi»: ilk Azərbaycan qəzeti 📰\n\n1875-ci il 22 iyulda Həsən bəy Zərdabi Bakıda «Əkinçi» qəzetinin ilk sayını çıxardı. Bu, tam Azərbaycan dilində çıxan ilk qəzet idi: ayda iki dəfə, 300–400 nüsxə. Adını Qafqaz canişini təklif etmişdi — «Əkinçi» siyasi görünmürdü. Zərdabi qəzeti sadə, danışıq dilində yazırdı ki, hamı başa düşsün. 1877-ci ildə qəzet bağlandı, cəmi 56 sayı çıxdı. Ən maraqlısı: qəzet pulsuz paylanırdı, amma cəmi 300 daimi oxucusu var idi. Bu gün 22 iyul Azərbaycanda Milli Mətbuat Günüdür.\n\n📩 Jurnalist dostuna göndər 📰\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nFoto: Wikimedia Commons (ictimai mülkiyyət); «Əkinçi» №1: Yousiphh / CC BY-SA 4.0\n\n#bilirdinizmi #əkinçi #zərdabi #mətbuat #azərbaycan",
+   "first_comment": "Sən hansı qəzeti, saytı oxuyursan? 👇",
+   "photo": {
+    "path": "fetch/img/2026-11-17_1_zardabi_a.jpg",
+    "credit": "Wikimedia Commons (public domain)",
+    "cy": 0.35,
+    "full": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Hasan_bey_Zardabi.jpg",
+    "second": {
+     "path": "fetch/img/2026-11-17_1_akinchi_n1.jpg",
+     "credit": "Yousiphh / Wikimedia Commons, CC BY-SA 4.0",
+     "source": "https://commons.wikimedia.org/wiki/File:%C6%8Fkin%C3%A7i_1875_N1.jpg",
+     "note": "900x1217 scan of issue No.1 (22 July 1875 in the header), clean, no watermark — use behind the beats if factgen supports a 2nd image, else skip"
+    },
+    "note": "Checked 16 Nov 09:40: 1280x1885 portrait of Zardabi (younger, beard, bow tie), public domain, no watermark/logo; face in the upper-middle (cy ~0.35). REJECTED: 2026-11-17_1_zardabi_b.jpg — carries a 'National Museum of History of Azerbaijan' watermark across the chest (section P)."
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Akinchi",
+    "https://www.preslib.az/en/historical/page/DcjkdK4",
+    "https://report.az/en/media/azerbaijan-celebrates-151st-anniversary-of-national-press",
+    "https://nizamimuseum.az/en/news/1805"
+   ]
+  },
+  {
+   "n": 2,
+   "type": "reel",
+   "slot": "18:30 backup",
+   "motion": true,
+   "fps": 60,
+   "voiced": "Arif",
+   "cat": "Coğrafiya",
+   "subject": "Mount Bazardüzü, 4 466 m — highest point of Azerbaijan (CountryHighpoints, PeakVisor, SummitPost 4466.1 m), Greater Caucasus, on the Azerbaijan–Russia (Dagestan) border; Qusar district / Dokuzparinsky district (PeakVisor). The southernmost point of Russia is about 7 km south-west of the summit (PeakVisor + SummitPost agree). Name: 'market square' / 'turn to the bazaar'; in the Middle Ages large multinational fairs were held every year in the Shahnabad valley east of the peak (PeakVisor; Wikipedia mirror worddisk) -> said with 'deyilir'. Climbing needs a border-zone permit + guide (CountryHighpoints, SummitPost). NOT used: first ascent 1847 (SummitPost only), glacier count (SummitPost only), prominence (sources differ).",
+   "title": "4 466 metr: Azərbaycanın zirvəsi Rusiyanın ən cənub nöqtəsinin yanındadır",
+   "reel_hook": "4 466 METR: AZƏRBAYCANIN ƏN HÜNDÜR NÖQTƏSİ",
+   "reel_beats": [
+    "Bazardüzü dağı 4 466 metrdir. Bu, Azərbaycanın ən hündür zirvəsidir.",
+    "Dağ Böyük Qafqazdadır, Qusar rayonunda. Zirvədən Azərbaycan–Rusiya sərhədi keçir.",
+    "Ona görə zirvəyə çıxmaq üçün sərhəd icazəsi və bələdçi lazımdır.",
+    "Adı «bazar düzü» deməkdir. Deyilir ki, orta əsrlərdə yaxındakı Şahnabad vadisində hər il böyük yarmarka qurulurdu."
+   ],
+   "payoff": "Ən maraqlısı: zirvədən cəmi 7 km cənub-qərbdə Rusiyanın ən cənub nöqtəsi yerləşir.",
+   "voice_texts": [
+    "Dörd min dörd yüz altmış altı metr. Azərbaycanın ən hündür nöqtəsi.",
+    "Bu, Qusardakı Bazardüzü dağıdır. Zirvədən Azərbaycan–Rusiya sərhədi keçir.",
+    "Ona görə oraya çıxmaq üçün sərhəd icazəsi lazımdır.",
+    "Adı «bazar düzü» deməkdir: deyilir ki, yaxında hər il böyük yarmarka olurdu.",
+    "Ən maraqlısı: zirvədən cəmi yeddi kilometr aralıda Rusiyanın ən cənub nöqtəsidir.",
+    "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
+   ],
+   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+   "send_line": "📩 Dağa çıxmaq istəyən dostuna göndər",
+   "caption": "Bazardüzü: Azərbaycanın ən hündür nöqtəsi 🏔️\n\nBazardüzü dağı 4 466 metrdir — Azərbaycanın ən hündür zirvəsi. Dağ Böyük Qafqazda, Qusar rayonundadır və zirvəsindən Azərbaycan–Rusiya sərhədi keçir. Ona görə zirvəyə çıxmaq üçün sərhəd icazəsi və bələdçi lazımdır. Adı «bazar düzü» deməkdir: deyilir ki, orta əsrlərdə yaxındakı Şahnabad vadisində hər il böyük yarmarka qurulurdu. Ən maraqlısı: zirvədən cəmi 7 km cənub-qərbdə Rusiyanın ən cənub nöqtəsi yerləşir.\n\n📩 Dağa çıxmaq istəyən dostuna göndər 🏔️\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nSəs: elevenlabs.io\n\n#bilirdinizmi #bazardüzü #qusar #dağ #azərbaycan",
+   "first_comment": "Bazardüzüyə çıxmısan, yoxsa Şahdağda qalmısan? 👇",
+   "visual_ideas": [
+    "Frame 0: '4 466 m' in giant type; a GROWING GRAPH altimeter climbs 0 → 4 466 while a LINE ART mountain draws itself on; counter 0/5 top-right.",
+    "MAP ROUTE: top-down Caucasus map, Qusar pin, a dashed border line runs right over the summit; AZ and RU flag chips on each side.",
+    "Border gate stamp 'İCAZƏ' + a guide silhouette with rope leading a climber silhouette (ink silhouettes, rule 1g).",
+    "Name: 'BAZAR' + 'DÜZÜ' words snap together; medieval fair tents and camel/sheep silhouettes pop up in the Shahnabad valley.",
+    "Twist: a ruler stretches 7 km south-west from the summit to a red pin 'RUSİYANIN ƏN CƏNUB NÖQTƏSİ'; loop back to '4 466'. End card CTA + send line."
+   ],
+   "sfx": "wind (noise), altimeter ticks, stamp thud, whoosh on the map; no music",
+   "sources": [
+    "https://peakvisor.com/peak/bazarduezue.html",
+    "https://summitpost.org/bazard-z/973069",
+    "https://www.countryhighpoints.com/bazarduzu-azerbaijan-highpoint/",
+    "https://worddisk.com/wiki/Bazardüzü"
+   ]
+  }
+ ]
+}

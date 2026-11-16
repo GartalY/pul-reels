@@ -37,3 +37,5 @@
 - 2026-11-15 trend (09:10 pick for 18:30): Ronaldo retired 5 Nov (234 caps, 146 goals); 14 Nov Braga tribute (all in No. 7, 7th-minute applause) + Portugal 1-4 Denmark
 - 2026-11-16 (planned): Ateshgah flame went out 1969, now Baku gas pipe (13:00 static) · Leyla Mammadbeyova first woman pilot of the South Caucasus 1931, parachute 1933, 6 children (18:30 animated backup)
 - 2026-11-16 13:00: Atəşgah — odu 1969-cu ildə söndü (static)
+- 2026-11-16 trend (09:10 pick for 18:30): Kənan Nəsibov Zagreb GP +100 kg gold, 4 bouts / 3 golden score, final v Kone (2-1 H2H), title defence (won 2025 too)
+- 2026-11-17 (planned): Əkinçi 1875 — first AZ-language paper, 56 issues, 300 readers though free, 22 July Press Day (13:00 static) · Bazardüzü 4 466 m, border on the summit, Russia's southernmost point ~7 km SW (18:30 animated backup)

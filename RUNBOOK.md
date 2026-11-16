@@ -1,3 +1,13 @@
+## WHO DECIDES — READ BEFORE ANYTHING ELSE (Gartal 2026-11-16 11:23: "every time I get a daily report, weekly report, and when I
+## talk to you, there's always three different decisions … whatever I'm telling you to do in this chat, let's go with that")
+- What Gartal decides in his chat with Claude is FINAL. It is written into this file with his name and date ("Gartal YYYY-MM-DD").
+- Daily report, Wednesday check and Sunday review may NOT change, reverse, pause or "improve" anything Gartal decided — not the
+  schedule, slots, formats, voices, styles, boosts, or rules. They report numbers and may write ONE suggestion as a question
+  ("Suggestion for Gartal: …?"), and nothing changes until he says yes in the chat.
+- They may still fix clear breakages (a failed post, a broken file, a missed slot) without asking, and say what they fixed.
+- If two lines in this file disagree, the newer line that quotes Gartal wins; lines written by reviews/reports lose.
+- MANAGER MANDATE below is limited by this section.
+
 ## CORE SETUP — LOCKED (Gartal 2026-11-15 21:40: "we already talked about this … 2 videos on each platform"). Reviews never change this.
 - bilirdinizmi_az: 2 posts a day on EACH platform (Instagram, TikTok, YouTube Shorts).
   1st post (13:00) = NOT animated: static "photo + words" reel.  2nd post (18:30) = ANIMATED reel, voice = Arif (ElevenLabs).

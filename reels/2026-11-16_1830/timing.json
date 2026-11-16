@@ -1,0 +1,346 @@
+{
+"dur": 25.73,
+"lines": [
+{
+"t0": 0.03,
+"words": [
+{
+"w": "İki",
+"t": 0.03,
+"key": true
+},
+{
+"w": "il",
+"t": 0.45,
+"key": true
+},
+{
+"w": "dalbadal",
+"t": 0.69,
+"key": true
+}
+],
+"t1": 1.64
+},
+{
+"t0": 1.64,
+"words": [
+{
+"w": "eyni",
+"t": 1.64,
+"key": false
+},
+{
+"w": "şəhər,",
+"t": 1.98,
+"key": true
+},
+{
+"w": "eyni",
+"t": 2.58,
+"key": false
+},
+{
+"w": "çəki,",
+"t": 2.85,
+"key": true
+},
+{
+"w": "eyni",
+"t": 3.16,
+"key": false
+},
+{
+"w": "qızıl!",
+"t": 3.54,
+"key": true
+}
+],
+"t1": 4.7
+},
+{
+"t0": 4.7,
+"words": [
+{
+"w": "Azərbaycan",
+"t": 4.7,
+"key": false
+},
+{
+"w": "cüdoçusu",
+"t": 5.39,
+"key": false
+},
+{
+"w": "Kənan",
+"t": 5.88,
+"key": true
+},
+{
+"w": "Nəsibov",
+"t": 6.46,
+"key": true
+},
+{
+"w": "Zaqreb",
+"t": 6.81,
+"key": true
+},
+{
+"w": "Qran-prisində",
+"t": 7.36,
+"key": true
+},
+{
+"w": "yenə",
+"t": 8.05,
+"key": true
+},
+{
+"w": "qalib",
+"t": 8.43,
+"key": false
+},
+{
+"w": "gəldi.",
+"t": 8.86,
+"key": false
+}
+],
+"t1": 9.57
+},
+{
+"t0": 9.57,
+"words": [
+{
+"w": "O,",
+"t": 9.57,
+"key": false
+},
+{
+"w": "100",
+"t": 9.75,
+"key": true
+},
+{
+"w": "kiloqramdan",
+"t": 9.92,
+"key": false
+},
+{
+"w": "yuxarı",
+"t": 10.48,
+"key": true
+},
+{
+"w": "çəkidə",
+"t": 10.9,
+"key": false
+},
+{
+"w": "yarışdı.",
+"t": 11.18,
+"key": false
+}
+],
+"t1": 12.13
+},
+{
+"t0": 12.13,
+"words": [
+{
+"w": "Finalda",
+"t": 12.13,
+"key": true
+},
+{
+"w": "almaniyalı",
+"t": 12.75,
+"key": true
+},
+{
+"w": "rəqibini",
+"t": 13.3,
+"key": false
+},
+{
+"w": "məğlub",
+"t": 13.89,
+"key": false
+},
+{
+"w": "etdi.",
+"t": 14.2,
+"key": false
+}
+],
+"t1": 14.92
+},
+{
+"t0": 14.92,
+"words": [
+{
+"w": "Düz",
+"t": 14.92,
+"key": true
+},
+{
+"w": "bir",
+"t": 15.12,
+"key": false
+},
+{
+"w": "il",
+"t": 15.31,
+"key": true
+},
+{
+"w": "əvvəl",
+"t": 15.5,
+"key": true
+},
+{
+"w": "də",
+"t": 15.79,
+"key": false
+},
+{
+"w": "bu",
+"t": 15.94,
+"key": false
+},
+{
+"w": "turniri",
+"t": 16.12,
+"key": false
+},
+{
+"w": "o",
+"t": 16.56,
+"key": false
+},
+{
+"w": "qazanmışdı.",
+"t": 16.74,
+"key": false
+}
+],
+"t1": 17.51
+},
+{
+"t0": 17.51,
+"words": [
+{
+"w": "Yəni",
+"t": 17.51,
+"key": false
+},
+{
+"w": "titulunu",
+"t": 18.02,
+"key": true
+},
+{
+"w": "qorudu.",
+"t": 18.43,
+"key": true
+}
+],
+"t1": 19.28
+},
+{
+"t0": 19.28,
+"words": [
+{
+"w": "Eyni",
+"t": 19.28,
+"key": false
+},
+{
+"w": "şəhərdə,",
+"t": 19.68,
+"key": false
+},
+{
+"w": "bir",
+"t": 20.29,
+"key": false
+},
+{
+"w": "il",
+"t": 20.43,
+"key": true
+},
+{
+"w": "sonra",
+"t": 20.72,
+"key": false
+},
+{
+"w": "yenə",
+"t": 21.25,
+"key": true
+},
+{
+"w": "Nəsibov!",
+"t": 21.53,
+"key": true
+}
+],
+"t1": 22.52
+},
+{
+"t0": 22.52,
+"words": [
+{
+"w": "Bəyən",
+"t": 22.52,
+"key": true
+},
+{
+"w": "və",
+"t": 22.95,
+"key": false
+},
+{
+"w": "izlə",
+"t": 23.21,
+"key": true
+}
+],
+"t1": 23.86
+},
+{
+"t0": 23.86,
+"words": [
+{
+"w": "hər",
+"t": 23.86,
+"key": false
+},
+{
+"w": "gün",
+"t": 24.08,
+"key": false
+},
+{
+"w": "bilmədiyin",
+"t": 24.31,
+"key": false
+},
+{
+"w": "bir",
+"t": 24.88,
+"key": false
+},
+{
+"w": "fakt!",
+"t": 25.22,
+"key": true
+}
+],
+"t1": 25.73
+}
+],
+"source": "silencedetect + syllable interpolation"
+}

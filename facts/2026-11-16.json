@@ -113,13 +113,16 @@
   "13:00 Atəşgah": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-16_1300_atesgah_silent.mp4"
  },
  "metricool": {
-  "13:00 reel (Atəşgah 1969, static, silent, IG REEL)": 429054339
+  "13:00 reel (Atəşgah 1969, static, silent, IG REEL)": 429054339,
+  "18:30 reel (Nəsibov Zaqreb 2 il dalbadal, MOTION 60 fps, Arif)": 429946148
  },
  "tiktok": {
-  "13:00 Atəşgah": 429054355
+  "13:00 Atəşgah": 429054355,
+  "18:30 Nəsibov Zaqreb": 429946168
  },
  "youtube": {
-  "13:00 Atəşgah": 429054369
+  "13:00 Atəşgah": 429054369,
+  "18:30 Nəsibov Zaqreb": 429946209
  },
  "ig_type": "REEL (trial reels suspended)",
  "scheduled_check": "20:48 15 Nov: getScheduledPosts for 16 Nov empty before creating; no pending_schedule in 14–16 Nov JSONs.",
@@ -228,6 +231,20 @@
   "arif_credits": 363,
   "elevenlabs_flow": "M5t6jyhZoxERSgHOkmKw",
   "words_json": null,
-  "words_note": "creative_transcribe_audio refused once at 14:57 ('free generations busy', not charged) — optional step skipped; 15:23 build uses silencedetect for line starts per 1e HOW."
- }
+  "words_note": "creative_transcribe_audio refused once at 14:57 ('free generations busy', not charged) — optional step skipped; 15:23 build uses silencedetect for line starts per 1e HOW.",
+  "build": {
+   "source": "reels/2026-11-16_1830/",
+   "media": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-16_1830_nasibov_zagreb.mp4",
+   "dur_s": 27.05,
+   "fps": 60,
+   "size_mb": 5.9,
+   "audio": "Arif VO + soft SFX (-9 dB), no music, -14.1 LUFS / -1.3 dBTP",
+   "timing": "silencedetect sentence starts + fine gaps + syllable interpolation (tools/timing.py), no paid Scribe",
+   "critique_rounds": 3,
+   "look": "night arena + blue/red tatami; Nəsibov as judogi silhouette + name plate; EYNİ 3/3 checklist hook; bathroom-scale dial past 100; FİNAL board AZE vs ALMANİYA; calendar flips 2026→2025 (sepia flashback); shield with 2025+2026 medals TİTUL QORUNDU; two podiums 2/2; persistent bug QIZIL n/2",
+   "language_fix": "on screen 'ZAQREB QRAN-Prİ' → 'ZAQREB QRAN-PRİ'"
+  }
+ },
+ "voice": "arif",
+ "scheduled_check_1830": "15:44 Baku: getScheduledPosts 16 Nov had no 18:30 posts; created 3 new (IG REEL isAiGenerated, TikTok isAigc, YouTube short isAiGeneratedContent)."
 }

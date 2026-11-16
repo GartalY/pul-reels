@@ -998,6 +998,55 @@
    "topic": "Ronaldinho, 46, started for Ravenna (Serie C) v Forli on 15 Nov 2026 — first competitive match in 4,068 days (since 26 Sept 2015); 45 min, Ravenna won 2-0; he is also a club investor",
    "network": "tiktok",
    "metricool_id": 429957807
+  },
+  {
+   "episode": "ep08_voyager",
+   "kind": "long",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep08/ep08_voyager_long.mp4",
+   "time_london": "2026-11-17T19:00",
+   "time_baku": "2026-11-17T23:00",
+   "network": "youtube",
+   "metricool_id": 430729045,
+   "title": "Voyager 1 Is One Light-Day Away. How Do We Still Hear It?",
+   "style": "ink silhouette",
+   "fps": 60,
+   "ai_label": true
+  },
+  {
+   "episode": "ep08_voyager",
+   "kind": "short",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep08/ep08_s1_hello_takes_a_day.mp4",
+   "time_london": "2026-11-18T23:00",
+   "time_baku": "2026-11-19T03:00",
+   "network": "youtube",
+   "metricool_id": 430729378,
+   "ai_label": true,
+   "fps": 60,
+   "duration_s": 34.4
+  },
+  {
+   "episode": "ep08_voyager",
+   "kind": "short",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep08/ep08_s1_hello_takes_a_day.mp4",
+   "time_london": "2026-11-18T23:00",
+   "time_baku": "2026-11-19T03:00",
+   "network": "instagram",
+   "metricool_id": 430729400,
+   "ai_label": true,
+   "fps": 60,
+   "duration_s": 34.4
+  },
+  {
+   "episode": "ep08_voyager",
+   "kind": "short",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep08/ep08_s1_hello_takes_a_day.mp4",
+   "time_london": "2026-11-18T23:00",
+   "time_baku": "2026-11-19T03:00",
+   "network": "tiktok",
+   "metricool_id": 430729526,
+   "ai_label": true,
+   "fps": 60,
+   "duration_s": 34.4
   }
  ]
 }

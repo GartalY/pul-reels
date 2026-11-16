@@ -524,3 +524,5 @@ search_1113_nemo.json https://commons.wikimedia.org/w/api.php?action=query&forma
 2026-11-14_wv_carrion_crow.jpg https://images.unsplash.com/photo-1719394216920-83a36b9bfb63?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=2400
 2026-11-16_1_ateshgah_a.jpg https://images.unsplash.com/photo-1744787122545-ba88d878adaa?crop=entropy&cs=srgb&fm=jpg&q=85&w=2000
 2026-11-16_1_ateshgah_b.jpg https://images.unsplash.com/photo-1576842136838-8e9935db49b9?crop=entropy&cs=srgb&fm=jpg&q=85&w=2000
+2026-11-17_search_zardabi.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1200&gsrsearch=Zardabi
+2026-11-17_search_akinchi.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1200&gsrsearch=Akinchi

@@ -529,3 +529,6 @@ search_1113_nemo.json https://commons.wikimedia.org/w/api.php?action=query&forma
 2026-11-17_1_zardabi_a.jpg https://upload.wikimedia.org/wikipedia/commons/d/d4/Hasan_bey_Zardabi.jpg
 2026-11-17_1_zardabi_b.jpg https://upload.wikimedia.org/wikipedia/commons/7/7d/Hasan_Bey_Melikov-Zardabi%2C_c._unknown.jpg
 2026-11-17_1_akinchi_n1.jpg https://upload.wikimedia.org/wikipedia/commons/5/59/%C6%8Fkin%C3%A7i_1875_N1.jpg
+2026-11-18_1_philharmonic_a.jpg https://images.unsplash.com/photo-1702409209911-c4275bf4b2dd?crop=entropy&cs=srgb&fm=jpg&q=85&w=1600
+2026-11-18_1_philharmonic_garden.jpg https://images.unsplash.com/photo-1716816420623-555dc7a394a3?crop=entropy&cs=srgb&fm=jpg&q=85&w=1600
+search_philharmonic.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Azerbaijan%20State%20Philharmonic%20Hall%20Baku

@@ -1047,6 +1047,57 @@
    "ai_label": true,
    "fps": 60,
    "duration_s": 34.4
+  },
+  {
+   "episode": "fact_2026-11-17_leonids-71kms",
+   "kind": "static_fact",
+   "type": "static_fact",
+   "format": "animated voiced fact Short (CORE SETUP 15 Nov: no static photo reels)",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/facts/2026-11-17_leonids-71kms.mp4",
+   "time_london": "2026-11-17T23:00",
+   "time_baku": "2026-11-18T03:00",
+   "network": "instagram",
+   "metricool_id": 431066137,
+   "ai_label": true,
+   "fps": 60,
+   "duration_s": 24.0,
+   "style": "line art night sky",
+   "political": false,
+   "topic": "Leonid meteor shower peak 17/18 Nov (trend scout #3)"
+  },
+  {
+   "episode": "fact_2026-11-17_leonids-71kms",
+   "kind": "static_fact",
+   "type": "static_fact",
+   "format": "animated voiced fact Short (CORE SETUP 15 Nov: no static photo reels)",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/facts/2026-11-17_leonids-71kms.mp4",
+   "time_london": "2026-11-17T23:00",
+   "time_baku": "2026-11-18T03:00",
+   "network": "tiktok",
+   "metricool_id": 431066141,
+   "ai_label": true,
+   "fps": 60,
+   "duration_s": 24.0,
+   "style": "line art night sky",
+   "political": false,
+   "topic": "Leonid meteor shower peak 17/18 Nov (trend scout #3)"
+  },
+  {
+   "episode": "fact_2026-11-17_leonids-71kms",
+   "kind": "static_fact",
+   "type": "static_fact",
+   "format": "animated voiced fact Short (CORE SETUP 15 Nov: no static photo reels)",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/facts/2026-11-17_leonids-71kms.mp4",
+   "time_london": "2026-11-17T23:00",
+   "time_baku": "2026-11-18T03:00",
+   "network": "youtube",
+   "metricool_id": 431066150,
+   "ai_label": true,
+   "fps": 60,
+   "duration_s": 24.0,
+   "style": "line art night sky",
+   "political": false,
+   "topic": "Leonid meteor shower peak 17/18 Nov (trend scout #3)"
   }
  ]
 }

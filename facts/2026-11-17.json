@@ -202,5 +202,28 @@
    }
   ]
  },
- "trend_check_morning": "09:15 17 Nov: picked Andorra 1-3 Azerbaijan friendly (16 Nov night) + Mahmudov farewell; number twist = 5 games/3 goals in 28 years vs 4 goals in one night. No pending_schedule in 15–17 Nov JSONs (17 Nov already scheduled 16 Nov 20:50)."
+ "trend_check_morning": "09:15 17 Nov: picked Andorra 1-3 Azerbaijan friendly (16 Nov night) + Mahmudov farewell; number twist = 5 games/3 goals in 28 years vs 4 goals in one night. No pending_schedule in 15–17 Nov JSONs (17 Nov already scheduled 16 Nov 20:50).",
+ "reel_1830": {
+  "topic": "Andorra 1-3 Azerbaijan, friendly, Encamp, Mon 16 Nov 2026 (Əhmədov 3', Qurbanlı 47', Bayramov 70' pen) — before this, 5 meetings 1998–2016 with only 3 goals (four 0:0, 2008 1:2); 4 goals in one night; captain Emin Mahmudov's last international.",
+  "picked_at": "14:50 Baku 17 Nov (2nd trend check)",
+  "trend_check_2": "Searched AZ/EN news 17 Nov (apa.az, trend.az, news.az): nothing fresher/hotter with a positive AZ angle (German FM visit = routine diplomacy; incidents skipped). Kept the 09:10 pick. Sports quota (Gartal 14:42 rule): 16 Nov Nəsibov + today = 2 sports this week -> quota now FULL for the rest of the week (Mon–Sun).",
+  "hooks_considered": [
+   "28 ildə cəmi 3 qol! (picked)",
+   "28 il, 5 oyun, 4 dəfə 0:0",
+   "Bir gecədə 4 qol — 28 ilin hamısından çox",
+   "Kapitanın son oyunu: 3 qol",
+   "5 oyun, 3 qol, 1 rekord gecə"
+  ],
+  "context_check": "Friendly vs a much weaker side — said 'yoldaşlıq oyunu' in the voice, no 'historic win' framing; the record is only the goal drought between these two teams (true). '66 caps' not spoken (single source).",
+  "sources": [
+   "https://en.apa.az/football/azerbaijan-national-football-team-defeats-andorra-away-536525",
+   "https://report.az/en/football/azerbaijan-beats-andorra-3-1-in-international-friendly",
+   "https://www.vavel.com/en/football/2026/11/16/1279481-andorra-vs-azerbaijan-live-latest-score-goals-and-friendly-match-updates.html",
+   "https://www.idman.biz/en/news/national-team/167083",
+   "https://www.trend.az/azerbaijan/4247172.html",
+   "https://www.idman.biz/en/news/az-football/165459"
+  ],
+  "voice_text": "İyirmi səkkiz ildə cəmi üç qol! Azərbaycan və Andorra beş dəfə oynayıb. Dörd oyun sıfır-sıfır bitib. Dünən yoldaşlıq oyununda Eşqin Əhmədov üçüncü dəqiqədə qol vurdu. Sonra Musa Qurbanlı və Toral Bayramov da vurdu. Hesab üç-bir! Bu, kapitan Emin Mahmudovun yığmada son oyunu idi. Bir gecədə dörd qol — əvvəlki beş oyunun hamısından çox! Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+  "voice": "pending"
+ }
 }

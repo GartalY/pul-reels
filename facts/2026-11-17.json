@@ -124,16 +124,20 @@
   ]
  },
  "media": {
-  "13:00 Əkinçi": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-17_1300_akinchi_silent.mp4"
+  "13:00 Əkinçi": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-17_1300_akinchi_silent.mp4",
+  "18:30 Andorra 1:3": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-17_1830_andorra.mp4"
  },
  "metricool": {
-  "13:00 reel (Əkinçi 1875, static, silent, IG REEL)": 430357018
+  "13:00 reel (Əkinçi 1875, static, silent, IG REEL)": 430357018,
+  "18:30 reel (Andorra 1:3 Azərbaycan, MOTION 60 fps, Arif)": 431333215
  },
  "tiktok": {
-  "13:00 Əkinçi": 430357229
+  "13:00 Əkinçi": 430357229,
+  "18:30 Andorra 1:3": 431333239
  },
  "youtube": {
-  "13:00 Əkinçi": 430357068
+  "13:00 Əkinçi": 430357068,
+  "18:30 Andorra 1:3": 431333263
  },
  "ig_type": "REEL (trial reels suspended)",
  "pending_schedule": null,
@@ -236,6 +240,18 @@
    "first_try": "14:51 Baku, worked"
   },
   "words_json": "reels/arif/2026-11-17_1830.words.json",
-  "transcript_matches_script": true
- }
+  "transcript_matches_script": true,
+  "build": {
+   "source": "reels/2026-11-17_1830/",
+   "duration_s": 27.07,
+   "fps": 60,
+   "size_mb": 6.0,
+   "loudness": "-14.2 LUFS",
+   "timing": "Scribe word starts + silencedetect",
+   "critique_rounds": 3,
+   "caption_note": "'66-cı' removed from caption (single source); Andorra goal named only as 'bir qol'",
+   "scheduled": "15:44 Baku: IG REEL isAiGenerated, TikTok isAigc, YouTube short isAiGeneratedContent; 'Səs: elevenlabs.io' on all three"
+  }
+ },
+ "voice": "arif"
 }

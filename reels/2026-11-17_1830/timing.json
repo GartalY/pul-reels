@@ -1,0 +1,372 @@
+{
+"dur": 25.76,
+"lines": [
+{
+"t0": 0.0,
+"words": [
+{
+"w": "İyirmi",
+"t": 0.0,
+"key": true
+},
+{
+"w": "səkkiz",
+"t": 0.4,
+"key": true
+},
+{
+"w": "ildə",
+"t": 0.8,
+"key": false
+},
+{
+"w": "cəmi",
+"t": 1.2,
+"key": false
+},
+{
+"w": "üç",
+"t": 1.6,
+"key": true
+},
+{
+"w": "qol!",
+"t": 1.88,
+"key": true
+}
+],
+"t1": 2.56
+},
+{
+"t0": 2.56,
+"words": [
+{
+"w": "Azərbaycan",
+"t": 2.56,
+"key": true
+},
+{
+"w": "və",
+"t": 3.147,
+"key": false
+},
+{
+"w": "Andorra",
+"t": 3.28,
+"key": true
+},
+{
+"w": "beş",
+"t": 3.84,
+"key": true
+},
+{
+"w": "dəfə",
+"t": 4.0,
+"key": false
+},
+{
+"w": "oynayıb.",
+"t": 4.293,
+"key": false
+}
+],
+"t1": 4.942
+},
+{
+"t0": 4.942,
+"words": [
+{
+"w": "Dörd",
+"t": 4.942,
+"key": true
+},
+{
+"w": "oyun",
+"t": 5.28,
+"key": false
+},
+{
+"w": "sıfır-sıfır",
+"t": 5.68,
+"key": true
+},
+{
+"w": "bitib.",
+"t": 6.24,
+"key": false
+}
+],
+"t1": 6.96
+},
+{
+"t0": 6.96,
+"words": [
+{
+"w": "Dünən",
+"t": 6.96,
+"key": false
+},
+{
+"w": "yoldaşlıq",
+"t": 7.253,
+"key": true
+},
+{
+"w": "oyununda",
+"t": 7.72,
+"key": false
+},
+{
+"w": "Eşqin",
+"t": 8.24,
+"key": true
+},
+{
+"w": "Əhmədov",
+"t": 8.56,
+"key": true
+},
+{
+"w": "üçüncü",
+"t": 9.08,
+"key": true
+},
+{
+"w": "dəqiqədə",
+"t": 9.44,
+"key": false
+},
+{
+"w": "qol",
+"t": 9.8,
+"key": true
+},
+{
+"w": "vurdu.",
+"t": 10.04,
+"key": false
+}
+],
+"t1": 10.72
+},
+{
+"t0": 10.72,
+"words": [
+{
+"w": "Sonra",
+"t": 10.72,
+"key": false
+},
+{
+"w": "Musa",
+"t": 11.12,
+"key": true
+},
+{
+"w": "Qurbanlı",
+"t": 11.4,
+"key": true
+},
+{
+"w": "və",
+"t": 12.0,
+"key": false
+},
+{
+"w": "Toral",
+"t": 12.24,
+"key": true
+},
+{
+"w": "Bayramov",
+"t": 12.56,
+"key": true
+},
+{
+"w": "da",
+"t": 13.04,
+"key": false
+},
+{
+"w": "vurdu.",
+"t": 13.173,
+"key": false
+}
+],
+"t1": 13.723
+},
+{
+"t0": 13.723,
+"words": [
+{
+"w": "Hesab",
+"t": 13.723,
+"key": false
+},
+{
+"w": "üç-bir!",
+"t": 14.32,
+"key": true
+}
+],
+"t1": 15.315
+},
+{
+"t0": 15.315,
+"words": [
+{
+"w": "Bu,",
+"t": 15.315,
+"key": false
+},
+{
+"w": "kapitan",
+"t": 15.68,
+"key": true
+},
+{
+"w": "Emin",
+"t": 16.08,
+"key": true
+},
+{
+"w": "Mahmudovun",
+"t": 16.32,
+"key": true
+},
+{
+"w": "yığmada",
+"t": 16.933,
+"key": false
+},
+{
+"w": "son",
+"t": 17.44,
+"key": true
+},
+{
+"w": "oyunu",
+"t": 17.6,
+"key": false
+},
+{
+"w": "idi.",
+"t": 17.96,
+"key": false
+}
+],
+"t1": 18.52
+},
+{
+"t0": 18.52,
+"words": [
+{
+"w": "Bir",
+"t": 18.52,
+"key": false
+},
+{
+"w": "gecədə",
+"t": 18.72,
+"key": false
+},
+{
+"w": "dörd",
+"t": 19.24,
+"key": true
+},
+{
+"w": "qol",
+"t": 19.52,
+"key": true
+}
+],
+"t1": 20.037
+},
+{
+"t0": 20.037,
+"words": [
+{
+"w": "əvvəlki",
+"t": 20.037,
+"key": false
+},
+{
+"w": "beş",
+"t": 20.6,
+"key": true
+},
+{
+"w": "oyunun",
+"t": 20.8,
+"key": false
+},
+{
+"w": "hamısından",
+"t": 21.2,
+"key": true
+},
+{
+"w": "çox!",
+"t": 21.8,
+"key": true
+}
+],
+"t1": 22.576
+},
+{
+"t0": 22.576,
+"words": [
+{
+"w": "Bəyən",
+"t": 22.576,
+"key": true
+},
+{
+"w": "və",
+"t": 23.12,
+"key": false
+},
+{
+"w": "izlə",
+"t": 23.28,
+"key": true
+}
+],
+"t1": 24.017
+},
+{
+"t0": 24.017,
+"words": [
+{
+"w": "hər",
+"t": 24.017,
+"key": false
+},
+{
+"w": "gün",
+"t": 24.24,
+"key": false
+},
+{
+"w": "bilmədiyin",
+"t": 24.613,
+"key": false
+},
+{
+"w": "bir",
+"t": 25.12,
+"key": false
+},
+{
+"w": "fakt!",
+"t": 25.28,
+"key": true
+}
+],
+"t1": 25.76
+}
+],
+"source": "ElevenLabs Scribe word starts + silencedetect"
+}

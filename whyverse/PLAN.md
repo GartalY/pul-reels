@@ -261,3 +261,5 @@ Code-drawn with Motion Reel, no new tools. Use when the topic fits:
   Otherwise pick a new story.
 - CUT SHORT PICK: the episode cut must open on a "you" number (ep05 "26 years of your life asleep" TikTok 1 317 vs ep04 chalk cuts
   184 / 355, ep03 cuts IG 24–177). If no "you" number exists in the episode, use its biggest single number in the first 2 s.
+
+- YOUTUBE DESCRIPTIONS (2026-11-17, ep08): never put "<" or ">" in a YouTube title/description — YouTube rejects the upload ("invalid video description"). Write "under"/"over" instead.

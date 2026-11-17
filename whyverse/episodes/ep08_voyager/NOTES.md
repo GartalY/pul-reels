@@ -1,6 +1,6 @@
 # Ep08 — Voyager 1 Is One Light-Day Away. How Do We Still Hear It? — NOTES
 
-status: DONE — scheduled 2026-11-17 (YouTube Tue 17 Nov 19:00 London / 23:00 Baku, Metricool 430729045; cut Short YouTube/Instagram/TikTok
+status: DONE — PUBLISHED Tue 17 Nov 19:30 London (https://www.youtube.com/watch?v=PS2Wbq3dbv0, Metricool 431909433; the 19:00 attempt failed: YouTube "invalid video description" because of a "<" in the sources — fixed to "under"); cut Short YouTube/Instagram/TikTok
 Wed 18 Nov 23:00 London / Thu 19 Nov 03:00 Baku, Metricool 430729378 / 430729400 / 430729526; see ../../posts.json, PUBLISH.md)
 
 - **Timing:** the run started Mon 16 Nov 20:24 London (Tue 17 Nov 00:24 Baku, HTTP Date header). Baku "today" = Tue 17 Nov → long video Tue 19:00 London,

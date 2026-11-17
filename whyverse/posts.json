@@ -1003,14 +1003,16 @@
    "episode": "ep08_voyager",
    "kind": "long",
    "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep08/ep08_voyager_long.mp4",
-   "time_london": "2026-11-17T19:00",
-   "time_baku": "2026-11-17T23:00",
+   "time_london": "2026-11-17T19:30",
+   "time_baku": "2026-11-17T23:30",
    "network": "youtube",
-   "metricool_id": 430729045,
+   "metricool_id": 431909433,
    "title": "Voyager 1 Is One Light-Day Away. How Do We Still Hear It?",
    "style": "ink silhouette",
    "fps": 60,
-   "ai_label": true
+   "ai_label": true,
+   "youtube_id": "PS2Wbq3dbv0",
+   "note": "19:00 attempt failed (YouTube: invalid video description, caused by \"<\" in the text); fixed and republished 19:30 London"
   },
   {
    "episode": "ep08_voyager",

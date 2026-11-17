@@ -234,6 +234,8 @@
    "model": "eleven_v4",
    "voice_id": "ZQJv3hwvRAIC7fvWZ1Qr",
    "first_try": "14:51 Baku, worked"
-  }
+  },
+  "words_json": "reels/arif/2026-11-17_1830.words.json",
+  "transcript_matches_script": true
  }
 }

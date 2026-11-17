@@ -1,6 +1,6 @@
 {
  "date": "2026-11-18",
- "status": "planned",
+ "status": "13:00 scheduled (static, no voice, silent track, IG REEL); 18:30 animated Arif reel = 14:47/15:23 tasks",
  "format": "v2",
  "content_format": "quality_reset_2026-11-12",
  "planned_note": "Planned in the 2026-11-17 09:10 run. Wed 18 Nov: 13:00 static factgen reel (no voice, silent track, IG normal REEL) = facts[0] Baku Philharmonic. 18:30 animated 60 fps Arif reel = freshest AZ-angle trend (09:10/15:23 on 18 Nov decide) else facts[1] Caspian seal. No carousels/quizzes/stories. Some pages (Wikipedia Caspian seal, Commons category pages) not fetchable this run; facts below only use details found in ≥ 2 sources unless marked.",
@@ -42,7 +42,29 @@
     "https://www.gpsmycity.com/attractions/state-philharmonic-hall-35855.html",
     "https://andreas-praefcke.de/carthalia/world/az_baki_filarmoniya.htm",
     "https://worldconcerthall.com/en/halls/azerbaijan_state_philharmonic_hall/452"
-   ]
+   ],
+   "build": {
+    "file": "out/2026-11-18/1_reel.mp4",
+    "dur_s": 26.1,
+    "voice": null,
+    "sound": "pure silence (volumedetect max -91.0 dB)",
+    "photo_used": "fetch/img/2026-11-18_1_philharmonic_a.jpg",
+    "spec": {
+     "hook": "2 ZAL, 1 SƏHNƏ: MONTE-KARLO KİMİ BAKI BİNASI",
+     "beats": [
+      "1910–1912-ci illərdə Bakıda varlılar üçün bir klub tikildi. Burada ziyafətlər, şənliklər olurdu.",
+      "Binanı Monte-Karlo kazinosunun və operasının binalarından ilhamlanaraq çəkdilər.",
+      "Binanın 2 zalı var: yay zalı və qış zalı. Onları bir səhnə birləşdirir.",
+      "1936-cı ildə klub Filarmoniya oldu. 1937-ci ildə ona bəstəkar Müslüm Maqomayevin adı verildi.",
+      "Ən maraqlısı: 1995-ci ildə bina təmirə bağlandı və 8 ildən çox qapalı qaldı. Yalnız 2004-cü ilin yanvarında yenidən açıldı."
+     ],
+     "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+     "seed": 18,
+     "cy": 0.4,
+     "hook_bg": true
+    },
+    "checked": "12-frame sheet + frame 0 + last frame 17 Nov 20:47: AZ letters (ə ı ş ç ö ü ğ İ) fine, hook number-first on frame 0, beats in safe zone, NBSP in '2 zal' / '8 ildən', CTA pill last"
+   }
   },
   {
    "n": 2,
@@ -89,5 +111,20 @@
     "https://www.oneearth.org/species-of-the-week-caspian-seal/"
    ]
   }
- ]
+ ],
+ "media": {
+  "13:00 Filarmoniya": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-18_1300_philharmonic_silent.mp4"
+ },
+ "metricool": {
+  "13:00 reel (Bakı Filarmoniyası, static, silent, IG REEL)": 431727059
+ },
+ "tiktok": {
+  "13:00 Filarmoniya": 431727357
+ },
+ "youtube": {
+  "13:00 Filarmoniya": 431727401
+ },
+ "ig_type": "REEL (trial reels suspended)",
+ "pending_schedule": null,
+ "scheduled_check": "20:48 17 Nov: getScheduledPosts for 18 Nov empty before creating; no pending_schedule in 15–17 Nov JSONs. One post per network created."
 }

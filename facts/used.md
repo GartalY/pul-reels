@@ -41,3 +41,4 @@
 - 2026-11-17 (planned): Əkinçi 1875 — first AZ-language paper, 56 issues, 300 readers though free, 22 July Press Day (13:00 static) · Bazardüzü 4 466 m, border on the summit, Russia's southernmost point ~7 km SW (18:30 animated backup)
 - 2026-11-18 (planned): Baku Philharmonic 1910–1912, Monte-Carlo inspired, 2 halls 1 stage, closed 1995–2004 (13:00 static) · Caspian seal 1 million → ~100 000 (2008), −90%, IUCN Endangered 2008 (18:30 animated backup)
 - 2026-11-17 trend (09:10 pick for 18:30): Andorra 1-3 Azerbaijan friendly 16 Nov (5 games / 3 goals in 28 years → 4 in one night), Mahmudov 66th & last cap
+- 2026-11-18 13:00: Bakı Filarmoniyası (Monte-Karlo ilhamı, 2 zal 1 səhnə, 1995–2004 qapalı)

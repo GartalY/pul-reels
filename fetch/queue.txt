@@ -532,3 +532,5 @@ search_1113_nemo.json https://commons.wikimedia.org/w/api.php?action=query&forma
 2026-11-18_1_philharmonic_a.jpg https://images.unsplash.com/photo-1702409209911-c4275bf4b2dd?crop=entropy&cs=srgb&fm=jpg&q=85&w=1600
 2026-11-18_1_philharmonic_garden.jpg https://images.unsplash.com/photo-1716816420623-555dc7a394a3?crop=entropy&cs=srgb&fm=jpg&q=85&w=1600
 search_philharmonic.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Azerbaijan%20State%20Philharmonic%20Hall%20Baku
+2026-11-18_1_philharmonic_b.jpg https://upload.wikimedia.org/wikipedia/commons/4/48/Azerbaijan_State_Philharmonic_Hall.jpg
+2026-11-18_1_baku_club_old.jpg https://upload.wikimedia.org/wikipedia/commons/3/33/The_Club%2C_Baku_%28Money%2C_Robert_Cotton%29.jpg

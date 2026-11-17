@@ -1,3 +1,21 @@
+## GARTAL 2026-11-17 14:42 — TOPICS + HOOKS (both brands; every task that picks a topic or writes a hook reads this first)
+"What we create is mostly about space or sports. We should be broader … Top 5 most horrifying executions in history — I watched
+the full video. The animation wasn't better than ours, it wasn't even 60 fps. The HOOK was great. Our videos, not a great hook."
+1. TOPICS — BROADER. Per brand per week: at most 2 space and at most 2 sports pieces in total (count posts.json / day JSONs).
+   If the hottest trend is space/sports again and the quota is used, take the next trend or a countdown (below).
+   Rotate across: history (incl. dark history, told non-graphically), mysteries & unexplained, human body & mind, animals,
+   money & business, inventions & technology, food, crime & famous cases (facts only, no gore), records & extremes, geography &
+   strange places, culture & traditions (AZ: Azerbaijani history, people, places, customs).
+2. HOOK FIRST. The animation is not the problem; the hook is. Before writing anything, write 5 hook titles and pick the strongest.
+   A strong hook = a NUMBER + a SUPERLATIVE + an EMOTION word, promising a payoff people must stay for:
+   "Top 5 most horrifying …", "The 3 strangest …", "4 deadliest …", "Tarixin ən dəhşətli 5 …", "Dünyanın ən qəribə 3 …".
+   It is the first spoken sentence AND the big text on frame 0. It must be TRUE — the content must deliver what it promises.
+3. COUNTDOWN FORMAT ("Top N"): N = 3–5, count DOWN, save #1 (the most shocking) for the end, one item ≈ 4–6 s, a progress counter
+   on screen (5…4…3…2…1). At least 3 countdowns per brand per week (the 18:30 AZ animation and the Whyverse 19:00 Short may
+   use a countdown instead of a trend whenever it's the stronger hook; a trend can also be told as a countdown).
+4. Dark topics: describe, never show gore; no real victims' images; respectful tone; nothing about living private people.
+5. Reports/reviews track hook type per post (countdown vs trend vs single fact) and views/sends per view — report only.
+
 ## CORE SETUP — LOCKED (Gartal 2026-11-15 21:40). Reviews never change this.
 - 2 posts a day on EACH platform (Instagram, TikTok, YouTube Shorts), BOTH ANIMATED, voice = Kokoro af_heart.
   1st = 19:00 Baku daily animated trend Short. 2nd = 23:00 London: the episode's animated cut Short on the day after an episode,

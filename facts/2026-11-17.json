@@ -224,6 +224,16 @@
    "https://www.idman.biz/en/news/az-football/165459"
   ],
   "voice_text": "İyirmi səkkiz ildə cəmi üç qol! Azərbaycan və Andorra beş dəfə oynayıb. Dörd oyun sıfır-sıfır bitib. Dünən yoldaşlıq oyununda Eşqin Əhmədov üçüncü dəqiqədə qol vurdu. Sonra Musa Qurbanlı və Toral Bayramov da vurdu. Hesab üç-bir! Bu, kapitan Emin Mahmudovun yığmada son oyunu idi. Bir gecədə dörd qol — əvvəlki beş oyunun hamısından çox! Bəyən və izlə — hər gün bilmədiyin bir fakt!",
-  "voice": "pending"
+  "voice": "arif",
+  "arif_mp3": "reels/arif/2026-11-17_1830.mp3",
+  "arif_duration_s": 25.81,
+  "elevenlabs": {
+   "flow_id": "puxHxcrurWGoAn7fX3mt",
+   "generation_id": "SWZ2AkwZoDPPoBw5BPbI",
+   "credits": 381,
+   "model": "eleven_v4",
+   "voice_id": "ZQJv3hwvRAIC7fvWZ1Qr",
+   "first_try": "14:51 Baku, worked"
+  }
  }
 }

@@ -1098,6 +1098,54 @@
    "style": "line art night sky",
    "political": false,
    "topic": "Leonid meteor shower peak 17/18 Nov (trend scout #3)"
+  },
+  {
+   "episode": "short_2026-11-17_simpsons-blackout-test",
+   "kind": "trend",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-17_simpsons-blackout-test.mp4",
+   "time_london": "2026-11-17T15:00",
+   "time_baku": "2026-11-17T19:00",
+   "network": "youtube",
+   "metricool_id": 431351164,
+   "ai_label": true,
+   "fps": 60,
+   "duration_s": 27.6,
+   "style": "late-night broadcast room",
+   "hook_type": "trend (myth-bust)",
+   "political": false,
+   "topic_category": "culture / myths"
+  },
+  {
+   "episode": "short_2026-11-17_simpsons-blackout-test",
+   "kind": "trend",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-17_simpsons-blackout-test.mp4",
+   "time_london": "2026-11-17T15:00",
+   "time_baku": "2026-11-17T19:00",
+   "network": "instagram",
+   "metricool_id": 431351208,
+   "ai_label": true,
+   "fps": 60,
+   "duration_s": 27.6,
+   "style": "late-night broadcast room",
+   "hook_type": "trend (myth-bust)",
+   "political": false,
+   "topic_category": "culture / myths"
+  },
+  {
+   "episode": "short_2026-11-17_simpsons-blackout-test",
+   "kind": "trend",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-17_simpsons-blackout-test.mp4",
+   "time_london": "2026-11-17T15:00",
+   "time_baku": "2026-11-17T19:00",
+   "network": "tiktok",
+   "metricool_id": 431351352,
+   "ai_label": true,
+   "fps": 60,
+   "duration_s": 27.6,
+   "style": "late-night broadcast room",
+   "hook_type": "trend (myth-bust)",
+   "political": false,
+   "topic_category": "culture / myths"
   }
  ]
 }

@@ -1,0 +1,93 @@
+{
+ "date": "2026-11-18",
+ "status": "planned",
+ "format": "v2",
+ "content_format": "quality_reset_2026-11-12",
+ "planned_note": "Planned in the 2026-11-17 09:10 run. Wed 18 Nov: 13:00 static factgen reel (no voice, silent track, IG normal REEL) = facts[0] Baku Philharmonic. 18:30 animated 60 fps Arif reel = freshest AZ-angle trend (09:10/15:23 on 18 Nov decide) else facts[1] Caspian seal. No carousels/quizzes/stories. Some pages (Wikipedia Caspian seal, Commons category pages) not fetchable this run; facts below only use details found in ≥ 2 sources unless marked.",
+ "facts": [
+  {
+   "n": 1,
+   "type": "reel",
+   "slot": "13:00",
+   "static": true,
+   "voiced": false,
+   "cat": "Memarlıq",
+   "subject": "Azerbaijan State Academic Philharmonic Hall (Müslüm Maqomayev adına Filarmoniya), Istiqlaliyyat St., Baku. Built 1910–1912 (Wikipedia, wuf13.az, worldconcerthall, gpsmycity, ulduztourism, Carthalia). Architect Gabriel (Gavril) Ter-Mikelov (Wikipedia, Carthalia, worldconcerthall, gpsmycity, ulduztourism) — NOT named in the reel. Design inspired by the Monte-Carlo Casino buildings, esp. l'Opéra de Monte-Carlo (Wikipedia, wuf13.az, worldconcerthall, gpsmycity, ulduztourism). Originally a club for Baku's wealthy, banquets and entertainment; 'Summer Center for Public Gatherings' before 1936 (Wikipedia, ulduztourism, gpsmycity; wuf13: 'social retreat for the city's elite'). 1936 became the Philharmonic's home; 11 Aug 1937 named after composer Müslüm Maqomayev (Wikipedia, Carthalia, gpsmycity, ulduztourism). Two halls — Summer Hall and Winter Hall (610 seats) — joined by a single stage (Wikipedia, gpsmycity, Carthalia; summer-hall seats 1 100 vs 110 disagree -> no seat numbers). Closed 1995 for more than 8 years, reopened 27 Jan 2004 (Wikipedia, ulduztourism). NOT used: ADR parliament claim, funders, 'casino' as the building's own use (it was a club, the casino was only the model), seat counts.",
+   "title": "Monte-Karlodan ilham: Bakı Filarmoniyası 1912",
+   "text": "1912-ci ildə Bakıda varlılar üçün klub tikildi. Binanı Monte-Karlo kazinosunun binalarından ilhamlanaraq çəkdilər. Bu gün o, Filarmoniyadır.",
+   "reel_hook": "2 ZAL, 1 SƏHNƏ: MONTE-KARLO KİMİ BAKI BİNASI",
+   "reel_beats": [
+    "1910–1912-ci illərdə Bakıda varlılar üçün bir klub tikildi. Burada ziyafətlər, şənliklər olurdu.",
+    "Binanı Monte-Karlo kazinosunun və operasının binalarından ilhamlanaraq çəkdilər.",
+    "Binanın 2 zalı var: yay zalı və qış zalı. Onları bir səhnə birləşdirir.",
+    "1936-cı ildə klub Filarmoniya oldu. 1937-ci ildə ona bəstəkar Müslüm Maqomayevin adı verildi."
+   ],
+   "payoff": "Ən maraqlısı: 1995-ci ildə bina təmirə bağlandı və 8 ildən çox qapalı qaldı. Yalnız 2004-cü ilin yanvarında yenidən açıldı.",
+   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+   "send_line": "📩 Konsertə birlikdə gedəcəyin dostuna göndər 🎻",
+   "caption": "Bakı Filarmoniyası: Monte-Karlodan ilham 🎻\n\nBakı Filarmoniyasının binası 1910–1912-ci illərdə varlılar üçün klub kimi tikilib: burada ziyafətlər, şənliklər olurdu. Binanı Monte-Karlo kazinosunun və operasının binalarından ilhamlanaraq çəkiblər. Binanın 2 zalı var — yay zalı və qış zalı, onları bir səhnə birləşdirir. 1936-cı ildə klub Filarmoniya oldu, 1937-ci ildə ona Müslüm Maqomayevin adı verildi. Ən maraqlısı: 1995-ci ildə bina təmirə bağlandı və 8 ildən çox qapalı qaldı — yalnız 2004-cü ildə yenidən açıldı.\n\n📩 Konsertə birlikdə gedəcəyin dostuna göndər 🎻\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nFoto: Hesen Musayev / Unsplash\n\n#bilirdinizmi #filarmoniya #bakı #memarlıq #azərbaycan",
+   "first_comment": "Filarmoniyada konsertə getmisən? 👇",
+   "photo": {
+    "path": "fetch/img/2026-11-18_1_philharmonic_a.jpg",
+    "credit": "Hesen Musayev / Unsplash",
+    "cy": 0.4,
+    "full": true,
+    "source": "https://unsplash.com/photos/mooev_mngxU",
+    "note": "Checked 17 Nov 10:10: 1600x2133 portrait, sunny facade with both towers, dome and the garden bust; Unsplash desc 'Baku', matches the Philharmonic (twin towers, yellow facade). No watermark/logo. Backup queued: 2026-11-18_1_philharmonic_b.jpg (Commons 'Azerbaijan State Philharmonic Hall.jpg', Azerifactory, CC BY-SA 4.0, 3024x4032) — LOOK at it before use. Not used: Unsplash garden arch (not the building), 'The Club, Baku' old photo (not confirmed to be this building)."
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Azerbaijan_State_Academic_Philharmonic_Hall",
+    "https://wuf13.az/en/treasures-of-azerbaijan/art-museums/0081/Azerbaijan-State-Academic-Philharmonic-Hall",
+    "https://ulduztourism.az/?p=1919",
+    "https://www.gpsmycity.com/attractions/state-philharmonic-hall-35855.html",
+    "https://andreas-praefcke.de/carthalia/world/az_baki_filarmoniya.htm",
+    "https://worldconcerthall.com/en/halls/azerbaijan_state_philharmonic_hall/452"
+   ]
+  },
+  {
+   "n": 2,
+   "type": "reel",
+   "slot": "18:30 backup",
+   "motion": true,
+   "fps": 60,
+   "voiced": "Arif",
+   "cat": "Heyvanlar",
+   "subject": "Caspian seal (Pusa caspica, Xəzər suitisi). Only marine mammal of the Caspian (OneEarth 2025; Mongabay: 'one of only a handful of landlocked seal species, one of the smallest true seals'). Over 1 million at the start of the 20th century -> about 100 000 in 2008 = ~90% drop in 100 years (Mongabay 12 Nov 2008 + EurekAlert/Univ. of Leeds 6 Oct 2008; OneEarth: 104 000 by 2005, ~70 000 by 2022 — single source, not in the voice). Pups per year fell from ~17 000 to 6 000–7 000 (Mongabay, EurekAlert). IUCN moved it from Vulnerable to Endangered, announced 6 Oct 2008 in Barcelona (EurekAlert, Mongabay). Pups born on the winter ice of the northern Caspian, late Jan–early Feb (OneEarth; EurekAlert 'breeding grounds of the winter ice-field'). Origin unclear; favoured idea: came from the Arctic Ocean ~2.5 million years ago, descended from the ringed seal (Mongabay — say 'ehtimal olunur'). NOT used: weight (86 kg looks wrong), lifespan, threat causes (keep it neutral, no blame).",
+   "title": "Xəzər suitisi: 1 milyondan 100 minə",
+   "reel_hook": "1 MİLYON → 100 MİN: XƏZƏRİN YEGANƏ SUİTİSİ",
+   "reel_beats": [
+    "Xəzər suitisi dünyada yalnız Xəzərdə yaşayır. O, Xəzərin yeganə dəniz məməlisidir.",
+    "XX əsrin əvvəlində onların sayı 1 milyondan çox idi. 2008-ci ildə alimlər təxminən 100 min saydılar.",
+    "Yəni 100 ildə 90% azaldı. Hər il doğulan balaların sayı da 17 mindən 6–7 minə düşdü.",
+    "Balalar qışda Xəzərin şimalında, buzun üstündə doğulur. 2008-ci ildə suiti «nəsli kəsilmək təhlükəsində olan» növ elan edildi."
+   ],
+   "payoff": "Ən maraqlısı: alimlər hələ də dəqiq bilmir, suiti okeandan qapalı Xəzərə necə gəlib. Ehtimal olunur ki, təxminən 2,5 milyon il əvvəl şimaldan, Buzlu okeandan gəlib.",
+   "voice_texts": [
+    "Bir milyondan yüz minə! Xəzərin yeganə suitisi.",
+    "Xəzər suitisi dünyada yalnız Xəzər dənizində yaşayır.",
+    "Yüz il əvvəl onların sayı bir milyondan çox idi. İki min səkkizinci ildə alimlər təxminən yüz min saydılar.",
+    "Yəni yüz ildə doxsan faiz azaldı.",
+    "Balalar qışda Xəzərin şimalında, buzun üstündə doğulur.",
+    "Ən maraqlısı: alimlər hələ də bilmir, suiti Xəzərə necə gəlib. Ehtimal ki, təxminən iki yarım milyon il əvvəl Buzlu okeandan.",
+    "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
+   ],
+   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+   "send_line": "📩 Xəzəri sevən dostuna göndər 🦭",
+   "caption": "Xəzər suitisi: 1 milyondan 100 minə 🦭\n\nXəzər suitisi dünyada yalnız Xəzər dənizində yaşayır — bu, Xəzərin yeganə dəniz məməlisidir. XX əsrin əvvəlində onların sayı 1 milyondan çox idi, 2008-ci ildə isə alimlər təxminən 100 min saydılar: 100 ildə 90% azalma. Hər il doğulan balaların sayı da 17 mindən 6–7 minə düşdü. Balalar qışda Xəzərin şimalında, buzun üstündə doğulur. 2008-ci ildə Xəzər suitisi «nəsli kəsilmək təhlükəsində olan» növlərin siyahısına salındı. Ən maraqlısı: alimlər hələ də dəqiq bilmir, suiti qapalı Xəzərə necə gəlib — ehtimal olunur ki, təxminən 2,5 milyon il əvvəl şimaldan, Buzlu okeandan.\n\n📩 Xəzəri sevən dostuna göndər 🦭\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nSəs: elevenlabs.io\n\n#bilirdinizmi #xəzər #suiti #təbiət #azərbaycan",
+   "first_comment": "Xəzərdə heç suiti görmüsən? 👇",
+   "visual_ideas": [
+    "Frame 0: giant '1 000 000' made of tiny seal-head dots that pops away to '100 000' (dots fall off the screen); counter top-right 'XƏZƏR SUİTİSİ: 100 İL'.",
+    "Map: the Caspian outline (no other sea touching it — 'qapalı'), a single seal SILHOUETTE-style flat icon swims in a loop; a stamp 'YALNIZ XƏZƏRDƏ'.",
+    "Bar race: pups per year 17 000 → 6–7 000, bars shrink with a soft thud.",
+    "Winter: white ice sheet slides over the north Caspian, a small white pup appears on the ice (pop-in, no bell).",
+    "Payoff: a dotted path from the Arctic down to the Caspian with a '?' and '~2,5 mln il' label; loop back to '1 000 000'."
+   ],
+   "sfx": "soft whoosh, tick for counters, ice crack/creak (non-melodic), thud; no music",
+   "sources": [
+    "https://news.mongabay.com/2008/11/caspian-seal-numbers-plummet-90/",
+    "https://www.eurekalert.org/pub_releases/2008-10/uol-flb100608.php",
+    "https://www.oneearth.org/species-of-the-week-caspian-seal/"
+   ]
+  }
+ ]
+}

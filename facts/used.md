@@ -39,3 +39,5 @@
 - 2026-11-16 13:00: Atəşgah — odu 1969-cu ildə söndü (static)
 - 2026-11-16 trend (09:10 pick for 18:30): Kənan Nəsibov Zagreb GP +100 kg gold, 4 bouts / 3 golden score, final v Kone (2-1 H2H), title defence (won 2025 too)
 - 2026-11-17 (planned): Əkinçi 1875 — first AZ-language paper, 56 issues, 300 readers though free, 22 July Press Day (13:00 static) · Bazardüzü 4 466 m, border on the summit, Russia's southernmost point ~7 km SW (18:30 animated backup)
+- 2026-11-18 (planned): Baku Philharmonic 1910–1912, Monte-Carlo inspired, 2 halls 1 stage, closed 1995–2004 (13:00 static) · Caspian seal 1 million → ~100 000 (2008), −90%, IUCN Endangered 2008 (18:30 animated backup)
+- 2026-11-17 trend (09:10 pick for 18:30): Andorra 1-3 Azerbaijan friendly 16 Nov (5 games / 3 goals in 28 years → 4 in one night), Mahmudov 66th & last cap

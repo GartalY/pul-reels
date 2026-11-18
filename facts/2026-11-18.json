@@ -113,16 +113,20 @@
   }
  ],
  "media": {
-  "13:00 Filarmoniya": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-18_1300_philharmonic_silent.mp4"
+  "13:00 Filarmoniya": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-18_1300_philharmonic_silent.mp4",
+  "18:30 Haaqa": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-18_1830_hague_film.mp4"
  },
  "metricool": {
-  "13:00 reel (Bakı Filarmoniyası, static, silent, IG REEL)": 431727059
+  "13:00 reel (Bakı Filarmoniyası, static, silent, IG REEL)": 431727059,
+  "18:30 Haaqa film festivalı (MOTION 60 fps, Arif)": 432717571
  },
  "tiktok": {
-  "13:00 Filarmoniya": 431727357
+  "13:00 Filarmoniya": 431727357,
+  "18:30 Haaqa": 432717590
  },
  "youtube": {
-  "13:00 Filarmoniya": 431727401
+  "13:00 Filarmoniya": 431727401,
+  "18:30 Haaqa": 432717604
  },
  "ig_type": "REEL (trial reels suspended)",
  "pending_schedule": null,
@@ -220,6 +224,20 @@
   "arif_credits": 371,
   "arif_note": "14:58 Baku: generated on the 2nd retry (14:54 attempt = 'free generations busy', nothing charged); flow kFheLMmagunTF0HgvEuc",
   "words_json": "reels/arif/2026-11-18_1830.words.json",
-  "transcript_matches_script": true
+  "transcript_matches_script": true,
+  "format": "trend",
+  "build": {
+   "source": "reels/2026-11-18_1830/",
+   "duration_s": 28.22,
+   "fps": 60,
+   "size_mb": 11.9,
+   "loudness": "-14.1 LUFS",
+   "sfx_db": -9,
+   "music": "none (silence)",
+   "timing": "Scribe word starts + silencedetect",
+   "critique_rounds": 3,
+   "scheduled": "15:44 Baku: IG REEL isAiGenerated, TikTok isAigc, YouTube short isAiGeneratedContent; 'Səs: elevenlabs.io' on all three",
+   "caption_note": "Director/story names left out of captions (AZ spellings not confirmed by 2 sources); jurors drawn as anonymous generic silhouettes"
+  }
  }
 }

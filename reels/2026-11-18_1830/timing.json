@@ -1,0 +1,356 @@
+{
+"dur": 26.91,
+"lines": [
+{
+"t0": 0.0,
+"words": [
+{
+"w": "Beş",
+"t": 0.0,
+"key": true
+},
+{
+"w": "yüz",
+"t": 0.32,
+"key": true
+},
+{
+"w": "üç",
+"t": 0.48,
+"key": true
+},
+{
+"w": "filmdən",
+"t": 0.72,
+"key": false
+},
+{
+"w": "birinci!",
+"t": 1.28,
+"key": true
+}
+],
+"t1": 2.341
+},
+{
+"t0": 2.341,
+"words": [
+{
+"w": "Azərbaycan",
+"t": 2.341,
+"key": true
+},
+{
+"w": "filmi",
+"t": 3.12,
+"key": false
+},
+{
+"w": "Haaqada",
+"t": 3.6,
+"key": true
+},
+{
+"w": "qalib",
+"t": 4.133,
+"key": true
+},
+{
+"w": "oldu.",
+"t": 4.48,
+"key": false
+}
+],
+"t1": 5.28
+},
+{
+"t0": 5.28,
+"words": [
+{
+"w": "Bu",
+"t": 5.28,
+"key": false
+},
+{
+"w": "il",
+"t": 5.44,
+"key": false
+},
+{
+"w": "Haaqa",
+"t": 5.68,
+"key": false
+},
+{
+"w": "film",
+"t": 6.12,
+"key": false
+},
+{
+"w": "festivalına",
+"t": 6.32,
+"key": false
+},
+{
+"w": "beş",
+"t": 7.12,
+"key": true
+},
+{
+"w": "yüz",
+"t": 7.36,
+"key": true
+},
+{
+"w": "üç",
+"t": 7.6,
+"key": true
+},
+{
+"w": "film",
+"t": 7.76,
+"key": false
+},
+{
+"w": "göndərildi.",
+"t": 8.0,
+"key": true
+}
+],
+"t1": 9.04
+},
+{
+"t0": 9.04,
+"words": [
+{
+"w": "Cəmi",
+"t": 9.04,
+"key": false
+},
+{
+"w": "altmış",
+"t": 9.52,
+"key": true
+},
+{
+"w": "üçü",
+"t": 9.88,
+"key": true
+},
+{
+"w": "seçildi,",
+"t": 10.08,
+"key": true
+},
+{
+"w": "iyirmi",
+"t": 10.88,
+"key": true
+},
+{
+"w": "üç",
+"t": 11.173,
+"key": true
+},
+{
+"w": "ölkədən.",
+"t": 11.32,
+"key": true
+}
+],
+"t1": 12.32
+},
+{
+"t0": 12.32,
+"words": [
+{
+"w": "Əsas",
+"t": 12.32,
+"key": false
+},
+{
+"w": "kateqoriyada",
+"t": 12.64,
+"key": false
+},
+{
+"w": "finala",
+"t": 13.44,
+"key": true
+},
+{
+"w": "dörd",
+"t": 13.84,
+"key": true
+},
+{
+"w": "film",
+"t": 14.08,
+"key": false
+},
+{
+"w": "çıxdı.",
+"t": 14.32,
+"key": false
+}
+],
+"t1": 15.181
+},
+{
+"t0": 15.181,
+"words": [
+{
+"w": "On",
+"t": 15.181,
+"key": true
+},
+{
+"w": "üç",
+"t": 15.36,
+"key": true
+},
+{
+"w": "münsif",
+"t": 15.52,
+"key": true
+},
+{
+"w": "yekdilliklə",
+"t": 16.08,
+"key": true
+},
+{
+"w": "Azərbaycanın",
+"t": 16.96,
+"key": true
+},
+{
+"w": "qısa",
+"t": 17.72,
+"key": true
+},
+{
+"w": "filmini",
+"t": 18.0,
+"key": false
+},
+{
+"w": "seçdi.",
+"t": 18.4,
+"key": false
+}
+],
+"t1": 19.2
+},
+{
+"t0": 19.2,
+"words": [
+{
+"w": "Ən",
+"t": 19.2,
+"key": false
+},
+{
+"w": "maraqlısı:",
+"t": 19.44,
+"key": false
+}
+],
+"t1": 20.392
+},
+{
+"t0": 20.392,
+"words": [
+{
+"w": "bu,",
+"t": 20.392,
+"key": false
+},
+{
+"w": "filmin",
+"t": 20.56,
+"key": false
+},
+{
+"w": "bu",
+"t": 21.04,
+"key": false
+},
+{
+"w": "il",
+"t": 21.2,
+"key": false
+},
+{
+"w": "yeddinci",
+"t": 21.44,
+"key": true
+},
+{
+"w": "beynəlxalq",
+"t": 22.0,
+"key": true
+},
+{
+"w": "uğurudur.",
+"t": 22.48,
+"key": false
+}
+],
+"t1": 23.667
+},
+{
+"t0": 23.667,
+"words": [
+{
+"w": "Bəyən",
+"t": 23.667,
+"key": true
+},
+{
+"w": "və",
+"t": 24.16,
+"key": false
+},
+{
+"w": "izlə",
+"t": 24.32,
+"key": true
+}
+],
+"t1": 25.084
+},
+{
+"t0": 25.084,
+"words": [
+{
+"w": "hər",
+"t": 25.084,
+"key": false
+},
+{
+"w": "gün",
+"t": 25.36,
+"key": false
+},
+{
+"w": "bilmədiyin",
+"t": 25.68,
+"key": false
+},
+{
+"w": "bir",
+"t": 26.24,
+"key": false
+},
+{
+"w": "fakt!",
+"t": 26.4,
+"key": true
+}
+],
+"t1": 26.91
+}
+],
+"source": "ElevenLabs Scribe word starts + silencedetect"
+}

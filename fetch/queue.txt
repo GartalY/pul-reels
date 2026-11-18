@@ -537,3 +537,5 @@ search_philharmonic.json https://commons.wikimedia.org/w/api.php?action=query&fo
 2026-11-19_1_carpet_a.jpg https://images.unsplash.com/photo-1694269949680-007d547b2f0e?crop=entropy&cs=srgb&fm=jpg&q=85&w=2000
 2026-11-19_1_carpet_b.jpg https://images.unsplash.com/photo-1761222856609-c2c04cf9a7c6?crop=entropy&cs=srgb&fm=jpg&q=85&w=2000
 search_carpet_museum.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Azerbaijan%20Carpet%20Museum%20building
+2026-11-19_1_brain_a.jpg https://images.unsplash.com/photo-1767378262839-9d615a266ad3?crop=entropy&cs=srgb&fm=jpg&q=85&w=2000
+2026-11-19_1_brain_b.jpg https://images.unsplash.com/photo-1727773458292-9da4284a4d3e?crop=entropy&cs=srgb&fm=jpg&q=85&w=2000

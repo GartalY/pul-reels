@@ -1,6 +1,6 @@
 {
  "date": "2026-11-18",
- "status": "13:00 scheduled (static, no voice, silent track, IG REEL); 18:30 animated Arif reel = 14:47/15:23 tasks",
+ "status": "13:00 scheduled (static, no voice, silent track, IG REEL); 18:30 animated Arif reel = 14:47/15:23 tasks; trend picked 10:15 = Hague film award (culture)",
  "format": "v2",
  "content_format": "quality_reset_2026-11-12",
  "planned_note": "Planned in the 2026-11-17 09:10 run. Wed 18 Nov: 13:00 static factgen reel (no voice, silent track, IG normal REEL) = facts[0] Baku Philharmonic. 18:30 animated 60 fps Arif reel = freshest AZ-angle trend (09:10/15:23 on 18 Nov decide) else facts[1] Caspian seal. No carousels/quizzes/stories. Some pages (Wikipedia Caspian seal, Commons category pages) not fetchable this run; facts below only use details found in ≥ 2 sources unless marked.",
@@ -126,5 +126,72 @@
  },
  "ig_type": "REEL (trial reels suspended)",
  "pending_schedule": null,
- "scheduled_check": "20:48 17 Nov: getScheduledPosts for 18 Nov empty before creating; no pending_schedule in 15–17 Nov JSONs. One post per network created."
+ "scheduled_check": "20:48 17 Nov: getScheduledPosts for 18 Nov empty before creating; no pending_schedule in 15–17 Nov JSONs. One post per network created.",
+ "trend": {
+  "n": "T",
+  "type": "reel",
+  "format": "animated_1830",
+  "cat": "Mədəniyyət",
+  "hook_type": "single story (funnel countdown 503→63→4→1)",
+  "picked_at": "09:12–10:15 Baku 18 Nov (1st trend check)",
+  "source_scan": "18 Nov: WebSearch (trend.az, report.az, apa.az, azertag, azernews, news.az); apa.az + news.az homepages read via fetch; oxu.az served a stale snapshot; t.me/s/oxuaze (no dates); aa.com.tr blocked by robots. Found AZ: Hague film award (16 Nov), Emin İsmayılov Carnegie Hall 1st prize (13 Nov), National Revival Day 17 Nov (political origin, skipped), German FM in Baku (diplomacy, skipped), 41 wedding halls with defects (negative/inspection, skipped), Khojavend keys (post-conflict, skipped), film '44' premiere (war theme, skipped), Sabah 2-0 Slavia (sports). World: Apple/Gmail outages, Bitcoin $64.4k, Jensen Huang return to Nvidia (non-AZ -> killed per SUNDAY DECISIONS 1).",
+  "quota_note": "Sports quota for the week Mon 16–Sun 22 Nov is USED (16 Nov Nəsibov, 17 Nov Andorra–AZ) -> no sports pick today (GARTAL 2026-11-17 TOPICS 1). Culture story with a real AZ angle instead (E8 fallback: freshest AZ culture story of the week).",
+  "subject": "Azerbaijani short fiction film 'The Dance of Triumph' (writer-director Garay Hasan / Qaray Həsən; co-produced by Ədibin Evi (House of Jalaal) and ASAN TV) won 1st place in the main category 'Global Peace, Harmony and Human Rights' of the 2026 Hague International Film Festival, held in The Hague 13–15 Nov. 503 films submitted during the year, 63 films from 23 countries selected; 4 finalists in the category (Azerbaijan, Montenegro 'Obraz/The Tower of Strength', 'Free Fish' Palestine–Portugal, UK 'Bystander'); 13-member jury, unanimous. Film's 7th international success of the 2026 festival season. Based on Yaşar Bünyad's story 'Heyvagülü' (winner of the Mir Cəlal story competition). Reported 16 Nov 11:11 APA, 11:52 news.az/AZERTAC, 12:24 AzerNews. PLOT NOTE: the hero is a war veteran — per AZ POLITICS RULE do NOT tell the war side; tell only the promise to dance 'Heyvagülü' at a wedding. AZ title of the film not confirmed — use the English title in quotes unless 15:23 finds the official AZ title.",
+  "reel_hook": "503 FİLMDƏN 1-Cİ: AZƏRBAYCAN FİLMİ HAAQADA QALİB",
+  "hook_options": [
+   "503 FİLMDƏN 1-Cİ: AZƏRBAYCAN FİLMİ HAAQADA QALİB",
+   "503 → 63 → 4 → 1: HAAQADA QALİB AZƏRBAYCAN FİLMİ",
+   "13 MÜNSİF, 1 SƏS: AZƏRBAYCAN FİLMİ HAAQADA BİRİNCİ",
+   "23 ÖLKƏ, 63 FİLM, 1 QALİB: AZƏRBAYCAN",
+   "7-Cİ MÜKAFAT: AZƏRBAYCAN FİLMİ İNDİ DƏ HAAQADA"
+  ],
+  "reel_beats": [
+   "Haaqa Beynəlxalq Film Festivalına bu il 503 film göndərildi. Onlardan cəmi 63-ü seçildi — 23 ölkədən.",
+   "Əsas kateqoriyada — «Qlobal sülh, harmoniya və insan haqları» — finala 4 film çıxdı: Azərbaycan, Monteneqro, Britaniya və Fələstin–Portuqaliya filmləri.",
+   "13 nəfərlik münsiflər heyəti yekdilliklə qalibi seçdi: Azərbaycanın «The Dance of Triumph» qısametrajlı filmi.",
+   "Filmi Qaray Həsən çəkib. Əsasında Yaşar Bünyadın «Heyvagülü» hekayəsi durur: toyda «Heyvagülü» oynamaq üçün verilmiş bir söz."
+  ],
+  "payoff": "Ən maraqlısı: bu, filmin 2026-cı ildəki 7-ci beynəlxalq uğurudur — Hindistandan Kanadaya qədər festivallarda tanınıb.",
+  "voice_texts": [
+   "Beş yüz üç filmdən birinci! Azərbaycan filmi Haaqada qalib oldu.",
+   "Festivala beş yüz üç film göndərildi. Cəmi altmış üçü seçildi, iyirmi üç ölkədən.",
+   "Əsas kateqoriyada finala dörd film çıxdı.",
+   "On üç münsif yekdilliklə Azərbaycan filmini seçdi.",
+   "Film «Heyvagülü» hekayəsi əsasında çəkilib: toyda «Heyvagülü» oynamaq üçün verilmiş bir söz.",
+   "Ən maraqlısı: bu, filmin bu il yeddinci beynəlxalq uğurudur.",
+   "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
+  ],
+  "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+  "send_line": "📩 Kino sevən dostuna göndər 🎬",
+  "caption": "Haaqa: 503 filmdən birinci — Azərbaycan filmi 🎬\n\nHaaqa Beynəlxalq Film Festivalı (13–15 noyabr) əsas kateqoriyanın — «Qlobal sülh, harmoniya və insan haqları» — qalibini açıqladı: Azərbaycanın «The Dance of Triumph» qısametrajlı filmi. Bu il festivala 503 film göndərilib, 23 ölkədən 63 film seçilib, əsas kateqoriyada 4 film finala çıxıb. 13 nəfərlik münsiflər heyəti qərarı yekdilliklə verib. Filmin rejissoru Qaray Həsəndir, əsasında Yaşar Bünyadın «Heyvagülü» hekayəsi durur. Ən maraqlısı: bu, filmin 2026-cı ildəki 7-ci beynəlxalq uğurudur.\n\n📩 Kino sevən dostuna göndər 🎬\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nSəs: elevenlabs.io\n\n#bilirdinizmi #haaqa #kino #azərbaycanfilmi #azərbaycan",
+  "first_comment": "Son baxdığın Azərbaycan filmi hansıdır? 👇",
+  "visual_ideas": [
+   "Frame 0: a wall of 503 tiny film-strip tiles; big '503' counter top-right that drops 503 → 63 → 4 → 1 as tiles fall away (funnel countdown = progress counter).",
+   "63 tiles regroup into 23 little flag-less country dots on a flat world map (no real flags needed), then shrink to 4 finalist cards labelled AZ / MNE / UK / PSE–POR.",
+   "Jury: 13 seat silhouettes in a row, each raises a card '✓' one by one with a soft tick (13 ticks) -> stamp 'YEKDİLLİKLƏ'.",
+   "Winner card slides to centre with a gold laurel; caption 'Haaqa · 13–15 noyabr'.",
+   "Story beat: a flat wedding-tent icon + a quince flower (heyva gülü) opening in pastel; NO soldiers, uniforms or war imagery.",
+   "Payoff: 7 award pins pop onto the strip one by one (counter 1/7 → 7/7); loop back to '503'."
+  ],
+  "sfx": "film-projector click-tick for the counter, soft whoosh, paper flip, 13 soft ticks for jury, gentle pop; no music",
+  "context_check": "Catch check: it is a mid-size independent festival (not Cannes/Berlin) -> never call it 'the most prestigious', just 'Haaqa Beynəlxalq Film Festivalı'. It's a category win (main category), not 'best film of the festival' overall -> wording says 'əsas kateqoriyada'.",
+  "sources": [
+   "https://en.apa.az/entrepreneurship/azerbaijani-film-wins-hague-international-film-festival-photo-536302",
+   "https://news.az/news/azerbaijani-film-the-dance-of-triumph-wins-top-award-at-the-hague-film-festival",
+   "https://www.azernews.az/culture/267497.html"
+  ],
+  "runners_up": [
+   {
+    "story": "Azerbaijani tenor Emin İsmayılov (b. 1998, Baku) won 1st prize at an international competition at Carnegie Hall, New York, singing Balash's aria from Fikrət Əmirov's opera 'Sevil'",
+    "date": "reported 13 Nov (AzerNews)",
+    "note": "older (5 days); competition name/date not given -> needs a 2nd source before use",
+    "source": "https://www.azernews.az/culture/267373.html"
+   },
+   {
+    "story": "Sabah 2-0 Slavia (Oxu.az Telegram 17 Nov, UEFA match)",
+    "note": "SPORTS — weekly quota used; only if 15:23 confirms it is a big first for an AZ club and nothing else qualifies; CONTEXT CHECK (which competition? youth league?) mandatory"
+   }
+  ],
+  "status": "picked 09:12–10:15; 15:23 re-checks for a fresher AZ story (non-sports)"
+ }
 }

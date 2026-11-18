@@ -1,0 +1,109 @@
+{
+ "date": "2026-11-19",
+ "status": "planned",
+ "format": "v2",
+ "content_format": "quality_reset_2026-11-12",
+ "planned_note": "Planned in the 2026-11-18 09:10 run. Thu 19 Nov: 13:00 static factgen reel (no voice, silent track, IG normal REEL) = facts[0] Carpet Museum. 18:30 animated 60 fps Arif reel = freshest AZ-angle trend (09:10/15:23 on 19 Nov decide; sports quota for 16–22 Nov already used) else facts[1] Baku–Batumi kerosene pipeline. No carousels/quizzes/stories. Climate '9 of 11 zones' was considered and DROPPED (sources say 8 or 9).",
+ "facts": [
+  {
+   "n": 1,
+   "type": "reel",
+   "slot": "13:00",
+   "static": true,
+   "voiced": false,
+   "cat": "Mədəniyyət",
+   "subject": "Azerbaijan National Carpet Museum, Baku seaside park. Founded 1967 (Wikipedia, gpsmycity, Atlas Obscura) on the initiative of carpet artist Latif Karimov (gpsmycity; president.az 'late 1960s'). First exhibition in the Juma Mosque in Icherisheher (Wikipedia, Atlas Obscura; permanent exhibition 1972 per president.az/gpsmycity). Then moved to the former Lenin Museum building (Wikipedia/gpsmycity 1992, Atlas Obscura 1991 -> no year in the reel). New building designed by Austrian architect Franz Janz to look like a rolled carpet (all 4 sources); foundation stone 15 May 2008 (president.az), opened 26 Aug 2014 (Wikipedia, president.az); 'took over six years' (Wikipedia). Collection: more than 10 000 exhibits (Wikipedia; president.az 13 300 / ~15 000 -> say '10 mindən çox'). Largest collection of Azerbaijani carpets in the world (gpsmycity, Atlas Obscura, Wikipedia). 2010: Azerbaijani carpet weaving on UNESCO's Intangible Heritage list (president.az, gpsmycity). NOT used: 'first carpet museum in the world' (only Wikipedia), exact item count, move year.",
+   "title": "Xalça Muzeyi: bükülmüş xalça kimi bina",
+   "text": "Bakıdakı Xalça Muzeyinin binası bükülmüş xalçaya bənzəyir. İçində 10 mindən çox eksponat var.",
+   "reel_hook": "10 000+ EKSPONAT BİR «BÜKÜLMÜŞ XALÇA»NIN İÇİNDƏ",
+   "hook_options": [
+    "10 000+ EKSPONAT BİR «BÜKÜLMÜŞ XALÇA»NIN İÇİNDƏ",
+    "6 İLƏ TİKİLƏN «XALÇA»: BAKININ ƏN QƏRİBƏ BİNASI",
+    "1 XALÇA, 3 ÜNVAN: 1967-DƏN BU GÜNƏ",
+    "DÜNYANIN ƏN BÖYÜK AZƏRBAYCAN XALÇASI KOLLEKSİYASI",
+    "10 000+ EKSPONAT, 1 BİNA: BAKIDA BÜKÜLMÜŞ XALÇA"
+   ],
+   "reel_beats": [
+    "Bakı dənizkənarı parkındakı bu bina bükülmüş xalçaya bənzəyir. Onu avstriyalı memar Frans Yans layihələndirib.",
+    "Xalça Muzeyi 1967-ci ildə yaradılıb. İlk sərgi İçərişəhərdə açılıb.",
+    "Sonra muzey keçmiş Lenin muzeyinin binasına köçdü. 2014-cü ildə isə bu yeni binaya.",
+    "Burada 10 mindən çox eksponat var — bu, dünyada Azərbaycan xalçalarının ən böyük kolleksiyasıdır."
+   ],
+   "payoff": "Ən maraqlısı: «xalça» binanın tikintisi 6 ildən çox çəkdi — təməli 2008-ci ildə qoyuldu, 2014-cü ildə açıldı.",
+   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+   "send_line": "📩 Evində xalça olan dostuna göndər 🧶",
+   "caption": "Xalça Muzeyi: Bakıda bükülmüş xalça kimi bina 🧶\n\nBakı dənizkənarı parkındakı Azərbaycan Milli Xalça Muzeyinin binası bükülmüş xalçaya bənzəyir — onu avstriyalı memar Frans Yans layihələndirib. Muzey 1967-ci ildə yaradılıb, ilk sərgi İçərişəhərdə açılıb, sonra keçmiş Lenin muzeyinin binasına köçüb. 2014-cü ildə yeni binaya keçdi. Burada 10 mindən çox eksponat var — dünyada Azərbaycan xalçalarının ən böyük kolleksiyası. Ən maraqlısı: binanın tikintisi 6 ildən çox çəkib. 2010-cu ildə isə Azərbaycan xalçaçılıq sənəti UNESCO-nun qeyri-maddi mədəni irs siyahısına daxil edilib.\n\n📩 Evində xalça olan dostuna göndər 🧶\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nFoto: Shiva Mardahi / Unsplash\n\n#bilirdinizmi #xalçamuzeyi #bakı #xalça #azərbaycan",
+   "first_comment": "Evinizdə ən köhnə xalça neçə yaşındadır? 👇",
+   "photo": {
+    "path": "fetch/img/2026-11-19_1_carpet_b.jpg",
+    "credit": "Shiva Mardahi / Unsplash",
+    "cy": 0.4,
+    "full": true,
+    "source": "https://unsplash.com/photos/yQRgwhfSA44",
+    "note": "Checked 18 Nov 10:20: 2000x3000 portrait, the golden 'rolled carpet' end with carpet-pattern panels, clearly the Carpet Museum; no watermark/logo. Backups: 2026-11-19_1_carpet_a.jpg (Unsplash Sam/cosmvs, museum's striped side + Flame Towers, landscape, building half in shadow); Commons 'Baku Carpet Museum View.jpg' (SwissTraveller, CC BY-SA 4.0, 4032x3024) and 'Carpet Museum Looks Like A Carpet (221090067).jpeg' (CC BY 3.0) — not fetched."
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Azerbaijan_Carpet_Museum",
+    "https://president.az/en/articles/view/12694",
+    "https://www.gpsmycity.com/attractions/state-carpet-museum-35813.html",
+    "https://atlasobscura.com/places/azerbaijan-national-carpet-museum"
+   ]
+  },
+  {
+   "n": 2,
+   "type": "reel",
+   "slot": "18:30 backup",
+   "motion": true,
+   "fps": 60,
+   "voiced": "Arif",
+   "cat": "Tarix",
+   "subject": "Baku–Batumi kerosene pipeline. Built 1897–1907 (Georgian Encyclopedia, azerbaijans.com; Wikipedia: State Council decision 23 May 1896, first stage 1906, official opening 24 July 1907 in Tiflis, same date SOCAR Midstream). Length 885 km (Wikipedia) / 829 versts ≈ 885 km (SOCAR, azerbaijans.com) / 863 km (Georgian Encyclopedia) -> say '860 km-dən çox'. Carried kerosene (all; Georgian Encyclopedia 'only refined oil products'). Capacity ~980 000 t/yr (Wikipedia) / 960 000 t (Georgian Enc.) / 800 000 t (SOCAR) -> 'ildə 1 milyon tona yaxın'. 'The world's longest kerosene pipeline' when built (Wikipedia, azerbaijans.com). Mainly 8-inch (200 mm) pipe, 16 pumping stations (Wikipedia only -> not in the voice). Crude oil line Baku–Batumi opened 1930 (Wikipedia 30 Apr 1930; Georgian Enc. Feb 1930). NOT used: designer (Shukhov per Wikipedia vs Taghiyev/Naghiyev per SOCAR — disputed), cost, Mendeleev.",
+   "title": "Bakı–Batumi: dünyanın ən uzun kerosin kəməri",
+   "reel_hook": "860+ KM: DÜNYANIN ƏN UZUN KEROSİN KƏMƏRİ BAKIDAN BAŞLAYIRDI",
+   "hook_options": [
+    "860+ KM: DÜNYANIN ƏN UZUN KEROSİN KƏMƏRİ BAKIDAN BAŞLAYIRDI",
+    "10 İL, 860 KM: BAKIDAN QARA DƏNİZƏ KEROSİN ÇAYI",
+    "1 MİLYON TON KEROSİN: 1907-Cİ İLİN REKORD BORUSU",
+    "DÜNYANIN ƏN UZUN KEROSİN KƏMƏRİ: BAKI → BATUMİ",
+    "3 DƏNİZ DEYİL, 1 BORU: XƏZƏRDƏN QARA DƏNİZƏ"
+   ],
+   "reel_beats": [
+    "1897-ci ildə Bakıdan Qara dənizdəki Batumi limanına boru kəməri çəkilməyə başlandı.",
+    "Kəmər 10 ilə tamamlandı və 1907-ci ildə rəsmi açıldı. Uzunluğu 860 kilometrdən çox idi.",
+    "Ondan neft yox, kerosin axırdı — o dövrdə lampaları yandıran yanacaq. İldə 1 milyon tona yaxın.",
+    "Kerosin Batumiyə çatır, oradan gəmilərlə başqa ölkələrə gedirdi."
+   ],
+   "payoff": "Ən maraqlısı: tikiləndə bu, dünyanın ən uzun kerosin kəməri idi. 1930-cu ildə Bakıdan Batumiyə xam neft kəməri də çəkildi.",
+   "voice_texts": [
+    "Səkkiz yüz altmış kilometrdən çox! Dünyanın ən uzun kerosin kəməri Bakıdan başlayırdı.",
+    "Min səkkiz yüz doxsan yeddinci ildə Bakıdan Batumiyə boru çəkilməyə başlandı.",
+    "On il sonra, min doqquz yüz yeddinci ildə kəmər açıldı.",
+    "Ondan neft yox, kerosin axırdı — lampaları yandıran yanacaq. İldə bir milyon tona yaxın.",
+    "Batumidən isə kerosin gəmilərlə dünyaya gedirdi.",
+    "Ən maraqlısı: tikiləndə bu, dünyanın ən uzun kerosin kəməri idi.",
+    "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
+   ],
+   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+   "send_line": "📩 Tarixi sevən dostuna göndər 🛢️",
+   "caption": "Bakı–Batumi: dünyanın ən uzun kerosin kəməri 🛢️\n\n1897-ci ildə Bakıdan Qara dənizdəki Batumi limanına boru kəməri çəkilməyə başlandı. Kəmər 10 ilə tamamlandı və 1907-ci ildə rəsmi açıldı — uzunluğu 860 kilometrdən çox idi. Ondan neft yox, kerosin axırdı: ildə 1 milyon tona yaxın. Batumidən kerosin gəmilərlə başqa ölkələrə gedirdi. Tikiləndə bu, dünyanın ən uzun kerosin kəməri idi. 1930-cu ildə isə Bakıdan Batumiyə xam neft kəməri də çəkildi.\n\n📩 Tarixi sevən dostuna göndər 🛢️\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nSəs: elevenlabs.io\n\n#bilirdinizmi #bakı #batumi #neft #tarix",
+   "first_comment": "Sizcə bu gün Bakıdan ən uzun kəmər hara gedir? 👇",
+   "visual_ideas": [
+    "Frame 0: big '860+ KM' counter; a pipe draws itself across a flat map from Baku (Caspian) to Batumi (Black Sea), km counter rising 0 → 860+.",
+    "Year ticker 1897 → 1907 (10 tick marks) with little workers' silhouettes laying pipe segments.",
+    "A kerosene lamp icon lights up as the pipe fills (liquid amber flowing through), 'NEFT DEYİL — KEROSİN' stamp.",
+    "Barrel/ton counter climbing to '~1 000 000 TON / İL'.",
+    "Batumi port: a flat steam tanker sails off the edge with a whoosh.",
+    "Payoff: gold 'DÜNYA REKORDU · 1907' badge, then a second pipe line '1930 · XAM NEFT' draws beside it; loop back to '860+ KM'."
+   ],
+   "sfx": "soft metallic clank for pipe segments, liquid flow whoosh, tick for counters, ship horn-free whoosh; no music",
+   "context_check": "Catch: there were older/shorter oil pipelines (Nobel 1878, ~9–10 km) — we only claim 'longest KEROSENE pipeline when built'. Length differs by source (863–885 km) -> '860 km-dən çox'. Designer disputed -> not named.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Baku%E2%80%93Batumi_pipeline",
+    "https://georgianencyclopedia.ge/en/form_eng/408",
+    "https://socarmidstream.az/?p=1571",
+    "https://azerbaijans.com/content_781_en.html"
+   ]
+  }
+ ],
+ "pending_schedule": null
+}

@@ -1,3 +1,21 @@
+## GARTAL 2026-11-18 15:17 — 3 NEW FORMATS (Gartal liked all three; "you decide how often … to see how that affects")
+Claude's decision (2-week test, 19 Nov → 2 Dec, then a report to Gartal):
+| day (Baku) | bilirdinizmi                                   | Whyverse                                   |
+| Mon        | 18:30 DATA ANIMATION                           | 19:00 DATA ANIMATION                       |
+| Tue        | 13:00 GUESS THE ANSWER (static photo)          | 23:00-London post GUESS THE ANSWER         |
+| Thu        | 13:00 MYTH vs FACT (static)                    | 19:00 MYTH vs FACT                         |
+| Fri        | 18:30 GUESS THE ANSWER (animated, Arif)        | 19:00 GUESS THE ANSWER                     |
+Other days stay as they are (trends / countdowns; countdown minimum 3 a week still applies — a format day may also be a
+countdown, e.g. "Guess the 3 …"). Topic rules (TOPICS + HOOKS 17 Nov, CONTEXT CHECK, AZ POLITICS RULE) still apply.
+- GUESS THE ANSWER: hook = the question + "Sənin cavabın? 👇" / "Your guess? 👇", show the clue(s), a visible 3-2-1 countdown
+  (≈3 s, a tick sound), then the reveal + one surprising extra fact. First comment asks for guesses. Never trick questions.
+- MYTH vs FACT: frame 0 = the myth in big text with a red ✗ coming ("Hamı belə düşünür…" / "Everyone thinks…"), then
+  "Əslində…" / "Actually…" + the fact with its source on screen. Only myths that many people really believe; source required.
+- DATA ANIMATION: one real dataset, a chart that builds itself (bars race / line grows / map fills) with a running number;
+  the hook is the most shocking number in it; source on screen. No invented or estimated numbers.
+- Log `format` ("guess" | "myth" | "data" | "countdown" | "trend" | "fact") in the day JSON / posts.json for every post.
+- The Sunday reviews compare these formats (views, sends per view, comments) — REPORT only, the 2 Dec review gives Gartal the result.
+
 ## GARTAL 2026-11-17 14:42 — TOPICS + HOOKS (both brands; every task that picks a topic or writes a hook reads this first)
 "What we create is mostly about space or sports. We should be broader … Top 5 most horrifying executions in history — I watched
 the full video. The animation wasn't better than ours, it wasn't even 60 fps. The HOOK was great. Our videos, not a great hook."

@@ -193,5 +193,19 @@
    }
   ],
   "status": "picked 09:12–10:15; 15:23 re-checks for a fresher AZ story (non-sports)"
+ },
+ "reel_1830": {
+  "topic": "Azerbaijani short film 'The Dance of Triumph' (dir. Qaray Həsən; based on Yaşar Bünyad's story 'Heyvagülü') won 1st place in the main category 'Global Peace, Harmony and Human Rights' at the Hague International Film Festival 2026 (13–15 Nov): 503 films submitted, 63 from 23 countries selected, 4 finalists, 13-member jury unanimous; film's 7th international success of 2026.",
+  "picked_at": "14:50 Baku 18 Nov (2nd trend check)",
+  "trend_check_2": "Searched AZ/EN news 18 Nov (trend.az, apa.az, report.az, azernews, azertag): nothing fresher with a positive AZ angle (German FM visit = routine diplomacy; Tokayev honours diaspora member = minor; Dzhioev ranking = sports, quota full; Ørsted Earthshot = no AZ angle). Kept the 09:10 pick.",
+  "context_check": "The festival is an independent festival listed on FilmFreeway (International Film Festival The Hague), NOT Movies That Matter (the big Hague festival) -> no 'biggest/prestigious' framing; voice says 'qısa film' and only the festival's own numbers (503/63/23/4/13). War side of the plot (veteran hero) left out per AZ POLITICS RULE; film title not spoken (AZ title likely 'Zəfər rəqsi' per kinobiz.az, not confirmed).",
+  "sources": [
+   "https://en.apa.az/entrepreneurship/azerbaijani-film-wins-hague-international-film-festival-photo-536302",
+   "https://azertag.az/en/xeber/4510605",
+   "https://www.azernews.az/culture/267497.html",
+   "https://filmfreeway.com/festivals/45279"
+  ],
+  "voice_text": "Beş yüz üç filmdən birinci! Azərbaycan filmi Haaqada qalib oldu. Bu il Haaqa film festivalına beş yüz üç film göndərildi. Cəmi altmış üçü seçildi, iyirmi üç ölkədən. Əsas kateqoriyada finala dörd film çıxdı. On üç münsif yekdilliklə Azərbaycanın qısa filmini seçdi. Ən maraqlısı: bu, filmin bu il yeddinci beynəlxalq uğurudur. Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+  "voice": "pending"
  }
 }

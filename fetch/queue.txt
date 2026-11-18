@@ -534,3 +534,6 @@ search_1113_nemo.json https://commons.wikimedia.org/w/api.php?action=query&forma
 search_philharmonic.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Azerbaijan%20State%20Philharmonic%20Hall%20Baku
 2026-11-18_1_philharmonic_b.jpg https://upload.wikimedia.org/wikipedia/commons/4/48/Azerbaijan_State_Philharmonic_Hall.jpg
 2026-11-18_1_baku_club_old.jpg https://upload.wikimedia.org/wikipedia/commons/3/33/The_Club%2C_Baku_%28Money%2C_Robert_Cotton%29.jpg
+2026-11-19_1_carpet_a.jpg https://images.unsplash.com/photo-1694269949680-007d547b2f0e?crop=entropy&cs=srgb&fm=jpg&q=85&w=2000
+2026-11-19_1_carpet_b.jpg https://images.unsplash.com/photo-1761222856609-c2c04cf9a7c6?crop=entropy&cs=srgb&fm=jpg&q=85&w=2000
+search_carpet_museum.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Azerbaijan%20Carpet%20Museum%20building

@@ -206,6 +206,13 @@
    "https://filmfreeway.com/festivals/45279"
   ],
   "voice_text": "Beş yüz üç filmdən birinci! Azərbaycan filmi Haaqada qalib oldu. Bu il Haaqa film festivalına beş yüz üç film göndərildi. Cəmi altmış üçü seçildi, iyirmi üç ölkədən. Əsas kateqoriyada finala dörd film çıxdı. On üç münsif yekdilliklə Azərbaycanın qısa filmini seçdi. Ən maraqlısı: bu, filmin bu il yeddinci beynəlxalq uğurudur. Bəyən və izlə — hər gün bilmədiyin bir fakt!",
-  "voice": "pending"
+  "voice": "pending",
+  "voice_error": {
+   "at": "2026-11-18 14:53 Baku",
+   "flow_id": "PQiGzMIf0OOLUgCd4gGV",
+   "generation": "qXjrlAi3wm033BGDtEYg (failed)",
+   "message": "Unusual activity has been detected on your account, so Free Tier access has been disabled. ... Please upgrade to a paid subscription to continue.",
+   "decision": "Same block as 15 Nov (fixed then by Gartal logging in). Told Gartal once; retrying every 3 min until 17:40 Baku, then voice=none."
+  }
  }
 }

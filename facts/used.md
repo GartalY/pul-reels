@@ -44,3 +44,4 @@
 - 2026-11-18 13:00: Bakı Filarmoniyası (Monte-Karlo ilhamı, 2 zal 1 səhnə, 1995–2004 qapalı)
 - 2026-11-18 trend (09:10 pick for 18:30): Hague Intl Film Festival — AZ short 'The Dance of Triumph' 1st in main category (503 → 63 films, 23 countries, 13-member jury unanimous, 7th award of 2026)
 - 2026-11-19 (planned): Carpet Museum — rolled-carpet building by Franz Janz, 1967 → 2014, 10 000+ exhibits, built 6+ years (13:00 static) · Baku–Batumi kerosene pipeline 1897–1907, 860+ km, world's longest kerosene line (18:30 animated backup)
+- 2026-11-19 13:00: Beynin 10% mifi (MYTH vs FACT, static) — Carpet Museum moved to spare

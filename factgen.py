@@ -100,14 +100,14 @@ def reel(photo, out, c):
     src = load(photo)
     beats = c.get("beats") or [c["fact"]]
     # v2 (2026-10-19): first 3 s were losing ~70% of viewers -> hook fully visible on frame 0, faster beats, ~12 s total
-    HK, OUT = 2.0, 1.6
+    HK, OUT = c.get("hook_s", 2.0), 1.6   # 2026-11-18: hook_s for MYTH vs FACT (myth must be readable + the red X)
     BTS = [max(2.2, 0.3 * len(b.split()) + 0.6) for b in beats]   # reading time per beat (~3.3 words/s)
     VO = c.get("voice")   # 2026-10-25: optional voice-over, list of mp3s [hook, beat1, ...] from voice.py
     if VO:
         def adur(f): return float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration",
                                                   "-of", "csv=p=0", f], capture_output=True, text=True).stdout)
         D = [adur(f) for f in VO]
-        HK = max(1.5, D[0] + 0.35)
+        HK = max(c.get("hook_s", 1.5), D[0] + 0.35)
         BTS = [max(2.0, D[j + 1] + 0.35) for j in range(len(beats))]
     START = [sum(BTS[:j]) for j in range(len(beats))]
     dur = c.get("dur", HK + sum(BTS) + OUT)
@@ -127,13 +127,31 @@ def reel(photo, out, c):
             col = tuple(int(255 * a) for _ in range(3))
             lines = wrap(d, c["hook"], F("Black", 84), W - 100)
             if c.get("hook_bg"):   # 2026-10-22: dark band behind the hook for bright/busy photos
-                box = (30, 200, W - 30, 230 + len(lines) * 108 + 20)
+                box = (30, 146 if c.get("myth") else 200, W - 30,
+                       230 + len(lines) * 108 + (20 + 40 + 240 + 110 if c.get("myth") else 20))
                 reg = fr.crop(box)
                 fr.paste(Image.blend(reg, Image.new("RGB", reg.size, (12, 14, 22)), 0.72 * a), box[:2])
                 d = ImageDraw.Draw(fr)
             for k, ln in enumerate(lines):
                 d.text(((W - d.textlength(ln, font=F("Black", 84))) / 2, 230 + k * 108), ln, font=F("Black", 84),
                        fill=tuple(int(x * a) for x in GOLD))
+            if c.get("myth"):   # 2026-11-18 MYTH vs FACT: label above the myth, red X stamps in at myth_x seconds
+                RED = (235, 64, 52)
+                lab = c.get("myth_label", "HAMI BELƏ DÜŞÜNÜR:"); fl = F("Black", 40)
+                lw = d.textlength(lab, font=fl)
+                d.rounded_rectangle([(W - lw) / 2 - 24, 156, (W + lw) / 2 + 24, 156 + 58], 29, fill=tuple(int(x * a) for x in RED))
+                d.text(((W - lw) / 2, 161), lab, font=fl, fill=tuple(int(x * a) for x in WHITE))
+                tx = t - c.get("myth_x", 0.9)
+                if tx > 0:
+                    sc = 1.0 + 0.6 * (1 - ease(tx / 0.18))   # stamp: starts big, slams to size
+                    r = int(120 * sc); cx0, cy0 = W // 2, 230 + len(lines) * 108 + 40 + 120
+                    d.ellipse([cx0 - r, cy0 - r, cx0 + r, cy0 + r], fill=tuple(int(x * a) for x in RED))
+                    q = int(r * 0.5); wdt = max(8, int(r * 0.2))
+                    d.line([cx0 - q, cy0 - q, cx0 + q, cy0 + q], fill=tuple(int(x * a) for x in WHITE), width=wdt)
+                    d.line([cx0 - q, cy0 + q, cx0 + q, cy0 - q], fill=tuple(int(x * a) for x in WHITE), width=wdt)
+                    if tx > 0.2:
+                        m = c.get("myth_word", "MİF"); fm = F("Black", 64)
+                        d.text(((W - d.textlength(m, font=fm)) / 2, cy0 + r + 20), m, font=fm, fill=tuple(int(x * a) for x in RED))
         s = t - hook_end
         if s > 0:
             k = max(j for j in range(len(beats)) if START[j] <= s); sb = s - START[k]

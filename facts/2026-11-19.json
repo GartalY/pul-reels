@@ -1,6 +1,6 @@
 {
  "date": "2026-11-19",
- "status": "planned",
+ "status": "13:00 scheduled (MYTH vs FACT static, no voice, silent track, IG REEL); 18:30 animated Arif reel = 14:47/15:23 tasks",
  "format": "v2",
  "content_format": "quality_reset_2026-11-12",
  "planned_note": "Planned in the 2026-11-18 09:10 run. Thu 19 Nov: 13:00 static factgen reel (no voice, silent track, IG normal REEL) = facts[0] Carpet Museum. 18:30 animated 60 fps Arif reel = freshest AZ-angle trend (09:10/15:23 on 19 Nov decide; sports quota for 16–22 Nov already used) else facts[1] Baku–Batumi kerosene pipeline. No carousels/quizzes/stories. Climate '9 of 11 zones' was considered and DROPPED (sources say 8 or 9).",
@@ -9,6 +9,77 @@
    "n": 1,
    "type": "reel",
    "slot": "13:00",
+   "static": true,
+   "voiced": false,
+   "format": "myth",
+   "cat": "İnsan bədəni",
+   "subject": "10% of the brain myth. SciAm (Gordon): 'we use virtually every part of the brain… active almost all the time'; brain ~3% of body weight, 20% of energy. MIT McGovern (2024): 'two percent of our body weight… 20 percent of our calories'; 'we use our entire brain every day'; 'Even while we sleep, our entire brain remains intensely active'; William James 1907 'The Energies of Men': 'we are making use of only a small part of our possible mental and physical resources' (no 10% figure); Einstein quote undocumented. -> 2–3% weight, 20% energy.",
+   "title": "Beynin 10 faizi mifi",
+   "reel_hook": "BEYNİMİZİN CƏMİ 10 FAİZİNİ İŞLƏDİRİK",
+   "myth_label": "HAMI BELƏ DÜŞÜNÜR:",
+   "reel_beats": [
+    "Bu, mifdir. Gün ərzində beynin demək olar ki, hər hissəsi işləyir.",
+    "Beyin skanları bunu göstərir. Hətta yuxuda da beyin dayanmadan işləyir.",
+    "Beyin bədən çəkisinin cəmi 2–3 faizidir. Amma bədənin enerjisinin 20 faizini o işlədir.",
+    "Mifin kökü 1907-ci ilə bağlanır. Psixoloq Uilyam Ceyms yazmışdı ki, imkanlarımızın kiçik hissəsini işlədirik.",
+    "Ən maraqlısı: Ceymsin sözlərində heç bir «10 faiz» yoxdur.",
+    "Mənbə: Scientific American, MIT McGovern İnstitutu"
+   ],
+   "hook_options": [
+    "BEYNİMİZİN CƏMİ 10 FAİZİNİ İŞLƏDİRİK (myth + ✗)",
+    "10 FAİZ MİFİ: BEYNİN HAMISI İŞLƏYİR",
+    "2% ÇƏKİ, 20% ENERJİ: BEYİN TƏNBƏL DEYİL",
+    "1907-Cİ İLİN MİFİ: «BEYNİN 10 FAİZİ»",
+    "BEYNİN 90 FAİZİ YATIR? YOX!"
+   ],
+   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+   "send_line": "📩 «Beynimizin 10 faizini işlədirik» deyən dostuna göndər 🧠",
+   "caption": "Beynin 10 faizi mifi: əslində beynimizin hamısı işləyir 🧠\n\n«Beynimizin cəmi 10 faizini işlədirik» — bunu çox adam eşidib. Amma bu, mifdir. Beyin skanları göstərir ki, gün ərzində beynin demək olar ki, hər hissəsi işləyir, hətta yuxuda da. Beyin bədən çəkisinin cəmi 2–3 faizidir, amma bədənin enerjisinin 20 faizini o işlədir. Mifin kökü 1907-ci ilə bağlanır: psixoloq Uilyam Ceyms yazmışdı ki, imkanlarımızın kiçik hissəsini işlədirik. Ən maraqlısı: onun sözlərində heç bir «10 faiz» yoxdur.\n\nMənbə: Scientific American, MIT McGovern İnstitutu\n\n📩 «Beynimizin 10 faizini işlədirik» deyən dostuna göndər 🧠\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nFoto: TSD Studio / Unsplash\n\n#bilirdinizmi #beyin #mif #insanbədəni #faktlar",
+   "first_comment": "Sən də bu mifə inanırdın? Bəli, yoxsa xeyr? 👇",
+   "photo": {
+    "path": "fetch/img/2026-11-19_1_brain_b.jpg",
+    "credit": "TSD Studio / Unsplash",
+    "cy": 0.5,
+    "full": true,
+    "source": "https://unsplash.com/photos/9_jvKRbNdTM",
+    "note": "2000x3556 3D render, glowing brain over a hand, dark bg; no watermark. Backup: 2026-11-19_1_brain_a.jpg (Marek Piwnicki, anatomical head model, B/W)."
+   },
+   "sources": [
+    "https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/",
+    "https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/"
+   ],
+   "context_check": "Not a trick: 'not all regions fire at the same moment' is true (SciAm) — so we say 'gün ərzində… demək olar ki, hər hissəsi'. Weight share 2% vs 3% by source -> '2–3 faiz'.",
+   "build": {
+    "file": "out/2026-11-19/1_reel.mp4",
+    "dur_s": 27.1,
+    "voice": null,
+    "sound": "pure silence (volumedetect max -91.0 dB)",
+    "spec": {
+     "hook": "BEYNİMİZİN CƏMİ 10 FAİZİNİ İŞLƏDİRİK",
+     "myth": true,
+     "myth_x": 0.9,
+     "hook_s": 3.0,
+     "hook_bg": true,
+     "first_pill": "ƏSLİNDƏ…",
+     "beats": [
+      "Bu, mifdir. Gün ərzində beynin demək olar ki, hər hissəsi işləyir.",
+      "Beyin skanları bunu göstərir. Hətta yuxuda da beyin dayanmadan işləyir.",
+      "Beyin bədən çəkisinin cəmi 2–3 faizidir. Amma bədənin enerjisinin 20 faizini o işlədir.",
+      "Mifin kökü 1907-ci ilə bağlanır. Psixoloq Uilyam Ceyms yazmışdı ki, imkanlarımızın kiçik hissəsini işlədirik.",
+      "Ən maraqlısı: Ceymsin sözlərində heç bir «10 faiz» yoxdur.",
+      "Mənbə: Scientific American, MIT McGovern İnstitutu"
+     ],
+     "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+     "seed": 19,
+     "cy": 0.5
+    },
+    "checked": "20:55 18 Nov: frame sheets x2 + full-res top crop: myth label + hook on frame 0, red ✗ + MİF at 0.9 s, AZ letters fine, beats in safe zone, NBSP in numbers, source beat, CTA pill last. v1 fixed: label overlapped handle, beat 4 too long (split)."
+   }
+  },
+  {
+   "n": 3,
+   "type": "reel",
+   "slot": "spare (moved by 20:45 run: Thu 13:00 = MYTH vs FACT per GARTAL 2026-11-18 15:17 format table)",
    "static": true,
    "voiced": false,
    "cat": "Mədəniyyət",
@@ -105,5 +176,23 @@
    ]
   }
  ],
- "pending_schedule": null
+ "pending_schedule": null,
+ "format_log": {
+  "13:00": "myth",
+  "18:30": "trend/fact (decided 19 Nov)"
+ },
+ "media": {
+  "13:00 Beyin 10% mifi": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-19_1300_brain_myth_silent.mp4"
+ },
+ "metricool": {
+  "13:00 reel (Beynin 10% mifi, MYTH static, silent, IG REEL)": 433116818
+ },
+ "tiktok": {
+  "13:00 Beyin mifi": 433117049
+ },
+ "youtube": {
+  "13:00 Beyin mifi": 433116851
+ },
+ "ig_type": "REEL (trial reels suspended)",
+ "scheduled_check": "20:58 18 Nov: getScheduledPosts for 19 Nov empty before creating; no pending_schedule in 16–19 Nov JSONs. One post per network created (TikTok 1st try failed 'title required', retried with title -> 1 post)."
 }

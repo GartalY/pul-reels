@@ -45,5 +45,5 @@
 - 2026-11-18 trend (09:10 pick for 18:30): Hague Intl Film Festival — AZ short 'The Dance of Triumph' 1st in main category (503 → 63 films, 23 countries, 13-member jury unanimous, 7th award of 2026)
 - 2026-11-19 (planned): Carpet Museum — rolled-carpet building by Franz Janz, 1967 → 2014, 10 000+ exhibits, built 6+ years (13:00 static) · Baku–Batumi kerosene pipeline 1897–1907, 860+ km, world's longest kerosene line (18:30 animated backup)
 - 2026-11-19 13:00: Beynin 10% mifi (MYTH vs FACT, static) — Carpet Museum moved to spare
-- 2026-11-19 trend (09:10 pick for 18:30): GTA VI launch 19 Nov — 13 years after GTA V, delayed twice, Metacritic 99 (114 critics), GTA V $1 bn in 3 days, 230 m+ sold (~22× AZ population)
+- 2026-11-19 trend (09:10 pick for 18:30, rewritten after Gartal's note): GTA VI launch — Alim Qasımov + Fərqanə Qasımova 'Say It Right' (Nelly Furtado cover) on Kaleidoscope FM, Metacritic 99, UNESCO prize 1999
 - 2026-11-20 (planned): Carpet Museum rolled-carpet building (13:00 static, 19 Nov spare) · manat 2006: 1 new = 5 000 old, 50 000 note, Kalina also designed euro notes (18:30 GUESS animated backup)

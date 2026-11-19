@@ -169,6 +169,15 @@ Gartal paid for one small promotion on bilirdinizmi: $2 Instagram + $2 TikTok. D
 must mark follower/view changes from 15 Nov onward as "includes paid promo" and not count them as organic growth. Compare the
 retention of promo-gained followers (do they keep watching?) with organic ones. WEEKLY BOOST (Gartal 2026-11-15 01:18): from now on, ONE $2 Instagram boost per week (~$8/month), done by Gartal himself in the app (Claude never pays or touches payment). (UPDATED 2026-11-15 21:40: Gartal picks the reel himself — the review does NOT pick one; see CORE SETUP.) Track each boost: cost, reel, followers gained, and whether those followers still watch a week later. If two boosts in a row bring followers who don't watch, recommend stopping. TikTok boosts only if Gartal asks.
 
+## AZ ANGLE INSIDE WORLD STORIES (Gartal 2026-11-19: "gta 6 includes a radio song with 2 azerbaijani singers, search for that. It is bad that you miss these kinds of opportunities")
+Miss on 19 Nov: the 09:10 run picked GTA VI as a "non-AZ" story and never found that Alim Qasımov + Fərqanə Qasımova are on its radio —
+oxu.az, axar.az, musavat, ednews all had it. From now on, for EVERY big world story (game/film/album launches, tournaments, awards,
+tech launches, summits) BEFORE calling it non-AZ, run at least these searches and read the AZ results:
+"<story> Azərbaycan", "<story> azərbaycanlı", "<story> Azerbaijani", "<story> Baku/Bakı", and check oxu.az / axar.az / musavat.com /
+ednews.net / publika.az headlines for the story name. Look for: AZ people in it (singers, actors, players, engineers, voice actors),
+AZ places/music/brands shown, AZ firsts, AZ-language versions. If found, THAT is the hook (world story + AZ surprise).
+Log the searches in `trend.source_scan`.
+
 ## TREND FRESHNESS (Gartal 2026-11-12: "make sure it's a new trend, something that happened yesterday or today … we are always away from the trends")
 The 18:30 trend reel must be about something from the last 24–48 h that people in Azerbaijan are talking about NOW. 09:10 picks it, 15:23 re-checks the news
 (2nd check of the day) and swaps if something hotter broke since morning. Big world stories that are everywhere in AZ feeds (e.g. Nvidia/Jensen Huang scandal,

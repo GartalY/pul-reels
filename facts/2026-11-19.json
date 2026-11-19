@@ -200,64 +200,67 @@
   "type": "reel",
   "format": "animated_1830",
   "content_format": "trend",
-  "cat": "Texnologiya",
-  "hook_type": "single story (13-year wait + records ladder)",
-  "picked_at": "09:11–09:50 Baku 19 Nov (1st trend check)",
+  "cat": "Musiqi",
+  "hook_type": "single story (world launch + AZ surprise inside)",
+  "picked_at": "09:10–09:50 Baku 19 Nov (GTA VI generic), REWRITTEN ~10:30 after Gartal pointed out the AZ angle",
   "source_scan": "19 Nov: WebSearch (trend.az, report.az, apa.az, azertag, azernews, oxu.az) + apa.az homepage read via fetch (18–19 Nov headlines). AZ found: MFA vs France statement (politics, skipped), resettlement convoy Jabrayil/Zangilan (post-conflict, skipped), Pashinyan border delimitation (conflict-adjacent, skipped), State Committee flag-in-Manhattan denial (diaspora dispute, skipped), road crashes Gazakh/Barda (tragedy, local, skipped), Shusha ECO tourism-capital closing (Karabakh, skipped), APA TV 18 Nov 19:44 unusual 'Chinese' fruit tree in Lankaran (viral, thin — runner-up), Boğaziçi AZ heritage event (minor), UniDestin AI education platform (minor). World: GTA VI launch 19 Nov (everywhere, PlayStation outages headline on apa.az 00:12), Putin–Trump meeting, US–Iran strikes/Hormuz tanker (war, skipped), Bitcoin ~$63k, global stocks falling.",
-  "rule_note": "Non-AZ pick. SUNDAY DECISIONS 1 (review, 15 Nov) kills non-AZ 18:30 trends, but Gartal's own TREND FRESHNESS line (12 Nov) and this task's prompt say big world stories everywhere in AZ feeds count, and WHO DECIDES says Gartal's lines beat review lines. GTA VI launch day is the single biggest entertainment story today (AZ outlets cover it: apa.az, azernews) and today there is no fresh AZ story with a fact angle that passes AZ POLITICS RULE. Topic = technology/money (not space/sports, quota OK). 15:23: if a real AZ story breaks, swap to it (E8); otherwise ship this. Logged as format 'trend' for E8 as a non-AZ data point.",
+  "rule_note": "NOW HAS A REAL AZ ANGLE (Gartal 19 Nov: 'gta 6 includes a radio song with 2 azerbaijani singers … It is bad that you miss these kinds of opportunities'). Alim Qasımov + daughter Fərqanə Qasımova sing a cover of Nelly Furtado's 'Say It Right' on the in-game radio Kaleidoscope FM — Azerbaijan IS in the story, so SUNDAY DECISIONS 1 / E8 are satisfied. 15:23: keep unless something bigger with an AZ angle breaks.",
   "quota_note": "Week Mon 16–Sun 22 Nov: sports 2/2 used (16, 17 Nov), space 0 — this is technology, OK.",
-  "subject": "Grand Theft Auto VI (Rockstar Games / Take-Two) released 19 Nov 2026 on PS5 and Xbox Series X|S (PlayStation Blog 18 Nov; Wikipedia; Forbes 18 Nov). GTA V came out 17 Sep 2013 -> 13 years between main games (Wikipedia). First trailer Dec 2023 promised 2025; delayed (May 2025) to 26 May 2026, then (Nov 2025) to 19 Nov 2026 (Wikipedia; widely reported). Metacritic critic score 99 from 114 reviews (Forbes 18 Nov; outputlag/martincid roundups also 99). GTA V: ~$800 m on day one, $1 bn in 3 days, Guinness records 2013 (Guinness World Records 2013, CBS, GamesBeat, MCV). GTA V sold-in over 230 million units (Take-Two Q1 FY27, Game Developer 7 Aug 2026; Outlook Respawn). AZ population ~10.27 million (azertag/report.az 2026) -> 230 m ≈ 22× AZ population. Trailer 1: ~90 m YouTube views in 24 h (Push Square, Kotaku) — not in the voice. NOT used: $1.5 bn pre-sales (estimate, source unnamed), budget $1–2 bn (unverified rumour), price ($79.99 only in Wikipedia summary), Gulf ban rumours.",
-  "reel_hook": "13 İL GÖZLƏNTİ: GTA VI NƏHAYƏT ÇIXDI",
+  "subject": "GTA VI released 19 Nov 2026 (PS5, Xbox Series X|S; PlayStation Blog, Wikipedia, Forbes). Metacritic critic score 99 from 114 reviews (Forbes 18 Nov). 13 years after GTA V (2013). In-game radio station Kaleidoscope FM (GTABase; Tamoor Hussain: 'covers of popular songs from around the world') plays Nelly Furtado's 'Say It Right' sung by Azerbaijani mugham singers Alim Qasımov and his daughter Fərqanə Qasımova (GameSpot article 'GTA 6's Best Song Is A Nelly Furtado Cover From Azerbaijan' by Tamoor Hussain; his X/Bluesky post 18 Nov 11:34 UTC: 'I have been obsessed with this version'; AZ press 19 Nov: ednews 11:06 with Qasımov's statement, oxu.az, axar.az, musavat, publika, redaktor, news24). Qasımov on social media (ednews): «Mahnımız Rockstar Games ilə rəsmi əməkdaşlığımız çərçivəsində istifadə olunur». Alim Qasımov: born 1957 Shamakhi district, IMC–UNESCO Music Prize 1999, People's Artist 1993 (Wikipedia). NOT used: cover's recording year (unknown), whether the cover is sung in Azerbaijani (unconfirmed), pre-sales/budget estimates.",
+  "reel_hook": "13 İL GÖZLƏNİLƏN GTA VI-DA ALİM QASIMOVUN SƏSİ",
   "hook_options": [
-   "13 İL GÖZLƏNTİ: GTA VI NƏHAYƏT ÇIXDI",
-   "99 BAL, 13 İL: GTA VI BU GÜN ÇIXDI",
-   "3 GÜNDƏ 1 MİLYARD $: GTA-NIN DƏHŞƏTLİ REKORDU",
-   "230 MİLYON NÜSXƏ — İNDİ GTA VI",
-   "13 İL, 2 TƏXİR, 1 GÜN: GTA VI ÇIXDI"
+   "13 İL GÖZLƏNİLƏN GTA VI-DA ALİM QASIMOVUN SƏSİ",
+   "2 AZƏRBAYCANLI SƏS DÜNYANIN ƏN GÖZLƏNİLƏN OYUNUNDA",
+   "GTA VI-DA SÜRPRİZ: ATA VƏ QIZ QASIMOVLAR",
+   "99 BALLIQ OYUNDA AZƏRBAYCAN MUĞAMI",
+   "13 İL, 1 OYUN, 2 AZƏRBAYCANLI SƏS"
   ],
   "reel_beats": [
-   "GTA V 2013-cü ildə çıxmışdı. Növbəti hissəni oyunçular düz 13 il gözlədi.",
-   "GTA VI əvvəl 2025-ci ilə vəd edilmişdi. Sonra iki dəfə təxirə salındı. Nəhayət, bu gün — 19 noyabrda çıxdı.",
-   "Tənqidçilərin rəyləri artıq gəlib: Metacritic-də 114 rəyə görə 99 bal.",
-   "Gözlənti niyə bu qədər böyükdür? GTA V ilk gün 800 milyon, 3 gündə isə 1 milyard dollar qazanmışdı."
+   "GTA VI bu gün çıxdı — oyunçular onu 13 il gözləyirdi. Tənqidçilər oyuna 99 bal verib.",
+   "Oyundakı «Kaleidoscope FM» radiosunda böyük sürpriz var: Alim Qasımov və qızı Fərqanə Qasımova oxuyur.",
+   "Onlar Nelli Furtadonun «Say It Right» mahnısını ifa edir. GameSpot jurnalisti bu versiyanı oyunun ən yaxşı mahnısı adlandırıb.",
+   "Alim Qasımov özü yazıb: «Mahnımız Rockstar Games ilə rəsmi əməkdaşlığımız çərçivəsində istifadə olunur»."
   ],
-  "payoff": "Ən maraqlısı: GTA V 230 milyon nüsxədən çox satılıb. Bu, Azərbaycan əhalisindən 22 dəfə çoxdur.",
+  "payoff": "Ən maraqlısı: Alim Qasımov 1999-cu ildə UNESCO-nun Musiqi Mükafatını alıb. İndi onun səsini milyonlarla GTA oyunçusu eşidəcək.",
   "voice_texts": [
-   "On üç il gözlənti bitdi! GTA Altı nəhayət çıxdı.",
-   "GTA Beş iki min on üçdə çıxmışdı. Növbəti hissəni düz on üç il gözlədik.",
-   "Oyun iki dəfə təxirə salındı. Nəhayət, bu gün çıxdı.",
-   "Tənqidçilər doxsan doqquz bal verdi.",
-   "GTA Beş isə üç gündə bir milyard dollar qazanmışdı.",
-   "Ən maraqlısı: GTA Beş iki yüz otuz milyondan çox satılıb. Bu, Azərbaycan əhalisindən iyirmi iki dəfə çoxdur.",
+   "On üç il gözlənilən GTA Altıda Alim Qasımovun səsi var!",
+   "Oyun bu gün çıxdı. Tənqidçilər ona doxsan doqquz bal verdi.",
+   "Oyunun radiosunda Alim Qasımov və qızı Fərqanə Qasımova oxuyur.",
+   "Onlar Nelli Furtadonun «Say It Right» mahnısını ifa edir.",
+   "GameSpot bu versiyanı oyunun ən yaxşı mahnısı adlandırdı.",
+   "Ən maraqlısı: Alim Qasımov min doqquz yüz doxsan doqquzda UNESCO-nun Musiqi Mükafatını alıb. İndi onu milyonlarla oyunçu eşidəcək.",
    "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
   ],
   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
-  "send_line": "📩 GTA gözləyən dostuna göndər 🎮",
-  "caption": "GTA VI bu gün çıxdı: 13 illik gözlənti bitdi 🎮\n\nGTA V 2013-cü ildə çıxmışdı. Yeni hissə — GTA VI — əvvəl 2025-ci ilə vəd edilmişdi, iki dəfə təxirə salındı və nəhayət, 19 noyabrda PlayStation 5 və Xbox Series X|S üçün çıxdı. Tənqidçilər Metacritic-də 114 rəyə görə ona 99 bal verib. Gözlənti niyə bu qədər böyükdür? GTA V ilk gün 800 milyon, 3 gündə 1 milyard dollar qazanmışdı. Ən maraqlısı: GTA V 230 milyon nüsxədən çox satılıb — Azərbaycan əhalisindən 22 dəfə çox.\n\n📩 GTA gözləyən dostuna göndər 🎮\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nSəs: elevenlabs.io\n\n#bilirdinizmi #gta6 #gtavi #oyun #playstation",
-  "first_comment": "GTA VI-ni bu gün oynayacaqsan, yoxsa gözləyəcəksən? 👇",
-  "youtube_title": "GTA VI bu gün çıxdı: 13 illik gözlənti, 99 bal #shorts",
+  "send_line": "📩 GTA oynayan dostuna göndər — radioda Alim Qasımovu axtarsın 🎮",
+  "caption": "Alim Qasımov GTA VI-da: ata və qızın səsi oyunun radiosunda 🎮🎶\n\nGTA VI bu gün çıxdı — 13 il gözlənilən oyun, tənqidçilərdən 99 bal. Oyundakı «Kaleidoscope FM» radiosunda Alim Qasımov və qızı Fərqanə Qasımova Nelli Furtadonun «Say It Right» mahnısını ifa edir. GameSpot jurnalisti bu versiyanı oyunun ən yaxşı mahnısı adlandırıb. Alim Qasımov yazıb: «Mahnımız Rockstar Games ilə rəsmi əməkdaşlığımız çərçivəsində istifadə olunur». Ən maraqlısı: o, 1999-cu ildə UNESCO-nun Musiqi Mükafatını alıb — indi onun səsini milyonlarla oyunçu eşidəcək.\n\n📩 GTA oynayan dostuna göndər — radioda Alim Qasımovu axtarsın 🎮\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nSəs: elevenlabs.io\n\n#bilirdinizmi #alimqasımov #gta6 #muğam #azərbaycan",
+  "first_comment": "Oyunda bu mahnını eşitdin? Hansı radiodan? 👇",
+  "youtube_title": "Alim Qasımov GTA VI-da: Fərqanə Qasımova ilə «Say It Right» #shorts",
   "visual_ideas": [
-   "Frame 0: big '13' counter (years) over a flat code-drawn game controller; calendar pages 2013 → 2026 flip fast in the background (one per ~0.3 s), counter ticks up 0 → 13.",
-   "Delay beat: a release-date sticker '2025' gets a red stamp 'TƏXİR', slides off; '26.05.2026' sticker → stamp again; '19.11.2026' lands with a thud + green tick.",
-   "Score beat: a review meter fills 0 → 99 with a running number; 114 tiny review cards stack up behind it.",
-   "Money beat: dollar-bill stacks grow on a 3-day timeline (Day 1: $800 m, Day 3: $1 bn) with a bar race.",
-   "Payoff: a crowd of 230 million dots vs a small Azerbaijan map outline filled with 10 million dots; the GTA crowd overflows it 22 times (counter ×1 → ×22).",
-   "Look: neon sunset palette (pink/orange/teal) + palm silhouettes as a generic 'Miami' nod; NO Rockstar logo, NO game art, NO characters, NO weapons/violence (18+ game). Loop: last frame '22×' → back to '13'."
+   "Frame 0: big '13' (years) + 'GTA VI' text over a flat code-drawn car-radio dial; the needle sweeps and stops on 'KALEIDOSCOPE FM' with a click.",
+   "Score beat: review meter fills 0 → 99 with a running number.",
+   "Reveal: two SILHOUETTES (1g rule) step out of the radio: a man with a daf frame drum (Alim) and a woman with long hair (Fərqanə); label 'ATA + QIZ'.",
+   "Song card: a cassette/track card «Say It Right» — orijinal: Nelli Furtado; arrow to 'Alim & Fərqanə Qasımova'; a gold 'ƏN YAXŞI MAHNI — GameSpot' badge stamps on.",
+   "Quote card: Qasımov's line in quote marks, word by word.",
+   "Payoff: UNESCO 1999 medal pops, then a world map lighting up with millions of tiny player dots (counter grows) — loop to '13'.",
+   "Look: neon sunset palette + palm silhouettes; NO Rockstar logo/game art/characters, NO weapons. DO NOT play the song or any music (copyright + NO MUSIC ON BILIRDINIZMI) — voice + soft SFX only."
   ],
   "sfx": "tick (counter), whoosh (calendar), thud (date stamp), impact (99 lands), click (cards); no music, no tonal stings.",
-  "context_check": "Catches: (1) 99 is the CRITIC score taken at the embargo (Forbes); early Metacritic USER score was mixed (Men's Journal 16 Nov, 6.5 from 5 user reviews pre-launch) -> say 'tənqidçilər', never 'hamı'. (2) Console only — no PC version yet -> caption names PS5 + Xbox Series X|S. (3) GTA V '230 million' is sold-in units (Take-Two) -> 'satılıb' is the common wording. (4) Pre-sales/budget figures are estimates -> not used. (5) 18+ game -> no violence on screen, no 'play it' push to kids.",
+  "context_check": "Catches: (1) It is a COVER of a Nelly Furtado song, not their own song — say so. (2) 'Best song' is one GameSpot writer's opinion -> 'GameSpot jurnalisti … adlandırıb', not a fact. (3) 99 = critic score. (4) Don't claim the cover is in Azerbaijani or give a recording year (unverified). (5) 18+ game -> no violence on screen.",
   "language_check": "Read aloud 19 Nov 09:50: short sentences, 'təxirə salındı' (not 'ertələndi'), 'nüsxə', 'rəy', 'bal'; numbers with nbsp on images (230 milyon).",
   "sources": [
+   "https://www.gamespot.com/articles/gta-6s-best-song-is-a-nelly-furtado-cover-from-azerbaijan/",
+   "https://bsky.app/profile/tamoorh.com/post/3n2lhmsnypk24",
+   "https://ednews.net/alim-qasimovun-ifasi-gta-6-da-seslenecek-xalq-artistinden-ilk-aciqlama/",
+   "https://oxu.az/cemiyyet/alim-qasimovun-ifasi-dunyaca-meshur-oyunda-video",
+   "https://musavat.com/news/milyonlarin-gozlediyi-oyunda-surpriz-alim-qasimovun-ifasi-gta-6-da-video_1305692.html",
+   "https://www.gtabase.com/gta-6/radio-stations/kaleidoscope-fm",
+   "https://en.wikipedia.org/wiki/Alim_Qasimov",
+   "https://en.wikipedia.org/wiki/Farghana_Qasimova",
    "https://blog.playstation.com/2026/11/18/grand-theft-auto-vi-launches-tomorrow-november-19/",
    "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
    "https://www.forbes.com/sites/siladityaray/2026/11/18/grand-theft-auto-6-launches-to-rave-reviews-over-15-billion-in-estimated-pre-sales/",
-   "https://outputlag.com/featured-slider/gta-6-review-roundup/",
-   "https://www.guinnessworldrecords.com/news/2013/10/confirmed-grand-theft--auto-breaks-six-sales-world-records-51900",
-   "https://mcvuk.com/business-news/gta-v-makes-1bn-in-three-days/",
-   "https://www.gamedeveloper.com/business/gta-v-surpasses-230-million-sales-months-before-gta-vi-touches-down",
-   "https://respawn.outlookindia.com/gaming/gaming-news/gta-v-crosses-230m-sales-as-gta-vi-nears-release",
-   "https://report.az/en/domestic-politics/azerbaijan-population-reaches-10-26-million",
-   "https://azertag.az/en/xeber/azerbaijans_population_reaches_10276566-4417455"
+   "https://outputlag.com/featured-slider/gta-6-review-roundup/"
   ],
   "runners_up": [
    {
@@ -271,6 +274,6 @@
     "todo_1523": "only if nothing fresher; get competition name + numbers from 2 sources."
    }
   ],
-  "status": "picked 09:50; 15:23 re-check decides"
+  "status": "picked; rewritten 19 Nov after Gartal's note; 15:23 re-check keeps unless bigger AZ story"
  }
 }

@@ -1,0 +1,130 @@
+{
+ "date": "2026-11-20",
+ "status": "planned",
+ "format": "v4",
+ "content_format": "quality_reset_2026-11-12",
+ "planned_note": "Planned in the 2026-11-19 09:10 run. Fri 20 Nov: 13:00 static factgen reel (no voice, silent track, IG normal REEL) = facts[0] Carpet Museum (unaired 19 Nov spare, photo ready). 18:30 = GUESS THE ANSWER animated 60 fps Arif reel (GARTAL 2026-11-18 format table: Fri 18:30 guess) — facts[1] manat 5 000 → 1; if 20 Nov 09:10 finds a fresh AZ story, tell it as a guess-the-answer instead. No carousels/quizzes/stories.",
+ "facts": [
+  {
+   "n": 1,
+   "type": "reel",
+   "slot": "13:00",
+   "static": true,
+   "voiced": false,
+   "cat": "Mədəniyyət",
+   "subject": "Azerbaijan National Carpet Museum, Baku seaside park. Founded 1967 (Wikipedia, gpsmycity, Atlas Obscura) on the initiative of carpet artist Latif Karimov (gpsmycity; president.az 'late 1960s'). First exhibition in the Juma Mosque in Icherisheher (Wikipedia, Atlas Obscura; permanent exhibition 1972 per president.az/gpsmycity). Then moved to the former Lenin Museum building (Wikipedia/gpsmycity 1992, Atlas Obscura 1991 -> no year in the reel). New building designed by Austrian architect Franz Janz to look like a rolled carpet (all 4 sources); foundation stone 15 May 2008 (president.az), opened 26 Aug 2014 (Wikipedia, president.az); 'took over six years' (Wikipedia). Collection: more than 10 000 exhibits (Wikipedia; president.az 13 300 / ~15 000 -> say '10 mindən çox'). Largest collection of Azerbaijani carpets in the world (gpsmycity, Atlas Obscura, Wikipedia). 2010: Azerbaijani carpet weaving on UNESCO's Intangible Heritage list (president.az, gpsmycity). NOT used: 'first carpet museum in the world' (only Wikipedia), exact item count, move year.",
+   "title": "Xalça Muzeyi: bükülmüş xalça kimi bina",
+   "text": "Bakıdakı Xalça Muzeyinin binası bükülmüş xalçaya bənzəyir. İçində 10 mindən çox eksponat var.",
+   "reel_hook": "10 000+ EKSPONAT BİR «BÜKÜLMÜŞ XALÇA»NIN İÇİNDƏ",
+   "hook_options": [
+    "10 000+ EKSPONAT BİR «BÜKÜLMÜŞ XALÇA»NIN İÇİNDƏ",
+    "6 İLƏ TİKİLƏN «XALÇA»: BAKININ ƏN QƏRİBƏ BİNASI",
+    "1 XALÇA, 3 ÜNVAN: 1967-DƏN BU GÜNƏ",
+    "DÜNYANIN ƏN BÖYÜK AZƏRBAYCAN XALÇASI KOLLEKSİYASI",
+    "10 000+ EKSPONAT, 1 BİNA: BAKIDA BÜKÜLMÜŞ XALÇA"
+   ],
+   "reel_beats": [
+    "Bakı dənizkənarı parkındakı bu bina bükülmüş xalçaya bənzəyir. Onu avstriyalı memar Frans Yans layihələndirib.",
+    "Xalça Muzeyi 1967-ci ildə yaradılıb. İlk sərgi İçərişəhərdə açılıb.",
+    "Sonra muzey keçmiş Lenin muzeyinin binasına köçdü. 2014-cü ildə isə bu yeni binaya.",
+    "Burada 10 mindən çox eksponat var — bu, dünyada Azərbaycan xalçalarının ən böyük kolleksiyasıdır."
+   ],
+   "payoff": "Ən maraqlısı: «xalça» binanın tikintisi 6 ildən çox çəkdi — təməli 2008-ci ildə qoyuldu, 2014-cü ildə açıldı.",
+   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+   "send_line": "📩 Evində xalça olan dostuna göndər 🧶",
+   "caption": "Xalça Muzeyi: Bakıda bükülmüş xalça kimi bina 🧶\n\nBakı dənizkənarı parkındakı Azərbaycan Milli Xalça Muzeyinin binası bükülmüş xalçaya bənzəyir — onu avstriyalı memar Frans Yans layihələndirib. Muzey 1967-ci ildə yaradılıb, ilk sərgi İçərişəhərdə açılıb, sonra keçmiş Lenin muzeyinin binasına köçüb. 2014-cü ildə yeni binaya keçdi. Burada 10 mindən çox eksponat var — dünyada Azərbaycan xalçalarının ən böyük kolleksiyası. Ən maraqlısı: binanın tikintisi 6 ildən çox çəkib. 2010-cu ildə isə Azərbaycan xalçaçılıq sənəti UNESCO-nun qeyri-maddi mədəni irs siyahısına daxil edilib.\n\n📩 Evində xalça olan dostuna göndər 🧶\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nFoto: Shiva Mardahi / Unsplash\n\n#bilirdinizmi #xalçamuzeyi #bakı #xalça #azərbaycan",
+   "first_comment": "Evinizdə ən köhnə xalça neçə yaşındadır? 👇",
+   "photo": {
+    "path": "fetch/img/2026-11-19_1_carpet_b.jpg",
+    "credit": "Shiva Mardahi / Unsplash",
+    "cy": 0.4,
+    "full": true,
+    "source": "https://unsplash.com/photos/yQRgwhfSA44",
+    "note": "Checked 18 Nov 10:20: 2000x3000 portrait, the golden 'rolled carpet' end with carpet-pattern panels, clearly the Carpet Museum; no watermark/logo. Backups: 2026-11-19_1_carpet_a.jpg (Unsplash Sam/cosmvs, museum's striped side + Flame Towers, landscape, building half in shadow); Commons 'Baku Carpet Museum View.jpg' (SwissTraveller, CC BY-SA 4.0, 4032x3024) and 'Carpet Museum Looks Like A Carpet (221090067).jpeg' (CC BY 3.0) — not fetched."
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Azerbaijan_Carpet_Museum",
+    "https://president.az/en/articles/view/12694",
+    "https://www.gpsmycity.com/attractions/state-carpet-museum-35813.html",
+    "https://atlasobscura.com/places/azerbaijan-national-carpet-museum"
+   ],
+   "format": "fact",
+   "note_moved": "Unaired spare from 19 Nov (moved to make room for MYTH vs FACT); verified 18 Nov, photo fetched and checked."
+  },
+  {
+   "n": 2,
+   "type": "reel",
+   "slot": "18:30 backup",
+   "motion": true,
+   "fps": 60,
+   "voiced": "Arif",
+   "format": "guess",
+   "cat": "Pul",
+   "subject": "Azerbaijani manat redenomination: on 1 Jan 2006 the new manat (AZN) was introduced; 1 new manat = 5 000 old manat (AZM) (Wikipedia 'Redenomination of the Azerbaijani manat', Wikipedia 'Azerbaijani manat', APA 15 Aug 2009, E-Sylum 1 Jan 2006 citing BakuToday). Decree No. 189 of 7 Feb 2005. Dual pricing from 1 Oct 2005; old manat valid through 31 Dec 2006 (Wikipedia, APA). Largest old note: 50 000 manat (Wikipedia x2; APA). New banknotes designed by Austrian Robert Kalina, who also designed the euro banknotes; notes look similar to the euro, motifs inspired by euro notes (Wikipedia, APA, E-Sylum). 2006 notes 1, 5, 10, 20, 50, 100 manat; coins 1–50 qəpik. NOT used: who designed ₼ (attribution unclear), old notes exchangeable forever (Wikipedia only), 200-manat note details.",
+   "title": "1 manat = 5 000 köhnə manat",
+   "reel_hook": "1 YENİ MANAT = NEÇƏ KÖHNƏ MANAT? Sənin cavabın? 👇",
+   "hook_options": [
+    "1 YENİ MANAT = NEÇƏ KÖHNƏ MANAT? Sənin cavabın? 👇",
+    "2006-DA 1 MANAT NEÇƏ MANATA DƏYİŞDİRİLDİ?",
+    "50 000 MANATLIQ ƏSKİNAS VARDI — İNANIRSAN?",
+    "5 000 → 1: MANATIN ƏN BÖYÜK DƏYİŞİKLİYİ",
+    "MANAT NİYƏ AVROYA BƏNZƏYİR? 1 SİRR"
+   ],
+   "guess": {
+    "question": "2006-cı ildə 1 yeni manat neçə köhnə manata bərabər idi?",
+    "options": [
+     "1 000",
+     "5 000",
+     "10 000"
+    ],
+    "answer": "5 000",
+    "clues": [
+     "Köhnə pulun ən böyük əskinası 50 000 manatlıq idi.",
+     "Yeni manat 1 yanvar 2006-da dövriyyəyə çıxdı."
+    ],
+    "countdown": "3-2-1 (~3 s, tick)"
+   },
+   "reel_beats": [
+    "Sual: 2006-cı ildə 1 yeni manat neçə köhnə manata bərabər idi? 1 000, 5 000, yoxsa 10 000?",
+    "İpucu: köhnə pulun ən böyük əskinası 50 000 manatlıq idi.",
+    "Cavab: 5 000! Yeni manat 1 yanvar 2006-da çıxdı. 1 il ərzində köhnə və yeni pul yanaşı işlədi.",
+    "Ən maraqlısı: yeni əskinasları avstriyalı dizayner Robert Kalina çəkib. Avronun əskinaslarını da o çəkmişdi — manatın avroya bənzəməsi buna görədir."
+   ],
+   "payoff": "Ən maraqlısı: manatı da, avronu da eyni adam — Robert Kalina çəkib.",
+   "voice_texts": [
+    "Bir yeni manat neçə köhnə manata bərabər idi? Sənin cavabın?",
+    "Min, beş min, yoxsa on min?",
+    "İpucu: köhnə pulun ən böyük əskinası əlli min manatlıq idi.",
+    "Üç, iki, bir…",
+    "Beş min! Yeni manat iki min altının birinci günü çıxdı.",
+    "Ən maraqlısı: yeni əskinasları Robert Kalina çəkib — avronu çəkən dizayner. Manat ona görə avroya bənzəyir.",
+    "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
+   ],
+   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+   "send_line": "📩 Köhnə manatları xatırlayan dostuna göndər 💵",
+   "caption": "Manat: 1 yeni manat = 5 000 köhnə manat 💵\n\n1 yanvar 2006-da Azərbaycanda yeni manat dövriyyəyə çıxdı. 1 yeni manat 5 000 köhnə manata bərabər idi. Köhnə pulun ən böyük əskinası 50 000 manatlıq idi — indiki 10 manat. 2006-cı il boyu köhnə və yeni pul yanaşı işlədi. Ən maraqlısı: yeni əskinasları avstriyalı dizayner Robert Kalina çəkib. Avro əskinaslarını da o çəkmişdi — manatın avroya bənzəməsi buna görədir.\n\n📩 Köhnə manatları xatırlayan dostuna göndər 💵\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nSəs: elevenlabs.io\n\n#bilirdinizmi #manat #pul #azərbaycan #bakı",
+   "first_comment": "Sən neçə dedin: 1 000, 5 000, yoxsa 10 000? 👇",
+   "visual_ideas": [
+    "Frame 0: big question card '1 ₼ = ? köhnə manat' + 'Sənin cavabın? 👇'; three option chips 1 000 / 5 000 / 10 000 bounce in.",
+    "Clue: a long code-drawn green banknote labelled '50 000' slides in (generic design, no copy of the real note).",
+    "Visible 3-2-1 countdown ring (~3 s, tick each second).",
+    "Reveal: '5 000' chip glows, a stack of 5 000 old notes compresses into one small new note (squash + thud); counter 5000 → 1.",
+    "Payoff: a split card — left a generic 'euro-style' note silhouette, right a manat-style silhouette, an arrow labelled 'Robert Kalina' links them (silhouette of a designer at a drafting table, no face).",
+    "Loop: last frame '5 000 → 1' back to the question."
+   ],
+   "sfx": "tick (countdown), whoosh (notes), thud (reveal), click (chips); no music.",
+   "context_check": "Catches: 1 Jan 2006 was the start; old notes stayed legal through 31 Dec 2006 (say '1 il yanaşı'). '50 000 old = 10 new' is simple arithmetic of the 5 000 ratio. Don't claim Kalina designed the ₼ sign (attribution unclear). Don't show real banknote images in full detail (generic drawings).",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Redenomination_of_the_Azerbaijani_manat",
+    "https://en.wikipedia.org/wiki/Azerbaijani_manat",
+    "https://en.apa.az/finance/-106261",
+    "https://coinbooks.org/esylum_v09n01a06.html"
+   ]
+  }
+ ],
+ "pending_schedule": null,
+ "format_log": {
+  "13:00": "fact",
+  "18:30": "guess"
+ }
+}

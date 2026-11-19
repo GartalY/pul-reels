@@ -292,6 +292,17 @@
   "voice_text": "On üç il gözlənilən GTA Altıda Azərbaycan sürprizi var! Oyun bu gün çıxdı. Tənqidçilər ona yüz baldan doxsan doqquz verib. Bu bal hələlik oyun tarixinin rekordu ilə bərabərdir. Oyunun radiosunda Alim Qasımov və qızı Fərqanə Qasımova oxuyur. Onlar Nelli Furtadonun «Say It Right» mahnısını ifa edir. İndi bu səsləri milyonlarla oyunçu eşidəcək. Bəyən və izlə — hər gün bilmədiyin bir fakt!",
   "words": 60,
   "format": "trend",
-  "voice": "pending"
+  "voice": "arif",
+  "arif_mp3": "reels/arif/2026-11-19_1830.mp3",
+  "words_json": "reels/arif/2026-11-19_1830.words.json",
+  "voice_dur_s": 25.63,
+  "elevenlabs": {
+   "flow_id": "639jNoU5wvCXsP7ue74Y",
+   "tts_credits": 388,
+   "stt_credits": 356,
+   "first_try": "14:53 Baku, worked"
+  },
+  "transcript_note": "Scribe text matches the script (it spells 'Əlim Qasimov'/'bugün' — captions must use the script spelling: Alim Qasımov, bu gün).",
+  "caption_credit": "Səs: elevenlabs.io"
  }
 }

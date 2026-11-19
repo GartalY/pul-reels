@@ -1,0 +1,349 @@
+{
+"dur": 25.63,
+"lines": [
+{
+"t0": 0.1,
+"words": [
+{
+"w": "On",
+"t": 0.1,
+"key": true
+},
+{
+"w": "üç",
+"t": 0.22,
+"key": true
+},
+{
+"w": "il",
+"t": 0.38,
+"key": true
+},
+{
+"w": "gözlənilən",
+"t": 0.52,
+"key": false
+},
+{
+"w": "GTA",
+"t": 1.26,
+"key": true
+},
+{
+"w": "VI-da",
+"t": 1.72,
+"key": true
+},
+{
+"w": "Azərbaycan",
+"t": 2.36,
+"key": true
+},
+{
+"w": "sürprizi",
+"t": 3.02,
+"key": true
+},
+{
+"w": "var!",
+"t": 3.46,
+"key": false
+}
+],
+"t1": 4.001
+},
+{
+"t0": 4.001,
+"words": [
+{
+"w": "Oyun",
+"t": 4.001,
+"key": false
+},
+{
+"w": "bu gün",
+"t": 4.46,
+"key": true
+},
+{
+"w": "çıxdı.",
+"t": 4.82,
+"key": true
+}
+],
+"t1": 5.337
+},
+{
+"t0": 5.337,
+"words": [
+{
+"w": "Tənqidçilər",
+"t": 5.337,
+"key": false
+},
+{
+"w": "ona",
+"t": 6.1,
+"key": false
+},
+{
+"w": "yüz",
+"t": 6.38,
+"key": true
+},
+{
+"w": "baldan",
+"t": 6.64,
+"key": false
+},
+{
+"w": "doxsan",
+"t": 7.02,
+"key": true
+},
+{
+"w": "doqquz",
+"t": 7.38,
+"key": true
+},
+{
+"w": "verib.",
+"t": 7.76,
+"key": false
+}
+],
+"t1": 8.253
+},
+{
+"t0": 8.253,
+"words": [
+{
+"w": "Bu",
+"t": 8.253,
+"key": false
+},
+{
+"w": "bal",
+"t": 8.52,
+"key": false
+},
+{
+"w": "hələlik",
+"t": 8.8,
+"key": true
+},
+{
+"w": "oyun",
+"t": 9.3,
+"key": false
+},
+{
+"w": "tarixinin",
+"t": 9.52,
+"key": false
+},
+{
+"w": "rekordu",
+"t": 10.02,
+"key": true
+},
+{
+"w": "ilə",
+"t": 10.42,
+"key": false
+},
+{
+"w": "bərabərdir.",
+"t": 10.6,
+"key": true
+}
+],
+"t1": 11.701
+},
+{
+"t0": 11.701,
+"words": [
+{
+"w": "Oyunun",
+"t": 11.701,
+"key": false
+},
+{
+"w": "radiosunda",
+"t": 12.08,
+"key": true
+},
+{
+"w": "Alim",
+"t": 12.88,
+"key": true
+},
+{
+"w": "Qasımov",
+"t": 13.14,
+"key": true
+},
+{
+"w": "və",
+"t": 13.68,
+"key": false
+},
+{
+"w": "qızı",
+"t": 13.86,
+"key": false
+},
+{
+"w": "Fərqanə",
+"t": 14.18,
+"key": true
+},
+{
+"w": "Qasımova",
+"t": 14.7,
+"key": true
+},
+{
+"w": "oxuyur.",
+"t": 15.18,
+"key": false
+}
+],
+"t1": 15.86
+},
+{
+"t0": 15.86,
+"words": [
+{
+"w": "Onlar",
+"t": 15.86,
+"key": false
+},
+{
+"w": "Nelli",
+"t": 16.42,
+"key": false
+},
+{
+"w": "Furtadonun",
+"t": 16.72,
+"key": false
+},
+{
+"w": "«Say",
+"t": 17.5,
+"key": true
+},
+{
+"w": "It",
+"t": 17.68,
+"key": true
+},
+{
+"w": "Right»",
+"t": 17.88,
+"key": true
+},
+{
+"w": "mahnısını",
+"t": 18.18,
+"key": false
+},
+{
+"w": "ifa",
+"t": 18.64,
+"key": false
+},
+{
+"w": "edir.",
+"t": 18.9,
+"key": false
+}
+],
+"t1": 19.46
+},
+{
+"t0": 19.46,
+"words": [
+{
+"w": "İndi",
+"t": 19.46,
+"key": false
+},
+{
+"w": "bu",
+"t": 19.8,
+"key": false
+},
+{
+"w": "səsləri",
+"t": 19.94,
+"key": false
+},
+{
+"w": "milyonlarla",
+"t": 20.54,
+"key": true
+},
+{
+"w": "oyunçu",
+"t": 21.3,
+"key": true
+},
+{
+"w": "eşidəcək.",
+"t": 21.64,
+"key": false
+}
+],
+"t1": 22.586
+},
+{
+"t0": 22.586,
+"words": [
+{
+"w": "Bəyən",
+"t": 22.586,
+"key": true
+},
+{
+"w": "və",
+"t": 23.06,
+"key": false
+},
+{
+"w": "izlə",
+"t": 23.24,
+"key": true
+},
+{
+"w": "hər",
+"t": 23.88,
+"key": false
+},
+{
+"w": "gün",
+"t": 24.14,
+"key": false
+},
+{
+"w": "bilmədiyin",
+"t": 24.42,
+"key": false
+},
+{
+"w": "bir",
+"t": 24.96,
+"key": false
+},
+{
+"w": "fakt!",
+"t": 25.14,
+"key": true
+}
+],
+"t1": 25.63
+}
+],
+"source": "ElevenLabs Scribe word starts + silencedetect"
+}

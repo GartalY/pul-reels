@@ -182,16 +182,20 @@
   "18:30": "trend (GTA VI, 09:10 pick) — 15:23 may swap"
  },
  "media": {
-  "13:00 Beyin 10% mifi": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-19_1300_brain_myth_silent.mp4"
+  "13:00 Beyin 10% mifi": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-19_1300_brain_myth_silent.mp4",
+  "18:30 GTA VI Qasımov": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-19_1830_gta6_qasimov.mp4"
  },
  "metricool": {
-  "13:00 reel (Beynin 10% mifi, MYTH static, silent, IG REEL)": 433116818
+  "13:00 reel (Beynin 10% mifi, MYTH static, silent, IG REEL)": 433116818,
+  "18:30 GTA VI + Alim/Fərqanə Qasımova (MOTION 60 fps, Arif, IG REEL)": 434105819
  },
  "tiktok": {
-  "13:00 Beyin mifi": 433117049
+  "13:00 Beyin mifi": 433117049,
+  "18:30 GTA VI": 434105840
  },
  "youtube": {
-  "13:00 Beyin mifi": 433116851
+  "13:00 Beyin mifi": 433116851,
+  "18:30 GTA VI": 434105875
  },
  "ig_type": "REEL (trial reels suspended)",
  "scheduled_check": "20:58 18 Nov: getScheduledPosts for 19 Nov empty before creating; no pending_schedule in 16–19 Nov JSONs. One post per network created (TikTok 1st try failed 'title required', retried with title -> 1 post).",
@@ -303,6 +307,19 @@
    "first_try": "14:53 Baku, worked"
   },
   "transcript_note": "Scribe text matches the script (it spells 'Əlim Qasimov'/'bugün' — captions must use the script spelling: Alim Qasımov, bu gün).",
-  "caption_credit": "Səs: elevenlabs.io"
- }
+  "caption_credit": "Səs: elevenlabs.io",
+  "build": {
+   "dir": "reels/2026-11-19_1830",
+   "duration_s": 26.94,
+   "fps": 60,
+   "size_mb": 13.1,
+   "lufs": -14.1,
+   "sfx_db": -9,
+   "music": "none (silence)",
+   "critique_rounds": 3,
+   "built_at": "15:47 Baku",
+   "cover_ms": 1800
+  }
+ },
+ "voice": "arif"
 }

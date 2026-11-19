@@ -47,3 +47,4 @@
 - 2026-11-19 13:00: Beynin 10% mifi (MYTH vs FACT, static) — Carpet Museum moved to spare
 - 2026-11-19 trend (09:10 pick for 18:30, rewritten after Gartal's note): GTA VI launch — Alim Qasımov + Fərqanə Qasımova 'Say It Right' (Nelly Furtado cover) on Kaleidoscope FM, Metacritic 99, UNESCO prize 1999
 - 2026-11-20 (planned): Carpet Museum rolled-carpet building (13:00 static, 19 Nov spare) · manat 2006: 1 new = 5 000 old, 50 000 note, Kalina also designed euro notes (18:30 GUESS animated backup)
+- 2026-11-20 13:00 Xalça Muzeyi (bükülmüş xalça binası, 10 000+ eksponat)

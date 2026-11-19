@@ -1,6 +1,6 @@
 {
  "date": "2026-11-20",
- "status": "planned",
+ "status": "13:00 scheduled (static Carpet Museum, no voice, silent track, IG REEL); 18:30 animated Arif reel (GUESS) = 14:47/15:23 tasks",
  "format": "v4",
  "content_format": "quality_reset_2026-11-12",
  "planned_note": "Planned in the 2026-11-19 09:10 run. Fri 20 Nov: 13:00 static factgen reel (no voice, silent track, IG normal REEL) = facts[0] Carpet Museum (unaired 19 Nov spare, photo ready). 18:30 = GUESS THE ANSWER animated 60 fps Arif reel (GARTAL 2026-11-18 format table: Fri 18:30 guess) — facts[1] manat 5 000 → 1; if 20 Nov 09:10 finds a fresh AZ story, tell it as a guess-the-answer instead. No carousels/quizzes/stories.",
@@ -32,7 +32,7 @@
    "payoff": "Ən maraqlısı: «xalça» binanın tikintisi 6 ildən çox çəkdi — təməli 2008-ci ildə qoyuldu, 2014-cü ildə açıldı.",
    "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
    "send_line": "📩 Evində xalça olan dostuna göndər 🧶",
-   "caption": "Xalça Muzeyi: Bakıda bükülmüş xalça kimi bina 🧶\n\nBakı dənizkənarı parkındakı Azərbaycan Milli Xalça Muzeyinin binası bükülmüş xalçaya bənzəyir — onu avstriyalı memar Frans Yans layihələndirib. Muzey 1967-ci ildə yaradılıb, ilk sərgi İçərişəhərdə açılıb, sonra keçmiş Lenin muzeyinin binasına köçüb. 2014-cü ildə yeni binaya keçdi. Burada 10 mindən çox eksponat var — dünyada Azərbaycan xalçalarının ən böyük kolleksiyası. Ən maraqlısı: binanın tikintisi 6 ildən çox çəkib. 2010-cu ildə isə Azərbaycan xalçaçılıq sənəti UNESCO-nun qeyri-maddi mədəni irs siyahısına daxil edilib.\n\n📩 Evində xalça olan dostuna göndər 🧶\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nFoto: Shiva Mardahi / Unsplash\n\n#bilirdinizmi #xalçamuzeyi #bakı #xalça #azərbaycan",
+   "caption": "Xalça Muzeyi: Bakıda bükülmüş xalça kimi bina 🧶\n\nBakı dənizkənarı parkındakı Azərbaycan Milli Xalça Muzeyinin binası bükülmüş xalçaya bənzəyir — onu avstriyalı memar Frans Yans layihələndirib. Muzey 1967-ci ildə yaradılıb, ilk sərgi İçərişəhərdə açılıb, sonra keçmiş Lenin muzeyinin binasına köçüb. 2014-cü ildə yeni binaya keçib. Burada 10 mindən çox eksponat var — dünyada Azərbaycan xalçalarının ən böyük kolleksiyası. Ən maraqlısı: binanın tikintisi 6 ildən çox çəkib. 2010-cu ildə isə Azərbaycan xalçaçılıq sənəti UNESCO-nun qeyri-maddi mədəni irs siyahısına daxil edilib.\n\n📩 Evində xalça olan dostuna göndər 🧶\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nFoto: Shiva Mardahi / Unsplash\n\n#bilirdinizmi #xalçamuzeyi #bakı #xalça #azərbaycan",
    "first_comment": "Evinizdə ən köhnə xalça neçə yaşındadır? 👇",
    "photo": {
     "path": "fetch/img/2026-11-19_1_carpet_b.jpg",
@@ -49,7 +49,31 @@
     "https://atlasobscura.com/places/azerbaijan-national-carpet-museum"
    ],
    "format": "fact",
-   "note_moved": "Unaired spare from 19 Nov (moved to make room for MYTH vs FACT); verified 18 Nov, photo fetched and checked."
+   "note_moved": "Unaired spare from 19 Nov (moved to make room for MYTH vs FACT); verified 18 Nov, photo fetched and checked.",
+   "build": {
+    "file": "out/2026-11-20/1_reel.mp4",
+    "dur_s": 26.5,
+    "voice": null,
+    "sound": "pure silence (volumedetect max -91.0 dB)",
+    "photo_used": "fetch/img/2026-11-19_1_carpet_b.jpg",
+    "spec": {
+     "hook": "10 000+ EKSPONAT BİR «BÜKÜLMÜŞ XALÇA»NIN İÇİNDƏ",
+     "beats": [
+      "Bakı dənizkənarı parkındakı bu bina bükülmüş xalçaya bənzəyir. Onu avstriyalı memar Frans Yans layihələndirib.",
+      "Xalça Muzeyi 1967-ci ildə yaradılıb. İlk sərgi İçərişəhərdə açılıb.",
+      "Sonra muzey keçmiş Lenin muzeyinin binasına köçüb. 2014-cü ildə isə bu yeni binaya keçib.",
+      "Burada 10 mindən çox eksponat var. Bu, dünyada Azərbaycan xalçalarının ən böyük kolleksiyasıdır.",
+      "Ən maraqlısı: binanın tikintisi 6 ildən çox çəkib. Təməli 2008-ci ildə qoyulub, 2014-cü ildə açılıb."
+     ],
+     "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+     "seed": 20,
+     "cy": 0.4,
+     "cx": 0.6,
+     "hook_bg": true,
+     "hook_s": 2.4
+    },
+    "checked": "20:50 19 Nov: 8-frame sheet + full-res frame 0: hook number-first (NBSP 10 000+), AZ letters (İ ə ş ç ü) fine, beats in safe zone on dark backing, CTA pill last. Beat 3 'bu yeni binaya' completed with 'keçib' (was elliptical), tenses unified to -ıb."
+   }
   },
   {
    "n": 2,
@@ -126,5 +150,19 @@
  "format_log": {
   "13:00": "fact",
   "18:30": "guess"
- }
+ },
+ "media": {
+  "13:00 Xalça Muzeyi": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-20_1300_carpet_museum_silent.mp4"
+ },
+ "metricool": {
+  "13:00 reel (Xalça Muzeyi, static, silent, IG REEL)": 434474965
+ },
+ "tiktok": {
+  "13:00 Xalça Muzeyi": 434475263
+ },
+ "youtube": {
+  "13:00 Xalça Muzeyi": 434475285
+ },
+ "ig_type": "REEL (trial reels suspended)",
+ "scheduled_check": "20:48 19 Nov: getScheduledPosts for 20 Nov empty before creating; no pending_schedule in 16–20 Nov JSONs. One post per network created."
 }

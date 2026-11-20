@@ -1,6 +1,6 @@
 {
  "date": "2026-11-21",
- "status": "planned",
+ "status": "13:00 scheduled (static Lahıc copper, no voice, silent track, IG REEL); 18:30 animated Arif reel = 14:47/15:23 tasks",
  "format": "v4",
  "content_format": "quality_reset_2026-11-12",
  "planned_note": "Planned in the 2026-11-20 09:10 run. Sat 21 Nov (no format-table slot): 13:00 static factgen reel (no voice, silent track, IG normal REEL) = facts[0] Lahıc copper craft (photo fetched + checked). 18:30 = animated 60 fps Arif reel about the freshest AZ story (21 Nov 09:10 picks `trend`); if nothing good, facts[1] Karabakh horse (Zaman 1956 → Şöhrət 2022) as the animated backup. No carousels/quizzes/stories.",
@@ -56,7 +56,32 @@
     "https://www.azernews.az/culture/90396.html",
     "https://en.wikipedia.org/wiki/Lah%C4%B1c,_Ismailli"
    ],
-   "language_check": "20 Nov: 'misgər', 'emalatxana', 'naxış vurmaq', 'Luvr', 'qeyri-maddi mədəni irs'; '3 saatlıq yolda'; NBSP not needed (no 4+ digit numbers except years)."
+   "language_check": "20 Nov: 'misgər', 'emalatxana', 'naxış vurmaq', 'Luvr', 'qeyri-maddi mədəni irs'; '3 saatlıq yolda'; NBSP not needed (no 4+ digit numbers except years).",
+   "build": {
+    "file": "out/2026-11-21/1_reel.mp4",
+    "dur_s": 22.3,
+    "voice": null,
+    "sound": "pure silence (volumedetect max -91.0 dB)",
+    "photo_used": "fetch/img/2026-11-21_1_lahic_folkart.png",
+    "spec": {
+     "hook": "1725-DƏN İŞLƏYƏN EMALATXANA: LAHICIN MİS SİRRİ",
+     "beats": [
+      "İsmayıllının dağlarında, Bakıdan 3 saatlıq yolda Lahıc kəndi var.",
+      "Burada ustalar mis qabları əllə döyür, sonra üstünə naxış vururlar.",
+      "Bir ailənin emalatxanası 1725-ci ildə açılıb. 300 ildən çoxdur ki, işləyir.",
+      "Lahıc mis qabları Parisdəki Luvr muzeyində də saxlanılır.",
+      "Ən maraqlısı: 2015-ci ildə Lahıcın misgərlik sənəti UNESCO-nun qeyri-maddi mədəni irs siyahısına düşüb."
+     ],
+     "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+     "seed": 21,
+     "cy": 0.5,
+     "cx": 0.33,
+     "full": true,
+     "hook_bg": true,
+     "hook_s": 2.4
+    },
+    "checked": "20:48 20 Nov: 8-frame sheets x2. v1 cx 0.4 cut the front jug's left side -> v2 cx 0.33 (front jug fully in frame). Hook number-first, Lahıc named in hook + beat 1 + caption line 1; AZ letters (İ Ə ı ş ç) fine; beats in safe zone on dark backing; CTA pill last."
+   }
   },
   {
    "n": 2,
@@ -117,5 +142,20 @@
    ],
    "language_check": "20 Nov: 'hədiyyə etdi' / 'bağışladı' (varied), 'qızılı parıltılı tük', 'Vindzor', 'Xruşşov', 'II Elizabet'; numbers spelled out in voice_texts."
   }
- ]
+ ],
+ "ig_type": "REEL (trial reels suspended)",
+ "scheduled_check": "20:49 20 Nov: getScheduledPosts for 21 Nov empty before creating; no pending_schedule in 19–21 Nov JSONs. One post per network created (TikTok first try rejected 'title is required' — nothing created — retried with tiktokData.title).",
+ "media": {
+  "13:00 Lahıc mis": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-21_1300_lahic_copper_silent.mp4"
+ },
+ "metricool": {
+  "13:00 reel (Lahıc mis, static, silent, IG REEL)": 435818914
+ },
+ "tiktok": {
+  "13:00 Lahıc mis": 435819114
+ },
+ "youtube": {
+  "13:00 Lahıc mis": 435818951
+ },
+ "pending_schedule": null
 }

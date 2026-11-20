@@ -544,3 +544,8 @@ search_carpet_museum.json https://commons.wikimedia.org/w/api.php?action=query&f
 2026-11-20_news_oxu.html https://oxu.az/
 2026-11-20_news_trendsAZ.xml https://trends.google.com/trending/rss?geo=AZ
 2026-11-20_news_sport_report.html https://report.az/idman/
+2026-11-20_news_vn1.html https://apa.az/siyasi/azerbaycan-vyetnam-munasibetlerinde-yeni-merhele-tarixi-dostluqdan-strateji-terefdasliga-tehlil-1015238
+2026-11-20_news_vn2.html https://apa.az/resmi-xeber/prezident-ilham-eliyev-vyetnam-xeber-agentliyine-musahibe-verib-1015289
+2026-11-20_news_vn3.html https://apa.az/xarici-siyaset/azerbaycan-prezidentinin-seferi-vyetnam-mediasinin-diqqet-merkezindedir-1015544
+2026-11-20_news_idman.html https://www.idman.biz/az
+2026-11-20_news_azertag.html https://azertag.az/

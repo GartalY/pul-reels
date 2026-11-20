@@ -3,7 +3,7 @@
  "status": "13:00 scheduled (static Carpet Museum, no voice, silent track, IG REEL); 18:30 animated Arif reel (GUESS) = 14:47/15:23 tasks",
  "format": "v4",
  "content_format": "quality_reset_2026-11-12",
- "planned_note": "Planned in the 2026-11-19 09:10 run. Fri 20 Nov: 13:00 static factgen reel (no voice, silent track, IG normal REEL) = facts[0] Carpet Museum (unaired 19 Nov spare, photo ready). 18:30 = GUESS THE ANSWER animated 60 fps Arif reel (GARTAL 2026-11-18 format table: Fri 18:30 guess) — facts[1] manat 5 000 → 1; if 20 Nov 09:10 finds a fresh AZ story, tell it as a guess-the-answer instead. No carousels/quizzes/stories.",
+ "planned_note": "Planned in the 2026-11-19 09:10 run. Fri 20 Nov: 13:00 static factgen reel (no voice, silent track, IG normal REEL) = facts[0] Carpet Museum (unaired 19 Nov spare, photo ready). 18:30 = GUESS THE ANSWER animated 60 fps Arif reel (GARTAL 2026-11-18 format table: Fri 18:30 guess) — facts[1] manat 5 000 → 1; if 20 Nov 09:10 finds a fresh AZ story, tell it as a guess-the-answer instead. No carousels/quizzes/stories. | 20 Nov 09:10: fresh AZ story found (Aliyev official visit to Vietnam, 19–21 Nov) → 18:30 GUESS uses `trend`; facts[1] manat stays the backup.",
  "facts": [
   {
    "n": 1,
@@ -149,7 +149,7 @@
  "pending_schedule": null,
  "format_log": {
   "13:00": "fact",
-  "18:30": "guess"
+  "18:30": "guess (trend: Vietnam visit)"
  },
  "media": {
   "13:00 Xalça Muzeyi": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-20_1300_carpet_museum_silent.mp4"
@@ -164,5 +164,96 @@
   "13:00 Xalça Muzeyi": 434475285
  },
  "ig_type": "REEL (trial reels suspended)",
- "scheduled_check": "20:48 19 Nov: getScheduledPosts for 20 Nov empty before creating; no pending_schedule in 16–20 Nov JSONs. One post per network created."
+ "scheduled_check": "20:48 19 Nov: getScheduledPosts for 20 Nov empty before creating; no pending_schedule in 16–20 Nov JSONs. One post per network created.",
+ "trend": {
+  "n": "T",
+  "type": "reel",
+  "format": "animated_1830",
+  "content_format": "trend",
+  "post_format": "guess",
+  "cat": "Tarix",
+  "hook_type": "guess the answer (fresh AZ official news + history number inside)",
+  "picked_at": "09:10–10:05 Baku 20 Nov",
+  "source_scan": "20 Nov: apa.az homepage + 3 articles read via fetch job; Google Trends AZ RSS (top: 'малейка аббасзаде' 1000+ = new BSU rector; 'погода в баку' — wind up to 30 m/s; 'учебный год' pupils −20k; 'каспийское море' public zones); report.az / oxu.az blocked by Cloudflare; WebSearch trend.az, azertag, idman.biz. AZ found: President Aliyev official visit to Vietnam 19–21 Nov (first since 2014; Ho Chi Minh mausoleum, Revolutionary Martyrs memorial; Vietnam media coverage) — PICK; State–Business Cooperation Forum 'first in the country' (dry); 155 more residents resettled (post-conflict, skipped); missing persons analysis (conflict, skipped); Armenia peace-treaty statement (politics/conflict, skipped); road deaths Yevlakh/Göyçay, Tbilisi blast (tragedy, skipped). World: Bitcoin < $62k, gold −4%, silver −7%, US indices −6% in a week (runner-up), Türkiye puts world's first unmanned fighter jet into service (military, Türkiye), Ukraine/Iran/Hezbollah (war, skipped), Trump–Kim meeting announced. AZ-angle searches for the Vietnam story: 'Vietnam Azerbaijan Baku', 'Vietnamese students Azerbaijan', 'Vung Tau Baku street', 'Ho Chi Minh 1959 Baku'.",
+  "rule_note": "AZ POLITICS RULE: positive/neutral official news (an official visit) — facts only, no praise words, no war history (no 'US occupation'/war lines from trend.az). SUNDAY DECISIONS 1 / E8: Azerbaijan is IN the story. Friday = GUESS THE ANSWER format (GARTAL 2026-11-18 table): the trend is told as a guess.",
+  "quota_note": "Week Mon 16–Sun 22 Nov: sports 2/2 used (16, 17 Nov), space 0 — this is history/diplomacy, OK.",
+  "subject": "President Ilham Aliyev began a 3-day official visit to Vietnam on 19 Nov 2026, his first since 2014 / first in 12 years (Prensa Latina 19 Nov; AA 'second official visit, following his first in 2014'; APA). Ho Chi Minh visited Baku on 23 July 1959 and toured Baku's oil industry (baoquocte.vn 60th-anniversary article; APA analysis; Ilham Aliyev's VNA interview on APA 'Ho Şi Minin 1959-cu ildə Bakıya unudulmaz səfəri'). In Soviet times about 5 000 Vietnamese studied in Azerbaijan (trend.az + azernews: 'more than 5,000'; APA analysis: '5 minə yaxın' -> say 'təxminən 5 000'). Many oil specialists of Vung Tau (Vietnam's oil city, Vietsovpetro base) graduated from the Azerbaijan Industrial Institute (now ADNSU); Baku and Vung Tau became twin cities in the early 1980s; there is a 'Baku' street in Vung Tau (qdnd.vn 'Baku street in Vung Tau city'; trend.az; azernews). Heydar Aliyev's 1983 Vietnam visit was extended to 8 days (Ilham Aliyev, VNA interview via APA). NOT used: 'Vung Tau street in Əhmədli, Baku' (only trend.az/azernews, same text — 15:23 may add if a 2nd source is found), Vietsovpetro first director Jalal Mammadov (same single text), trade figures (APA 223.93 m vs interview 150 m+ for different years — skip).",
+  "reel_hook": "SOVET DÖVRÜNDƏ NEÇƏ VYETNAMLI AZƏRBAYCANDA OXUYUB? Sənin cavabın? 👇",
+  "hook_options": [
+   "SOVET DÖVRÜNDƏ NEÇƏ VYETNAMLI AZƏRBAYCANDA OXUYUB? Sənin cavabın? 👇",
+   "12 İL SONRA VYETNAMDA: 5 000 VYETNAMLININ BAKI İZİ",
+   "VYETNAMDA «BAKI» KÜÇƏSİ VAR — NİYƏ?",
+   "1959: HO ŞI MIN BAKIDA — 5 000 TƏLƏBƏNİN HEKAYƏSİ",
+   "500, 5 000, YOXSA 50 000? VYETNAMIN NEFTİNİ BAKI ÖYRƏDİB"
+  ],
+  "guess": {
+   "question": "Sovet dövründə Azərbaycanda təxminən neçə vyetnamlı oxuyub?",
+   "options": [
+    "500",
+    "5 000",
+    "50 000"
+   ],
+   "answer": "5 000",
+   "clues": [
+    "Ho Şi Min 1959-cu ildə Bakıya gəlib, neft mədənlərinə baxıb.",
+    "Onların çoxu indiki Neft və Sənaye Universitetində oxuyub."
+   ],
+   "countdown": "3-2-1 (~3 s, tick)"
+  },
+  "reel_beats": [
+   "Prezident İlham Əliyev 12 il sonra yenidən Vyetnamdadır. Bəs iki ölkəni nə bağlayır?",
+   "Sual: Sovet dövründə Azərbaycanda neçə vyetnamlı oxuyub? 500, 5 000, yoxsa 50 000?",
+   "İpucu: Ho Şi Min 1959-cu ildə Bakıya gəlib, neft mədənlərinə baxıb.",
+   "Cavab: təxminən 5 000! Vyetnamın neft şəhəri Vunq Tauda çalışan mütəxəssislərin çoxu Bakıda oxuyub."
+  ],
+  "payoff": "Ən maraqlısı: Vunq Tauda «Bakı» adlı küçə var. Bakı ilə Vunq Tau 1980-ci illərdən qardaş şəhərlərdir.",
+  "voice_texts": [
+   "Sovet dövründə Azərbaycanda neçə vyetnamlı oxuyub? Sənin cavabın?",
+   "Beş yüz, beş min, yoxsa əlli min?",
+   "İpucu: Ho Şi Min min doqquz yüz əlli doqquzda Bakıya gəlib, neft mədənlərinə baxıb.",
+   "Üç, iki, bir…",
+   "Təxminən beş min! Vyetnamın neft şəhəri Vunq Tauda işləyənlərin çoxu Bakıda oxuyub.",
+   "Ən maraqlısı: Vunq Tauda «Bakı» adlı küçə var.",
+   "İndi Prezident İlham Əliyev on iki il sonra yenidən Vyetnamdadır.",
+   "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
+  ],
+  "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+  "send_line": "📩 Bakıda oxumuş vyetnamlı tanıyırsan? Ona göndər 🇻🇳",
+  "caption": "Vyetnam və Bakı: 5 000 tələbə, 1 küçə 🇦🇿🇻🇳\n\nPrezident İlham Əliyev noyabrın 19-da Vyetnama rəsmi səfərə gedib — 2014-cü ildən bəri ilk dəfə. İki ölkənin əlaqəsi isə çox köhnədir. Ho Şi Min 1959-cu ildə Bakıya gəlib, neft mədənlərinə baxıb. Sovet dövründə Azərbaycanda təxminən 5 000 vyetnamlı oxuyub. Vyetnamın neft şəhəri Vunq Tauda çalışan mütəxəssislərin çoxu Bakıda təhsil alıb. Ən maraqlısı: Vunq Tauda «Bakı» adlı küçə var — iki şəhər 1980-ci illərdən qardaş şəhərlərdir.\n\n📩 Bakıda oxumuş vyetnamlı tanıyırsan? Ona göndər 🇻🇳\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nSəs: elevenlabs.io\n\n#bilirdinizmi #vyetnam #bakı #azərbaycan #tarix",
+  "first_comment": "Sən neçə dedin: 500, 5 000, yoxsa 50 000? 👇",
+  "youtube_title": "Vyetnam və Bakı: 5 000 tələbə və «Bakı» küçəsi #shorts",
+  "visual_ideas": [
+   "Frame 0: big question card '? VYETNAMLI' + 'Sənin cavabın? 👇'; three chips 500 / 5 000 / 50 000 pop in; progress counter 'sual 1/1' corner.",
+   "Opening line: two flat flags-free map dots (Bakı on the Caspian, Hanoy) with a dashed flight arc and '12 il' stamp (no flags of politics, no leader figure needed; if shown: SILHOUETTE only).",
+   "Clue: a flat 1959 calendar page flips; a silhouette with Ho Chi Minh's recognisable outline (thin figure, small goatee shape, tunic) beside a code-drawn oil derrick (Baku nodding-donkey pump).",
+   "Visible 3-2-1 ring (~3 s, tick each second).",
+   "Reveal: '5 000' chip glows; a row of tiny graduation caps multiplies 0 → 5 000 with a running number, then they fly along the arc to a code-drawn offshore rig labelled 'Vunq Tau'.",
+   "Payoff: a street sign drops in with a thud: «BAKI» (generic blue sign, Latin letters) on a palm-lined street; mirrored second sign 'Vunq Tau' only if 15:23 verifies the Əhmədli street.",
+   "Loop: last frame 'Sənin cavabın düz idi? 👇' back to the question card."
+  ],
+  "sfx": "tick (counter/countdown), whoosh (flight arc), pop (chips), thud (street sign); no music, no tonal stings.",
+  "context_check": "Catches: (1) 5 000 is approximate — sources say 'nearly' (APA) and 'more than' (trend.az/azernews) → 'təxminən 5 000'. (2) The visit is 'official' (rəsmi), not 'state' visit — 2014 was a state visit. (3) It's his 2nd visit as president, first since 2014 — say '12 il sonra yenidən', not 'ilk dəfə'. (4) No Vietnam War / 'US occupation' wording, no praise words. (5) Ho Chi Minh = silhouette, no photo/face.",
+  "language_check": "Read aloud 20 Nov 10:00: 'Vyetnam', 'vyetnamlı', 'Ho Şi Min' (APA spelling), 'Vunq Tau', 'qardaş şəhərlər', 'neft mədənləri'; numbers with nbsp on images (5 000, 50 000).",
+  "sources": [
+   "https://www.plenglish.com/news/2026/11/19/azebaijan-president-arrives-in-vietnam-for-the-first-time-in-12-year/",
+   "https://www.aa.com.tr/en/asia-pacific/azerbaijan-president-begins-3-day-visit-to-vietnam-/4131356",
+   "https://apa.az/siyasi/azerbaycan-vyetnam-munasibetlerinde-yeni-merhele-tarixi-dostluqdan-strateji-terefdasliga-tehlil-1015238",
+   "https://apa.az/resmi-xeber/prezident-ilham-eliyev-vyetnam-xeber-agentliyine-musahibe-verib-1015289",
+   "https://www.trend.az/azerbaijan/society/4180892.html",
+   "https://www.azernews.az/events/257789.html",
+   "https://en.qdnd.vn/economy/news/baku-street-in-vung-tau-city-548729",
+   "https://baoquocte.vn/ky-niem-60-nam-ngay-chu-tich-ho-chi-minh-tham-azerbaijan-103338.html"
+  ],
+  "runners_up": [
+   {
+    "story": "Markets crash week: Bitcoin below $62 000, gold −4 %, silver −7 %, US indices −6 % in a week (apa.az 20 Nov 02:36–08:17)",
+    "why": "money topic everyone sees; no AZ angle yet (try: manat stable at 1.70? SOFAZ gold holdings?) — only if an AZ angle is verified (E8)."
+   },
+   {
+    "story": "Strong wind in Baku up to ~30 m/s (Google Trends AZ 'погода в баку' 200+, 20 Nov)",
+    "why": "local, everyone feels it; fact angle 'Baku = city of winds, khazri/gilavar' — only if a fresh measured record is reported today; weather warnings are not a tragedy but check for damage/injuries first."
+   }
+  ],
+  "status": "picked 09:10 20 Nov; 15:23 re-check keeps unless a bigger AZ story breaks (visit runs to 21 Nov — check for signed agreements/new firsts to add as one line)"
+ }
 }

@@ -48,3 +48,5 @@
 - 2026-11-19 trend (09:10 pick for 18:30, rewritten after Gartal's note): GTA VI launch — Alim Qasımov + Fərqanə Qasımova 'Say It Right' (Nelly Furtado cover) on Kaleidoscope FM, Metacritic 99, UNESCO prize 1999
 - 2026-11-20 (planned): Carpet Museum rolled-carpet building (13:00 static, 19 Nov spare) · manat 2006: 1 new = 5 000 old, 50 000 note, Kalina also designed euro notes (18:30 GUESS animated backup)
 - 2026-11-20 13:00 Xalça Muzeyi (bükülmüş xalça binası, 10 000+ eksponat)
+- 2026-11-20 trend (09:10 pick for 18:30, GUESS): Aliyev official visit to Vietnam 19–21 Nov (1st since 2014) — ~5 000 Vietnamese studied in AZ, Ho Chi Minh in Baku 1959, 'Baku' street in Vung Tau
+- 2026-11-21 (planned): Lahıc copper craft — workshop since 1725, Louvre, UNESCO 2015 (13:00 static) · Karabakh horse: 'Zaman' to Elizabeth II 1956 (Khrushchev) → 'Şöhrət' 2022, 66 years (18:30 animated backup)

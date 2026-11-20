@@ -1,0 +1,121 @@
+{
+ "date": "2026-11-21",
+ "status": "planned",
+ "format": "v4",
+ "content_format": "quality_reset_2026-11-12",
+ "planned_note": "Planned in the 2026-11-20 09:10 run. Sat 21 Nov (no format-table slot): 13:00 static factgen reel (no voice, silent track, IG normal REEL) = facts[0] Lahıc copper craft (photo fetched + checked). 18:30 = animated 60 fps Arif reel about the freshest AZ story (21 Nov 09:10 picks `trend`); if nothing good, facts[1] Karabakh horse (Zaman 1956 → Şöhrət 2022) as the animated backup. No carousels/quizzes/stories.",
+ "format_log": {
+  "13:00": "fact",
+  "18:30": "trend (backup: fact)"
+ },
+ "facts": [
+  {
+   "n": 1,
+   "type": "reel",
+   "slot": "13:00",
+   "static": true,
+   "voiced": false,
+   "format": "fact",
+   "cat": "Mədəniyyət",
+   "subject": "Lahıc (Ismayilli district), village of coppersmiths on the southern slopes of the Greater Caucasus, about a 3-hour drive west of Baku (Euronews 2021). Copper craftsmanship of Lahij inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity in 2015 (UNESCO ich.unesco.org 00675; Wikipedia 'Lahıc copper craft' — 3 Dec 2015, 10.COM; Euronews; AzerNews). One family workshop opened in 1725 and still works today — 'his workshop is 300 years old. It was opened in 1725' (Euronews, coppersmith of the Aliyev family; Wikipedia: 'The Aliyev family … started this craft … in 1725'). Lahij copperware is kept in the Louvre in Paris (Euronews; AzerNews). Cobbled streets, stone houses 'look just as they did centuries ago' (Euronews; Wikipedia village). ~40 types of copper items (Wikipedia — not used as a number, single source). NOT used: 'sewage 1000–1500 years old' (Wikipedia says 'some experts claim'), ~200 workshops mid-19th c. and 1878 Paris gold medal (Wikipedia only), altitude 1 211 m (single), coppersmith's personal name (private person).",
+   "title": "Lahıc: 1725-dən işləyən mis emalatxanası",
+   "text": "Lahıcda bir mis emalatxanası 1725-ci ildən bu günə işləyir. Lahıc mis qabları Luvr muzeyində də var.",
+   "reel_hook": "1725-DƏN İŞLƏYƏN EMALATXANA: LAHICIN MİS SİRRİ",
+   "hook_options": [
+    "1725-DƏN İŞLƏYƏN EMALATXANA: LAHICIN MİS SİRRİ",
+    "300 İLLİK EMALATXANA HƏLƏ DƏ İŞLƏYİR",
+    "1 KƏND, 300 İL, LUVRDA MİS QABLAR",
+    "LUVRDA SAXLANAN QABLAR BU KƏNDDƏ DÖYÜLÜB",
+    "2015-DƏ UNESCO-YA DÜŞƏN 1 KƏND SƏNƏTİ"
+   ],
+   "reel_beats": [
+    "İsmayıllının dağlarında, Bakıdan 3 saatlıq yolda Lahıc kəndi var.",
+    "Burada ustalar mis qabları əllə döyür, sonra üstünə naxış vururlar.",
+    "Bir ailənin emalatxanası 1725-ci ildə açılıb. 300 ildən çoxdur ki, işləyir.",
+    "Lahıc mis qabları Parisdəki Luvr muzeyində də saxlanılır."
+   ],
+   "payoff": "Ən maraqlısı: 2015-ci ildə Lahıcın misgərlik sənəti UNESCO-nun qeyri-maddi mədəni irs siyahısına düşüb.",
+   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+   "send_line": "📩 Lahıca getmək istəyən dostuna göndər ⛰️",
+   "caption": "Lahıc: 1725-dən işləyən mis emalatxanası ⚒️\n\nİsmayıllının dağlarındakı Lahıc kəndi misgərləri ilə tanınır. Ustalar mis qabları əllə döyür, sonra üstünə naxış vururlar. Bir ailənin emalatxanası 1725-ci ildə açılıb və 300 ildən çoxdur ki, işləyir. Lahıc mis qabları Parisdəki Luvr muzeyində də saxlanılır. Ən maraqlısı: 2015-ci ildə Lahıcın misgərlik sənəti UNESCO-nun qeyri-maddi mədəni irs siyahısına düşüb.\n\n📩 Lahıca getmək istəyən dostuna göndər ⛰️\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nFoto: Nick Taylor / Wikimedia Commons (CC BY 2.0)\n\n#bilirdinizmi #lahıc #ismayıllı #mis #azərbaycan",
+   "first_comment": "Evinizdə Lahıc mis qabı var? 👇",
+   "youtube_title": "Lahıc: 1725-dən işləyən mis emalatxanası #shorts",
+   "photo": {
+    "path": "fetch/img/2026-11-21_1_lahic_folkart.png",
+    "credit": "Nick Taylor / Wikimedia Commons (CC BY 2.0)",
+    "cy": 0.5,
+    "cx": 0.35,
+    "full": false,
+    "source": "https://commons.wikimedia.org/wiki/File:Lahic_folk_art.png",
+    "note": "Checked 20 Nov 10:10: 4372x2906 landscape, two engraved copper jugs on an anvil in a Lahıc workshop (one engraved 'Lahıc 20..'), no faces, no watermark. Crop left third (cx≈0.35) for portrait. Backups: 2026-11-21_1_lahic_copper_a.jpg (Misgərlik.jpg, ElxanQəniyev, CC BY-SA 4.0, 5760x3240, copper sheet in the fire — moody, good hook frame); 2026-11-21_1_lahic_1219.jpg (Gulustan, CC BY-SA 3.0, portrait, but shows a private craftsman's face → do NOT use)."
+   },
+   "sources": [
+    "https://ich.unesco.org/en/RL/copper-craftsmanship-of-lahij-00675",
+    "https://en.wikipedia.org/wiki/Lah%C4%B1c_copper_craft",
+    "https://www.euronews.com/2021/10/11/the-highly-skilled-art-of-copperware-production-lives-on-in-lahij",
+    "https://www.azernews.az/culture/90396.html",
+    "https://en.wikipedia.org/wiki/Lah%C4%B1c,_Ismailli"
+   ],
+   "language_check": "20 Nov: 'misgər', 'emalatxana', 'naxış vurmaq', 'Luvr', 'qeyri-maddi mədəni irs'; '3 saatlıq yolda'; NBSP not needed (no 4+ digit numbers except years)."
+  },
+  {
+   "n": 2,
+   "type": "reel",
+   "slot": "18:30 backup",
+   "motion": true,
+   "fps": 60,
+   "voiced": "Arif",
+   "format": "fact",
+   "cat": "Heyvanlar",
+   "subject": "Karabakh horse (Qarabağ atı), Azerbaijan's mountain-steppe riding breed, famous for its golden-tinted chestnut/bay coat (Wikipedia; AzerNews). 1956: among the gifts to Queen Elizabeth II was the Karabakh horse 'Zaman', presented by Nikita Khrushchev; it was not shown at Windsor (AzerNews x2 2022; modern.az; woman&home 2022 'gifted one in 1956 … named Zaman'). 2012: Karabakh horses performed at the Royal Windsor Horse Show for the Queen's Diamond Jubilee (Wikipedia). 16 May 2022: the Queen received a Karabakh horse named Şöhrət ('Glory') from Azerbaijan for her Platinum Jubilee (Wikipedia citing The Telegraph 17 May 2022; woman&home). 1956 → 2022 = 66 years. Chovqan (horse-riding game on Karabakh horses) on UNESCO's Urgent Safeguarding List (AzerNews; UNESCO title 'Chovqan, a traditional Karabakh horse-riding game' 2013 — VERIFY on ich.unesco.org at build before using). NOT used: 'breed below 1 000' (Wikipedia citing CNN 2011 — dated), Kishmish 2004 speed (ambiguous unit), Aghdam stud farm (conflict-adjacent), Natavan 1867 Paris medal (single source).",
+   "title": "Kraliçanın iki Qarabağ atı: 1956 və 2022",
+   "reel_hook": "1956: KRALİÇA ELİZABETƏ HƏDİYYƏ EDİLƏN QARABAĞ ATI",
+   "hook_options": [
+    "1956: KRALİÇA ELİZABETƏ HƏDİYYƏ EDİLƏN QARABAĞ ATI",
+    "2 KRALİÇA HƏDİYYƏSİ, 66 İL FƏRQLƏ",
+    "66 İL SONRA KRALİÇAYA YENƏ QARABAĞ ATI",
+    "XRUŞŞOVUN KRALİÇAYA 1 SÜRPRİZİ: ADI «ZAMAN»",
+    "QIZILI TÜKLÜ AT 2 DƏFƏ SARAYA GETDİ"
+   ],
+   "reel_beats": [
+    "1956-cı ildə Sovet lideri Nikita Xruşşov Britaniya kraliçası II Elizabetə at hədiyyə etdi.",
+    "Bu, «Zaman» adlı Qarabağ atı idi. Bu cins qızılı parıltılı tükü ilə tanınır.",
+    "2012-ci ildə Qarabağ atları Vindzorda Kraliçanın yubileyində çıxış etdi.",
+    "2022-ci ildə isə Azərbaycan Kraliçaya yenə Qarabağ atı bağışladı. Adı «Şöhrət» idi."
+   ],
+   "payoff": "Ən maraqlısı: iki hədiyyənin arasında düz 66 il var — Kraliça Qarabağ atını iki dəfə aldı.",
+   "voice_texts": [
+    "Min doqquz yüz əlli altıda Kraliça Elizabetə bir Qarabağ atı hədiyyə edildi!",
+    "Onu Sovet lideri Nikita Xruşşov bağışladı. Atın adı «Zaman» idi.",
+    "Qarabağ atı qızılı parıltılı tükü ilə tanınır.",
+    "İki min on ikidə Qarabağ atları Vindzorda Kraliçanın yubileyində çıxış etdi.",
+    "İki min iyirmi ikidə isə Azərbaycan Kraliçaya yenə Qarabağ atı bağışladı. Adı «Şöhrət» idi.",
+    "Ən maraqlısı: iki hədiyyənin arasında düz altmış altı il var.",
+    "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
+   ],
+   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+   "send_line": "📩 Atları sevən dostuna göndər 🐎",
+   "caption": "Kraliçanın iki Qarabağ atı: 1956 və 2022 🐎\n\n1956-cı ildə Nikita Xruşşov Britaniya kraliçası II Elizabetə «Zaman» adlı Qarabağ atı hədiyyə etdi. Bu cins qızılı parıltılı tükü ilə tanınır. 2012-ci ildə Qarabağ atları Vindzorda Kraliçanın yubileyində çıxış etdi. 2022-ci ildə isə Azərbaycan Kraliçaya yenə Qarabağ atı bağışladı — adı «Şöhrət» idi. Ən maraqlısı: iki hədiyyənin arasında düz 66 il var.\n\n📩 Atları sevən dostuna göndər 🐎\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nSəs: elevenlabs.io\n\n#bilirdinizmi #qarabağatı #at #azərbaycan #tarix",
+   "first_comment": "Qarabağ atını canlı görmüsən? 👇",
+   "youtube_title": "Kraliçanın iki Qarabağ atı: «Zaman» 1956, «Şöhrət» 2022 #shorts",
+   "visual_ideas": [
+    "Frame 0: big '1956' + a golden code-drawn horse silhouette (flat, thick outline, golden-chestnut fill with a shine sweep) trotting in; text 'KRALİÇAYA HƏDİYYƏ'.",
+    "Gift box with a bow opens → horse pops out, name tag 'ZAMAN' swings.",
+    "Two SILHOUETTES: a stocky bald figure in a suit (Khrushchev outline) hands a rein to a figure with a small crown and handbag (Queen outline) — no faces.",
+    "Calendar counter runs 1956 → 2012 (fanfare-free 'pop': castle silhouette 'Vindzor', horses bow) → 2022.",
+    "Second gift box: tag 'ŞÖHRƏT'; a timeline bar between the two boxes fills with a running number 0 → 66 il.",
+    "Loop: last frame '66 il' → back to '1956'."
+   ],
+   "sfx": "hoof clops (soft, non-melodic), whoosh (calendar), pop (gift box), tick (counter); no music.",
+   "context_check": "(1) Zaman was a SOVIET gift (Khrushchev), not 'from Azerbaijan' as woman&home loosely says — say Sovet lideri. (2) Şöhrət was handed over by the AZ Equestrian Federation president on behalf of Azerbaijan / from President Aliyev (Wikipedia) → 'Azərbaycan bağışladı' covers both. (3) No conflict/Karabakh-war wording; the breed name only. (4) Queen Elizabeth II died Sept 2022 — no present tense about her.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Karabakh_horse",
+    "https://www.azernews.az/nation/193891.html",
+    "https://www.azernews.az/culture/193878.html",
+    "https://modern.az/en/aktual/603302/karabakh-horse-presented-to-elizabeth-ii-during-the-cold-war/",
+    "https://womanandhome.com/life/royal-news/the-queen-beams-as-she-receives-incredibly-rare-gift-thats-close-to-her-heart"
+   ],
+   "language_check": "20 Nov: 'hədiyyə etdi' / 'bağışladı' (varied), 'qızılı parıltılı tük', 'Vindzor', 'Xruşşov', 'II Elizabet'; numbers spelled out in voice_texts."
+  }
+ ]
+}

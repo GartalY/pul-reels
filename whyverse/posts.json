@@ -1367,6 +1367,57 @@
    "style": "growing graph + night city skyline",
    "network": "youtube",
    "metricool_id": 435190963
+  },
+  {
+   "episode": "short_2026-11-20_anthropic-ipo-81b",
+   "kind": "trend",
+   "format": "guess",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-20_anthropic-ipo-81b.mp4",
+   "time_london": "2026-11-20T15:00",
+   "time_baku": "2026-11-20T19:00",
+   "ai_label": true,
+   "fps": 60,
+   "duration_s": 28.65,
+   "style": "vintage comic game show (halftone paper, starbursts, panels)",
+   "political": false,
+   "title": "Anthropic IPO: $81 Billion in One Day, the Biggest IPO Ever",
+   "topic": "Anthropic IPO, $81.3B raised, largest IPO on record (first trade 19 Nov 2026)",
+   "network": "youtube",
+   "metricool_id": 435453986
+  },
+  {
+   "episode": "short_2026-11-20_anthropic-ipo-81b",
+   "kind": "trend",
+   "format": "guess",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-20_anthropic-ipo-81b.mp4",
+   "time_london": "2026-11-20T15:00",
+   "time_baku": "2026-11-20T19:00",
+   "ai_label": true,
+   "fps": 60,
+   "duration_s": 28.65,
+   "style": "vintage comic game show (halftone paper, starbursts, panels)",
+   "political": false,
+   "title": "Anthropic IPO: $81 Billion in One Day, the Biggest IPO Ever",
+   "topic": "Anthropic IPO, $81.3B raised, largest IPO on record (first trade 19 Nov 2026)",
+   "network": "instagram",
+   "metricool_id": 435454006
+  },
+  {
+   "episode": "short_2026-11-20_anthropic-ipo-81b",
+   "kind": "trend",
+   "format": "guess",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-20_anthropic-ipo-81b.mp4",
+   "time_london": "2026-11-20T15:00",
+   "time_baku": "2026-11-20T19:00",
+   "ai_label": true,
+   "fps": 60,
+   "duration_s": 28.65,
+   "style": "vintage comic game show (halftone paper, starbursts, panels)",
+   "political": false,
+   "title": "Anthropic IPO: $81 Billion in One Day, the Biggest IPO Ever",
+   "topic": "Anthropic IPO, $81.3B raised, largest IPO on record (first trade 19 Nov 2026)",
+   "network": "tiktok",
+   "metricool_id": 435454028
   }
  ]
 }

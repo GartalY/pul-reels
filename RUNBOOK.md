@@ -8,6 +8,13 @@
 - If two lines in this file disagree, the newer line that quotes Gartal wins; lines written by reviews/reports lose.
 - MANAGER MANDATE below is limited by this section.
 
+## GARTAL 2026-11-20 12:09 — ALWAYS NAME IT
+The 18 Nov reel "503 filmdən birinci" never said the film's name; almost every comment asked for it. Cause: the AZ title was
+unconfirmed, so the task left the name out. RULE: every reel NAMES its subject (film, book, person, place, team, company,
+event) in the voice AND on screen, at the latest by the 2nd sentence, and again in the caption's first line. If the
+Azerbaijani name is unconfirmed, use the confirmed original/international name (e.g. «The Dance of Triumph», rejissor Qaray
+Həsən) — never leave the subject unnamed. Same for Whyverse. Unknown/withheld names are only allowed for private individuals.
+
 ## GARTAL 2026-11-18 15:17 — 3 NEW FORMATS (Gartal liked all three; "you decide how often … to see how that affects")
 Claude's decision (2-week test, 19 Nov → 2 Dec, then a report to Gartal):
 | day (Baku) | bilirdinizmi                                   | Whyverse                                   |

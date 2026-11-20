@@ -559,3 +559,12 @@ search_carpet_museum.json https://commons.wikimedia.org/w/api.php?action=query&f
 2026-11-20_news_vn_hcm60.html https://baoquocte.vn/ky-niem-60-nam-ngay-chu-tich-ho-chi-minh-tham-azerbaijan-103338.html
 2026-11-20_news_vn_trendaz.html https://www.trend.az/azerbaijan/society/4180892.html
 2026-11-20_news_vn_azernews.html https://www.azernews.az/events/257789.html
+2026-11-21_src_lahic_craft.html https://en.wikipedia.org/wiki/Lah%C4%B1c_copper_craft
+2026-11-21_src_lahic_village.html https://en.wikipedia.org/wiki/Lah%C4%B1c,_Ismailli
+2026-11-21_src_lahic_unesco.html https://ich.unesco.org/en/RL/copper-craftsmanship-of-lahij-00675
+2026-11-21_src_lahic_azertag.html https://azertag.az/en/xeber/lahij___azerbaijani_village_of_copper_craftsmanship_a_unesco_protected_art_form-1976732
+2026-11-21_src_horse_wiki.html https://en.wikipedia.org/wiki/Karabakh_horse
+2026-11-21_src_horse_rct.html https://www.rct.uk/collection/exhibitions/royal-gifts/buckingham-palace/animals-presented-to-the-queen
+2026-11-21_src_horse_modern.html https://modern.az/en/aktual/603302/karabakh-horse-presented-to-elizabeth-ii-during-the-cold-war/
+2026-11-21_src_horse_intellinews.html https://www.intellinews.com/caucasus-blog-all-the-queen-s-horses-98360
+search_lahij.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Lahij%20copper

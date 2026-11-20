@@ -554,3 +554,8 @@ search_carpet_museum.json https://commons.wikimedia.org/w/api.php?action=query&f
 2026-11-20_news_vn_aa.html https://www.aa.com.tr/en/asia-pacific/azerbaijan-president-begins-3-day-visit-to-vietnam-/4131356
 2026-11-20_news_vn_trad.html https://en.nhandan.vn/promoting-traditional-values-in-viet-nam-azerbaijan-relations-post147767.html
 2026-11-20_news_vn_qdnd.html https://en.qdnd.vn/foreign-affairs/bilateral-relations/party-chief-s-visit-to-azerbaijan-to-elevate-bilateral-ties-to-new-height-ambassador-577930
+2026-11-20_news_vn_bakustreet.html https://en.qdnd.vn/economy/news/baku-street-in-vung-tau-city-548729
+2026-11-20_news_vn_caspian.html https://caspianpost.com/analytics/azerbaijan-and-vietnam-open-a-new-chapter-in-bilateral-relations
+2026-11-20_news_vn_hcm60.html https://baoquocte.vn/ky-niem-60-nam-ngay-chu-tich-ho-chi-minh-tham-azerbaijan-103338.html
+2026-11-20_news_vn_trendaz.html https://www.trend.az/azerbaijan/society/4180892.html
+2026-11-20_news_vn_azernews.html https://www.azernews.az/events/257789.html

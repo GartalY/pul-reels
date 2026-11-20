@@ -568,3 +568,9 @@ search_carpet_museum.json https://commons.wikimedia.org/w/api.php?action=query&f
 2026-11-21_src_horse_modern.html https://modern.az/en/aktual/603302/karabakh-horse-presented-to-elizabeth-ii-during-the-cold-war/
 2026-11-21_src_horse_intellinews.html https://www.intellinews.com/caucasus-blog-all-the-queen-s-horses-98360
 search_lahij.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Lahij%20copper
+2026-11-21_src_horse_azernews1.html https://www.azernews.az/nation/193891.html
+2026-11-21_src_horse_azernews2.html https://www.azernews.az/culture/193878.html
+2026-11-21_src_horse_caliber.html https://caliber.az/en/post/uk-queen-elizabeth-ii-presented-with-karabakh-horse
+2026-11-21_src_horse_wah.html https://womanandhome.com/life/royal-news/the-queen-beams-as-she-receives-incredibly-rare-gift-thats-close-to-her-heart
+2026-11-21_src_horse_iwpr.html https://iwpr.net/uvo8a1gb
+search_karabakh_horse.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Karabakh%20horse

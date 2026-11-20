@@ -549,3 +549,8 @@ search_carpet_museum.json https://commons.wikimedia.org/w/api.php?action=query&f
 2026-11-20_news_vn3.html https://apa.az/xarici-siyaset/azerbaycan-prezidentinin-seferi-vyetnam-mediasinin-diqqet-merkezindedir-1015544
 2026-11-20_news_idman.html https://www.idman.biz/az
 2026-11-20_news_azertag.html https://azertag.az/
+2026-11-20_news_vn_pl.html https://www.plenglish.com/news/2026/11/19/azebaijan-president-arrives-in-vietnam-for-the-first-time-in-12-year/
+2026-11-20_news_vn_nd.html https://en.nhandan.vn/president-of-azerbaijan-and-spouse-begin-official-visit-to-vietnam-post169381.html
+2026-11-20_news_vn_aa.html https://www.aa.com.tr/en/asia-pacific/azerbaijan-president-begins-3-day-visit-to-vietnam-/4131356
+2026-11-20_news_vn_trad.html https://en.nhandan.vn/promoting-traditional-values-in-viet-nam-azerbaijan-relations-post147767.html
+2026-11-20_news_vn_qdnd.html https://en.qdnd.vn/foreign-affairs/bilateral-relations/party-chief-s-visit-to-azerbaijan-to-elevate-bilateral-ties-to-new-height-ambassador-577930

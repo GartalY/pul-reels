@@ -574,3 +574,10 @@ search_lahij.json https://commons.wikimedia.org/w/api.php?action=query&format=js
 2026-11-21_src_horse_wah.html https://womanandhome.com/life/royal-news/the-queen-beams-as-she-receives-incredibly-rare-gift-thats-close-to-her-heart
 2026-11-21_src_horse_iwpr.html https://iwpr.net/uvo8a1gb
 search_karabakh_horse.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Karabakh%20horse
+2026-11-21_1_lahic_copper_a.jpg https://upload.wikimedia.org/wikipedia/commons/f/fc/Misg%C9%99rlik.jpg
+2026-11-21_1_lahic_folkart.png https://upload.wikimedia.org/wikipedia/commons/c/c0/Lahic_folk_art.png
+2026-11-21_1_lahic_1219.jpg https://upload.wikimedia.org/wikipedia/commons/9/94/Lahic_1219.jpg
+2026-11-21_1_lahic_1200.jpg https://upload.wikimedia.org/wikipedia/commons/2/2f/Lah%C4%B1c_1200.jpg
+2026-11-21_src_lahic_unescoaz.html https://unesco.az/en/articles/intangible_cultural_heritage/copper-craftsmanship-lahij
+2026-11-21_src_lahic_euronews.html https://www.euronews.com/2021/10/11/the-highly-skilled-art-of-copperware-production-lives-on-in-lahij
+2026-11-21_src_lahic_azernews.html https://www.azernews.az/culture/90396.html

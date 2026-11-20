@@ -50,10 +50,10 @@
   P.shot(ev.c6_s3, (ctx, t) => {
     P.bgPaper(ctx, t, { rays: 0.45, rayCol: C.red, cy: 440, spin: 0.06 });
     P.cstamp(ctx, 'NOW · OCTOBER 2026', 960, 90, t, ev.c6_now, { size: 56, color: C.navy });
-    P.ccount(ctx, { x: 560, y: 360, to: 29.94, decimals: 2, suffix: ' °C', t, t0: ev.c6_2994a, t1: ev.c6_2994, size: 140, sub: 'NIÑO 3.4 · MONTHLY AVERAGE', subSize: 30, cardCol: C.red });
-    P.ccount(ctx, { x: 1360, y: 360, to: 3.21, decimals: 2, prefix: '+', suffix: ' °C', t, t0: ev.c6_321 - 0.6, t1: ev.c6_321, size: 140, sub: 'ABOVE THE 1991–2020 AVERAGE', subSize: 30, cardCol: C.warm });
+    P.ccount(ctx, { x: 560, y: 360, to: 29.94, decimals: 2, suffix: ' °C', t, t0: ev.c6_s3 + 0.6, t1: ev.c6_2994, size: 140, sub: 'NIÑO 3.4 · MONTHLY AVERAGE', subSize: 30, cardCol: C.red });
+    P.ccount(ctx, { x: 1360, y: 360, to: 3.21, decimals: 2, prefix: '+', suffix: ' °C', t, t0: ev.c6_s3 + 1.0, t1: ev.c6_321, size: 140, sub: 'ABOVE THE 1991–2020 AVERAGE', subSize: 30, cardCol: C.warm });
     P.slam(ctx, 'BOTH RECORDS!', 960, 620, t, ev.c6_rec, { size: 110, color: C.yel });
-    [[ev.c6_82, '1982–83'], [ev.c6_97, '1997–98'], [ev.c6_15, '2015–16']].forEach(([t0, lab], i) => P.trophy(ctx, 560 + i * 400, 900, 0.9, lab, { a: P.fin(t, ev.c6_rec, 0.3), fall: P.eio((t - t0) / 0.5) }));
+    [[ev.c6_82, '1982–83'], [ev.c6_97, '1997–98'], [ev.c6_15, '2015–16']].forEach(([t0, lab], i) => P.trophy(ctx, 560 + i * 400, 900, 0.9, lab, { a: P.fin(t, ev.c6_s3 + 0.3, 0.3), fall: P.eio((t - t0) / 0.5) }));
     P.source(ctx, 'Copernicus C3S, 5 Nov 2026', t, ev.c6_2994);
   }, { in: { type: 'zoom', dur: 0.5 } });
 
@@ -61,7 +61,7 @@
   P.shot(ev.c6_s4, (ctx, t) => {
     P.bgFlat(ctx, t, C.cream, { dotCol: C.cyan, dir: 'up', a: 0.25 });
     // probability dial
-    const dk = P.pop(t, ev.c6_noaa, 0.4); if (dk > 0) P.at(ctx, 480, 520, dk, 0, () => { P.iC(ctx, 0, 0, 280, C.white, { lw: 8, shadow: 1 });
+    const dk = P.pop(t, Math.min(ev.c6_noaa, ev.c6_s4 + 0.3), 0.4); if (dk > 0) P.at(ctx, 480, 520, dk, 0, () => { P.iC(ctx, 0, 0, 280, C.white, { lw: 8, shadow: 1 });
       ctx.save(); ctx.fillStyle = C.red; ctx.beginPath(); ctx.moveTo(0, 0); const p = 0.6 * P.eio((t - ev.c6_60a) / Math.max(0.4, ev.c6_60 - ev.c6_60a)); ctx.arc(0, 0, 250, -1.57, -1.57 + p * 6.283); ctx.closePath(); ctx.fill(); ctx.restore();
       P.iC(ctx, 0, 0, 150, C.cream, { lw: 6 }); G.text(ctx, Math.round(p * 100) + '%', 0, 30, { size: 96, fam: 'Bangers', color: C.ink, align: 'center', boil: 0 }); });
     P.caption(ctx, 'NOAA: CHANCE OF THE STRONGEST EL NIÑO SINCE 1950', 120, 60, t, ev.c6_noaa + 0.2, { size: 42 });
@@ -79,8 +79,8 @@
   // S5 — already felt: India's monsoon −13 % · Indonesia's wildfires · Peru warns of an "extraordinary" event
   P.shot(ev.c6_s5, (ctx, t) => {
     P.bgPaper(ctx, t, { rays: 0.2, rayCol: C.warm2, cy: 540 });
-    P.caption(ctx, 'ALREADY BEING FELT', 70, 50, t, ev.c6_felt, { size: 50 });
-    P.panel(ctx, 80, 170, 560, 640, t, ev.c6_india - 0.1, (c) => { c.fillStyle = '#F6D8A0'; c.fillRect(0, 0, 560, 640); P.cloud(c, 280, 150, 0.8); P.drops(c, 200, 200, 160, 120, t, { n: 4 });
+    P.caption(ctx, 'ALREADY BEING FELT', 70, 50, t, ev.c6_s5 + 0.3, { size: 50 });
+    P.panel(ctx, 80, 170, 560, 640, t, Math.min(ev.c6_india - 0.1, ev.c6_s5 + 0.6), (c) => { c.fillStyle = '#F6D8A0'; c.fillRect(0, 0, 560, 640); P.cloud(c, 280, 150, 0.8); P.drops(c, 200, 200, 160, 120, t, { n: 4 });
       P.ccount(c, { x: 280, y: 450, to: -13, prefix: '', suffix: ' %', t, t0: ev.c6_13 - 0.5, t1: ev.c6_13, size: 120, card: false, color: C.red }); G.text(c, 'INDIA\'S MONSOON 2026', 280, 600, { size: 40, fam: 'Bangers', color: C.ink, align: 'center', boil: 0 }); });
     P.panel(ctx, 680, 170, 560, 640, t, ev.c6_indo - 0.1, (c) => { c.fillStyle = '#F3C9A0'; c.fillRect(0, 0, 560, 640); for (let i = 0; i < 4; i++) P.flame(c, 100 + i * 120, 480 - (i % 2) * 30, 1.0, t, { seed: i });
       G.text(c, 'INDONESIA: WILDFIRES', 280, 600, { size: 40, fam: 'Bangers', color: C.ink, align: 'center', boil: 0 }); });

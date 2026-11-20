@@ -1418,6 +1418,67 @@
    "topic": "Anthropic IPO, $81.3B raised, largest IPO on record (first trade 19 Nov 2026)",
    "network": "tiktok",
    "metricool_id": 435454028
+  },
+  {
+   "episode": "ep09_elnino",
+   "kind": "long",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep09/ep09_elnino_long.mp4",
+   "time_london": "2026-11-21T19:00",
+   "time_baku": "2026-11-21T23:00",
+   "network": "youtube",
+   "metricool_id": 436202002,
+   "title": "El Niño: Why One Patch of Ocean Controls the World's Weather",
+   "style": "vintage comic",
+   "fps": 60,
+   "ai_label": true,
+   "duration_s": 599.9,
+   "topic": "El Niño 2026 (Niño 3.4 record 29.94 °C, Oct 2026)",
+   "political": false
+  },
+  {
+   "episode": "ep09_elnino",
+   "kind": "short",
+   "format": "myth",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep09/ep09_s1_pacific_is_tilted.mp4",
+   "time_london": "2026-11-22T23:00",
+   "time_baku": "2026-11-23T03:00",
+   "network": "youtube",
+   "metricool_id": 436202244,
+   "ai_label": true,
+   "fps": 60,
+   "duration_s": 28.0,
+   "title": "The Pacific Ocean Is Tilted (El Niño Explained)",
+   "political": false
+  },
+  {
+   "episode": "ep09_elnino",
+   "kind": "short",
+   "format": "myth",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep09/ep09_s1_pacific_is_tilted.mp4",
+   "time_london": "2026-11-22T23:00",
+   "time_baku": "2026-11-23T03:00",
+   "network": "instagram",
+   "metricool_id": 436202260,
+   "ai_label": true,
+   "fps": 60,
+   "duration_s": 28.0,
+   "title": "The Pacific Ocean Is Tilted (El Niño Explained)",
+   "political": false
+  },
+  {
+   "episode": "ep09_elnino",
+   "kind": "short",
+   "format": "myth",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/ep09/ep09_s1_pacific_is_tilted.mp4",
+   "time_london": "2026-11-22T23:00",
+   "time_baku": "2026-11-23T03:00",
+   "network": "tiktok",
+   "metricool_id": 436202273,
+   "ai_label": true,
+   "fps": 60,
+   "duration_s": 28.0,
+   "title": "The Pacific Ocean Is Tilted (El Niño Explained)",
+   "political": false
   }
  ]
 }

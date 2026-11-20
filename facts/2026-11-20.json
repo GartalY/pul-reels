@@ -149,19 +149,23 @@
  "pending_schedule": null,
  "format_log": {
   "13:00": "fact",
-  "18:30": "guess (trend: Vietnam visit)"
+  "18:30": "guess"
  },
  "media": {
-  "13:00 Xalça Muzeyi": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-20_1300_carpet_museum_silent.mp4"
+  "13:00 Xalça Muzeyi": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-20_1300_carpet_museum_silent.mp4",
+  "18:30 Vyetnam guess": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-20_1830_vietnam_guess.mp4"
  },
  "metricool": {
-  "13:00 reel (Xalça Muzeyi, static, silent, IG REEL)": 434474965
+  "13:00 reel (Xalça Muzeyi, static, silent, IG REEL)": 434474965,
+  "18:30 Vyetnam: neçə vyetnamlı? (GUESS, MOTION 60 fps, Arif, IG REEL)": 435445119
  },
  "tiktok": {
-  "13:00 Xalça Muzeyi": 434475263
+  "13:00 Xalça Muzeyi": 434475263,
+  "18:30 Vyetnam guess": 435445143
  },
  "youtube": {
-  "13:00 Xalça Muzeyi": 434475285
+  "13:00 Xalça Muzeyi": 434475285,
+  "18:30 Vyetnam guess": 435445176
  },
  "ig_type": "REEL (trial reels suspended)",
  "scheduled_check": "20:48 19 Nov: getScheduledPosts for 20 Nov empty before creating; no pending_schedule in 16–20 Nov JSONs. One post per network created.",
@@ -277,6 +281,22 @@
   "arif_mp3": "reels/arif/2026-11-20_1830.mp3",
   "voice": "arif",
   "words_json": "reels/arif/2026-11-20_1830.words.json",
-  "arif_note": "Generated 15:05 Baku after 3 busy retries (14:57, 14:55, 15:00); eleven_v4, 365 credits, 27.0 s; scribe transcript matches voice_text word for word."
- }
+  "arif_note": "Generated 15:05 Baku after 3 busy retries (14:57, 14:55, 15:00); eleven_v4, 365 credits, 27.0 s; scribe transcript matches voice_text word for word.",
+  "caption_credit": "Səs: elevenlabs.io",
+  "build": {
+   "dir": "reels/2026-11-20_1830",
+   "duration_s": 28.33,
+   "fps": 60,
+   "size_mb": 10.1,
+   "lufs": -14.1,
+   "sfx_db": -9,
+   "music": "none (silence)",
+   "critique_rounds": 3,
+   "built_at": "15:38 Baku",
+   "cover_ms": 2600,
+   "timing": "Scribe word starts remapped onto silencedetect phrases (Scribe drifted ~0.5 s early in the first 10 s)"
+  }
+ },
+ "voice": "arif",
+ "scheduled_check_1830": "15:40 20 Nov: getScheduledPosts had only the three 13:00 posts (published); one 18:30 post created per network."
 }

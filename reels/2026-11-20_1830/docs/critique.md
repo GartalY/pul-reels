@@ -1,0 +1,7 @@
+# Neçə vyetnamlı? — critique (20 Nov 2026, 18:30 GUESS reel)
+## Round 1 (hook 7, readability 6, motion 8, variety 8, accuracy 9, sync 9)
+Worst: (1) bottom elements collided with the progress strip (Sənin cavabın?, 3rd countdown card, NEFTÇİLƏR, silhouettes) — every layout lifted to ≤ s.y+1110; (2) route map tiny, scene empty for 1.3 s — pins ×1.45, flags 190 px, VYETNAM pin on the cut; (3) President scene empty on "Prezident" — silhouette + PREZİDENT plate now on the cut, name plate on "İlham".
+## Round 2 (hook 8, readability 8, motion 8, variety 8, accuracy 9, sync 9)
+Worst: (1) confetti drew over the "5 000" answer — moved behind the card; (2) HO Şİ MİN plate small at phone size (50→62 px), Baku pin ×1.45; (3) end card top-heavy and "≈ 5 000" tick touched the digits — card 520 px wide, text shifted, whole card moved down; plates no longer cover heads.
+## Round 3 (hook 8, readability 8, motion 8, variety 8, accuracy 9, sync 9)
+Worst: (1) "Sənin cavabın?" appeared only 0.6 s before the cut — now pops on "yoxsa"; (2)/(3) checked Azerbaijani on screen word by word: SOVET DÖVRÜ, BAKI, VYETNAM, İPUCU, İL, HO Şİ MİN, TƏXMİNƏN, VYETNAMLI TƏLƏBƏ, VUNQ TAU, NEFTÇİLƏR, «BAKI» KÜÇƏSİ, VUNQ TAU, VYETNAM, PREZİDENT, İLHAM ƏLİYEV, 12 İL SONRA, RƏSMİ SƏFƏR · 19–21 NOYABR, BƏYƏN, İZLƏ, hər gün bilmədiyin bir fakt, Cavabını bilən dostuna göndər. The real street sign reads "BAKU" (kept as on the sign); captions follow the script ("1959-cu ildə" for "min doqquz yüz əlli doqquzuncu ildə", "12 il" for "on iki il").

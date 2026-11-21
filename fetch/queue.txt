@@ -587,3 +587,13 @@ search_karabakh_horse.json https://commons.wikimedia.org/w/api.php?action=query&
 2026-11-21_scan_idman.html https://idman.biz/
 2026-11-21_scan_axar.html https://axar.az/
 2026-11-21_scan_report.html https://report.az/
+2026-11-21_src_egov_trend.html https://www.trend.az/azerbaijan/4248968.html
+2026-11-21_src_egov_apa.html https://apa.az/ikt/azerbaycanin-reqemsal-hokumet-reytinqinde-36-pillelik-sicrayisi-ugurun-arxasinda-ne-dayanir-1015796
+2026-11-21_src_egov_un.html https://www.un.org/sustainabledevelopment/blog/2026/11/e-government-survey-2026-press-release/
+2026-11-21_src_egov_kt.html https://www.koreatimes.co.kr/southkorea/politics/20261120/s-korea-returns-to-no-1-in-un-e-government-survey-after-12-years
+2026-11-21_src_egov_xinhua.html https://english.news.cn/20261120/f42c8539bf86401c845367c933d42aee/c.html
+2026-11-21_src_egov_trend2.html https://www.trend.az/azerbaijan/4248931.html
+2026-11-21_src_sabah_azernews.html https://www.azernews.az/sports/267509.html
+2026-11-21_src_sabah_idman.html https://www.idman.biz/az/news/world-football/167646
+2026-11-21_src_ereforms.html https://ereforms.gov.az/en/1148
+2026-11-21_src_egov_apa2.html https://apa.az/ikt/azerbaycanin-bmt-indeksinde-38-ci-yere-yukselmesi-reqemsal-transformasiya-siyasetinin-muhum-ugurudur-serh-1015790

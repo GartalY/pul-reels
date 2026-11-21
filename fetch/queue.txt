@@ -581,3 +581,9 @@ search_karabakh_horse.json https://commons.wikimedia.org/w/api.php?action=query&
 2026-11-21_src_lahic_unescoaz.html https://unesco.az/en/articles/intangible_cultural_heritage/copper-craftsmanship-lahij
 2026-11-21_src_lahic_euronews.html https://www.euronews.com/2021/10/11/the-highly-skilled-art-of-copperware-production-lives-on-in-lahij
 2026-11-21_src_lahic_azernews.html https://www.azernews.az/culture/90396.html
+2026-11-21_scan_apa.html https://apa.az/
+2026-11-21_scan_gtrends.xml https://trends.google.com/trending/rss?geo=AZ
+2026-11-21_scan_trendaz.html https://www.trend.az/
+2026-11-21_scan_idman.html https://idman.biz/
+2026-11-21_scan_axar.html https://axar.az/
+2026-11-21_scan_report.html https://report.az/

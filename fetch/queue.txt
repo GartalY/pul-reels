@@ -597,3 +597,12 @@ search_karabakh_horse.json https://commons.wikimedia.org/w/api.php?action=query&
 2026-11-21_src_sabah_idman.html https://www.idman.biz/az/news/world-football/167646
 2026-11-21_src_ereforms.html https://ereforms.gov.az/en/1148
 2026-11-21_src_egov_apa2.html https://apa.az/ikt/azerbaycanin-bmt-indeksinde-38-ci-yere-yukselmesi-reqemsal-transformasiya-siyasetinin-muhum-ugurudur-serh-1015790
+2026-11-21_src_momine_wiki.json https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&format=json&titles=Momine_Khatun_Mausoleum|Ajami_Nakhchivani
+2026-11-21_src_momine_euronews.html https://www.euronews.com/travel/2018/05/07/momine-khatun-mausoleum
+2026-11-21_src_momine_advantour.html https://advantour.com/azerbaijan/nakhichevan/momine-khatun-mausoleum.htm
+2026-11-21_src_momine_unesco.html https://whc.unesco.org/en/tentativelists/1022/
+2026-11-21_src_heyer_wiki.json https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&format=json&titles=Thor_Heyerdahl|Church_of_Kish|Kon-Tiki_expedition
+2026-11-21_src_heyer_natgeo.html https://outofedenwalk.nationalgeographic.org/2015-12-did-vikings-really-hail-from-the-craggy-caucasus/
+2026-11-21_src_heyer_azertag.html https://azertag.az/en/xeber/thor_heyerdahl_azerbaijanis_should_be_proud_of_their_ancient_culture-1519929
+2026-11-21_src_heyer_azer73.html https://azer.com/aiweb/categories/magazine/73_folder/73_articles/73_thorheyerdahl.html
+2026-11-21_src_heyer_azer82.html https://azer.com/aiweb/categories/magazine/82_folder/82_articles/82_heyerdahl.html

@@ -21,7 +21,7 @@
   AFP, news sites) ARE allowed (Gartal 2026-11-22 01:18: "just go ahead, use Getty, AP or Reuters. If something happens
   legally, I'll handle it"). Then: never use or remove a watermark (pick an unwatermarked copy or skip), credit the source in
   the caption ("Foto: Reuters"), show it ≤ 2–3 s with zoom/crop/overlays, log it in the day JSON (`agency_photos`). If any
-  platform sends a copyright claim/takedown/strike, tell Gartal the same day. Silhouette only if no photo can be obtained.
+  platform sends a copyright claim/takedown/strike, tell Gartal the same day. After the FIRST strike, stop using agency photos until Gartal sets a new rule (Gartal 01:19: "After getting first strike, we can change the rule"). Silhouette only if no photo can be obtained.
 - Private individuals: never shown or named. Victims of crimes/tragedies: no photos. Children: only historical/public-domain.
 - PHOTO STORY look (from the gdh_dijital reel Gartal loved, 22 Nov): real photos with slow zoom/pan, the person's name on the
   photo, motion graphics between photos, a new image every 1–2 s, short captions; voice on top. Allowed in every animated slot.

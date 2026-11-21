@@ -1,0 +1,126 @@
+{
+ "date": "2026-11-22",
+ "status": "planned",
+ "format": "v4",
+ "content_format": "quality_reset_2026-11-12",
+ "planned_note": "Planned in the 2026-11-21 09:10 run. Sun 22 Nov (no format-table slot): 13:00 static factgen reel (no voice, silent track, IG normal REEL) = facts[0] Möminə Xatun türbəsi (photo fetched + checked). 18:30 = animated 60 fps Arif reel about the freshest AZ story (22 Nov 09:10 picks `trend`); if nothing good, facts[1] Tur Heyerdal & the 'Aser = Azerbaijan' theory as the animated backup. Week 16–22 Nov: sports 2/2 used, space 0 — both facts are architecture/mystery. No carousels/quizzes/stories.",
+ "format_log": {
+  "13:00": "fact",
+  "18:30": "trend (backup: fact)"
+ },
+ "facts": [
+  {
+   "n": 1,
+   "type": "reel",
+   "slot": "13:00",
+   "static": true,
+   "voiced": false,
+   "format": "fact",
+   "cat": "Memarlıq",
+   "subject": "Momine Khatun Mausoleum (Möminə Xatun türbəsi), Nakhchivan city. Built 1186 (Euronews 2018; advantour 'April 1186'; Wikipedia Ajami Nakhchivani: date on the walls 1186–1187). Architect Ajami Nakhchivani (Əcəmi Naxçıvani) — Euronews; Wikipedia ('masterpiece of Ajami'). Ten-sided (Wikipedia 'ten-sided'; Euronews '10 decorated facets'; advantour 'decahedral'). Every face covered with ornament and Kufic inscriptions (Wikipedia; advantour). Height today 'more than 25 m' (Wikipedia) / '26 m' (Euronews); originally about 9 m higher with a tent-shaped dome (Euronews: 'originally 9 metres higher'; advantour: 'reaching 34 metres'). Underground burial vault (Wikipedia; advantour). Built in honour of Momine Khatun, wife of Atabeg Shamsaddin Eldaniz (Euronews; Wikipedia says wife of Eldegiz or of his son — so NO family detail in the reel beyond 'Atabəylər dövrü'). 1186 → 2026 = 840 years. NOT used: 'nine of ten sides have different ornaments' (advantour only), who ordered it (sources disagree), UNESCO tentative list (page not verified).",
+   "title": "Möminə Xatun türbəsi: 840 illik «göydələn»",
+   "text": "Naxçıvandakı Möminə Xatun türbəsi 1186-cı ildə tikilib. 10 üzü var, hər üzü naxışla örtülüb.",
+   "reel_hook": "840 İL ƏVVƏL TİKİLƏN 10 ÜZLÜ «GÖYDƏLƏN»",
+   "hook_options": [
+    "840 İL ƏVVƏL TİKİLƏN 10 ÜZLÜ «GÖYDƏLƏN»",
+    "1186: NAXÇIVANIN 9 METRİNİ İTİRƏN QÜLLƏSİ",
+    "10 ÜZ, 0 BOŞ YER: 840 İLLİK NAXIŞ",
+    "25 METRLİK TÜRBƏ ƏSLİNDƏ 34 METR İDİ",
+    "1 MEMAR, 10 ÜZ, 840 İL: MÖMİNƏ XATUN"
+   ],
+   "reel_beats": [
+    "Naxçıvandakı Möminə Xatun türbəsi 1186-cı ildə — 840 il əvvəl tikilib.",
+    "Onu memar Əcəmi Naxçıvani ucaldıb. Türbənin 10 üzü var.",
+    "Hər üzü başdan-ayağa naxışla və kufi yazılarla örtülüb.",
+    "Bu gün hündürlüyü 25 metrdən çoxdur."
+   ],
+   "payoff": "Ən maraqlısı: əvvəllər türbə təxminən 9 metr daha uca idi — üstündə çadırvari günbəz vardı, o, dövrümüzə çatmayıb.",
+   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+   "send_line": "📩 Naxçıvanlı dostuna göndər 🏛️",
+   "caption": "Möminə Xatun türbəsi: 840 illik «göydələn» 🏛️\n\nNaxçıvandakı Möminə Xatun türbəsi 1186-cı ildə memar Əcəmi Naxçıvani tərəfindən tikilib. Türbənin 10 üzü var və hər üzü başdan-ayağa naxışla, kufi yazılarla örtülüb. Bu gün hündürlüyü 25 metrdən çoxdur. Ən maraqlısı: əvvəllər türbə təxminən 9 metr daha uca idi — üstündəki çadırvari günbəz dövrümüzə çatmayıb.\n\n📩 Naxçıvanlı dostuna göndər 🏛️\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nFoto: Sefer azeri / Wikimedia Commons (CC BY-SA 4.0)\n\n#bilirdinizmi #naxçıvan #möminəxatun #əcəminaxçıvani #memarlıq",
+   "first_comment": "Möminə Xatun türbəsini canlı görmüsən? 👇",
+   "youtube_title": "Möminə Xatun türbəsi: 1186-dan qalan 10 üzlü qüllə #shorts",
+   "photo": {
+    "path": "fetch/img/2026-11-22_1_momine_2018.jpg",
+    "credit": "Foto: Sefer azeri / Wikimedia Commons (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:M%C3%B6m%C3%BCn%C9%99xatun_t%C3%BCrb%C9%99si_2018.jpg",
+    "size": [
+     2392,
+     3431
+    ],
+    "cy": 0.45,
+    "full": true,
+    "checked": "21 Nov 09:55: looked at it — clean daylight shot, whole tower, blue sky, no watermark/logo/arcs at thumbnail; look again at full size at build. Alternatives fetched: 2026-11-22_1_momine_2008.jpg (Emil Khalilov, CC BY-SA 4.0, door visible), 2026-11-22_1_momine_cavad.jpg (CC BY-SA 3.0, bush in front — avoid)."
+   },
+   "context_check": "Catches: (1) Height: '25 m+' (Wikipedia) vs '26 m' (Euronews) → '25 metrdən çox'. (2) Original height: Euronews '9 m higher', advantour '34 m' → 'təxminən 9 metr daha uca'. (3) Whose wife/who ordered — sources disagree → not said. (4) Nakhchivan only as place (no conflict-adjacent lines).",
+   "language_check": "Read aloud 21 Nov: 'Möminə Xatun', 'Əcəmi Naxçıvani', 'kufi yazılar', 'çadırvari günbəz', 'başdan-ayağa'; numbers with nbsp (1186, 840).",
+   "sources": [
+    "https://www.euronews.com/travel/2018/05/07/momine-khatun-mausoleum",
+    "https://en.wikipedia.org/wiki/Ajami_Nakhchivani",
+    "https://en.wikipedia.org/wiki/Momine_Khatun_Mausoleum",
+    "https://advantour.com/azerbaijan/nakhichevan/momine-khatun-mausoleum.htm"
+   ]
+  },
+  {
+   "n": 2,
+   "type": "reel",
+   "slot": "18:30 backup",
+   "motion": true,
+   "fps": 60,
+   "voiced": "Arif",
+   "format": "fact",
+   "cat": "Sirlər",
+   "subject": "Thor Heyerdahl (Norwegian explorer, Kon-Tiki raft 1947 across the Pacific, ~4 300 miles ≈ 6 900 km — HISTORY.com 'completes 4,300-mile ocean voyage', 7 Aug 1947; died 18 Apr 2002 aged 87 — HISTORY.com). His Azerbaijan theory: an old Icelandic saga says Odin, the Norse god and mythic ancestor of the Vikings, came to Scandinavia from an eastern land called 'Aser' — Heyerdahl linked it to Azerbaijan (NatGeo Out of Eden 2015 '800-year-old Icelandic saga … As-hov or Aser'; Azerbaijan International 8.2). He was drawn by Gobustan petroglyph boats that resemble Scandinavian ones (Azerbaijan International 7.3: 'ship designs … similar'; 8.2: 'petroglyphs that feature reed ships'). Visits: 1980/81, 1994, 1999 (AI 7.3 'third visit'), fourth in Sept 2000 at 86 (AI 8.4). In 2000 he took part in the excavation in Kiş (Shaki); a monument to him stands in Kiş (Wikipedia 'Kiş, Shaki': 'monument to … Thor Heyerdahl, who visited the village during archaeological excavations in 2000'; NatGeo: bronze bust). TWIST (honest): no hard evidence for Norwegian–Azerbaijani ancestry (NatGeo, archaeologist Jeyhun Eminli: 'great traveler … not much of a scientist'); the Gobustan boat engravings are far older than the Vikings — Neolithic (NatGeo); most scholars never embraced his theories (HISTORY.com). NOT used: Kish church origin claims (contested, conflict-adjacent), '101 days' (only from memory — VERIFY at build before using), exact first-visit year (1980 vs 1981).",
+   "title": "Norveçli səyyah: «Vikinqlərin əcdadı Azərbaycandan gəlib»",
+   "reel_hook": "6 900 KM SAL İLƏ ÜZƏN ADAMIN ƏN QƏRİBƏ İDDİASI: VİKİNQLƏR AZƏRBAYCANDAN?",
+   "hook_options": [
+    "6 900 KM SAL İLƏ ÜZƏN ADAMIN ƏN QƏRİBƏ İDDİASI: VİKİNQLƏR AZƏRBAYCANDAN?",
+    "4 DƏFƏ BAKIYA GƏLƏN NORVEÇLİ NƏYİ AXTARIRDI?",
+    "800 İLLİK SAQA: ODİN «ASER» ÖLKƏSİNDƏN GƏLİB",
+    "1 TANRI, 1 SÖZ, 1 NƏZƏRİYYƏ: ASER = AZƏRBAYCAN?",
+    "QOBUSTANDAKI GƏMİLƏR VİKİNQLƏRDƏN QƏDİMDİR"
+   ],
+   "reel_beats": [
+    "1947-ci ildə Tur Heyerdal sadə taxta salla Sakit okeanı keçdi — təxminən 6 900 kilometr.",
+    "Sonra o, 4 dəfə Azərbaycana gəldi. Səbəb? Qədim İslandiya saqası: tanrı Odin Skandinaviyaya «Aser» adlı ölkədən gəlib.",
+    "Heyerdal düşünürdü: Aser — Azərbaycandır. Qobustan qayalarındakı gəmi rəsmləri də ona Norveç gəmilərini xatırladırdı.",
+    "2000-ci ildə, 86 yaşında, Şəkinin Kiş kəndində qazıntılara qatıldı. Bu gün orada ona abidə var."
+   ],
+   "payoff": "Amma alimlər onun nəzəriyyəsini sübut olunmuş saymır: Qobustan gəmiləri vikinqlərdən min illərlə qədimdir. Sirr isə hələ də danışılır.",
+   "voice_texts": [
+    "Altı min doqquz yüz kilometr sal ilə üzən adam deyirdi: vikinqlərin əcdadı Azərbaycandan gəlib!",
+    "Min doqquz yüz qırx yeddidə Tur Heyerdal taxta salla Sakit okeanı keçdi.",
+    "Sonra dörd dəfə Azərbaycana gəldi. Səbəb — qədim İslandiya saqası: tanrı Odin «Aser» adlı ölkədən gəlib.",
+    "Heyerdal düşünürdü ki, Aser — Azərbaycandır. Qobustandakı gəmi rəsmləri də ona Norveç gəmilərini xatırladırdı.",
+    "İki mində, səksən altı yaşında, Şəkinin Kiş kəndində qazıntıya qatıldı. Orada ona abidə var.",
+    "Amma alimlər bunu sübut olunmuş saymır: Qobustan gəmiləri vikinqlərdən min illərlə qədimdir.",
+    "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
+   ],
+   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+   "send_line": "📩 Tarix sevən dostuna göndər 🛶",
+   "caption": "Tur Heyerdal: «Vikinqlərin əcdadı Azərbaycandan gəlib»? 🛶\n\nNorveçli səyyah Tur Heyerdal 1947-ci ildə taxta salla Sakit okeanı keçdi — təxminən 6 900 km. Sonra 4 dəfə Azərbaycana gəldi. Səbəb: qədim İslandiya saqasına görə, tanrı Odin Skandinaviyaya «Aser» adlı ölkədən gəlib. Heyerdal bunu Azərbaycanla bağlayırdı, Qobustandakı gəmi rəsmləri də ona Norveç gəmilərini xatırladırdı. 2000-ci ildə Şəkinin Kiş kəndində qazıntılara qatıldı — orada ona abidə var. Amma alimlər bu nəzəriyyəni sübut olunmuş saymır: Qobustan gəmiləri vikinqlərdən min illərlə qədimdir.\n\n📩 Tarix sevən dostuna göndər 🛶\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nSəs: elevenlabs.io\n\n#bilirdinizmi #turheyerdal #qobustan #şəki #vikinqlər",
+   "first_comment": "Sən necə düşünürsən: Heyerdal haqlı ola bilərdimi? 👇",
+   "youtube_title": "Tur Heyerdal: vikinqlərin əcdadı Azərbaycandan? #shorts",
+   "visual_ideas": [
+    "Frame 0: '6 900 KM' big number over a code-drawn balsa raft with a square sail on a wavy ocean line; hook text; corner counter '1/4'.",
+    "Map: dashed line across a flat Pacific, km counter 0 → 6 900; '1947' stamp.",
+    "Saga scroll unrolls: text «ODİN … ASER» (no real Norse artwork, generic scroll); arrow from a flat Scandinavia shape to a question mark over the Caucasus.",
+    "Gobustan: a rock wall with simple carved boat lines (crescent hull + vertical crew strokes) — then a Viking-style longship outline slides next to it for comparison.",
+    "Heyerdahl = SILHOUETTE (tall, white hair outline, beard shape); trowel + dig pit; '2000 · 86 yaş' chip; a plinth with a bust silhouette 'Kiş, Şəki'.",
+    "Twist: big '?' stamp, then 'SÜBUT YOXDUR' label; timeline bar shows Gobustan boats far left (thousands of years ago) vs Vikings far right.",
+    "CTA card; loop line back to '6 900 KM'."
+   ],
+   "sfx": "waves whoosh (raft), paper unroll (scroll), soft chisel taps (petroglyph), thud (stamp); no music, no tonal stings.",
+   "context_check": "Catches: (1) The theory is NOT accepted (NatGeo, HISTORY.com) → say so clearly; never 'proved'. (2) Gobustan boats are Neolithic, far older than Vikings (NatGeo) — that's the honest twist. (3) Kiş church origin is contested between historiographies → only 'Kiş kəndində qazıntı' + monument, no church claims. (4) Kon-Tiki distance '≈ 6 900 km' (4 300 miles, HISTORY.com) — 'təxminən'. (5) Category quota: history/mystery, not space/sports.",
+   "language_check": "Read aloud 21 Nov: 'Tur Heyerdal' (AZ spelling), 'saqa', 'Odin', 'Aser', 'Qobustan', 'Kiş', 'vikinqlər', 'əcdad'; numbers with nbsp (6 900).",
+   "sources": [
+    "https://outofedenwalk.nationalgeographic.org/2015-12-did-vikings-really-hail-from-the-craggy-caucasus/",
+    "https://www.history.com/this-day-in-history/august-7/wood-raft-makes-4300-mile-voyage",
+    "https://azer.com/aiweb/categories/magazine/73_folder/73_articles/73_thorheyerdahl.html",
+    "https://azer.com/aiweb/categories/magazine/82_folder/82_articles/82_heyerdahl.html",
+    "https://www.azer.com/aiweb/categories/magazine/84_folder/84_articles/84_kish.html",
+    "https://en.wikipedia.org/wiki/Ki%C5%9F,_Shaki"
+   ]
+  }
+ ]
+}

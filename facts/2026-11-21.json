@@ -6,7 +6,7 @@
  "planned_note": "Planned in the 2026-11-20 09:10 run. Sat 21 Nov (no format-table slot): 13:00 static factgen reel (no voice, silent track, IG normal REEL) = facts[0] Lahıc copper craft (photo fetched + checked). 18:30 = animated 60 fps Arif reel about the freshest AZ story (21 Nov 09:10 picks `trend`); if nothing good, facts[1] Karabakh horse (Zaman 1956 → Şöhrət 2022) as the animated backup. No carousels/quizzes/stories.",
  "format_log": {
   "13:00": "fact",
-  "18:30": "trend (backup: fact)"
+  "18:30": "trend (UN e-gov 74 → 38; backup: fact Karabakh horse)"
  },
  "facts": [
   {
@@ -157,5 +157,80 @@
  "youtube": {
   "13:00 Lahıc mis": 435818951
  },
- "pending_schedule": null
+ "pending_schedule": null,
+ "trend": {
+  "n": "T",
+  "type": "reel",
+  "format": "animated_1830",
+  "content_format": "trend",
+  "post_format": "trend",
+  "cat": "Texnologiya",
+  "hook_type": "single story (fresh AZ national news + number jump, ranking twist)",
+  "picked_at": "09:15–09:50 Baku 21 Nov",
+  "source_scan": "21 Nov: fetch job read apa.az, axar.az, trend.az, idman.biz homepages + Google Trends AZ RSS (top: 'сумгаит – сабах' 1000+ = Sabah 5-1 Sumqayıt, top of Premier League; 'газоснабжение' 1000+ gas cut notices; 'аэропорт' 500+ (Pulkovo/Khrabrovo items, not AZ); 'uefa'/'бавария – кёльн' 200+; 'azerbaycan' 100+ = negative foreign press, skipped); report.az blocked (5 KB Cloudflare page). WebSearch: Azerbaijan news 20/21 Nov, AZ athletes gold, world news 20 Nov, UN E-Government Survey 2026. AZ found: UN E-Government Survey 2026 (released 19 Nov NY, AZ news 20 Nov) — Azerbaijan 74th → 38th — PICK; Aliyev Vietnam visit day 3 (used 20 Nov); Sabah v Barcelona UCL in Baku 25 Nov, ~50 000 tickets (sports quota 2/2 used this week → runner-up for 24–25 Nov); Sabah 5-1 Sumqayıt (sports, quota); wind power output ×13 (trend.az, runner-up); Məleykə Abbaszadə new BSU rector + dismissals (personnel/controversy, skipped); Naftalan 3 pupils hit by car, Şəmkir death, Tbilisi blast condolences (tragedy, skipped); ISIS-K detentions, Eternity-2026 exercise (security/military, skipped); Armenia statements, missing persons (conflict, skipped). World: Bitcoin < $60 000 (apa 01:44), Peru M6.7 quake, Iran/Hormuz, Ukraine (war, skipped), GTA VI record revenue (used 19 Nov), Ronaldo 986th goal. AZ-angle searches for the e-gov story: 'Azerbaijan 38th UN E-Government', 'UN E-Government Survey 2026 Korea' (China 41st, Japan 29th, USA 13th).",
+  "rule_note": "AZ POLITICS RULE: positive/neutral national achievement (UN ranking), facts only, numbers from UN DESA via 2+ sources, no praise words of our own, no officials' quotes needed (no names of ministers). SUNDAY DECISIONS 1 / E8: Azerbaijan IS the story. TOPICS + HOOKS: technology/money category (not space/sports).",
+  "quota_note": "Week Mon 16–Sun 22 Nov: sports 2/2 used (16, 17 Nov), space 0 — this is technology, OK. Sat = no format-table slot → trend.",
+  "subject": "UN E-Government Survey 2026 (UN DESA, biennial since 2002, presented in New York 19 Nov 2026; 193 UN members + Palestine = 194 assessed). Azerbaijan: 74th in 2024 → 38th in 2026 (+36 places), EGDI 0.7607 → 0.8847 (+16.3 %) (trend.az 4248968; apa.az 1015796; apa.az 1015790). History: 70th in 2020, 83rd in 2022 (trend.az; apa.az 1015790 also 56th 2016, 70th 2018) → +45 places in 4 years (trend.az). Online Services Index: 67th → 11th (apa.az 1015796; '56-place rise to 11th' trend.az 4248931; apa.az 1015790). Nov 2025 (WTDC-25, Baku) target was 'top 40 within five years' — reached in the 2026 report (apa.az 1015796; trend.az 'aims to rank among top 30' older report.az piece is a different, later target — not used). World: South Korea 1st (0.9794) — first time in 12 years; Denmark 2nd, Singapore 3rd; USA 13th, Japan 29th, China 41st (Korea Times 20 Nov; Xinhua 19 Nov top-10 list; apa.az 1015790 'ahead of China, France, Italy…'). NOT used (single source): '3rd biggest jump in the world', e-participation 88th → 17th, myGov 430+ services, OSI ahead of UK/USA/Canada.",
+  "reel_hook": "2 İLDƏ 36 PİLLƏ: BMT SİYAHISINDA AZƏRBAYCAN ÇİNİ DƏ ÖTDÜ",
+  "hook_options": [
+   "2 İLDƏ 36 PİLLƏ: BMT SİYAHISINDA AZƏRBAYCAN ÇİNİ DƏ ÖTDÜ",
+   "74-DƏN 38-Ə: 194 ÖLKƏLİK SİYAHIDA ƏN BÖYÜK SIÇRAYIŞLARDAN BİRİ",
+   "67-Cİ YERDƏN 11-Cİ YERƏ: ONLAYN XİDMƏTLƏRDƏ AZƏRBAYCAN",
+   "5 İLƏ PLANLANAN HƏDƏF 1 İLƏ ALINDI: TOP-40",
+   "83 → 74 → 38: 4 İLDƏ 45 PİLLƏ YUXARI"
+  ],
+  "reel_beats": [
+   "BMT 194 ölkənin elektron hökumət reytinqini açıqladı. Azərbaycan 2024-cü ildə 74-cü idi — indi 38-ci.",
+   "Yəni iki ildə 36 pillə yuxarı. 2022-ci ildə isə 83-cü idik.",
+   "Ən böyük sıçrayış onlayn dövlət xidmətlərindədir: 67-ci yerdən 11-ci yerə.",
+   "Siyahıda Azərbaycan Çindən (41-ci) yuxarıdadır. Birinci yer isə 12 il sonra yenə Cənubi Koreyanındır."
+  ],
+  "payoff": "Ən maraqlısı: keçən il hədəf «beş ilə ilk 40-a girmək» idi — bu, cəmi bir ilə alındı.",
+  "voice_texts": [
+   "İki ildə otuz altı pillə! BMT yüz doxsan dörd ölkənin elektron hökumət siyahısını açıqladı.",
+   "Azərbaycan iki min iyirmi dörddə yetmiş dördüncü idi — indi otuz səkkizinci.",
+   "Ən böyük sıçrayış onlayn dövlət xidmətlərində: altmış yeddincidən on birinci yerə.",
+   "Siyahıda Azərbaycan Çindən də yuxarıdadır. Birinci isə on iki il sonra yenə Cənubi Koreya.",
+   "Ən maraqlısı: keçən il hədəf beş ilə ilk qırxa girmək idi — bir ilə alındı.",
+   "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
+  ],
+  "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+  "send_line": "📩 Hər şeyi myGov-dan edən dostuna göndər 📱",
+  "caption": "BMT siyahısında Azərbaycan: 74-cü yerdən 38-ci yerə 📱\n\nBMT-nin 2026-cı il Elektron Hökumət Sorğusu açıqlandı — 194 ölkə qiymətləndirilib. Azərbaycan 2024-cü ildə 74-cü idi, indi 38-ci yerdədir: iki ildə 36 pillə yuxarı. Ən böyük sıçrayış onlayn dövlət xidmətlərində olub — 67-ci yerdən 11-ci yerə. Siyahıda Azərbaycan Çindən (41-ci) yuxarıdadır, birinci yer isə 12 il sonra yenidən Cənubi Koreyanındır. Ən maraqlısı: keçən il hədəf «beş ilə ilk 40-a girmək» idi — bir ilə alındı.\n\n📩 Hər şeyi myGov-dan edən dostuna göndər 📱\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nSəs: elevenlabs.io\n\n#bilirdinizmi #azərbaycan #bmt #elektronhökumət #mygov",
+  "first_comment": "Sən hansı dövlət xidmətindən ən çox onlayn istifadə edirsən? 👇",
+  "youtube_title": "Azərbaycan BMT siyahısında 74-dən 38-ə: 2 ildə 36 pillə #shorts",
+  "visual_ideas": [
+   "Frame 0: giant '+36' slams in (spring), under it a ranking ladder; big text = hook; corner progress counter '1/4'.",
+   "A tall code-drawn leaderboard (rows with numbers, no flags of other countries needed — country names as text chips): a highlighted 'AZƏRBAYCAN' chip climbs from row 74 to row 38, rows whoosh past, running number 74 → 38.",
+   "Flashback strip: three year-cards flip in 2022 · 83 → 2024 · 74 → 2026 · 38 (line graph grows; data animation style).",
+   "Online services: a flat phone with app tiles popping in (document, car, house, ID-card icons — generic, no logos), meter needle 67 → 11.",
+   "Twist: the AZ chip slides past a 'ÇİN · 41' chip (no flag), then camera tilts up to '1 · CƏNUBİ KOREYA' with a small '12 il sonra' stamp.",
+   "Payoff: a calendar with '5 İL' crossed out, '1 İL' stamped; '40' target ring, AZ chip lands inside it at 38.",
+   "Source line on screen bottom: 'Mənbə: BMT DESA, E-Government Survey 2026'. CTA card; loop back to '+36'."
+  ],
+  "sfx": "tick (counter), whoosh (rows passing), pop (app tiles), soft thud (stamp); no music, no tonal stings.",
+  "context_check": "Catches: (1) 194 assessed (193 UN members + Palestine) — say '194 ölkə'. (2) This is the UN DESA EGDI (e-government), not a general 'digital' or 'internet speed' ranking — wording 'elektron hökumət'. (3) Jump is relative to 2024 (74th); 2016 was 56th, so not 'always low' — don't say 'from the bottom'. (4) '3rd biggest jump' is single-source → not used. (5) China comparison is overall EGDI (AZ 38 vs China 41), not online services. (6) No minister names/quotes, no praise words. 15:23: if the UN DESA country page / press release is reachable, re-confirm 38th and 0.8847.",
+  "language_check": "Read aloud 21 Nov: 'elektron hökumət', 'pillə', 'onlayn dövlət xidmətləri', 'Cənubi Koreya', 'otuz səkkizinci', 'yetmiş dördüncü', 'altmış yeddincidən on birinci yerə'; numbers with nbsp on images (194, 36).",
+  "sources": [
+   "https://www.trend.az/azerbaijan/4248968.html",
+   "https://www.trend.az/azerbaijan/4248931.html",
+   "https://apa.az/ikt/azerbaycanin-reqemsal-hokumet-reytinqinde-36-pillelik-sicrayisi-ugurun-arxasinda-ne-dayanir-1015796",
+   "https://apa.az/ikt/azerbaycanin-bmt-indeksinde-38-ci-yere-yukselmesi-reqemsal-transformasiya-siyasetinin-muhum-ugurudur-serh-1015790",
+   "https://www.koreatimes.co.kr/southkorea/politics/20261120/s-korea-returns-to-no-1-in-un-e-government-survey-after-12-years",
+   "https://english.news.cn/20261120/f42c8539bf86401c845367c933d42aee/c.html",
+   "https://www.un.org/sustainabledevelopment/blog/2026/11/e-government-survey-2026-press-release/"
+  ],
+  "runners_up": [
+   {
+    "story": "Sabah v Barcelona, UEFA Champions League league phase MD5, Baku, Wed 25 Nov 21:45 Baku — about 50 000 tickets sold (azernews 267509; idman.biz 167646: Sabah's 13 European home games had no draw, 26 European games no 0-0).",
+    "why": "Biggest AZ sports story of the coming week. Sports quota for 16–22 Nov is used → NOT for today; strong candidate for the 24 or 25 Nov 18:30 (new week's quota). CONTEXT CHECK before: Sabah's UCL table, Barcelona form."
+   },
+   {
+    "story": "Azerbaijan's wind power output up more than 13× in Jan–Oct 2026 (trend.az 4248893 'wind output jumps over 13-fold'; apa.az 1015744).",
+    "why": "AZ number story (energy/technology); fallback if 15:23 finds a problem with the e-gov numbers. Needs the absolute numbers (kWh) and the plant name (Khizi-Absheron?) verified."
+   }
+  ],
+  "status": "picked 09:50 21 Nov; 15:23 re-check keeps unless a bigger AZ story breaks. Backup = facts[1] Karabakh horse."
+ },
+ "trend_check_morning": "09:15–09:50 21 Nov: picked UN E-Government Survey 2026 (AZ 74th → 38th). Sports quota used (Sabah–Barcelona 25 Nov noted as runner-up for next week). No pending_schedule in 19–21 Nov JSONs."
 }

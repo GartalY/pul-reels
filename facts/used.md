@@ -51,3 +51,5 @@
 - 2026-11-20 trend (09:10 pick for 18:30, GUESS): Aliyev official visit to Vietnam 19–21 Nov (1st since 2014) — ~5 000 Vietnamese studied in AZ, Ho Chi Minh in Baku 1959, 'Baku' street in Vung Tau
 - 2026-11-21 (planned): Lahıc copper craft — workshop since 1725, Louvre, UNESCO 2015 (13:00 static) · Karabakh horse: 'Zaman' to Elizabeth II 1956 (Khrushchev) → 'Şöhrət' 2022, 66 years (18:30 animated backup)
 - 2026-11-21 13:00: Lahıc copper craft (1725 workshop, Louvre, UNESCO 2015)
+- 2026-11-22 (planned): Möminə Xatun türbəsi — 1186, Əcəmi Naxçıvani, 10 faces, 25 m+ (≈9 m lost) (13:00 static) · Thor Heyerdahl: Kon-Tiki ~6 900 km, Odin/'Aser' theory, Gobustan boats, Kiş 2000 — theory unproven (18:30 animated backup)
+- 2026-11-21 trend (09:10 pick for 18:30): UN E-Government Survey 2026 — AZ 74th → 38th (+36), online services 67 → 11, above China (41), Korea 1st after 12 years

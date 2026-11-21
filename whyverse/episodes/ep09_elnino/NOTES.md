@@ -1,6 +1,6 @@
 # Ep09 — El Niño: Why One Patch of Ocean Controls the World's Weather — NOTES
 
-status: DONE — scheduled (YouTube Sat 21 Nov 2026 19:00 London / 23:00 Baku, Metricool 436202002; cut Short YouTube/Instagram/TikTok Sun 22 Nov 23:00 London / Mon 23 Nov 03:00 Baku, Metricool 436202244 / 436202260 / 436202273; see ../../posts.json, PUBLISH.md)
+status: DONE — PUBLISHED Sat 21 Nov 2026 19:00 London / 23:00 Baku (https://www.youtube.com/watch?v=lhD7lgIP8e4, Metricool 436202002; thumbnail + .srt sent to Gartal 19:15 London); cut Short YouTube/Instagram/TikTok Sun 22 Nov 23:00 London / Mon 23 Nov 03:00 Baku, Metricool 436202244 / 436202260 / 436202273; see ../../posts.json, PUBLISH.md)
 
 - **Timing:** the run started Fri 20 Nov 20:26 London (Sat 21 Nov 00:26 Baku, HTTP Date header from pypi.org). Baku "today" = Sat 21 Nov → long video Sat 19:00 London;
   the cut Short the day after at 23:00 London (never 19:00 Baku — the daily trend Short's slot).

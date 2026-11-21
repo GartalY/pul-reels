@@ -249,6 +249,9 @@
   ],
   "voice_text": "İki ildə otuz altı pillə! BMT yüz doxsan dörd ölkənin elektron hökumət siyahısını açıqladı. Azərbaycan iki il əvvəl yetmiş dördüncü idi. İndi otuz səkkizincidir. Ən böyük sıçrayış onlayn dövlət xidmətlərindədir: altmış yeddincidən on birinci yerə. Azərbaycan Çindən yuxarıdadır. Ən maraqlısı: keçən il hədəf beş ilə ilk qırxa girmək idi. Bir ilə alındı. Bəyən və izlə — hər gün bilmədiyin bir fakt!",
   "language_check": "Read aloud 14:50: short sentences, all numbers written out; 'iki il əvvəl' instead of 'iki min iyirmi dörddə'; 'otuz səkkizincidir', 'onlayn dövlət xidmətlərindədir', 'beş ilə ilk qırxa girmək'. 60 words, 401 chars.",
-  "caption_credit": "Səs: elevenlabs.io"
+  "caption_credit": "Səs: elevenlabs.io",
+  "arif_mp3": "reels/arif/2026-11-21_1830.mp3",
+  "voice": "arif",
+  "arif_note": "Generated 14:57 Baku on the first try; eleven_v4, 398 credits, 27.2 s (flow vDWoW8nbvSMf8XwOJHi2)."
  }
 }

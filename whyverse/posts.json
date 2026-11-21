@@ -1527,6 +1527,54 @@
    "duration_s": 21.6,
    "title": "Airbnb Checkout Chores: 3 Things Your Host Can't Make You Do",
    "political": false
+  },
+  {
+   "episode": "short_2026-11-21_seabed-31-5m-acres",
+   "kind": "trend",
+   "format": "trend",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-21_seabed-31-5m-acres.mp4",
+   "time_london": "2026-11-21T15:00",
+   "time_baku": "2026-11-21T19:00",
+   "ai_label": true,
+   "fps": 60,
+   "duration_s": 26.2,
+   "style": "deep-sea sonar (ocean gradient, cyan line art, amber numbers, LEASE BOARD)",
+   "political": true,
+   "title": "Deep-Sea Mining: US Leases 31.5 Million Acres of Seabed for $6M",
+   "network": "youtube",
+   "metricool_id": 436600864
+  },
+  {
+   "episode": "short_2026-11-21_seabed-31-5m-acres",
+   "kind": "trend",
+   "format": "trend",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-21_seabed-31-5m-acres.mp4",
+   "time_london": "2026-11-21T15:00",
+   "time_baku": "2026-11-21T19:00",
+   "ai_label": true,
+   "fps": 60,
+   "duration_s": 26.2,
+   "style": "deep-sea sonar (ocean gradient, cyan line art, amber numbers, LEASE BOARD)",
+   "political": true,
+   "title": "Deep-Sea Mining: US Leases 31.5 Million Acres of Seabed for $6M",
+   "network": "instagram",
+   "metricool_id": 436600878
+  },
+  {
+   "episode": "short_2026-11-21_seabed-31-5m-acres",
+   "kind": "trend",
+   "format": "trend",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-21_seabed-31-5m-acres.mp4",
+   "time_london": "2026-11-21T15:00",
+   "time_baku": "2026-11-21T19:00",
+   "ai_label": true,
+   "fps": 60,
+   "duration_s": 26.2,
+   "style": "deep-sea sonar (ocean gradient, cyan line art, amber numbers, LEASE BOARD)",
+   "political": true,
+   "title": "Deep-Sea Mining: US Leases 31.5 Million Acres of Seabed for $6M",
+   "network": "tiktok",
+   "metricool_id": 436600893
   }
  ]
 }

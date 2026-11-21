@@ -1,6 +1,6 @@
 {
  "date": "2026-11-22",
- "status": "planned",
+ "status": "13:00 scheduled (static Möminə Xatun, no voice, silent track, IG REEL); 18:30 animated Arif reel = 14:47/15:23 tasks",
  "format": "v4",
  "content_format": "quality_reset_2026-11-12",
  "planned_note": "Planned in the 2026-11-21 09:10 run. Sun 22 Nov (no format-table slot): 13:00 static factgen reel (no voice, silent track, IG normal REEL) = facts[0] Möminə Xatun türbəsi (photo fetched + checked). 18:30 = animated 60 fps Arif reel about the freshest AZ story (22 Nov 09:10 picks `trend`); if nothing good, facts[1] Tur Heyerdal & the 'Aser = Azerbaijan' theory as the animated backup. Week 16–22 Nov: sports 2/2 used, space 0 — both facts are architecture/mystery. No carousels/quizzes/stories.",
@@ -59,7 +59,16 @@
     "https://en.wikipedia.org/wiki/Ajami_Nakhchivani",
     "https://en.wikipedia.org/wiki/Momine_Khatun_Mausoleum",
     "https://advantour.com/azerbaijan/nakhichevan/momine-khatun-mausoleum.htm"
-   ]
+   ],
+   "build": {
+    "file": "out/2026-11-22/1_reel.mp4",
+    "dur_s": 22.6,
+    "voice": null,
+    "sound": "pure silence (volumedetect max -91.0 dB)",
+    "photo_used": "fetch/img/2026-11-22_1_momine_2018.jpg",
+    "spec": "out/2026-11-22/1_reel_spec.json",
+    "checked": "20:48 21 Nov: photo checked full size (clean, no watermark). 2 frame sheets: v1 OK; v2 adds NBSP in '840 il', '10 üzü', '25 metrdən', '9 metr' so they never split. Hook number-first, Möminə Xatun named in beat 1 + caption line 1; AZ letters (İ Ə ı ş ç ö ü « ») fine; beats on dark backing in safe zone; CTA pill last."
+   }
   },
   {
    "n": 2,
@@ -122,5 +131,20 @@
     "https://en.wikipedia.org/wiki/Ki%C5%9F,_Shaki"
    ]
   }
- ]
+ ],
+ "ig_type": "REEL (trial reels suspended)",
+ "media": {
+  "13:00 Möminə Xatun": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-22_1300_momine_xatun_silent.mp4"
+ },
+ "metricool": {
+  "13:00 reel (Möminə Xatun, static, silent, IG REEL)": 436835695
+ },
+ "tiktok": {
+  "13:00 Möminə Xatun": 436835849
+ },
+ "youtube": {
+  "13:00 Möminə Xatun": 436835864
+ },
+ "pending_schedule": null,
+ "scheduled_check": "20:50 21 Nov: getScheduledPosts for 22 Nov empty before creating; no pending_schedule in 20–22 Nov JSONs. One post per network created."
 }

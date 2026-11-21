@@ -1479,6 +1479,54 @@
    "duration_s": 28.0,
    "title": "The Pacific Ocean Is Tilted (El Niño Explained)",
    "political": false
+  },
+  {
+   "format": "fact",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/facts/2026-11-21_airbnb-3-chores.mp4",
+   "network": "instagram",
+   "metricool_id": 436434300,
+   "type": "static_fact",
+   "topic": "Airbnb checkout chores rule, bookings from 20 Nov 2026 (trend scout 21 Nov #3)",
+   "kind": "fact_short",
+   "time_london": "2026-11-21 23:00",
+   "time_baku": "2026-11-22 03:00",
+   "ai_label": true,
+   "fps": 60,
+   "duration_s": 21.6,
+   "title": "Airbnb Checkout Chores: 3 Things Your Host Can't Make You Do",
+   "political": false
+  },
+  {
+   "format": "fact",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/facts/2026-11-21_airbnb-3-chores.mp4",
+   "network": "tiktok",
+   "metricool_id": 436434311,
+   "type": "static_fact",
+   "topic": "Airbnb checkout chores rule, bookings from 20 Nov 2026 (trend scout 21 Nov #3)",
+   "kind": "fact_short",
+   "time_london": "2026-11-21 23:00",
+   "time_baku": "2026-11-22 03:00",
+   "ai_label": true,
+   "fps": 60,
+   "duration_s": 21.6,
+   "title": "Airbnb Checkout Chores: 3 Things Your Host Can't Make You Do",
+   "political": false
+  },
+  {
+   "format": "fact",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/facts/2026-11-21_airbnb-3-chores.mp4",
+   "network": "youtube",
+   "metricool_id": 436434320,
+   "type": "static_fact",
+   "topic": "Airbnb checkout chores rule, bookings from 20 Nov 2026 (trend scout 21 Nov #3)",
+   "kind": "fact_short",
+   "time_london": "2026-11-21 23:00",
+   "time_baku": "2026-11-22 03:00",
+   "ai_label": true,
+   "fps": 60,
+   "duration_s": 21.6,
+   "title": "Airbnb Checkout Chores: 3 Things Your Host Can't Make You Do",
+   "political": false
   }
  ]
 }

@@ -252,6 +252,7 @@
   "caption_credit": "Səs: elevenlabs.io",
   "arif_mp3": "reels/arif/2026-11-21_1830.mp3",
   "voice": "arif",
-  "arif_note": "Generated 14:57 Baku on the first try; eleven_v4, 398 credits, 27.2 s (flow vDWoW8nbvSMf8XwOJHi2)."
+  "arif_note": "Generated 14:57 Baku on the first try; eleven_v4, 398 credits, 27.2 s (flow vDWoW8nbvSMf8XwOJHi2). Scribe transcript matches voice_text word for word (spoken 27.28 s).",
+  "words_json": "reels/arif/2026-11-21_1830.words.json"
  }
 }

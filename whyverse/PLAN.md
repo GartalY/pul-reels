@@ -3,8 +3,11 @@
 - PEOPLE: use REAL PHOTOS of public figures whenever a usable one exists — Wikimedia Commons (public domain / CC, credit the
   author + licence), official sources (government, university, company press pages, official social accounts) with credit,
   archive photos that are public domain. Places/objects: Wikimedia, Unsplash, NASA/ESA etc. Credit every photo in the caption.
-- Avoid agency photos (Getty, AP, Reuters, AFP) and random Google images — rights claims. If no usable photo exists:
-  silhouette (old rule) as the FALLBACK only.
+- Order: Wikimedia/official/public-domain first. If the needed photo is NOT there, news-agency photos (Getty, AP, Reuters,
+  AFP, news sites) ARE allowed (Gartal 2026-11-22 01:18: "just go ahead, use Getty, AP or Reuters. If something happens
+  legally, I'll handle it"). Then: never use or remove a watermark (pick an unwatermarked copy or skip), credit the source in
+  the caption ("Foto: Reuters"), show it ≤ 2–3 s with zoom/crop/overlays, log it in the day JSON (`agency_photos`). If any
+  platform sends a copyright claim/takedown/strike, tell Gartal the same day. Silhouette only if no photo can be obtained.
 - Private individuals: never shown or named. Victims of crimes/tragedies: no photos. Children: only historical/public-domain.
 - PHOTO STORY look (from the gdh_dijital reel Gartal loved, 22 Nov): real photos with slow zoom/pan, the person's name on the
   photo, motion graphics between photos, a new image every 1–2 s, short captions; voice on top. Allowed in every animated slot.

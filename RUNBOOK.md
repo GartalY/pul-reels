@@ -1,3 +1,7 @@
+> REPORT 2026-11-21 ALREADY SENT early (~19:30 Baku, Gartal asked: "I won't be able to read it tonight"). The 23:59 run on
+> 21 Nov must only update reports/2026-11-21.md and send NO message to Gartal (final reply one line, no SendUserMessage).
+> This note expires on 22 Nov — any task may delete it from then on.
+
 ## WHO DECIDES — READ BEFORE ANYTHING ELSE (Gartal 2026-11-16 11:23: "every time I get a daily report, weekly report, and when I
 ## talk to you, there's always three different decisions … whatever I'm telling you to do in this chat, let's go with that")
 - What Gartal decides in his chat with Claude is FINAL. It is written into this file with his name and date ("Gartal YYYY-MM-DD").

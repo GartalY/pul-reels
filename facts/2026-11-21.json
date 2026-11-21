@@ -146,16 +146,20 @@
  "ig_type": "REEL (trial reels suspended)",
  "scheduled_check": "20:49 20 Nov: getScheduledPosts for 21 Nov empty before creating; no pending_schedule in 19–21 Nov JSONs. One post per network created (TikTok first try rejected 'title is required' — nothing created — retried with tiktokData.title).",
  "media": {
-  "13:00 Lahıc mis": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-21_1300_lahic_copper_silent.mp4"
+  "13:00 Lahıc mis": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-21_1300_lahic_copper_silent.mp4",
+  "18:30 BMT e-hökumət": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-21_1830_egov_36.mp4"
  },
  "metricool": {
-  "13:00 reel (Lahıc mis, static, silent, IG REEL)": 435818914
+  "13:00 reel (Lahıc mis, static, silent, IG REEL)": 435818914,
+  "18:30 BMT e-hökumət 74→38 (TREND, MOTION 60 fps, Arif, IG REEL)": 436594814
  },
  "tiktok": {
-  "13:00 Lahıc mis": 435819114
+  "13:00 Lahıc mis": 435819114,
+  "18:30 BMT e-hökumət": 436594829
  },
  "youtube": {
-  "13:00 Lahıc mis": 435818951
+  "13:00 Lahıc mis": 435818951,
+  "18:30 BMT e-hökumət": 436594839
  },
  "pending_schedule": null,
  "trend": {
@@ -253,6 +257,28 @@
   "arif_mp3": "reels/arif/2026-11-21_1830.mp3",
   "voice": "arif",
   "arif_note": "Generated 14:57 Baku on the first try; eleven_v4, 398 credits, 27.2 s (flow vDWoW8nbvSMf8XwOJHi2). Scribe transcript matches voice_text word for word (spoken 27.28 s).",
-  "words_json": "reels/arif/2026-11-21_1830.words.json"
- }
+  "words_json": "reels/arif/2026-11-21_1830.words.json",
+  "build": {
+   "dir": "reels/2026-11-21_1830",
+   "duration_s": 28.5,
+   "fps": 60,
+   "size_mb": 9.7,
+   "lufs": -14.0,
+   "sfx_db": -9,
+   "music": "none (silence)",
+   "critique_rounds": 3,
+   "built_at": "15:37 Baku",
+   "cover_ms": 900,
+   "timing": "Scribe word starts remapped onto silencedetect phrases",
+   "look": "cream ranking paper: staircase, UN list board, rank scale with İLK 40 line, phone services, leaderboard vs China, target"
+  },
+  "posted": {
+   "instagram": 436594814,
+   "tiktok": 436594829,
+   "youtube": 436594839,
+   "time": "18:30",
+   "ai_label": true
+  }
+ },
+ "voice": "arif"
 }

@@ -5,3 +5,4 @@ prototypes/cine/package*.json
 out/anim/*.mp4
 out/whyverse/**/video_*.mp4
 out/whyverse/**/stills/
+whyverse/shorts/*/out/

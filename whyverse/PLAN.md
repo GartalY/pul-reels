@@ -1,3 +1,25 @@
+## GARTAL 2026-11-22 01:14 — REAL PHOTOS (replaces rule 1g "people = silhouettes" and PEOPLE = SILHOUETTES)
+"I never told you not to use real photos … If you can use the real photos, of course, use it always."
+- PEOPLE: use REAL PHOTOS of public figures whenever a usable one exists — Wikimedia Commons (public domain / CC, credit the
+  author + licence), official sources (government, university, company press pages, official social accounts) with credit,
+  archive photos that are public domain. Places/objects: Wikimedia, Unsplash, NASA/ESA etc. Credit every photo in the caption.
+- Avoid agency photos (Getty, AP, Reuters, AFP) and random Google images — rights claims. If no usable photo exists:
+  silhouette (old rule) as the FALLBACK only.
+- Private individuals: never shown or named. Victims of crimes/tragedies: no photos. Children: only historical/public-domain.
+- PHOTO STORY look (from the gdh_dijital reel Gartal loved, 22 Nov): real photos with slow zoom/pan, the person's name on the
+  photo, motion graphics between photos, a new image every 1–2 s, short captions; voice on top. Allowed in every animated slot.
+- Facts stay exact: a CLAIM is a claim ("sübut etdiyini açıqladı" / "says he has proven"), never stated as confirmed.
+
+## TOPIC OVERRIDE 2026-11-22 (Sun) — both brands, test of the PHOTO STORY look
+Story: Levent Alpöge (Turkish-American mathematician at Anthropic, Harvard valedictorian 2014) announced ~13–14 Nov 2026 a
+proof of the Riemann hypothesis (open since 1859, a $1M Clay Millennium Prize problem) made with Claude, released in Lean.
+NOT yet verified by independent experts (James Maynard: suspects it's correct, checking takes time; Lamzouri: months/years).
+Sources: ibm.com/think/news/anthropic-claude-riemann-hypothesis-math-proof, nature.com/articles/d41586-026-03812-7,
+mlq.ai news, scientificamerican.com. Hook: "167 il, 1 milyon dollar …" / "167 years, $1 million …". Say "claims/announced",
+never "proved/solved". Say plainly Claude is the AI involved (no promotion, no "best AI" words).
+- bilirdinizmi 18:30: Arif voice, Turkish-roots angle ("türk əsilli riyaziyyatçı"), real photos where licensable.
+- Whyverse 19:00: usual Kokoro voice (af_heart), English.
+
 ## GARTAL 2026-11-20 12:09 — ALWAYS NAME IT
 The 18 Nov reel "503 filmdən birinci" never said the film's name; almost every comment asked for it. Cause: the AZ title was
 unconfirmed, so the task left the name out. RULE: every reel NAMES its subject (film, book, person, place, team, company,

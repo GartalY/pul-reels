@@ -606,3 +606,9 @@ search_karabakh_horse.json https://commons.wikimedia.org/w/api.php?action=query&
 2026-11-21_src_heyer_azertag.html https://azertag.az/en/xeber/thor_heyerdahl_azerbaijanis_should_be_proud_of_their_ancient_culture-1519929
 2026-11-21_src_heyer_azer73.html https://azer.com/aiweb/categories/magazine/73_folder/73_articles/73_thorheyerdahl.html
 2026-11-21_src_heyer_azer82.html https://azer.com/aiweb/categories/magazine/82_folder/82_articles/82_heyerdahl.html
+2026-11-21_src_heyer_wiki2.json https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Kon-Tiki%20expedition|Thor%20Heyerdahl|Ki%C5%9F,%20Shaki
+2026-11-21_src_heyer_history.html https://www.history.com/this-day-in-history/august-7/wood-raft-makes-4300-mile-voyage
+2026-11-21_src_heyer_azer84.html https://www.azer.com/aiweb/categories/magazine/84_folder/84_articles/84_kish.html
+2026-11-21_src_heyer_azernews.html https://www.azernews.az/travel/67980.html
+2026-11-21_src_heyer_brit.html https://www.britannica.com/topic/Kon-Tiki-raft
+2026-11-21_search_momine.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Momine%20Khatun%20mausoleum

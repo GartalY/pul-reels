@@ -232,5 +232,23 @@
   ],
   "status": "picked 09:50 21 Nov; 15:23 re-check keeps unless a bigger AZ story breaks. Backup = facts[1] Karabakh horse."
  },
- "trend_check_morning": "09:15–09:50 21 Nov: picked UN E-Government Survey 2026 (AZ 74th → 38th). Sports quota used (Sabah–Barcelona 25 Nov noted as runner-up for next week). No pending_schedule in 19–21 Nov JSONs."
+ "trend_check_morning": "09:15–09:50 21 Nov: picked UN E-Government Survey 2026 (AZ 74th → 38th). Sports quota used (Sabah–Barcelona 25 Nov noted as runner-up for next week). No pending_schedule in 19–21 Nov JSONs.",
+ "reel_1830": {
+  "topic": "UN E-Government Survey 2026: Azerbaijan 74th (2024) → 38th (2026), +36 places; Online Services Index 67th → 11th; ahead of China (41st); 'top 40 in five years' target (Nov 2025) reached in one year",
+  "picked_at": "14:50 Baku (2nd trend check): kept the 09:10 trend — no hotter AZ story since morning (azertag/world-news scan); sports quota for 16–22 Nov still used",
+  "format": "trend",
+  "context_check": "Kept from trend.context_check: '194 ölkə'; e-government (EGDI), not a general digital ranking; jump vs 2024 only; China comparison = overall EGDI; '3rd biggest jump' not used; no names, no praise words. 21-word Korea line dropped for length.",
+  "sources": [
+   "https://www.trend.az/azerbaijan/4248968.html",
+   "https://www.trend.az/azerbaijan/4248931.html",
+   "https://apa.az/ikt/azerbaycanin-reqemsal-hokumet-reytinqinde-36-pillelik-sicrayisi-ugurun-arxasinda-ne-dayanir-1015796",
+   "https://apa.az/ikt/azerbaycanin-bmt-indeksinde-38-ci-yere-yukselmesi-reqemsal-transformasiya-siyasetinin-muhum-ugurudur-serh-1015790",
+   "https://www.koreatimes.co.kr/southkorea/politics/20261120/s-korea-returns-to-no-1-in-un-e-government-survey-after-12-years",
+   "https://english.news.cn/20261120/f42c8539bf86401c845367c933d42aee/c.html",
+   "https://www.un.org/sustainabledevelopment/blog/2026/11/e-government-survey-2026-press-release/"
+  ],
+  "voice_text": "İki ildə otuz altı pillə! BMT yüz doxsan dörd ölkənin elektron hökumət siyahısını açıqladı. Azərbaycan iki il əvvəl yetmiş dördüncü idi. İndi otuz səkkizincidir. Ən böyük sıçrayış onlayn dövlət xidmətlərindədir: altmış yeddincidən on birinci yerə. Azərbaycan Çindən yuxarıdadır. Ən maraqlısı: keçən il hədəf beş ilə ilk qırxa girmək idi. Bir ilə alındı. Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+  "language_check": "Read aloud 14:50: short sentences, all numbers written out; 'iki il əvvəl' instead of 'iki min iyirmi dörddə'; 'otuz səkkizincidir', 'onlayn dövlət xidmətlərindədir', 'beş ilə ilk qırxa girmək'. 60 words, 401 chars.",
+  "caption_credit": "Səs: elevenlabs.io"
+ }
 }

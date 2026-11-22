@@ -629,3 +629,15 @@ search_karabakh_horse.json https://commons.wikimedia.org/w/api.php?action=query&
 2026-11-22_search_alpoge.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Levent%20Alpoge
 2026-11-22_search_riemann.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Bernhard%20Riemann%20portrait
 2026-11-22_src_azstat_baku.json https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&format=json&titles=Demographics_of_Baku
+2026-11-22_T_alpoge_2018.jpg https://upload.wikimedia.org/wikipedia/commons/e/ea/Levent_Alp%C3%B6ge_2018_MFO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+2026-11-22_T_alpoge_2024.jpg https://upload.wikimedia.org/wikipedia/commons/9/9b/Levent_Alp%C3%B6ge_2024_MFO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+2026-11-23_1_nizami_maus2.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Nizami_Ganjavi_mausoleum_in_Ganja%2C_Azerbaijan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original/2000px-Nizami_Ganjavi_mausoleum_in_Ganja%2C_Azerbaijan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+2026-11-23_1_nizami_maus.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Nizami_Mausoleum%2C_Ganja.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original/2000px-Nizami_Mausoleum%2C_Ganja.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+2026-11-22_T_riemann.jpg https://upload.wikimedia.org/wikipedia/commons/0/05/Portrait_of_Bernhard_Riemann_%281826-1866%29%2C_Mathematician_%282551069295%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+2026-11-22_src_layla2.json https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&format=json&redirects=1&titles=Layla%20(song)
+2026-11-22_src_leiden.html https://www.universiteitleiden.nl/en/news/2019/08/a-persian-love-story-and-the-creation-of-a-rock-classic
+2026-11-22_src_farout.html https://faroutmagazine.co.uk/how-12th-century-poet-inspired-eric-clapton-song/
+2026-11-22_src_azer_clapton.html https://www.azer.com/aiweb/categories/magazine/63_folder/63_articles/63_clapton.html
+2026-11-22_src_baku_wt.json https://en.wikipedia.org/w/api.php?action=parse&format=json&prop=wikitext&section=0&page=Baku
+2026-11-22_src_casrai.html https://casrai.org/news/anthropic-levent-alpoge-claude-lean-riemann-hypothesis-claim-2026
+2026-11-22_src_hwl.html https://hollywoodlife.com/2026/11/21/what-is-riemann-hypothesis-explained/

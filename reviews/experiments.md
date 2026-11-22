@@ -19,3 +19,11 @@ Format: ## ID · brand · start → end | hypothesis | change | metric | result 
 ## E8 · bilirdinizmi · 16 → 29 Nov | fresh stories WITH an AZ angle beat non-AZ trends at 18:30 | 18:30 animated reel only on AZ-angle fresh stories (RUNBOOK SUNDAY DECISIONS 2026-11-15) | IG views + TikTok shares per 18:30 reel vs 9–14 Nov 18:30 (IG median ~110 views, TikTok median ~165 views / 1 share) | — | decide Sun 29 Nov
 ## E9 · Whyverse · 16 → 29 Nov | named-headline trend Shorts beat data/report trend Shorts | topic ranking in whyverse/PLAN.md (SUNDAY DECISIONS 2026-11-15) | views per trend Short on IG (median 166) and TikTok (median 554), followers/week | — | decide Sun 29 Nov
 Running next week: bilirdinizmi E2 (→18 Nov), E7 (→22 Nov), E8 · Whyverse E3, E6, E9 (→29 Nov).
+
+## 2026-11-22 Sunday review (REPORT only — nothing started/stopped by the review; WHO DECIDES)
+- **E2 · no melodic music (bilirdinizmi, 10 → 17 Nov) — RESULT:** no new mute/music-rights notice since 10 Nov (rights.md); 0 mutes in 12 days of AZ reels. The no-music rule (RUNBOOK 10 Nov) simply stays as Gartal set it.
+- **E7 · 18:30 animated (Arif) vs 13:00 static (bilirdinizmi, 13 → 22 Nov) — RESULT** (15–19 Nov pieces ≥ 72 h, n = 5 each, medians): IG **494 vs 193** (2.6×) · YouTube **1 666 vs 940** (1.8×) · TikTok **146 vs 184** (static ahead; shares 19 vs 22 median). Animated wins on IG + YouTube, not on TikTok. Both slots are locked in CORE SETUP → no change; result only.
+- E8 (18:30 AZ angle, → 29 Nov) interim: IG median 494 vs ~110 baseline (9–14 Nov) → clearly up; TikTok median 146 vs ~165 baseline, shares ~19 vs 1. Judge 29 Nov.
+- E9 (Whyverse named headlines, → 29 Nov) interim: trend IG median 175 (baseline 166), TikTok 167 (baseline 554 — down), YouTube 419. Finance/report trends (Nvidia earnings 131) weakest on YouTube. Judge 29 Nov.
+- E3 (Whyverse cut vs fact at 23:00 London) interim: no cut Short ran 16–22 Nov (first ep09 cut 23 Nov 03:00 Baku) → nothing to compare yet. E6 interim: one political piece (Trump-Xi-Putin: IG 175 / TikTok 142 / YT 59 partial). Judge 29 Nov.
+- 3-format test (19 Nov → 2 Dec) interim: MYTH (bilirdinizmi brain 10 %) = flop on all 3 platforms; GUESS (Vyetnam 20 Nov, IG 105 / TikTok 128, < 72 h; Whyverse Anthropic IPO IG 148 / TikTok 29); DATA: first one Mon 23 Nov. Report on 2 Dec.

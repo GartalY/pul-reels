@@ -178,3 +178,30 @@ OUTLIER: Crystal Hall 424 (2.05×, 28 shares). FLOP: Liechtenstein preview 40 (0
 | small animal/body fact | 0 | 3 |
 | Whyverse: named big headline + number | **4** (Swift, senator, Nvidia board, ASTRA-YT) | 0 |
 | Whyverse: data/report story | 0 | 1 (emissions) |
+
+## 2026-11-22 (pieces 15 Nov → 19 Nov 18:30, all ≥ 72 h old at 21:15 Baku 22 Nov; medians per format per platform from these pieces)
+Sends = IG shares (IGRE21) / TikTok shares (TKPO10). Follows per post: not available per post in Metricool. † = during paid promo period (bilirdinizmi IG/TikTok from 15 Nov). YouTube organic; YouTube per-video synced only to 19 Nov (bilirdinizmi) / 20 Nov 03:00 Baku (Whyverse), so the youngest YouTube numbers are partial.
+
+### bilirdinizmi — 18:30 ANIMATED (Arif) — medians IG 494 · TikTok 146 · YouTube 1 666 (n = 5)
+| Piece | Topic / hook | Posted (Baku) | Platform | Views | × median | Sends/view | Verdict |
+|---|---|---|---|---|---|---|---|
+| Andorra 1:3 Azərbaycan | AZ national team, "28 years 3 goals, 4 in one night" | 17 Nov 18:30 | IG † | 1 874 | 3.8× | 0 / 1 874 | OUTLIER |
+| Andorra 1:3 Azərbaycan | same | 17 Nov 18:30 | YouTube | 5 317 | 3.2× | – | OUTLIER |
+| Andorra 1:3 Azərbaycan | same | 17 Nov 18:30 | TikTok † | 36 | 0.25× | 8 / 36 | FLOP |
+| Haaqa film 503 → 1 | AZ film wins abroad, number hook | 18 Nov 18:30 | IG † | 1 890 | 3.8× | 14 / 1 890 (0.7 %) | OUTLIER (most saves 11 + sends 14 of the week; +1 692 jump in one sync, boost status unknown) |
+| GTA VI + Alim & Fərqanə Qasımov | world launch + AZ surprise | 19 Nov 18:30 | TikTok † | 899 | 6.2× | 23 / 899 (2.6 %) | OUTLIER |
+| Kənan Nəsibov Zagreb | AZ athlete, "2 years in a row" | 16 Nov 18:30 | IG † | 197 | 0.40× | 0 | FLOP |
+### bilirdinizmi — 13:00 STATIC — medians IG 193 · TikTok 184 · YouTube 940 (n = 5)
+| Şamaxı observatory | AZ place + number | 15 Nov 11:41 | YouTube | 1 910 | 2.0× | – | OUTLIER |
+| MYTH brain 10 % | non-AZ myth (format test) | 19 Nov 13:00 | IG † / TikTok † / YouTube | 80 / 84 / 185 | 0.41× / 0.46× / 0.20× | 0 / 0 | FLOP on all three |
+→ Pattern (≥ 2 outliers): **AZ wins abroad / AZ-in-world-story, animated with Arif** = 4 outliers this week (Andorra IG + YT, Haaqa IG, GTA TikTok) + Liechtenstein last week. Holds on IG and YouTube; on TikTok the football versions flop (Andorra 0.25× now, Liechtenstein preview 0.19× last week = 2 TikTok football flops) while GTA VI (culture/music angle) is the TikTok outlier.
+→ MYTH static: one piece only → no conclusion on the format yet.
+
+### Whyverse — 19:00 TREND — medians IG 175 · TikTok 167 · YouTube 419 (n = 5, incl. SpaceX 15 Nov)
+| SpaceX caught Starship | named headline + number | 15 Nov 19:06 | IG | 718 | 4.1× | 0 | OUTLIER |
+| Nvidia $115.8 B earnings | finance/report | 18 Nov 19:06 | YouTube | 131 | 0.31× | – | FLOP |
+| Trump-Xi-Putin 11,000 warheads | politics | 19 Nov 19:11 | YouTube | 59 | 0.14× | – | FLOP (YouTube partly synced) |
+### Whyverse — 03:00 FACT/EVERGREEN — medians IG 159 · TikTok 157 · YouTube 138.5 (n = 4)
+| All the gold in a 22 m cube | evergreen number | 17 Nov 03:02 | IG / TikTok / YouTube | 41 / 3 / 49 | 0.26× / 0.02× / 0.35× | 0 | FLOP on all three |
+| Voyager 1 one light-day | space number | 19 Nov 03:03 | YouTube | 308 | 2.2× | – | OUTLIER |
+→ Whyverse: finance/report trends flop on YouTube again (Nvidia earnings; emissions last week) — 2nd week in a row for "data/report" stories, consistent with E9. Named pop/space headlines (SpaceX, Simpsons 641, Ronaldinho 419) carry YouTube. TikTok sends read 0 for every Whyverse video (likely not synced, not read as zero).

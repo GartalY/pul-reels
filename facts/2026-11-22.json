@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "status": "13:00 scheduled (static Möminə Xatun, no voice, silent track, IG REEL); 18:30 animated Arif reel = 14:47/15:23 tasks | 09:10 22 Nov: trend = Riemann claim (Gartal override, PHOTO STORY), written to `trend`",
+  "status": "13:00 scheduled (static Möminə Xatun, no voice, silent track, IG REEL); 18:30 animated Arif reel = 14:47/15:23 tasks | 09:10 22 Nov: trend = Riemann claim (Gartal override, PHOTO STORY), written to `trend` | 14:51: reel_1830 script + Arif mp3 (25.6 s) + words ready for 15:23 build",
   "format": "v4",
   "content_format": "quality_reset_2026-11-12",
   "planned_note": "Planned in the 2026-11-21 09:10 run. Sun 22 Nov (no format-table slot): 13:00 static factgen reel (no voice, silent track, IG normal REEL) = facts[0] Möminə Xatun türbəsi (photo fetched + checked). 18:30 = animated 60 fps Arif reel about the freshest AZ story (22 Nov 09:10 picks `trend`); if nothing good, facts[1] Tur Heyerdal & the 'Aser = Azerbaijan' theory as the animated backup. Week 16–22 Nov: sports 2/2 used, space 0 — both facts are architecture/mystery. No carousels/quizzes/stories.",
@@ -281,6 +281,11 @@
     "voice_text": "Yüz altmış yeddi il, bir milyon dollar və türk əsilli alim! Söhbət Riman fərziyyəsindən gedir. Min səkkiz yüz əlli doqquzdan bəri heç kim onu sübut edə bilməyib. İyirmi noyabrda Levent Alpöge Klod süni intellekti ilə sübut tapdığını açıqladı. Sübut yüz yetmiş beş mindən çox kompüter faylından ibarətdir. Amma alimlər onu hələ təsdiqləməyib. Bəyən və izlə — hər gün bilmədiyin bir fakt!",
     "language_check": "Read aloud 14:50: subject named in sentence 2 (Riman fərziyyəsi), Alpöge in sentence 4; 'Alpöge' (not 'Alpögə' — nominative); 'kompüter faylından ibarətdir' (not 'faylıdır'); Claude written 'Klod' in voice_text ONLY so Arif says it right — on screen/captions show 'Claude'. All numbers written out. 60 words.",
     "on_screen_note": "Word captions: replace 'Klod' with 'Claude'.",
-    "caption_credit": "Səs: elevenlabs.io"
+    "caption_credit": "Səs: elevenlabs.io",
+    "arif_mp3": "reels/arif/2026-11-22_1830.mp3",
+    "voice": "arif",
+    "arif_credits": 386,
+    "arif_note": "Generated 14:51 Baku on the first try; eleven_v4, 386 credits, 25.6 s (flow 895SOtEESM1h1nwPmCfm). Scribe transcript matches voice_text word for word (spoken 25.68 s).",
+    "words_json": "reels/arif/2026-11-22_1830.words.json"
   }
 }

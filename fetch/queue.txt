@@ -615,3 +615,17 @@ search_karabakh_horse.json https://commons.wikimedia.org/w/api.php?action=query&
 2026-11-22_1_momine_2018.jpg https://upload.wikimedia.org/wikipedia/commons/1/12/M%C3%B6m%C3%BCn%C9%99xatun_t%C3%BCrb%C9%99si_2018.jpg
 2026-11-22_1_momine_2008.jpg https://upload.wikimedia.org/wikipedia/commons/3/33/Momine_Khatun_Mausoleum%2C_2008.jpg
 2026-11-22_1_momine_cavad.jpg https://upload.wikimedia.org/wikipedia/commons/c/c8/Momine_Khatun_Mausoleum_in_Nakhchivan_City%2C_Nakhchivan_Autonomous_Republic%2C_Azerbaijan.jpg
+2026-11-22_src_layla.json https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&format=json&titles=Layla_(song)
+2026-11-22_src_nizami.json https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&format=json&titles=Nizami_Ganjavi
+2026-11-22_src_laylamajnun.json https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&format=json&titles=Layla_and_Majnun
+2026-11-22_src_baku.json https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&format=json&titles=Baku
+2026-11-22_src_bakutimeline.json https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&format=json&titles=Timeline_of_Baku
+2026-11-22_src_alpoge_tr.html https://www.borsagundem.com.tr/turk-matematikci-levent-alpoge-kimdir
+2026-11-22_src_alpoge_oksijen.html https://gazeteoksijen.com/bilim-ve-teknoloji/turk-matematikci-levent-alpogeden-openainin-navier-stokes-cozumune-itiraz-288846
+2026-11-22_src_alpoge_harvard.html https://www.math.harvard.edu/people/alpoge-levent
+2026-11-22_src_felloai.html https://felloai.com/riemann-hypothesis-solved/
+2026-11-22_src_alpoge_ge.html https://alpo.ge/
+2026-11-22_search_nizami.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Nizami%20mausoleum%20Ganja
+2026-11-22_search_alpoge.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Levent%20Alpoge
+2026-11-22_search_riemann.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Bernhard%20Riemann%20portrait
+2026-11-22_src_azstat_baku.json https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&format=json&titles=Demographics_of_Baku

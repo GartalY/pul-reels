@@ -649,3 +649,10 @@ search_karabakh_horse.json https://commons.wikimedia.org/w/api.php?action=query&
 2026-11-22_src_encyc_baku.html https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/baku
 2026-11-22_src_preslib_baku.html https://bakucity.preslib.az/en/page/qPf6G5CZ1H
 2026-11-22_src_timeline2.json https://en.wikipedia.org/w/api.php?action=parse&format=json&prop=wikitext&page=Timeline_of_Baku
+2026-11-22_search_w_ms.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=10&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Riemann%20Ueber%20die%20Anzahl%20der%20Primzahlen
+2026-11-22_search_w_gott.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=10&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Universit%C3%A4t%20G%C3%B6ttingen%20Aula
+2026-11-22_search_w_harv.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=10&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Harvard%20Yard%20Widener
+2026-11-22_search_w_prin.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=10&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Fine%20Hall%20Princeton
+2026-11-22_search_w_mfo.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=10&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Mathematisches%20Forschungsinstitut%20Oberwolfach%20building
+2026-11-22_search_w_zeta.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=10&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Riemann%20zeta%20function%20critical%20line
+2026-11-22_search_w_rie2.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=10&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=C.F%20Bernhard%20Riemann

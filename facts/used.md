@@ -53,3 +53,5 @@
 - 2026-11-21 13:00: Lahıc copper craft (1725 workshop, Louvre, UNESCO 2015)
 - 2026-11-22 (planned): Möminə Xatun türbəsi — 1186, Əcəmi Naxçıvani, 10 faces, 25 m+ (≈9 m lost) (13:00 static) · Thor Heyerdahl: Kon-Tiki ~6 900 km, Odin/'Aser' theory, Gobustan boats, Kiş 2000 — theory unproven (18:30 animated backup)
 - 2026-11-21 trend (09:10 pick for 18:30): UN E-Government Survey 2026 — AZ 74th → 38th (+36), online services 67 → 11, above China (41), Korea 1st after 12 years
+- 2026-11-23 (planned): Nizami 'Leyli və Məcnun' 1188 → Clapton 'Layla' 1970 (782 years, Ian Dallas, RS #27, Grammy 1993) (13:00 static) · Baku population 14 500 (1863) → 2 344 900 (2024), oil boom ×8 by 1897, 1M 1959–70, 2M 2008, flat 1989–99 (18:30 DATA backup)
+- 2026-11-22 trend (09:10 pick for 18:30, Gartal override, PHOTO STORY): Riemann hypothesis claim — Levent Alpöge + Claude, 20 Nov, 175 187 Lean files, 250 000+ pages, not yet verified by mathematicians

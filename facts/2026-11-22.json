@@ -1,12 +1,12 @@
 {
  "date": "2026-11-22",
- "status": "13:00 scheduled (static Möminə Xatun, no voice, silent track, IG REEL); 18:30 animated Arif reel = 14:47/15:23 tasks",
+ "status": "13:00 scheduled (static Möminə Xatun, no voice, silent track, IG REEL); 18:30 animated Arif reel = 14:47/15:23 tasks | 09:10 22 Nov: trend = Riemann claim (Gartal override, PHOTO STORY), written to `trend`",
  "format": "v4",
  "content_format": "quality_reset_2026-11-12",
  "planned_note": "Planned in the 2026-11-21 09:10 run. Sun 22 Nov (no format-table slot): 13:00 static factgen reel (no voice, silent track, IG normal REEL) = facts[0] Möminə Xatun türbəsi (photo fetched + checked). 18:30 = animated 60 fps Arif reel about the freshest AZ story (22 Nov 09:10 picks `trend`); if nothing good, facts[1] Tur Heyerdal & the 'Aser = Azerbaijan' theory as the animated backup. Week 16–22 Nov: sports 2/2 used, space 0 — both facts are architecture/mystery. No carousels/quizzes/stories.",
  "format_log": {
   "13:00": "fact",
-  "18:30": "trend (backup: fact)"
+  "18:30": "trend (Riemann, PHOTO STORY; backup: fact Heyerdahl)"
  },
  "facts": [
   {
@@ -146,5 +146,115 @@
   "13:00 Möminə Xatun": 436835864
  },
  "pending_schedule": null,
- "scheduled_check": "20:50 21 Nov: getScheduledPosts for 22 Nov empty before creating; no pending_schedule in 20–22 Nov JSONs. One post per network created."
+ "scheduled_check": "20:50 21 Nov: getScheduledPosts for 22 Nov empty before creating; no pending_schedule in 20–22 Nov JSONs. One post per network created.",
+ "trend": {
+  "n": "T",
+  "type": "reel",
+  "format": "animated_1830",
+  "content_format": "trend",
+  "post_format": "trend",
+  "look": "PHOTO STORY (Gartal 22 Nov)",
+  "cat": "Elm / Riyaziyyat",
+  "hook_type": "single story (Gartal TOPIC OVERRIDE 22 Nov) + number-first",
+  "picked_at": "09:15–09:45 Baku 22 Nov",
+  "rule_note": "TOPIC OVERRIDE 2026-11-22 (Gartal, 01:14): Riemann claim, PHOTO STORY look, Arif voice, Turkish-roots angle. Overrides SUNDAY DECISIONS 1 (AZ-angle filter) for today only. A CLAIM stays a claim: 'iddia edir / açıqladı', never 'sübut etdi/həll etdi'. Claude named plainly, no promo words. Not space/sports (quota irrelevant: last day of the week).",
+  "date_correction": "RUNBOOK override says 'announced ~13–14 Nov'; three sources (CASRAI 21 Nov, Hollywood Life 21 Nov, FelloAI 21 Nov) date the public announcement to FRIDAY 20 Nov 2026 (note 'Remark', alpo.ge/remark.pdf). So it is a fresh (≤48 h) story. Separate, older result (Anthropic, 10 Aug 2026): Claude raised the proven share of zeta zeros on the critical line from 41.6% to 67.2% — NOT the same thing, not used.",
+  "subject": "Riemann hypothesis (Bernhard Riemann, 1859; 1859→2026 = 167 years) — one of the 7 Clay Millennium Prize Problems (2000), $1 million (CASRAI; Hollywood Life; FelloAI; Anthropic 10 Aug page '1859 … million-dollar bounty'). 20 Nov 2026: Levent Alpöge (research scientist / member of technical staff at Anthropic; Harvard Society of Fellows junior fellow — alpo.ge, CASRAI) posted a 4-page note 'Remark' claiming a proof of RH and of GRH for Dirichlet L-functions, made with Claude, as a Lean 4 archive: 175,187 Lean files (CASRAI; FelloAI), ~17.4 million lines (FelloAI; Hollywood Life 'approximately 17 million'), >61.5 GB unpacked (CASRAI). Alpöge: a written-out version 'hit 250,000+ pages' (FelloAI; CASRAI; Hollywood Life). Quote: 'Claude far outpaced me near the finish line' (FelloAI; Hollywood Life). Lean kernel check: Andrew Sutherland (MIT) compiled all modules, accepted 175,187/175,187, only the 3 standard axioms (CASRAI; FelloAI). NOT accepted by mathematicians yet — no human-readable proof; Kontorovich (Rutgers, via AP in Hollywood Life): 'Does that mean I understand it? Not yet.' Clay rules: publication + 2 years of community scrutiny + general acceptance (FelloAI; CASRAI). Background: Alpöge — Turkish-American, born 1992, grew up on Long Island, Harvard 2014 top of his class ('sınıfının birincisi'), Princeton PhD 2020 under Manjul Bhargava (borsagundem.com.tr 10 Sep 2026 'Türk kökenli'; gazeteoksijen.com 'Türk matematikçi'; Harvard + Princeton also on alpo.ge). NOT used: comparator status (CASRAI 'accepted' vs FelloAI/Buzzard 'pending' — conflict), the 41-day vs 'several months' timeline (conflict), Maynard/Lamzouri quotes (not found on readable pages), Dario Amodei consultation, Nasdaq timing (single source).",
+  "reel_hook": "167 İL, 1 MİLYON DOLLAR VƏ TÜRK ƏSİLLİ ALİM",
+  "hook_options": [
+   "167 İL, 1 MİLYON DOLLAR VƏ TÜRK ƏSİLLİ ALİM",
+   "250 000 SƏHİFƏLİK SÜBUT: 167 İLLİK SİRR AÇILDI?",
+   "175 MİN FAYL, 1 SUAL: RİMAN FƏRZİYYƏSİ",
+   "1 MİLYON DOLLARLIQ MƏSƏLƏYƏ TÜRK İMZASI?",
+   "167 İLDƏ HEÇ KİM BACARMADI — İNDİ SÜNİ İNTELLEKTLƏ?"
+  ],
+  "reel_beats": [
+   "1859-cu ildə Bernhard Riman bir fərziyyə irəli sürdü. 167 ildir onu heç kim sübut edə bilməyib.",
+   "Bu, sübutuna 1 milyon dollar mükafat qoyulan 7 «Minilliyin məsələsi»ndən biridir.",
+   "20 noyabrda türk əsilli riyaziyyatçı Levent Alpögə Claude süni intellekti ilə birgə sübut tapdığını açıqladı.",
+   "Sübut Lean proqramında yazılıb: 175 mindən çox fayl. Kağıza köçürülsə, 250 min səhifədən çox olardı."
+  ],
+  "payoff": "Amma hələ heç bir riyaziyyatçı onu təsdiqləməyib: kompüter yoxlaması «doğrudur» deyir, alimlər isə hələ başa düşməyə çalışır.",
+  "voice_texts": [
+   "Yüz altmış yeddi il, bir milyon dollar və türk əsilli bir alim!",
+   "Min səkkiz yüz əlli doqquzda Bernhard Riman bir fərziyyə irəli sürdü. O vaxtdan heç kim onu sübut edə bilməyib.",
+   "Bu, bir milyon dollarlıq yeddi «Minilliyin məsələsi»ndən biridir.",
+   "İyirmi noyabrda Harvardı birinci bitirən Levent Alpögə Claude süni intellekti ilə sübut tapdığını açıqladı.",
+   "Sübut yüz yetmiş beş mindən çox kompüter faylıdır. Kağıza köçürülsə, iki yüz əlli min səhifədən çox olardı.",
+   "Amma alimlər onu hələ təsdiqləməyib — kompüter «doğrudur» deyir, insanlar isə hələ yoxlayır.",
+   "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
+  ],
+  "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+  "send_line": "📩 Riyaziyyatı sevən dostuna göndər 🧮",
+  "caption": "Riman fərziyyəsi: 167 illik məsələ və türk əsilli alimin iddiası 🧮\n\n1859-cu ildə Bernhard Riman irəli sürdüyü fərziyyəni 167 ildir heç kim sübut edə bilməyib — bu, 1 milyon dollar mükafatlı 7 «Minilliyin məsələsi»ndən biridir. 20 noyabrda türk əsilli riyaziyyatçı Levent Alpögə (Harvard, Prinston; indi Anthropic şirkətində çalışır) Claude süni intellekti ilə birgə sübut tapdığını açıqladı. Sübut Lean proqramında yazılıb: 175 mindən çox fayl; Alpögənin sözünə görə, kağıza köçürülsə 250 min səhifədən çox olardı. Kompüter yoxlaması sübutu qəbul edib, amma riyaziyyatçılar onu hələ təsdiqləməyib — bu, hələlik iddiadır.\n\n📩 Riyaziyyatı sevən dostuna göndər 🧮\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nFoto: Marlene Ruf / MFO, Wikimedia Commons (CC BY-SA 2.0 DE); Smithsonian Institution (B. Riman)\nSəs: elevenlabs.io\n\n#bilirdinizmi #riyaziyyat #rimanfərziyyəsi #leventalpöge #elm",
+  "first_comment": "Sənin fikrincə, süni intellekt böyük elmi kəşflər edəcəkmi? 👇",
+  "youtube_title": "Riman fərziyyəsi: 167 il, 1 milyon dollar və Levent Alpögənin iddiası #shorts",
+  "photos": [
+   {
+    "path": "fetch/img/2026-11-22_T_alpoge_2024.jpg",
+    "credit": "Marlene Ruf / Oberwolfach (MFO), Wikimedia Commons, CC BY-SA 2.0 DE",
+    "source": "https://commons.wikimedia.org/wiki/File:Levent_Alp%C3%B6ge_2024_MFO.jpg",
+    "size": [
+     400,
+     267
+    ],
+    "checked": "22 Nov 09:40 looked: clean, face clear, no watermark; small (400 px) → show framed/cut-out card, not full-screen"
+   },
+   {
+    "path": "fetch/img/2026-11-22_T_alpoge_2018.jpg",
+    "credit": "Petra Lein / MFO, Wikimedia Commons, CC BY-SA 2.0 DE",
+    "source": "https://commons.wikimedia.org/wiki/File:Levent_Alp%C3%B6ge_2018_MFO.jpg",
+    "size": [
+     399,
+     266
+    ],
+    "checked": "not opened yet — check at 15:23 before use"
+   },
+   {
+    "path": "fetch/img/2026-11-22_T_riemann.jpg",
+    "credit": "Smithsonian Institution (no known restrictions), Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Bernhard_Riemann_(1826-1866),_Mathematician_(2551069295).jpg",
+    "size": [
+     2574,
+     3262
+    ],
+    "checked": "22 Nov 09:40 looked: 1863 engraving with signature, clean, no watermark"
+   }
+  ],
+  "agency_photos": [],
+  "visual_ideas": [
+   "Frame 0: '167' + '$1 000 000' slam in over Riman's 1863 portrait (slow push-in), hook text big; progress counter 1/4 in the corner.",
+   "Year ticker 1859 → 2026 spinning on a chalkboard strip; name chip 'BERNHARD RİMAN · 1859' on the photo.",
+   "Card: 7 Millennium Problem tiles, 6 grey, 1 glowing gold 'RİMAN' with '$1 000 000' counter.",
+   "PHOTO STORY: Alpöge photo in a cut-out frame, slow zoom, name chip 'LEVENT ALPÖGE · türk əsilli riyaziyyatçı', tags 'HARVARD 2014 · №1', 'PRİNSTON', date stamp '20 NOYABR 2026'.",
+   "File avalanche: tiny file icons pour in, counter 0 → 175 187; then a paper stack rising with counter 0 → 250 000 səhifə.",
+   "Split screen: left a green ✓ 'KOMPÜTER: QƏBUL' (Lean kernel), right a ⏳ 'ALİMLƏR: YOXLANILIR' — the honest twist.",
+   "End card CTA + @bilirdinizmi_az; last line loops back to '167'."
+  ],
+  "sfx": "whoosh, tick (counters), thud (stamps), type (file avalanche); no music",
+  "context_check": "Catches: (1) It is a CLAIM — not verified by mathematicians; Clay prize needs publication + 2 years + acceptance → said plainly. (2) Lean check ≠ human understanding (Kontorovich 'Not yet'). (3) Announcement date 20 Nov (not 13–14 Nov as in the override note). (4) August 41.6→67.2 % result is a different, smaller result — not mixed in. (5) 250 000 pages is Alpöge's own estimate → 'kağıza köçürülsə … olardı' attributed in caption ('Alpögənin sözünə görə'). (6) Comparator status conflicting → not mentioned.",
+  "language_check": "Spelling: Riman (AZ form of Riemann), Levent Alpögə (Alpöge; AZ dative fine as 'Alpögə' in voice — on screen keep 'LEVENT ALPÖGE'), Prinston, «Minilliyin məsələsi», Lean. Numbers with nbsp (167 il, 1 milyon, 175 min, 250 min). Read aloud once more at 14:47.",
+  "sources": [
+   "https://casrai.org/news/anthropic-levent-alpoge-claude-lean-riemann-hypothesis-claim-2026",
+   "https://hollywoodlife.com/2026/11/21/what-is-riemann-hypothesis-explained/",
+   "https://felloai.com/riemann-hypothesis-solved/",
+   "https://alpo.ge/",
+   "https://www.borsagundem.com.tr/turk-matematikci-levent-alpoge-kimdir",
+   "https://gazeteoksijen.com/bilim-ve-teknoloji/turk-matematikci-levent-alpogeden-openainin-navier-stokes-cozumune-itiraz-288846",
+   "https://www.anthropic.com/research/riemann-zeta (Aug 2026, background only)",
+   "https://www.ibm.com/think/news/anthropic-claude-riemann-hypothesis-math-proof (not readable this run)",
+   "https://www.nature.com/articles/d41586-026-03812-7 (not readable this run)"
+  ],
+  "source_scan": "22 Nov 09:15: Gartal's TOPIC OVERRIDE fixed the topic; quick AZ scan for runner-ups via WebSearch (Azerbaijan news 21–22 Nov, idman 21 Nov, Sabah–Barcelona). report.az results only via search; homepages not fetched this run.",
+  "runner_ups": [
+   {
+    "story": "Sabah FK v FC Barcelona, UEFA Champions League, Baku (Tofiq Bahramov stadium), Wed 25 Nov — first Barça visit of an AZ club at home in UCL; huge ticket demand (fcbarcelona.es peñas tickets; lesnouvellesdufoot 16 Nov 'la folie à Bakou'; azernews 267509)",
+    "use": "best AZ trend for 24–26 Nov (new week: sports quota 0/2). Not for today (Gartal's override)."
+   },
+   {
+    "story": "AZ judoka silver at a world championship (todaypress.tv headline; date/event unverified) and Sabah's big Premier League win (report.az, round XII)",
+    "use": "15:23 may re-check only if Gartal cancels the override; otherwise ignore."
+   }
+  ]
+ }
 }

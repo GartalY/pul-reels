@@ -1,0 +1,186 @@
+{
+ "date": "2026-11-23",
+ "status": "planned",
+ "format": "v4",
+ "content_format": "quality_reset_2026-11-12",
+ "planned_note": "Planned in the 2026-11-22 09:10 run. Mon 23 Nov: 13:00 static factgen reel (no voice, silent track, IG normal REEL) = facts[0] Nizami → Clapton 'Layla' (photo fetched + checked). 18:30 = Monday DATA ANIMATION (format table 18 Nov): the 09:10 task on 23 Nov picks the freshest AZ story and tells it as a data animation if it has a real dataset; if not, facts[1] Baku population 1863 → 2024 is the ready DATA ANIMATION backup (Arif). New week 23–29 Nov: sports 0/2, space 0/2. Categories: culture/music + city/demography. No carousels/quizzes/stories.",
+ "format_log": {
+  "13:00": "fact",
+  "18:30": "data (trend if it has a dataset; backup: facts[1] data)"
+ },
+ "facts": [
+  {
+   "n": 1,
+   "type": "reel",
+   "slot": "13:00",
+   "static": true,
+   "voiced": false,
+   "format": "fact",
+   "cat": "Mədəniyyət / Musiqi",
+   "subject": "Eric Clapton's 'Layla' (Derek and the Dominos, album 'Layla and Other Assorted Love Songs', 1970) was inspired by Nizami Ganjavi's 'Layla and Majnun' (Wikipedia 'Layla (song)', 'Nizami Ganjavi', 'Layla and Majnun'; Leiden University 2019 'Nezami wrote Layla and Majnun as early as 1188'; Far Out Magazine; Azerbaijan International 6.3 (1998) 'Eric Clapton Song Inspired by Nizami, 12th century Azerbaijani Poet'). Clapton got the story/book from his friend Ian Dallas (later Abdalqadir as-Sufi) (Wikipedia Layla (song), both namings). It mirrored his love for Pattie Boyd, then wife of George Harrison; Clapton and Boyd later married (Wikipedia). Layla and Majnun composed 1188 CE as the 3rd poem of Nizami's Khamsa (Wikipedia Layla and Majnun; Leiden). 1188 → 1970 = 782 years. Rolling Stone 500 Greatest Songs (2004): #27; acoustic (Unplugged) version won the 1993 Grammy for Best Rock Song (Wikipedia Layla (song)). Nizami c. 1141–1209; his birthplace and mausoleum are in Ganja, Azerbaijan (Wikipedia). NOT used: Nizami 'Persian vs Azerbaijani' labels (say 'gəncəli şair'), exact couplet count, mausoleum year.",
+   "title": "Nizami Gəncəvi və Erik Kleptonun «Layla» mahnısı",
+   "text": "Erik Kleptonun məşhur «Layla» mahnısı Nizami Gəncəvinin «Leyli və Məcnun» poemasından ilhamlanıb.",
+   "reel_hook": "782 İLLİK POEMA DÜNYA HİTİNƏ ÇEVRİLDİ",
+   "hook_options": [
+    "782 İLLİK POEMA DÜNYA HİTİNƏ ÇEVRİLDİ",
+    "1188 → 1970: NİZAMİ VƏ ERİK KLEPTON",
+    "«LAYLA» MAHNISININ 800 İLLİK SİRRİ",
+    "ROLLING STONE-UN 27-Cİ MAHNISI GƏNCƏDƏN GƏLİR",
+    "1 POEMA, 1 GİTARA, 1 QRAMMİ: NİZAMİNİN İZİ"
+   ],
+   "reel_beats": [
+    "Nizami Gəncəvi «Leyli və Məcnun» poemasını 1188-ci ildə yazıb.",
+    "782 il sonra, 1970-ci ildə, Erik Klepton bu hekayəni oxuyub «Layla» mahnısını yazdı.",
+    "Kitabı ona dostu Ian Dallas vermişdi. Hekayə Kleptonun öz eşqinə çox bənzəyirdi.",
+    "Rolling Stone jurnalı «Layla»nı bütün zamanların ən yaxşı 500 mahnısı arasında 27-ci yerə qoyub."
+   ],
+   "payoff": "Ən maraqlısı: mahnının akustik versiyası 1993-cü ildə Qrammi mükafatı qazandı — Nizaminin hekayəsi 800 il sonra da qalib gəldi.",
+   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+   "send_line": "📩 Kleptonu sevən dostuna göndər 🎸",
+   "caption": "Nizami Gəncəvi və Erik Kleptonun «Layla» mahnısı 🎸\n\nNizami Gəncəvi «Leyli və Məcnun» poemasını 1188-ci ildə yazıb. 782 il sonra, 1970-ci ildə Erik Klepton bu hekayədən ilhamlanaraq «Layla» mahnısını yazdı (Derek and the Dominos). Kitabı ona dostu Ian Dallas vermişdi — hekayə Kleptonun öz eşqinə çox bənzəyirdi. Rolling Stone jurnalı «Layla»nı bütün zamanların ən yaxşı 500 mahnısı arasında 27-ci yerə qoyub. Ən maraqlısı: mahnının akustik versiyası 1993-cü ildə Qrammi qazandı.\n\n📩 Kleptonu sevən dostuna göndər 🎸\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nFoto: Wertuose / Wikimedia Commons (CC BY-SA 3.0)\n\n#bilirdinizmi #nizamigəncəvi #leylivəməcnun #ericclapton #gəncə",
+   "first_comment": "«Leyli və Məcnun»u oxumusan? 👇",
+   "youtube_title": "Nizami Gəncəvi və Erik Kleptonun «Layla» mahnısı: 1188 → 1970 #shorts",
+   "photo": {
+    "path": "fetch/img/2026-11-23_1_nizami_d.jpg",
+    "credit": "Foto: Wertuose / Wikimedia Commons (CC BY-SA 3.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Nizami_Ganjavi_mausoleum_in_Ganja,_Azerbaijan.JPG",
+    "size": [
+     1920,
+     1440
+    ],
+    "cy": 0.4,
+    "full": true,
+    "checked": "22 Nov 09:45: looked — Nizami Mausoleum in Ganja from below, 'NIZAMI' lettering visible, blue sky, no watermark/logo/arcs. Alt: fetch/img/2026-11-23_1_nizami_c.jpg (KeuleKeulmann, CC BY-SA 4.0, 5568×3712, wide shot, clean)."
+   },
+   "context_check": "Catches: (1) Nizami is called 'Persian poet' on Wikipedia/Leiden — we say 'Gəncəli şair Nizami Gəncəvi', no ethnicity claim. (2) Clapton was inspired by the STORY; the version he read was a later free translation (Leiden) — we say 'bu hekayəni oxuyub', not 'Nizaminin orijinalını'. (3) Grammy went to the 1992 Unplugged acoustic version (1993 award) — said 'akustik versiyası'. (4) Rolling Stone #27 is the 2004 list — said without year in voice, OK.",
+   "language_check": "Erik Klepton (AZ spelling), Ian Dallas, Qrammi, «Leyli və Məcnun», «Layla». Numbers with nbsp (1188, 782 il, 27-ci, 1993).",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Layla_(song)",
+    "https://en.wikipedia.org/wiki/Layla_and_Majnun",
+    "https://en.wikipedia.org/wiki/Nizami_Ganjavi",
+    "https://www.universiteitleiden.nl/en/news/2019/08/a-persian-love-story-and-the-creation-of-a-rock-classic",
+    "https://faroutmagazine.co.uk/how-12th-century-poet-inspired-eric-clapton-song/",
+    "https://www.azer.com/aiweb/categories/magazine/63_folder/63_articles/63_clapton.html"
+   ]
+  },
+  {
+   "n": 2,
+   "type": "reel",
+   "slot": "18:30 backup",
+   "motion": true,
+   "fps": 60,
+   "voiced": "Arif",
+   "format": "data",
+   "cat": "Şəhərlər / Əhali",
+   "subject": "Baku city population (Presidential Library 'bakucity.preslib.az' table 'Population change in Baku city (thsd. persons)': 1897 112.2; 1920 312.7; 1926 527.2; 1939 791.2; 1959 987.2; 1970 1265.5; 1979 1549.8; 1989 1794.9; 1999 1788.9; 2008 2005.6; 2021 2300.5. Same page: '14.500 people lived in the city in 1863 … In 1897, 111.904'. US Library of Congress Country Study (countrystudies.us) and Wikipedia 'Baku': 'about 13,000 in the 1860s to 112,000 in 1897 and 215,000 in 1913'. Wikipedia Timeline of Baku: 1860 13,381; 1897 112,253. Latest: 2,344,900 (2024, State Statistics Committee via Wikipedia infobox). So: 1860s < 15 000 → 2024 ≈ 2.34 million = more than 150× (2 344 900 / 14 500 ≈ 162; / 13 000 ≈ 180). Oil boom: 1860s → 1897 ≈ 8× in ~35 years. Passed 1 million between 1959 (987.2k) and 1970 (1 265.5k); passed 2 million in 2008 (2 005.6k). 1990s plateau: 1989 1 794.9k → 1999 1 788.9k (flat for 10 years). 1913 figure DISAGREES (215k vs 237k vs 214,672) → not used.",
+   "title": "Bakı 160 ildə 150 dəfədən çox böyüdü",
+   "reel_hook": "15 MİNDƏN 2,3 MİLYONA: BAKI 150 DƏFƏ BÖYÜDÜ",
+   "hook_options": [
+    "15 MİNDƏN 2,3 MİLYONA: BAKI 150 DƏFƏ BÖYÜDÜ",
+    "1863-DƏ 14 500 NƏFƏR — BU GÜN 2,3 MİLYON",
+    "NEFT BAKINI 35 İLDƏ 8 DƏFƏ BÖYÜTDÜ",
+    "BAKININ 1 MİLYONDAN 2 MİLYONA YOLU: 40 İL",
+    "160 İL, 1 ŞƏHƏR, 150 DƏFƏ ARTIM"
+   ],
+   "reel_beats": [
+    "1863-cü ildə Bakıda cəmi 14 500 nəfər yaşayırdı.",
+    "Sonra neft bumu başladı: 1897-ci ildə əhali artıq 112 min idi — 35 ildə təxminən 8 dəfə çox.",
+    "1959 ilə 1970 arasında Bakı 1 milyonu, 2008-ci ildə isə 2 milyonu keçdi.",
+    "Bu gün Bakıda 2 milyon 344 min nəfər yaşayır."
+   ],
+   "payoff": "Ən maraqlısı: 1989-dan 1999-a qədər Bakının əhalisi 10 il demək olar ki, dəyişmədi — və sonra yenidən sürətlə artmağa başladı.",
+   "voice_texts": [
+    "On beş mindən iki milyon üç yüz minə! Bakı yüz altmış ildə yüz əlli dəfədən çox böyüdü.",
+    "Min səkkiz yüz altmış üçdə Bakıda cəmi on dörd min beş yüz nəfər yaşayırdı.",
+    "Neft bumu başladı: min səkkiz yüz doxsan yeddidə artıq yüz on iki min — otuz beş ildə səkkiz dəfə çox.",
+    "Bakı əlli doqquz ilə yetmiş arasında bir milyonu, iki min səkkizdə iki milyonu keçdi.",
+    "Ən maraqlısı: səksən doqquzdan doxsan doqquza əhali on il demək olar ki, dəyişmədi.",
+    "Bu gün Bakıda iki milyon üç yüz qırx dörd min nəfər yaşayır.",
+    "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
+   ],
+   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+   "send_line": "📩 Bakılı dostuna göndər 🏙️",
+   "caption": "Bakı 160 ildə 150 dəfədən çox böyüdü 🏙️\n\n1863-cü ildə Bakıda cəmi 14 500 nəfər yaşayırdı. Neft bumu ilə 1897-ci ildə əhali 112 minə çatdı — 35 ildə təxminən 8 dəfə. 1959–1970-ci illər arasında Bakı 1 milyonu, 2008-ci ildə 2 milyonu keçdi. Ən maraqlısı: 1989–1999-cu illərdə əhali demək olar ki, dəyişmədi. Bu gün Bakıda 2 milyon 344 min nəfər yaşayır.\n\nMənbə: Prezident Kitabxanası (bakucity.preslib.az), Dövlət Statistika Komitəsi\n\n📩 Bakılı dostuna göndər 🏙️\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nSəs: elevenlabs.io\n\n#bilirdinizmi #bakı #əhali #neftbumu #azərbaycan",
+   "first_comment": "Sənin ailən neçə nəsildir Bakıda yaşayır? 👇",
+   "youtube_title": "Bakının əhalisi 1863 → 2024: 14 500-dən 2,3 milyona #shorts",
+   "dataset": {
+    "unit": "nəfər",
+    "points": [
+     [
+      1863,
+      14500
+     ],
+     [
+      1897,
+      111904
+     ],
+     [
+      1920,
+      312700
+     ],
+     [
+      1926,
+      527200
+     ],
+     [
+      1939,
+      791200
+     ],
+     [
+      1959,
+      987200
+     ],
+     [
+      1970,
+      1265500
+     ],
+     [
+      1979,
+      1549800
+     ],
+     [
+      1989,
+      1794900
+     ],
+     [
+      1999,
+      1788900
+     ],
+     [
+      2008,
+      2005600
+     ],
+     [
+      2021,
+      2300500
+     ],
+     [
+      2024,
+      2344900
+     ]
+    ],
+    "source_on_screen": "Mənbə: Prezident Kitabxanası; ARDSK",
+    "note": "1863–2021 from bakucity.preslib.az (one table, 1897 given both as 111 904 and 112.2k — use 111 904); 2024 = State Statistics Committee via Wikipedia infobox — re-check stat.gov.az at build if reachable."
+   },
+   "visual_ideas": [
+    "Frame 0: '×150' slams in, a tiny 1863 Baku dot grows into a skyline silhouette; hook text big; corner counter 1/4.",
+    "LINE GROWS: a line chart draws itself 1863 → 2024 with a running number in big type (14 500 → 2 344 900); year ticker on the x-axis.",
+    "Oil-boom zone 1863–1897 shaded black with oil derricks popping up; label '×8 · 35 il'.",
+    "Milestone flags pop on the line: '1 MİLYON (1959–1970)', '2 MİLYON (2008)'.",
+    "Plateau 1989–1999 highlighted with a flat ruler and '10 il — demək olar dəyişmədi'.",
+    "Source chip bottom-left the whole time; end card CTA; loop back to '×150'."
+   ],
+   "sfx": "tick (running number), whoosh (camera), thud (milestones), type; no music",
+   "context_check": "Catches: (1) 1860s figure varies 13 000–14 500 → hook says '15 mindən' / '150 dəfədən çox' (true for all). (2) 1913 conflicts → not used. (3) City vs agglomeration: all table figures are 'Baku city' (preslib) and 2024 is Baku city (2 344 900; metro 3.7 M not used). (4) 1 million crossing year not exact → 'arasında'. (5) 1990s plateau is a fact; no reasons given (would need sources).",
+   "language_check": "Numbers in voice written out; on screen with nbsp: 14 500, 112 min, 2 344 900. 'neft bumu' is used in AZ media.",
+   "sources": [
+    "https://bakucity.preslib.az/en/page/qPf6G5CZ1H",
+    "https://countrystudies.us/azerbaijan/7.htm",
+    "https://en.wikipedia.org/wiki/Baku",
+    "https://en.wikipedia.org/wiki/Timeline_of_Baku",
+    "https://www.stat.gov.az/source/demoqraphy/"
+   ]
+  }
+ ],
+ "ig_type": "REEL"
+}

@@ -1,7 +1,7 @@
 # Whyverse daily trend Short — 2026-11-22 — "167 years. $1 million." (claimed Riemann hypothesis proof, Levent Alpöge + Claude)
 
-status: scheduled 2026-11-22 19:00 Asia/Baku on YouTube Shorts (437488179), Instagram Reels (437488197), TikTok (437488219).
-media: https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-22_riemann-167-years.mp4 (28.5 s, 1080x1920, 60 fps, -14.1 LUFS, -1.3 dBTP)
+status: scheduled 2026-11-22 19:00 Asia/Baku on YouTube Shorts (437497767), Instagram Reels (437497781), TikTok (437497799) — ids after the v2 media update.
+media: https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-22_riemann-167-years_v2.mp4 (28.5 s, 1080x1920, 60 fps, -14.1 LUFS, -1.3 dBTP)
 
 - **Topic:** PLAN.md TOPIC OVERRIDE 2026-11-22 (Gartal) — Riemann claim, PHOTO STORY look, Kokoro af_heart. Re-checked 15:3x Baku: still unverified
   (Al Jazeera 21 Nov: "no human has read through the entire argument"; Buzzard: understanding in weeks). political: false. format: trend.
@@ -21,3 +21,9 @@ media: https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts
 - **Voice:** Kokoro v1.0 af_heart en-us speed 1.1, 8 lines / 61 words; "Alpöge" spoken from phonemes /ˈɑlpəɡˌeɪ/ (tools/voice.py).
 - **Music/SFX:** beats.py --synth lofi A dorian 120 bpm; 37 soft SFX; mix --sfx-db -9 --music-db -14 (ducked).
 - Shot-list sign-off skipped (unattended run). Critique: docs/critique.md (3 rounds).
+
+## v2 (16:00 Baku) — MANY PHOTOS rule (Gartal 15:44: 6–10 different photos)
+v1 had 3 photos. Commons has only 2 photos of Alpöge (2018, 2024 MFO; the "cropped" file is the same photo) → filled with places/documents:
+Riemann's 1859 paper (public domain), zeta-function plot (--MULLIGANACEOUS--, CC BY-SA 4.0), Widener Library Harvard (Chris Rycroft, CC BY 2.0;
+"HARVARD 2014 · TOP OF HIS CLASS · PRINCETON PhD" — borsagundem, alpo.ge, PLAN override), Göttingen University Aula (Julian Herzog, CC BY 4.0;
+Riemann's university). Now 7 different photos, none reused. Re-rendered, media v2 pushed, the 3 Metricool posts updated (media + caption credits).

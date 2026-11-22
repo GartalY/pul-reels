@@ -11,3 +11,6 @@ Fixed: label gated on "Experts"; G1/G2 elements pop at scene start; odometer sta
 Scores: hook 8, readability 8, motion 8, variety 8, brand 8, sync 8.
 Worst: photo credit overlapped the yellow name tag. Fixed: credit moved to a dark strip at the photo's top-right.
 Remaining: Alpöge photos are only 400 px wide (Wikimedia originals) — slightly soft when shown 820 px wide.
+## Round 4 (v2, 7 photos)
+Added 1859 paper card (B1), zeta plot behind the ½ line (B2), Harvard scene (C1b), Göttingen card (G1). Fixed: paper card over Riemann's name tag
+(moved up), Göttingen tag under the board (timeline moved up), Harvard sub-line overflowing its tag. Scores all 8.

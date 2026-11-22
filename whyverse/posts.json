@@ -1582,7 +1582,7 @@
    "episode": "short_2026-11-22_riemann-167-years",
    "kind": "trend",
    "format": "trend",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-22_riemann-167-years.mp4",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-22_riemann-167-years_v2.mp4",
    "time_london": "2026-11-22T15:00",
    "time_baku": "2026-11-22T19:00",
    "ai_label": true,
@@ -1593,13 +1593,15 @@
    "title": "Riemann Hypothesis: 167 Years, $1M, a Claimed Proof Made With AI",
    "agency_photos": [],
    "network": "youtube",
-   "metricool_id": 437488179
+   "metricool_id": 437497767,
+   "metricool_uuid": "-5399867993267352638",
+   "photos": 7
   },
   {
    "episode": "short_2026-11-22_riemann-167-years",
    "kind": "trend",
    "format": "trend",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-22_riemann-167-years.mp4",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-22_riemann-167-years_v2.mp4",
    "time_london": "2026-11-22T15:00",
    "time_baku": "2026-11-22T19:00",
    "ai_label": true,
@@ -1610,13 +1612,15 @@
    "title": "Riemann Hypothesis: 167 Years, $1M, a Claimed Proof Made With AI",
    "agency_photos": [],
    "network": "instagram",
-   "metricool_id": 437488197
+   "metricool_id": 437497781,
+   "metricool_uuid": "-1030824341750330135",
+   "photos": 7
   },
   {
    "episode": "short_2026-11-22_riemann-167-years",
    "kind": "trend",
    "format": "trend",
-   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-22_riemann-167-years.mp4",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-22_riemann-167-years_v2.mp4",
    "time_london": "2026-11-22T15:00",
    "time_baku": "2026-11-22T19:00",
    "ai_label": true,
@@ -1627,7 +1631,9 @@
    "title": "Riemann Hypothesis: 167 Years, $1M, a Claimed Proof Made With AI",
    "agency_photos": [],
    "network": "tiktok",
-   "metricool_id": 437488219
+   "metricool_id": 437497799,
+   "metricool_uuid": "-4720973044704784517",
+   "photos": 7
   }
  ]
 }

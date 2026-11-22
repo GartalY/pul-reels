@@ -18,7 +18,7 @@ const T = (w, n = 0) => { const m = ALLW.filter((x) => x.w === w); return m[n] ?
 const LID = (id) => TIMING.lines.find((l) => l.id === id).t0;
 const END = 28.5;
 // scene starts
-const S = { A: 0, B1: LID('l2') - 0.1, B2: T("Math's") - 0.1, C1: LID('l3') - 0.1, C2: T('with') - 0.1, D: LID('l4') - 0.1,
+const S = { A: 0, B1: LID('l2') - 0.1, B2: T("Math's") - 0.1, C1: LID('l3') - 0.1, C1b: T('it,') - 0.1, C2: T('AI') - 0.15, D: LID('l4') - 0.1,
   E: LID('l5') - 0.1, F: LID('l6') - 0.1, G1: LID('l7') - 0.1, G2: T('mystery') - 0.1, Hh: LID('l8') - 0.1 };
 const B = (t) => t / 0.5;
 const WH = (t) => [B(t), 'wipe', 'whoosh', { len: 0.3, from: 700, to: 1800 }];
@@ -27,7 +27,7 @@ const HITS = [
   WH(S.B1), [B(T('Riemann') - 0.05), 'name tag', 'click'], [B(T('hypothesis.')), 'title', 'tick'],
   WH(S.B2), [B(T('most')), 'zeros', 'type', { len: 0.9, n: 7 }], [B(T('famous')), '#1 chip', 'pop'],
   WH(S.C1), [B(T('Levent') - 0.05), 'name tag', 'click'], [B(T('says')), 'CLAIM stamp', 'pop'],
-  WH(S.C2), [B(T('AI')), 'plus', 'tick'], [B(T('Claude.')), 'Claude card', 'pop'],
+  WH(S.C1b), [B(S.C1b + 0.1), 'Harvard tag', 'click'], WH(S.C2), [B(T('AI') + 0.05), 'plus', 'tick'], [B(T('Claude.')), 'Claude card', 'pop'],
   WH(S.D), [B(T('17 million') - 0.05), 'code wall', 'type', { len: 1.6, n: 16 }], [B(T('code.')), 'LEAN chip', 'click'],
   WH(S.E), [B(T('250,000 pages.') - 0.05), 'pages', 'type', { len: 1.3, n: 12 }], [B(T('250,000 pages.') + 1.3), 'stack top', 'pop'],
   WH(S.F), [B(T('human')), 'magnifier', 'tick'], [B(T('yet.')), 'NOT YET', 'pop'], [B(T('Experts')), 'experts', 'click'], [B(T('checking.')), 'status', 'tick'],
@@ -100,7 +100,7 @@ function photo(ctx, img, x, y, w, h, t, t0, { rot = 0, z0 = 1.0, z1 = 1.14, fx =
   if (credit) { ctx.font = font(20, 600, UI); const cw = ctx.measureText(credit).width + 16; ctx.fillStyle = 'rgba(0,0,0,0.55)'; ctx.fillRect(w / 2 - cw, -h / 2, cw, 30); text(ctx, credit, w / 2 - 8, -h / 2 + 21, font(20, 600, UI), 'rgba(255,255,255,0.9)', 'right'); }
   ctx.restore();
   if (tag) { const kt = pop(t, tagT); if (kt > 0) { ctx.save(); ctx.translate(x - w / 2 + 10, y + h / 2 - 20); ctx.rotate(-0.03); ctx.scale(kt, kt);
-    ctx.font = font(50, 800, D); const tw = Math.max(ctx.measureText(tag).width, sub ? (ctx.font = font(32, 700, UI), ctx.measureText(sub).width) : 0) + 50;
+    ctx.font = font(50, 800, D); const tw = Math.max(ctx.measureText(tag).width, sub ? (ctx.font = font(32, 700, UI), ctx.measureText(sub).width + sub.length) : 0) + 50;
     rrect(ctx, 0, -40, tw, sub ? 130 : 84, 10); ctx.fillStyle = C.yel; ctx.fill();
     text(ctx, tag, 25, 20, font(50, 800, D), C.ink, 'left'); if (sub) text(ctx, sub, 25, 70, font(32, 700, UI), C.ink, 'left', 1); ctx.restore(); } }
 }
@@ -182,12 +182,15 @@ function sB1(ctx, t, IMG) {
   slate(ctx, t);
   photo(ctx, IMG.riemann, cx, s.y + 470, 540, 680, t, S.B1, { rot: -0.025, z0: 1.0, z1: 1.12, fy: 0.3, tag: 'BERNHARD RIEMANN', sub: 'POSED IT IN 1859', tagT: T('Riemann') - 0.05,
     credit: 'Photo: Smithsonian Institution / Wikimedia Commons' });
+  photo(ctx, IMG.paper, s.x + s.w - 150, s.y + 500, 280, 440, t, T('hypothesis.') - 0.1, { rot: 0.07, z0: 1.0, z1: 1.08, fy: 0.2, k: pop(t, T('hypothesis.') - 0.15), credit: 'Public domain' });
+  chip(ctx, 'HIS 1859 PAPER', s.x + s.w - 150, s.y + 760, 30, pop(t, T('hypothesis.') + 0.1), { rot: 0.05, bg: C.chalk });
   big(ctx, 'THE RIEMANN HYPOTHESIS', cx, s.y + 1000, 74, C.yel, pop(t, T('hypothesis.') - 0.05));
 }
 // ---------------------------------------------------------------- B2: zeros on the ½ line
-function sB2(ctx, t) {
+function sB2(ctx, t, IMG) {
   slate(ctx, t);
   const ox = cx - 40, top = s.y + 170, bot = s.y + 800;
+  photo(ctx, IMG.zeta, cx, (top + bot) / 2, s.w - 40, bot - top + 40, t, S.B2, { z0: 1.5, z1: 1.75, fx: 0.25, fy: 0.5, credit: 'Zeta plot: --MULLIGANACEOUS-- / Wikimedia, CC BY-SA 4.0' });
   chalkPath(ctx, [[s.x + 40, (top + bot) / 2], [s.x + s.w - 40, (top + bot) / 2]], prog(t, S.B2, S.B2 + 0.4), 5, C.dim); // real axis
   chalkPath(ctx, [[ox, bot], [ox, top]], prog(t, S.B2 + 0.05, S.B2 + 0.5), 8, C.yel); // critical line
   text(ctx, 'Re = ½', ox + 30, top + 50, font(60, 800, UI), C.yel, 'left');
@@ -203,6 +206,12 @@ function sC1(ctx, t, IMG) {
     credit: 'Photo: Marlene Ruf / MFO, CC BY-SA 2.0 DE' });
   stamp(ctx, 'CLAIM', cx + 190, s.y + 820, 110, t, T('says'));
   text(ctx, '"says he proved it"', cx - 150, s.y + 960, font(50, 700, UI), C.chalk, 'center');
+}
+// ---------------------------------------------------------------- C1b: Harvard (where he studied)
+function sC1b(ctx, t, IMG) {
+  slate(ctx, t);
+  photo(ctx, IMG.harv, cx, s.y + 440, 820, 560, t, S.C1b, { rot: -0.02, z0: 1.0, z1: 1.1, fy: 0.45, tag: 'HARVARD 2014', sub: 'TOP OF HIS CLASS · PRINCETON PhD', tagT: S.C1b + 0.1, credit: 'Widener Library, Harvard: Chris Rycroft, CC BY 2.0' });
+  chip(ctx, 'CLAIM', cx + 260, s.y + 860, 50, 1, { bg: C.pink, rot: -0.1 });
 }
 // ---------------------------------------------------------------- C2: + Claude (AI)
 function sC2(ctx, t, IMG) {
@@ -271,15 +280,16 @@ function sF(ctx, t) {
   if (t >= T('Experts')) text(ctx, 'EXPERTS CHECKING', cx, s.y + 1000, font(40, 800, UI), C.blue, 'center', 3);
 }
 // ---------------------------------------------------------------- G1: if it holds — timeline 1859 → 2026
-function sG1(ctx, t) {
+function sG1(ctx, t, IMG) {
   slate(ctx, t);
   big(ctx, 'IF IT HOLDS…', cx, s.y + 330, 120, C.yel, pop(t, S.G1 + 0.05));
-  const y = s.y + 640, x0 = s.x + 60, x1 = s.x + s.w - 60, p = E.inOutCubic(prog(t, T('a 167-year') - 0.05, T('a 167-year') + 1.0));
+  const y = s.y + 560, x0 = s.x + 60, x1 = s.x + s.w - 60, p = E.inOutCubic(prog(t, T('a 167-year') - 0.05, T('a 167-year') + 1.0));
   chalkPath(ctx, [[x0, y], [x1, y]], p, 9, C.chalk);
   [[x0, '1859', 'Riemann'], [x1, '2026', 'Alpöge']].forEach(([x, yr, who], i) => { const k = pop(t, T('a 167-year') + i * 0.9); if (k <= 0) return;
     ctx.save(); ctx.translate(x, y); ctx.scale(k, k); ctx.beginPath(); ctx.arc(0, 0, 18, 0, TAU); ctx.fillStyle = C.yel; ctx.fill();
     text(ctx, yr, 0, -50, font(60, 800, D), C.chalk, 'center'); text(ctx, who, 0, 70, font(36, 700, UI), C.dim, 'center'); ctx.restore(); });
-  const k = pop(t, T('a 167-year') + 0.5); if (k > 0) chip(ctx, '167 YEARS', cx, y + 160, 54, k);
+  const k = pop(t, T('a 167-year') + 0.5); if (k > 0) chip(ctx, '167 YEARS', cx + 200, y + 150, 54, k);
+  photo(ctx, IMG.gott, s.x + 210, y + 250, 360, 280, t, T('a 167-year'), { rot: -0.04, fy: 0.5, k: pop(t, T('a 167-year') + 0.1), tag: 'GÖTTINGEN', sub: "RIEMANN'S UNIVERSITY", tagT: T('a 167-year') + 0.3, credit: 'Julian Herzog, CC BY 4.0' });
 }
 // ---------------------------------------------------------------- G2: primes — mystery cracked
 function sG2(ctx, t) {
@@ -320,11 +330,11 @@ function sH(ctx, t) {
 
 M.film({
   fonts: [font(40, 800, D), font(40, 800, UI), font(40, 600, UI), font(40, 700, UI)],
-  images: { riemann: 'assets/2026-11-22_T_riemann.jpg', a24: 'assets/2026-11-22_T_alpoge_2024.jpg', a18: 'assets/2026-11-22_T_alpoge_2018.jpg' },
+  images: { paper: 'assets/2026-11-22_W_paper1859.jpg', gott: 'assets/2026-11-22_W_goettingen.jpg', harv: 'assets/2026-11-22_W_harvard.jpg', zeta: 'assets/2026-11-22_W_zeta.jpg', riemann: 'assets/2026-11-22_T_riemann.jpg', a24: 'assets/2026-11-22_T_alpoge_2024.jpg', a18: 'assets/2026-11-22_T_alpoge_2018.jpg' },
   hits: HITS,
   init() { initSlate(); },
   draw(ctx, u, t, IMG) {
-    const seq = [[S.A, sA], [S.B1, sB1], [S.B2, sB2], [S.C1, sC1], [S.C2, sC2], [S.D, sD], [S.E, sE], [S.F, sF], [S.G1, sG1], [S.G2, sG2], [S.Hh, sH]];
+    const seq = [[S.A, sA], [S.B1, sB1], [S.B2, sB2], [S.C1, sC1], [S.C1b, sC1b], [S.C2, sC2], [S.D, sD], [S.E, sE], [S.F, sF], [S.G1, sG1], [S.G2, sG2], [S.Hh, sH]];
     let i = seq.length - 1; while (i > 0 && t < seq[i][0] - 0.18) i--;
     const cur = seq[i], nxt = seq[i + 1];
     if (nxt && t > nxt[0] - 0.18) wipe(ctx, t, nxt[0], () => cur[1](ctx, t, IMG), () => nxt[1](ctx, t, IMG));

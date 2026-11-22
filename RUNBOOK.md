@@ -21,6 +21,11 @@
 - Private individuals: never shown or named. Victims of crimes/tragedies: no photos. Children: only historical/public-domain.
 - PHOTO STORY look (from the gdh_dijital reel Gartal loved, 22 Nov): real photos with slow zoom/pan, the person's name on the
   photo, motion graphics between photos, a new image every 1–2 s, short captions; voice on top. Allowed in every animated slot.
+- MANY PHOTOS (Gartal 2026-11-22 15:44, after the Riemann reel used ONE photo of Alpöge): a photo story needs 6–10 DIFFERENT
+  photos in 25–30 s — the person at different ages and places (school, university, work, events), the places, the documents.
+  Never reuse the same photo for a second scene. Search in order: Wikimedia → official pages (university, company, government,
+  the person's own site/socials) → news/agency photos (rules above). Use every usable photo you downloaded. If fewer than 4
+  photos of the subject exist anywhere, say so in the day JSON and fill with places/documents, not the same face again.
 - Facts stay exact: a CLAIM is a claim ("sübut etdiyini açıqladı" / "says he has proven"), never stated as confirmed.
 
 ## TOPIC OVERRIDE 2026-11-22 (Sun) — both brands, test of the PHOTO STORY look

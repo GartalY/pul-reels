@@ -645,3 +645,7 @@ search_karabakh_horse.json https://commons.wikimedia.org/w/api.php?action=query&
 2026-11-23_1_nizami_b.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Nizami_Ganjavi_mausoleum_in_Ganja%2C_Azerbaijan.JPG/2000px-Nizami_Ganjavi_mausoleum_in_Ganja%2C_Azerbaijan.JPG
 2026-11-23_1_nizami_c.jpg https://upload.wikimedia.org/wikipedia/commons/6/6e/Nizami_Mausoleum%2C_Ganja.jpg
 2026-11-23_1_nizami_d.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Nizami_Ganjavi_mausoleum_in_Ganja%2C_Azerbaijan.JPG/1920px-Nizami_Ganjavi_mausoleum_in_Ganja%2C_Azerbaijan.JPG
+2026-11-22_src_countrystudies.html https://countrystudies.us/azerbaijan/7.htm
+2026-11-22_src_encyc_baku.html https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/baku
+2026-11-22_src_preslib_baku.html https://bakucity.preslib.az/en/page/qPf6G5CZ1H
+2026-11-22_src_timeline2.json https://en.wikipedia.org/w/api.php?action=parse&format=json&prop=wikitext&page=Timeline_of_Baku

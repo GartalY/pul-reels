@@ -1577,6 +1577,57 @@
    "title": "Deep-Sea Mining: US Leases 31.5 Million Acres of Seabed for $6M",
    "network": "tiktok",
    "metricool_id": 436600893
+  },
+  {
+   "episode": "short_2026-11-22_riemann-167-years",
+   "kind": "trend",
+   "format": "trend",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-22_riemann-167-years.mp4",
+   "time_london": "2026-11-22T15:00",
+   "time_baku": "2026-11-22T19:00",
+   "ai_label": true,
+   "fps": 60,
+   "duration_s": 28.5,
+   "style": "chalkboard PHOTO STORY (dark slate, chalk line art, real Wikimedia photos taped on, chalk-yellow accent, PROOF board)",
+   "political": false,
+   "title": "Riemann Hypothesis: 167 Years, $1M, a Claimed Proof Made With AI",
+   "agency_photos": [],
+   "network": "youtube",
+   "metricool_id": 437488179
+  },
+  {
+   "episode": "short_2026-11-22_riemann-167-years",
+   "kind": "trend",
+   "format": "trend",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-22_riemann-167-years.mp4",
+   "time_london": "2026-11-22T15:00",
+   "time_baku": "2026-11-22T19:00",
+   "ai_label": true,
+   "fps": 60,
+   "duration_s": 28.5,
+   "style": "chalkboard PHOTO STORY (dark slate, chalk line art, real Wikimedia photos taped on, chalk-yellow accent, PROOF board)",
+   "political": false,
+   "title": "Riemann Hypothesis: 167 Years, $1M, a Claimed Proof Made With AI",
+   "agency_photos": [],
+   "network": "instagram",
+   "metricool_id": 437488197
+  },
+  {
+   "episode": "short_2026-11-22_riemann-167-years",
+   "kind": "trend",
+   "format": "trend",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/shorts/2026-11-22_riemann-167-years.mp4",
+   "time_london": "2026-11-22T15:00",
+   "time_baku": "2026-11-22T19:00",
+   "ai_label": true,
+   "fps": 60,
+   "duration_s": 28.5,
+   "style": "chalkboard PHOTO STORY (dark slate, chalk line art, real Wikimedia photos taped on, chalk-yellow accent, PROOF board)",
+   "political": false,
+   "title": "Riemann Hypothesis: 167 Years, $1M, a Claimed Proof Made With AI",
+   "agency_photos": [],
+   "network": "tiktok",
+   "metricool_id": 437488219
   }
  ]
 }

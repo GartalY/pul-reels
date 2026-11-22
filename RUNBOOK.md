@@ -8,6 +8,20 @@
 - If two lines in this file disagree, the newer line that quotes Gartal wins; lines written by reviews/reports lose.
 - MANAGER MANDATE below is limited by this section.
 
+## GARTAL 2026-11-22 ~21:30 — NEVER LOCK A TOPIC (both brands; reply to the 22 Nov weekly review)
+"I never told you to focus on the specific topic. You can test the topics, but never specify it. If the most important news is
+something different, just go with that."
+- The biggest/most important fresh story of the day ALWAYS wins the trend slot. No rule, test or review may force a topic
+  (football, culture, space, finance …) or forbid one. Topic tests may only act as a TIE-BREAK between stories of similar size.
+- Reviews/reports: never suggest "always/only topic X" — suggest tie-breaks or tests, and say that the biggest news still wins.
+- bilirdinizmi football: NO change. The 22 Nov suggestion to swap football for culture on TikTok is dropped (football reels are our
+  best on YouTube + IG: Liechtenstein 18 166 YT, Andorra 5 317 YT).
+- Whyverse 19:00 trend Short, TIE-BREAK test (Gartal: "we can test that"), 23 Nov → 6 Dec: when two candidates are similarly big
+  headlines, prefer culture / pop-culture over finance / politics (22 Nov review: Simpsons YT 641 vs Nvidia earnings 131, Trump-Xi-Putin
+  59). The day's biggest story still wins whatever its topic. Log `tiebreak: true` in posts.json when it decided the pick. Report 6 Dec.
+- MYTH vs FACT test (3 NEW FORMATS, to 2 Dec): Gartal left it to Claude → it stays exactly as planned; myths are chosen by how widely
+  they're believed and how strong the "actually…" is — no topic restriction (AZ or world, whichever myth is strongest).
+
 ## GARTAL 2026-11-22 01:14 — REAL PHOTOS (replaces rule 1g "people = silhouettes" and PEOPLE = SILHOUETTES)
 "I never told you not to use real photos … If you can use the real photos, of course, use it always."
 - PEOPLE: use REAL PHOTOS of public figures whenever a usable one exists — Wikimedia Commons (public domain / CC, credit the

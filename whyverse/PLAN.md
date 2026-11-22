@@ -307,6 +307,11 @@ Code-drawn with Motion Reel, no new tools. Use when the topic fits:
 3. Captions keep their specific 📩 line (already the rule for bilirdinizmi; now Whyverse too).
 4. Reports: track sends (shares) per post where Metricool gives them; sends per view is the main quality number.
 
+## GARTAL 2026-11-22 ~21:30 — NEVER LOCK A TOPIC (see RUNBOOK, same title)
+- The biggest fresh story of the day always wins the 19:00 trend slot, whatever its topic.
+- TIE-BREAK test 23 Nov → 6 Dec: only between similarly big headlines, prefer culture / pop-culture over finance / politics.
+  Log `tiebreak: true` in posts.json when it decided the pick. Report on 6 Dec. The E9 ranking below also stays a tie-break, never a lock.
+
 ## SUNDAY DECISIONS 2026-11-15 (weekly review, Claude as manager — reviews/2026-11-15.md)
 - TREND TOPIC RANKING (E9, 16 → 29 Nov): the 10:41 scout and the 15:31 run rank candidates in this order:
   (1) a NAMED person / company / country in the day's top headlines with one big number (senator IG 1 699; Nvidia board TikTok 1 389;

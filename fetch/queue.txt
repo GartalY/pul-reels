@@ -641,3 +641,5 @@ search_karabakh_horse.json https://commons.wikimedia.org/w/api.php?action=query&
 2026-11-22_src_baku_wt.json https://en.wikipedia.org/w/api.php?action=parse&format=json&prop=wikitext&section=0&page=Baku
 2026-11-22_src_casrai.html https://casrai.org/news/anthropic-levent-alpoge-claude-lean-riemann-hypothesis-claim-2026
 2026-11-22_src_hwl.html https://hollywoodlife.com/2026/11/21/what-is-riemann-hypothesis-explained/
+2026-11-23_1_nizami_a.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Nizami_Mausoleum%2C_Ganja.jpg/2000px-Nizami_Mausoleum%2C_Ganja.jpg
+2026-11-23_1_nizami_b.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Nizami_Ganjavi_mausoleum_in_Ganja%2C_Azerbaijan.JPG/2000px-Nizami_Ganjavi_mausoleum_in_Ganja%2C_Azerbaijan.JPG

@@ -1,0 +1,8 @@
+# 167 il, 1 milyon dollar — critique (22 Nov 2026, 18:30 TREND reel, Riemann claim, Arif, PHOTO STORY look)
+## Round 1 (hook 8, readability 7, motion 7, variety 8, accuracy 9, sync 9)
+Worst: (1) scene openings empty after the whips (1859 board, calendar, counter popped in late) — all pre-popped at the cut; (2) file wall ran under the progress strip — 10×6 then 9×4 icons; (3) calendar small and hidden behind the Alpöge photo — 300 px, moved up.
+## Round 2 (hook 8, readability 8, motion 8, variety 8, accuracy 9, sync 9)
+Worst: (1) chalk card covered "BERNHARD RİMAN" — moved right/down; (2) proof sheets covered the name plate, İDDİA EDİR stamp sat on the strip — sheets left ×0.8, stamp on the photo's top; (3) HƏLƏ TƏSDİQ YOXDUR stamp under the strip — cards and stamp lifted.
+## Round 3 (hook 8, readability 8, motion 8, variety 8, accuracy 9, sync 9)
+Worst: (1) last row of files touched the strip — y0 s.y+735; (2) end card "167 İL" touched the photos — lowered; (3) Azerbaijani checked word by word on screen: 167 İL, $1 000 000, RİMAN · 1859, TÜRK ƏSİLLİ ALİM, BERNHARD RİMAN, alman riyaziyyatçı, RİMAN FƏRZİYYƏSİ, SÜBUT?, HEÇ KİM, NOYABR 2026, İDDİA, Claude, süni intellekt, LEVENT ALPÖGE, türk əsilli riyaziyyatçı, SÜBUT, İDDİA EDİR, KOMPÜTER FAYLI, LEAN PROQRAMI, 175 MİNDƏN ÇOX, KOMPÜTER YOXLADI, ALİMLƏR HƏLƏ YOXLAYIR, HƏLƏ TƏSDİQ YOXDUR, BƏYƏN, İZLƏ, hər gün bilmədiyin bir fakt, Riyaziyyatı sevən dostuna göndər. Captions: numerals (167, 1, 1859-dan, 20, 175) and "Claude" (voice says "Klod").
+Claim stays a claim (İDDİA EDİR / HƏLƏ TƏSDİQ YOXDUR). Sync: median |offset| 10 ms. Mix: -14.0 LUFS, -1.3 dBTP, sfx -9 dB.

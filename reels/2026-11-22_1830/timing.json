@@ -1,0 +1,307 @@
+{
+"dur": 25.6,
+"lines": [
+{
+"t0": 0.0,
+"words": [
+{
+"w": "167",
+"t": 0.0,
+"key": true
+},
+{
+"w": "il,",
+"t": 1.04,
+"key": true
+},
+{
+"w": "1",
+"t": 1.6,
+"key": false
+},
+{
+"w": "milyon",
+"t": 1.84,
+"key": true
+},
+{
+"w": "dollar",
+"t": 2.24,
+"key": true
+},
+{
+"w": "və",
+"t": 2.72,
+"key": false
+},
+{
+"w": "türk",
+"t": 2.96,
+"key": true
+},
+{
+"w": "əsilli",
+"t": 3.28,
+"key": true
+},
+{
+"w": "alim!",
+"t": 3.74,
+"key": false
+}
+],
+"t1": 4.72
+},
+{
+"t0": 4.72,
+"words": [
+{
+"w": "Söhbət",
+"t": 4.72,
+"key": false
+},
+{
+"w": "Riman",
+"t": 5.36,
+"key": true
+},
+{
+"w": "fərziyyəsindən",
+"t": 5.72,
+"key": true
+},
+{
+"w": "gedir.",
+"t": 6.4,
+"key": false
+}
+],
+"t1": 7.04
+},
+{
+"t0": 7.04,
+"words": [
+{
+"w": "1859-dan",
+"t": 7.04,
+"key": true
+},
+{
+"w": "bəri",
+"t": 8.32,
+"key": false
+},
+{
+"w": "heç",
+"t": 8.72,
+"key": true
+},
+{
+"w": "kim",
+"t": 8.96,
+"key": true
+},
+{
+"w": "onu",
+"t": 9.12,
+"key": false
+},
+{
+"w": "sübut",
+"t": 9.307,
+"key": false
+},
+{
+"w": "edə",
+"t": 9.56,
+"key": false
+},
+{
+"w": "bilməyib.",
+"t": 9.76,
+"key": false
+}
+],
+"t1": 10.49
+},
+{
+"t0": 10.49,
+"words": [
+{
+"w": "20",
+"t": 10.49,
+"key": true
+},
+{
+"w": "noyabrda",
+"t": 10.88,
+"key": true
+},
+{
+"w": "Levent",
+"t": 11.68,
+"key": true
+},
+{
+"w": "Alpöge",
+"t": 12.08,
+"key": true
+},
+{
+"w": "Claude",
+"t": 12.88,
+"key": true
+},
+{
+"w": "süni",
+"t": 13.2,
+"key": false
+},
+{
+"w": "intellekti",
+"t": 13.52,
+"key": false
+},
+{
+"w": "ilə",
+"t": 13.96,
+"key": false
+},
+{
+"w": "sübut",
+"t": 14.16,
+"key": false
+},
+{
+"w": "tapdığını",
+"t": 14.48,
+"key": false
+},
+{
+"w": "açıqladı.",
+"t": 14.92,
+"key": true
+}
+],
+"t1": 15.8
+},
+{
+"t0": 15.8,
+"words": [
+{
+"w": "Sübut",
+"t": 15.8,
+"key": false
+},
+{
+"w": "175",
+"t": 16.4,
+"key": true
+},
+{
+"w": "mindən",
+"t": 17.28,
+"key": true
+},
+{
+"w": "çox",
+"t": 17.6,
+"key": false
+},
+{
+"w": "kompüter",
+"t": 17.76,
+"key": true
+},
+{
+"w": "faylından",
+"t": 18.24,
+"key": true
+},
+{
+"w": "ibarətdir.",
+"t": 18.72,
+"key": false
+}
+],
+"t1": 19.6
+},
+{
+"t0": 19.6,
+"words": [
+{
+"w": "Amma",
+"t": 19.6,
+"key": false
+},
+{
+"w": "alimlər",
+"t": 19.84,
+"key": false
+},
+{
+"w": "onu",
+"t": 20.56,
+"key": false
+},
+{
+"w": "hələ",
+"t": 20.827,
+"key": true
+},
+{
+"w": "təsdiqləməyib.",
+"t": 21.04,
+"key": true
+}
+],
+"t1": 22.32
+},
+{
+"t0": 22.32,
+"words": [
+{
+"w": "Bəyən",
+"t": 22.32,
+"key": true
+},
+{
+"w": "və",
+"t": 22.8,
+"key": false
+},
+{
+"w": "izlə",
+"t": 22.96,
+"key": true
+},
+{
+"w": "hər",
+"t": 23.733,
+"key": false
+},
+{
+"w": "gün",
+"t": 24.0,
+"key": false
+},
+{
+"w": "bilmədiyin",
+"t": 24.4,
+"key": false
+},
+{
+"w": "bir",
+"t": 24.96,
+"key": false
+},
+{
+"w": "fakt!",
+"t": 25.12,
+"key": true
+}
+],
+"t1": 25.6
+}
+]
+}

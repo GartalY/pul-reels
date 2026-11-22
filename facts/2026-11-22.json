@@ -1,291 +1,319 @@
 {
-  "date": "2026-11-22",
-  "status": "13:00 scheduled (static Möminə Xatun, no voice, silent track, IG REEL); 18:30 animated Arif reel = 14:47/15:23 tasks | 09:10 22 Nov: trend = Riemann claim (Gartal override, PHOTO STORY), written to `trend` | 14:51: reel_1830 script + Arif mp3 (25.6 s) + words ready for 15:23 build",
-  "format": "v4",
-  "content_format": "quality_reset_2026-11-12",
-  "planned_note": "Planned in the 2026-11-21 09:10 run. Sun 22 Nov (no format-table slot): 13:00 static factgen reel (no voice, silent track, IG normal REEL) = facts[0] Möminə Xatun türbəsi (photo fetched + checked). 18:30 = animated 60 fps Arif reel about the freshest AZ story (22 Nov 09:10 picks `trend`); if nothing good, facts[1] Tur Heyerdal & the 'Aser = Azerbaijan' theory as the animated backup. Week 16–22 Nov: sports 2/2 used, space 0 — both facts are architecture/mystery. No carousels/quizzes/stories.",
-  "format_log": {
-    "13:00": "fact",
-    "18:30": "trend (Riemann, PHOTO STORY; backup: fact Heyerdahl)"
+ "date": "2026-11-22",
+ "status": "13:00 scheduled (static Möminə Xatun, no voice, silent track, IG REEL); 18:30 animated Arif reel = 14:47/15:23 tasks | 09:10 22 Nov: trend = Riemann claim (Gartal override, PHOTO STORY), written to `trend` | 14:51: reel_1830 script + Arif mp3 (25.6 s) + words ready for 15:23 build",
+ "format": "v4",
+ "content_format": "quality_reset_2026-11-12",
+ "planned_note": "Planned in the 2026-11-21 09:10 run. Sun 22 Nov (no format-table slot): 13:00 static factgen reel (no voice, silent track, IG normal REEL) = facts[0] Möminə Xatun türbəsi (photo fetched + checked). 18:30 = animated 60 fps Arif reel about the freshest AZ story (22 Nov 09:10 picks `trend`); if nothing good, facts[1] Tur Heyerdal & the 'Aser = Azerbaijan' theory as the animated backup. Week 16–22 Nov: sports 2/2 used, space 0 — both facts are architecture/mystery. No carousels/quizzes/stories.",
+ "format_log": {
+  "13:00": "fact",
+  "18:30": "trend (Riemann, PHOTO STORY; backup: fact Heyerdahl)"
+ },
+ "facts": [
+  {
+   "n": 1,
+   "type": "reel",
+   "slot": "13:00",
+   "static": true,
+   "voiced": false,
+   "format": "fact",
+   "cat": "Memarlıq",
+   "subject": "Momine Khatun Mausoleum (Möminə Xatun türbəsi), Nakhchivan city. Built 1186 (Euronews 2018; advantour 'April 1186'; Wikipedia Ajami Nakhchivani: date on the walls 1186–1187). Architect Ajami Nakhchivani (Əcəmi Naxçıvani) — Euronews; Wikipedia ('masterpiece of Ajami'). Ten-sided (Wikipedia 'ten-sided'; Euronews '10 decorated facets'; advantour 'decahedral'). Every face covered with ornament and Kufic inscriptions (Wikipedia; advantour). Height today 'more than 25 m' (Wikipedia) / '26 m' (Euronews); originally about 9 m higher with a tent-shaped dome (Euronews: 'originally 9 metres higher'; advantour: 'reaching 34 metres'). Underground burial vault (Wikipedia; advantour). Built in honour of Momine Khatun, wife of Atabeg Shamsaddin Eldaniz (Euronews; Wikipedia says wife of Eldegiz or of his son — so NO family detail in the reel beyond 'Atabəylər dövrü'). 1186 → 2026 = 840 years. NOT used: 'nine of ten sides have different ornaments' (advantour only), who ordered it (sources disagree), UNESCO tentative list (page not verified).",
+   "title": "Möminə Xatun türbəsi: 840 illik «göydələn»",
+   "text": "Naxçıvandakı Möminə Xatun türbəsi 1186-cı ildə tikilib. 10 üzü var, hər üzü naxışla örtülüb.",
+   "reel_hook": "840 İL ƏVVƏL TİKİLƏN 10 ÜZLÜ «GÖYDƏLƏN»",
+   "hook_options": [
+    "840 İL ƏVVƏL TİKİLƏN 10 ÜZLÜ «GÖYDƏLƏN»",
+    "1186: NAXÇIVANIN 9 METRİNİ İTİRƏN QÜLLƏSİ",
+    "10 ÜZ, 0 BOŞ YER: 840 İLLİK NAXIŞ",
+    "25 METRLİK TÜRBƏ ƏSLİNDƏ 34 METR İDİ",
+    "1 MEMAR, 10 ÜZ, 840 İL: MÖMİNƏ XATUN"
+   ],
+   "reel_beats": [
+    "Naxçıvandakı Möminə Xatun türbəsi 1186-cı ildə — 840 il əvvəl tikilib.",
+    "Onu memar Əcəmi Naxçıvani ucaldıb. Türbənin 10 üzü var.",
+    "Hər üzü başdan-ayağa naxışla və kufi yazılarla örtülüb.",
+    "Bu gün hündürlüyü 25 metrdən çoxdur."
+   ],
+   "payoff": "Ən maraqlısı: əvvəllər türbə təxminən 9 metr daha uca idi — üstündə çadırvari günbəz vardı, o, dövrümüzə çatmayıb.",
+   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+   "send_line": "📩 Naxçıvanlı dostuna göndər 🏛️",
+   "caption": "Möminə Xatun türbəsi: 840 illik «göydələn» 🏛️\n\nNaxçıvandakı Möminə Xatun türbəsi 1186-cı ildə memar Əcəmi Naxçıvani tərəfindən tikilib. Türbənin 10 üzü var və hər üzü başdan-ayağa naxışla, kufi yazılarla örtülüb. Bu gün hündürlüyü 25 metrdən çoxdur. Ən maraqlısı: əvvəllər türbə təxminən 9 metr daha uca idi — üstündəki çadırvari günbəz dövrümüzə çatmayıb.\n\n📩 Naxçıvanlı dostuna göndər 🏛️\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nFoto: Sefer azeri / Wikimedia Commons (CC BY-SA 4.0)\n\n#bilirdinizmi #naxçıvan #möminəxatun #əcəminaxçıvani #memarlıq",
+   "first_comment": "Möminə Xatun türbəsini canlı görmüsən? 👇",
+   "youtube_title": "Möminə Xatun türbəsi: 1186-dan qalan 10 üzlü qüllə #shorts",
+   "photo": {
+    "path": "fetch/img/2026-11-22_1_momine_2018.jpg",
+    "credit": "Foto: Sefer azeri / Wikimedia Commons (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:M%C3%B6m%C3%BCn%C9%99xatun_t%C3%BCrb%C9%99si_2018.jpg",
+    "size": [
+     2392,
+     3431
+    ],
+    "cy": 0.45,
+    "full": true,
+    "checked": "21 Nov 09:55: looked at it — clean daylight shot, whole tower, blue sky, no watermark/logo/arcs at thumbnail; look again at full size at build. Alternatives fetched: 2026-11-22_1_momine_2008.jpg (Emil Khalilov, CC BY-SA 4.0, door visible), 2026-11-22_1_momine_cavad.jpg (CC BY-SA 3.0, bush in front — avoid)."
+   },
+   "context_check": "Catches: (1) Height: '25 m+' (Wikipedia) vs '26 m' (Euronews) → '25 metrdən çox'. (2) Original height: Euronews '9 m higher', advantour '34 m' → 'təxminən 9 metr daha uca'. (3) Whose wife/who ordered — sources disagree → not said. (4) Nakhchivan only as place (no conflict-adjacent lines).",
+   "language_check": "Read aloud 21 Nov: 'Möminə Xatun', 'Əcəmi Naxçıvani', 'kufi yazılar', 'çadırvari günbəz', 'başdan-ayağa'; numbers with nbsp (1186, 840).",
+   "sources": [
+    "https://www.euronews.com/travel/2018/05/07/momine-khatun-mausoleum",
+    "https://en.wikipedia.org/wiki/Ajami_Nakhchivani",
+    "https://en.wikipedia.org/wiki/Momine_Khatun_Mausoleum",
+    "https://advantour.com/azerbaijan/nakhichevan/momine-khatun-mausoleum.htm"
+   ],
+   "build": {
+    "file": "out/2026-11-22/1_reel.mp4",
+    "dur_s": 22.6,
+    "voice": null,
+    "sound": "pure silence (volumedetect max -91.0 dB)",
+    "photo_used": "fetch/img/2026-11-22_1_momine_2018.jpg",
+    "spec": "out/2026-11-22/1_reel_spec.json",
+    "checked": "20:48 21 Nov: photo checked full size (clean, no watermark). 2 frame sheets: v1 OK; v2 adds NBSP in '840 il', '10 üzü', '25 metrdən', '9 metr' so they never split. Hook number-first, Möminə Xatun named in beat 1 + caption line 1; AZ letters (İ Ə ı ş ç ö ü « ») fine; beats on dark backing in safe zone; CTA pill last."
+   }
   },
-  "facts": [
-    {
-      "n": 1,
-      "type": "reel",
-      "slot": "13:00",
-      "static": true,
-      "voiced": false,
-      "format": "fact",
-      "cat": "Memarlıq",
-      "subject": "Momine Khatun Mausoleum (Möminə Xatun türbəsi), Nakhchivan city. Built 1186 (Euronews 2018; advantour 'April 1186'; Wikipedia Ajami Nakhchivani: date on the walls 1186–1187). Architect Ajami Nakhchivani (Əcəmi Naxçıvani) — Euronews; Wikipedia ('masterpiece of Ajami'). Ten-sided (Wikipedia 'ten-sided'; Euronews '10 decorated facets'; advantour 'decahedral'). Every face covered with ornament and Kufic inscriptions (Wikipedia; advantour). Height today 'more than 25 m' (Wikipedia) / '26 m' (Euronews); originally about 9 m higher with a tent-shaped dome (Euronews: 'originally 9 metres higher'; advantour: 'reaching 34 metres'). Underground burial vault (Wikipedia; advantour). Built in honour of Momine Khatun, wife of Atabeg Shamsaddin Eldaniz (Euronews; Wikipedia says wife of Eldegiz or of his son — so NO family detail in the reel beyond 'Atabəylər dövrü'). 1186 → 2026 = 840 years. NOT used: 'nine of ten sides have different ornaments' (advantour only), who ordered it (sources disagree), UNESCO tentative list (page not verified).",
-      "title": "Möminə Xatun türbəsi: 840 illik «göydələn»",
-      "text": "Naxçıvandakı Möminə Xatun türbəsi 1186-cı ildə tikilib. 10 üzü var, hər üzü naxışla örtülüb.",
-      "reel_hook": "840 İL ƏVVƏL TİKİLƏN 10 ÜZLÜ «GÖYDƏLƏN»",
-      "hook_options": [
-        "840 İL ƏVVƏL TİKİLƏN 10 ÜZLÜ «GÖYDƏLƏN»",
-        "1186: NAXÇIVANIN 9 METRİNİ İTİRƏN QÜLLƏSİ",
-        "10 ÜZ, 0 BOŞ YER: 840 İLLİK NAXIŞ",
-        "25 METRLİK TÜRBƏ ƏSLİNDƏ 34 METR İDİ",
-        "1 MEMAR, 10 ÜZ, 840 İL: MÖMİNƏ XATUN"
-      ],
-      "reel_beats": [
-        "Naxçıvandakı Möminə Xatun türbəsi 1186-cı ildə — 840 il əvvəl tikilib.",
-        "Onu memar Əcəmi Naxçıvani ucaldıb. Türbənin 10 üzü var.",
-        "Hər üzü başdan-ayağa naxışla və kufi yazılarla örtülüb.",
-        "Bu gün hündürlüyü 25 metrdən çoxdur."
-      ],
-      "payoff": "Ən maraqlısı: əvvəllər türbə təxminən 9 metr daha uca idi — üstündə çadırvari günbəz vardı, o, dövrümüzə çatmayıb.",
-      "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
-      "send_line": "📩 Naxçıvanlı dostuna göndər 🏛️",
-      "caption": "Möminə Xatun türbəsi: 840 illik «göydələn» 🏛️\n\nNaxçıvandakı Möminə Xatun türbəsi 1186-cı ildə memar Əcəmi Naxçıvani tərəfindən tikilib. Türbənin 10 üzü var və hər üzü başdan-ayağa naxışla, kufi yazılarla örtülüb. Bu gün hündürlüyü 25 metrdən çoxdur. Ən maraqlısı: əvvəllər türbə təxminən 9 metr daha uca idi — üstündəki çadırvari günbəz dövrümüzə çatmayıb.\n\n📩 Naxçıvanlı dostuna göndər 🏛️\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nFoto: Sefer azeri / Wikimedia Commons (CC BY-SA 4.0)\n\n#bilirdinizmi #naxçıvan #möminəxatun #əcəminaxçıvani #memarlıq",
-      "first_comment": "Möminə Xatun türbəsini canlı görmüsən? 👇",
-      "youtube_title": "Möminə Xatun türbəsi: 1186-dan qalan 10 üzlü qüllə #shorts",
-      "photo": {
-        "path": "fetch/img/2026-11-22_1_momine_2018.jpg",
-        "credit": "Foto: Sefer azeri / Wikimedia Commons (CC BY-SA 4.0)",
-        "source": "https://commons.wikimedia.org/wiki/File:M%C3%B6m%C3%BCn%C9%99xatun_t%C3%BCrb%C9%99si_2018.jpg",
-        "size": [
-          2392,
-          3431
-        ],
-        "cy": 0.45,
-        "full": true,
-        "checked": "21 Nov 09:55: looked at it — clean daylight shot, whole tower, blue sky, no watermark/logo/arcs at thumbnail; look again at full size at build. Alternatives fetched: 2026-11-22_1_momine_2008.jpg (Emil Khalilov, CC BY-SA 4.0, door visible), 2026-11-22_1_momine_cavad.jpg (CC BY-SA 3.0, bush in front — avoid)."
-      },
-      "context_check": "Catches: (1) Height: '25 m+' (Wikipedia) vs '26 m' (Euronews) → '25 metrdən çox'. (2) Original height: Euronews '9 m higher', advantour '34 m' → 'təxminən 9 metr daha uca'. (3) Whose wife/who ordered — sources disagree → not said. (4) Nakhchivan only as place (no conflict-adjacent lines).",
-      "language_check": "Read aloud 21 Nov: 'Möminə Xatun', 'Əcəmi Naxçıvani', 'kufi yazılar', 'çadırvari günbəz', 'başdan-ayağa'; numbers with nbsp (1186, 840).",
-      "sources": [
-        "https://www.euronews.com/travel/2018/05/07/momine-khatun-mausoleum",
-        "https://en.wikipedia.org/wiki/Ajami_Nakhchivani",
-        "https://en.wikipedia.org/wiki/Momine_Khatun_Mausoleum",
-        "https://advantour.com/azerbaijan/nakhichevan/momine-khatun-mausoleum.htm"
-      ],
-      "build": {
-        "file": "out/2026-11-22/1_reel.mp4",
-        "dur_s": 22.6,
-        "voice": null,
-        "sound": "pure silence (volumedetect max -91.0 dB)",
-        "photo_used": "fetch/img/2026-11-22_1_momine_2018.jpg",
-        "spec": "out/2026-11-22/1_reel_spec.json",
-        "checked": "20:48 21 Nov: photo checked full size (clean, no watermark). 2 frame sheets: v1 OK; v2 adds NBSP in '840 il', '10 üzü', '25 metrdən', '9 metr' so they never split. Hook number-first, Möminə Xatun named in beat 1 + caption line 1; AZ letters (İ Ə ı ş ç ö ü « ») fine; beats on dark backing in safe zone; CTA pill last."
-      }
-    },
-    {
-      "n": 2,
-      "type": "reel",
-      "slot": "18:30 backup",
-      "motion": true,
-      "fps": 60,
-      "voiced": "Arif",
-      "format": "fact",
-      "cat": "Sirlər",
-      "subject": "Thor Heyerdahl (Norwegian explorer, Kon-Tiki raft 1947 across the Pacific, ~4 300 miles ≈ 6 900 km — HISTORY.com 'completes 4,300-mile ocean voyage', 7 Aug 1947; died 18 Apr 2002 aged 87 — HISTORY.com). His Azerbaijan theory: an old Icelandic saga says Odin, the Norse god and mythic ancestor of the Vikings, came to Scandinavia from an eastern land called 'Aser' — Heyerdahl linked it to Azerbaijan (NatGeo Out of Eden 2015 '800-year-old Icelandic saga … As-hov or Aser'; Azerbaijan International 8.2). He was drawn by Gobustan petroglyph boats that resemble Scandinavian ones (Azerbaijan International 7.3: 'ship designs … similar'; 8.2: 'petroglyphs that feature reed ships'). Visits: 1980/81, 1994, 1999 (AI 7.3 'third visit'), fourth in Sept 2000 at 86 (AI 8.4). In 2000 he took part in the excavation in Kiş (Shaki); a monument to him stands in Kiş (Wikipedia 'Kiş, Shaki': 'monument to … Thor Heyerdahl, who visited the village during archaeological excavations in 2000'; NatGeo: bronze bust). TWIST (honest): no hard evidence for Norwegian–Azerbaijani ancestry (NatGeo, archaeologist Jeyhun Eminli: 'great traveler … not much of a scientist'); the Gobustan boat engravings are far older than the Vikings — Neolithic (NatGeo); most scholars never embraced his theories (HISTORY.com). NOT used: Kish church origin claims (contested, conflict-adjacent), '101 days' (only from memory — VERIFY at build before using), exact first-visit year (1980 vs 1981).",
-      "title": "Norveçli səyyah: «Vikinqlərin əcdadı Azərbaycandan gəlib»",
-      "reel_hook": "6 900 KM SAL İLƏ ÜZƏN ADAMIN ƏN QƏRİBƏ İDDİASI: VİKİNQLƏR AZƏRBAYCANDAN?",
-      "hook_options": [
-        "6 900 KM SAL İLƏ ÜZƏN ADAMIN ƏN QƏRİBƏ İDDİASI: VİKİNQLƏR AZƏRBAYCANDAN?",
-        "4 DƏFƏ BAKIYA GƏLƏN NORVEÇLİ NƏYİ AXTARIRDI?",
-        "800 İLLİK SAQA: ODİN «ASER» ÖLKƏSİNDƏN GƏLİB",
-        "1 TANRI, 1 SÖZ, 1 NƏZƏRİYYƏ: ASER = AZƏRBAYCAN?",
-        "QOBUSTANDAKI GƏMİLƏR VİKİNQLƏRDƏN QƏDİMDİR"
-      ],
-      "reel_beats": [
-        "1947-ci ildə Tur Heyerdal sadə taxta salla Sakit okeanı keçdi — təxminən 6 900 kilometr.",
-        "Sonra o, 4 dəfə Azərbaycana gəldi. Səbəb? Qədim İslandiya saqası: tanrı Odin Skandinaviyaya «Aser» adlı ölkədən gəlib.",
-        "Heyerdal düşünürdü: Aser — Azərbaycandır. Qobustan qayalarındakı gəmi rəsmləri də ona Norveç gəmilərini xatırladırdı.",
-        "2000-ci ildə, 86 yaşında, Şəkinin Kiş kəndində qazıntılara qatıldı. Bu gün orada ona abidə var."
-      ],
-      "payoff": "Amma alimlər onun nəzəriyyəsini sübut olunmuş saymır: Qobustan gəmiləri vikinqlərdən min illərlə qədimdir. Sirr isə hələ də danışılır.",
-      "voice_texts": [
-        "Altı min doqquz yüz kilometr sal ilə üzən adam deyirdi: vikinqlərin əcdadı Azərbaycandan gəlib!",
-        "Min doqquz yüz qırx yeddidə Tur Heyerdal taxta salla Sakit okeanı keçdi.",
-        "Sonra dörd dəfə Azərbaycana gəldi. Səbəb — qədim İslandiya saqası: tanrı Odin «Aser» adlı ölkədən gəlib.",
-        "Heyerdal düşünürdü ki, Aser — Azərbaycandır. Qobustandakı gəmi rəsmləri də ona Norveç gəmilərini xatırladırdı.",
-        "İki mində, səksən altı yaşında, Şəkinin Kiş kəndində qazıntıya qatıldı. Orada ona abidə var.",
-        "Amma alimlər bunu sübut olunmuş saymır: Qobustan gəmiləri vikinqlərdən min illərlə qədimdir.",
-        "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
-      ],
-      "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
-      "send_line": "📩 Tarix sevən dostuna göndər 🛶",
-      "caption": "Tur Heyerdal: «Vikinqlərin əcdadı Azərbaycandan gəlib»? 🛶\n\nNorveçli səyyah Tur Heyerdal 1947-ci ildə taxta salla Sakit okeanı keçdi — təxminən 6 900 km. Sonra 4 dəfə Azərbaycana gəldi. Səbəb: qədim İslandiya saqasına görə, tanrı Odin Skandinaviyaya «Aser» adlı ölkədən gəlib. Heyerdal bunu Azərbaycanla bağlayırdı, Qobustandakı gəmi rəsmləri də ona Norveç gəmilərini xatırladırdı. 2000-ci ildə Şəkinin Kiş kəndində qazıntılara qatıldı — orada ona abidə var. Amma alimlər bu nəzəriyyəni sübut olunmuş saymır: Qobustan gəmiləri vikinqlərdən min illərlə qədimdir.\n\n📩 Tarix sevən dostuna göndər 🛶\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nSəs: elevenlabs.io\n\n#bilirdinizmi #turheyerdal #qobustan #şəki #vikinqlər",
-      "first_comment": "Sən necə düşünürsən: Heyerdal haqlı ola bilərdimi? 👇",
-      "youtube_title": "Tur Heyerdal: vikinqlərin əcdadı Azərbaycandan? #shorts",
-      "visual_ideas": [
-        "Frame 0: '6 900 KM' big number over a code-drawn balsa raft with a square sail on a wavy ocean line; hook text; corner counter '1/4'.",
-        "Map: dashed line across a flat Pacific, km counter 0 → 6 900; '1947' stamp.",
-        "Saga scroll unrolls: text «ODİN … ASER» (no real Norse artwork, generic scroll); arrow from a flat Scandinavia shape to a question mark over the Caucasus.",
-        "Gobustan: a rock wall with simple carved boat lines (crescent hull + vertical crew strokes) — then a Viking-style longship outline slides next to it for comparison.",
-        "Heyerdahl = SILHOUETTE (tall, white hair outline, beard shape); trowel + dig pit; '2000 · 86 yaş' chip; a plinth with a bust silhouette 'Kiş, Şəki'.",
-        "Twist: big '?' stamp, then 'SÜBUT YOXDUR' label; timeline bar shows Gobustan boats far left (thousands of years ago) vs Vikings far right.",
-        "CTA card; loop line back to '6 900 KM'."
-      ],
-      "sfx": "waves whoosh (raft), paper unroll (scroll), soft chisel taps (petroglyph), thud (stamp); no music, no tonal stings.",
-      "context_check": "Catches: (1) The theory is NOT accepted (NatGeo, HISTORY.com) → say so clearly; never 'proved'. (2) Gobustan boats are Neolithic, far older than Vikings (NatGeo) — that's the honest twist. (3) Kiş church origin is contested between historiographies → only 'Kiş kəndində qazıntı' + monument, no church claims. (4) Kon-Tiki distance '≈ 6 900 km' (4 300 miles, HISTORY.com) — 'təxminən'. (5) Category quota: history/mystery, not space/sports.",
-      "language_check": "Read aloud 21 Nov: 'Tur Heyerdal' (AZ spelling), 'saqa', 'Odin', 'Aser', 'Qobustan', 'Kiş', 'vikinqlər', 'əcdad'; numbers with nbsp (6 900).",
-      "sources": [
-        "https://outofedenwalk.nationalgeographic.org/2015-12-did-vikings-really-hail-from-the-craggy-caucasus/",
-        "https://www.history.com/this-day-in-history/august-7/wood-raft-makes-4300-mile-voyage",
-        "https://azer.com/aiweb/categories/magazine/73_folder/73_articles/73_thorheyerdahl.html",
-        "https://azer.com/aiweb/categories/magazine/82_folder/82_articles/82_heyerdahl.html",
-        "https://www.azer.com/aiweb/categories/magazine/84_folder/84_articles/84_kish.html",
-        "https://en.wikipedia.org/wiki/Ki%C5%9F,_Shaki"
-      ]
-    }
-  ],
-  "ig_type": "REEL (trial reels suspended)",
-  "media": {
-    "13:00 Möminə Xatun": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-22_1300_momine_xatun_silent.mp4"
-  },
-  "metricool": {
-    "13:00 reel (Möminə Xatun, static, silent, IG REEL)": 436835695
-  },
-  "tiktok": {
-    "13:00 Möminə Xatun": 436835849
-  },
-  "youtube": {
-    "13:00 Möminə Xatun": 436835864
-  },
-  "pending_schedule": null,
-  "scheduled_check": "20:50 21 Nov: getScheduledPosts for 22 Nov empty before creating; no pending_schedule in 20–22 Nov JSONs. One post per network created.",
-  "trend": {
-    "n": "T",
-    "type": "reel",
-    "format": "animated_1830",
-    "content_format": "trend",
-    "post_format": "trend",
-    "look": "PHOTO STORY (Gartal 22 Nov)",
-    "cat": "Elm / Riyaziyyat",
-    "hook_type": "single story (Gartal TOPIC OVERRIDE 22 Nov) + number-first",
-    "picked_at": "09:15–09:45 Baku 22 Nov",
-    "rule_note": "TOPIC OVERRIDE 2026-11-22 (Gartal, 01:14): Riemann claim, PHOTO STORY look, Arif voice, Turkish-roots angle. Overrides SUNDAY DECISIONS 1 (AZ-angle filter) for today only. A CLAIM stays a claim: 'iddia edir / açıqladı', never 'sübut etdi/həll etdi'. Claude named plainly, no promo words. Not space/sports (quota irrelevant: last day of the week).",
-    "date_correction": "RUNBOOK override says 'announced ~13–14 Nov'; three sources (CASRAI 21 Nov, Hollywood Life 21 Nov, FelloAI 21 Nov) date the public announcement to FRIDAY 20 Nov 2026 (note 'Remark', alpo.ge/remark.pdf). So it is a fresh (≤48 h) story. Separate, older result (Anthropic, 10 Aug 2026): Claude raised the proven share of zeta zeros on the critical line from 41.6% to 67.2% — NOT the same thing, not used.",
-    "subject": "Riemann hypothesis (Bernhard Riemann, 1859; 1859→2026 = 167 years) — one of the 7 Clay Millennium Prize Problems (2000), $1 million (CASRAI; Hollywood Life; FelloAI; Anthropic 10 Aug page '1859 … million-dollar bounty'). 20 Nov 2026: Levent Alpöge (research scientist / member of technical staff at Anthropic; Harvard Society of Fellows junior fellow — alpo.ge, CASRAI) posted a 4-page note 'Remark' claiming a proof of RH and of GRH for Dirichlet L-functions, made with Claude, as a Lean 4 archive: 175,187 Lean files (CASRAI; FelloAI), ~17.4 million lines (FelloAI; Hollywood Life 'approximately 17 million'), >61.5 GB unpacked (CASRAI). Alpöge: a written-out version 'hit 250,000+ pages' (FelloAI; CASRAI; Hollywood Life). Quote: 'Claude far outpaced me near the finish line' (FelloAI; Hollywood Life). Lean kernel check: Andrew Sutherland (MIT) compiled all modules, accepted 175,187/175,187, only the 3 standard axioms (CASRAI; FelloAI). NOT accepted by mathematicians yet — no human-readable proof; Kontorovich (Rutgers, via AP in Hollywood Life): 'Does that mean I understand it? Not yet.' Clay rules: publication + 2 years of community scrutiny + general acceptance (FelloAI; CASRAI). Background: Alpöge — Turkish-American, born 1992, grew up on Long Island, Harvard 2014 top of his class ('sınıfının birincisi'), Princeton PhD 2020 under Manjul Bhargava (borsagundem.com.tr 10 Sep 2026 'Türk kökenli'; gazeteoksijen.com 'Türk matematikçi'; Harvard + Princeton also on alpo.ge). NOT used: comparator status (CASRAI 'accepted' vs FelloAI/Buzzard 'pending' — conflict), the 41-day vs 'several months' timeline (conflict), Maynard/Lamzouri quotes (not found on readable pages), Dario Amodei consultation, Nasdaq timing (single source).",
-    "reel_hook": "167 İL, 1 MİLYON DOLLAR VƏ TÜRK ƏSİLLİ ALİM",
-    "hook_options": [
-      "167 İL, 1 MİLYON DOLLAR VƏ TÜRK ƏSİLLİ ALİM",
-      "250 000 SƏHİFƏLİK SÜBUT: 167 İLLİK SİRR AÇILDI?",
-      "175 MİN FAYL, 1 SUAL: RİMAN FƏRZİYYƏSİ",
-      "1 MİLYON DOLLARLIQ MƏSƏLƏYƏ TÜRK İMZASI?",
-      "167 İLDƏ HEÇ KİM BACARMADI — İNDİ SÜNİ İNTELLEKTLƏ?"
-    ],
-    "reel_beats": [
-      "1859-cu ildə Bernhard Riman bir fərziyyə irəli sürdü. 167 ildir onu heç kim sübut edə bilməyib.",
-      "Bu, sübutuna 1 milyon dollar mükafat qoyulan 7 «Minilliyin məsələsi»ndən biridir.",
-      "20 noyabrda türk əsilli riyaziyyatçı Levent Alpögə Claude süni intellekti ilə birgə sübut tapdığını açıqladı.",
-      "Sübut Lean proqramında yazılıb: 175 mindən çox fayl. Kağıza köçürülsə, 250 min səhifədən çox olardı."
-    ],
-    "payoff": "Amma hələ heç bir riyaziyyatçı onu təsdiqləməyib: kompüter yoxlaması «doğrudur» deyir, alimlər isə hələ başa düşməyə çalışır.",
-    "voice_texts": [
-      "Yüz altmış yeddi il, bir milyon dollar və türk əsilli bir alim!",
-      "Min səkkiz yüz əlli doqquzda Bernhard Riman bir fərziyyə irəli sürdü. O vaxtdan heç kim onu sübut edə bilməyib.",
-      "Bu, bir milyon dollarlıq yeddi «Minilliyin məsələsi»ndən biridir.",
-      "İyirmi noyabrda Harvardı birinci bitirən Levent Alpögə Claude süni intellekti ilə sübut tapdığını açıqladı.",
-      "Sübut yüz yetmiş beş mindən çox kompüter faylıdır. Kağıza köçürülsə, iki yüz əlli min səhifədən çox olardı.",
-      "Amma alimlər onu hələ təsdiqləməyib — kompüter «doğrudur» deyir, insanlar isə hələ yoxlayır.",
-      "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
-    ],
-    "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
-    "send_line": "📩 Riyaziyyatı sevən dostuna göndər 🧮",
-    "caption": "Riman fərziyyəsi: 167 illik məsələ və türk əsilli alimin iddiası 🧮\n\n1859-cu ildə Bernhard Riman irəli sürdüyü fərziyyəni 167 ildir heç kim sübut edə bilməyib — bu, 1 milyon dollar mükafatlı 7 «Minilliyin məsələsi»ndən biridir. 20 noyabrda türk əsilli riyaziyyatçı Levent Alpögə (Harvard, Prinston; indi Anthropic şirkətində çalışır) Claude süni intellekti ilə birgə sübut tapdığını açıqladı. Sübut Lean proqramında yazılıb: 175 mindən çox fayl; Alpögənin sözünə görə, kağıza köçürülsə 250 min səhifədən çox olardı. Kompüter yoxlaması sübutu qəbul edib, amma riyaziyyatçılar onu hələ təsdiqləməyib — bu, hələlik iddiadır.\n\n📩 Riyaziyyatı sevən dostuna göndər 🧮\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nFoto: Marlene Ruf / MFO, Wikimedia Commons (CC BY-SA 2.0 DE); Smithsonian Institution (B. Riman)\nSəs: elevenlabs.io\n\n#bilirdinizmi #riyaziyyat #rimanfərziyyəsi #leventalpöge #elm",
-    "first_comment": "Sənin fikrincə, süni intellekt böyük elmi kəşflər edəcəkmi? 👇",
-    "youtube_title": "Riman fərziyyəsi: 167 il, 1 milyon dollar və Levent Alpögənin iddiası #shorts",
-    "photos": [
-      {
-        "path": "fetch/img/2026-11-22_T_alpoge_2024.jpg",
-        "credit": "Marlene Ruf / Oberwolfach (MFO), Wikimedia Commons, CC BY-SA 2.0 DE",
-        "source": "https://commons.wikimedia.org/wiki/File:Levent_Alp%C3%B6ge_2024_MFO.jpg",
-        "size": [
-          400,
-          267
-        ],
-        "checked": "22 Nov 09:40 looked: clean, face clear, no watermark; small (400 px) → show framed/cut-out card, not full-screen"
-      },
-      {
-        "path": "fetch/img/2026-11-22_T_alpoge_2018.jpg",
-        "credit": "Petra Lein / MFO, Wikimedia Commons, CC BY-SA 2.0 DE",
-        "source": "https://commons.wikimedia.org/wiki/File:Levent_Alp%C3%B6ge_2018_MFO.jpg",
-        "size": [
-          399,
-          266
-        ],
-        "checked": "not opened yet — check at 15:23 before use"
-      },
-      {
-        "path": "fetch/img/2026-11-22_T_riemann.jpg",
-        "credit": "Smithsonian Institution (no known restrictions), Wikimedia Commons",
-        "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Bernhard_Riemann_(1826-1866),_Mathematician_(2551069295).jpg",
-        "size": [
-          2574,
-          3262
-        ],
-        "checked": "22 Nov 09:40 looked: 1863 engraving with signature, clean, no watermark"
-      }
-    ],
-    "agency_photos": [],
-    "visual_ideas": [
-      "Frame 0: '167' + '$1 000 000' slam in over Riman's 1863 portrait (slow push-in), hook text big; progress counter 1/4 in the corner.",
-      "Year ticker 1859 → 2026 spinning on a chalkboard strip; name chip 'BERNHARD RİMAN · 1859' on the photo.",
-      "Card: 7 Millennium Problem tiles, 6 grey, 1 glowing gold 'RİMAN' with '$1 000 000' counter.",
-      "PHOTO STORY: Alpöge photo in a cut-out frame, slow zoom, name chip 'LEVENT ALPÖGE · türk əsilli riyaziyyatçı', tags 'HARVARD 2014 · №1', 'PRİNSTON', date stamp '20 NOYABR 2026'.",
-      "File avalanche: tiny file icons pour in, counter 0 → 175 187; then a paper stack rising with counter 0 → 250 000 səhifə.",
-      "Split screen: left a green ✓ 'KOMPÜTER: QƏBUL' (Lean kernel), right a ⏳ 'ALİMLƏR: YOXLANILIR' — the honest twist.",
-      "End card CTA + @bilirdinizmi_az; last line loops back to '167'."
-    ],
-    "sfx": "whoosh, tick (counters), thud (stamps), type (file avalanche); no music",
-    "context_check": "Catches: (1) It is a CLAIM — not verified by mathematicians; Clay prize needs publication + 2 years + acceptance → said plainly. (2) Lean check ≠ human understanding (Kontorovich 'Not yet'). (3) Announcement date 20 Nov (not 13–14 Nov as in the override note). (4) August 41.6→67.2 % result is a different, smaller result — not mixed in. (5) 250 000 pages is Alpöge's own estimate → 'kağıza köçürülsə … olardı' attributed in caption ('Alpögənin sözünə görə'). (6) Comparator status conflicting → not mentioned.",
-    "language_check": "Spelling: Riman (AZ form of Riemann), Levent Alpögə (Alpöge; AZ dative fine as 'Alpögə' in voice — on screen keep 'LEVENT ALPÖGE'), Prinston, «Minilliyin məsələsi», Lean. Numbers with nbsp (167 il, 1 milyon, 175 min, 250 min). Read aloud once more at 14:47.",
-    "sources": [
-      "https://casrai.org/news/anthropic-levent-alpoge-claude-lean-riemann-hypothesis-claim-2026",
-      "https://hollywoodlife.com/2026/11/21/what-is-riemann-hypothesis-explained/",
-      "https://felloai.com/riemann-hypothesis-solved/",
-      "https://alpo.ge/",
-      "https://www.borsagundem.com.tr/turk-matematikci-levent-alpoge-kimdir",
-      "https://gazeteoksijen.com/bilim-ve-teknoloji/turk-matematikci-levent-alpogeden-openainin-navier-stokes-cozumune-itiraz-288846",
-      "https://www.anthropic.com/research/riemann-zeta (Aug 2026, background only)",
-      "https://www.ibm.com/think/news/anthropic-claude-riemann-hypothesis-math-proof (not readable this run)",
-      "https://www.nature.com/articles/d41586-026-03812-7 (not readable this run)"
-    ],
-    "source_scan": "22 Nov 09:15: Gartal's TOPIC OVERRIDE fixed the topic; quick AZ scan for runner-ups via WebSearch (Azerbaijan news 21–22 Nov, idman 21 Nov, Sabah–Barcelona). report.az results only via search; homepages not fetched this run.",
-    "runner_ups": [
-      {
-        "story": "Sabah FK v FC Barcelona, UEFA Champions League, Baku (Tofiq Bahramov stadium), Wed 25 Nov — first Barça visit of an AZ club at home in UCL; huge ticket demand (fcbarcelona.es peñas tickets; lesnouvellesdufoot 16 Nov 'la folie à Bakou'; azernews 267509)",
-        "use": "best AZ trend for 24–26 Nov (new week: sports quota 0/2). Not for today (Gartal's override)."
-      },
-      {
-        "story": "AZ judoka silver at a world championship (todaypress.tv headline; date/event unverified) and Sabah's big Premier League win (report.az, round XII)",
-        "use": "15:23 may re-check only if Gartal cancels the override; otherwise ignore."
-      }
-    ]
-  },
-  "reel_1830": {
-    "topic": "Riemann hypothesis claim: Levent Alpöge (Turkish-American, Anthropic) announced on 20 Nov 2026 a proof of RH made with Claude, as a Lean archive (175,187 files); not yet verified by mathematicians (TOPIC OVERRIDE 22 Nov, PHOTO STORY look)",
-    "format": "trend",
-    "picked_at": "14:50 Baku: TOPIC OVERRIDE 2026-11-22 wins; re-checked news 14:50 — no newer development found (no verification/refutation reported), 09:10 facts stand",
-    "sources": [
-      "https://casrai.org/news/anthropic-levent-alpoge-claude-lean-riemann-hypothesis-claim-2026",
-      "https://hollywoodlife.com/2026/11/21/what-is-riemann-hypothesis-explained/",
-      "https://felloai.com/riemann-hypothesis-solved/",
-      "https://alpo.ge/",
-      "https://www.borsagundem.com.tr/turk-matematikci-levent-alpoge-kimdir",
-      "https://gazeteoksijen.com/bilim-ve-teknoloji/turk-matematikci-levent-alpogeden-openainin-navier-stokes-cozumune-itiraz-288846"
-    ],
-    "hooks": [
-      "167 İL, 1 MİLYON DOLLAR VƏ TÜRK ƏSİLLİ ALİM",
-      "250 000 SƏHİFƏLİK SÜBUT: 167 İLLİK SİRR AÇILDI?",
-      "175 MİN FAYL, 1 SUAL: RİMAN FƏRZİYYƏSİ",
-      "1 MİLYON DOLLARLIQ MƏSƏLƏYƏ TÜRK İMZASI?",
-      "167 İLDƏ HEÇ KİM BACARMADI — İNDİ SÜNİ İNTELLEKTLƏ?"
-    ],
-    "hook_pick": "167 İL, 1 MİLYON DOLLAR VƏ TÜRK ƏSİLLİ ALİM (number + emotion; first spoken sentence)",
-    "context_check": "Claim stays a claim ('açıqladı', 'hələ təsdiqləməyib'); 175 000+ files = Lean kernel archive (CASRAI, FelloAI); 250 000 pages left out of voice (Alpöge's own estimate); August 67.2% result not mixed in.",
-    "voice_text": "Yüz altmış yeddi il, bir milyon dollar və türk əsilli alim! Söhbət Riman fərziyyəsindən gedir. Min səkkiz yüz əlli doqquzdan bəri heç kim onu sübut edə bilməyib. İyirmi noyabrda Levent Alpöge Klod süni intellekti ilə sübut tapdığını açıqladı. Sübut yüz yetmiş beş mindən çox kompüter faylından ibarətdir. Amma alimlər onu hələ təsdiqləməyib. Bəyən və izlə — hər gün bilmədiyin bir fakt!",
-    "language_check": "Read aloud 14:50: subject named in sentence 2 (Riman fərziyyəsi), Alpöge in sentence 4; 'Alpöge' (not 'Alpögə' — nominative); 'kompüter faylından ibarətdir' (not 'faylıdır'); Claude written 'Klod' in voice_text ONLY so Arif says it right — on screen/captions show 'Claude'. All numbers written out. 60 words.",
-    "on_screen_note": "Word captions: replace 'Klod' with 'Claude'.",
-    "caption_credit": "Səs: elevenlabs.io",
-    "arif_mp3": "reels/arif/2026-11-22_1830.mp3",
-    "voice": "arif",
-    "arif_credits": 386,
-    "arif_note": "Generated 14:51 Baku on the first try; eleven_v4, 386 credits, 25.6 s (flow 895SOtEESM1h1nwPmCfm). Scribe transcript matches voice_text word for word (spoken 25.68 s).",
-    "words_json": "reels/arif/2026-11-22_1830.words.json"
+  {
+   "n": 2,
+   "type": "reel",
+   "slot": "18:30 backup",
+   "motion": true,
+   "fps": 60,
+   "voiced": "Arif",
+   "format": "fact",
+   "cat": "Sirlər",
+   "subject": "Thor Heyerdahl (Norwegian explorer, Kon-Tiki raft 1947 across the Pacific, ~4 300 miles ≈ 6 900 km — HISTORY.com 'completes 4,300-mile ocean voyage', 7 Aug 1947; died 18 Apr 2002 aged 87 — HISTORY.com). His Azerbaijan theory: an old Icelandic saga says Odin, the Norse god and mythic ancestor of the Vikings, came to Scandinavia from an eastern land called 'Aser' — Heyerdahl linked it to Azerbaijan (NatGeo Out of Eden 2015 '800-year-old Icelandic saga … As-hov or Aser'; Azerbaijan International 8.2). He was drawn by Gobustan petroglyph boats that resemble Scandinavian ones (Azerbaijan International 7.3: 'ship designs … similar'; 8.2: 'petroglyphs that feature reed ships'). Visits: 1980/81, 1994, 1999 (AI 7.3 'third visit'), fourth in Sept 2000 at 86 (AI 8.4). In 2000 he took part in the excavation in Kiş (Shaki); a monument to him stands in Kiş (Wikipedia 'Kiş, Shaki': 'monument to … Thor Heyerdahl, who visited the village during archaeological excavations in 2000'; NatGeo: bronze bust). TWIST (honest): no hard evidence for Norwegian–Azerbaijani ancestry (NatGeo, archaeologist Jeyhun Eminli: 'great traveler … not much of a scientist'); the Gobustan boat engravings are far older than the Vikings — Neolithic (NatGeo); most scholars never embraced his theories (HISTORY.com). NOT used: Kish church origin claims (contested, conflict-adjacent), '101 days' (only from memory — VERIFY at build before using), exact first-visit year (1980 vs 1981).",
+   "title": "Norveçli səyyah: «Vikinqlərin əcdadı Azərbaycandan gəlib»",
+   "reel_hook": "6 900 KM SAL İLƏ ÜZƏN ADAMIN ƏN QƏRİBƏ İDDİASI: VİKİNQLƏR AZƏRBAYCANDAN?",
+   "hook_options": [
+    "6 900 KM SAL İLƏ ÜZƏN ADAMIN ƏN QƏRİBƏ İDDİASI: VİKİNQLƏR AZƏRBAYCANDAN?",
+    "4 DƏFƏ BAKIYA GƏLƏN NORVEÇLİ NƏYİ AXTARIRDI?",
+    "800 İLLİK SAQA: ODİN «ASER» ÖLKƏSİNDƏN GƏLİB",
+    "1 TANRI, 1 SÖZ, 1 NƏZƏRİYYƏ: ASER = AZƏRBAYCAN?",
+    "QOBUSTANDAKI GƏMİLƏR VİKİNQLƏRDƏN QƏDİMDİR"
+   ],
+   "reel_beats": [
+    "1947-ci ildə Tur Heyerdal sadə taxta salla Sakit okeanı keçdi — təxminən 6 900 kilometr.",
+    "Sonra o, 4 dəfə Azərbaycana gəldi. Səbəb? Qədim İslandiya saqası: tanrı Odin Skandinaviyaya «Aser» adlı ölkədən gəlib.",
+    "Heyerdal düşünürdü: Aser — Azərbaycandır. Qobustan qayalarındakı gəmi rəsmləri də ona Norveç gəmilərini xatırladırdı.",
+    "2000-ci ildə, 86 yaşında, Şəkinin Kiş kəndində qazıntılara qatıldı. Bu gün orada ona abidə var."
+   ],
+   "payoff": "Amma alimlər onun nəzəriyyəsini sübut olunmuş saymır: Qobustan gəmiləri vikinqlərdən min illərlə qədimdir. Sirr isə hələ də danışılır.",
+   "voice_texts": [
+    "Altı min doqquz yüz kilometr sal ilə üzən adam deyirdi: vikinqlərin əcdadı Azərbaycandan gəlib!",
+    "Min doqquz yüz qırx yeddidə Tur Heyerdal taxta salla Sakit okeanı keçdi.",
+    "Sonra dörd dəfə Azərbaycana gəldi. Səbəb — qədim İslandiya saqası: tanrı Odin «Aser» adlı ölkədən gəlib.",
+    "Heyerdal düşünürdü ki, Aser — Azərbaycandır. Qobustandakı gəmi rəsmləri də ona Norveç gəmilərini xatırladırdı.",
+    "İki mində, səksən altı yaşında, Şəkinin Kiş kəndində qazıntıya qatıldı. Orada ona abidə var.",
+    "Amma alimlər bunu sübut olunmuş saymır: Qobustan gəmiləri vikinqlərdən min illərlə qədimdir.",
+    "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
+   ],
+   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+   "send_line": "📩 Tarix sevən dostuna göndər 🛶",
+   "caption": "Tur Heyerdal: «Vikinqlərin əcdadı Azərbaycandan gəlib»? 🛶\n\nNorveçli səyyah Tur Heyerdal 1947-ci ildə taxta salla Sakit okeanı keçdi — təxminən 6 900 km. Sonra 4 dəfə Azərbaycana gəldi. Səbəb: qədim İslandiya saqasına görə, tanrı Odin Skandinaviyaya «Aser» adlı ölkədən gəlib. Heyerdal bunu Azərbaycanla bağlayırdı, Qobustandakı gəmi rəsmləri də ona Norveç gəmilərini xatırladırdı. 2000-ci ildə Şəkinin Kiş kəndində qazıntılara qatıldı — orada ona abidə var. Amma alimlər bu nəzəriyyəni sübut olunmuş saymır: Qobustan gəmiləri vikinqlərdən min illərlə qədimdir.\n\n📩 Tarix sevən dostuna göndər 🛶\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nSəs: elevenlabs.io\n\n#bilirdinizmi #turheyerdal #qobustan #şəki #vikinqlər",
+   "first_comment": "Sən necə düşünürsən: Heyerdal haqlı ola bilərdimi? 👇",
+   "youtube_title": "Tur Heyerdal: vikinqlərin əcdadı Azərbaycandan? #shorts",
+   "visual_ideas": [
+    "Frame 0: '6 900 KM' big number over a code-drawn balsa raft with a square sail on a wavy ocean line; hook text; corner counter '1/4'.",
+    "Map: dashed line across a flat Pacific, km counter 0 → 6 900; '1947' stamp.",
+    "Saga scroll unrolls: text «ODİN … ASER» (no real Norse artwork, generic scroll); arrow from a flat Scandinavia shape to a question mark over the Caucasus.",
+    "Gobustan: a rock wall with simple carved boat lines (crescent hull + vertical crew strokes) — then a Viking-style longship outline slides next to it for comparison.",
+    "Heyerdahl = SILHOUETTE (tall, white hair outline, beard shape); trowel + dig pit; '2000 · 86 yaş' chip; a plinth with a bust silhouette 'Kiş, Şəki'.",
+    "Twist: big '?' stamp, then 'SÜBUT YOXDUR' label; timeline bar shows Gobustan boats far left (thousands of years ago) vs Vikings far right.",
+    "CTA card; loop line back to '6 900 KM'."
+   ],
+   "sfx": "waves whoosh (raft), paper unroll (scroll), soft chisel taps (petroglyph), thud (stamp); no music, no tonal stings.",
+   "context_check": "Catches: (1) The theory is NOT accepted (NatGeo, HISTORY.com) → say so clearly; never 'proved'. (2) Gobustan boats are Neolithic, far older than Vikings (NatGeo) — that's the honest twist. (3) Kiş church origin is contested between historiographies → only 'Kiş kəndində qazıntı' + monument, no church claims. (4) Kon-Tiki distance '≈ 6 900 km' (4 300 miles, HISTORY.com) — 'təxminən'. (5) Category quota: history/mystery, not space/sports.",
+   "language_check": "Read aloud 21 Nov: 'Tur Heyerdal' (AZ spelling), 'saqa', 'Odin', 'Aser', 'Qobustan', 'Kiş', 'vikinqlər', 'əcdad'; numbers with nbsp (6 900).",
+   "sources": [
+    "https://outofedenwalk.nationalgeographic.org/2015-12-did-vikings-really-hail-from-the-craggy-caucasus/",
+    "https://www.history.com/this-day-in-history/august-7/wood-raft-makes-4300-mile-voyage",
+    "https://azer.com/aiweb/categories/magazine/73_folder/73_articles/73_thorheyerdahl.html",
+    "https://azer.com/aiweb/categories/magazine/82_folder/82_articles/82_heyerdahl.html",
+    "https://www.azer.com/aiweb/categories/magazine/84_folder/84_articles/84_kish.html",
+    "https://en.wikipedia.org/wiki/Ki%C5%9F,_Shaki"
+   ]
   }
+ ],
+ "ig_type": "REEL (trial reels suspended)",
+ "media": {
+  "13:00 Möminə Xatun": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-22_1300_momine_xatun_silent.mp4",
+  "18:30 Riman fərziyyəsi": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-22_1830_riemann_167.mp4"
+ },
+ "metricool": {
+  "13:00 reel (Möminə Xatun, static, silent, IG REEL)": 436835695
+ },
+ "tiktok": {
+  "13:00 Möminə Xatun": 436835849
+ },
+ "youtube": {
+  "13:00 Möminə Xatun": 436835864
+ },
+ "pending_schedule": null,
+ "scheduled_check": "20:50 21 Nov: getScheduledPosts for 22 Nov empty before creating; no pending_schedule in 20–22 Nov JSONs. One post per network created.",
+ "trend": {
+  "n": "T",
+  "type": "reel",
+  "format": "animated_1830",
+  "content_format": "trend",
+  "post_format": "trend",
+  "look": "PHOTO STORY (Gartal 22 Nov)",
+  "cat": "Elm / Riyaziyyat",
+  "hook_type": "single story (Gartal TOPIC OVERRIDE 22 Nov) + number-first",
+  "picked_at": "09:15–09:45 Baku 22 Nov",
+  "rule_note": "TOPIC OVERRIDE 2026-11-22 (Gartal, 01:14): Riemann claim, PHOTO STORY look, Arif voice, Turkish-roots angle. Overrides SUNDAY DECISIONS 1 (AZ-angle filter) for today only. A CLAIM stays a claim: 'iddia edir / açıqladı', never 'sübut etdi/həll etdi'. Claude named plainly, no promo words. Not space/sports (quota irrelevant: last day of the week).",
+  "date_correction": "RUNBOOK override says 'announced ~13–14 Nov'; three sources (CASRAI 21 Nov, Hollywood Life 21 Nov, FelloAI 21 Nov) date the public announcement to FRIDAY 20 Nov 2026 (note 'Remark', alpo.ge/remark.pdf). So it is a fresh (≤48 h) story. Separate, older result (Anthropic, 10 Aug 2026): Claude raised the proven share of zeta zeros on the critical line from 41.6% to 67.2% — NOT the same thing, not used.",
+  "subject": "Riemann hypothesis (Bernhard Riemann, 1859; 1859→2026 = 167 years) — one of the 7 Clay Millennium Prize Problems (2000), $1 million (CASRAI; Hollywood Life; FelloAI; Anthropic 10 Aug page '1859 … million-dollar bounty'). 20 Nov 2026: Levent Alpöge (research scientist / member of technical staff at Anthropic; Harvard Society of Fellows junior fellow — alpo.ge, CASRAI) posted a 4-page note 'Remark' claiming a proof of RH and of GRH for Dirichlet L-functions, made with Claude, as a Lean 4 archive: 175,187 Lean files (CASRAI; FelloAI), ~17.4 million lines (FelloAI; Hollywood Life 'approximately 17 million'), >61.5 GB unpacked (CASRAI). Alpöge: a written-out version 'hit 250,000+ pages' (FelloAI; CASRAI; Hollywood Life). Quote: 'Claude far outpaced me near the finish line' (FelloAI; Hollywood Life). Lean kernel check: Andrew Sutherland (MIT) compiled all modules, accepted 175,187/175,187, only the 3 standard axioms (CASRAI; FelloAI). NOT accepted by mathematicians yet — no human-readable proof; Kontorovich (Rutgers, via AP in Hollywood Life): 'Does that mean I understand it? Not yet.' Clay rules: publication + 2 years of community scrutiny + general acceptance (FelloAI; CASRAI). Background: Alpöge — Turkish-American, born 1992, grew up on Long Island, Harvard 2014 top of his class ('sınıfının birincisi'), Princeton PhD 2020 under Manjul Bhargava (borsagundem.com.tr 10 Sep 2026 'Türk kökenli'; gazeteoksijen.com 'Türk matematikçi'; Harvard + Princeton also on alpo.ge). NOT used: comparator status (CASRAI 'accepted' vs FelloAI/Buzzard 'pending' — conflict), the 41-day vs 'several months' timeline (conflict), Maynard/Lamzouri quotes (not found on readable pages), Dario Amodei consultation, Nasdaq timing (single source).",
+  "reel_hook": "167 İL, 1 MİLYON DOLLAR VƏ TÜRK ƏSİLLİ ALİM",
+  "hook_options": [
+   "167 İL, 1 MİLYON DOLLAR VƏ TÜRK ƏSİLLİ ALİM",
+   "250 000 SƏHİFƏLİK SÜBUT: 167 İLLİK SİRR AÇILDI?",
+   "175 MİN FAYL, 1 SUAL: RİMAN FƏRZİYYƏSİ",
+   "1 MİLYON DOLLARLIQ MƏSƏLƏYƏ TÜRK İMZASI?",
+   "167 İLDƏ HEÇ KİM BACARMADI — İNDİ SÜNİ İNTELLEKTLƏ?"
+  ],
+  "reel_beats": [
+   "1859-cu ildə Bernhard Riman bir fərziyyə irəli sürdü. 167 ildir onu heç kim sübut edə bilməyib.",
+   "Bu, sübutuna 1 milyon dollar mükafat qoyulan 7 «Minilliyin məsələsi»ndən biridir.",
+   "20 noyabrda türk əsilli riyaziyyatçı Levent Alpögə Claude süni intellekti ilə birgə sübut tapdığını açıqladı.",
+   "Sübut Lean proqramında yazılıb: 175 mindən çox fayl. Kağıza köçürülsə, 250 min səhifədən çox olardı."
+  ],
+  "payoff": "Amma hələ heç bir riyaziyyatçı onu təsdiqləməyib: kompüter yoxlaması «doğrudur» deyir, alimlər isə hələ başa düşməyə çalışır.",
+  "voice_texts": [
+   "Yüz altmış yeddi il, bir milyon dollar və türk əsilli bir alim!",
+   "Min səkkiz yüz əlli doqquzda Bernhard Riman bir fərziyyə irəli sürdü. O vaxtdan heç kim onu sübut edə bilməyib.",
+   "Bu, bir milyon dollarlıq yeddi «Minilliyin məsələsi»ndən biridir.",
+   "İyirmi noyabrda Harvardı birinci bitirən Levent Alpögə Claude süni intellekti ilə sübut tapdığını açıqladı.",
+   "Sübut yüz yetmiş beş mindən çox kompüter faylıdır. Kağıza köçürülsə, iki yüz əlli min səhifədən çox olardı.",
+   "Amma alimlər onu hələ təsdiqləməyib — kompüter «doğrudur» deyir, insanlar isə hələ yoxlayır.",
+   "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
+  ],
+  "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+  "send_line": "📩 Riyaziyyatı sevən dostuna göndər 🧮",
+  "caption": "Riman fərziyyəsi: 167 illik məsələ və türk əsilli alimin iddiası 🧮\n\n1859-cu ildə Bernhard Riman irəli sürdüyü fərziyyəni 167 ildir heç kim sübut edə bilməyib — bu, 1 milyon dollar mükafatlı 7 «Minilliyin məsələsi»ndən biridir. 20 noyabrda türk əsilli riyaziyyatçı Levent Alpögə (Harvard, Prinston; indi Anthropic şirkətində çalışır) Claude süni intellekti ilə birgə sübut tapdığını açıqladı. Sübut Lean proqramında yazılıb: 175 mindən çox fayl; Alpögənin sözünə görə, kağıza köçürülsə 250 min səhifədən çox olardı. Kompüter yoxlaması sübutu qəbul edib, amma riyaziyyatçılar onu hələ təsdiqləməyib — bu, hələlik iddiadır.\n\n📩 Riyaziyyatı sevən dostuna göndər 🧮\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nFoto: Marlene Ruf / MFO, Wikimedia Commons (CC BY-SA 2.0 DE); Smithsonian Institution (B. Riman)\nSəs: elevenlabs.io\n\n#bilirdinizmi #riyaziyyat #rimanfərziyyəsi #leventalpöge #elm",
+  "first_comment": "Sənin fikrincə, süni intellekt böyük elmi kəşflər edəcəkmi? 👇",
+  "youtube_title": "Riman fərziyyəsi: 167 il, 1 milyon dollar və Levent Alpögənin iddiası #shorts",
+  "photos": [
+   {
+    "path": "fetch/img/2026-11-22_T_alpoge_2024.jpg",
+    "credit": "Marlene Ruf / Oberwolfach (MFO), Wikimedia Commons, CC BY-SA 2.0 DE",
+    "source": "https://commons.wikimedia.org/wiki/File:Levent_Alp%C3%B6ge_2024_MFO.jpg",
+    "size": [
+     400,
+     267
+    ],
+    "checked": "22 Nov 09:40 looked: clean, face clear, no watermark; small (400 px) → show framed/cut-out card, not full-screen"
+   },
+   {
+    "path": "fetch/img/2026-11-22_T_alpoge_2018.jpg",
+    "credit": "Petra Lein / MFO, Wikimedia Commons, CC BY-SA 2.0 DE",
+    "source": "https://commons.wikimedia.org/wiki/File:Levent_Alp%C3%B6ge_2018_MFO.jpg",
+    "size": [
+     399,
+     266
+    ],
+    "checked": "not opened yet — check at 15:23 before use"
+   },
+   {
+    "path": "fetch/img/2026-11-22_T_riemann.jpg",
+    "credit": "Smithsonian Institution (no known restrictions), Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Bernhard_Riemann_(1826-1866),_Mathematician_(2551069295).jpg",
+    "size": [
+     2574,
+     3262
+    ],
+    "checked": "22 Nov 09:40 looked: 1863 engraving with signature, clean, no watermark"
+   }
+  ],
+  "agency_photos": [],
+  "visual_ideas": [
+   "Frame 0: '167' + '$1 000 000' slam in over Riman's 1863 portrait (slow push-in), hook text big; progress counter 1/4 in the corner.",
+   "Year ticker 1859 → 2026 spinning on a chalkboard strip; name chip 'BERNHARD RİMAN · 1859' on the photo.",
+   "Card: 7 Millennium Problem tiles, 6 grey, 1 glowing gold 'RİMAN' with '$1 000 000' counter.",
+   "PHOTO STORY: Alpöge photo in a cut-out frame, slow zoom, name chip 'LEVENT ALPÖGE · türk əsilli riyaziyyatçı', tags 'HARVARD 2014 · №1', 'PRİNSTON', date stamp '20 NOYABR 2026'.",
+   "File avalanche: tiny file icons pour in, counter 0 → 175 187; then a paper stack rising with counter 0 → 250 000 səhifə.",
+   "Split screen: left a green ✓ 'KOMPÜTER: QƏBUL' (Lean kernel), right a ⏳ 'ALİMLƏR: YOXLANILIR' — the honest twist.",
+   "End card CTA + @bilirdinizmi_az; last line loops back to '167'."
+  ],
+  "sfx": "whoosh, tick (counters), thud (stamps), type (file avalanche); no music",
+  "context_check": "Catches: (1) It is a CLAIM — not verified by mathematicians; Clay prize needs publication + 2 years + acceptance → said plainly. (2) Lean check ≠ human understanding (Kontorovich 'Not yet'). (3) Announcement date 20 Nov (not 13–14 Nov as in the override note). (4) August 41.6→67.2 % result is a different, smaller result — not mixed in. (5) 250 000 pages is Alpöge's own estimate → 'kağıza köçürülsə … olardı' attributed in caption ('Alpögənin sözünə görə'). (6) Comparator status conflicting → not mentioned.",
+  "language_check": "Spelling: Riman (AZ form of Riemann), Levent Alpögə (Alpöge; AZ dative fine as 'Alpögə' in voice — on screen keep 'LEVENT ALPÖGE'), Prinston, «Minilliyin məsələsi», Lean. Numbers with nbsp (167 il, 1 milyon, 175 min, 250 min). Read aloud once more at 14:47.",
+  "sources": [
+   "https://casrai.org/news/anthropic-levent-alpoge-claude-lean-riemann-hypothesis-claim-2026",
+   "https://hollywoodlife.com/2026/11/21/what-is-riemann-hypothesis-explained/",
+   "https://felloai.com/riemann-hypothesis-solved/",
+   "https://alpo.ge/",
+   "https://www.borsagundem.com.tr/turk-matematikci-levent-alpoge-kimdir",
+   "https://gazeteoksijen.com/bilim-ve-teknoloji/turk-matematikci-levent-alpogeden-openainin-navier-stokes-cozumune-itiraz-288846",
+   "https://www.anthropic.com/research/riemann-zeta (Aug 2026, background only)",
+   "https://www.ibm.com/think/news/anthropic-claude-riemann-hypothesis-math-proof (not readable this run)",
+   "https://www.nature.com/articles/d41586-026-03812-7 (not readable this run)"
+  ],
+  "source_scan": "22 Nov 09:15: Gartal's TOPIC OVERRIDE fixed the topic; quick AZ scan for runner-ups via WebSearch (Azerbaijan news 21–22 Nov, idman 21 Nov, Sabah–Barcelona). report.az results only via search; homepages not fetched this run.",
+  "runner_ups": [
+   {
+    "story": "Sabah FK v FC Barcelona, UEFA Champions League, Baku (Tofiq Bahramov stadium), Wed 25 Nov — first Barça visit of an AZ club at home in UCL; huge ticket demand (fcbarcelona.es peñas tickets; lesnouvellesdufoot 16 Nov 'la folie à Bakou'; azernews 267509)",
+    "use": "best AZ trend for 24–26 Nov (new week: sports quota 0/2). Not for today (Gartal's override)."
+   },
+   {
+    "story": "AZ judoka silver at a world championship (todaypress.tv headline; date/event unverified) and Sabah's big Premier League win (report.az, round XII)",
+    "use": "15:23 may re-check only if Gartal cancels the override; otherwise ignore."
+   }
+  ]
+ },
+ "reel_1830": {
+  "topic": "Riemann hypothesis claim: Levent Alpöge (Turkish-American, Anthropic) announced on 20 Nov 2026 a proof of RH made with Claude, as a Lean archive (175,187 files); not yet verified by mathematicians (TOPIC OVERRIDE 22 Nov, PHOTO STORY look)",
+  "format": "trend",
+  "picked_at": "14:50 Baku: TOPIC OVERRIDE 2026-11-22 wins; re-checked news 14:50 — no newer development found (no verification/refutation reported), 09:10 facts stand",
+  "sources": [
+   "https://casrai.org/news/anthropic-levent-alpoge-claude-lean-riemann-hypothesis-claim-2026",
+   "https://hollywoodlife.com/2026/11/21/what-is-riemann-hypothesis-explained/",
+   "https://felloai.com/riemann-hypothesis-solved/",
+   "https://alpo.ge/",
+   "https://www.borsagundem.com.tr/turk-matematikci-levent-alpoge-kimdir",
+   "https://gazeteoksijen.com/bilim-ve-teknoloji/turk-matematikci-levent-alpogeden-openainin-navier-stokes-cozumune-itiraz-288846"
+  ],
+  "hooks": [
+   "167 İL, 1 MİLYON DOLLAR VƏ TÜRK ƏSİLLİ ALİM",
+   "250 000 SƏHİFƏLİK SÜBUT: 167 İLLİK SİRR AÇILDI?",
+   "175 MİN FAYL, 1 SUAL: RİMAN FƏRZİYYƏSİ",
+   "1 MİLYON DOLLARLIQ MƏSƏLƏYƏ TÜRK İMZASI?",
+   "167 İLDƏ HEÇ KİM BACARMADI — İNDİ SÜNİ İNTELLEKTLƏ?"
+  ],
+  "hook_pick": "167 İL, 1 MİLYON DOLLAR VƏ TÜRK ƏSİLLİ ALİM (number + emotion; first spoken sentence)",
+  "context_check": "Claim stays a claim ('açıqladı', 'hələ təsdiqləməyib'); 175 000+ files = Lean kernel archive (CASRAI, FelloAI); 250 000 pages left out of voice (Alpöge's own estimate); August 67.2% result not mixed in.",
+  "voice_text": "Yüz altmış yeddi il, bir milyon dollar və türk əsilli alim! Söhbət Riman fərziyyəsindən gedir. Min səkkiz yüz əlli doqquzdan bəri heç kim onu sübut edə bilməyib. İyirmi noyabrda Levent Alpöge Klod süni intellekti ilə sübut tapdığını açıqladı. Sübut yüz yetmiş beş mindən çox kompüter faylından ibarətdir. Amma alimlər onu hələ təsdiqləməyib. Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+  "language_check": "Read aloud 14:50: subject named in sentence 2 (Riman fərziyyəsi), Alpöge in sentence 4; 'Alpöge' (not 'Alpögə' — nominative); 'kompüter faylından ibarətdir' (not 'faylıdır'); Claude written 'Klod' in voice_text ONLY so Arif says it right — on screen/captions show 'Claude'. All numbers written out. 60 words.",
+  "on_screen_note": "Word captions: replace 'Klod' with 'Claude'.",
+  "caption_credit": "Səs: elevenlabs.io",
+  "arif_mp3": "reels/arif/2026-11-22_1830.mp3",
+  "voice": "arif",
+  "arif_credits": 386,
+  "arif_note": "Generated 14:51 Baku on the first try; eleven_v4, 386 credits, 25.6 s (flow 895SOtEESM1h1nwPmCfm). Scribe transcript matches voice_text word for word (spoken 25.68 s).",
+  "words_json": "reels/arif/2026-11-22_1830.words.json",
+  "build": {
+   "dir": "reels/2026-11-22_1830",
+   "duration_s": 27.0,
+   "fps": 60,
+   "size_mb": 7.8,
+   "lufs": -14.1,
+   "sfx_db": -9,
+   "music": "none (silence)",
+   "critique_rounds": 3,
+   "built_at": "15:38 Baku",
+   "cover_ms": 900,
+   "timing": "Scribe word starts (checked vs silencedetect)",
+   "look": "PHOTO STORY on a chalkboard: real photos (Riemann 1863, Alpöge 2024) with slow push + name plates, year roll 1859→2026, crossed-out SÜBUT? sheets, 175 187 file counter, KOMPÜTER ✓ vs ALİMLƏR ⏳",
+   "photos": [
+    "Smithsonian Institution via Wikimedia Commons (B. Riman)",
+    "Marlene Ruf / MFO, Wikimedia Commons, CC BY-SA 2.0 DE (L. Alpöge)"
+   ],
+   "agency_photos": []
+  },
+  "posted": {
+   "instagram": 437483441,
+   "tiktok": 437483458,
+   "youtube": 437483477,
+   "time": "18:30",
+   "ai_label": true,
+   "media": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-22_1830_riemann_167.mp4"
+  }
+ }
 }

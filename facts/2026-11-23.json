@@ -1,6 +1,6 @@
 {
  "date": "2026-11-23",
- "status": "planned",
+ "status": "13:00 scheduled (static Nizami → Layla, no voice, silent track, IG REEL); 18:30 animated Arif reel = 14:47/15:23 tasks",
  "format": "v4",
  "content_format": "quality_reset_2026-11-12",
  "planned_note": "Planned in the 2026-11-22 09:10 run. Mon 23 Nov: 13:00 static factgen reel (no voice, silent track, IG normal REEL) = facts[0] Nizami → Clapton 'Layla' (photo fetched + checked). 18:30 = Monday DATA ANIMATION (format table 18 Nov): the 09:10 task on 23 Nov picks the freshest AZ story and tells it as a data animation if it has a real dataset; if not, facts[1] Baku population 1863 → 2024 is the ready DATA ANIMATION backup (Arif). New week 23–29 Nov: sports 0/2, space 0/2. Categories: culture/music + city/demography. No carousels/quizzes/stories.",
@@ -37,7 +37,7 @@
    "payoff": "Ən maraqlısı: mahnının akustik versiyası 1993-cü ildə Qrammi mükafatı qazandı — Nizaminin hekayəsi 800 il sonra da qalib gəldi.",
    "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
    "send_line": "📩 Kleptonu sevən dostuna göndər 🎸",
-   "caption": "Nizami Gəncəvi və Erik Kleptonun «Layla» mahnısı 🎸\n\nNizami Gəncəvi «Leyli və Məcnun» poemasını 1188-ci ildə yazıb. 782 il sonra, 1970-ci ildə Erik Klepton bu hekayədən ilhamlanaraq «Layla» mahnısını yazdı (Derek and the Dominos). Kitabı ona dostu Ian Dallas vermişdi — hekayə Kleptonun öz eşqinə çox bənzəyirdi. Rolling Stone jurnalı «Layla»nı bütün zamanların ən yaxşı 500 mahnısı arasında 27-ci yerə qoyub. Ən maraqlısı: mahnının akustik versiyası 1993-cü ildə Qrammi qazandı.\n\n📩 Kleptonu sevən dostuna göndər 🎸\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nFoto: Wertuose / Wikimedia Commons (CC BY-SA 3.0)\n\n#bilirdinizmi #nizamigəncəvi #leylivəməcnun #ericclapton #gəncə",
+   "caption": "Nizami Gəncəvi və Erik Kleptonun «Layla» mahnısı 🎸\n\nNizami Gəncəvi «Leyli və Məcnun» poemasını 1188-ci ildə yazıb. 782 il sonra, 1970-ci ildə Erik Klepton bu hekayədən ilhamlanaraq «Layla» mahnısını yazdı (Derek and the Dominos). Kitabı ona dostu İan Dallas vermişdi — hekayə Kleptonun öz eşqinə bənzəyirdi: o, dostu Corc Harrisonun həyat yoldaşı Patti Boyda aşiq idi. Rolling Stone jurnalı 2004-cü ildə «Layla»nı bütün zamanların ən yaxşı 500 mahnısı arasında 27-ci yerə qoyub. Ən maraqlısı: mahnının akustik versiyası 1993-cü ildə Qrammi qazandı.\n\n📩 Kleptonu sevən dostuna göndər 🎸\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nFoto: Wertuose / Wikimedia Commons (CC BY-SA 3.0)\n\n#bilirdinizmi #nizamigəncəvi #leylivəməcnun #ericclapton #gəncə",
    "first_comment": "«Leyli və Məcnun»u oxumusan? 👇",
    "youtube_title": "Nizami Gəncəvi və Erik Kleptonun «Layla» mahnısı: 1188 → 1970 #shorts",
    "photo": {
@@ -61,7 +61,16 @@
     "https://www.universiteitleiden.nl/en/news/2019/08/a-persian-love-story-and-the-creation-of-a-rock-classic",
     "https://faroutmagazine.co.uk/how-12th-century-poet-inspired-eric-clapton-song/",
     "https://www.azer.com/aiweb/categories/magazine/63_folder/63_articles/63_clapton.html"
-   ]
+   ],
+   "build": {
+    "file": "out/2026-11-23/1_reel.mp4",
+    "dur_s": 27.4,
+    "voice": null,
+    "sound": "pure silence (volumedetect max -91.0 dB)",
+    "photo_used": "fetch/img/2026-11-23_1_nizami_d.jpg",
+    "spec": "out/2026-11-23/1_reel_spec.json",
+    "edits": "hook → '782 İL SONRA NİZAMİNİN POEMASI ROK HİTİ OLDU' (782 = gap, not poem age); added Pattie Boyd / George Harrison beat; Rolling Stone 2004 year; 'Ian' → 'İan' (Inter renders capital I like l)"
+   }
   },
   {
    "n": 2,
@@ -182,5 +191,19 @@
    ]
   }
  ],
- "ig_type": "REEL"
+ "ig_type": "REEL (trial reels suspended)",
+ "media": {
+  "13:00 Nizami → Layla": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-23_1300_nizami_layla_silent.mp4"
+ },
+ "metricool": {
+  "13:00 reel (Nizami → Layla, static, silent, IG REEL)": 437733811
+ },
+ "tiktok": {
+  "13:00 Nizami → Layla": 437733826
+ },
+ "youtube": {
+  "13:00 Nizami → Layla": 437733844
+ },
+ "pending_schedule": null,
+ "scheduled_check": "20:49 22 Nov: getScheduledPosts for 23 Nov empty before creating; no pending_schedule in 20–22 Nov JSONs. One post per network created."
 }

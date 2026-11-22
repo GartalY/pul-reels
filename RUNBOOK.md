@@ -1,7 +1,3 @@
-> REPORT 2026-11-21 ALREADY SENT early (~19:30 Baku, Gartal asked: "I won't be able to read it tonight"). The 23:59 run on
-> 21 Nov must only update reports/2026-11-21.md and send NO message to Gartal (final reply one line, no SendUserMessage).
-> This note expires on 22 Nov — any task may delete it from then on.
-
 ## WHO DECIDES — READ BEFORE ANYTHING ELSE (Gartal 2026-11-16 11:23: "every time I get a daily report, weekly report, and when I
 ## talk to you, there's always three different decisions … whatever I'm telling you to do in this chat, let's go with that")
 - What Gartal decides in his chat with Claude is FINAL. It is written into this file with his name and date ("Gartal YYYY-MM-DD").
@@ -28,7 +24,7 @@
 - Facts stay exact: a CLAIM is a claim ("sübut etdiyini açıqladı" / "says he has proven"), never stated as confirmed.
 
 ## TOPIC OVERRIDE 2026-11-22 (Sun) — both brands, test of the PHOTO STORY look
-Story: Levent Alpöge (Turkish-American mathematician at Anthropic, Harvard valedictorian 2014) announced ~13–14 Nov 2026 a
+Story: Levent Alpöge (Turkish-American mathematician at Anthropic, Harvard valedictorian 2014) announced [09:10 check: on FRI 20 Nov 2026, per CASRAI/Hollywood Life/FelloAI — not 13–14 Nov; facts/2026-11-22.json `trend` has the verified details] a
 proof of the Riemann hypothesis (open since 1859, a $1M Clay Millennium Prize problem) made with Claude, released in Lean.
 NOT yet verified by independent experts (James Maynard: suspects it's correct, checking takes time; Lamzouri: months/years).
 Sources: ibm.com/think/news/anthropic-claude-riemann-hypothesis-math-proof, nature.com/articles/d41586-026-03812-7,

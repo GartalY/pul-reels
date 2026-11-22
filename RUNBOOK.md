@@ -14,12 +14,23 @@ something different, just go with that."
 - The biggest/most important fresh story of the day ALWAYS wins the trend slot. No rule, test or review may force a topic
   (football, culture, space, finance …) or forbid one. Topic tests may only act as a TIE-BREAK between stories of similar size.
 - Reviews/reports: never suggest "always/only topic X" — suggest tie-breaks or tests, and say that the biggest news still wins.
-- bilirdinizmi football: NO change. The 22 Nov suggestion to swap football for culture on TikTok is dropped (football reels are our
-  best on YouTube + IG: Liechtenstein 18 166 YT, Andorra 5 317 YT).
+- PER-PLATFORM POSTS ALLOWED (Gartal 2026-11-22 ~21:40: "If you wanna share different posts on different platforms, I'm okay with
+  that"). Claude's decision, TikTok FOOTBALL SWAP: when the bilirdinizmi 18:30 animated reel is a football story, it still goes to
+  IG + YouTube (our best there: Liechtenstein 18 166 YT, Andorra 5 317 YT), but TikTok gets a DIFFERENT animated Arif reel at 18:30 =
+  the next-biggest fresh AZ story that is not football (best: an AZ face/voice inside a world story, like GTA VI + Qasımovs, TikTok
+  899); if none, the animated backup facts[1]. If time or Arif credits run out, TikTok gets a silent static photo+words reel of
+  facts[1] instead — never a missed slot. Reason: TikTok football reels 36 (Andorra), 40 (Liechtenstein preview), 42, 103 (Ronaldo)
+  vs TikTok 18:30 median 146. Log `tiktok_swap: true` in the day JSON. Judge in the 6 Dec review (TikTok views/shares of swap days
+  vs the football reels). Other sports (judo, wrestling …) are not football → no swap.
+- BIG STORY = BIG TREATMENT (Gartal 2026-11-22 ~21:40: "if a big story comes up, please try make it like a big story with a hook"),
+  both brands: when the day's story is clearly big (top headline in AZ or world media, record, first, huge number), give it the full
+  build — 5 hooks written and the strongest picked (number + superlative + emotion, TOPICS + HOOKS 2), the hook as frame 0 and first
+  spoken line, PHOTO STORY with 6–10 real photos, a scoreboard/counter, the payoff/twist saved for the end, and its name in the first
+  sentence (ALWAYS NAME IT). Never let a big story go out as a plain fact card.
 - Whyverse 19:00 trend Short, TIE-BREAK test (Gartal: "we can test that"), 23 Nov → 6 Dec: when two candidates are similarly big
   headlines, prefer culture / pop-culture over finance / politics (22 Nov review: Simpsons YT 641 vs Nvidia earnings 131, Trump-Xi-Putin
   59). The day's biggest story still wins whatever its topic. Log `tiebreak: true` in posts.json when it decided the pick. Report 6 Dec.
-- MYTH vs FACT test (3 NEW FORMATS, to 2 Dec): Gartal left it to Claude → it stays exactly as planned; myths are chosen by how widely
+- MYTH vs FACT test (3 NEW FORMATS, to 2 Dec): Gartal left it to Claude ("you decide that") → it stays exactly as planned; myths are chosen by how widely
   they're believed and how strong the "actually…" is — no topic restriction (AZ or world, whichever myth is strongest).
 
 ## GARTAL 2026-11-22 01:14 — REAL PHOTOS (replaces rule 1g "people = silhouettes" and PEOPLE = SILHOUETTES)

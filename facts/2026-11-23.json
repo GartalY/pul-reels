@@ -293,5 +293,53 @@
    }
   ],
   "follow_up": "26 Nov 09:10: Sabah – Barselona RESULT is the natural 26 Nov trend (sports 2/2) if it's the day's biggest story; 25 Nov 15:23 may refresh with match-day numbers (attendance, line-ups)."
+ },
+ "reel_1830": {
+  "topic": "Sabah – Barselona (UEFA Çempionlar Liqası, liqa mərhələsi 5-ci tur, çərşənbə 25 noyabr 2026, 21:45, Bakı Olimpiya Stadionu); Barselona 23 noyabr Bakıya gəlir",
+  "format": "data",
+  "content_format": "trend",
+  "cat": "İdman / Futbol",
+  "picked_at": "14:50 Baku 23 Nov (2nd trend check: nothing bigger; 09:10 pick kept)",
+  "second_check": "14:50 searches: 'Barcelona arrive Baku Sabah 23 November 2026' (azernews 267509, lesnouvellesdufoot, report.az, UEFA match page — consistent), 'Azerbaijan news today 23 November 2026' (azertag top stories — nothing bigger). Sports quota 23–29 Nov: 1/2. TikTok FOOTBALL SWAP still applies (trend.tiktok_swap_plan); this task generates ONE Arif take (reel_1830) only.",
+  "sources": [
+   "https://www.azernews.az/sports/267509.html",
+   "https://www.azernews.az/sports/267796.html",
+   "https://en.axar.az/news/sports/1150848.html",
+   "https://www.fcbarcelona.com/en/matches/141532/sabah-fc-barcelona-uefa-champions-league-2026-2027",
+   "https://www.fotmob.com/matches/barcelona-vs-sabah-fk/5vx6ki4t",
+   "https://en.wikipedia.org/wiki/Sabah_FK_(Azerbaijan)",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Sabah_FC_season",
+   "https://en.wikipedia.org/wiki/Sabah_FK_in_European_football",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League_league_phase",
+   "https://wtop.com/sports/2026/08/champions-league-debut-for-azerbaijans-sabah-after-dramatic-playoffs-win-over-hapoel-beer-sheva/",
+   "https://en.apa.az/football/azerbaijans-sabah-shock-israeli-hapoel-beer-sheva-to-reach-uefa-champions-league-league-phase-521715",
+   "https://lesnouvellesdufoot.fr/la-folie-a-bakou-pour-voir-le-barca/",
+   "https://en.wikipedia.org/wiki/FC_Barcelona",
+   "https://operativmedia.az/post/148846/flik-azerbaycana-uzaq-sefer-bizi-narahat-etmir"
+  ],
+  "facts_verified": {
+   "Sabah founded 2017 (9 years)": "Wikipedia Sabah FK + lesnouvellesdufoot 27 Aug ('neuf ans')",
+   "Barcelona founded 29 Nov 1899 → 127 on 29 Nov 2026 (4 days after the 25 Nov match)": "Wikipedia FC Barcelona + fcbarcelona.com",
+   "Wed 25 Nov match": "azernews 267509/267796 + fcbarcelona.com + UEFA match page",
+   "Barça arrives 23 Nov": "azernews 267796 + en.axar (Azertac)",
+   "4 qualifying rounds, 8 games, 18 goals (4+3+5+6)": "Wikipedia 2026–27 Sabah season + Sabah in European football; AP/wtop + apa.az 521715",
+   "3 vs 9 points after 4 games": "Wikipedia 2026–27 UCL league phase + FotMob"
+  },
+  "context_check": "Catches checked: (1) Sabah is NOT the first AZ club in the league phase (Qarabağ played it in 2025–26) → we say 'Sabahın ilk mövsümü', never 'Azərbaycanın ilk'. (2) Sabah is 31st/36 with 3 pts, Barça 5th with 9 — said honestly, no 'sensation' promises. (3) '~50 000 tickets' includes season packages for ALL home European games → NOT used as a Barça-match figure. (4) Kick-off 21:45 Baku confirmed by azernews, axar, FCB (17:45 GMT), FotMob (UTC). (5) Wednesday = 'Çərşənbə' (not 'Çərşənbə axşamı' = Tuesday). (6) Arrival 'evening of 23 Nov' — if the 15:23 check finds a different time, say 'bu gün/bu axşam' only if confirmed. Voice never says 'Azerbaijan's first'; points stated plainly, no promises.",
+  "hooks": [
+   "Doqquz yaşlı Sabah yüz iyirmi yeddi yaşlı nəhəngə qarşı!",
+   "Səkkiz oyun, on səkkiz qol: Sabahın Barselonaya yolu",
+   "Altmış səkkiz min yeddi yüz yerlik stadionda Sabahın ən böyük gecəsi",
+   "Barselona bu gün Bakıda: iki gün sonra tarixi oyun",
+   "İki min on yeddidə yaranan klub min səkkiz yüz doxsan doqquzun nəhənginə qarşı"
+  ],
+  "hook_pick": "#1 — two numbers (9 vs 127) + emotion word 'nəhəng'; true, paid off at the end (127th birthday 4 days after the match). On screen: '9 YAŞLI SABAH 127 YAŞLI NƏHƏNGƏ QARŞI'.",
+  "voice_text": "Doqquz yaşlı Sabah yüz iyirmi yeddi yaşlı nəhəngə qarşı! Barselona bu gün Bakıya gəlir. Çərşənbə günü Sabahla oynayacaq. Sabah iki min on yeddidə yaranıb. Dörd təsnifat mərhələsini keçdi: səkkiz oyun, on səkkiz qol! Sabahın üç, Barselonanın doqquz xalı var. Ən maraqlısı: oyundan dörd gün sonra Barselona yüz iyirmi yeddi yaşını qeyd edəcək. Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+  "word_count": 60,
+  "char_count": 386,
+  "language_check": "Section L: short sentences (≤ 13 words), 'Çərşənbə günü' = Wednesday, 'X-a qarşı', 'mərhələsini keçdi', 'yaşını qeyd edəcək', numbers written out; no Turkish/Russian calques; ə/ı/ö/ü checked.",
+  "voice": "pending",
+  "voice_model": "eleven_v4",
+  "voice_id": "ZQJv3hwvRAIC7fvWZ1Qr"
  }
 }

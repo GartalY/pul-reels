@@ -1,0 +1,325 @@
+{
+"dur": 26.2,
+"lines": [
+{
+"t0": 0.0,
+"words": [
+{
+"w": "9",
+"t": 0.0,
+"key": true
+},
+{
+"w": "yaşlı",
+"t": 0.48,
+"key": false
+},
+{
+"w": "Sabah",
+"t": 0.92,
+"key": true
+},
+{
+"w": "127",
+"t": 1.44,
+"key": true
+},
+{
+"w": "yaşlı",
+"t": 2.16,
+"key": false
+},
+{
+"w": "nəhəngə",
+"t": 2.48,
+"key": true
+},
+{
+"w": "qarşı!",
+"t": 2.96,
+"key": false
+}
+],
+"t1": 3.8
+},
+{
+"t0": 3.8,
+"words": [
+{
+"w": "Barselona",
+"t": 3.8,
+"key": true
+},
+{
+"w": "bu",
+"t": 4.48,
+"key": false
+},
+{
+"w": "gün",
+"t": 4.64,
+"key": false
+},
+{
+"w": "Bakıya",
+"t": 4.84,
+"key": true
+},
+{
+"w": "gəlir.",
+"t": 5.28,
+"key": false
+}
+],
+"t1": 5.92
+},
+{
+"t0": 5.92,
+"words": [
+{
+"w": "Çərşənbə",
+"t": 5.92,
+"key": true
+},
+{
+"w": "günü",
+"t": 6.4,
+"key": false
+},
+{
+"w": "Sabahla",
+"t": 6.8,
+"key": true
+},
+{
+"w": "oynayacaq.",
+"t": 7.253,
+"key": false
+}
+],
+"t1": 8.2
+},
+{
+"t0": 8.2,
+"words": [
+{
+"w": "Sabah",
+"t": 8.2,
+"key": true
+},
+{
+"w": "2017-də",
+"t": 8.56,
+"key": true
+},
+{
+"w": "yaranıb.",
+"t": 9.4,
+"key": false
+}
+],
+"t1": 10.12
+},
+{
+"t0": 10.12,
+"words": [
+{
+"w": "4",
+"t": 10.12,
+"key": true
+},
+{
+"w": "təsnifat",
+"t": 10.36,
+"key": true
+},
+{
+"w": "mərhələsini",
+"t": 10.84,
+"key": false
+},
+{
+"w": "keçdi:",
+"t": 11.36,
+"key": false
+}
+],
+"t1": 12.04
+},
+{
+"t0": 12.04,
+"words": [
+{
+"w": "8",
+"t": 12.04,
+"key": true
+},
+{
+"w": "oyun,",
+"t": 12.48,
+"key": false
+},
+{
+"w": "18",
+"t": 13.04,
+"key": true
+},
+{
+"w": "qol!",
+"t": 13.84,
+"key": true
+}
+],
+"t1": 14.56
+},
+{
+"t0": 14.56,
+"words": [
+{
+"w": "Sabahın",
+"t": 14.56,
+"key": false
+},
+{
+"w": "3,",
+"t": 15.12,
+"key": true
+},
+{
+"w": "Barselonanın",
+"t": 15.64,
+"key": false
+},
+{
+"w": "9",
+"t": 16.32,
+"key": true
+},
+{
+"w": "xalı",
+"t": 16.72,
+"key": true
+},
+{
+"w": "var.",
+"t": 16.96,
+"key": false
+}
+],
+"t1": 17.48
+},
+{
+"t0": 17.48,
+"words": [
+{
+"w": "Ən",
+"t": 17.48,
+"key": false
+},
+{
+"w": "maraqlısı:",
+"t": 17.68,
+"key": true
+}
+],
+"t1": 18.64
+},
+{
+"t0": 18.64,
+"words": [
+{
+"w": "oyundan",
+"t": 18.64,
+"key": false
+},
+{
+"w": "4",
+"t": 19.12,
+"key": true
+},
+{
+"w": "gün",
+"t": 19.36,
+"key": false
+},
+{
+"w": "sonra",
+"t": 19.64,
+"key": false
+},
+{
+"w": "Barselona",
+"t": 20.0,
+"key": true
+},
+{
+"w": "127",
+"t": 20.8,
+"key": true
+},
+{
+"w": "yaşını",
+"t": 21.52,
+"key": true
+},
+{
+"w": "qeyd",
+"t": 21.88,
+"key": false
+},
+{
+"w": "edəcək.",
+"t": 22.12,
+"key": false
+}
+],
+"t1": 22.907
+},
+{
+"t0": 22.907,
+"words": [
+{
+"w": "Bəyən",
+"t": 22.907,
+"key": true
+},
+{
+"w": "və",
+"t": 23.36,
+"key": false
+},
+{
+"w": "izlə",
+"t": 23.52,
+"key": true
+},
+{
+"w": "hər",
+"t": 24.293,
+"key": false
+},
+{
+"w": "gün",
+"t": 24.56,
+"key": false
+},
+{
+"w": "bilmədiyin",
+"t": 24.88,
+"key": false
+},
+{
+"w": "bir",
+"t": 25.44,
+"key": false
+},
+{
+"w": "fakt!",
+"t": 25.6,
+"key": true
+}
+],
+"t1": 26.2
+}
+]
+}

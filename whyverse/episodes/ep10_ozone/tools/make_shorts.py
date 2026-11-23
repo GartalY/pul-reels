@@ -10,7 +10,7 @@ os.makedirs(OUT, exist_ok=True)
 s = open(TLF).read(); TL = json.loads(s[s.index('=') + 1:s.index(';if(')]); LINES = {l['id']: l for l in TL['lines']}
 
 SHORTS = [
-    ('ep09_s1_pacific_is_tilted', 'c2_1h', 'c2_3', ['THE SEA IS FLAT?', 'THE PACIFIC IS', 'TILTED 0.5 M']),
+    ('ep10_s1_ozone_treaty_2_5c', 'c4_2', 'c4_4', ['1987 OZONE DEAL', 'AVOIDED +2.5 °C', 'OF WARMING?'], 'many'),
 ]
 
 def ass_for(t0, t1, path):
@@ -50,8 +50,9 @@ def overlay(title, path):
     d.text((x, yb), cta, font=hand, fill=(255, 248, 232, 255))
     im.save(path)
 
-for name, a, b, title in SHORTS:
-    t0 = max(0, LINES[a]['t'] - 0.4); t1 = LINES[b]['end'] + 1.35; dur = t1 - t0
+for name, a, b, title, *st in SHORTS:
+    t0 = max(0, LINES[a]['t'] - 0.4)
+    if st: t0 = next(w['t'] for w in LINES[a]['words'] if w['w'].lower().startswith(st[0])) - 0.15; t1 = LINES[b]['end'] + 1.35; dur = t1 - t0
     ov = os.path.join(OUT, name + '_ov.png'); overlay(title, ov)
     out = os.path.join(OUT, name + '.mp4')
     ass = os.path.join(OUT, name + '.ass'); ass_for(t0, t1, ass)

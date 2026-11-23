@@ -45,17 +45,18 @@
   // S3 — the trap: the tragedy of the commons (1968) — each farmer adds a cow, everyone shares the damage; the sky is that field
   P.shot(ev.c5_s3, (ctx, t) => {
     P.bgLine(ctx, t);
-    P.stamp(ctx, 'THE TRAGEDY OF THE COMMONS', 960, 120, t, ev.c5_tragedy, { size: 60, color: C.ink, fg: C.pap, rot: -0.02 });
-    P.note(ctx, 'Garrett Hardin, 1968', null, null, 960, 200, t, ev.c5_1968, { size: 44 });
+    P.stamp(ctx, 'THE TRAGEDY OF THE COMMONS', 900, 190, t, ev.c5_tragedy, { size: 60, color: C.ink, fg: C.pap, rot: -0.02 });
+    P.note(ctx, 'Garrett Hardin, 1968', null, null, 900, 275, t, ev.c5_1968, { size: 44 });
     const sky = P.eio((t - ev.c5_sky + 0.2) / 0.8);
     ctx.save(); ctx.translate(0, sky * 460);
     P.fence(ctx, 160, 1760, 900, P.dk(t, ev.c5_s3 + 0.2, 0.9));
-    const dmg = P.fin(t, ev.c5_damage - 0.4, 1.0); for (let i = 0; i < 24; i++) { const x = 200 + i * 66, h = 30 * (1 - dmg * 0.85) * (0.7 + 0.3 * U.hash(i, 4)); P.art(ctx, [[[x, 880], [x - 8, 880 - h]], [[x, 880], [x + 8, 880 - h * 0.8]]], P.dk(t, ev.c5_field, 0.5), { lw: 3 }); }
-    const nc = 1 + Math.floor(clamp((t - ev.c5_cow) / 1.6) * 5); for (let i = 0; i < 6; i++) { const q = i === 0 ? P.fin(t, ev.c5_field, 0.4) : P.pop(t, ev.c5_cow + (i - 1) * 0.32, 0.35); if (q <= 0) continue; P.cow(ctx, 300 + i * 250, 870, 0.75 * q, t, { k: 1, dir: i % 2 ? -1 : 1, seed: i }); }
-    for (let i = 0; i < 3; i++) P.person(ctx, 260 + i * 640, 880, 0.55, t, { pose: 'point', k: P.fin(t, ev.c5_cow - 0.3, 0.4), seed: i, dir: i === 2 ? -1 : 1 });
+    const dmg = P.fin(t, ev.c5_damage - 0.4, 1.0); for (let i = 0; i < 24; i++) { const x = 200 + i * 66, h = 30 * (1 - dmg * 0.85) * (0.7 + 0.3 * U.hash(i, 4)); P.art(ctx, [[[x, 880], [x - 8, 880 - h]], [[x, 880], [x + 8, 880 - h * 0.8]]], P.dk(t, ev.c5_s3 + 0.6 + i * 0.03, 0.5), { lw: 3 }); }
+    const nc = 1 + Math.floor(clamp((t - ev.c5_cow) / 1.6) * 5); for (let i = 0; i < 6; i++) { const q = i === 0 ? P.fin(t, ev.c5_s3 + 1.0, 0.4) : P.pop(t, ev.c5_cow + (i - 1) * 0.32, 0.35); if (q <= 0) continue; P.cow(ctx, 300 + i * 250, 870, 0.75 * q, t, { k: 1, dir: i % 2 ? -1 : 1, seed: i }); }
+    for (let i = 0; i < 3; i++) P.person(ctx, 260 + i * 640, 880, 0.55, t, { pose: 'point', k: P.fin(t, ev.c5_s3 + 1.3 + i * 0.3, 0.4), seed: i, dir: i === 2 ? -1 : 1 });
     P.note(ctx, 'one more cow = my gain', null, null, 600, 560, t, ev.c5_cow + 0.2, { size: 44 });
     P.note(ctx, 'the damage = everyone\'s', null, null, 1340, 560, t, ev.c5_damage, { size: 44 });
     ctx.restore();
+    Ch.ozzy(ctx, { x: 1720, y: 640 - sky * 900, s: 0.55, t, dir: -1, gesture: t > ev.c5_field ? 'point' : 'think', mouth: P.talk(t), look: -1, a: 1 - P.fin(t, ev.c5_cow, 0.4) });
     if (sky > 0) { ctx.save(); ctx.globalAlpha *= sky; for (let i = 0; i < 5; i++) P.factory(ctx, 260 + i * 350, 1080 + (1 - sky) * 300, 0.5, t, { k: 1, n: 2 }); ctx.restore();
       P.head(ctx, 'THE SKY IS THAT FIELD', 960, 420, t, ev.c5_sky + 0.2, { size: 80, hl: ['SKY'] }); }
   }, { in: { type: 'fade', dur: 0.4 } });

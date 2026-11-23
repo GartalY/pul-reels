@@ -338,8 +338,16 @@
   "word_count": 60,
   "char_count": 386,
   "language_check": "Section L: short sentences (≤ 13 words), 'Çərşənbə günü' = Wednesday, 'X-a qarşı', 'mərhələsini keçdi', 'yaşını qeyd edəcək', numbers written out; no Turkish/Russian calques; ə/ı/ö/ü checked.",
-  "voice": "pending",
+  "voice": "arif",
   "voice_model": "eleven_v4",
-  "voice_id": "ZQJv3hwvRAIC7fvWZ1Qr"
+  "voice_id": "ZQJv3hwvRAIC7fvWZ1Qr",
+  "arif_mp3": "reels/arif/2026-11-23_1830.mp3",
+  "words_json": "reels/arif/2026-11-23_1830.words.json",
+  "arif_credits": 386,
+  "arif_duration_s": 26.12,
+  "arif_flow": "TnOxMmKoCrysUT7CfJ5j",
+  "arif_generation_id": "IQdDQLQfW1PND4L6cUO2",
+  "arif_generated_at": "14:54 Baku 23 Nov (1st attempt, no busy)",
+  "transcript_check": "Scribe v1 transcript = voice_text exactly (60 words, 0–26.16 s); scribe cost 0 credits"
  }
 }

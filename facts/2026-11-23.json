@@ -1,12 +1,12 @@
 {
  "date": "2026-11-23",
- "status": "13:00 scheduled (static Nizami → Layla, no voice, silent track, IG REEL); 18:30 animated Arif reel = 14:47/15:23 tasks",
+ "status": "13:00 scheduled (static Nizami → Layla, no voice, silent track, IG REEL); 18:30 animated Arif reel = 14:47/15:23 tasks | 09:10 trend: Sabah – Barcelona (data animation, TikTok swap → Baku population)",
  "format": "v4",
  "content_format": "quality_reset_2026-11-12",
  "planned_note": "Planned in the 2026-11-22 09:10 run. Mon 23 Nov: 13:00 static factgen reel (no voice, silent track, IG normal REEL) = facts[0] Nizami → Clapton 'Layla' (photo fetched + checked). 18:30 = Monday DATA ANIMATION (format table 18 Nov): the 09:10 task on 23 Nov picks the freshest AZ story and tells it as a data animation if it has a real dataset; if not, facts[1] Baku population 1863 → 2024 is the ready DATA ANIMATION backup (Arif). New week 23–29 Nov: sports 0/2, space 0/2. Categories: culture/music + city/demography. No carousels/quizzes/stories.",
  "format_log": {
   "13:00": "fact",
-  "18:30": "data (trend if it has a dataset; backup: facts[1] data)"
+  "18:30": "data (trend: Sabah – Barselona numbers); TikTok 18:30 = facts[1] Baku population data (football swap)"
  },
  "facts": [
   {
@@ -205,5 +205,93 @@
   "13:00 Nizami → Layla": 437733844
  },
  "pending_schedule": null,
- "scheduled_check": "20:49 22 Nov: getScheduledPosts for 23 Nov empty before creating; no pending_schedule in 20–22 Nov JSONs. One post per network created."
+ "scheduled_check": "20:49 22 Nov: getScheduledPosts for 23 Nov empty before creating; no pending_schedule in 20–22 Nov JSONs. One post per network created.",
+ "trend": {
+  "n": "T",
+  "type": "reel",
+  "format": "animated_1830",
+  "content_format": "trend",
+  "post_format": "data",
+  "look": "DATA ANIMATION (Monday, 3 NEW FORMATS table) + PHOTO STORY elements; BIG STORY = BIG TREATMENT",
+  "cat": "İdman / Futbol",
+  "hook_type": "number-first comparison (9 vs 127 years) + data",
+  "picked_at": "09:15–10:10 Baku 23 Nov (1st trend check)",
+  "rule_note": "Biggest AZ story of the day (NEVER LOCK A TOPIC 22 Nov): Barcelona land in Baku this evening for Sabah v Barcelona, UCL league phase MD5, Wed 25 Nov 21:45 Baku, Baku Olympic Stadium. Sports quota week 23–29 Nov: this = 1/2 (keep the 2nd for the 26 Nov result if it's big). Football → TikTok FOOTBALL SWAP applies (see tiktok_swap). AZ POLITICS RULE: n/a. CONTEXT CHECK done (below).",
+  "subject": "Sabah FK (founded 8 Sep 2017 — Wikipedia 'Sabah FK (Azerbaijan)'; 2026–27 = 10th season) host FC Barcelona (founded 29 Nov 1899) in the UEFA Champions League league phase, matchday 5, Wed 25 Nov 2026, 21:45 Baku (17:45 GMT), Baku Olympic Stadium (68 700 places) — azernews.az 267509 (16 Nov) + 267796 (20 Nov), en.axar.az 1150848 (Azertac), fcbarcelona.com match page, FotMob. Barcelona expected to arrive in Baku on the evening of 23 Nov (azernews 267796; axar/Azertac). Flick 23 Nov: 'a long trip to Azerbaijan does not worry us' (operativmedia 148846, headline only). Sabah's path: first AZ title 2025–26 (clinched 30 Apr 2026) + Cup; qualifiers 1Q TNS agg 4–1, 2Q KuPS 3–0, 3Q Aarhus 5–2, PO Hapoel Be'er Sheva 6–4 (5–2 a.e.t. at home, 25 Aug) = 4 rounds, 8 games, 18 goals for, 7 against (Wikipedia '2026–27 Sabah FC season' + 'Sabah FK in European football'); 25 Aug = first-ever UCL qualification (AP via wtop.com 'Champions League debut for Azerbaijan's Sabah…', apa.az 521715, trend.az 4217967). League phase so far (Wikipedia 2026–27 UCL league phase, updated 4 Nov): Sabah 4 pl, W1 L3, GF 4 GA 10, 3 pts, 31st/36 (Man Utd 4–0 Sabah, Sabah 2–0 Slavia Prague, Sabah 1–2 Dortmund, Viking 4–1 Sabah); Barcelona 4 pl, W3 L1, 14–6, 9 pts, 5th. Tickets: 'nearly 50 000' sold by 16 Nov INCLUDING season packages for all European home games (Sabah press office via azernews 267509 + lesnouvellesdufoot/sport.es). Coach Valdas Dambrauskas. Previous big Olympic Stadium crowd: Qarabağ–Chelsea 2017 67 100 (lesnouvellesdufoot/sport.es only → NOT in voice unless 2nd source found).",
+  "reel_hook": "9 YAŞLI SABAH 127 YAŞLI BARSELONAYA QARŞI",
+  "hook_options": [
+   "9 YAŞLI SABAH 127 YAŞLI BARSELONAYA QARŞI",
+   "4 TƏSNİFAT, 8 OYUN, 18 QOL: SABAHIN BARSELONAYA YOLU",
+   "68 700 YERLİK STADİON, 1 TARİXİ GECƏ: SABAH – BARSELONA",
+   "BARSELONA BU GÜN BAKIDA: 2 GÜN SONRA SABAHLA OYUN",
+   "2017-Cİ İLDƏ YARANAN KLUB 1899-CU İLİN NƏHƏNGİNƏ QARŞI"
+  ],
+  "reel_beats": [
+   "Barselona bu gün Bakıya gəlir. Çərşənbə günü, 25 noyabrda, saat 21:45-də Bakı Olimpiya Stadionunda Sabahla oynayacaq.",
+   "Sabah 2017-ci ildə yaranıb — cəmi 9 yaşı var. Barselona isə 1899-cu ildə yaranıb.",
+   "Avqustda Sabah 4 təsnifat mərhələsini keçdi: 8 oyunda 18 qol vurdu. Sonuncu oyunda Hapoel Beer-Şevanı əlavə vaxtda 5:2 udu.",
+   "Bu, Sabahın Çempionlar Liqasında ilk mövsümüdür. 4 oyundan sonra Sabahın 3, Barselonanın 9 xalı var."
+  ],
+  "payoff": "Ən maraqlısı: oyundan 4 gün sonra, 29 noyabrda, Barselona 127 yaşını qeyd edəcək.",
+  "voice_texts": [
+   "Doqquz yaşlı Sabah yüz iyirmi yeddi yaşlı Barselonaya qarşı!",
+   "Barselona bu gün Bakıya gəlir. Çərşənbə günü saat iyirmi bir qırx beşdə Olimpiya Stadionunda Sabahla oynayacaq.",
+   "Sabah iki min on yeddinci ildə yaranıb. Barselona isə min səkkiz yüz doxsan doqquzda.",
+   "Avqustda Sabah dörd təsnifat mərhələsini keçdi: səkkiz oyunda on səkkiz qol!",
+   "Bu, Sabahın Çempionlar Liqasında ilk mövsümüdür. İndi Sabahın üç, Barselonanın doqquz xalı var.",
+   "Ən maraqlısı: oyundan dörd gün sonra Barselona yüz iyirmi yeddi yaşını qeyd edəcək.",
+   "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
+  ],
+  "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+  "send_line": "📩 Sabah – Barselona oyununa gedən dostuna göndər ⚽",
+  "caption": "Sabah – Barselona: 9 yaşlı klub 127 yaşlı nəhəngə qarşı ⚽\n\nBarselona bu gün Bakıya gəlir. Çərşənbə günü, 25 noyabrda, saat 21:45-də Bakı Olimpiya Stadionunda Çempionlar Liqasının 5-ci turunda Sabahla oynayacaq. Sabah 2017-ci ildə yaranıb, Barselona isə 1899-cu ildə. Avqustda Sabah 4 təsnifat mərhələsini keçib (8 oyun, 18 qol) və ilk dəfə Çempionlar Liqasına çıxıb. 4 turdan sonra Sabahın 3, Barselonanın 9 xalı var. Ən maraqlısı: oyundan 4 gün sonra Barselona 127 yaşını qeyd edəcək.\n\n📩 Sabah – Barselona oyununa gedən dostuna göndər ⚽\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nSəs: elevenlabs.io\n\n#bilirdinizmi #sabah #barselona #çempionlarliqası #bakı",
+  "first_comment": "Hesabı təxmin et: Sabah – Barselona neçə-neçə bitəcək? 👇",
+  "youtube_title": "Sabah – Barselona: 9 yaşlı klub 127 yaşlı nəhəngə qarşı #shorts",
+  "visual_ideas": [
+   "Frame 0: two big numbers side by side, '9' (Sabah colours) vs '127' (Barça claret/blue), hook text; no club logos (trademarks) — colour blocks + names only.",
+   "Running SCOREBOARD top corner the whole reel: 'SABAH 3 xal | BARSELONA 9 xal' (data), plus a match clock '25.11 · 21:45'.",
+   "Timeline bar 1899 → 2017 → 2026 growing left to right with a counter of years; Sabah's dot appears late and small, then pulses.",
+   "Route map: 4 flags pop in order (Wales TNS 4–1, Finland KuPS 3–0, Denmark Aarhus 5–2, Israel Hapoel 6–4) with a progress counter 1/4 → 4/4 and a goal counter 0 → 18.",
+   "Plane icon landing in Baku (Barça arrival this evening), then Baku Olympic Stadium photo (Wikimedia) with seats filling and '68 700 yer' counter.",
+   "Payoff: a birthday cake with '127' candles lighting up one by one on '29.11', camera push-in; CTA card.",
+   "PHOTO STORY option: Baku Olympic Stadium (Wikimedia CC), Sabah's 25 Aug celebration and Barça arrival (agency photo ≤ 2–3 s, credited, unwatermarked, log in agency_photos)."
+  ],
+  "sfx": "soft whoosh on number swaps, crowd-murmur swell ≤ -30 LUFS under the stadium shot, tick on counters; no music",
+  "context_check": "Catches checked: (1) Sabah is NOT the first AZ club in the league phase (Qarabağ played it in 2025–26) → we say 'Sabahın ilk mövsümü', never 'Azərbaycanın ilk'. (2) Sabah is 31st/36 with 3 pts, Barça 5th with 9 — said honestly, no 'sensation' promises. (3) '~50 000 tickets' includes season packages for ALL home European games → NOT used as a Barça-match figure. (4) Kick-off 21:45 Baku confirmed by azernews, axar, FCB (17:45 GMT), FotMob (UTC). (5) Wednesday = 'Çərşənbə' (not 'Çərşənbə axşamı' = Tuesday). (6) Arrival 'evening of 23 Nov' — if the 15:23 check finds a different time, say 'bu gün/bu axşam' only if confirmed.",
+  "language_check": "Sabah, Barselona, Bakı Olimpiya Stadionu, Hapoel Beer-Şeva, təsnifat mərhələsi, xal. Numbers with nbsp on screen (68 700, 21:45).",
+  "sources": [
+   "https://www.azernews.az/sports/267509.html",
+   "https://www.azernews.az/sports/267796.html",
+   "https://en.axar.az/news/sports/1150848.html",
+   "https://www.fcbarcelona.com/en/matches/141532/sabah-fc-barcelona-uefa-champions-league-2026-2027",
+   "https://www.fotmob.com/matches/barcelona-vs-sabah-fk/5vx6ki4t",
+   "https://en.wikipedia.org/wiki/Sabah_FK_(Azerbaijan)",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Sabah_FC_season",
+   "https://en.wikipedia.org/wiki/Sabah_FK_in_European_football",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League_league_phase",
+   "https://wtop.com/sports/2026/08/champions-league-debut-for-azerbaijans-sabah-after-dramatic-playoffs-win-over-hapoel-beer-sheva/",
+   "https://en.apa.az/football/azerbaijans-sabah-shock-israeli-hapoel-beer-sheva-to-reach-uefa-champions-league-league-phase-521715",
+   "https://lesnouvellesdufoot.fr/la-folie-a-bakou-pour-voir-le-barca/",
+   "https://en.wikipedia.org/wiki/FC_Barcelona",
+   "https://operativmedia.az/post/148846/flik-azerbaycana-uzaq-sefer-bizi-narahat-etmir"
+  ],
+  "source_scan": "09:15–10:05: apa.az, metbuat.az, operativmedia.az (+weekly summary), milli.az (snapshot), newscura world timeline 22 Nov; report.az + aa.com.tr not readable this run. AZ-angle searches for world stories: Gukesh–Sindarov WCh (Geneva, G1 24 Nov) — 'Azərbaycan / sekundant' search + chessbase seconds article: no AZ person in either team → no AZ angle. Other AZ items: Tahir Abdullayev 2nd UFC win (22 Nov), Neftçi top of league, Qarabağ 0–0 Kəpəz, AZ–Jordan visa-free (old news, July/ratified), 1st Azerbaijan-studies MA in Spain, Nigar Ağabəyli exhibition, Aliyev Vietnam visit ended 21 Nov (used 20 Nov).",
+  "tiktok_swap": true,
+  "tiktok_swap_plan": "Football → TikTok 18:30 gets a DIFFERENT animated Arif reel: no fresh non-football AZ story of similar size found at 09:10 → use the ready backup facts[1] of today (Baku population 1863 → 2024, DATA ANIMATION, Monday format) unless the 15:23 check finds a fresh non-football AZ story. If Arif credits/time run out: silent static photo+words of facts[1].",
+  "runner_ups": [
+   {
+    "story": "Riemann follow-up: The Decoder (22 Nov) reports the Lean/Mathlib community confirms the machine check of Levent Alpöge's claimed proof",
+    "note": "non-football, world + Turkish-roots angle; but we covered the story on 22 Nov — only if 15:23 finds mathematicians formally accepting it (still 'claim' otherwise). Verify with a 2nd source."
+   },
+   {
+    "story": "Tahir Abdullayev wins 2nd UFC fight (metbuat 22 Nov 01:28; report.az/ru)",
+    "note": "AZ athlete, not football → could be the TikTok swap reel if 15:23 confirms opponent/method/date from 2 sources (UFC.com, ESPN). Sports quota: would make 2/2."
+   },
+   {
+    "story": "Gukesh vs Sindarov — youngest World Chess Championship match since 1886 (both 20), Game 1 Tue 24 Nov, Geneva, $2.5M",
+    "note": "no AZ angle found (Teams: Gajewski / Vidonyak, Abdusattorov, Vitiugov, Madaminov) → tomorrow's 09:10 candidate only if an AZ link appears."
+   }
+  ],
+  "follow_up": "26 Nov 09:10: Sabah – Barselona RESULT is the natural 26 Nov trend (sports 2/2) if it's the day's biggest story; 25 Nov 15:23 may refresh with match-day numbers (attendance, line-ups)."
+ }
 }

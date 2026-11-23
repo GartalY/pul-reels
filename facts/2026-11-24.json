@@ -1,0 +1,135 @@
+{
+ "date": "2026-11-24",
+ "status": "planned",
+ "format": "v4",
+ "content_format": "quality_reset_2026-11-12",
+ "planned_note": "Planned in the 2026-11-23 09:10 run. Tue 24 Nov: 13:00 = GUESS THE ANSWER static photo reel (3 NEW FORMATS table, Tue) from facts[0] Heydar Aliyev Center → Zaha Hadid (no voice, silent track, IG normal REEL; photo fetched + checked). 18:30 = freshest AZ story (09:10 on 24 Nov) or facts[1] DATA/animated backup: women's suffrage 21 Jul 1919 vs USA 1920 … Switzerland 1971 (Arif). Week 23–29 Nov: sports 1/2 (Sabah–Barça trend 23 Nov), space 0/2. Categories: architecture/culture + history. No carousels/quizzes/stories.",
+ "format_log": {
+  "13:00": "guess",
+  "18:30": "trend (backup: facts[1] data)"
+ },
+ "facts": [
+  {
+   "n": 1,
+   "type": "reel",
+   "slot": "13:00",
+   "static": true,
+   "voiced": false,
+   "format": "guess",
+   "cat": "Memarlıq / Bakı",
+   "subject": "Heydar Aliyev Center, Baku: design architect Zaha Hadid (Zaha Hadid Architects; Hadid + Patrik Schumacher), appointed 2007 after a competition; construction from 2007; opened 10 May 2012 (Wikipedia). 57 500 m², roof height 74 m, 8 floor levels, 1 000-seat auditorium (Wikipedia). Won the London Design Museum's 'Design of the Year 2014' (announced 1 Jul 2014): Hadid = first woman to win the award in its 7-year history (Dezeen, BD+C, designboom, Wikipedia); first architectural project to win the overall prize (BD+C, designboom); 'over 70' / '70' projects nominated (BD+C / Dezeen). Facade of glass-fibre-reinforced concrete panels (Dezeen); 'flowing, curved style that eschews sharp angles' (Wikipedia). NOT used: 'no straight lines at all' (only a designboom photo caption), Pritzker 2004 (not checked this run), panel count, the 2012 fire.",
+   "title": "Heydər Əliyev Mərkəzini kim layihələndirib?",
+   "text": "Bakıdakı Heydər Əliyev Mərkəzini Zaha Hədid layihələndirib. Bina 2014-cü ildə Londonda «İlin dizaynı» mükafatını qazanıb.",
+   "reel_hook": "70-DƏN ÇOX LAYİHƏNİ QABAQLADI: BU BİNANI KİM ÇƏKİB? Sənin cavabın? 👇",
+   "hook_options": [
+    "70-DƏN ÇOX LAYİHƏNİ QABAQLADI: BU BİNANI KİM ÇƏKİB? Sənin cavabın? 👇",
+    "HEYDƏR ƏLİYEV MƏRKƏZİNİ KİM LAYİHƏLƏNDİRİB? Sənin cavabın? 👇",
+    "1 BİNA, 1 QADIN, 1 İLK: KİMDİR? 👇",
+    "74 METR, 57 500 M²: BU BİNANIN MEMARI KİMDİR? 👇",
+    "LONDONDA «İLİN DİZAYNI» OLAN BAKI BİNASI: MEMARI KİM? 👇"
+   ],
+   "guess": {
+    "question": "Bakıdakı Heydər Əliyev Mərkəzini kim layihələndirib?",
+    "options": [
+     "Norman Foster",
+     "Zaha Hədid",
+     "Frank Geri"
+    ],
+    "answer": "Zaha Hədid",
+    "clues": [
+     "Bina 2014-cü ildə Londonda «İlin dizaynı» mükafatını qazandı.",
+     "Bu mükafatı ilk dəfə bir qadın memar aldı."
+    ],
+    "countdown": "3-2-1 (~3 s, visible, tick)"
+   },
+   "reel_beats": [
+    "Sual: Bakıdakı Heydər Əliyev Mərkəzini kim layihələndirib? Norman Foster, Zaha Hədid, yoxsa Frank Geri?",
+    "İpucu: bina 2014-cü ildə Londonun Dizayn Muzeyində «İlin dizaynı» seçildi — 70-dən çox layihənin arasından.",
+    "Cavab: Zaha Hədid! Tikinti 2007-ci ildə başladı, bina 2012-ci ildə açıldı. Hündürlüyü 74 metr, sahəsi 57 500 kvadratmetrdir.",
+    "Ən maraqlısı: Zaha Hədid bu mükafatı qazanan ilk qadın oldu. Bina isə onu qazanan ilk memarlıq layihəsi oldu."
+   ],
+   "payoff": "Ən maraqlısı: bu mükafatı ilk dəfə həm bir qadın, həm də bir bina qazandı — ikisi də Bakının adı ilə.",
+   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+   "send_line": "📩 Memarlığı sevən dostuna göndər 🏛️",
+   "caption": "Heydər Əliyev Mərkəzini kim layihələndirib? 🏛️\n\nCavab: Zaha Hədid. Tikinti 2007-ci ildə başladı, bina 2012-ci ildə açıldı. Hündürlüyü 74 metr, sahəsi 57 500 kvadratmetrdir. 2014-cü ildə Londonun Dizayn Muzeyi onu 70-dən çox layihənin arasından «İlin dizaynı» seçdi. Ən maraqlısı: Zaha Hədid bu mükafatı qazanan ilk qadın oldu, bina isə onu qazanan ilk memarlıq layihəsi.\n\n📩 Memarlığı sevən dostuna göndər 🏛️\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nFoto: İltun Huseynli / Unsplash\n\n#bilirdinizmi #heydərəliyevmərkəzi #zahahadid #bakı #memarlıq",
+   "first_comment": "Düz tapdın? Cavabını yaz 👇",
+   "youtube_title": "Heydər Əliyev Mərkəzini kim layihələndirib? Zaha Hədid #shorts",
+   "photo": {
+    "path": "fetch/img/2026-11-24_1_hac_a.jpg",
+    "credit": "Foto: İltun Huseynli / Unsplash",
+    "source": "https://unsplash.com/photos/WIsk0e2VFgE",
+    "size": [
+     2000,
+     2666
+    ],
+    "cy": 0.4,
+    "full": true,
+    "checked": "23 Nov 10:05: looked — Heydar Aliyev Center curved white facade + glass, teal sky, lawn; no watermark/logo/text; Unsplash description names the building. Alt: fetch/img/2026-11-24_1_hac_b.jpg (İltun Huseynli / Unsplash rfklsTwIYBM, glass arch entrance at sunset, clean)."
+   },
+   "context_check": "(1) Named after the national leader — neutral architecture fact, no praise words (AZ POLITICS RULE OK). (2) Wikipedia notes the award came 'despite concerns about the site's human rights record' — not our angle, not mentioned. (3) Opening: 10 May 2012 soft opening; formal re-opening 5 Nov 2013 after a fire → we say 'açıldı 2012' only. (4) 'First woman' = first woman to win THIS award (Design of the Year), not 'first woman architect'. (5) 'Over 70' nominated (BD+C) vs '70' (Dezeen) → '70-dən çox' is BD+C; safe alternative '70-ə yaxın' if the builder prefers.",
+   "language_check": "Zaha Hədid (AZ spelling), Norman Foster, Frank Geri, «İlin dizaynı», kvadratmetr. nbsp in 57 500.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Heydar_Aliyev_Center",
+    "https://www.dezeen.com/?p=487320",
+    "https://www.bdcnetwork.com/zaha-hadids-flowing-heydar-aliyev-center-named-design-year-2014",
+    "https://www.designboom.com/architecture/zaha-hadid-heydar-aliyev-center-design-of-the-year-2014-07-01-2014/"
+   ]
+  },
+  {
+   "n": 2,
+   "type": "reel",
+   "slot": "18:30 backup",
+   "motion": true,
+   "fps": 60,
+   "voiced": "Arif",
+   "format": "data",
+   "cat": "Tarix",
+   "subject": "Azerbaijan Democratic Republic: suffrage law of 21 July 1919 gave the vote and the right to be elected to all citizens aged 20+, women included (caliber.az 'Azerbaijan marks 103 years of women's voting rights'; Jewish Journal 22 Aug 2019 'codified on July 21, 1919 … upon the age of 20'). Wikipedia ADR: 'one of the first countries in the world, and the first majority-Muslim nation, to grant women equal political rights with men'; caliber: 'the first country in the Muslim East'. Comparison (caliber verbatim offsets + standard dates, Wikipedia 'Women's suffrage'): USA 1920 (+1), UK equal franchise 1928 (+9), Spain 1931 (+12), France 1944 (+25), Italy 1945 (+26), Belgium 1948 (+29), Switzerland 1971 (+52). ADR declaration 28 May 1918, Art. 4: rights 'regardless of … sex'. NOT 'first in the world' (New Zealand 1893, Finland 1906). NO claim that women actually voted in 1919 — the Constituent Assembly election under this law was never held before April 1920 → say 'hüququ verildi', never 'səs verdilər'.",
+   "title": "1919: qadınlara seçki hüququ — İsveçrədən 52 il əvvəl",
+   "reel_hook": "İSVEÇRƏDƏN 52 İL ƏVVƏL: 1919-DA AZƏRBAYCAN QADINLARI",
+   "hook_options": [
+    "İSVEÇRƏDƏN 52 İL ƏVVƏL: 1919-DA AZƏRBAYCAN QADINLARI",
+    "ABŞ-DAN 1, FRANSADAN 25 İL ƏVVƏL: QADINLARA SEÇKİ HÜQUQU",
+    "1919: MÜSƏLMAN ŞƏRQİNDƏ İLK DƏFƏ",
+    "7 ÖLKƏNİ QABAQLADIQ: QADINLARIN SEÇKİ HÜQUQU",
+    "21 İYUL 1919: 20 YAŞLI HƏR QADIN SEÇƏ BİLƏRDİ"
+   ],
+   "reel_beats": [
+    "21 iyul 1919: Azərbaycan Xalq Cümhuriyyətinin parlamenti seçki qanunu qəbul etdi.",
+    "20 yaşı olan hər vətəndaş — qadınlar da — seçə və seçilə bilərdi. Bu, müsəlman Şərqində ilk idi.",
+    "ABŞ-da qadınlar bu hüququ 1920-ci ildə aldı, Britaniyada kişilərlə bərabər — 1928-də, Fransada 1944-də.",
+    "İsveçrədə isə yalnız 1971-ci ildə — Azərbaycandan 52 il sonra."
+   ],
+   "payoff": "Ən maraqlısı: Avropanın ortasındakı İsveçrə bu addımı Azərbaycandan 52 il gec atdı.",
+   "voice_texts": [
+    "İsveçrədən əlli iki il əvvəl! Min doqquz yüz on doqquzda Azərbaycan qadınlara seçki hüququ verdi.",
+    "İyirmi bir iyul, min doqquz yüz on doqquz: Xalq Cümhuriyyətinin parlamenti seçki qanununu qəbul etdi.",
+    "İyirmi yaşı olan hər vətəndaş, qadınlar da, seçə və seçilə bilərdi. Bu, müsəlman Şərqində ilk idi.",
+    "ABŞ-da qadınlar bu hüququ min doqquz yüz iyirmidə aldı. Britaniyada kişilərlə bərabər — iyirmi səkkizdə. Fransada qırx dörddə.",
+    "Ən maraqlısı: İsveçrədə isə yalnız min doqquz yüz yetmiş birdə.",
+    "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
+   ],
+   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+   "send_line": "📩 Bunu bilməyən dostuna göndər 🗳️",
+   "caption": "1919: Azərbaycan qadınlara seçki hüququ verdi — İsveçrədən 52 il əvvəl 🗳️\n\n21 iyul 1919-cu ildə Azərbaycan Xalq Cümhuriyyətinin parlamenti seçki qanununu qəbul etdi: 20 yaşı olan hər vətəndaş, qadınlar da, seçə və seçilə bilərdi. Bu, müsəlman Şərqində ilk idi. ABŞ-da qadınlar bu hüququ 1920-ci ildə, Britaniyada kişilərlə bərabər 1928-də, Fransada 1944-də, İsveçrədə isə yalnız 1971-ci ildə aldı.\n\n📩 Bunu bilməyən dostuna göndər 🗳️\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nSəs: elevenlabs.io\n\n#bilirdinizmi #xalqcümhuriyyəti #1919 #azərbaycantarixi #seçkihüququ",
+   "first_comment": "Bunu bilirdin? 👇",
+   "youtube_title": "1919: Azərbaycan qadınlara seçki hüququ verdi — İsveçrədən 52 il əvvəl #shorts",
+   "visual_ideas": [
+    "DATA: horizontal timeline 1919 → 1971 that draws itself; country bars pop in order (AZ 1919, USA 1920, UK 1928, Spain 1931, France 1944, Italy 1945, Belgium 1948, Switzerland 1971) with a running '+N il' counter; AZ bar in accent colour.",
+    "Frame 0: '52' huge, hook text, Swiss + AZ flag chips.",
+    "Progress counter top-right 0/7 → 7/7 countries.",
+    "Ballot icon dropping into a box at '21.07.1919'; '20+' age badge.",
+    "Real photo (if found on Commons, public domain): ADR parliament building in Baku (Haji Zeynalabdin Taghiyev's girls' school building) ≤ 2 s.",
+    "Payoff: map zoom to Switzerland with '1971' stamp, then back to Baku; CTA."
+   ],
+   "context_check": "(1) 'First in the Muslim East / first Muslim-majority nation' — NOT first in the world. (2) Right granted, but the Constituent Assembly election under it never took place (Soviet takeover Apr 1920) → never 'qadınlar səs verdi'. (3) UK: partial vote 1918 (women 30+), equal 1928 → say 'kişilərlə bərabər — 1928'. (4) Comparison offsets from caliber.az; years match standard dates. (5) Historical, positive national fact — AZ POLITICS RULE OK, no praise words.",
+   "language_check": "Azərbaycan Xalq Cümhuriyyəti, seçki hüququ, seçə və seçilə, İsveçrə, Britaniya. nbsp on numbers.",
+   "sources": [
+    "https://caliber.az/en/post/azerbaijan-marks-103-years-of-women-s-voting-rights",
+    "https://jewishjournal.com/commentary/blogs/303172/celebrating-100-years-of-voting-rights-for-women-in-azerbaijan",
+    "https://en.wikipedia.org/wiki/Azerbaijan_Democratic_Republic",
+    "https://en.wikipedia.org/wiki/Women%27s_suffrage"
+   ]
+  }
+ ]
+}

@@ -663,3 +663,12 @@ search_karabakh_horse.json https://commons.wikimedia.org/w/api.php?action=query&
 2026-11-22_W_riemann2.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/C.F_Bernhard_Riemann.jpg/1920px-C.F_Bernhard_Riemann.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 2026-11-24_1_hac_a.jpg https://images.unsplash.com/photo-1592329027726-28a0476b4edd?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=2000
 2026-11-24_1_hac_b.jpg https://images.unsplash.com/photo-1611816055460-618287c870bd?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=2000
+s1123_olympic.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Baku%20Olympic%20Stadium
+s1123_fcb1899.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=FC%20Barcelona%201899%20team
+s1123_gamper.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Joan%20Gamper
+s1123_sabah.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Sabah%20FK
+s1123_flick.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Hansi%20Flick
+s1123_campnou.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Camp%20Nou%20stadium
+s1123_respublika.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Bank%20Respublika%20Arena
+s1123_yamal.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Lamine%20Yamal
+s1123_baku.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Baku%20Flame%20Towers%20night

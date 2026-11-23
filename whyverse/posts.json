@@ -1634,6 +1634,57 @@
    "metricool_id": 437497799,
    "metricool_uuid": "-4720973044704784517",
    "photos": 7
+  },
+  {
+   "format": "fact",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/facts/2026-11-23_india-720-draw.mp4",
+   "type": "static_fact",
+   "topic": "India 720/9 highest Test total in NZ, Wellington Test drawn 23 Nov 2026 (trend scout 23 Nov #3)",
+   "kind": "fact_short",
+   "time_london": "2026-11-23 23:00",
+   "time_baku": "2026-11-24 03:00",
+   "ai_label": true,
+   "fps": 60,
+   "duration_s": 19.8,
+   "title": "India 720/9: Highest Test Total in New Zealand, Still a Draw",
+   "political": false,
+   "sports": true,
+   "network": "instagram",
+   "metricool_id": 438358062
+  },
+  {
+   "format": "fact",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/facts/2026-11-23_india-720-draw.mp4",
+   "type": "static_fact",
+   "topic": "India 720/9 highest Test total in NZ, Wellington Test drawn 23 Nov 2026 (trend scout 23 Nov #3)",
+   "kind": "fact_short",
+   "time_london": "2026-11-23 23:00",
+   "time_baku": "2026-11-24 03:00",
+   "ai_label": true,
+   "fps": 60,
+   "duration_s": 19.8,
+   "title": "India 720/9: Highest Test Total in New Zealand, Still a Draw",
+   "political": false,
+   "sports": true,
+   "network": "tiktok",
+   "metricool_id": 438358081
+  },
+  {
+   "format": "fact",
+   "file": "https://raw.githubusercontent.com/GartalY/pul-reels/whyverse-media/facts/2026-11-23_india-720-draw.mp4",
+   "type": "static_fact",
+   "topic": "India 720/9 highest Test total in NZ, Wellington Test drawn 23 Nov 2026 (trend scout 23 Nov #3)",
+   "kind": "fact_short",
+   "time_london": "2026-11-23 23:00",
+   "time_baku": "2026-11-24 03:00",
+   "ai_label": true,
+   "fps": 60,
+   "duration_s": 19.8,
+   "title": "India 720/9: Highest Test Total in New Zealand, Still a Draw",
+   "political": false,
+   "sports": true,
+   "network": "youtube",
+   "metricool_id": 438358093
   }
  ]
 }

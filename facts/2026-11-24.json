@@ -1,6 +1,6 @@
 {
  "date": "2026-11-24",
- "status": "planned",
+ "status": "13:00 scheduled (static GUESS Heydər Əliyev Mərkəzi → Zaha Hədid, no voice, silent track, IG REEL); 18:30 animated Arif reel = 14:47/15:23 tasks",
  "format": "v4",
  "content_format": "quality_reset_2026-11-12",
  "planned_note": "Planned in the 2026-11-23 09:10 run. Tue 24 Nov: 13:00 = GUESS THE ANSWER static photo reel (3 NEW FORMATS table, Tue) from facts[0] Heydar Aliyev Center → Zaha Hadid (no voice, silent track, IG normal REEL; photo fetched + checked). 18:30 = freshest AZ story (09:10 on 24 Nov) or facts[1] DATA/animated backup: women's suffrage 21 Jul 1919 vs USA 1920 … Switzerland 1971 (Arif). Week 23–29 Nov: sports 1/2 (Sabah–Barça trend 23 Nov), space 0/2. Categories: architecture/culture + history. No carousels/quizzes/stories.",
@@ -51,7 +51,7 @@
    "payoff": "Ən maraqlısı: bu mükafatı ilk dəfə həm bir qadın, həm də bir bina qazandı — ikisi də Bakının adı ilə.",
    "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
    "send_line": "📩 Memarlığı sevən dostuna göndər 🏛️",
-   "caption": "Heydər Əliyev Mərkəzini kim layihələndirib? 🏛️\n\nCavab: Zaha Hədid. Tikinti 2007-ci ildə başladı, bina 2012-ci ildə açıldı. Hündürlüyü 74 metr, sahəsi 57 500 kvadratmetrdir. 2014-cü ildə Londonun Dizayn Muzeyi onu 70-dən çox layihənin arasından «İlin dizaynı» seçdi. Ən maraqlısı: Zaha Hədid bu mükafatı qazanan ilk qadın oldu, bina isə onu qazanan ilk memarlıq layihəsi.\n\n📩 Memarlığı sevən dostuna göndər 🏛️\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nFoto: İltun Huseynli / Unsplash\n\n#bilirdinizmi #heydərəliyevmərkəzi #zahahadid #bakı #memarlıq",
+   "caption": "Heydər Əliyev Mərkəzini kim layihələndirib? 🏛️ Sənin cavabın? 👇\n\nNorman Foster, Zaha Hədid, yoxsa Frank Geri? Cavab videonun sonundadır.\n\nCavab: Zaha Hədid. Bina 2012-ci ildə açıldı. Hündürlüyü 74 metr, sahəsi 57 500 kvadratmetrdir. 2014-cü ildə Londonun Dizayn Muzeyi onu 70-dən çox layihənin arasından «İlin dizaynı» seçdi. Ən maraqlısı: Zaha Hədid bu mükafatı qazanan ilk qadın oldu, bina isə onu qazanan ilk memarlıq layihəsi.\n\n📩 Memarlığı sevən dostuna göndər 🏛️\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nFoto: İltun Huseynli / Unsplash\n\n#bilirdinizmi #heydərəliyevmərkəzi #zahahadid #bakı #memarlıq",
    "first_comment": "Düz tapdın? Cavabını yaz 👇",
    "youtube_title": "Heydər Əliyev Mərkəzini kim layihələndirib? Zaha Hədid #shorts",
    "photo": {
@@ -73,7 +73,18 @@
     "https://www.dezeen.com/?p=487320",
     "https://www.bdcnetwork.com/zaha-hadids-flowing-heydar-aliyev-center-named-design-year-2014",
     "https://www.designboom.com/architecture/zaha-hadid-heydar-aliyev-center-design-of-the-year-2014-07-01-2014/"
-   ]
+   ],
+   "caption_original": "Heydər Əliyev Mərkəzini kim layihələndirib? 🏛️\n\nCavab: Zaha Hədid. Tikinti 2007-ci ildə başladı, bina 2012-ci ildə açıldı. Hündürlüyü 74 metr, sahəsi 57 500 kvadratmetrdir. 2014-cü ildə Londonun Dizayn Muzeyi onu 70-dən çox layihənin arasından «İlin dizaynı» seçdi. Ən maraqlısı: Zaha Hədid bu mükafatı qazanan ilk qadın oldu, bina isə onu qazanan ilk memarlıq layihəsi.\n\n📩 Memarlığı sevən dostuna göndər 🏛️\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nFoto: İltun Huseynli / Unsplash\n\n#bilirdinizmi #heydərəliyevmərkəzi #zahahadid #bakı #memarlıq",
+   "caption_note": "Guess format: answer moved below a 'Cavab videonun sonundadır' line so the caption's first line doesn't spoil it.",
+   "build": {
+    "file": "out/2026-11-24/1_reel.mp4",
+    "dur_s": 29.1,
+    "voice": null,
+    "sound": "pure silence (volumedetect max -91.0 dB)",
+    "photo_used": "fetch/img/2026-11-24_1_hac_a.jpg",
+    "spec": "out/2026-11-24/1_reel_spec.json",
+    "edits": "factgen.py: new '__CD__' beat = visible 3-2-1 countdown (gold circle, 1 s per number, no tick — silent rule) + per-beat 'pills' (SUAL/İPUCU/SƏNİN CAVABIN?/CAVAB/ƏN MARAQLISI). Hook split into 2 lines ('…QABAQLADI.' / 'BU BİNANIN MEMARI KİMDİR?'). Frames checked: AZ letters OK, text inside safe zone."
+   }
   },
   {
    "n": 2,
@@ -131,5 +142,20 @@
     "https://en.wikipedia.org/wiki/Women%27s_suffrage"
    ]
   }
- ]
+ ],
+ "ig_type": "REEL (trial reels suspended)",
+ "media": {
+  "13:00 Heydər Əliyev Mərkəzi (guess)": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-24_1300_heydar_aliyev_center_guess_silent.mp4"
+ },
+ "metricool": {
+  "13:00 reel (Heydər Əliyev Mərkəzi guess, static, silent, IG REEL)": 439090425
+ },
+ "tiktok": {
+  "13:00 Heydər Əliyev Mərkəzi guess": 439090712
+ },
+ "youtube": {
+  "13:00 Heydər Əliyev Mərkəzi guess": 439090473
+ },
+ "pending_schedule": null,
+ "scheduled_check": "20:50 23 Nov: getScheduledPosts for 24 Nov empty before creating; no pending_schedule in 20–23 Nov JSONs. One post per network created (TikTok first attempt rejected 'TikTok title is required' → retried with tiktokData.title, OK). Re-checked: exactly 3 posts at 13:00."
 }

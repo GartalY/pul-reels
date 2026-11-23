@@ -102,6 +102,9 @@ def reel(photo, out, c):
     # v2 (2026-10-19): first 3 s were losing ~70% of viewers -> hook fully visible on frame 0, faster beats, ~12 s total
     HK, OUT = c.get("hook_s", 2.0), 1.6   # 2026-11-18: hook_s for MYTH vs FACT (myth must be readable + the red X)
     BTS = [max(2.2, 0.3 * len(b.split()) + 0.6) for b in beats]   # reading time per beat (~3.3 words/s)
+    # 2026-11-23 GUESS THE ANSWER: a beat "__CD__" = visible 3-2-1 countdown (1 s per number) before the reveal
+    BTS = [3.0 if b == "__CD__" else x for b, x in zip(beats, BTS)]
+    PILLS = c.get("pills")   # optional per-beat pill labels (e.g. SUAL / İPUCU / CAVAB)
     VO = c.get("voice")   # 2026-10-25: optional voice-over, list of mp3s [hook, beat1, ...] from voice.py
     if VO:
         def adur(f): return float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration",
@@ -159,10 +162,21 @@ def reel(photo, out, c):
             if k < len(beats) - 1: a *= 1 - ease((sb - (BTS[k] - 0.25)) / 0.25)
             # v5 2026-10-27: TikTok/Shorts SAFE ZONE — keep text left of the right-hand buttons (x <= 890) and above
             # the caption overlay (y <= ~1450); before, beats ran under TikTok's buttons and caption.
+            if beats[k] == "__CD__":
+                n = 3 - min(2, int(sb)); f1 = sb - int(sb)
+                sc = 1.0 + 0.35 * (1 - ease(f1 / 0.22)); r = int(150 * sc); cx0, cy0 = W // 2 - 50, 1180
+                ImageDraw.Draw(fr, "RGBA").ellipse([cx0 - r - 18, cy0 - r - 18, cx0 + r + 18, cy0 + r + 18], fill=INK + (200,))
+                d.ellipse([cx0 - r, cy0 - r, cx0 + r, cy0 + r], fill=GOLD)
+                fn = F("Black", int(200 * sc)); bb = d.textbbox((0, 0), str(n), font=fn)
+                d.text((cx0 - (bb[0] + bb[2]) / 2, cy0 - (bb[1] + bb[3]) / 2), str(n), font=fn, fill=INK)
+                pill(d, 70, 900, PILLS[k] if PILLS else "SƏNİN CAVABIN?", F("Black", 40), GOLD, INK)
+                d.rectangle([0, H - 8, W * t / dur, H], fill=GOLD)
+                fr.save(f"{tmp}/{i:05d}.jpg", quality=90); continue
             nl = len(wrap(d, beats[k], F("Bold", 56), SAFE_W))   # dark backing so text reads on bright photos too
             ImageDraw.Draw(fr, "RGBA").rounded_rectangle([40, 1040, 70 + SAFE_W + 30, 1060 + nl * 70 + 30], 28,
                                                          fill=INK + (int(185 * a),))
-            pill(d, 70, 960, c.get("first_pill", "BİLİRDİNİZMİ?") if k == 0 else f"{k + 1}/{len(beats)}", F("Black", 40), GOLD, INK)
+            pill(d, 70, 960, PILLS[k] if PILLS else (c.get("first_pill", "BİLİRDİNİZMİ?") if k == 0 else f"{k + 1}/{len(beats)}"),
+                 F("Black", 40), GOLD, INK)
             text_block(d, 70, 1060 + (1 - a) * 40, beats[k], F("Bold", 56), tuple(int(x * a) for x in WHITE), SAFE_W)
         msg = c.get("cta", "Hər gün yeni fakt — izlə!")   # 2026-10-29: cta "" = no pill (sober/tragedy reels)
         if msg and t > dur - OUT:

@@ -1,0 +1,24 @@
+{
+ "hook": "70-DƏN ÇOX LAYİHƏNİ QABAQLADI.\nBU BİNANIN MEMARI KİMDİR?",
+ "beats": [
+  "Bakıdakı Heydər Əliyev Mərkəzini kim layihələndirib?\nA) Norman Foster\nB) Zaha Hədid\nC) Frank Geri",
+  "İpucu: 2014-cü ildə Londonun Dizayn Muzeyi bu binanı «İlin dizaynı» seçdi. 70-dən çox layihənin arasından!",
+  "__CD__",
+  "Cavab: B) Zaha Hədid! Bina 2012-ci ildə açıldı. Hündürlüyü 74 metr, sahəsi 57 500 kvadratmetrdir.",
+  "Ən maraqlısı: bu mükafatı ilk dəfə bir qadın qazandı — Zaha Hədid. Bina isə onu qazanan ilk memarlıq layihəsi oldu."
+ ],
+ "pills": [
+  "SUAL",
+  "İPUCU",
+  "SƏNİN CAVABIN?",
+  "CAVAB",
+  "ƏN MARAQLISI"
+ ],
+ "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+ "seed": 24,
+ "cy": 0.4,
+ "cx": 0.5,
+ "full": true,
+ "hook_bg": true,
+ "hook_s": 2.6
+}

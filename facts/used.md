@@ -57,3 +57,4 @@
 - 2026-11-22 trend (09:10 pick for 18:30, Gartal override, PHOTO STORY): Riemann hypothesis claim — Levent Alpöge + Claude, 20 Nov, 175 187 Lean files, 250 000+ pages, not yet verified by mathematicians
 - 2026-11-23 trend (09:10 pick for 18:30, DATA): Sabah – Barcelona UCL MD5 25 Nov 21:45 Baku Olympic Stadium; Sabah 2017 vs Barça 1899 (127 on 29 Nov), 4 qual. rounds / 8 games / 18 goals, 3 vs 9 pts; TikTok swap → Baku population data
 - 2026-11-24 (planned): Heydar Aliyev Center → Zaha Hadid, Design of the Year 2014 (first woman, first building), 74 m, 57 500 m² (13:00 GUESS static) · women's suffrage 21 Jul 1919, 20+, Muslim East first; USA 1920 … Switzerland 1971 (+52) (18:30 animated DATA backup)
+- 2026-11-24 13:00: Heydər Əliyev Mərkəzi → Zaha Hədid (guess, static)

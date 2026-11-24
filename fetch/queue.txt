@@ -703,3 +703,10 @@ s1123w_northpole.json https://commons.wikimedia.org/w/api.php?action=query&forma
 2026-11-23_w_npole_ice.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/North_Pole%2C_Arctic_Ocean%2C_sea_ice_04.jpg/1920px-North_Pole%2C_Arctic_Ocean%2C_sea_ice_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 search_bottlehouse.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1920&gsrsearch=Bottle%20house%20Ganja
 search_beluga.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1920&gsrsearch=Huso%20huso
+search_bottlehouse2.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1920&gsrsearch=Ganja%20bottle
+search_bottlehouse3.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1920&gsrsearch=Butulka%20evi
+2026-11-25_1_bottle_a.jpg https://upload.wikimedia.org/wikipedia/commons/3/3e/Bottle_house.jpg
+2026-11-25_1_bottle_b.jpg https://upload.wikimedia.org/wikipedia/commons/8/83/Bottle_house_2.jpg
+2026-11-25_1_bottle_c.jpg https://upload.wikimedia.org/wikipedia/commons/b/b5/Bottle_house_3.jpg
+2026-11-25_2_beluga_a.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/%D0%91%D1%96%D0%BB%D1%83%D0%B3%D0%B0_%28Huso_huso%29.jpg/1920px-%D0%91%D1%96%D0%BB%D1%83%D0%B3%D0%B0_%28Huso_huso%29.jpg
+2026-11-25_2_beluga_b.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Hausen_%28Huso_huso_L.%29.JPG/1920px-Hausen_%28Huso_huso_L.%29.JPG

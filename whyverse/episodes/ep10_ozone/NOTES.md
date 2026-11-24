@@ -1,6 +1,6 @@
 # Ep10 — COP31 Failed. So How Did the World Once Fix the Ozone Hole? — NOTES
 
-status: DONE — scheduled (YouTube Tue 24 Nov 2026 19:00 London / 23:00 Baku; cut Short YouTube/Instagram/TikTok Wed 25 Nov 23:00 London / Thu 26 Nov 03:00 Baku; see ../../posts.json, PUBLISH.md)
+status: DONE — PUBLISHED Tue 24 Nov 2026 19:00 London / 23:00 Baku (https://www.youtube.com/watch?v=na-wXHMS4Q0, Metricool 439552790; thumbnail + .srt sent to Gartal 19:15 London); cut Short YouTube/Instagram/TikTok Wed 25 Nov 23:00 London / Thu 26 Nov 03:00 Baku; see ../../posts.json, PUBLISH.md)
 
 - **Timing:** the run started Mon 23 Nov 20:24 London (Tue 24 Nov 00:24 Baku, HTTP Date header from pypi.org). Baku "today" = Tue 24 Nov → long video Tue 19:00 London;
   the cut Short the day after at 23:00 London (never 19:00 Baku — the daily trend Short's slot).

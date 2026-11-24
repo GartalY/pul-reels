@@ -1,12 +1,12 @@
 {
  "date": "2026-11-24",
- "status": "13:00 scheduled (static GUESS Heydər Əliyev Mərkəzi → Zaha Hədid, no voice, silent track, IG REEL); 18:30 animated Arif reel = 14:47/15:23 tasks",
+ "status": "13:00 scheduled (static GUESS Heydər Əliyev Mərkəzi → Zaha Hədid, no voice, silent track, IG REEL); 18:30 animated Arif reel scheduled IG/TT/YT (Huang back at Nvidia, 15:45 Baku)",
  "format": "v4",
  "content_format": "quality_reset_2026-11-12",
  "planned_note": "Planned in the 2026-11-23 09:10 run. Tue 24 Nov: 13:00 = GUESS THE ANSWER static photo reel (3 NEW FORMATS table, Tue) from facts[0] Heydar Aliyev Center → Zaha Hadid (no voice, silent track, IG normal REEL; photo fetched + checked). 18:30 = freshest AZ story (09:10 on 24 Nov) or facts[1] DATA/animated backup: women's suffrage 21 Jul 1919 vs USA 1920 … Switzerland 1971 (Arif). Week 23–29 Nov: sports 1/2 (Sabah–Barça trend 23 Nov), space 0/2. Categories: architecture/culture + history. No carousels/quizzes/stories.",
  "format_log": {
   "13:00": "guess",
-  "18:30": "trend (09:10 pick: Huang back at Nvidia; backup facts[1] data)"
+  "18:30": "trend"
  },
  "facts": [
   {
@@ -281,6 +281,47 @@
   "arif_generated_at": "14:54 Baku 24 Nov (2nd attempt; 1st at ~14:50 was 'busy', not charged)",
   "transcript_check": "Scribe transcription was 'busy' (not charged) → words.json is approximate (sentence anchors from silencedetect on the slowed file, words spread by letter count). Sentence pauses 0.35–0.57 s (≥0.3 s rule OK).",
   "credits_left_after": "2 450 of 10 000 until 13 Dec (usage 7 233 before this take)",
-  "caption_credit": "Səs: elevenlabs.io"
+  "caption_credit": "Səs: elevenlabs.io",
+  "build": {
+   "dir": "reels/2026-11-24_1830",
+   "duration_s": 25.4,
+   "fps": 60,
+   "size_mb": 9.9,
+   "lufs": -14.2,
+   "true_peak_dbtp": -1.3,
+   "sfx_db": -9,
+   "music": "none (silence)",
+   "critique_rounds": 3,
+   "built_at": "15:44 Baku",
+   "cover_ms": 2900,
+   "timing": "approx words (sentence anchors from silencedetect, matched 15:40); subtitle phrases of 3–6 words",
+   "look": "PHOTO STORY + fixed SUBTITLE BAR (VIEWER FEEDBACK 24 Nov): hook '1 GÜNDƏ +950 MİLYARD $ · CENSEN HUANQ · «NVIDIA»' on frame 0 over the CES 2025 keynote arena; name plate; calendar 12 NOYABR → İSTEFA; calendar flip 12→23 + 8 board checks + GERİ QAYITDI; stock line +0→+31,5% over blurred Nasdaq screens + GPU die; 12 AZ-flag blocks = one green +950 bar, 12×; end card BƏYƏN/İZLƏ + 'Texnologiyanı sevən dostuna göndər'",
+   "photos": [
+    "Joseph Zadeh, CES 2025 keynote, CC BY-SA 4.0",
+    "Peter Dasilva 2024, CC BY 4.0",
+    "Anders Eidesvik, Stanford 2026-04-30 010 (cropped), CC BY-SA 4.0",
+    "Anders Eidesvik, Stanford 2026-04-30 006, CC BY 4.0",
+    "Anders Eidesvik, Stanford 2026-04-09 033, CC BY 4.0",
+    "Daniel J. Prostak, Nvidia Endeavor entry, CC BY-SA 4.0",
+    "NVIDIA Taiwan, Computex 2016, CC BY 2.0",
+    "Masaru Kamikura, Computex 2010, CC BY 2.0",
+    "Luca Marfè, Nasdaq MarketSite 2015, CC BY 2.0 (blurred background, logos unreadable)",
+    "Fritzchens Fritz, GM200 die shot, CC0",
+    "Mohammad Wasim / Unsplash, Flame Towers"
+   ],
+   "agency_photos": []
+  },
+  "posted": {
+   "instagram": 440153126,
+   "tiktok": 440153146,
+   "youtube": 440153169,
+   "time": "18:30",
+   "ai_label": true,
+   "format": "trend",
+   "media": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-24_1830_huanq_nvidia.mp4",
+   "first_comment": "Sən 950 milyard dollarla nə edərdin? 👇",
+   "send_line": "📩 Texnologiyanı sevən dostuna göndər 💻",
+   "caption": "Censen Huanq «Nvidia»ya qayıtdı: 1 gündə +950 milyard dollar 📈\n\n12 noyabrda Censen Huanq «Nvidia»nın baş direktoru vəzifəsindən istefa vermişdi. 11 gün sonra, 23 noyabrda, şirkətin direktorlar şurası onu yekdilliklə yenidən baş direktor təyin etdi. Elə həmin gün «Nvidia»nın səhmləri 31,5% bahalaşdı — bu, şirkət üçün son 23 ilin ən yaxşı günüdür. Şirkətin bazar dəyəri bir gündə 950 milyard dollardan çox artdı. Müqayisə üçün: Azərbaycanın 2025-ci ildəki ümumi daxili məhsulu 129,1 milyard manat, yəni təxminən 76 milyard dollar olub. Şirkətdəki müstəqil araşdırma isə davam edir.\n\n📩 Texnologiyanı sevən dostuna göndər 💻\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nMənbələr: nvidianews.nvidia.com, sec.gov, aljazeera.com, investing.com, report.az\nFoto: Joseph Zadeh (CC BY-SA 4.0); Peter Dasilva (CC BY 4.0); Anders Eidesvik (CC BY-SA 4.0, CC BY 4.0); Daniel J. Prostak (CC BY-SA 4.0); NVIDIA Taiwan (CC BY 2.0); Masaru Kamikura (CC BY 2.0); Luca Marfè (CC BY 2.0); Fritzchens Fritz (CC0) — Wikimedia Commons; Mohammad Wasim / Unsplash\nSəs: elevenlabs.io\n\n#bilirdinizmi #nvidia #censenhuanq #birja #texnologiya"
+  }
  }
 }

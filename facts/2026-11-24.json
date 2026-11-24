@@ -6,7 +6,7 @@
  "planned_note": "Planned in the 2026-11-23 09:10 run. Tue 24 Nov: 13:00 = GUESS THE ANSWER static photo reel (3 NEW FORMATS table, Tue) from facts[0] Heydar Aliyev Center → Zaha Hadid (no voice, silent track, IG normal REEL; photo fetched + checked). 18:30 = freshest AZ story (09:10 on 24 Nov) or facts[1] DATA/animated backup: women's suffrage 21 Jul 1919 vs USA 1920 … Switzerland 1971 (Arif). Week 23–29 Nov: sports 1/2 (Sabah–Barça trend 23 Nov), space 0/2. Categories: architecture/culture + history. No carousels/quizzes/stories.",
  "format_log": {
   "13:00": "guess",
-  "18:30": "trend (backup: facts[1] data)"
+  "18:30": "trend (09:10 pick: Huang back at Nvidia; backup facts[1] data)"
  },
  "facts": [
   {
@@ -157,5 +157,85 @@
   "13:00 Heydər Əliyev Mərkəzi guess": 439090473
  },
  "pending_schedule": null,
- "scheduled_check": "20:50 23 Nov: getScheduledPosts for 24 Nov empty before creating; no pending_schedule in 20–23 Nov JSONs. One post per network created (TikTok first attempt rejected 'TikTok title is required' → retried with tiktokData.title, OK). Re-checked: exactly 3 posts at 13:00."
+ "scheduled_check": "20:50 23 Nov: getScheduledPosts for 24 Nov empty before creating; no pending_schedule in 20–23 Nov JSONs. One post per network created (TikTok first attempt rejected 'TikTok title is required' → retried with tiktokData.title, OK). Re-checked: exactly 3 posts at 13:00.",
+ "trend": {
+  "n": "T",
+  "type": "reel",
+  "format": "animated_1830",
+  "content_format": "trend",
+  "post_format": "trend",
+  "look": "BIG STORY = BIG TREATMENT: PHOTO STORY (real photos of Jensen Huang, Nvidia HQ/logo-free building shots) + a running stock counter / scoreboard (+0% → +31,5%, $0 → $950 mlrd)",
+  "cat": "Pul və biznes / Texnologiya",
+  "hook_type": "number-first (950 milyard dollar, 1 gün) + comparison payoff (Azərbaycan ÜDM ×12)",
+  "picked_at": "09:15–10:30 Baku 24 Nov (1st trend check)",
+  "rule_note": "Biggest fresh story in AZ feeds (NEVER LOCK A TOPIC 22 Nov): Nvidia reinstated Jensen Huang as CEO on Mon 23 Nov, 11 days after he resigned; stock +31.5% (best day since 2003), +$950 bn market value. Covered by report.az, axar.az (2 stories), milli.az, bakupost.az, azadliq, azernews. Not football → no TikTok swap. Not space/sports → quotas untouched (week 23–29 Nov: sports 1/2, space 0/2). AZ POLITICS RULE: n/a (US story; Trump quoted neutrally). Scandal details (affairs, named woman) deliberately LEFT OUT — gossip; we use only Nvidia's own wording ('target of a foreign intelligence effort') and say 'bildirilir'.",
+  "subject": "Jensen Huang (co-founded Nvidia in 1993 — TechCrunch) resigned as CEO on 12 Nov 2026 (Al Jazeera; Investing.com 'abrupt resignation on November 12'); CFO Colette Kress was interim CEO (Al Jazeera, Nvidia release). On Mon 23 Nov 2026 the board 'voted unanimously to reinstate Mr. Huang' as President, CEO and board director, 'effective immediately' (nvidianews.nvidia.com release 23 Nov). Release: board 'received input from senior levels of the United States government' and is 'confident that Mr. Huang's reinstatement poses no national security risk'; it refers to 'recent reporting that Mr. Huang has been the target of a foreign intelligence effort'; the independent investigation continues ('will proceed to conclusion'). Stock 23 Nov: NVDA closed $165.05, +31.48% (Investing.com ticker; text 'soared 31.5%'), 'best day in over 23 years' / since 9 May 2003 (Investing headline/text), market value added 'over $950 billion' (Investing; World Today Journal '31.5%, adding $952 billion'; Yahoo Finance live 'Nvidia stock soars 31%'; CNBC headline 'Stock skyrockets 31%'). Wall Street best day since April 2025 (Investing/Yahoo). Trump on Truth Social: 'correct and proper decision' (Al Jazeera; report.az 'Tramp: Huanqın Nvidia-ya qayıdışı düzgün qərardır'). Petition for his return >180 000 signatures (Al Jazeera). Huang to appear before US Congress committees in early December (Investing). Days out: 12→23 Nov = 11 days. AZ comparison: Azerbaijan GDP 2025 = 129.1 bn manat (report.az 'Azerbaijan's GDP reaches 129.1B manats in 2025', State Statistics Committee) ≈ $75.9 bn at the fixed 1.70 AZN/USD → $950 bn ≈ 12.5× → say '12 dəfədən çox'.",
+  "reel_hook": "1 GÜNDƏ 950 MİLYARD DOLLAR: CENSEN HUANQ «NVIDIA»YA QAYITDI",
+  "hook_options": [
+   "1 GÜNDƏ 950 MİLYARD DOLLAR: CENSEN HUANQ «NVIDIA»YA QAYITDI",
+   "11 GÜN SONRA GERİ: «NVIDIA» 1 GÜNDƏ 31% BAHALAŞDI",
+   "AZƏRBAYCANIN İLLİK İQTİSADİYYATININ 12 MİSLİ — 1 GÜNDƏ",
+   "23 İLİN ƏN YAXŞI GÜNÜ: HUANQ QAYITDI, 950 MİLYARD GƏLDİ",
+   "İSTEFA → 11 GÜN → QAYIDIŞ: 950 MİLYARD DOLLARLIQ GÜN"
+  ],
+  "hook_pick_reason": "Number + superlative (ən yaxşı gün) + emotion (shock of the sum); names the subject in frame 0 (ALWAYS NAME IT). The AZ GDP ×12 comparison is saved for the payoff.",
+  "reel_beats": [
+   "23 noyabr: «Nvidia»nın direktorlar şurası Censen Huanqı yenidən baş icraçı direktor təyin etdi — yekdilliklə.",
+   "Huanq 12 noyabrda istefa vermişdi. Şirkət bildirir ki, mətbuatda onun xarici kəşfiyyatın hədəfi olduğu yazılırdı; araşdırma davam edir.",
+   "Qayıdış günü «Nvidia»nın səhmləri 31,5% bahalaşdı — 2003-cü ildən bəri ən yaxşı gün. Şirkətin dəyəri 1 gündə 950 milyard dollardan çox artdı.",
+   "Şura ABŞ hökumətinin yüksək rəsmilərindən rəy aldığını açıqladı. Prezident Tramp qərarı «düzgün» adlandırdı."
+  ],
+  "payoff": "Ən maraqlısı: «Nvidia»nın 1 gündə qazandığı bu dəyər Azərbaycanın 2025-ci ildəki bütün ÜDM-indən (təxminən 76 milyard dollar) 12 dəfədən çoxdur.",
+  "twist": "11 gün kənarda → 1 gündə 950 milyard dollar; loop: payoff '…12 dəfədən çox' → hook '1 gündə 950 milyard dollar'.",
+  "voice_texts": [
+   "Bir gündə doqquz yüz əlli milyard dollar! Censen Huanq «Nvidia»ya qayıtdı.",
+   "Huanq on iki noyabrda istefa vermişdi. On bir gün sonra şura onu yenidən baş direktor təyin etdi.",
+   "Elə həmin gün «Nvidia»nın səhmləri otuz bir faiz bahalaşdı — iki min üçüncü ildən bəri ən yaxşı gün.",
+   "Şura qərardan əvvəl ABŞ hökumətindən rəy aldığını açıqladı. Araşdırma isə davam edir.",
+   "Ən maraqlısı: bir gündə qazanılan bu dəyər Azərbaycanın bütün illik iqtisadiyyatından on iki dəfə çoxdur!",
+   "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
+  ],
+  "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+  "send_line": "📩 Səhm və texnologiya sevən dostuna göndər 📈",
+  "caption": "Censen Huanq «Nvidia»ya qayıtdı: 1 gündə +950 milyard dollar 📈\n\n23 noyabrda «Nvidia»nın direktorlar şurası 12 noyabrda istefa verən Censen Huanqı yekdilliklə yenidən baş icraçı direktor təyin etdi. Şura ABŞ hökumətinin yüksək rəsmilərindən rəy aldığını bildirib; şirkət daxilində araşdırma isə davam edir. Həmin gün səhmlər 31,5% bahalaşdı — 2003-cü ildən bəri ən yaxşı gün — və şirkətin dəyəri 950 milyard dollardan çox artdı. Ən maraqlısı: bu, Azərbaycanın 2025-ci ildəki bütün ÜDM-indən (təxminən 76 milyard dollar) 12 dəfədən çoxdur.\n\n📩 Səhm və texnologiya sevən dostuna göndər 📈\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nSəs: elevenlabs.io\n\n#bilirdinizmi #nvidia #censenhuanq #səhmlər #texnologiya",
+  "first_comment": "Sənin fikrincə, bir şirkətin taleyi bir insandan bu qədər asılı olmalıdır? 👇",
+  "youtube_title": "Censen Huanq «Nvidia»ya qayıtdı: 1 gündə 950 milyard dollar #shorts",
+  "visual_ideas": [
+   "Frame 0: giant '$950 000 000 000' counter rolling up from 0 with '1 GÜN' stamp; Huang's name + real photo (Wikimedia Commons CC — search 'Jensen Huang' via fetch job, several ages/events: Computex keynotes, GTC, 2010s portrait) per MANY PHOTOS rule; no agency photos unless Commons has < 4.",
+   "Calendar strip 12 → 23 Nov with a red 'İSTEFA' tag on 12 and green 'QAYITDI' on 23; the days tick over (11 gün).",
+   "Stock line chart that collapses then shoots up a cliff (+31,5%) — label '2003-cü ildən bəri ən yaxşı gün'; ticker tape NVDA 165,05 $.",
+   "Board table with 'YEKDİLLİK' vote stamps; a neutral US Capitol silhouette for 'ABŞ hökuməti rəy verdi' — no Trump photo needed (quote as text only).",
+   "Payoff: two coin stacks / bars — Azerbaijan GDP 2025 ~$76 mlrd (1 bar) vs Nvidia 1-day gain $950 mlrd (12+ bars) filling the screen; AZ flag colour on the small bar.",
+   "Progress counter top-right 1/5 → 5/5; word-by-word captions, key numbers in accent colour; SFX: tick, whoosh, impact (no melody)."
+  ],
+  "context_check": "(1) 'Best day' = Investing.com: best day since 9 May 2003 / 'in over 23 years' — say '2003-cü ildən bəri'. (2) 31.5% is the CLOSE (Investing); Al Jazeera's 'more than 33%' was intraday at open, TechCrunch 27% pre-market → use 31,5% only. (3) $950 bn = market value ADDED (Investing 'over $950 billion', WTJ $952 bn) — not profit; say 'dəyəri artdı', never 'qazandı pul'. Payoff wording compares market value to GDP: apples-to-oranges, so it is framed as scale ('dəyər'), not 'more money than Azerbaijan earns'. (4) Scandal: NO espionage charges (Investing); not cleared either — investigation continues; we say only Nvidia's own wording + 'araşdırma davam edir'. No mention of affairs/named persons (gossip, private individuals). (5) Trump's exact role disputed in strength (TechCrunch 'appears'); we quote only the board's 'input from senior levels of the US government' + Trump's public 'correct and proper decision'. (6) He appears before Congress committees in early December — a follow-up hook, not used.",
+  "language_check": "Censen Huanq (AZ media spelling: report.az, axar.az 'Huanq'; ikisahil 'Censen Huan' — use 'Censen Huanq'), «Nvidia» in guillemets, 31,5% with comma, 950 milyard, ÜDM. Numbers written out in voice_texts.",
+  "sources": [
+   "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+   "https://www.aljazeera.com/economy/2026/11/23/nvidia-board-reinstates-jensen-huang-as-ceo",
+   "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+   "https://www.investing.com/news/stock-market-news/nvidia-shares-surge-30-as-board-announces-jensen-huangs-reinstatement-5045795",
+   "https://world-today-journal.com/nvidia-reinstates-jensen-huang-as-ceo-after-white-house-intervention-shares-surge-31-5-adding-952-billion-in-market-value/",
+   "https://report.az/diger-olkeler/tramp-huanqin-nvidia-ya-qayidisi-duzgun-qerardir",
+   "https://axar.az/news/planet/1151877.html",
+   "https://report.az/en/finance/azerbaijan-s-gdp-reaches-129-1b-manats-in-2025"
+  ],
+  "source_scan": "09:15–10:30 Baku 24 Nov: WebSearch 'Azerbaijan news 24 November 2026' (trend.az: construction loans +82%, Hormuz tankers hit mines, Hormuz record transit; azernews: Netanyahu on Huang's return), apa.az homepage (Yemen strikes, Baku traffic, US Navy to Middle East), 'Azərbaycan xəbərlər 23 noyabr', world briefs 23 Nov (Democracy Now, AA, 10things); sports: Barcelona landed in Baku 23 Nov evening (apa.az 538065, trend.az 4249879, idman.biz 168159/168236/168143); report.az misc (surfcasting, Shukina 3-pt contest). AZ-angle searches for the Huang story: 'Nvidia Censen Huanq yenidən', '\"Nvidia\" Azərbaycan Huanq Bakı' → AZ coverage everywhere (report.az, axar.az ×2, milli.az, bakupost.az, azadliq.org, ikisahil.az, operativmedia.az) but no AZ person/place IN the story; only past Nvidia–Azerconnect/AI-infrastructure items (report.az) → AZ angle = GDP comparison payoff.",
+  "tiktok_swap": false,
+  "runner_ups": [
+   {
+    "story": "Sabah – Barcelona, UCL MD5, Wed 25 Nov 21:45 Baku, Olympic Stadium: Barça landed in Baku on 23 Nov evening (apa.az 538065, trend.az 4249879); Flick: trip 'part of our job and a privilege' (idman.biz 168143); a fourth-division (Barça Atlètic/youth) player could debut in Baku (idman.biz 168236).",
+    "note": "Biggest AZ story overall but we did it on 23 Nov (DATA, 9 vs 127 years). 15:23: swap only if something new and big breaks today (record crowd announced, sold-out, a star's Baku moment). Otherwise keep it for 25 Nov 09:10 (match day, result after our 18:30 slot) and 26 Nov result. Football → TikTok swap applies if picked."
+   },
+   {
+    "story": "Gukesh – Sindarov World Chess Championship, Geneva, Game 1 on 24 Nov",
+    "note": "Non-football; check 15:23 for an AZ angle (AZ seconds/arbiters, Baku 2026 Olympiad link) per AZ ANGLE INSIDE WORLD STORIES; result of G1 only tonight."
+   },
+   {
+    "story": "Strait of Hormuz: three oil tankers hit mines (trend.az 4249909)",
+    "note": "Conflict/tragedy rules — sober mode only (how sea mines work / Hormuz carries a fifth of world oil), no damage photos; only if it becomes the dominant story by 15:23."
+   }
+  ],
+  "follow_up": "Huang appears before US Congress committees in early December (Investing) — possible follow-up trend then."
+ }
 }

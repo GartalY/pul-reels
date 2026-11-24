@@ -58,3 +58,5 @@
 - 2026-11-23 trend (09:10 pick for 18:30, DATA): Sabah – Barcelona UCL MD5 25 Nov 21:45 Baku Olympic Stadium; Sabah 2017 vs Barça 1899 (127 on 29 Nov), 4 qual. rounds / 8 games / 18 goals, 3 vs 9 pts; TikTok swap → Baku population data
 - 2026-11-24 (planned): Heydar Aliyev Center → Zaha Hadid, Design of the Year 2014 (first woman, first building), 74 m, 57 500 m² (13:00 GUESS static) · women's suffrage 21 Jul 1919, 20+, Muslim East first; USA 1920 … Switzerland 1971 (+52) (18:30 animated DATA backup)
 - 2026-11-24 13:00: Heydər Əliyev Mərkəzi → Zaha Hədid (guess, static)
+- 2026-11-24 trend (09:10 pick for 18:30): Nvidia reinstates Jensen Huang 23 Nov after 11 days (resigned 12 Nov) — +31.5%, +$950 bn in a day, best since 2003; ≈12× AZ GDP 2025
+- 2026-11-25 (planned): Ganja Bottle House — 48 000 bottles, İbrahim Cəfərov 1966–67, brother Yusif missing in WWII, 'Gəncə' written while city = Kirovabad (13:00 static) · beluga (bölgə) 1 571 kg / 7.2 m 1827 Volga, largest freshwater fish, CR, 100+ vs 56 years (18:30 animated backup)

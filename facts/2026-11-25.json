@@ -1,0 +1,147 @@
+{
+ "date": "2026-11-25",
+ "status": "planned",
+ "format": "v4",
+ "content_format": "quality_reset_2026-11-12",
+ "planned_note": "Planned in the 2026-11-24 09:10 run. Wed 25 Nov (no special format day): 13:00 = static photo+words reel from facts[0] Bottle House of Ganja (48 000 bottles, 1966–67, in memory of a brother missing in WWII; 'Gəncə' written in bottles while the city was officially Kirovabad) — no voice, silent track, IG normal REEL. 18:30 = freshest AZ story at 09:10 on 25 Nov (Sabah – Barcelona is match day, kick-off 21:45 = after our slot) or facts[1] animated backup: beluga sturgeon (Arif). Categories: culture/places + animals/nature. Week 23–29 Nov: sports 1/2, space 0/2. No carousels/quizzes/stories.",
+ "format_log": {
+  "13:00": "fact",
+  "18:30": "trend (backup: facts[1] fact/animated)"
+ },
+ "facts": [
+  {
+   "n": 1,
+   "type": "reel",
+   "slot": "13:00",
+   "static": true,
+   "voiced": false,
+   "format": "fact",
+   "cat": "Məkanlar / Gəncə",
+   "subject": "Bottle House of Ganja (Gəncə, corner of Hüseyn Cavid and Qəmbər Hüseynli streets): built 1966–67 by Ganja resident İbrahim Cəfərov (Wikipedia: 'built by Ibrahim Jafarov … in 1966-67', infobox 1966 → 1967; azerbaijan.travel: 'completed in 1967 by Ibrahim Jafarov'). '48000 bottles were used' (Wikipedia) / '48,000 bottles of different sizes and colours' (azerbaijan.travel), plus 'colorful stones brought from Sochi' (Wikipedia). Two storeys (both). Dedicated to the memory of his brother who went missing in World War II (both); 'a big portrait of missing brother Yusif Jafarov' under the roof at the front (Wikipedia). The word 'Ganja' is written on several parts with bottle bottoms, while the city was officially 'Kirovabad (1935-1989)' (Wikipedia); walls also mention the 1980 Moscow Olympics (Wikipedia; our photo b shows 'ОЛИМПИАДА' in bottles). Private property / private residence, no fee (Wikipedia, Atlas Obscura). NOT used: exact number of stones, current owner name, '1967' inscription wording.",
+   "title": "48 000 butulkadan ev: qardaşın xatirəsi",
+   "text": "Gəncədə 48 000 şüşə butulkadan tikilmiş iki mərtəbəli ev var. İbrahim Cəfərov onu müharibədə itkin düşən qardaşının xatirəsinə tikib.",
+   "reel_hook": "48 000 BUTULKA: GƏNCƏDƏ BİR QARDAŞIN XATİRƏSİNƏ TİKİLƏN EV",
+   "hook_options": [
+    "48 000 BUTULKA: GƏNCƏDƏ BİR QARDAŞIN XATİRƏSİNƏ TİKİLƏN EV",
+    "GƏNCƏNİN ƏN QƏRİBƏ EVİ: 48 000 ŞÜŞƏ BUTULKA",
+    "1 İNSAN, 48 000 BUTULKA, 1 İTKİN QARDAŞ",
+    "BU EVİN DİVARLARI 48 000 BUTULKADANDIR",
+    "ŞƏHƏRİN ADI KİROVABAD İDİ, O İSƏ DİVARA «GƏNCƏ» YAZDI"
+   ],
+   "reel_beats": [
+    "Gəncədə 48 000 şüşə butulkadan tikilmiş iki mərtəbəli ev var — «Butulka evi».",
+    "Onu 1966–1967-ci illərdə gəncəli İbrahim Cəfərov tikib. Butulkaların arasına Soçidən gətirilmiş rəngli daşlar da düzülüb.",
+    "Ev İkinci Dünya müharibəsində itkin düşən qardaşı Yusif Cəfərovun xatirəsinə həsr olunub — damın altında onun böyük portreti var.",
+    "Ən maraqlısı: divarlarda butulka dibləri ilə «Gəncə» yazılıb. Halbuki o illərdə şəhərin rəsmi adı Kirovabad idi."
+   ],
+   "payoff": "Ən maraqlısı: şəhərin rəsmi adı 1935–1989-cu illərdə Kirovabad idi, İbrahim Cəfərov isə divara butulkalarla «Gəncə» yazdı.",
+   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+   "send_line": "📩 Gəncəli dostuna göndər 🍾",
+   "caption": "Gəncədəki Butulka evi: 48 000 şüşə butulka 🍾\n\nBu iki mərtəbəli evi 1966–1967-ci illərdə gəncəli İbrahim Cəfərov tikib. Divarlarda 48 000 butulka və Soçidən gətirilmiş rəngli daşlar var. Ev İkinci Dünya müharibəsində itkin düşən qardaşı Yusif Cəfərovun xatirəsinə həsr olunub — onun böyük portreti damın altındadır. Ən maraqlısı: o illərdə şəhərin rəsmi adı Kirovabad idi, amma divarlarda butulka dibləri ilə «Gəncə» yazılıb.\n\n📩 Gəncəli dostuna göndər 🍾\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nFoto: Wikimedia Commons (ictimai mülkiyyət)\n\n#bilirdinizmi #gəncə #butulkaevi #azərbaycan #memarlıq",
+   "first_comment": "Bu evi öz gözünlə görmüsən? 👇",
+   "youtube_title": "Gəncədə 48 000 butulkadan tikilən ev #shorts",
+   "photo": {
+    "path": "fetch/img/2026-11-25_1_bottle_c.jpg",
+    "credit": "Foto: Wikimedia Commons (ictimai mülkiyyət)",
+    "source": "https://commons.wikimedia.org/wiki/File:Bottle_house_3.jpg",
+    "license": "Public domain (Commons author 'Самый древний')",
+    "size": [
+     768,
+     513
+    ],
+    "cy": 0.5,
+    "full": true,
+    "alts": [
+     "fetch/img/2026-11-25_1_bottle_b.jpg (File:Bottle_house_2.jpg, B/W, facade with 'ОЛИМПИАДА' in bottles + stars — good 2nd image for the Olympics/Kirovabad beat)",
+     "fetch/img/2026-11-25_1_bottle_a.jpg (File:Bottle_house.jpg, B/W, low-angle facade with porch + bottle lettering)"
+    ],
+    "checked": "24 Nov 10:20: looked at all three — c = colour close-up of green bottle bottoms set in stones under a porch with flowers; a/b = black-and-white facade shots with bottle lettering. No watermark/logo. CAVEAT: only 768×513 (below the ~900 px bar) — Commons has nothing larger (searched 'Bottle house Ganja', 'Ganja bottle', 'Butulka evi'); Unsplash has none of this house (results were a Malaysian bottle temple). 20:45 builder: crop c to 9:16 with slow zoom is soft — prefer a split/collage layout (c top, b bottom) or a framed-photo look over full-bleed; if it looks too soft, an agency/news photo (REAL PHOTOS rule, credit in caption, no watermark) is allowed."
+   },
+   "context_check": "(1) Private residence — we show only the facade (public street view), no people. (2) '48 000' is the figure in both Wikipedia and azerbaijan.travel (Atlas Obscura only 'thousands') — say '48 000', not 'more than'. (3) 'Brother missing in WWII' = both sources; brother's name Yusif only Wikipedia → used once, fine. (4) Kirovabad 1935–1989 = Wikipedia (official name history, standard). (5) No politics.",
+   "language_check": "Butulka evi (common AZ name), İbrahim Cəfərov, Yusif Cəfərov, Soçi, Kirovabad, İkinci Dünya müharibəsi. nbsp in 48 000.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Bottle_house_of_Ganja",
+    "https://azerbaijan.travel/snap-picture-bottle-house-ganja",
+    "https://atlasobscura.com/places/bottle-house-ganja"
+   ]
+  },
+  {
+   "n": 2,
+   "type": "reel",
+   "slot": "18:30 backup",
+   "motion": true,
+   "fps": 60,
+   "voiced": "Arif",
+   "format": "fact",
+   "cat": "Heyvanlar / Xəzər",
+   "subject": "Beluga sturgeon (Huso huso; AZ: bölgə), a fish of the Caspian and Black Sea basins ('Most beluga sturgeon were historically found in the Caspian Sea' — Animal Diversity Web). Largest accepted record: a female caught in 1827 in the Volga estuary (Caspian), 1 571 kg and 7.2 m (Wikipedia; larger 2 000–3 000 kg claims 'disputed and unconfirmed'; ADW's 3 200 kg NOT used). 'It is the largest freshwater fish in the world' (Wikipedia; ADW hedged 'may be the largest'). Females mature at 16–22 years (Wikipedia; ADW 'normally after 15 years') and spawn every 4–7 years (Wikipedia; ADW 4–8). Lifespan: 'capable of surviving over 100 years' but no specimens recently 'past their 56th year' (Wikipedia + ADW both). Status: Critically Endangered, IUCN (Wikipedia; 2022 assessment). US banned imports of beluga caviar from the Caspian since 6 Oct 2005 (Wikipedia citing USFWS). Females can produce ~12% of body weight as caviar (ADW only → NOT in voice).",
+   "title": "1 571 kq: Xəzərin nəhəngi — bölgə",
+   "reel_hook": "1 571 KİLOQRAM, 7 METR: XƏZƏRİN NƏHƏNG BALIĞI",
+   "hook_options": [
+    "1 571 KİLOQRAM, 7 METR: XƏZƏRİN NƏHƏNG BALIĞI",
+    "BİR AVTOMOBİLDƏN AĞIR BALIQ: XƏZƏRİN BÖLGƏSİ",
+    "100 İL YAŞAYA BİLƏR, AMMA BU GÜN 56-YA ÇATMIR",
+    "DÜNYANIN ƏN BÖYÜK ŞİRİNSU BALIĞI XƏZƏRDƏ YAŞAYIR",
+    "22 İL GÖZLƏYİR: XƏZƏRİN ƏN NADİR NƏHƏNGİ"
+   ],
+   "reel_beats": [
+    "1827-ci ildə Volqanın Xəzərə töküldüyü yerdə bir dişi bölgə tutuldu: uzunluğu 7,2 metr, çəkisi 1 571 kiloqram.",
+    "Bölgə dünyanın ən böyük şirinsu balığı sayılır. Ən çox Xəzər hövzəsində yaşayıb.",
+    "Dişilər yalnız 16–22 yaşında kürü tökməyə başlayır, sonra da 4–7 ildən bir.",
+    "Ovçuluq və brakonyerlik üzündən bu gün o «kritik təhlükə altında» olan növdür. ABŞ 2005-ci ildən Xəzər bölgəsinin kürüsünün idxalını qadağan edib."
+   ],
+   "payoff": "Ən maraqlısı: bölgə 100 ildən çox yaşaya bilir — amma bu gün təbiətdə 56 yaşdan yaşlısına rast gəlinmir.",
+   "voice_texts": [
+    "Min beş yüz yetmiş bir kiloqram! Xəzərin nəhəngi — bölgə balığı.",
+    "Min səkkiz yüz iyirmi yeddinci ildə Volqanın Xəzərə töküldüyü yerdə yeddi metrlik bir bölgə tutuldu.",
+    "Bölgə dünyanın ən böyük şirinsu balığı sayılır.",
+    "Dişilər yalnız on altı, iyirmi iki yaşında kürü tökməyə başlayır.",
+    "Bu gün isə növ kritik təhlükə altındadır.",
+    "Ən maraqlısı: bölgə yüz ildən çox yaşaya bilər, amma indi təbiətdə əlli altı yaşdan yaşlısı tapılmır!",
+    "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
+   ],
+   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+   "send_line": "📩 Balıqçı dostuna göndər 🐟",
+   "caption": "Bölgə — Xəzərin 1 571 kiloqramlıq nəhəngi 🐟\n\n1827-ci ildə Volqanın Xəzərə töküldüyü yerdə tutulan dişi bölgənin uzunluğu 7,2 metr, çəkisi 1 571 kiloqram idi. Bölgə dünyanın ən böyük şirinsu balığı sayılır. Dişilər yalnız 16–22 yaşında kürü tökməyə başlayır, sonra da 4–7 ildən bir. Bu gün növ «kritik təhlükə altında»dır. Ən maraqlısı: bölgə 100 ildən çox yaşaya bilər, amma indi təbiətdə 56 yaşdan yaşlısına rast gəlinmir.\n\n📩 Balıqçı dostuna göndər 🐟\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nSəs: elevenlabs.io · Foto: Максим Яковлєв / CC BY-SA 4.0\n\n#bilirdinizmi #bölgə #xəzər #nərə #heyvanlar",
+   "first_comment": "Xəzərdə ən böyük hansı balığı görmüsən? 👇",
+   "youtube_title": "Bölgə: Xəzərin 1 571 kiloqramlıq nəhəng balığı #shorts",
+   "photos": [
+    {
+     "path": "fetch/img/2026-11-25_2_beluga_a.jpg",
+     "credit": "Максим Яковлєв / Wikimedia Commons, CC BY-SA 4.0",
+     "source": "https://commons.wikimedia.org/wiki/File:Білуга_(Huso_huso).jpg",
+     "size": [
+      1920,
+      1376
+     ],
+     "checked": "24 Nov 10:25: beluga swimming in blue water with light rays, side view, clean, no watermark (looks like a digital render/composite — fine as an illustration)"
+    },
+    {
+     "path": "fetch/img/2026-11-25_2_beluga_b.jpg",
+     "credit": "Daniel Döhne / Wikimedia Commons, CC BY-SA 3.0",
+     "source": "https://commons.wikimedia.org/wiki/File:Hausen_(Huso_huso_L.).JPG",
+     "size": [
+      1920,
+      1440
+     ],
+     "checked": "24 Nov 10:25: juvenile beluga in an aquarium, clean, no watermark"
+    }
+   ],
+   "visual_ideas": [
+    "Frame 0: '1 571 KQ' slams onto a scale; the fish silhouette slides in at true scale next to a 1,75 m human silhouette (7,2 m ≈ 4 people end to end) — a ruler counter running 0 → 7,2 m.",
+    "Weight comparison bars: an average car (~1 300–1 500 kg — only if a source is added; else skip) / or 20 people × 75 kg.",
+    "Map of the Caspian with the Volga delta pin 1827 and the Kura mouth; counter '16 → 22 il' as a growing ring (tree-ring style) for maturity.",
+    "IUCN red badge «KRİTİK TƏHLÜKƏ» stamps in; '2005 ABŞ: kürü idxalı qadağan' stamp.",
+    "Payoff: age dial spins to 100+ then snaps back to 56; loop back to '1 571 kq'. Progress counter 1/5 → 5/5. SFX: whoosh, thud, tick, sub."
+   ],
+   "context_check": "(1) Record = 1827 Volga estuary (Russia), not Azerbaijan — we say 'Volqanın Xəzərə töküldüyü yerdə', no claim it was AZ waters. (2) 3 200 kg (ADW) and 2 000–3 000 kg claims are unconfirmed → not used. (3) 'Largest freshwater fish' — Wikipedia states it flat; the fish is anadromous (lives in the sea, spawns in rivers) → say 'sayılır'. (4) IUCN: Critically Endangered (2022) per Wikipedia; ADW's 'Endangered' is outdated (2003 page). (5) US ban 2005 = beluga caviar from the Caspian (Wikipedia citing USFWS). (6) No health/food claims about caviar.",
+   "language_check": "bölgə = AZ name of Huso huso (verify once at build: az.wikipedia 'Bölgə'; if in doubt write 'bölgə (beluqa)'). şirinsu balığı, kürü, brakonyerlik, «kritik təhlükə altında». nbsp in 1 571. Numbers written out in voice_texts.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Beluga_(sturgeon)",
+    "https://animaldiversity.org/accounts/Huso_huso",
+    "https://www.fws.gov/sites/default/files/documents/Ecological-Risk-Screening-Summary-Beluga.pdf"
+   ]
+  }
+ ],
+ "pending_schedule": null
+}

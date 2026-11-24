@@ -1,6 +1,6 @@
 {
  "date": "2026-11-25",
- "status": "planned",
+ "status": "13:00 scheduled (static Butulka evi, Gəncə, no voice, silent track, IG REEL); 18:30 pending (14:47/15:23 tasks)",
  "format": "v4",
  "content_format": "quality_reset_2026-11-12",
  "planned_note": "Planned in the 2026-11-24 09:10 run. Wed 25 Nov (no special format day): 13:00 = static photo+words reel from facts[0] Bottle House of Ganja (48 000 bottles, 1966–67, in memory of a brother missing in WWII; 'Gəncə' written in bottles while the city was officially Kirovabad) — no voice, silent track, IG normal REEL. 18:30 = freshest AZ story at 09:10 on 25 Nov (Sabah – Barcelona is match day, kick-off 21:45 = after our slot) or facts[1] animated backup: beluga sturgeon (Arif). Categories: culture/places + animals/nature. Week 23–29 Nov: sports 1/2, space 0/2. No carousels/quizzes/stories.",
@@ -63,7 +63,14 @@
     "https://en.wikipedia.org/wiki/Bottle_house_of_Ganja",
     "https://azerbaijan.travel/snap-picture-bottle-house-ganja",
     "https://atlasobscura.com/places/bottle-house-ganja"
-   ]
+   ],
+   "build": {
+    "spec": "out/2026-11-25/1_reel_spec.json",
+    "layout": "full:false (fit on blur; photos only 768 px), 3 photos via photo_beats (c → b at beat 3 → a at beat 4)",
+    "duration_s": 25.5,
+    "audio": "silence, volumedetect max -91 dB",
+    "frames_checked": true
+   }
   },
   {
    "n": 2,
@@ -143,5 +150,19 @@
    ]
   }
  ],
- "pending_schedule": null
+ "pending_schedule": null,
+ "metricool": {
+  "13:00 Butulka evi (Gəncə, static, silent, IG REEL)": 440576051
+ },
+ "tiktok": {
+  "13:00 Butulka evi": 440576076
+ },
+ "youtube": {
+  "13:00 Butulka evi": 440576234
+ },
+ "media": {
+  "13:00 Butulka evi": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-25_1300_ganja_bottle_house_silent.mp4"
+ },
+ "ig_type": "REEL",
+ "scheduled_check": "24 Nov 20:49: getScheduledPosts 25 Nov was empty before creating; 3 posts created (IG/TT/YT 13:00)"
 }

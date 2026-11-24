@@ -1,0 +1,24 @@
+{
+ "hook": "48 000 BUTULKA: GƏNCƏDƏ BİR QARDAŞIN XATİRƏSİNƏ TİKİLƏN EV",
+ "beats": [
+  "Gəncədə 48 000 şüşə butulkadan tikilmiş iki mərtəbəli ev var — «Butulka evi».",
+  "Onu 1966–1967-ci illərdə gəncəli İbrahim Cəfərov tikib. Butulkaların arasına Soçidən gətirilmiş rəngli daşlar da düzülüb.",
+  "Ev İkinci Dünya müharibəsində itkin düşən qardaşı Yusif Cəfərovun xatirəsinə həsr olunub — damın altında onun böyük portreti var.",
+  "Ən maraqlısı: divarlarda butulka dibləri ilə «Gəncə» yazılıb. Halbuki o illərdə şəhərin rəsmi adı Kirovabad idi."
+ ],
+ "pills": [
+  "BUTULKA EVİ",
+  "1966–1967",
+  "QARDAŞIN XATİRƏSİ",
+  "ƏN MARAQLISI"
+ ],
+ "photo_beats": {
+  "2": "fetch/img/2026-11-25_1_bottle_b.jpg",
+  "3": "fetch/img/2026-11-25_1_bottle_a.jpg"
+ },
+ "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+ "seed": 25,
+ "full": false,
+ "hook_bg": true,
+ "hook_s": 2.6
+}

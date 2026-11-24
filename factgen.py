@@ -115,11 +115,21 @@ def reel(photo, out, c):
     START = [sum(BTS[:j]) for j in range(len(beats))]
     dur = c.get("dur", HK + sum(BTS) + OUT)
     base = cover(src, W, H, cx=c.get("cx", 0.5), cy=c.get("cy", 0.5)) if c.get("full", True) else fit_on_blur(src, W, H)
+    # 2026-11-24: optional "photo_beats": {"<beat index>": path} -> switch to another photo from that beat on (more images,
+    # REAL PHOTOS / MANY PHOTOS rule); same full/fit mode as the main photo
+    PB = {int(k): (cover(load(v), W, H, cx=c.get("cx", 0.5), cy=c.get("cy", 0.5)) if c.get("full", True)
+                   else fit_on_blur(load(v), W, H)) for k, v in (c.get("photo_beats") or {}).items()}
+    base0 = base
     tmp = tempfile.mkdtemp()
     hook_end = HK
     for i in range(int(dur * FPS)):
         t = i / FPS
         z = 1.0 + 0.16 * t / dur
+        if PB:
+            sk = t - hook_end; kk = max([j for j in range(len(beats)) if START[j] <= sk] or [-1]) if sk > 0 else -1
+            base = base0
+            for j in sorted(PB):
+                if kk >= j: base = PB[j]
         fr = base.resize((int(W * z), int(H * z)), Image.BILINEAR)
         fr = fr.crop(((fr.width - W) // 2, (fr.height - H) // 2, (fr.width - W) // 2 + W, (fr.height - H) // 2 + H))
         fr = shade(fr, top=0.26, start=0.48)

@@ -60,3 +60,4 @@
 - 2026-11-24 13:00: Heydər Əliyev Mərkəzi → Zaha Hədid (guess, static)
 - 2026-11-24 trend (09:10 pick for 18:30): Nvidia reinstates Jensen Huang 23 Nov after 11 days (resigned 12 Nov) — +31.5%, +$950 bn in a day, best since 2003; ≈12× AZ GDP 2025
 - 2026-11-25 (planned): Ganja Bottle House — 48 000 bottles, İbrahim Cəfərov 1966–67, brother Yusif missing in WWII, 'Gəncə' written while city = Kirovabad (13:00 static) · beluga (bölgə) 1 571 kg / 7.2 m 1827 Volga, largest freshwater fish, CR, 100+ vs 56 years (18:30 animated backup)
+- 2026-11-25 13:00: Butulka evi, Gəncə (48 000 butulka)

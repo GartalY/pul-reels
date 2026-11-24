@@ -1,3 +1,15 @@
+## VIEWER FEEDBACK 2026-11-24 (via Gartal) — READABLE CAPTIONS, SLOWER VOICE (both brands; AZ voice especially)
+A viewer: "Put the text on one line, like subtitles, so people can read it. He talks fast and the text pops up here and
+there — I had to watch it 3 times. Make it a bit slower, not so fast." Rules:
+1. SUBTITLE BAR: the narration captions sit in ONE fixed place on every frame (lower third, inside the safe zone, above the
+   platform UI ≈ y 1250–1450 of 1920), centred, max 2 lines, 3–6 words per chunk shown as a phrase (not word-by-word popping),
+   white bold on a dark semi-transparent band, key word in the accent colour. They never move, jump, rotate or bounce.
+2. Other on-screen text (big numbers, names on photos, stamps) is separate decoration: max ONE such element at a time, and it
+   never covers the subtitle bar. The animation can stay fast; the TEXT must stay readable.
+3. SLOWER VOICE: scripts 40–50 words for 25–30 s (was 50–60). Arif mp3 is slowed with ffmpeg `atempo=0.92` (pitch kept)
+   before timing; Kokoro speed 0.92. Leave a 0.3 s pause between sentences.
+4. Critique check: on the phone sheet, every subtitle chunk must be readable in the time it is on screen (≥ 0.25 s per word).
+
 ## GARTAL 2026-11-22 01:14 — REAL PHOTOS (replaces rule 1g "people = silhouettes" and PEOPLE = SILHOUETTES)
 "I never told you not to use real photos … If you can use the real photos, of course, use it always."
 - PEOPLE: use REAL PHOTOS of public figures whenever a usable one exists — Wikimedia Commons (public domain / CC, credit the

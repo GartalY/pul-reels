@@ -710,3 +710,6 @@ search_bottlehouse3.json https://commons.wikimedia.org/w/api.php?action=query&fo
 2026-11-25_1_bottle_c.jpg https://upload.wikimedia.org/wikipedia/commons/b/b5/Bottle_house_3.jpg
 2026-11-25_2_beluga_a.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/%D0%91%D1%96%D0%BB%D1%83%D0%B3%D0%B0_%28Huso_huso%29.jpg/1920px-%D0%91%D1%96%D0%BB%D1%83%D0%B3%D0%B0_%28Huso_huso%29.jpg
 2026-11-25_2_beluga_b.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Hausen_%28Huso_huso_L.%29.JPG/1920px-Hausen_%28Huso_huso_L.%29.JPG
+search_gukesh_2611.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1400&gsrsearch=Gukesh%20Dommaraju
+search_sindarov_2611.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1400&gsrsearch=Javokhir%20Sindarov
+search_bodmer_2611.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1400&gsrsearch=Fondation%20Martin%20Bodmer

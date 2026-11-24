@@ -715,3 +715,8 @@ search_sindarov_2611.json https://commons.wikimedia.org/w/api.php?action=query&f
 search_bodmer_2611.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1400&gsrsearch=Fondation%20Martin%20Bodmer
 2026-11-24_W_gukesh.jpg https://upload.wikimedia.org/wikipedia/commons/6/6d/Gukesh_in_2025_%28cropped%29.jpg
 2026-11-24_W_sindarov.jpg https://upload.wikimedia.org/wikipedia/commons/3/35/Javokhir_Sindarov_at_the_Naroditsky_Memorial_Rapid_and_Blitz_2026.jpg
+search_huang_2411a.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=30&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1400&gsrsearch=Jensen%20Huang
+search_huang_2411b.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=30&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1400&gsrsearch=Jensen%20Huang%20Nvidia%20Computex
+search_nvidia_2411.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=30&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1400&gsrsearch=Nvidia%20headquarters%20Santa%20Clara
+search_nvgpu_2411.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=30&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1400&gsrsearch=Nvidia%20GPU%20chip
+search_nyse_2411.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=30&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1400&gsrsearch=Nasdaq%20MarketSite%20Times%20Square

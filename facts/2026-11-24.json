@@ -237,5 +237,35 @@
    }
   ],
   "follow_up": "Huang appears before US Congress committees in early December (Investing) — possible follow-up trend then."
+ },
+ "reel_1830": {
+  "topic": "Censen Huanq «Nvidia»ya qayıtdı: 23 noyabr 2026 şura onu yekdilliklə yenidən baş direktor təyin etdi (12 noyabrda istefa vermişdi); səhmlər +31,5%, şirkətin dəyəri 1 gündə 950 milyard dollardan çox artdı",
+  "format": "trend",
+  "content_format": "trend",
+  "cat": "Pul və biznes / Texnologiya",
+  "picked_at": "14:50 Baku 24 Nov (2nd trend check: nothing bigger; 09:10 pick kept)",
+  "second_check": "14:50 searches: 'Azerbaijan news 24 November 2026' (azertag/azernews — nothing bigger), 'report.az xəbərlər 24 noyabr 2026' (azertag top stories), 'Nvidia Jensen Huang reinstated' (SEC 8-K nov23 press release confirms; earlier 17–18 Nov board refusals = context, reversed 23 Nov), Gukesh–Sindarov G1 (no result yet). Not football → no TikTok swap. Sports 1/2, space 0/2 unchanged.",
+  "sources": [
+   "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+   "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000090/nov23pressrelease.htm",
+   "https://www.aljazeera.com/economy/2026/11/23/nvidia-board-reinstates-jensen-huang-as-ceo",
+   "https://www.investing.com/news/stock-market-news/nvidia-shares-surge-30-as-board-announces-jensen-huangs-reinstatement-5045795",
+   "https://world-today-journal.com/nvidia-reinstates-jensen-huang-as-ceo-after-white-house-intervention-shares-surge-31-5-adding-952-billion-in-market-value/",
+   "https://report.az/diger-olkeler/tramp-huanqin-nvidia-ya-qayidisi-duzgun-qerardir",
+   "https://report.az/en/finance/azerbaijan-s-gdp-reaches-129-1b-manats-in-2025"
+  ],
+  "hooks": [
+   "Bir gündə doqquz yüz əlli milyard dollar! (1 GÜNDƏ 950 MİLYARD DOLLAR)",
+   "23 ilin ən yaxşı günü: Huanq qayıtdı",
+   "11 gün sonra geri: «Nvidia» 1 gündə 31% bahalaşdı",
+   "Azərbaycan iqtisadiyyatının 12 misli — cəmi 1 gündə",
+   "İstefa → 11 gün → qayıdış: tarixin ən bahalı qayıdışı?"
+  ],
+  "hook_pick": "Hook 1: biggest number + shock, short enough for a calm 1st line; the 12× AZ comparison stays as payoff. Hook 5 dropped ('tarixin ən' unverified).",
+  "voice_text": "Bir gündə doqquz yüz əlli milyard dollar! Censen Huanq «Nvidia»ya qayıtdı. On iki noyabrda istefa vermişdi. On bir gün sonra şura onu geri qaytardı. Elə həmin gün səhmlər otuz bir faizdən çox bahalaşdı. Bu məbləğ Azərbaycanın illik iqtisadiyyatından on iki dəfədən çoxdur! Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+  "word_count": 49,
+  "context_check": "31,5% is the close → voice says 'otuz bir faizdən çox' (true). 950 mlrd = market value added, not profit/money earned → 'Bu məbləğ … çoxdur' compares scale only (950/75,9 ≈ 12,5 → 'on iki dəfədən çox'). Investigation continues, no charges — not mentioned in voice (short script); caption keeps 'araşdırma davam edir'. No gossip/named private persons.",
+  "language_check": "Short calm sentences (3–9 words, VIEWER FEEDBACK 24 Nov). 'istefa vermək', 'geri qaytarmaq', 'bahalaşmaq', 'X-dan çoxdur' cases checked; numbers written out; ə/ı/ö/ü/q checked; 'Censen Huanq' = AZ media spelling (report.az, axar.az); CTA exact.",
+  "voice": "pending"
  }
 }

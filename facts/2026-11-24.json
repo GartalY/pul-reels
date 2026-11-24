@@ -263,9 +263,24 @@
   ],
   "hook_pick": "Hook 1: biggest number + shock, short enough for a calm 1st line; the 12× AZ comparison stays as payoff. Hook 5 dropped ('tarixin ən' unverified).",
   "voice_text": "Bir gündə doqquz yüz əlli milyard dollar! Censen Huanq «Nvidia»ya qayıtdı. On iki noyabrda istefa vermişdi. On bir gün sonra şura onu geri qaytardı. Elə həmin gün səhmlər otuz bir faizdən çox bahalaşdı. Bu məbləğ Azərbaycanın illik iqtisadiyyatından on iki dəfədən çoxdur! Bəyən və izlə — hər gün bilmədiyin bir fakt!",
-  "word_count": 49,
+  "word_count": 50,
   "context_check": "31,5% is the close → voice says 'otuz bir faizdən çox' (true). 950 mlrd = market value added, not profit/money earned → 'Bu məbləğ … çoxdur' compares scale only (950/75,9 ≈ 12,5 → 'on iki dəfədən çox'). Investigation continues, no charges — not mentioned in voice (short script); caption keeps 'araşdırma davam edir'. No gossip/named private persons.",
   "language_check": "Short calm sentences (3–9 words, VIEWER FEEDBACK 24 Nov). 'istefa vermək', 'geri qaytarmaq', 'bahalaşmaq', 'X-dan çoxdur' cases checked; numbers written out; ə/ı/ö/ü/q checked; 'Censen Huanq' = AZ media spelling (report.az, axar.az); CTA exact.",
-  "voice": "pending"
+  "voice": "arif",
+  "voice_model": "eleven_v4",
+  "voice_id": "ZQJv3hwvRAIC7fvWZ1Qr",
+  "arif_mp3": "reels/arif/2026-11-24_1830.mp3",
+  "arif_raw_mp3": "reels/arif/2026-11-24_1830_raw.mp3",
+  "words_json": "reels/arif/2026-11-24_1830.words.json",
+  "arif_credits": 317,
+  "arif_duration_s": 22.8,
+  "arif_raw_duration_s": 21.0,
+  "atempo": 0.92,
+  "arif_flow": "3A1q2mDPU8HAmRZqvHsp",
+  "arif_generation_id": "PdLv1pYKXPGgjpqslJDh",
+  "arif_generated_at": "14:54 Baku 24 Nov (2nd attempt; 1st at ~14:50 was 'busy', not charged)",
+  "transcript_check": "Scribe transcription was 'busy' (not charged) → words.json is approximate (sentence anchors from silencedetect on the slowed file, words spread by letter count). Sentence pauses 0.35–0.57 s (≥0.3 s rule OK).",
+  "credits_left_after": "2 450 of 10 000 until 13 Dec (usage 7 233 before this take)",
+  "caption_credit": "Səs: elevenlabs.io"
  }
 }

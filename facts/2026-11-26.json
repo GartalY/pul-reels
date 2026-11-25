@@ -1,0 +1,130 @@
+{
+ "date": "2026-11-26",
+ "status": "planned",
+ "format": "v4",
+ "content_format": "quality_reset_2026-11-12",
+ "planned_note": "Planned in the 2026-11-25 09:10 run. Thu 26 Nov = MYTH vs FACT day (3 NEW FORMATS test to 2 Dec): 13:00 = static MYTH vs FACT photo+words reel from facts[0] (Great Wall 'visible from space' myth) — no voice, silent track, IG normal REEL. 18:30 = freshest AZ story at 09:10 on 26 Nov (likely Sabah – Barcelona result, played 25 Nov 21:45 Baku → football → TikTok swap) or facts[1] animated backup: BTC pipeline (Arif). Categories: myth/places (world) + money & business/engineering (AZ). Week 23–29 Nov: sports 2/2 after the 25 Nov boxing trend (Sabah result tomorrow would be a 3rd sports piece — allowed only because the biggest news wins, NEVER LOCK A TOPIC), space 0/2 (the myth is about Earth seen from orbit; counted as places/myth, not space). No carousels/quizzes/stories.",
+ "format_log": {
+  "13:00": "myth",
+  "18:30": "trend (backup: facts[1] fact/animated)"
+ },
+ "facts": [
+  {
+   "n": 1,
+   "type": "reel",
+   "slot": "13:00",
+   "static": true,
+   "voiced": false,
+   "format": "myth",
+   "cat": "Mif / Məkanlar",
+   "subject": "Myth: the Great Wall of China is visible from space / from the Moon with the naked eye. Origin: a 1932 Ripley's 'Believe It or Not' cartoon called it 'the only one that would be visible to the human eye from the moon' (LiveScience, 'Since at least 1932'); NASA: the Moon theory 'dates back to at least 1938' → say 'ən azı 1930-cu illərdən'. Gagarin flew 12 Apr 1961 → the myth is 20+ years older than human spaceflight. Facts: China's first astronaut Yang Liwei (Shenzhou 5, Oct 2003, 14 orbits, ~21 h): 'But I didn't see the Great Wall' (Al Jazeera 17 Oct 2003; Scientific American names Shenzhou 5/2003). Wall is roughly 6 m wide (Al Jazeera; LiveScience 'less than 20 feet (6 meters) wide' for most of it) and similar in colour to its surroundings. ISS altitude ~400 km (LiveScience). Moon ~384 000 km (we say 'təxminən 380 000 km'; LiveScience 370 000 — keep 'yüz minlərlə km' if in doubt). Apollo 12's Alan Bean: 'No man-made object is visible at this scale' (NASA, from the Moon). What IS visible from low orbit: cities at night, airports/runways, major roads, bridges, dams (NASA + Scientific American). First confirmed photo: Leroy Chiao from the ISS, 24 Nov 2004, 180 mm lens + digital camera, and he himself 'didn't see the wall' (NASA). NOT used: 21 196 km length (not in our sources), hair/cable analogy (LiveScience only), Stukeley 1754, Ripley's 1904.",
+   "title": "Çin səddi kosmosdan görünür? Yox!",
+   "myth_text": "«Çin səddi kosmosdan çılpaq gözlə görünən yeganə tikilidir.»",
+   "reel_hook": "HAMI BUNA İNANIR: ÇİN SƏDDİ KOSMOSDAN GÖRÜNÜR ✗",
+   "hook_options": [
+    "HAMI BUNA İNANIR: ÇİN SƏDDİ KOSMOSDAN GÖRÜNÜR ✗",
+    "6 METR EN, 400 KM HÜNDÜRLÜK: ÇİN SƏDDİ GÖRÜNMÜR",
+    "ÇİNİN İLK KOSMONAVTI: «ÇİN SƏDDİNİ GÖRMƏDİM»",
+    "BU MİF KOSMOSA UÇUŞDAN 20 İL YAŞLIDIR",
+    "KOSMOSDAN NƏ GÖRÜNÜR? ÇİN SƏDDİ YOX, ŞƏHƏR İŞIQLARI"
+   ],
+   "hook_pick_reason": "MYTH vs FACT recipe: frame 0 = the myth in big text with a red ✗ coming. Names the subject (Çin səddi) in frame 0. The 'myth older than spaceflight' twist is saved for the payoff.",
+   "reel_beats": [
+    "Əslində… 2003-cü ildə Çinin ilk kosmonavtı Yan Livey orbitdən qayıdıb dedi: «Çin səddini görmədim».",
+    "Səddin eni əksər yerdə təxminən 6 metrdir, rəngi də ətrafdakı torpağa və dağlara oxşayır. Kosmik stansiya isə 400 km hündürlükdə uçur.",
+    "Orbitdən nə görünür? Gecə şəhərlərin işıqları, aeroportlar, böyük yollar, bəndlər.",
+    "Səddin ilk təsdiqlənmiş şəklini 2004-cü ildə astronavt Leroy Çiao çəkdi — 180 mm obyektivlə. Özü isə səddi gözü ilə görmədiyini deyib."
+   ],
+   "payoff": "Ən maraqlısı: «Çin səddi Aydan görünür» iddiası ən azı 1930-cu illərdən var — yəni insan kosmosa uçmazdan 20 ildən çox əvvəl.",
+   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+   "send_line": "📩 Buna inanan dostuna göndər 🧱",
+   "caption": "Çin səddi kosmosdan görünür? Bu, mifdir ❌\n\n2003-cü ildə Çinin ilk kosmonavtı Yan Livey orbitdən qayıdıb dedi: «Çin səddini görmədim». Səddin eni əksər yerdə təxminən 6 metrdir, rəngi də ətrafa oxşayır — 400 km hündürlükdən onu gözlə seçmək olmur. Orbitdən görünənlər: gecə şəhər işıqları, aeroportlar, böyük yollar. Ən maraqlısı: «Aydan görünür» iddiası ən azı 1930-cu illərdən var — insan kosmosa uçmazdan 20 ildən çox əvvəl.\n\n📩 Buna inanan dostuna göndər 🧱\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nFoto: Usukhbayar Gankhuyag / Unsplash\nMənbə: NASA, Scientific American\n\n#bilirdinizmi #çinsəddi #mif #kosmos #faktlar",
+   "first_comment": "Sən də buna inanırdın? Bəli yoxsa yox? 👇",
+   "youtube_title": "Çin səddi kosmosdan görünür? Mif! #shorts",
+   "photo": {
+    "path": "fetch/img/2026-11-26_1_greatwall_a.jpg",
+    "credit": "Foto: Usukhbayar Gankhuyag / Unsplash",
+    "source": "https://unsplash.com/photos/great-wall-of-china-in-mountains-Wbu_scb-9HQ",
+    "license": "Unsplash License",
+    "size": [
+     1600,
+     2399
+    ],
+    "cy": 0.6,
+    "full": true,
+    "alts": [
+     "fetch/img/2026-11-26_1_greatwall_b.jpg (Max van den Oetelaar / Unsplash, wall over snowy ridges, grey sky — good 2nd image)"
+    ],
+    "checked": "25 Nov 10:45: looked at both. a = portrait, golden-hour wall winding over a dark ridge, bright empty sky in the top third (room for the myth text + red ✗). b = portrait, wall + towers over snowy hills, flat grey sky. No watermark/logo/people."
+   },
+   "context_check": "(1) The claim we debunk is the NAKED-EYE claim. Cameras with long lenses CAN capture it (Chiao 2004) and low sun/snow/radar help — we say this honestly in beat 4, so no commenter can 'gotcha' us. (2) Width '≈6 m' = Al Jazeera + LiveScience. (3) 1930s origin: LiveScience 1932, NASA 'at least 1938' → 'ən azı 1930-cu illərdən'. (4) 'Yan Livey' = AZ transcription of Yang Liwei (Ян Ливэй). (5) No politics; neutral about China.",
+   "language_check": "Çin səddi (common AZ name), kosmonavt (Soviet/Chinese) vs astronavt (Chiao, NASA) — both common in AZ. 'gözlə seçmək olmur' = natural spoken AZ. 'obyektiv' = camera lens (AZ). Sentences ≤ 15 words except beat 4 (2 sentences).",
+   "sources": [
+    "https://www.nasa.gov/wp-content/uploads/static/history/PDFs/great_wall_less_great_from_space.pdf",
+    "https://www.scientificamerican.com/article/is-chinas-great-wall-visible-from-space/",
+    "https://www.aljazeera.com/news/2003/10/17/chinas-spaceman-shatters-a-myth",
+    "https://www.livescience.com/34212-great-wall-of-china-only-manmade-object-visible-from-space.html"
+   ],
+   "build": "20:45 task: factgen.py static MYTH layout — frame 0 myth text in quotes + red ✗ stamp, then 'Əslində…' beats, source line 'Mənbə: NASA' on screen; silent track; IG normal REEL; TikTok + YouTube copies."
+  },
+  {
+   "n": 2,
+   "type": "reel",
+   "slot": "18:30 backup",
+   "motion": true,
+   "fps": 60,
+   "voiced": "Arif",
+   "format": "fact",
+   "cat": "Pul və biznes / Mühəndislik",
+   "subject": "Baku–Tbilisi–Ceyhan (BTC) oil pipeline. Length 1 768 km: Azerbaijan 443 km, Georgia 249 km, Türkiye 1 076 km (bp.com BTC page + Wikipedia). Highest point 2 830 m (bp 2021 release + Wikipedia; bp 2006 said 2 800 m). Crosses 'more than 1 500 watercourses up to 500 metres wide' (bp 2021) / '1,500 watercourses' (Wikipedia). Filling the line took 10 million barrels of oil (bp 2006 release + Wikipedia). First oil reached Ceyhan at 23:00 Baku time on 28 May 2006 (bp 2006 release); first tanker British Hawthorn (~600 000 barrels). 8 pump stations (bp + Wikipedia). Buried at least 1 m (Wikipedia). Cost US$3.9 bn (Wikipedia only → NOT in voice). Cumulative: 4 billion barrels on 18 Jan 2023 (bp BTC page). Capacity 1.2 million barrels/day (bp). Since 1 July 2026 the operator is SOCAR (a SOCAR subsidiary), taking over from bp after ~20 years (azertag.az 'BTC announces transition of operatorship', report.az 'BP transfers BTC operatorship to SOCAR subsidiary', intellinews). Wikipedia: oil flows ~2 m/s → ≈10 days end to end (our own derivation, single source → NOT in voice).",
+   "title": "10 milyon barrel: yalnız borunu doldurmaq üçün",
+   "reel_hook": "10 MİLYON BARREL NEFT — SADƏCƏ BU BORUNU DOLDURMAQ ÜÇÜN",
+   "hook_options": [
+    "10 MİLYON BARREL NEFT — SADƏCƏ BU BORUNU DOLDURMAQ ÜÇÜN",
+    "1 768 KM: BAKI NEFTİ 3 ÖLKƏDƏN KEÇİR",
+    "2 830 METR DAĞ, 1 500 ÇAY: BTC KƏMƏRİ",
+    "4 MİLYARD BARREL: BAKIDAN ARALIQ DƏNİZİNƏ",
+    "20 İL SONRA: BTC-NİN SÜKANI SOCAR-DA"
+   ],
+   "hook_pick_reason": "Number + surprise (an amount of oil just to FILL the pipe) + names it in the 2nd line ('Bakı–Tbilisi–Ceyhan'); the SOCAR handover is the payoff.",
+   "reel_beats": [
+    "Bakı–Tbilisi–Ceyhan neft kəmərinin uzunluğu 1 768 km-dir: 443 km Azərbaycanda, 249 km Gürcüstanda, 1 076 km Türkiyədə.",
+    "Boru 2 830 metr hündürlükdə dağlardan keçir və 1 500-dən çox çayı, arxı aşır.",
+    "Kəməri ilk dəfə doldurmaq üçün 10 milyon barrel neft lazım oldu. Bakı nefti Ceyhana ilk dəfə 28 may 2006-da çatdı.",
+    "2023-cü ilin yanvarında kəmərdən 4 milyardıncı barrel neft keçdi."
+   ],
+   "payoff": "Ən maraqlısı: kəməri 20 il «bp» idarə etdi. 1 iyul 2026-dan isə onun operatoru SOCAR-dır.",
+   "voice_texts": [
+    "On milyon barrel neft — sadəcə bu borunu doldurmaq üçün!",
+    "Bakı–Tbilisi–Ceyhan kəməri min yeddi yüz altmış səkkiz kilometrdir. Üç ölkədən keçir.",
+    "İki min səkkiz yüz metrlik dağları və min beş yüzdən çox çayı aşır.",
+    "Bakı nefti Ceyhana ilk dəfə iki min altıncı ildə çatdı.",
+    "Ən maraqlısı: iyirmi il «bp» idarə etdi, bu ilin iyulundan isə operator SOCAR-dır!",
+    "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
+   ],
+   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+   "send_line": "📩 Neftçi dostuna göndər 🛢️",
+   "caption": "Bakı–Tbilisi–Ceyhan: 1 768 km-lik neft kəməri 🛢️\n\nKəmər 3 ölkədən keçir: 443 km Azərbaycanda, 249 km Gürcüstanda, 1 076 km Türkiyədə. 2 830 metr hündürlükdə dağları və 1 500-dən çox çayı aşır. Onu ilk dəfə doldurmaq üçün 10 milyon barrel neft lazım oldu. Bakı nefti Ceyhana ilk dəfə 28 may 2006-da çatdı, 2023-də isə 4 milyardıncı barrel keçdi. Ən maraqlısı: 20 il kəməri «bp» idarə etdi, 1 iyul 2026-dan operator SOCAR-dır.\n\n📩 Neftçi dostuna göndər 🛢️\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nSəs: elevenlabs.io · Foto: <builder fills in>\n\n#bilirdinizmi #btc #neft #socar #azərbaycan",
+   "first_comment": "Ailəndə neft sahəsində işləyən var? 👇",
+   "youtube_title": "Bakı–Tbilisi–Ceyhan: 10 milyon barrel yalnız borunu doldurmağa #shorts",
+   "visual_ideas": [
+    "Frame 0: an empty glass pipe filling with black oil while a barrel counter spins 0 → 10 000 000.",
+    "Map line drawing itself Baku → Tbilisi → Ceyhan with three country segments (443 / 249 / 1 076 km) and a km counter to 1 768.",
+    "Elevation profile: the pipe climbs a mountain to a '2 830 m' flag; 1 500 river crossings ticking as little blue lines.",
+    "Tanker silhouette at Ceyhan, date stamp 28.05.2006; a barrel counter jumps to '4 000 000 000' (Jan 2023).",
+    "Payoff: a nameplate 'OPERATOR' flips from 'bp' (text only, no logo) to 'SOCAR' with '01.07.2026' — text, not logos.",
+    "PHOTO STORY option: Sangachal terminal / Ceyhan terminal / pipeline construction photos from Wikimedia (CC) or bp/SOCAR press pages with credit; no logos as the main image."
+   ],
+   "context_check": "(1) Neutral business/engineering story; AZ POLITICS RULE: positive/neutral, no geopolitics talk (no 'bypassing Russia' framing). (2) '20 il' bp = first oil 2006 → July 2026 ✔. (3) '10 milyon barrel to fill' = bp 2006 + Wikipedia ✔. (4) 2 830 m vs 2 800 m (bp 2006) → use bp 2021/Wikipedia 2 830. (5) 'Operator SOCAR' — SOCAR subsidiary per report.az; say 'operatoru SOCAR-dır' (true at group level). Shareholders unchanged — don't say 'SOCAR owns it'.",
+   "sources": [
+    "https://www.bp.com/en_az/azerbaijan/home/who-we-are/operationsprojects/pipelines/btc.html",
+    "https://www.bp.com/en_az/azerbaijan/home/news/press-releases/btc-lifts-first-oil-from-ceyhan.html",
+    "https://www.bp.com/en_az/azerbaijan/home/news/press-releases/BTC-celebrates-500-million-tonnes-of-oil-export.html",
+    "https://en.wikipedia.org/wiki/Baku%E2%80%93Tbilisi%E2%80%93Ceyhan_pipeline",
+    "https://azertag.az/en/xeber/btc_announces_transition_of_operatorship-4294683",
+    "https://report.az/en/energy/bp-transfers-btc-operatorship-to-socar-subsidiary"
+   ]
+  }
+ ],
+ "pending_schedule": null
+}

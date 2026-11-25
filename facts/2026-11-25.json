@@ -6,7 +6,7 @@
  "planned_note": "Planned in the 2026-11-24 09:10 run. Wed 25 Nov (no special format day): 13:00 = static photo+words reel from facts[0] Bottle House of Ganja (48 000 bottles, 1966–67, in memory of a brother missing in WWII; 'Gəncə' written in bottles while the city was officially Kirovabad) — no voice, silent track, IG normal REEL. 18:30 = freshest AZ story at 09:10 on 25 Nov (Sabah – Barcelona is match day, kick-off 21:45 = after our slot) or facts[1] animated backup: beluga sturgeon (Arif). Categories: culture/places + animals/nature. Week 23–29 Nov: sports 1/2, space 0/2. No carousels/quizzes/stories.",
  "format_log": {
   "13:00": "fact",
-  "18:30": "trend (backup: facts[1] fact/animated)"
+  "18:30": "trend (Nəzərov 3rd straight European title; backup facts[1] beluga)"
  },
  "facts": [
   {
@@ -164,5 +164,80 @@
   "13:00 Butulka evi": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-25_1300_ganja_bottle_house_silent.mp4"
  },
  "ig_type": "REEL",
- "scheduled_check": "24 Nov 20:49: getScheduledPosts 25 Nov was empty before creating; 3 posts created (IG/TT/YT 13:00)"
+ "scheduled_check": "24 Nov 20:49: getScheduledPosts 25 Nov was empty before creating; 3 posts created (IG/TT/YT 13:00)",
+ "trend": {
+  "n": "T",
+  "type": "reel",
+  "format": "animated_1830",
+  "content_format": "trend",
+  "post_format": "trend",
+  "cat": "İdman / Boks",
+  "picked_at": "09:15–10:40 Baku 25 Nov (1st trend check)",
+  "rule_note": "Freshest positive AZ story of the last 24 h with a clear number: Bilalhəbaşi Nəzərov (19) won the 50 kg gold at the European U23 Championships in Poreč, Croatia on 24 Nov — his 3rd European title in 3 years (Poreč 2024, Ostrava 2025, Poreč 2026). report.az, trend.az, news.az, qol.az, azertag (headline), publika.az, futbolinfo.az all ran it 24–25 Nov. Not football → no TikTok swap. Sports quota week 23–29 Nov: this makes 2/2 (Sabah–Barça DATA 23 Nov was 1). Bigger AZ topic today is Sabah – Barcelona (kick-off 21:45 Baku, AFTER our 18:30 slot, preview already used 23 Nov) → result can only be tomorrow's trend. Skipped: Kəlbəcər 6th anniversary + Erdoğan Şuşa remark (conflict-related, AZ POLITICS RULE), Turkish military helicopter crash 24 Nov (tragedy, Türkiye-only, 5 dead), producer Elmir Məhərrəmov death (private tragedy).",
+  "subject": "Bilalhabashi Nazarov / Bilalhəbaşi Nəzərov (Azerbaijan, 19) won gold at 50 kg at the 2026 European U23 Boxing Championships in Poreč, Croatia (report.az 24 Nov 18:05; trend.az 18:25; news.az 19:18; qol.az 25 Nov 00:20). Final: beat Tevfik Akkaş (Türkiye) 5–0, cards 29–28, 29–27, 30–25, 30–27, 29–26 (report.az + trend.az). Field: 276 boxers from 39 countries (report.az, trend.az, qol.az, news.az). Earlier titles: Poreč 2024 and Ostrava 2025 (report.az, trend.az, news.az); report.az: 'Already the national team's only two-time European youth champion, the 19-year-old has now won a continental title for the third consecutive year' → the 2024/2025 titles were YOUTH-level European titles, 2026 is U23. Team medals at the time of the 24 Nov reports: 3 (Nəzərov gold; Zidan Hunbatov 55 kg bronze; Məhəmmədəli Aşırəliyev 60 kg bronze). qol.az (25 Nov 00:20, single source) adds: Nicat Əlirzayev 70 kg gold, 5–0 v Zviad Tchotchua (Georgia) → 4 medals, 2 gold. NOT yet in voice — 15:23 task: confirm with a 2nd source (report.az/trend.az/azertag), then add as beat + scoreboard '2 qızıl, 2 bürünc'.",
+  "context_check": "(1) It is the U23 (23 yaşadək) European Championship, NOT the senior one — say 'Avropa çempionatı (23 yaşadək)' on screen and in the caption; never 'böyüklər arasında'. (2) '3 il ardıcıl' = 3 European titles in 3 years at DIFFERENT age levels (2024, 2025 youth; 2026 U23) — say 'üç il ardıcıl Avropa çempionu', not '3-cü dəfə U23 çempionu'. (3) Opponent is from Türkiye — neutral tone, no 'qardaşı məğlub etdi' jokes; just the score. (4) 5–0 = all five judges; 30–25 is the widest card. (5) No catch found (no walkover/forfeit; four bouts per qol.az coverage not verified → don't state bout count).",
+  "reel_hook": "3 İL, 3 AVROPA QIZILI: 19 YAŞLI BİLALHƏBAŞİ NƏZƏROV",
+  "hook_options": [
+   "3 İL, 3 AVROPA QIZILI: 19 YAŞLI BİLALHƏBAŞİ NƏZƏROV",
+   "5 HAKİM, 5 SƏS: NƏZƏROV YENƏ AVROPA ÇEMPİONUDUR",
+   "276 BOKSÇU, 39 ÖLKƏ — QIZIL AZƏRBAYCANIN",
+   "19 YAŞINDA 3-CÜ AVROPA TİTULU",
+   "HƏR İL BİR QIZIL: NƏZƏROVUN 3 İLLİK SERİYASI"
+  ],
+  "hook_pick_reason": "Number + streak (superlative: 3 in a row) + pride; names him in frame 0 (ALWAYS NAME IT). The Poreč full-circle twist is saved for the payoff.",
+  "reel_beats": [
+   "24 noyabr, Xorvatiyanın Poreç şəhəri: 19 yaşlı Bilalhəbaşi Nəzərov 50 kiloqramda Avropa çempionu oldu (23 yaşadək).",
+   "Turnirdə 39 ölkədən 276 boksçu var idi. Finalda o, türkiyəli Tevfik Akkaşa 5:0 hesabı ilə qalib gəldi — beş hakimin hamısı onun tərəfində idi.",
+   "Bu, onun ardıcıl üçüncü Avropa titulu: 2024-də Poreçdə, 2025-də Ostravada, indi yenə Poreçdə.",
+   "Azərbaycan millisi turnirdə daha iki bürünc medal qazandı: Zidan Hunbatov (55 kq) və Məhəmmədəli Aşırəliyev (60 kq)."
+  ],
+  "payoff": "Ən maraqlısı: ilk Avropa qızılını 2024-də elə bu şəhərdə — Poreçdə qazanmışdı. İki il sonra eyni şəhərə qayıtdı və yenə birinci oldu.",
+  "twist": "Poreç → Ostrava → Poreç: the circle closes in the same city. Loop: payoff '…yenə birinci oldu' → hook '3 il, 3 Avropa qızılı'.",
+  "voice_texts": [
+   "Üç il, üç Avropa qızılı! On doqquz yaşlı Bilalhəbaşi Nəzərov.",
+   "Xorvatiyada, iyirmi üç yaşadək boksçular arasında: otuz doqquz ölkə, iki yüz yetmiş altı boksçu.",
+   "Finalda: beş hakim, beş səs.",
+   "Ən maraqlısı: ilk qızılını iki il əvvəl elə bu şəhərdə, Poreçdə qazanmışdı.",
+   "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
+  ],
+  "voice_word_count": 50,
+  "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+  "send_line": "📩 Boks sevən dostuna göndər 🥊",
+  "caption": "Bilalhəbaşi Nəzərov — 3 il ardıcıl Avropa çempionu 🥇🥊\n\n19 yaşlı boksçumuz Xorvatiyanın Poreç şəhərində 23 yaşadək boksçular arasında Avropa çempionu oldu. 39 ölkədən 276 boksçunun yarışdığı turnirin 50 kq finalında o, türkiyəli Tevfik Akkaşa 5:0 hesabı ilə qalib gəldi. Bu, onun ardıcıl üçüncü Avropa titulu idi: 2024 — Poreç, 2025 — Ostrava, 2026 — yenə Poreç. Zidan Hunbatov (55 kq) və Məhəmmədəli Aşırəliyev (60 kq) bürünc medal qazandılar.\n\n📩 Boks sevən dostuna göndər 🥊\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nSəs: elevenlabs.io · Foto: <15:23 builder fills in>\n\n#bilirdinizmi #boks #nəzərov #azərbaycan #avropaçempionatı",
+  "first_comment": "Nəzərov 2028 Olimpiadasında da qızıl qazana bilərmi? 👇",
+  "youtube_title": "Bilalhəbaşi Nəzərov: 3 il, 3 Avropa qızılı 🥊 #shorts",
+  "visual_ideas": [
+   "Frame 0: big '3' made of three gold medals sliding in one by one (2024 · 2025 · 2026), name plate 'BİLALHƏBAŞİ NƏZƏROV' under it.",
+   "Boxing-ring world: ropes frame the screen; a scoreboard top-right counts '1/3 → 3/3 QIZIL'.",
+   "Map pin hops Poreč (HR) → Ostrava (CZ) → back to Poreč, with the year on each pin — the payoff circle closes with an impact SFX.",
+   "Judges' row: five judge cards flip one by one, all 'NƏZƏROV' (5:0), the 30–25 card highlighted.",
+   "Counter '276 boksçu / 39 ölkə' filling a crowd grid, then narrowing to 1 gold.",
+   "PHOTO STORY: real photos of Nəzərov from the federation / trend.az / report.az galleries (podium, final, earlier titles 2024/2025), credit each; 6–10 photos if available, else fill with Poreč town + ring/gloves, never the same face twice. SFX: bell-free — thud, whoosh, impact (no boxing bell: tonal)."
+  ],
+  "photo_leads": "trend.az/azerbaijan/4250304.html (article photo), report.az article, Azerbaijan Boxing Federation (boxing.az / their Instagram) podium photos, EUBC (eubcboxing.org) U23 Poreč 2026 gallery; 2024 Poreč / 2025 Ostrava youth-final photos from EUBC. Wikimedia: Poreč old town (CC).",
+  "sources": [
+   "https://report.az/en/individual/azerbaijan-s-nazarov-claims-third-consecutive-european-boxing-title",
+   "https://www.trend.az/azerbaijan/4250304.html",
+   "https://news.az/news/azerbaijani-boxer-secures-third-straight-european-title",
+   "https://qol.az/news/233561-azerbaycanin-daha-bir-bokscusu-avropa-cempionu-oldu",
+   "https://azertag.az/xeber/azerbaycan_bokschusu_ardicil_uchuncu_defe_avropa_chempionu_olub-4523223"
+  ],
+  "source_scan": "09:15 25 Nov: report.az/en, apa.az lent, news.az, lent.az, qol.az (CL MD5 results; Sabah–Barça tonight 21:45; Metro hours extended, 18 bus routes changed), trend.az, oxu/axar via search; world: Nvidia DOJ follow-up (used 24 Nov), Real Madrid 5-1 PSV, Galatasaray 1-0 Aston Villa, Ronaldo 987th goal, Iran/Trump, Turkish helicopter crash (tragedy). AZ-angle searches: 'Avropa çempionu 24 noyabr 2026', 'Qarabağ ÇL 24 noyabr' (Qarabağ not in CL league phase this season).",
+  "runners_up": [
+   {
+    "story": "Sabah – Barcelona, UCL league phase MD5, Baku Olympic Stadium, 25 Nov 21:45 (after our 18:30 slot)",
+    "note": "Result lands ~23:40 → candidate for TOMORROW's trend (26 Nov 09:10). If Sabah gets a historic result (point/upset), it is the biggest AZ story of the week — BIG TREATMENT. Football → TikTok swap rule applies tomorrow. At 15:23: only switch if something truly big breaks (pre-match story was already used 23 Nov)."
+   },
+   {
+    "story": "Nicat Əlirzayev 70 kg U23 European gold (5–0 v Zviad Tchotchua, Georgia) — qol.az 25 Nov 00:20 only",
+    "note": "15:23: if a 2nd source confirms, fold it into today's reel as beat 4 ('2 qızıl, 2 bürünc') — do not make it a separate reel."
+   },
+   {
+    "story": "Azerbaijan – Vatican Apostolic Archive cooperation agreement (news.az 24 Nov 13:20)",
+    "note": "Neutral culture/history; weaker, only if both above fail."
+   }
+  ],
+  "tiktok_swap": false,
+  "status": "picked 09:15–10:40; 15:23 task: re-check news, confirm Əlirzayev, find 6–10 photos, Arif voice, build."
+ }
 }

@@ -61,3 +61,5 @@
 - 2026-11-24 trend (09:10 pick for 18:30): Nvidia reinstates Jensen Huang 23 Nov after 11 days (resigned 12 Nov) — +31.5%, +$950 bn in a day, best since 2003; ≈12× AZ GDP 2025
 - 2026-11-25 (planned): Ganja Bottle House — 48 000 bottles, İbrahim Cəfərov 1966–67, brother Yusif missing in WWII, 'Gəncə' written while city = Kirovabad (13:00 static) · beluga (bölgə) 1 571 kg / 7.2 m 1827 Volga, largest freshwater fish, CR, 100+ vs 56 years (18:30 animated backup)
 - 2026-11-25 13:00: Butulka evi, Gəncə (48 000 butulka)
+- 2026-11-25 trend (09:10 pick for 18:30): Bilalhəbaşi Nəzərov 50 kg European U23 gold, Poreč 24 Nov, 5-0 v Tevfik Akkaş, 276 boxers / 39 countries, 3rd straight European title (Poreč 2024, Ostrava 2025 youth), 2 bronzes
+- 2026-11-26 (planned): MYTH Great Wall visible from space — Yang Liwei 2003 'didn't see it', ~6 m wide, ISS 400 km, Chiao photo 24 Nov 2004, myth from 1930s (13:00 static) · BTC pipeline 1 768 km (443/249/1 076), 2 830 m, 1 500+ rivers, 10 M barrels line fill, Ceyhan 28 May 2006, 4 bn barrels Jan 2023, SOCAR operator from 1 Jul 2026 (18:30 animated backup)

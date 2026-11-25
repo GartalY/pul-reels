@@ -263,6 +263,14 @@
   "voice_text": "Üç il, üç Avropa qızılı! On doqquz yaşlı boksçumuz Bilalhəbaşi Nəzərov yenə birincidir. Xorvatiyanın Poreç şəhərində, iyirmi üç yaşadək boksçular arasında qalib gəldi. Finalda beş hakimin hamısı onu seçdi. Ən maraqlısı: ilk Avropa qızılını iki il əvvəl elə bu şəhərdə qazanmışdı. Bəyən və izlə — hər gün bilmədiyin bir fakt!",
   "voice_word_count": 49,
   "language_check": "Section L: short sentences (≤ 12 words), everyday words; 'X-a qalib gəlmək' not used (no object); 'hakimin hamısı onu seçdi' plain spoken; numbers written out; no Turkish/Russian forms.",
-  "voice": "pending"
+  "voice": "arif",
+  "arif_mp3": "reels/arif/2026-11-25_1830.mp3",
+  "arif_raw_mp3": "reels/arif/2026-11-25_1830_raw.mp3",
+  "arif_credits": 324,
+  "arif_duration_s": 22.73,
+  "words_json": "reels/arif/2026-11-25_1830.words.json",
+  "elevenlabs_flow": "2POH2kdISfwXJcQtLiQQ",
+  "arif_generated_at": "14:57 Baku, 1st attempt",
+  "transcript_match": "exact"
  }
 }

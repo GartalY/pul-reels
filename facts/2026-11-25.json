@@ -239,5 +239,30 @@
   ],
   "tiktok_swap": false,
   "status": "picked 09:15–10:40; 15:23 task: re-check news, confirm Əlirzayev, find 6–10 photos, Arif voice, build."
+ },
+ "reel_1830": {
+  "topic": "Bilalhəbaşi Nəzərov (19) — 50 kq, 2026 Avropa çempionatı (23 yaşadək), Poreç, Xorvatiya, 24 Nov 2026: finalda Tevfik Akkaş (Türkiyə) 5:0; 3 il ardıcıl Avropa qızılı (2024 Poreç gənclər, 2025 Ostrava gənclər, 2026 Poreç U23)",
+  "format": "trend",
+  "picked_at": "14:50 Baku 25 Nov (2nd trend check by 14:47 task: no bigger fresh AZ story; Sabah–Barça kicks off 21:45, after slot). Keeps 09:10 pick.",
+  "sources": [
+   "https://report.az/en/individual/azerbaijan-s-nazarov-claims-third-consecutive-european-boxing-title",
+   "https://www.trend.az/azerbaijan/4250304.html",
+   "https://news.az/news/azerbaijani-boxer-secures-third-straight-european-title",
+   "https://qol.az/news/233561-azerbaycanin-daha-bir-bokscusu-avropa-cempionu-oldu",
+   "https://azertag.az/xeber/azerbaycan_bokschusu_ardicil_uchuncu_defe_avropa_chempionu_olub-4523223"
+  ],
+  "context_check": "(1) It is the U23 (23 yaşadək) European Championship, NOT the senior one — say 'Avropa çempionatı (23 yaşadək)' on screen and in the caption; never 'böyüklər arasında'. (2) '3 il ardıcıl' = 3 European titles in 3 years at DIFFERENT age levels (2024, 2025 youth; 2026 U23) — say 'üç il ardıcıl Avropa çempionu', not '3-cü dəfə U23 çempionu'. (3) Opponent is from Türkiye — neutral tone, no 'qardaşı məğlub etdi' jokes; just the score. (4) 5–0 = all five judges; 30–25 is the widest card. (5) No catch found (no walkover/forfeit; four bouts per qol.az coverage not verified → don't state bout count). 14:50: Nicat Əlirzayev 70 kq gold still single-source (qol.az) — NOT in voice.",
+  "hooks": [
+   "Üç il, üç Avropa qızılı!",
+   "Beş hakim, beş səs: Nəzərov yenə çempiondur.",
+   "İki yüz yetmiş altı boksçu, otuz doqquz ölkə — qızıl Azərbaycanın.",
+   "On doqquz yaşında üçüncü Avropa qızılı!",
+   "Eyni şəhər, iki il sonra — yenə qızıl."
+  ],
+  "hook_pick": "Üç il, üç Avropa qızılı! — number + streak + pride; the Poreç full-circle payoff saved for the end.",
+  "voice_text": "Üç il, üç Avropa qızılı! On doqquz yaşlı boksçumuz Bilalhəbaşi Nəzərov yenə birincidir. Xorvatiyanın Poreç şəhərində, iyirmi üç yaşadək boksçular arasında qalib gəldi. Finalda beş hakimin hamısı onu seçdi. Ən maraqlısı: ilk Avropa qızılını iki il əvvəl elə bu şəhərdə qazanmışdı. Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+  "voice_word_count": 49,
+  "language_check": "Section L: short sentences (≤ 12 words), everyday words; 'X-a qalib gəlmək' not used (no object); 'hakimin hamısı onu seçdi' plain spoken; numbers written out; no Turkish/Russian forms.",
+  "voice": "pending"
  }
 }

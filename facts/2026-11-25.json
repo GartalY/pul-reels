@@ -6,7 +6,7 @@
  "planned_note": "Planned in the 2026-11-24 09:10 run. Wed 25 Nov (no special format day): 13:00 = static photo+words reel from facts[0] Bottle House of Ganja (48 000 bottles, 1966–67, in memory of a brother missing in WWII; 'Gəncə' written in bottles while the city was officially Kirovabad) — no voice, silent track, IG normal REEL. 18:30 = freshest AZ story at 09:10 on 25 Nov (Sabah – Barcelona is match day, kick-off 21:45 = after our slot) or facts[1] animated backup: beluga sturgeon (Arif). Categories: culture/places + animals/nature. Week 23–29 Nov: sports 1/2, space 0/2. No carousels/quizzes/stories.",
  "format_log": {
   "13:00": "fact",
-  "18:30": "trend (Nəzərov 3rd straight European title; backup facts[1] beluga)"
+  "18:30": "trend (Nəzərov 3rd straight European title) — scheduled IG/TT/YT"
  },
  "facts": [
   {
@@ -152,16 +152,20 @@
  ],
  "pending_schedule": null,
  "metricool": {
-  "13:00 Butulka evi (Gəncə, static, silent, IG REEL)": 440576051
+  "13:00 Butulka evi (Gəncə, static, silent, IG REEL)": 440576051,
+  "18:30 Nəzərov (animated, Arif, IG REEL)": 441608371
  },
  "tiktok": {
-  "13:00 Butulka evi": 440576076
+  "13:00 Butulka evi": 440576076,
+  "18:30 Nəzərov": 441608394
  },
  "youtube": {
-  "13:00 Butulka evi": 440576234
+  "13:00 Butulka evi": 440576234,
+  "18:30 Nəzərov": 441608412
  },
  "media": {
-  "13:00 Butulka evi": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-25_1300_ganja_bottle_house_silent.mp4"
+  "13:00 Butulka evi": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-25_1300_ganja_bottle_house_silent.mp4",
+  "18:30 Nəzərov": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-25_1830_nazarov_arif.mp4"
  },
  "ig_type": "REEL",
  "scheduled_check": "24 Nov 20:49: getScheduledPosts 25 Nov was empty before creating; 3 posts created (IG/TT/YT 13:00)",
@@ -271,6 +275,22 @@
   "words_json": "reels/arif/2026-11-25_1830.words.json",
   "elevenlabs_flow": "2POH2kdISfwXJcQtLiQQ",
   "arif_generated_at": "14:57 Baku, 1st attempt",
-  "transcript_match": "exact"
+  "transcript_match": "exact",
+  "status": "scheduled 15:40 Baku",
+  "look": "silhouette arena + route map + medals (code-drawn), fixed subtitle bar",
+  "duration_s": 25.2,
+  "voice_used": "arif (14:47 mp3, +0.95 s of sentence pauses inserted -> audio/vo.wav 23.65 s)",
+  "media_url": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-25_1830_nazarov_arif.mp4",
+  "metricool": {
+   "instagram": 441608371,
+   "tiktok": 441608394,
+   "youtube": 441608412
+  },
+  "tiktok_swap": false,
+  "photos": [],
+  "agency_photos": [],
+  "photo_note": "NO real photos: this run's cloud network refused every photo host (upload/commons.wikimedia.org, images.unsplash.com, report.az, azertag.az, azernews.az … all 403 'no rule or network setting allows this host'); Drive folder had nothing for today -> REAL PHOTOS fallback = silhouettes. Caption says 'foto istifadə olunmayıb'.",
+  "critique": "3 rounds, final hook 8 / readability 8 / motion 8 / variety 8 / accuracy 9 / sync 8 (reels/2026-11-25_1830/docs/critique.md)",
+  "mix": "-14.1 LUFS, -1.2 dBTP, sfx -9 dB, no music; CRF 22, 6.1 MB, 60 fps"
  }
 }

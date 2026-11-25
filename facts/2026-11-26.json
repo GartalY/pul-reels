@@ -1,6 +1,6 @@
 {
  "date": "2026-11-26",
- "status": "planned",
+ "status": "13:00 scheduled (static MYTH Great Wall 'visible from space', no voice, silent track, IG REEL); 18:30 animated Arif reel = 14:47/15:23 tasks",
  "format": "v4",
  "content_format": "quality_reset_2026-11-12",
  "planned_note": "Planned in the 2026-11-25 09:10 run. Thu 26 Nov = MYTH vs FACT day (3 NEW FORMATS test to 2 Dec): 13:00 = static MYTH vs FACT photo+words reel from facts[0] (Great Wall 'visible from space' myth) — no voice, silent track, IG normal REEL. 18:30 = freshest AZ story at 09:10 on 26 Nov (likely Sabah – Barcelona result, played 25 Nov 21:45 Baku → football → TikTok swap) or facts[1] animated backup: BTC pipeline (Arif). Categories: myth/places (world) + money & business/engineering (AZ). Week 23–29 Nov: sports 2/2 after the 25 Nov boxing trend (Sabah result tomorrow would be a 3rd sports piece — allowed only because the biggest news wins, NEVER LOCK A TOPIC), space 0/2 (the myth is about Earth seen from orbit; counted as places/myth, not space). No carousels/quizzes/stories.",
@@ -38,12 +38,12 @@
    "payoff": "Ən maraqlısı: «Çin səddi Aydan görünür» iddiası ən azı 1930-cu illərdən var — yəni insan kosmosa uçmazdan 20 ildən çox əvvəl.",
    "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
    "send_line": "📩 Buna inanan dostuna göndər 🧱",
-   "caption": "Çin səddi kosmosdan görünür? Bu, mifdir ❌\n\n2003-cü ildə Çinin ilk kosmonavtı Yan Livey orbitdən qayıdıb dedi: «Çin səddini görmədim». Səddin eni əksər yerdə təxminən 6 metrdir, rəngi də ətrafa oxşayır — 400 km hündürlükdən onu gözlə seçmək olmur. Orbitdən görünənlər: gecə şəhər işıqları, aeroportlar, böyük yollar. Ən maraqlısı: «Aydan görünür» iddiası ən azı 1930-cu illərdən var — insan kosmosa uçmazdan 20 ildən çox əvvəl.\n\n📩 Buna inanan dostuna göndər 🧱\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nFoto: Usukhbayar Gankhuyag / Unsplash\nMənbə: NASA, Scientific American\n\n#bilirdinizmi #çinsəddi #mif #kosmos #faktlar",
+   "caption": "Çin səddi kosmosdan görünür? Bu, mifdir ❌\n\n2003-cü ildə Çinin ilk kosmonavtı Yan Livey orbitdən qayıdıb dedi: «Çin səddini görmədim». Səddin eni əksər yerdə təxminən 6 metrdir, rəngi də ətrafa oxşayır — 400 km hündürlükdən onu gözlə seçmək olmur. Orbitdən görünənlər: gecə şəhər işıqları, aeroportlar, böyük yollar. Ən maraqlısı: «Aydan görünür» iddiası ən azı 1930-cu illərdən var — insan kosmosa uçmazdan 20 ildən çox əvvəl.\n\n📩 Buna inanan dostuna göndər 🧱\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nFoto: Usukhbayar Gankhuyag, Max van den Oetelaar / Unsplash\nMənbə: NASA, Scientific American\n\n#bilirdinizmi #çinsəddi #mif #kosmos #faktlar",
    "first_comment": "Sən də buna inanırdın? Bəli yoxsa yox? 👇",
    "youtube_title": "Çin səddi kosmosdan görünür? Mif! #shorts",
    "photo": {
     "path": "fetch/img/2026-11-26_1_greatwall_a.jpg",
-    "credit": "Foto: Usukhbayar Gankhuyag / Unsplash",
+    "credit": "Foto: Usukhbayar Gankhuyag, Max van den Oetelaar / Unsplash",
     "source": "https://unsplash.com/photos/great-wall-of-china-in-mountains-Wbu_scb-9HQ",
     "license": "Unsplash License",
     "size": [
@@ -65,7 +65,15 @@
     "https://www.aljazeera.com/news/2003/10/17/chinas-spaceman-shatters-a-myth",
     "https://www.livescience.com/34212-great-wall-of-china-only-manmade-object-visible-from-space.html"
    ],
-   "build": "20:45 task: factgen.py static MYTH layout — frame 0 myth text in quotes + red ✗ stamp, then 'Əslində…' beats, source line 'Mənbə: NASA' on screen; silent track; IG normal REEL; TikTok + YouTube copies."
+   "build": {
+    "file": "out/2026-11-26/1_reel.mp4",
+    "spec": "out/2026-11-26/1_reel_spec.json",
+    "dur_s": 32.3,
+    "voice": null,
+    "sound": "pure silence (volumedetect max -91.0 dB)",
+    "photos": "a (golden hour) hook..beat 3, b (snowy ridges) from beat 4 via photo_beats",
+    "checked": "25 Nov 20:48: 10-frame phone sheet + full-size beat frame: myth label + hook frame 0, red ✗ + MİF at 0.9 s, AZ letters fine, beats in safe zone, NBSP numbers, source beat, CTA pill last. v1 fix: dropped duplicate 'Əslində…' from beat 1 (the pill already says it)."
+   }
   },
   {
    "n": 2,
@@ -125,5 +133,19 @@
    ]
   }
  ],
- "pending_schedule": null
+ "pending_schedule": null,
+ "media": {
+  "13:00 Çin səddi mifi": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-26_1300_greatwall_myth_silent.mp4"
+ },
+ "ig_type": "REEL",
+ "scheduled_check": "25 Nov 20:49: getScheduledPosts 26 Nov was empty before creating; 3 posts created (IG/TT/YT 13:00). TikTok first try rejected 'TikTok title is required' -> retried with tiktokData.title (nothing created by the failed call).",
+ "metricool": {
+  "13:00 reel (Çin səddi mifi, MYTH static, silent, IG REEL)": 442017835
+ },
+ "tiktok": {
+  "13:00 Çin səddi mifi": 442018256
+ },
+ "youtube": {
+  "13:00 Çin səddi mifi": 442018096
+ }
 }

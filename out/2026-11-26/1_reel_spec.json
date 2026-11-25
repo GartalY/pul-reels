@@ -1,0 +1,33 @@
+{
+ "hook": "ÇİN SƏDDİ KOSMOSDAN GÖRÜNÜR",
+ "myth": true,
+ "myth_label": "HAMI BUNA İNANIR:",
+ "myth_x": 0.9,
+ "hook_s": 3.0,
+ "hook_bg": true,
+ "beats": [
+  "2003-cü ildə Çinin ilk kosmonavtı Yan Livey dedi: «Orbitdən Çin səddini görmədim».",
+  "Səddin eni çox yerdə cəmi 6 metrdir, rəngi də dağlara oxşayır.",
+  "Kosmik stansiya isə 400 km hündürlükdə uçur.",
+  "Orbitdən nə görünür? Gecə şəhərlərin işıqları, aeroportlar, böyük yollar, bəndlər.",
+  "2004-cü ildə astronavt Leroy Çiao səddi 180 mm obyektivlə çəkdi. Özü isə gözü ilə görmədiyini deyib.",
+  "Ən maraqlısı: bu mif ən azı 1930-cu illərdən var — insan kosmosa uçmazdan 20 ildən çox əvvəl!",
+  "Mənbə: NASA, Scientific American"
+ ],
+ "pills": [
+  "ƏSLİNDƏ…",
+  "6 METR",
+  "400 KM",
+  "ORBİTDƏN",
+  "2004",
+  "ƏN MARAQLISI",
+  "MƏNBƏ"
+ ],
+ "photo_beats": {
+  "3": "fetch/img/2026-11-26_1_greatwall_b.jpg"
+ },
+ "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+ "seed": 26,
+ "cy": 0.6,
+ "full": true
+}

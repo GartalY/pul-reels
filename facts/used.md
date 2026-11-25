@@ -63,3 +63,4 @@
 - 2026-11-25 13:00: Butulka evi, Gəncə (48 000 butulka)
 - 2026-11-25 trend (09:10 pick for 18:30): Bilalhəbaşi Nəzərov 50 kg European U23 gold, Poreč 24 Nov, 5-0 v Tevfik Akkaş, 276 boxers / 39 countries, 3rd straight European title (Poreč 2024, Ostrava 2025 youth), 2 bronzes
 - 2026-11-26 (planned): MYTH Great Wall visible from space — Yang Liwei 2003 'didn't see it', ~6 m wide, ISS 400 km, Chiao photo 24 Nov 2004, myth from 1930s (13:00 static) · BTC pipeline 1 768 km (443/249/1 076), 2 830 m, 1 500+ rivers, 10 M barrels line fill, Ceyhan 28 May 2006, 4 bn barrels Jan 2023, SOCAR operator from 1 Jul 2026 (18:30 animated backup)
+- 2026-11-26 13:00: Çin səddi kosmosdan görünür (MİF)

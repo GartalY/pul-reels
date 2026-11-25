@@ -732,3 +732,5 @@ search_nyse_2411.json https://commons.wikimedia.org/w/api.php?action=query&forma
 2026-11-24_8_die.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Nvidia_GM200_GeForce_GTX_980_Ti_die_shot.jpg/1920px-Nvidia_GM200_GeForce_GTX_980_Ti_die_shot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 2026-11-24_8_nasdaq.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Nasdaq_MarketSite_%2851494550508%29.jpg/1920px-Nasdaq_MarketSite_%2851494550508%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 2026-11-24_8_nasdaq2.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/NASDAQ_Market_Site_201506.jpg/1920px-NASDAQ_Market_Site_201506.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+2026-11-26_1_greatwall_a.jpg https://images.unsplash.com/photo-1571822325911-c01620a65e86?crop=entropy&cs=srgb&fm=jpg&q=85&w=1600
+2026-11-26_1_greatwall_b.jpg https://images.unsplash.com/photo-1582895516735-25a974f11f2c?crop=entropy&cs=srgb&fm=jpg&q=85&w=1600

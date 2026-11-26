@@ -825,3 +825,7 @@ search_nyse_2411.json https://commons.wikimedia.org/w/api.php?action=query&forma
 2026-11-26_2_btc_sign.jpg https://upload.wikimedia.org/wikipedia/commons/b/bd/BakuTbilisiCeyhan_Sign.jpg
 2026-11-26_2_btc_map.png https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Baku%E2%80%93Tbilisi%E2%80%93Ceyhan_pipeline_%28BTC_Pipeline%29.svg/1920px-Baku%E2%80%93Tbilisi%E2%80%93Ceyhan_pipeline_%28BTC_Pipeline%29.svg.png
 
+2026-11-26_W_macys_ww1.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Scrap_Rubber_Drive_-_NARA_-_196503.jpg/1920px-Scrap_Rubber_Drive_-_NARA_-_196503.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+2026-11-26_W_macys_ww1b.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Scrap_Rubber_Drive_-_NARA_-_196504.jpg/1920px-Scrap_Rubber_Drive_-_NARA_-_196504.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+2026-11-26_W_macys_s11.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=30&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=K-class%20blimp%20Navy%201943
+2026-11-26_W_macys_s12.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=30&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Navy%20airship%20blimp%20World%20War%20II%20convoy

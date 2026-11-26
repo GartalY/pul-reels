@@ -1,0 +1,115 @@
+{
+ "date": "2026-11-27",
+ "status": "planned",
+ "format": "v4",
+ "content_format": "quality_reset_2026-11-12",
+ "planned_note": "Planned in the 2026-11-26 09:10 run. Fri 27 Nov: 13:00 = static photo+words reel from facts[0] (Şəki Xan Sarayı shebeke, no voice, silent track, IG normal REEL). 18:30 Fri = GUESS THE ANSWER animated day (3 NEW FORMATS test to 2 Dec): the 09:10 27 Nov trend pick should be told as a guess if it fits; if no fresh AZ story fits, facts[1] = animated GUESS backup (Qaval daş, Arif). Categories: architecture/crafts (Şəki) + culture/music & ancient history (Qobustan) — both AZ (MANDATE DECISION 2026-11-11), neither sports nor space (week 23–29 Nov: sports 3 incl. Sabah–Barça trend = biggest news, space 0). No carousels/quizzes/stories.",
+ "format_log": {
+  "13:00": "fact",
+  "18:30": "guess (trend if fresh AZ story; backup facts[1] guess/animated)"
+ },
+ "facts": [
+  {
+   "n": 1,
+   "type": "reel",
+   "slot": "13:00",
+   "static": true,
+   "voiced": false,
+   "format": "fact",
+   "cat": "Memarlıq / Sənətkarlıq",
+   "subject": "Palace of Shaki Khans (Şəki Xan Sarayı), Şəki. Its shebeke (şəbəkə) windows — small pieces of coloured glass set into a wooden lattice — are assembled WITHOUT NAILS OR GLUE (Wikipedia, Euronews 14 Jul 2017, azerbaijan.travel 10 Jul 2019, History Hit — 4 sources agree). Build year: 1797 (Wikipedia infobox 'completed 1797', construction started 1789/1790; Euronews; History Hit) vs 1762 (azerbaijan.travel; Wikipedia 250th anniversary 2012) → we say '18-ci əsrin sonunda' (true for both 1762 and 1797), never a single year. Two storeys, 32 × 8.5 m outside, 3 rooms in a row per floor (Wikipedia only → not used). UNESCO: 'Historic Centre of Sheki with the Khan's Palace' inscribed 7 Jul 2019 at the 43rd session of the World Heritage Committee, held in Baku (Wikipedia; azerbaijan.travel: session opened 30 Jun 2019 in Baku). Euronews (single source, NOT used): 14 000+ pieces, 6 months per m², restoration with tweezers, Murano glass.",
+   "title": "Şəki Xan Sarayı: 0 mismar, 0 yapışqan",
+   "reel_hook": "0 MİSMAR, 0 YAPIŞQAN: ŞƏKİ XAN SARAYININ PƏNCƏRƏLƏRİ",
+   "hook_options": [
+    "0 MİSMAR, 0 YAPIŞQAN: ŞƏKİ XAN SARAYININ PƏNCƏRƏLƏRİ",
+    "MİNLƏRLƏ ŞÜŞƏ PARÇASI, BİR DƏNƏ DƏ MİSMAR YOX",
+    "200 İLDƏN ÇOX AYAQDADIR — MİSMARSIZ, YAPIŞQANSIZ",
+    "ŞƏKİDƏKİ BU PƏNCƏRƏNİ NƏ SAXLAYIR?",
+    "UNESCO ONU ELƏ BAKIDA SİYAHIYA SALDI"
+   ],
+   "hook_pick_reason": "Number-first (0 + 0) + surprise + names the palace in frame 0 (ALWAYS NAME IT). The 'UNESCO voted in Baku' twist is saved for the payoff.",
+   "reel_beats": [
+    "Şəki Xan Sarayı 18-ci əsrin sonunda tikilib. Onun ən məşhur hissəsi pəncərələridir — «şəbəkə».",
+    "Şəbəkədə kiçik rəngli şüşə parçaları taxta qəfəsə bir-bir yerləşdirilir.",
+    "Bu pəncərələrdə nə mismar var, nə də yapışqan. Taxta hissələr bir-birinə keçir və şüşəni özləri tutur.",
+    "Günəş düşəndə rəngli şüşələr otağın divarlarına və döşəməsinə rəng saçır."
+   ],
+   "payoff": "Ən maraqlısı: 2019-cu ildə Şəkinin tarixi mərkəzi Xan Sarayı ilə birlikdə UNESCO-nun Dünya İrsi siyahısına daxil edildi. Qərar elə Bakıda keçirilən sessiyada verildi.",
+   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+   "send_line": "📩 Şəkiyə getmək istəyən dostuna göndər 🪟",
+   "caption": "Şəki Xan Sarayı: 0 mismar, 0 yapışqan 🪟\n\nŞəki Xan Sarayı 18-ci əsrin sonunda tikilib. Onun məşhur «şəbəkə» pəncərələrində kiçik rəngli şüşə parçaları taxta qəfəsə bir-bir yerləşdirilir — nə mismar, nə də yapışqan istifadə olunur. Ən maraqlısı: 2019-cu ildə Şəkinin tarixi mərkəzi Xan Sarayı ilə birlikdə UNESCO-nun Dünya İrsi siyahısına daxil edildi — qərar elə Bakıda verildi.\n\n📩 Şəkiyə getmək istəyən dostuna göndər 🪟\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nFoto: (photo.credit)\nMənbə: UNESCO, Euronews\n\n#bilirdinizmi #şəki #xansarayı #şəbəkə #azərbaycan",
+   "first_comment": "Şəki Xan Sarayını görmüsən? Bəli yoxsa hələ yox? 👇",
+   "youtube_title": "Şəki Xan Sarayı: mismarsız, yapışqansız pəncərələr 🪟 #shorts",
+   "context_check": "(1) 'No nails/glue' is about the SHEBEKE windows (all 4 sources), not the whole building — we say 'bu pəncərələrdə'. (2) Build year disputed (1762 vs 1797) → '18-ci əsrin sonunda'. (3) Beat 3 mechanism: sources say pieces are fitted/locked without nails or glue; 'taxta hissələr bir-birinə keçir' = interlocking (Wikipedia Shabaka: wooden pieces fitted together) — 20:45 build may simplify to 'hissələr bir-birinə bərkidilir'. (4) Beat 4 is descriptive (coloured light) — no number, safe. (5) UNESCO 2019 inscription in Baku: Wikipedia + azerbaijan.travel. (6) 14 000 pieces / 6 months per m² are Euronews-only → kept out.",
+   "language_check": "şəbəkə, qəfəs, mismar, yapışqan = everyday AZ. 'rəng saçır' natural. Sentences ≤ 15 words except payoff sentence 1 (16) — fine for a static card; split if the layout needs.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Palace_of_Shaki_Khans",
+    "https://www.euronews.com/2017/07/14/the-shebeki-at-sheki-khans-palace-in-azerbaijan",
+    "https://azerbaijan.travel/press-media/press-releases/unesco-inscribes-azerbaijans-historic-centre-of-sheki-with-the-khans-palace-to-the-world-heritage-site-list",
+    "https://www.historyhit.com/locations/palace-of-sheki-khans/",
+    "https://whc.unesco.org/en/list/1549"
+   ],
+   "photo": null
+  },
+  {
+   "n": 2,
+   "type": "reel",
+   "slot": "18:30 backup",
+   "motion": true,
+   "fps": 60,
+   "voiced": "Arif",
+   "format": "guess",
+   "cat": "Mədəniyyət / Qədim tarix",
+   "subject": "Qaval daş (Gaval Dash, 'tambourine stone'), Gobustan State Historical and Cultural Reserve. A ~2 m long flat rock that gives a ringing, tambourine-like sound when struck with smaller stones (Atlas Obscura, CNN Travel, Wikipedia, Google Arts & Culture — all agree on 2 m and the sound). Cause: thought to be microscopic holes in the rock from the dry climate and natural gas (CNN + Wikipedia; Atlas: 'climate + natural gas'). It rests free on smaller stones (CNN only → visual, not voice). One of four 'singing stones' in the reserve (CNN, Wikipedia). Yallı link: a famous Gobustan petroglyph is thought to show Yallı dancers; the stone 'may have been used' for their ritual sounds (CNN + Atlas Obscura, both hedged) → 'ehtimal olunur'. Visitors can still play it (CNN; Atlas implies). Gobustan: 6 000+ rock carvings (Wikipedia; used 2 Nov with 2 sources), UNESCO 2007 (Wikipedia + Google A&C). Age of carvings disputed (5 000–20 000 years Wikipedia vs 'more than two million years' CNN) → no age in voice.",
+   "title": "Qobustandakı bu daşa vursan nə olur?",
+   "reel_hook": "QOBUSTANDA 2 METRLİK DAŞ: ONA DAŞLA VURSAN NƏ OLUR? Sənin cavabın? 👇",
+   "hook_options": [
+    "QOBUSTANDA 2 METRLİK DAŞ: ONA DAŞLA VURSAN NƏ OLUR? Sənin cavabın? 👇",
+    "BU DAŞ MİNİLLİKLƏRDİR «ÇALINIR». NECƏ? 👇",
+    "6 000 QAYA RƏSMİ ARASINDA BİR SİRLİ DAŞ",
+    "QOBUSTANIN 4 «OXUYAN» DAŞI: BİRİ ƏN MƏŞHURUDUR",
+    "DAŞ, YOXSA MUSİQİ ALƏTİ? SƏNİN CAVABIN? 👇"
+   ],
+   "hook_pick_reason": "GUESS recipe: the question + 'Sənin cavabın? 👇' on frame 0, with a number (2 m) and the place named (Qobustan). The stone's own name gives the answer away, so it is revealed right after the 3-2-1 (≈ 2nd–3rd sentence, still inside ALWAYS NAME IT's spirit: place named in sentence 1, object named at the reveal).",
+   "reel_beats": [
+    "İpucu 1: Qobustan qayalarında 6 000-dən çox qədim rəsm var.",
+    "İpucu 2: Rəsmlərin birində əl-ələ verib rəqs edən insanlar görünür.",
+    "3… 2… 1… Cavab: daş qaval kimi səslənir! Adı da elə budur — Qaval daş.",
+    "Alimlər bunu daşın içindəki çox kiçik boşluqlarla izah edir. Bunlar quru iqlim və təbii qazın təsiri ilə yaranıb."
+   ],
+   "payoff": "Ən maraqlısı: ehtimal olunur ki, qayadakı yallı rəqsi elə bu daşın səsi altında oynanırdı. Yallını isə biz bu gün də oynayırıq.",
+   "voice_texts": [
+    "Qobustanda iki metrlik bir daş var. Ona daşla vursan, nə olar? Sənin cavabın?",
+    "Üç, iki, bir…",
+    "Daş qaval kimi səslənir! Adı da elə budur: Qaval daş.",
+    "Səbəb: daşın içindəki çox kiçik boşluqlar.",
+    "Ehtimal olunur ki, qayadakı yallı rəqsi bu səsin altında oynanırdı.",
+    "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
+   ],
+   "voice_word_count": 49,
+   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+   "send_line": "📩 Qobustana getməmiş dostuna göndər 🥁",
+   "caption": "Qaval daş: Qobustanda «çalınan» daş 🥁\n\nQobustanda təxminən 2 metr uzunluğunda bir daş var. Ona kiçik daşla vuranda qaval kimi səslənir — adı da buradandır. Alimlər bunu daşın içindəki çox kiçik boşluqlarla izah edir: quru iqlim və təbii qazın təsiri. Ehtimal olunur ki, qayalarda təsvir olunan yallı rəqsi bu daşın səsi altında oynanırdı. Qobustan 2007-ci ildən UNESCO-nun Dünya İrsi siyahısındadır.\n\n📩 Qobustana getməmiş dostuna göndər 🥁\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nSəs: elevenlabs.io\nFoto: (photo credits)\nMənbə: CNN, Atlas Obscura\n\n#bilirdinizmi #qobustan #qavaldaş #yallı #azərbaycan",
+   "first_comment": "Sən Qaval daşı çalmısan? Necə səslənir? 👇",
+   "youtube_title": "Qobustanda çalınan daş: Qaval daş 🥁 #shorts",
+   "visual_ideas": [
+    "Frame 0: the stone (real photo, slow zoom) + big question text, '?' pulsing; corner counter 'İPUCU 0/2'.",
+    "Clue 1: rock-carving style figures (code-drawn petroglyph lines) scratch themselves onto a stone wall, counter '6 000+' runs up.",
+    "Clue 2: the Yallı dancers petroglyph (real photo if Commons has it; else line drawing) — figures hold hands, a little bounce.",
+    "Visible 3-2-1 (≈3 s, tick SFX — non-melodic).",
+    "Reveal: a small stone hits the big one, sound-wave rings ripple out across the screen; name plate 'QAVAL DAŞ'. SFX: thud/knock only — DO NOT synthesize a tambourine jingle (tonal/music-like → NO MUSIC rule).",
+    "Science beat: cutaway of the rock with tiny holes glowing.",
+    "Payoff: the petroglyph dancers start moving in rhythm to the knocks, then cut to 'BU GÜN DƏ' with a yallı chain silhouette."
+   ],
+   "context_check": "(1) Guess is fair, not a trick: the clues (rock art, dancers) point to music. (2) Size 'about 2 m' = 4 sources. (3) Cause is 'thought to be' → 'alimlər bunu … ilə izah edir'. (4) Yallı link is hedged in both sources → 'ehtimal olunur'. (5) No age of the stone/carvings (sources conflict). (6) Not the same fact as 2 Nov (Gobustan 6 000+ engravings) — that number is only clue 1; nor 22 Nov (Heyerdahl/boats).",
+   "language_check": "qaval (AZ word for tambourine), ipucu, ehtimal olunur, yallı — everyday AZ. 'Ona daşla vursan, nə olar?' natural spoken form.",
+   "sources": [
+    "https://amp.cnn.com/cnn/travel/article/gobustan-petroglyphs-gaval-dash-singing-stone",
+    "https://atlasobscura.com/places/musical-stone-gobustan",
+    "https://en.wikipedia.org/wiki/Gobustan_State_Historical_and_Cultural_Reserve",
+    "https://artsandculture.google.com/asset/gaval-dash-gobustan-rock-art-cultural-landscape/8wEeTHCT3onh9w?hl=en"
+   ],
+   "photo": null
+  }
+ ]
+}

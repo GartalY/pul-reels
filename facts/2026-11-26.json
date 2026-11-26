@@ -283,7 +283,16 @@
   "voice_word_count": 47,
   "language_check": "Section L: 7 sentences, all ≤ 8 words; numbers written out (bir, dörd, otuz, altmış üçüncü, iki-üç); 'X-a qarşı oynamaq', 'ilk ilini keçirir', 'cavab verdi', 'vura bilərdik' — plain Baku spoken forms; no Turkish (-yor) or Russian calques; Mikels in AZ-media spelling 'Coy-Lens Mikels'. Short calm sentences for the slower-voice feedback (24 Nov).",
   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
-  "voice": "pending",
-  "status": "script written 14:5x Baku 26 Nov; Arif generation next"
+  "voice": "arif",
+  "status": "voice ready (Arif, slowed 0.92); 15:23 build next",
+  "arif_mp3": "reels/arif/2026-11-26_1830.mp3",
+  "arif_raw_mp3": "reels/arif/2026-11-26_1830_raw.mp3",
+  "arif_credits": 311,
+  "arif_duration_s": 23.67,
+  "arif_raw_duration_s": 21.79,
+  "words_json": "reels/arif/2026-11-26_1830.words.json",
+  "words_json_note": "phrase timings from silencedetect (exact), word timings estimated — ElevenLabs transcription refused as 'busy' (not retried, optional step). 9 phrases, pauses 0.28–0.55 s already between sentences.",
+  "elevenlabs_flow": "m0gsoWEf8blkAPm71Gzk",
+  "arif_generated_at": "14:5x Baku 26 Nov, 1st attempt"
  }
 }

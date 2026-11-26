@@ -279,8 +279,8 @@
    "Dörd qol yedik, amma bir qol hamını sevindirdi!"
   ],
   "hook_pick": "Bir — dörd. Amma bu gecə Bakı üçün tarixi idi! — number (the score) + emotion ('tarixi'), honest about the defeat (CONTEXT CHECK 1); Barça named in sentence 2; Mikels's quote is the payoff and loops back to '1:4'. Matches 09:10 reel_hook (frame 0 scoreboard).",
-  "voice_text": "Bir — dörd. Amma bu gecə Bakı üçün tarixi idi! Barselona Azərbaycanda ilk rəsmi oyununu «Sabah»a qarşı oynadı. «Sabah» Çempionlar Liqasında ilk ilini keçirir. Qonaqlar otuz dəqiqədə dörd qol vurdu. Amma altmış üçüncü dəqiqədə Coy-Lens Mikels cavab verdi. Oyundan sonra dedi: «Barselonaya iki-üç qol vura bilərdik». Bəyən və izlə — hər gün bilmədiyin bir fakt!",
-  "voice_word_count": 53,
+  "voice_text": "Bir — dörd. Amma bu gecə Bakı üçün tarixi idi! Barselona Azərbaycanda ilk rəsmi oyununu «Sabah»a qarşı oynadı. Qonaqlar otuz dəqiqədə dörd qol vurdu. Amma altmış üçüncü dəqiqədə Coy-Lens Mikels cavab verdi. Oyundan sonra dedi: «Barselonaya iki-üç qol vura bilərdik». Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+  "voice_word_count": 47,
   "language_check": "Section L: 7 sentences, all ≤ 8 words; numbers written out (bir, dörd, otuz, altmış üçüncü, iki-üç); 'X-a qarşı oynamaq', 'ilk ilini keçirir', 'cavab verdi', 'vura bilərdik' — plain Baku spoken forms; no Turkish (-yor) or Russian calques; Mikels in AZ-media spelling 'Coy-Lens Mikels'. Short calm sentences for the slower-voice feedback (24 Nov).",
   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
   "voice": "pending",

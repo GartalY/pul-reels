@@ -824,3 +824,4 @@ search_nyse_2411.json https://commons.wikimedia.org/w/api.php?action=query&forma
 2026-11-26_T_mickels_4.jpg https://upload.wikimedia.org/wikipedia/commons/9/9f/Joy-Lance_Mickels_in_October_2026_as_a_player_of_Sabah_04.jpg
 2026-11-26_2_btc_sign.jpg https://upload.wikimedia.org/wikipedia/commons/b/bd/BakuTbilisiCeyhan_Sign.jpg
 2026-11-26_2_btc_map.png https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Baku%E2%80%93Tbilisi%E2%80%93Ceyhan_pipeline_%28BTC_Pipeline%29.svg/1920px-Baku%E2%80%93Tbilisi%E2%80%93Ceyhan_pipeline_%28BTC_Pipeline%29.svg.png
+

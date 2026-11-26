@@ -229,6 +229,22 @@
    }
   ],
   "tiktok_swap": true,
-  "status": "picked 09:15 26 Nov; 14:47/15:23 build (Arif)"
+  "status": "picked 09:15 26 Nov; 14:47/15:23 build (Arif)",
+  "photos_found": {
+   "files": [
+    "fetch/img/2026-11-26_T_sabahbarca_2.jpg",
+    "fetch/img/2026-11-26_T_sabahbarca_11.jpg",
+    "fetch/img/2026-11-26_T_sabahbarca_17.jpg",
+    "fetch/img/2026-11-26_T_sabahbarca_19.jpg",
+    "fetch/img/2026-11-26_T_sabahbarca_20.jpg",
+    "fetch/img/2026-11-26_T_sabahbarca_22.jpg",
+    "fetch/img/2026-11-26_T_sabahbarca_24.jpg",
+    "fetch/img/2026-11-26_T_sabahbarca_26.jpg",
+    "fetch/img/2026-11-26_T_sabahbarca_27.jpg",
+    "fetch/img/2026-11-26_T_sabahbarca_28.jpg"
+   ],
+   "credit": "Foto: Aykhan Zayedzadeh / Wikimedia Commons, CC BY-SA 4.0",
+   "checked": "26 Nov 10:20: 10 CC BY-SA photos from the match night (Commons 'Sabah FK v Barcelona, 25 November 2026'): 11 = fireworks over the full stadium + UCL ball logo (great hook/payoff), 19/24 = teams lined up at the centre circle, others = wide stadium shots during play. No player close-ups, no watermark. _3/_7/_8/_9/_32 downloads failed (3 KB error pages) — re-queue with the thumburl if more are needed. Still needed for the PHOTO STORY: Mickels / goal moment (Sabah FK official or agency per REAL PHOTOS rule)."
+  }
  }
 }

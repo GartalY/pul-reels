@@ -6,7 +6,7 @@
  "planned_note": "Planned in the 2026-11-25 09:10 run. Thu 26 Nov = MYTH vs FACT day (3 NEW FORMATS test to 2 Dec): 13:00 = static MYTH vs FACT photo+words reel from facts[0] (Great Wall 'visible from space' myth) — no voice, silent track, IG normal REEL. 18:30 = freshest AZ story at 09:10 on 26 Nov (likely Sabah – Barcelona result, played 25 Nov 21:45 Baku → football → TikTok swap) or facts[1] animated backup: BTC pipeline (Arif). Categories: myth/places (world) + money & business/engineering (AZ). Week 23–29 Nov: sports 2/2 after the 25 Nov boxing trend (Sabah result tomorrow would be a 3rd sports piece — allowed only because the biggest news wins, NEVER LOCK A TOPIC), space 0/2 (the myth is about Earth seen from orbit; counted as places/myth, not space). No carousels/quizzes/stories.",
  "format_log": {
   "13:00": "myth",
-  "18:30": "trend (backup: facts[1] fact/animated)"
+  "18:30": "trend (Sabah 1-4 Barcelona, IG+YT); TikTok swap → runner-up / facts[1]"
  },
  "facts": [
   {
@@ -147,5 +147,88 @@
  },
  "youtube": {
   "13:00 Çin səddi mifi": 442018096
+ },
+ "trend": {
+  "n": "T",
+  "type": "reel",
+  "format": "animated_1830",
+  "content_format": "trend",
+  "post_format": "trend",
+  "cat": "İdman / Futbol",
+  "picked_at": "09:15–10:30 Baku 26 Nov (1st trend check)",
+  "rule_note": "Biggest AZ story of the last 24 h by far: Sabah 1-4 Barcelona, UCL league phase MD5, Baku Olympic Stadium, 25 Nov 21:45 Baku — Barcelona's first official senior match in Azerbaijan, every AZ outlet + ESPN/beIN/Yahoo led with it. NEVER LOCK A TOPIC: biggest news wins although it is the 3rd sports piece of the week (boxing 25 Nov, Sabah–Barça DATA 23 Nov). Football → TikTok FOOTBALL SWAP applies (tiktok_swap true): IG + YouTube get this reel, TikTok 18:30 gets runners_up[0] if confirmed, else tomorrow's facts[1]-style animated backup = today's facts[1] BTC pipeline (still unused). Positive/neutral angle only: a debutant scoring against Barça in a historic night for Baku; no mocking of the 1-4. Skipped: Almaty house fire, Qazax yard explosion (tragedies), FM Lithuania–AZ watching the match (side note only).",
+  "subject": "Sabah 1-4 Barcelona, 25 Nov 2026, Baku Olympic Stadium, UEFA Champions League league phase matchday 5 (ESPN report, beIN, Arise, qol.az 23:34, arena.az 23:40, redaktor.az 23:45). Goals: Anthony Gordon 31' and 51', Karim Adeyemi 55' (assist Balde), Gabriel Jesus 60'; Sabah: Joy-Lance Mickels (AZ spelling 'Coy-Lens Mikels', German forward, sub after half-time) 63' from Chidozie Nwachukwu's pass (Arise + idman.biz). Lepinjica hit the bar at 27' (ESPN; Mickels told UEFA.com 'a shot hit the post'). Table after MD5: Barcelona 4th, 12 pts; Sabah 32nd, 3 pts (ESPN table, qol.az, redaktor.az). Sabah's season: 2-0 v Slavia Prague (only win), 0-4 at Man United, 1-2 v Dortmund, 1-4 at Viking (arena.az). Sabah are UCL debutants (Arise; founded 2017 — '9 years old' per lesnouvellesdufoot). FIRST official Barça senior match in Azerbaijan: idman.biz 168247 + lesnouvellesdufoot 27 Aug ('grand début en Azerbaïdjan'). Barça brought ~474 visiting fans via Penya Barcelonista Baku (idman.biz, PRE-match plan, single source → not in voice). beIN: 'longest European away trip in club history' (single source → 15:23 may add only if a 2nd source confirms). Former Barça/Arsenal player Alexander Hleb and Andrey Arshavin cheered Sabah's goal in the stands (idman.biz video, single source → visual idea only, no claim in voice). Mickels to UEFA.com (via idman.biz 168660): 'Barselonaya iki-üç qol vura bilərdik'. Lamine Yamal rested (ankle discomfort; ESPN + beIN). Attendance NOT found — 15:23 check uefa.com match page/report; if found, add as counter.",
+  "context_check": "(1) It is a 1-4 DEFEAT — say it plainly in sentence 1; the angle is the history of the night + the goal, never 'we beat Barça'. (2) 'Ilk dəfə' = Barcelona's first OFFICIAL senior match in Azerbaijan (2 sources); not 'first time Barça came to Baku' (youth/futsal/friendlies may exist). (3) Mickels's goal = 'təsəlli qolu' (consolation) — don't overhype as 'historic first AZ goal v Barça' (unverified; Qarabağ/Neftçi records not checked). (4) Barça rested Lamine Yamal and rotated (Raphinha, Cancelo, Eric García on the bench) — be honest if mentioned, don't hide it. (5) Neutral about the Lithuanian coach Dambrauskas and FM visit; no politics. (6) Spelling: 'Coy-Lens Mikels' as AZ media write it; on screen add 'Joy-Lance Mickels' small? → use AZ spelling only (all AZ outlets).",
+  "reel_hook": "1:4 — AMMA BARSELONA İLK DƏFƏ AZƏRBAYCANDA: «SABAH» QOL VURDU",
+  "hook_options": [
+   "1:4 — AMMA BARSELONA İLK DƏFƏ AZƏRBAYCANDA: «SABAH» QOL VURDU",
+   "9 YAŞLI «SABAH» 127 YAŞLI BARSELONAYA QOL VURDU",
+   "63-CÜ DƏQİQƏ: BAKIDA BARSELONAYA QOL!",
+   "ÇEMPİONLAR LİQASINDA İLK İL, QARŞIDA BARSELONA: 1:4",
+   "4 QOL, 1 CAVAB: BARSELONA BAKIDA"
+  ],
+  "hook_pick_reason": "Score-first (honest about the defeat) + a 'first' (Barça's first official game in Azerbaijan) + pride emotion (the goal); names both clubs in frame 0 (ALWAYS NAME IT). The '9 vs 127 years' age contrast is the scale flashback; Mickels's 'we could have scored 2–3' is the payoff. 15:23 may swap to option 2 if the build wants the age contrast on frame 0 (Barça founded 1899 → 127 years on 29 Nov 2026 — say '127 yaşlı' only from 29 Nov; on 26 Nov Barça is 126 → use '126 yaşlı' or 'yüz ildən çox')",
+  "reel_beats": [
+   "25 noyabr, Bakı Olimpiya Stadionu: «Sabah» Çempionlar Liqasında Barselonaya 1:4 uduzdu. Bu, Barselonanın Azərbaycanda ilk rəsmi oyunu idi.",
+   "Barselona 30 dəqiqədə dörd qol vurdu: Qordon iki dəfə, Adeyemi və Jezus bir dəfə.",
+   "63-cü dəqiqədə ehtiyatdan çıxan Coy-Lens Mikels Nvaçukvunun ötürməsi ilə qol vurdu — stadion ayağa qalxdı.",
+   "«Sabah» Çempionlar Liqasında ilk ilidir: 5 oyunda 3 xal, yeganə qələbə Slaviyaya qarşı 2:0. Barselona isə 12 xalla 4-cüdür."
+  ],
+  "payoff": "Ən maraqlısı: oyundan sonra Mikels dedi: «Barselonaya iki-üç qol vura bilərdik». Birinci hissədə «Sabah»ın zərbəsi qapı dirəyinə dəymişdi.",
+  "twist": "A 9-year-old debutant club (founded 2017) scores against a club founded in 1899 on its first-ever official visit to Azerbaijan; loop: '…iki-üç qol vura bilərdik' → hook '1:4'.",
+  "voice_texts": [
+   "Bir — dörd. Amma bu gecə Bakı üçün tarixi idi!",
+   "Barselona Azərbaycanda ilk rəsmi oyununu «Sabah»a qarşı oynadı.",
+   "Qonaqlar otuz dəqiqədə dörd qol vurdu.",
+   "Amma altmış üçüncü dəqiqədə Coy-Lens Mikels cavab verdi.",
+   "Oyundan sonra dedi: «Barselonaya iki-üç qol vura bilərdik».",
+   "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
+  ],
+  "voice_word_count": 46,
+  "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+  "send_line": "📩 «Sabah» azarkeşi dostuna göndər ⚽",
+  "caption": "«Sabah» 1:4 Barselona — Bakıda tarixi gecə ⚽\n\n25 noyabrda Barselona Azərbaycanda ilk rəsmi oyununu keçirdi. Bakı Olimpiya Stadionunda qonaqlar 31-60-cı dəqiqələr arasında dörd qol vurdu: Entoni Qordon (2), Kərim Adeyemi və Qabriel Jezus. 63-cü dəqiqədə ehtiyatdan çıxan Coy-Lens Mikels Nvaçukvunun ötürməsi ilə «Sabah»ın qolunu vurdu. Çempionlar Liqasında ilk ilini keçirən «Sabah» 5 oyundan sonra 3 xalla 32-cidir, Barselona 12 xalla 4-cü. Mikels oyundan sonra: «Barselonaya iki-üç qol vura bilərdik».\n\n📩 «Sabah» azarkeşi dostuna göndər ⚽\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nSəs: elevenlabs.io\nMənbə: UEFA, ESPN, qol.az\n\n#bilirdinizmi #sabah #barselona #çempionlarliqası #bakı",
+  "first_comment": "Mikels haqlıdır? «Sabah» daha çox qol vura bilərdimi? 👇",
+  "youtube_title": "Sabah 1:4 Barselona: Bakıda tarixi gecə ⚽ #shorts",
+  "visual_ideas": [
+   "Frame 0: huge scoreboard 'SABAH 1 : 4 BARSELONA' flips in, stamp 'İLK DƏFƏ AZƏRBAYCANDA' slams under it.",
+   "Stadium world (top-down pitch, Baku Olympic Stadium outline); a running minute clock 0' → 90' in the corner is the progress counter.",
+   "Goals 31' 51' 55' 60' drop in as balls into the Sabah net, each with the scorer's name plate (Qordon ×2, Adeyemi, Jezus) — fast, 1 s each.",
+   "63': the clock freezes, crowd wave across the stands, 'MİKELS 63'' in Sabah colours, ball into the Barça net, impact SFX.",
+   "Age scale: two badges side by side '2017' vs '1899' with a timeline bar growing (9 vs 126 years) — flashback for scale.",
+   "League table strip: Barça 4th 12 pts · Sabah 32nd 3 pts, Sabah row glows on '2:0 Slaviya'.",
+   "Payoff: post/crossbar 'DING' replaced by a thud SFX (no tonal), quote card «iki-üç qol vura bilərdik».",
+   "PHOTO STORY (Gartal 22 Nov): real photos — match photos from AZ outlets/agency (credit, ≤2–3 s each, no watermark), Mickels, Sabah fans, Baku Olympic Stadium exterior (Wikimedia), Barça players (agency). 6–10 different images. Commons search queued: fetch/img/2026-11-26_search_sabahbarca.json."
+  ],
+  "photo_leads": [
+   "Baku Olympic Stadium — Wikimedia Commons (several CC photos)",
+   "Match photos: qol.az / idman.biz / report.az galleries, UEFA, agency (Reuters/AP/Getty per REAL PHOTOS rule; credit 'Foto: …', log agency_photos)",
+   "Mickels portrait: Sabah FK official site/Instagram (credit), else agency"
+  ],
+  "sources": [
+   "https://www.espn.com/soccer/report/_/gameId/401915378",
+   "https://www.beinsports.com/en-us/soccer/uefa-champions-league/articles/all-goals-sabah-vs-barcelona-champions-league-2026-11-25",
+   "https://www.arise.tv/barcelona-thrash-ucl-debutants-sabah-fk-4-1-in-baku/",
+   "https://qol.az/news/233563-sabah-barselonaya-meglub-oldu",
+   "https://arena.az/cl-sabah-barselonaya-boyuk-hesabla-uduzdu/",
+   "https://redaktor.az/news/sport/351407-sabah-bakida-barselonaya-meglub",
+   "https://www.idman.biz/az/news/world-football/168660",
+   "https://www.idman.biz/az/news/world-football/168643",
+   "https://www.idman.biz/az/news/world-football/168247",
+   "https://lesnouvellesdufoot.fr/le-barca-fera-son-grand-debut-en-azerbaidjan-contre-letonnant-sabah-fk-qui-na-que-neuf-ans-dexistence/"
+  ],
+  "source_scan": "09:15 26 Nov: apa.az, report.az (AZ + EN), trend.az, operativmedia, qol.az, arena.az, redaktor.az, idman.biz, adalet.az via search; world: ESPN/beIN/Yahoo/Sofascore (Sabah–Barça), gold > $3 600 (apa), Azeri Light > $96. AZ-culture scan: azernews culture (Aliya Bababeyova Grand Prix, Suliko festival; Emin İsmayılov Carnegie Hall — 13 Nov, too old), Hague film (used 18 Nov). Tragedies skipped: Almaty house fire, Qazax explosion.",
+  "runners_up": [
+   {
+    "story": "Aliya Bababeyova (16, Bülbül music school) won the Grand Prix of the 15th Suliko International Music Festival, Karlovy Vary (Czechia) — Chopin Polonaise op. 26 no. 1 + Fikrət Əmirov Prelude no. 2; musicians 6–20 from 5 countries, 9-member jury. azernews.az 25 Nov 13:27 (single source, event date not stated).",
+    "use": "TikTok FOOTBALL SWAP 18:30 candidate if 15:23 finds a 2nd source (azertag/report/apa/culture.gov.az) and the event date is within 48 h; a real photo is needed (her school/organiser posts). Otherwise TikTok gets facts[1] BTC pipeline animated (already researched, unused)."
+   },
+   {
+    "story": "If something bigger breaks by 15:23 (non-football AZ first/record, big world story with an AZ face — run the AZ ANGLE searches), it replaces the runner-up for TikTok; for IG/YT only if bigger than Sabah–Barça.",
+    "use": "15:23 re-check"
+   }
+  ],
+  "tiktok_swap": true,
+  "status": "picked 09:15 26 Nov; 14:47/15:23 build (Arif)"
  }
 }

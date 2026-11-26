@@ -1,0 +1,28 @@
+{
+ "hook": "10 MİLYON BARREL NEFT — SADƏCƏ BU BORUNU DOLDURMAQ ÜÇÜN",
+ "hook_s": 2.4,
+ "hook_bg": true,
+ "beats": [
+  "Bakı–Tbilisi–Ceyhan neft kəmərinin uzunluğu 1 768 km-dir: 443 km Azərbaycanda, 249 km Gürcüstanda, 1 076 km Türkiyədə.",
+  "Boru 2 830 metr hündürlükdə dağlardan keçir və 1 500-dən çox çayı, arxı aşır.",
+  "Kəməri ilk dəfə doldurmaq üçün 10 milyon barrel neft lazım oldu. Bakı nefti Ceyhana ilk dəfə 28 may 2006-da çatdı.",
+  "2023-cü ilin yanvarında kəmərdən 4 milyardıncı barrel neft keçdi.",
+  "Ən maraqlısı: kəməri 20 il «bp» idarə etdi. 1 iyul 2026-dan isə onun operatoru SOCAR-dır.",
+  "Mənbə: bp, AZERTAC, report.az"
+ ],
+ "pills": [
+  "1 768 KM",
+  "2 830 M",
+  "10 MLN BARREL",
+  "4 MİLYARD",
+  "ƏN MARAQLISI",
+  "MƏNBƏ"
+ ],
+ "photo_beats": {
+  "1": "fetch/img/2026-11-26_2_btc_sign.jpg",
+  "4": "fetch/img/2026-11-26_2_btc_map.png"
+ },
+ "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+ "seed": 27,
+ "full": false
+}

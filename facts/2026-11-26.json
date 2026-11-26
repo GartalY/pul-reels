@@ -1,6 +1,6 @@
 {
  "date": "2026-11-26",
- "status": "13:00 scheduled (static MYTH Great Wall 'visible from space', no voice, silent track, IG REEL); 18:30 animated Arif reel = 14:47/15:23 tasks",
+ "status": "13:00 scheduled (static MYTH Great Wall 'visible from space', no voice, silent track, IG REEL); 18:30 animated Arif reel = 14:47/15:23 tasks | 18:30 scheduled 15:57: IG 443011315 + YT 443011471 Sabah–Barselona animated Arif; TikTok swap BTC static silent 443011678",
  "format": "v4",
  "content_format": "quality_reset_2026-11-12",
  "planned_note": "Planned in the 2026-11-25 09:10 run. Thu 26 Nov = MYTH vs FACT day (3 NEW FORMATS test to 2 Dec): 13:00 = static MYTH vs FACT photo+words reel from facts[0] (Great Wall 'visible from space' myth) — no voice, silent track, IG normal REEL. 18:30 = freshest AZ story at 09:10 on 26 Nov (likely Sabah – Barcelona result, played 25 Nov 21:45 Baku → football → TikTok swap) or facts[1] animated backup: BTC pipeline (Arif). Categories: myth/places (world) + money & business/engineering (AZ). Week 23–29 Nov: sports 2/2 after the 25 Nov boxing trend (Sabah result tomorrow would be a 3rd sports piece — allowed only because the biggest news wins, NEVER LOCK A TOPIC), space 0/2 (the myth is about Earth seen from orbit; counted as places/myth, not space). No carousels/quizzes/stories.",
@@ -135,18 +135,23 @@
  ],
  "pending_schedule": null,
  "media": {
-  "13:00 Çin səddi mifi": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-26_1300_greatwall_myth_silent.mp4"
+  "13:00 Çin səddi mifi": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-26_1300_greatwall_myth_silent.mp4",
+  "18:30 Sabah–Barselona": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-26_1830_sabah_barca_arif.mp4",
+  "18:30 TikTok BTC": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-26_1830_tiktok_btc_silent.mp4"
  },
  "ig_type": "REEL",
  "scheduled_check": "25 Nov 20:49: getScheduledPosts 26 Nov was empty before creating; 3 posts created (IG/TT/YT 13:00). TikTok first try rejected 'TikTok title is required' -> retried with tiktokData.title (nothing created by the failed call).",
  "metricool": {
-  "13:00 reel (Çin səddi mifi, MYTH static, silent, IG REEL)": 442017835
+  "13:00 reel (Çin səddi mifi, MYTH static, silent, IG REEL)": 442017835,
+  "18:30 IG Sabah–Barselona animated Arif": 443011315
  },
  "tiktok": {
-  "13:00 Çin səddi mifi": 442018256
+  "13:00 Çin səddi mifi": 442018256,
+  "18:30 TikTok swap: BTC pipeline (static, silent)": 443011678
  },
  "youtube": {
-  "13:00 Çin səddi mifi": 442018096
+  "13:00 Çin səddi mifi": 442018096,
+  "18:30 Sabah–Barselona animated Arif": 443011471
  },
  "trend": {
   "n": "T",
@@ -284,7 +289,7 @@
   "language_check": "Section L: 7 sentences, all ≤ 8 words; numbers written out (bir, dörd, otuz, altmış üçüncü, iki-üç); 'X-a qarşı oynamaq', 'ilk ilini keçirir', 'cavab verdi', 'vura bilərdik' — plain Baku spoken forms; no Turkish (-yor) or Russian calques; Mikels in AZ-media spelling 'Coy-Lens Mikels'. Short calm sentences for the slower-voice feedback (24 Nov).",
   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
   "voice": "arif",
-  "status": "voice ready (Arif, slowed 0.92); 15:23 build next",
+  "status": "scheduled 15:57 Baku: IG + YT animated Sabah–Barselona (Arif); TikTok = football swap, BTC static silent (facts[1])",
   "arif_mp3": "reels/arif/2026-11-26_1830.mp3",
   "arif_raw_mp3": "reels/arif/2026-11-26_1830_raw.mp3",
   "arif_credits": 311,
@@ -293,6 +298,42 @@
   "words_json": "reels/arif/2026-11-26_1830.words.json",
   "words_json_note": "phrase timings from silencedetect (exact), word timings estimated — ElevenLabs transcription refused as 'busy' (not retried, optional step). 9 phrases, pauses 0.28–0.55 s already between sentences.",
   "elevenlabs_flow": "m0gsoWEf8blkAPm71Gzk",
-  "arif_generated_at": "14:5x Baku 26 Nov, 1st attempt"
+  "arif_generated_at": "14:5x Baku 26 Nov, 1st attempt",
+  "look": "PHOTO STORY on night-stadium world, fixed SUBTITLE BAR (y 1252–1442), scoreboard 1:4 hook, zoomed goal timeline, Mikels photos",
+  "duration_s": 25.3,
+  "voice_used": "arif (reels/arif/2026-11-26_1830.mp3, slowed 0.92)",
+  "media_url": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-26_1830_sabah_barca_arif.mp4",
+  "metricool": {
+   "instagram": 443011315,
+   "youtube": 443011471,
+   "tiktok": 443011678
+  },
+  "tiktok_swap_done": {
+   "what": "silent static photo+words reel of facts[1] (BTC pipeline, 31.7 s, factgen, pure silence) — time/fallback rule; no 2nd Arif take generated",
+   "media_url": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-26_1830_tiktok_btc_silent.mp4",
+   "spec": "out/2026-11-26/2_tiktok_btc_spec.json",
+   "format": "fact",
+   "photos": [
+    "fetch/img/2026-11-26_2_btc_map.png (Charles, CC BY-SA 4.0)",
+    "fetch/img/2026-11-26_2_btc_sign.jpg (Amga, CC BY-SA 3.0)"
+   ]
+  },
+  "photos": [
+   "fire/lineup1/warm22/play1/play2/wide17 = Commons 'Sabah FK v Barcelona, 25 November 2026' (11/19/22/20/26/17), Aykhan Zayedzadeh CC BY-SA 4.0",
+   "sabah_hapoel1/2 tifo — Aykhan Zayedzadeh CC BY-SA 4.0",
+   "mikels_pitch = File:Joy-Lance Mickels.jpg, Nicat49 CC BY 4.0",
+   "mikels_talk = Joy-Lance Mickels in October 2026 as a player of Sabah 04, Aykhan Zayedzadeh CC BY-SA 4.0",
+   "campnou — Oh-Barcelona.com CC BY 2.0",
+   "bakunight — Avisadehh CC0",
+   "olympic — Eminn CC BY-SA 4.0"
+  ],
+  "photo_count": 14,
+  "agency_photos": [],
+  "critique": "reels/2026-11-26_1830/docs/critique.md (3 rounds; last: hook 8, readability 8, motion 8, variety 8, accuracy 9, sync 8)",
+  "mix": "voice +2 dB, SFX -9 dB (non-melodic: thud/click/tick/whoosh/impact/crash), no music; -14.2 LUFS, -1.2 dBTP; CRF 22, 8.4 MB, 60 fps",
+  "caption_first_line": "Sabah – Barselona 1:4: Bakı üçün tarixi gecə ⚽",
+  "first_comment": "Sizcə «Sabah» Barselonaya 2-3 qol vura bilərdi? 👇",
+  "send_line": "📩 Sabahı sevən dostuna göndər ⚽",
+  "scheduled_check": "15:5x getScheduledPosts 26 Nov: only the three 13:00 posts (published) — no 18:30 post existed, so 3 new posts created."
  }
 }

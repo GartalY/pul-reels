@@ -229,7 +229,7 @@
    }
   ],
   "tiktok_swap": true,
-  "status": "picked 09:15 26 Nov; 14:47/15:23 build (Arif)",
+  "status": "picked 09:15 26 Nov; 14:50 2nd check kept it; reel_1830 script written; 15:23 build (Arif)",
   "photos_found": {
    "files": [
     "fetch/img/2026-11-26_T_sabahbarca_2.jpg",
@@ -246,5 +246,44 @@
    "credit": "Foto: Aykhan Zayedzadeh / Wikimedia Commons, CC BY-SA 4.0",
    "checked": "26 Nov 10:20: 10 CC BY-SA photos from the match night (Commons 'Sabah FK v Barcelona, 25 November 2026'): 11 = fireworks over the full stadium + UCL ball logo (great hook/payoff), 19/24 = teams lined up at the centre circle, others = wide stadium shots during play. No player close-ups, no watermark. _3/_7/_8/_9/_32 downloads failed (3 KB error pages) — re-queue with the thumburl if more are needed. Still needed for the PHOTO STORY: Mickels / goal moment (Sabah FK official or agency per REAL PHOTOS rule)."
   }
+ },
+ "reel_1830": {
+  "topic": "«Sabah» 1:4 Barselona, 25 Nov 2026, Bakı Olimpiya Stadionu, UEFA Çempionlar Liqası liqa mərhələsi 5-ci tur — Barselonanın Azərbaycanda ilk rəsmi oyunu; Coy-Lens Mikels 63' təsəlli qolu",
+  "format": "trend",
+  "content_format": "trend",
+  "tiktok_swap": true,
+  "picked_at": "14:50 Baku 26 Nov (2nd trend check by 14:47 task: nothing bigger in AZ/world feeds — azertag top stories, azernews, Sabah–Barça still the top AZ story). Keeps 09:10 pick.",
+  "second_check": "14:50 searches: 'Azərbaycan xəbərlər 26 noyabr 2026' (azertag — nothing bigger), 'Azerbaijan news November 26 2026' (azertag/azernews — nothing bigger), 'Sabah Barcelona 1-4 Baku Mickels' (uefa.com lineups page, legionreport live report confirm the match). Football → TikTok swap stays (15:23 decides runner-up vs facts[1]). Sports 3/2 this week — allowed only because biggest news wins (NEVER LOCK A TOPIC).",
+  "sources": [
+   "https://www.espn.com/soccer/report/_/gameId/401915378",
+   "https://www.beinsports.com/en-us/soccer/uefa-champions-league/articles/all-goals-sabah-vs-barcelona-champions-league-2026-11-25",
+   "https://www.arise.tv/barcelona-thrash-ucl-debutants-sabah-fk-4-1-in-baku/",
+   "https://qol.az/news/233563-sabah-barselonaya-meglub-oldu",
+   "https://arena.az/cl-sabah-barselonaya-boyuk-hesabla-uduzdu/",
+   "https://redaktor.az/news/sport/351407-sabah-bakida-barselonaya-meglub",
+   "https://www.idman.biz/az/news/world-football/168660",
+   "https://www.idman.biz/az/news/world-football/168643",
+   "https://www.idman.biz/az/news/world-football/168247",
+   "https://lesnouvellesdufoot.fr/le-barca-fera-son-grand-debut-en-azerbaidjan-contre-letonnant-sabah-fk-qui-na-que-neuf-ans-dexistence/",
+   "https://www.uefa.com/uefachampionsleague/match/2049642--sabah-vs-barcelona/lineups/",
+   "https://legionreport.com/sabah-vs-barcelona-score/",
+   "https://www.aljazeera.com/sports/2026/9/10/man-utd-cruise-past-sabah-on-champions-league-return-with-4-0-win"
+  ],
+  "fact_check": "1:4 score + goal minutes (31,51,55,60 Barça; 63 Mickels): ESPN + beIN + qol.az. First official Barça senior match in AZ: idman.biz 168247 + lesnouvellesdufoot. Sabah UCL debutants: Arise + Al Jazeera ('Sabah … Champions League return' of Man Utd vs debutants). 'Otuz dəqiqədə dörd qol' = 31'→60' (ESPN). Mickels quote: idman.biz 168660 quoting UEFA.com — said as his own words ('dedi'), a claim not a fact.",
+  "context_check": "(1) It is a 1-4 DEFEAT — say it plainly in sentence 1; the angle is the history of the night + the goal, never 'we beat Barça'. (2) 'Ilk dəfə' = Barcelona's first OFFICIAL senior match in Azerbaijan (2 sources); not 'first time Barça came to Baku' (youth/futsal/friendlies may exist). (3) Mickels's goal = 'təsəlli qolu' (consolation) — don't overhype as 'historic first AZ goal v Barça' (unverified; Qarabağ/Neftçi records not checked). (4) Barça rested Lamine Yamal and rotated (Raphinha, Cancelo, Eric García on the bench) — be honest if mentioned, don't hide it. (5) Neutral about the Lithuanian coach Dambrauskas and FM visit; no politics. (6) Spelling: 'Coy-Lens Mikels' as AZ media write it; on screen add 'Joy-Lance Mickels' small? → use AZ spelling only (all AZ outlets). 14:50: defeat stated in sentence 1; 'stadion ayağa qalxdı' dropped from voice (not sourced); quote kept as Mikels's own words.",
+  "hooks": [
+   "Bir — dörd. Amma bu gecə Bakı üçün tarixi idi!",
+   "Doqquz yaşlı klub Barselonaya qol vurdu!",
+   "Barselona ilk dəfə Azərbaycanda rəsmi oyun oynadı!",
+   "Altmış üçüncü dəqiqə: Bakıda Barselonaya qol!",
+   "Dörd qol yedik, amma bir qol hamını sevindirdi!"
+  ],
+  "hook_pick": "Bir — dörd. Amma bu gecə Bakı üçün tarixi idi! — number (the score) + emotion ('tarixi'), honest about the defeat (CONTEXT CHECK 1); Barça named in sentence 2; Mikels's quote is the payoff and loops back to '1:4'. Matches 09:10 reel_hook (frame 0 scoreboard).",
+  "voice_text": "Bir — dörd. Amma bu gecə Bakı üçün tarixi idi! Barselona Azərbaycanda ilk rəsmi oyununu «Sabah»a qarşı oynadı. «Sabah» Çempionlar Liqasında ilk ilini keçirir. Qonaqlar otuz dəqiqədə dörd qol vurdu. Amma altmış üçüncü dəqiqədə Coy-Lens Mikels cavab verdi. Oyundan sonra dedi: «Barselonaya iki-üç qol vura bilərdik». Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+  "voice_word_count": 53,
+  "language_check": "Section L: 7 sentences, all ≤ 8 words; numbers written out (bir, dörd, otuz, altmış üçüncü, iki-üç); 'X-a qarşı oynamaq', 'ilk ilini keçirir', 'cavab verdi', 'vura bilərdik' — plain Baku spoken forms; no Turkish (-yor) or Russian calques; Mikels in AZ-media spelling 'Coy-Lens Mikels'. Short calm sentences for the slower-voice feedback (24 Nov).",
+  "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+  "voice": "pending",
+  "status": "script written 14:5x Baku 26 Nov; Arif generation next"
  }
 }

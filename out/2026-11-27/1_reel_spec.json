@@ -1,0 +1,33 @@
+{
+ "hook": "0 MİSMAR, 0 YAPIŞQAN: ŞƏKİ XAN SARAYININ PƏNCƏRƏLƏRİ",
+ "beats": [
+  "Şəki Xan Sarayı 18-ci əsrin sonunda tikilib. Ən məşhur hissəsi pəncərələridir — «şəbəkə».",
+  "Şəbəkədə kiçik rəngli şüşə parçaları taxta qəfəsə bir-bir yerləşdirilir.",
+  "Bu pəncərələrdə nə mismar var, nə də yapışqan. Taxta hissələr bir-birinə keçir və şüşəni özləri tutur.",
+  "Günəş düşəndə rəngli şüşələr otağın divarlarına və döşəməsinə rəng saçır.",
+  "Ən maraqlısı: 2019-cu ildə Şəkinin tarixi mərkəzi Xan Sarayı ilə birlikdə UNESCO-nun Dünya İrsi siyahısına daxil edildi.",
+  "Qərar da elə Bakıda keçirilən sessiyada verildi!"
+ ],
+ "pills": [
+  "ŞƏKİ XAN SARAYI",
+  "ŞƏBƏKƏ",
+  "0 MİSMAR, 0 YAPIŞQAN",
+  "RƏNG OYUNU",
+  "ƏN MARAQLISI",
+  "BAKI, 2019"
+ ],
+ "photo_beats": {
+  "0": "fetch/img/2026-11-27_1_sheki_e.jpg",
+  "1": "fetch/img/2026-11-27_1_shebeke_b.jpg",
+  "2": "fetch/img/2026-11-27_1_sheki_c.jpg",
+  "3": "fetch/img/2026-11-27_1_shebeke_a.jpg",
+  "4": "fetch/img/2026-11-27_1_sheki_a.jpg",
+  "5": "fetch/img/2026-11-27_1_sheki_d.jpg"
+ },
+ "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+ "seed": 27,
+ "cy": 0.5,
+ "full": true,
+ "hook_bg": true,
+ "hook_s": 2.6
+}

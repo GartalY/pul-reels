@@ -794,3 +794,4 @@ search_nyse_2411.json https://commons.wikimedia.org/w/api.php?action=query&forma
 2026-11-26_W_tidal_a.jpg https://images.unsplash.com/photo-1761005654036-ffe7410d5d2a?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=1600
 2026-11-26_W_tidal_b.jpg https://images.unsplash.com/photo-1761005654126-6d512251d7a3?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=1600
 2026-11-26_search_mickels.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=Mickels
+2026-11-26_search_mickels2.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=10&prop=imageinfo&iiprop=url|size|extmetadata&gsrsearch=%22Joy-Lance%22

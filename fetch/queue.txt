@@ -791,3 +791,5 @@ search_nyse_2411.json https://commons.wikimedia.org/w/api.php?action=query&forma
 2026-11-26_T_sabahbarca_7.jpg https://upload.wikimedia.org/wikipedia/commons/1/1f/Sabah_FK_v_Barcelona%2C_25_November_2026_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 2026-11-26_T_sabahbarca_8.jpg https://upload.wikimedia.org/wikipedia/commons/b/b7/Sabah_FK_v_Barcelona%2C_25_November_2026_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 2026-11-26_T_sabahbarca_9.jpg https://upload.wikimedia.org/wikipedia/commons/4/40/Sabah_FK_v_Barcelona%2C_25_November_2026_%289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+2026-11-26_W_tidal_a.jpg https://images.unsplash.com/photo-1761005654036-ffe7410d5d2a?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=1600
+2026-11-26_W_tidal_b.jpg https://images.unsplash.com/photo-1761005654126-6d512251d7a3?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=1600

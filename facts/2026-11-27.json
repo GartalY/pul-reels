@@ -3,7 +3,7 @@
  "status": "13:00 scheduled (static Şəki Xan Sarayı shebeke, no voice, silent track, IG REEL); 18:30 Fri GUESS animated Arif = 14:47/15:23 tasks",
  "format": "v4",
  "content_format": "quality_reset_2026-11-12",
- "planned_note": "Planned in the 2026-11-26 09:10 run. Fri 27 Nov: 13:00 = static photo+words reel from facts[0] (Şəki Xan Sarayı shebeke, no voice, silent track, IG normal REEL). 18:30 Fri = GUESS THE ANSWER animated day (3 NEW FORMATS test to 2 Dec): the 09:10 27 Nov trend pick should be told as a guess if it fits; if no fresh AZ story fits, facts[1] = animated GUESS backup (Qaval daş, Arif). Categories: architecture/crafts (Şəki) + culture/music & ancient history (Qobustan) — both AZ (MANDATE DECISION 2026-11-11), neither sports nor space (week 23–29 Nov: sports 3 incl. Sabah–Barça trend = biggest news, space 0). No carousels/quizzes/stories.",
+ "planned_note": "Planned in the 2026-11-26 09:10 run. Fri 27 Nov: 13:00 = static photo+words reel from facts[0] (Şəki Xan Sarayı shebeke, no voice, silent track, IG normal REEL). 18:30 Fri = GUESS THE ANSWER animated day (3 NEW FORMATS test to 2 Dec): the 09:10 27 Nov trend pick should be told as a guess if it fits; if no fresh AZ story fits, facts[1] = animated GUESS backup (Qaval daş, Arif). Categories: architecture/crafts (Şəki) + culture/music & ancient history (Qobustan) — both AZ (MANDATE DECISION 2026-11-11), neither sports nor space (week 23–29 Nov: sports 3 incl. Sabah–Barça trend = biggest news, space 0). No carousels/quizzes/stories. | 09:10 27 Nov: trend picked = Caspian desalination plant GUESS (300 000 m³/day ≈ 120 Olympic pools); facts[1] Qaval daş stays the GUESS backup.",
  "format_log": {
   "13:00": "fact",
   "18:30": "guess (trend if fresh AZ story; backup facts[1] guess/animated)"
@@ -165,5 +165,80 @@
   "audio": "silent, volumedetect max -91 dB",
   "photos": "6 Commons photos (shebeke_a hook, sheki_e, shebeke_b, sheki_c, shebeke_a, sheki_a, sheki_d)",
   "fixes": "v2: non-breaking spaces so '0 MİSMAR'/'0 YAPIŞQAN' and the CTA 'bir fakt!' never split"
+ },
+ "trend": {
+  "n": "T",
+  "type": "reel",
+  "format": "animated_1830",
+  "content_format": "guess",
+  "post_format": "guess",
+  "cat": "Elm / Su / Xəzər",
+  "picked_at": "09:15–10:10 Baku 27 Nov (1st trend check)",
+  "rule_note": "Fri = GUESS THE ANSWER animated day (3 NEW FORMATS test to 2 Dec). Freshest big AZ-angle story with a guessable number: Azerbaijan's FIRST large-scale Caspian seawater desalination plant got its financing approved (ADB, 24 Nov; reported 24–26 Nov by report.az, trend.az, news.az, 1news.az, oc-media). FRESHNESS CAVEAT: news broke 24 Nov morning (~72 h ago) — slightly outside 24–48 h; picked because nothing fresher from 26–27 Nov had a real fact angle (scan below). 15:23 MUST swap if a runner-up confirms. Neutral national/economic news (AZ POLITICS RULE ok: no criticism, no praise words). Not sports, not space (week 23–29 Nov already has 3 sports). Not football → no TikTok swap; tiktok_swap false.",
+  "subject": "Caspian Sea Water Desalination Project: seawater reverse-osmosis plant, contracted capacity 300 000 m³/day, peak up to 330 000 m³/day (all 5 sources agree). Supplies Baku and the Absheron Peninsula (report, trend, news.az, 1news). Total cost $407 million (report, news.az, oc-media, 1news). 25-year PPP: design, build, finance, operate, maintain (report, trend, news.az, 1news). Developer ACWA Power (Saudi Arabia) (report, oc-media, 1news, news.az); EPC HDEC (PowerChina) with Spain's Savener. Offtaker: 'Böyük Şəhərlərin Birləşmiş Su Təchizatı Xidməti' (United Water Supply Services of Major Cities). 'First large-scale desalination plant' + 'first PPP in AZ water sector' (report, trend, news.az, 1news). ADB amount CONFLICT: $165M (70+70+25; report, news.az, oc-media) vs $140M (trend citing ADB, 1news) → never say an ADB amount in voice; AIIB earlier $45M (4 sources) → not needed. Location Sumgait = oc-media only → NOT in voice. Start/completion year: not stated anywhere → don't say. Pilot: Xıdırlı (Salyan) 2013, 1 000 → 2 000 m³/day = oc-media only → NOT in voice unless 15:23 finds a 2nd source (then '150 dəfə böyük' = 300 000 / 2 000, our arithmetic). Scale: 300 000 m³ ÷ 2 500 m³ (Olympic pool, 50×25×2 m) = 120 pools a day (our arithmetic; 'təxminən 120'). Caspian salinity ≈ 12.8 ‰ average (Britannica) vs ocean ≈ 35 ‰ → 'okeandan təxminən 3 dəfə az duzlu' (12.8×3≈38; general ocean figure).",
+  "context_check": "(1) Financing approved ≠ plant built: say 'tikiləcək' / 'maliyyə təsdiqlənib', never 'açıldı' or a finish date. (2) No ADB dollar figure (sources disagree); total $407M is safe (4 sources). (3) 'İlk böyük' — a small pilot existed (Xıdırlı 2013), so ALWAYS 'ilk BÖYÜK', never 'ilk'. (4) Brine/environment risks exist in ADB docs (Substantial E&S risk) — we make no 'eco-friendly' claims. (5) Don't claim % of Baku's water need or population served — no source. (6) Neutral tone, no 'tarixi nailiyyət'-type praise.",
+  "reel_hook": "XƏZƏRİN SUYU KRANA GƏLƏCƏK: GÜNDƏ NƏ QƏDƏR? Sənin cavabın? 👇",
+  "hook_options": [
+   "XƏZƏRİN SUYU KRANA GƏLƏCƏK: GÜNDƏ NƏ QƏDƏR? Sənin cavabın? 👇",
+   "GÜNDƏ 120 OLİMPİYA HOVUZU: XƏZƏRDƏN İÇMƏLİ SU",
+   "300 000 KUBMETR: AZƏRBAYCANDA İLK BÖYÜK DUZSUZLAŞDIRMA ZAVODU",
+   "DƏNİZ SUYUNU İÇMƏK OLARMI? BAKIDA CAVAB 407 MİLYON DOLLARDIR",
+   "XƏZƏR OKEANDAN 3 DƏFƏ AZ DUZLUDUR — VƏ BU SU BAKIYA GƏLƏCƏK"
+  ],
+  "hook_pick_reason": "GUESS recipe (question + 'Sənin cavabın? 👇' on frame 0), names the subject (Xəzər) in frame 0; the shocking number (300 000 m³ = ~120 Olympic pools a day) is the reveal after 3-2-1; the Caspian-is-3×-less-salty-than-the-ocean line is the twist/payoff. Option 2 is the number-first fallback if the 15:23 build drops the GUESS format.",
+  "reel_beats": [
+   "İpucu 1: Azərbaycanda ilk böyük dəniz suyu duzsuzlaşdırma zavodu tikiləcək. Su Bakıya və Abşerona veriləcək.",
+   "İpucu 2: Layihənin dəyəri 407 milyon dollardır. Zavodu 25 il ərzində özəl şirkət işlədəcək.",
+   "3… 2… 1… Cavab: gündə 300 000 kubmetr içməli su! Bu, təxminən 120 Olimpiya hovuzu deməkdir.",
+   "Lazım olanda zavod gündə 330 000 kubmetrə qədər su verə biləcək. Maliyyə noyabrın 24-də təsdiqləndi."
+  ],
+  "payoff": "Ən maraqlısı: Xəzər okeandan təxminən 3 dəfə az duzludur. Amma yenə də içmək olmur — əvvəlcə duzunu təmizləmək lazımdır.",
+  "twist": "Everyone calls it a sea, but the Caspian is ~3× less salty than the ocean — still undrinkable, hence the plant. Loop: '…duzunu təmizləmək lazımdır' → hook 'Xəzərin suyu krana gələcək'.",
+  "voice_texts": [
+   "Xəzərin suyu krana gələcək. Gündə nə qədər? Sənin cavabın?",
+   "Üç, iki, bir…",
+   "Gündə üç yüz min kubmetr! Təxminən yüz iyirmi Olimpiya hovuzu.",
+   "Bu, Azərbaycanda ilk böyük duzsuzlaşdırma zavodu olacaq. Su Bakıya və Abşerona veriləcək.",
+   "Maraqlısı: Xəzər okeandan üç dəfə az duzludur. Amma yenə içmək olmur.",
+   "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
+  ],
+  "voice_word_count": 50,
+  "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+  "send_line": "📩 Abşeronda yaşayan dostuna göndər 💧",
+  "caption": "Xəzərin suyu krana gələcək: gündə 300 000 kubmetr 💧\n\nAzərbaycanda ilk böyük dəniz suyu duzsuzlaşdırma zavodu tikiləcək. Zavod gündə 300 000 kubmetr (lazım olanda 330 000-ə qədər) içməli su verəcək — bu, təxminən 120 Olimpiya hovuzu deməkdir. Su Bakıya və Abşeron yarımadasına veriləcək. Layihənin dəyəri 407 milyon dollardır, zavodu 25 il ərzində özəl şirkət (ACWA Power) işlədəcək. Maliyyə 24 noyabrda təsdiqləndi. Ən maraqlısı: Xəzər okeandan təxminən 3 dəfə az duzludur, amma yenə də içmək olmur.\n\n📩 Abşeronda yaşayan dostuna göndər 💧\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nSəs: elevenlabs.io\nMənbə: report.az, trend.az, Britannica\n\n#bilirdinizmi #xəzər #bakı #içməlisu #azərbaycan",
+  "first_comment": "Sən neçə təxmin etmişdin? 👇 Xəzər suyunu dadmısan?",
+  "youtube_title": "Xəzərin suyu krana gələcək: gündə 300 000 kubmetr 💧 #shorts",
+  "visual_ideas": [
+   "Frame 0: a kitchen tap on the left, a wave of Caspian water on the right; big text 'XƏZƏRİN SUYU KRANA GƏLƏCƏK' + 'GÜNDƏ NƏ QƏDƏR? 👇'.",
+   "Clues as two cards sliding in with a small counter 'İPUCU 1/2 → 2/2' (progress counter); map outline of Absheron with Baku pin lighting up.",
+   "3-2-1 countdown big digits with a tick SFX (non-melodic).",
+   "Reveal: a running counter 0 → 300 000 m³ while Olympic pools (blue rectangles) fill up and stack in a grid 1 → 120.",
+   "Peak: the counter nudges to 330 000 with a small 'PİK' stamp.",
+   "Twist: two salt shakers / two beakers — 'OKEAN ~35 q/l' vs 'XƏZƏR ~13 q/l', salt grains drop, the Caspian one has a third; then a filter (reverse-osmosis membrane) squeezes salt out, a glass fills.",
+   "PHOTO STORY: real photos — Caspian shore (Commons search queued: fetch/img/2026-11-27_T_s_caspian.json), Baku Boulevard sea, a desalination plant (generic RO plant, Commons, labelled 'nümunə' so no one thinks it is ours), Absheron map; ACWA Power/ADB press photo only with credit. 6–8 images. Subtitle bar fixed (VIEWER FEEDBACK 24 Nov).",
+   "End card CTA + loop back to the tap."
+  ],
+  "sources": [
+   "https://report.az/en/finance/azerbaijan-s-first-major-caspian-sea-desalination-plant-receives-additional-165m",
+   "https://www.trend.az/azerbaijan/4250412.html",
+   "https://news.az/news/azerbaijan-to-build-major-caspian-sea-desalination-plant-with-adb-support",
+   "https://1news.az/en/news/20261124141509682-Caspian-Sea-water-to-be-desalinated-140-million-allocated",
+   "https://oc-media.org/funding-for-caspian-sea-desalination-plant-approved-amid-growing-concern-in-azerbaijan-over-water-security/",
+   "https://www.britannica.com/question/How-salty-is-the-Caspian-Sea"
+  ],
+  "source_scan": "09:15–10:00 27 Nov: apa.az (front page 25–27 Nov), news.az, trend.az (AZ list + sports), jam-news live digest 25–27 Nov, arena.az (Conference League MD4 26 Nov), report.az via search, Google-style searches 'Azərbaycan xəbərlər 26 noyabr', 'azərbaycanlı dünyada ilk', 'qızıl medal noyabr 2026'. World: Binance $6.3B hack (old, ~1 Nov; resumed withdrawals; past Bitcoin reels flopped) → no; tanker mine blasts off Oman (conflict) → no. Fresh but weak: Estonian FM in Baku, AZ–Lithuania strategic partnership (25–26 Nov, protocol only), Tartar + Masallı youth & sports capitals 2028, non-oil exports +136% (unclear base), AZAL 2025 report. Skipped: Fira Cəlilova dacha break-in (crime/private), M4.3 Şamaxı–Ağsu quake (no damage; tragedy rules), AZ citizens in Russian army deaths (war). AZ ANGLE scan for world stories: Conference League MD4 → Zamiq Əliyev (Egnatia) and Murad Məmmədov (Pafos) played.",
+  "runners_up": [
+   {
+    "story": "Qaşım Maqomedov (taekwondo, −58 kg) at the World Taekwondo Grand Prix Final, Astana, 27–29 Nov (trend.az 4251166, AZ Taekwondo Federation).",
+    "use": "15:23: if he has WON a medal today (check worldtaekwondo.org results + report.az/apa.az = 2 sources), swap — a GP Final medal is bigger news (sports = 4th this week, allowed: biggest news wins). Real photos: federation/WT Flickr (credit)."
+   },
+   {
+    "story": "Egnatia (Albania) with Azerbaijani Zamiq Əliyev — 'historic win' over Lincoln Red Imps in Conference League MD4, 26 Nov (arena.az 23:59 headline; score not read).",
+    "use": "Only if 15:23 confirms score + his role (goal/assist) from 2 sources; football → TikTok FOOTBALL SWAP would then apply (TikTok keeps the desalination GUESS)."
+   }
+  ],
+  "tiktok_swap": false,
+  "freshness_note": "Story date 24 Nov (financing approval); still being covered 25–26 Nov (trend.az 25 Nov 09:23, oc-media updated 26 Nov). ~72 h — honest flag for the 15:23 re-check.",
+  "status": "picked"
  }
 }

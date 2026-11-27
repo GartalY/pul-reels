@@ -862,3 +862,4 @@ search_nyse_2411.json https://commons.wikimedia.org/w/api.php?action=query&forma
 2026-11-27_T_tap_b.jpg https://upload.wikimedia.org/wikipedia/commons/2/22/Tap-gb0fe5d2cc_1920.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 2026-11-27_T_tap_a.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Tap_water_1.jpg/1920px-Tap_water_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 2026-11-27_T_caspbaku.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Caspian_sea-Baku.jpg/1280px-Caspian_sea-Baku.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+2026-11-27_T_tap_c.jpg https://upload.wikimedia.org/wikipedia/commons/4/48/Tap_water_filling_water_bottle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled

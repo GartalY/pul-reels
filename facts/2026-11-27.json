@@ -239,6 +239,11 @@
   ],
   "tiktok_swap": false,
   "freshness_note": "Story date 24 Nov (financing approval); still being covered 25–26 Nov (trend.az 25 Nov 09:23, oc-media updated 26 Nov). ~72 h — honest flag for the 15:23 re-check.",
-  "status": "picked"
+  "status": "picked",
+  "photos_found": [
+   "fetch/img/2026-11-27_T_baku_pano.jpg (Baku from Upland Park, sea + Flame Towers; Dan Lundberg / Wikimedia Commons, CC BY-SA 2.0)",
+   "fetch/img/2026-11-27_T_baku_esa.jpg (Baku & Absheron coast from space; ESA, CC BY-SA 3.0 IGO)",
+   "15:23: add a generic RO desalination plant photo (Commons, labelled 'nümunə') + Caspian shore; ACWA/ADB press photo only with credit"
+  ]
  }
 }

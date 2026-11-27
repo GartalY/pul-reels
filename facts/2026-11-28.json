@@ -1,0 +1,133 @@
+{
+ "date": "2026-11-28",
+ "status": "planned",
+ "format": "v4",
+ "content_format": "quality_reset_2026-11-12",
+ "planned_note": "Planned in the 2026-11-27 09:10 run. Sat 28 Nov (no format-test day): 13:00 = static photo+words reel from facts[0] (Voyager Golden Record — Azerbaijani mugham 25.9 bn km away, NASA photos, no voice, silent track, IG normal REEL). 18:30 = animated Arif trend reel (28 Nov 09:10 pick); if no fresh AZ story, facts[1] = alphabet 3 changes (animated). Categories: music/space (facts[0]) + history/language (facts[1]) — both AZ (MANDATE DECISION 2026-11-11); space count week 23–29 Nov = 1 (this), sports = 3 (Sabah–Barça ×2, boxing). No carousels/quizzes/stories.",
+ "format_log": {
+  "13:00": "fact",
+  "18:30": "trend (backup facts[1] fact/animated)"
+ },
+ "facts": [
+  {
+   "n": 1,
+   "type": "reel",
+   "slot": "13:00",
+   "static": true,
+   "voiced": false,
+   "format": "fact",
+   "cat": "Musiqi / Kosmos",
+   "subject": "Voyager Golden Record and Azerbaijani mugham. NASA's music list (science.nasa.gov Golden Record Sounds and Music): 'Azerbaijan S.S.R., bagpipes, recorded by Radio Moscow, 2:30' — 15th of 27 music selections. Azerbaijan International (Summer 1994, azer.com): the piece is a mugham played by TWO BALABAN players (the 1978 book 'Murmurs of Earth' wrongly called it 'bagpipe'/'ugam'), 2:20, one of 27 pieces, ~90 minutes of music, greetings in 55 languages, gold-coated copper record, chosen by Carl Sagan's committee; Voyager 1 and 2 launched 20 Aug and 5 Sep 1977. Azernews 16 Sep 2013: 12-inch gold-plated disc, greetings in 55 languages, launched 1977 16 days apart. Voyager 1 reached ONE LIGHT-DAY from Earth on 17–18 Nov 2026 (NASA news release 'Voyager 1 Makes History Reaching One Light-Day From Earth', NPR 17 Nov, ABC 18 Nov, EarthSky). 1 light-day = 299 792.458 km/s × 86 400 s ≈ 25.9 billion km (our arithmetic). PERFORMER CONFLICT: Wikipedia credits Kamil Jalilov (1938–2022) with the balaban recording, but azer.com says two unnamed balaban players and a Radio Moscow recording 'probably early 1950s' (Jalilov would have been ~13) → NO performer name in text. Track length 2:30 (NASA) vs 2:20 (azer.com) → say 'təxminən 2,5 dəqiqə'? → use 'iki dəqiqədən çox' (true for both).",
+   "title": "25,9 milyard km uzaqda Azərbaycan muğamı",
+   "reel_hook": "25,9 MİLYARD KM UZAQDA BİR AZƏRBAYCAN MUĞAMI UÇUR",
+   "hook_options": [
+    "25,9 MİLYARD KM UZAQDA BİR AZƏRBAYCAN MUĞAMI UÇUR",
+    "27 MUSİQİDƏN BİRİ BİZİMDİR: KOSMOSA GÖNDƏRİLƏN QIZIL VAL",
+    "49 İLDİR KOSMOSDA SƏSLƏNMƏYİ GÖZLƏYƏN MUĞAM",
+    "İŞIĞIN 24 SAATA ÇATDIĞI YERDƏ — AZƏRBAYCAN BALABANI",
+    "NASA YADPLANETLİLƏRƏ AZƏRBAYCAN MUĞAMI GÖNDƏRİB"
+   ],
+   "hook_pick_reason": "Number-first (25,9 milyard km = 1 light-day, a milestone reached 17–18 Nov 2026 — fresh peg) + superlative-ish scale + pride; names 'Azərbaycan muğamı' in frame 0; the 'işıq oraya 1 günə çatır' line is the payoff. Space count week 23–29 Nov: this is the 1st space piece (Great Wall myth 26 Nov counted as myth/culture by the 26 Nov run) → within 'max 2'.",
+   "reel_beats": [
+    "1977-ci ildə NASA iki «Voyager» kosmik gəmisinə qızıl suyuna çəkilmiş bir val qoydu — «Qızıl Val».",
+    "Valda 55 dildə salam və 27 musiqi var. Onlardan biri Azərbaycan muğamıdır — iki balabanda ifa olunur.",
+    "Noyabrın 17–18-də «Voyager 1» Yerdən 1 işıq günü uzaqlaşdı: bu, təxminən 25,9 milyard kilometrdir.",
+    "Yəni oradan Yerə işıq da düz bir günə çatır."
+   ],
+   "payoff": "Ən maraqlısı: «Voyager 1» insanın düzəltdiyi ən uzaq cisimdir. Muğamımız da onunla birlikdə hələ də uzaqlaşır.",
+   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+   "send_line": "📩 Muğam sevən dostuna göndər 🎶",
+   "caption": "25,9 milyard km uzaqda bir Azərbaycan muğamı uçur 🎶🚀\n\n1977-ci ildə NASA iki «Voyager» kosmik gəmisinə «Qızıl Val» qoydu: 55 dildə salam və 27 musiqi. Onlardan biri Azərbaycan muğamıdır — iki balabanda ifa olunur, iki dəqiqədən çox çəkir. Noyabrın 17–18-də «Voyager 1» Yerdən 1 işıq günü (təxminən 25,9 milyard km) uzaqlaşdı — oradan Yerə işıq da bir günə çatır. «Voyager 1» insanın düzəltdiyi ən uzaq cisimdir, muğamımız da onunla birlikdə uzaqlaşır.\n\n📩 Muğam sevən dostuna göndər 🎶\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nFoto: NASA/JPL (ictimai mülkiyyət)\nMənbə: NASA, Azerbaijan International\n\n#bilirdinizmi #muğam #voyager #balaban #azərbaycan",
+   "first_comment": "Sən yadplanetlilərə hansı Azərbaycan mahnısını göndərərdin? 👇",
+   "youtube_title": "Kosmosda Azərbaycan muğamı: Voyager-in Qızıl Valı 🎶🚀 #shorts",
+   "context_check": "(1) No performer name (Kamil Cəlilov attribution conflicts with azer.com's 'two balaban players', early-1950s Radio Moscow recording). (2) NASA's list literally says 'bagpipes' — we say balaban (azer.com explains the mislabel; balaban is a double-reed instrument, not bagpipes). (3) 'Qızıl suyuna çəkilmiş' = gold-plated copper (azer.com + azernews), not solid gold. (4) The record sits on BOTH Voyagers; the distance is Voyager 1's. (5) 25,9 milyard km = 1 light-day by definition (our arithmetic). (6) Don't say aliens 'heard' it; the record has never been played in space.",
+   "language_check": "Short sentences; «Qızıl Val» in quotes; 'işıq günü' explained in the next sentence; '17–18-də' because sources give 17 (NPR) and 18 Nov (ABC, timezone). Numbers with NBSP on images ('25,9 milyard').",
+   "sources": [
+    "https://science.nasa.gov/mission/voyager/golden-record-contents/sounds/",
+    "https://azer.com/aiweb/categories/magazine/22_folder/22_articles/22_extraterrestrial.html",
+    "https://www.azernews.az/nation/59523.html",
+    "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
+    "https://www.npr.org/2026/11/17/nx-s1-6043115/nasas-voyager-1-spacecraft-reaches-a-distance-of-1-light-day-from-earth",
+    "https://www.abc.net.au/news/science/2026-11-18/nasa-voyager-one-light-day-from-earth-milestone/107154162"
+   ],
+   "photo": {
+    "path": "fetch/img/2026-11-28_1_golden_cover.jpg",
+    "credit": "Foto: NASA/JPL (public domain)",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Sounds_of_Earth_Record_Cover_-_GPN-2000-001978.jpg",
+    "license": "Public domain",
+    "size": [
+     1920,
+     1920
+    ],
+    "cy": 0.5,
+    "full": true,
+    "alts": [
+     "fetch/img/2026-11-28_1_golden_mount.jpg (technicians mounting the record on Voyager, B/W; NASA/JPL PD) — strong 2nd image",
+     "fetch/img/2026-11-28_1_golden_plating.jpg (technician holding the record, 1977; NASA/JPL PD)",
+     "fetch/img/2026-11-28_1_balaban_a.jpg (balaban 1960s in a museum case; Toghrul R / Wikimedia Commons, CC BY 4.0)",
+     "fetch/img/2026-11-28_1_balaban_b.jpg (balaban, zurna, tütək at Heydar Aliyev Center; Interfase / Wikimedia Commons, PD)"
+    ],
+    "checked": "27 Nov 10:30: looked at all on a contact sheet — gold record cover is the hero (square, crop centre for 9:16 with dark space top/bottom for text). No watermarks; technicians are NASA staff in 1977 archive photos (public, not central)."
+   }
+  },
+  {
+   "n": 2,
+   "type": "reel",
+   "slot": "18:30 backup",
+   "motion": true,
+   "fps": 60,
+   "voiced": "Arif",
+   "format": "fact",
+   "cat": "Tarix / Dil",
+   "subject": "Azerbaijani alphabet changed three times in the 20th century: Arabic script → Latin (mass use from 1 Jan 1929; interpress.az 28 Jul 2022, azerbaycan-ruznamesi.org 1 Aug 2025 reposting Oxu.az, culfa-ih.gov.az) → Cyrillic (decision to switch from 1 Jan 1940; ruznamesi + Culfa) → Latin again after independence (law on restoring the Latin alphabet: 25 Dec 1991 per interpress vs 1992 per ruznamesi/Culfa → we say 'müstəqillikdən sonra', no year). Full switch of print: decree 18 Jun 2001 required Latin print by 1 Aug 2001 (interpress); 'keçid 2001-ci ildə başa çatdırılıb' (ruznamesi) vs '2004 sərəncamı ilə tam' (Culfa) → we say '2001-ci il avqustun 1-dən qəzetlər latınla çıxmalı oldu' (decree wording). 1 August = Azərbaycan Əlifbası və Azərbaycan Dili Günü, decree 9 Aug 2001 (all 3 agree). Current alphabet: 32 letters (interpress only → 15:23/20:45 confirm with a 2nd source or drop the number). 1922 committee / 1923 parallel use (interpress + ruznamesi) — not in voice.",
+   "title": "Bir əsrdə 3 dəfə əlifba dəyişdi",
+   "reel_hook": "1 ƏSRDƏ 3 DƏFƏ ƏLİFBA DƏYİŞDİ: BABAN, ATAN VƏ SƏN FƏRQLİ HƏRFLƏRLƏ OXUMUSUNUZ",
+   "hook_options": [
+    "1 ƏSRDƏ 3 DƏFƏ ƏLİFBA DƏYİŞDİ: BABAN, ATAN VƏ SƏN FƏRQLİ HƏRFLƏRLƏ OXUMUSUNUZ",
+    "11 İL: LATIN ƏLİFBASI CƏMİ BU QƏDƏR YAŞADI",
+    "4 ƏLİFBA, 1 ÖMÜR: 1920-Cİ İLDƏ DOĞULAN NƏNƏNİN GÖRDÜYÜ",
+    "AZƏRBAYCANCA 3 FƏRQLİ ƏLİFBA İLƏ YAZILIB — HANSINI BİLİRSƏN?",
+    "1929, 1940, 2001: ƏLİFBAMIZIN 3 DÖNÜŞÜ"
+   ],
+   "hook_pick_reason": "Number + emotion (family: grandparent/parent/you) + names the subject (əlifba) in frame 0; morphing letters give the animation a new action every second; the 'one grandmother could see 4 alphabets' line is the payoff; loop: '…yenə latın' → hook.",
+   "reel_beats": [
+    "1929-cu ilə qədər azərbaycanca ərəb əlifbası ilə yazılırdı.",
+    "1929-cu ildə latın əlifbasına keçdik. Cəmi 11 il sonra, 1940-da isə kiril gəldi.",
+    "Müstəqillikdən sonra latın əlifbası geri qayıtdı. 2001-ci il avqustun 1-dən qəzet və kitablar latınla çıxmalı oldu.",
+    "Elə buna görə 1 avqust indi Azərbaycan Əlifbası və Azərbaycan Dili Günüdür."
+   ],
+   "payoff": "Ən maraqlısı: 1920-ci ildə doğulan bir nənə ömründə dörd əlifba görə bilərdi — ərəb, latın, kiril və yenə latın.",
+   "twist": "Four scripts in one lifetime; loop: '…və yenə latın' → hook.",
+   "voice_texts": [
+    "Bir əsrdə üç dəfə əlifba dəyişdi!",
+    "Min doqquz yüz iyirmi doqquzadək ərəb əlifbası ilə yazırdıq.",
+    "Sonra latın gəldi. Cəmi on bir il sonra isə kiril.",
+    "Müstəqillikdən sonra latın əlifbası geri qayıtdı.",
+    "Yəni bir nənə ömründə dörd əlifba görə bilərdi.",
+    "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
+   ],
+   "voice_word_count": 41,
+   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+   "send_line": "📩 Kirillə yazan ata-anana göndər ✍️",
+   "caption": "Bir əsrdə 3 dəfə əlifba dəyişdi ✍️\n\n1929-cu ilə qədər azərbaycanca ərəb əlifbası ilə yazılırdı. 1929-cu ildə latın əlifbasına keçildi, cəmi 11 il sonra — 1940-da isə kiril gəldi. Müstəqillikdən sonra latın əlifbası geri qayıtdı və 2001-ci il avqustun 1-dən qəzet və kitablar latınla çıxmalı oldu. Elə buna görə 1 avqust Azərbaycan Əlifbası və Azərbaycan Dili Günüdür. Yəni 1920-ci ildə doğulan biri ömründə dörd əlifba görə bilərdi.\n\n📩 Kirillə yazan ata-anana göndər ✍️\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nSəs: elevenlabs.io\nMənbə: interpress.az, oxu.az\n\n#bilirdinizmi #əlifba #azərbaycandili #tarix #azərbaycan",
+   "first_comment": "Sən kiril əlifbasını oxuya bilirsən? 👇",
+   "youtube_title": "Bir əsrdə 3 əlifba: ərəb → latın → kiril → latın ✍️ #shorts",
+   "visual_ideas": [
+    "Frame 0: the word «ƏLİFBA» written in Arabic script morphs → 1929 Latin (Yañalif style) → Cyrillic «ӘЛИФБА» → today's «ƏLİFBA»; big '3' counter.",
+    "Timeline ruler 1900 → 2001 slides under the word with year pins 1929 / 1940 / 1991 / 2001; a progress counter 'DƏYİŞİKLİK 1/3 → 3/3'.",
+    "'11 İL' stamp between 1929 and 1940 pins; the Latin letters fall off like tiles and Cyrillic tiles drop in.",
+    "2001: a newspaper front page flips from Cyrillic to Latin (code-drawn, no real masthead).",
+    "1 August calendar page tears off.",
+    "Payoff: a grandmother silhouette with four little books stacking beside her (ərəb, latın, kiril, latın).",
+    "Photos (optional PHOTO STORY): Commons scans of 1920s–30s Latin-script AZ print, a Cyrillic-era book, today's signage; search at build (Commons 'Azerbaijani alphabet' search 28 Nov returned only a generic 'New Turkic alphabets' chart)."
+   ],
+   "context_check": "(1) Latin restoration year conflicts (1991 vs 1992) → 'müstəqillikdən sonra'. (2) Full switch 2001 vs 2004 → only the decree wording ('çıxmalı oldu'). (3) '4 alphabets in one lifetime' = 'görə bilərdi' (possibility, not a claim about a real person). (4) No politics/USSR judgement — neutral history. (5) The 1929 Latin alphabet ≠ today's (different letters) → don't say 'the same alphabet came back', say 'latın əlifbası geri qayıtdı'.",
+   "sources": [
+    "https://interpress.az/musteqillik-illerinde-azerbaycan-elifbasi-sayali-sadiqova.html",
+    "https://azerbaycan-ruznamesi.org/2025/08/01/avqustun-1-i-az%C9%99rbaycan-%C9%99lifbasi-v%C9%99-az%C9%99rbaycan-dili-gunu-kimi-qeyd-edilir/",
+    "https://culfa-ih.gov.az/1-avqust-az-rbaycan-lifbasi-v-az-rbaycan-dili-gunu"
+   ]
+  }
+ ],
+ "pending_schedule": null
+}

@@ -1,287 +1,328 @@
 {
- "date": "2026-11-27",
- "status": "13:00 scheduled (static Şəki Xan Sarayı shebeke, no voice, silent track, IG REEL); 18:30 Fri GUESS animated Arif = 14:47/15:23 tasks",
- "format": "v4",
- "content_format": "quality_reset_2026-11-12",
- "planned_note": "Planned in the 2026-11-26 09:10 run. Fri 27 Nov: 13:00 = static photo+words reel from facts[0] (Şəki Xan Sarayı shebeke, no voice, silent track, IG normal REEL). 18:30 Fri = GUESS THE ANSWER animated day (3 NEW FORMATS test to 2 Dec): the 09:10 27 Nov trend pick should be told as a guess if it fits; if no fresh AZ story fits, facts[1] = animated GUESS backup (Qaval daş, Arif). Categories: architecture/crafts (Şəki) + culture/music & ancient history (Qobustan) — both AZ (MANDATE DECISION 2026-11-11), neither sports nor space (week 23–29 Nov: sports 3 incl. Sabah–Barça trend = biggest news, space 0). No carousels/quizzes/stories. | 09:10 27 Nov: trend picked = Caspian desalination plant GUESS (300 000 m³/day ≈ 120 Olympic pools); facts[1] Qaval daş stays the GUESS backup.",
- "format_log": {
-  "13:00": "fact",
-  "18:30": "guess (trend if fresh AZ story; backup facts[1] guess/animated)"
- },
- "facts": [
-  {
-   "n": 1,
-   "type": "reel",
-   "slot": "13:00",
-   "static": true,
-   "voiced": false,
-   "format": "fact",
-   "cat": "Memarlıq / Sənətkarlıq",
-   "subject": "Palace of Shaki Khans (Şəki Xan Sarayı), Şəki. Its shebeke (şəbəkə) windows — small pieces of coloured glass set into a wooden lattice — are assembled WITHOUT NAILS OR GLUE (Wikipedia, Euronews 14 Jul 2017, azerbaijan.travel 10 Jul 2019, History Hit — 4 sources agree). Build year: 1797 (Wikipedia infobox 'completed 1797', construction started 1789/1790; Euronews; History Hit) vs 1762 (azerbaijan.travel; Wikipedia 250th anniversary 2012) → we say '18-ci əsrin sonunda' (true for both 1762 and 1797), never a single year. Two storeys, 32 × 8.5 m outside, 3 rooms in a row per floor (Wikipedia only → not used). UNESCO: 'Historic Centre of Sheki with the Khan's Palace' inscribed 7 Jul 2019 at the 43rd session of the World Heritage Committee, held in Baku (Wikipedia; azerbaijan.travel: session opened 30 Jun 2019 in Baku). Euronews (single source, NOT used): 14 000+ pieces, 6 months per m², restoration with tweezers, Murano glass.",
-   "title": "Şəki Xan Sarayı: 0 mismar, 0 yapışqan",
-   "reel_hook": "0 MİSMAR, 0 YAPIŞQAN: ŞƏKİ XAN SARAYININ PƏNCƏRƏLƏRİ",
-   "hook_options": [
-    "0 MİSMAR, 0 YAPIŞQAN: ŞƏKİ XAN SARAYININ PƏNCƏRƏLƏRİ",
-    "MİNLƏRLƏ ŞÜŞƏ PARÇASI, BİR DƏNƏ DƏ MİSMAR YOX",
-    "200 İLDƏN ÇOX AYAQDADIR — MİSMARSIZ, YAPIŞQANSIZ",
-    "ŞƏKİDƏKİ BU PƏNCƏRƏNİ NƏ SAXLAYIR?",
-    "UNESCO ONU ELƏ BAKIDA SİYAHIYA SALDI"
-   ],
-   "hook_pick_reason": "Number-first (0 + 0) + surprise + names the palace in frame 0 (ALWAYS NAME IT). The 'UNESCO voted in Baku' twist is saved for the payoff.",
-   "reel_beats": [
-    "Şəki Xan Sarayı 18-ci əsrin sonunda tikilib. Onun ən məşhur hissəsi pəncərələridir — «şəbəkə».",
-    "Şəbəkədə kiçik rəngli şüşə parçaları taxta qəfəsə bir-bir yerləşdirilir.",
-    "Bu pəncərələrdə nə mismar var, nə də yapışqan. Taxta hissələr bir-birinə keçir və şüşəni özləri tutur.",
-    "Günəş düşəndə rəngli şüşələr otağın divarlarına və döşəməsinə rəng saçır."
-   ],
-   "payoff": "Ən maraqlısı: 2019-cu ildə Şəkinin tarixi mərkəzi Xan Sarayı ilə birlikdə UNESCO-nun Dünya İrsi siyahısına daxil edildi. Qərar elə Bakıda keçirilən sessiyada verildi.",
-   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
-   "send_line": "📩 Şəkiyə getmək istəyən dostuna göndər 🪟",
-   "caption": "Şəki Xan Sarayı: 0 mismar, 0 yapışqan 🪟\n\nŞəki Xan Sarayı 18-ci əsrin sonunda tikilib. Onun məşhur «şəbəkə» pəncərələrində kiçik rəngli şüşə parçaları taxta qəfəsə bir-bir yerləşdirilir — nə mismar, nə də yapışqan istifadə olunur. Ən maraqlısı: 2019-cu ildə Şəkinin tarixi mərkəzi Xan Sarayı ilə birlikdə UNESCO-nun Dünya İrsi siyahısına daxil edildi — qərar elə Bakıda verildi.\n\n📩 Şəkiyə getmək istəyən dostuna göndər 🪟\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nFoto: Dario Tortora, Ludvig14, Gulustan, Interfase / Wikimedia Commons (CC BY-SA)\nMənbə: UNESCO, Euronews\n\n#bilirdinizmi #şəki #xansarayı #şəbəkə #azərbaycan",
-   "first_comment": "Şəki Xan Sarayını görmüsən? Bəli yoxsa hələ yox? 👇",
-   "youtube_title": "Şəki Xan Sarayı: mismarsız, yapışqansız pəncərələr 🪟 #shorts",
-   "context_check": "(1) 'No nails/glue' is about the SHEBEKE windows (all 4 sources), not the whole building — we say 'bu pəncərələrdə'. (2) Build year disputed (1762 vs 1797) → '18-ci əsrin sonunda'. (3) Beat 3 mechanism: sources say pieces are fitted/locked without nails or glue; 'taxta hissələr bir-birinə keçir' = interlocking (Wikipedia Shabaka: wooden pieces fitted together) — 20:45 build may simplify to 'hissələr bir-birinə bərkidilir'. (4) Beat 4 is descriptive (coloured light) — no number, safe. (5) UNESCO 2019 inscription in Baku: Wikipedia + azerbaijan.travel. (6) 14 000 pieces / 6 months per m² are Euronews-only → kept out.",
-   "language_check": "şəbəkə, qəfəs, mismar, yapışqan = everyday AZ. 'rəng saçır' natural. Sentences ≤ 15 words except payoff sentence 1 (16) — fine for a static card; split if the layout needs.",
-   "sources": [
-    "https://en.wikipedia.org/wiki/Palace_of_Shaki_Khans",
-    "https://www.euronews.com/2017/07/14/the-shebeki-at-sheki-khans-palace-in-azerbaijan",
-    "https://azerbaijan.travel/press-media/press-releases/unesco-inscribes-azerbaijans-historic-centre-of-sheki-with-the-khans-palace-to-the-world-heritage-site-list",
-    "https://www.historyhit.com/locations/palace-of-sheki-khans/",
-    "https://whc.unesco.org/en/list/1549"
-   ],
-   "photo": {
-    "path": "fetch/img/2026-11-27_1_shebeke_a.jpg",
-    "credit": "Foto: Dario Tortora / Wikimedia Commons, CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Shebeke_in_Shaki_Khan%27s_Palace.jpg",
-    "license": "CC BY-SA 2.0",
-    "size": [
-     1920,
-     1369
-    ],
-    "cy": 0.5,
-    "full": true,
-    "alts": [
-     "fetch/img/2026-11-27_1_sheki_e.jpg (palace facade in garden; Ludvig14 / Wikimedia Commons, CC BY-SA 4.0) — good 2nd image / hook background",
-     "fetch/img/2026-11-27_1_shebeke_b.jpg (wooden lattice windows close-up; Gulustan / Wikimedia Commons, CC BY-SA 3.0)",
-     "fetch/img/2026-11-27_1_sheki_b.jpg / _c / _d (portrait details of the facade with shebeke; Interfase / Wikimedia Commons, CC BY-SA 4.0)",
-     "fetch/img/2026-11-27_1_sheki_a.jpg (full facade; Interfase / Wikimedia Commons, CC BY-SA 4.0)",
-     "fetch/img/2026-11-27_1_shebeke_c.jpg (full facade; Gulustan / Wikimedia Commons, CC BY-SA 3.0)"
-    ],
-    "checked": "26 Nov 10:20: looked at all 8 on a contact sheet. a = interior, rows of bright coloured shebeke windows (blue/red/yellow) — the hero shot (landscape → crop the centre for 9:16; the three lower windows make a strong vertical). sheki_e = palace front with trees. No watermarks/people."
-   }
+  "date": "2026-11-27",
+  "status": "13:00 scheduled (static Şəki shebeke); 18:30 scheduled (GUESS animated Xəzər desalination, Arif) on IG/TT/YT",
+  "format": "v4",
+  "content_format": "quality_reset_2026-11-12",
+  "planned_note": "Planned in the 2026-11-26 09:10 run. Fri 27 Nov: 13:00 = static photo+words reel from facts[0] (Şəki Xan Sarayı shebeke, no voice, silent track, IG normal REEL). 18:30 Fri = GUESS THE ANSWER animated day (3 NEW FORMATS test to 2 Dec): the 09:10 27 Nov trend pick should be told as a guess if it fits; if no fresh AZ story fits, facts[1] = animated GUESS backup (Qaval daş, Arif). Categories: architecture/crafts (Şəki) + culture/music & ancient history (Qobustan) — both AZ (MANDATE DECISION 2026-11-11), neither sports nor space (week 23–29 Nov: sports 3 incl. Sabah–Barça trend = biggest news, space 0). No carousels/quizzes/stories. | 09:10 27 Nov: trend picked = Caspian desalination plant GUESS (300 000 m³/day ≈ 120 Olympic pools); facts[1] Qaval daş stays the GUESS backup.",
+  "format_log": {
+    "13:00": "fact",
+    "18:30": "guess"
   },
-  {
-   "n": 2,
-   "type": "reel",
-   "slot": "18:30 backup",
-   "motion": true,
-   "fps": 60,
-   "voiced": "Arif",
-   "format": "guess",
-   "cat": "Mədəniyyət / Qədim tarix",
-   "subject": "Qaval daş (Gaval Dash, 'tambourine stone'), Gobustan State Historical and Cultural Reserve. A ~2 m long flat rock that gives a ringing, tambourine-like sound when struck with smaller stones (Atlas Obscura, CNN Travel, Wikipedia, Google Arts & Culture — all agree on 2 m and the sound). Cause: thought to be microscopic holes in the rock from the dry climate and natural gas (CNN + Wikipedia; Atlas: 'climate + natural gas'). It rests free on smaller stones (CNN only → visual, not voice). One of four 'singing stones' in the reserve (CNN, Wikipedia). Yallı link: a famous Gobustan petroglyph is thought to show Yallı dancers; the stone 'may have been used' for their ritual sounds (CNN + Atlas Obscura, both hedged) → 'ehtimal olunur'. Visitors can still play it (CNN; Atlas implies). Gobustan: 6 000+ rock carvings (Wikipedia; used 2 Nov with 2 sources), UNESCO 2007 (Wikipedia + Google A&C). Age of carvings disputed (5 000–20 000 years Wikipedia vs 'more than two million years' CNN) → no age in voice.",
-   "title": "Qobustandakı bu daşa vursan nə olur?",
-   "reel_hook": "QOBUSTANDA 2 METRLİK DAŞ: ONA DAŞLA VURSAN NƏ OLUR? Sənin cavabın? 👇",
-   "hook_options": [
-    "QOBUSTANDA 2 METRLİK DAŞ: ONA DAŞLA VURSAN NƏ OLUR? Sənin cavabın? 👇",
-    "BU DAŞ MİNİLLİKLƏRDİR «ÇALINIR». NECƏ? 👇",
-    "6 000 QAYA RƏSMİ ARASINDA BİR SİRLİ DAŞ",
-    "QOBUSTANIN 4 «OXUYAN» DAŞI: BİRİ ƏN MƏŞHURUDUR",
-    "DAŞ, YOXSA MUSİQİ ALƏTİ? SƏNİN CAVABIN? 👇"
-   ],
-   "hook_pick_reason": "GUESS recipe: the question + 'Sənin cavabın? 👇' on frame 0, with a number (2 m) and the place named (Qobustan). The stone's own name gives the answer away, so it is revealed right after the 3-2-1 (≈ 2nd–3rd sentence, still inside ALWAYS NAME IT's spirit: place named in sentence 1, object named at the reveal).",
-   "reel_beats": [
-    "İpucu 1: Qobustan qayalarında 6 000-dən çox qədim rəsm var.",
-    "İpucu 2: Rəsmlərin birində əl-ələ verib rəqs edən insanlar görünür.",
-    "3… 2… 1… Cavab: daş qaval kimi səslənir! Adı da elə budur — Qaval daş.",
-    "Alimlər bunu daşın içindəki çox kiçik boşluqlarla izah edir. Bunlar quru iqlim və təbii qazın təsiri ilə yaranıb."
-   ],
-   "payoff": "Ən maraqlısı: ehtimal olunur ki, qayadakı yallı rəqsi elə bu daşın səsi altında oynanırdı. Yallını isə biz bu gün də oynayırıq.",
-   "voice_texts": [
-    "Qobustanda iki metrlik bir daş var. Ona daşla vursan, nə olar? Sənin cavabın?",
-    "Üç, iki, bir…",
-    "Daş qaval kimi səslənir! Adı da elə budur: Qaval daş.",
-    "Səbəb: daşın içindəki çox kiçik boşluqlar.",
-    "Ehtimal olunur ki, qayadakı yallı rəqsi bu səsin altında oynanırdı.",
-    "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
-   ],
-   "voice_word_count": 49,
-   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
-   "send_line": "📩 Qobustana getməmiş dostuna göndər 🥁",
-   "caption": "Qaval daş: Qobustanda «çalınan» daş 🥁\n\nQobustanda təxminən 2 metr uzunluğunda bir daş var. Ona kiçik daşla vuranda qaval kimi səslənir — adı da buradandır. Alimlər bunu daşın içindəki çox kiçik boşluqlarla izah edir: quru iqlim və təbii qazın təsiri. Ehtimal olunur ki, qayalarda təsvir olunan yallı rəqsi bu daşın səsi altında oynanırdı. Qobustan 2007-ci ildən UNESCO-nun Dünya İrsi siyahısındadır.\n\n📩 Qobustana getməmiş dostuna göndər 🥁\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nSəs: elevenlabs.io\nFoto: Elnur Neciyev / Wikimedia Commons (CC BY-SA 4.0)\nMənbə: CNN, Atlas Obscura\n\n#bilirdinizmi #qobustan #qavaldaş #yallı #azərbaycan",
-   "first_comment": "Sən Qaval daşı çalmısan? Necə səslənir? 👇",
-   "youtube_title": "Qobustanda çalınan daş: Qaval daş 🥁 #shorts",
-   "visual_ideas": [
-    "Frame 0: the stone (real photo, slow zoom) + big question text, '?' pulsing; corner counter 'İPUCU 0/2'.",
-    "Clue 1: rock-carving style figures (code-drawn petroglyph lines) scratch themselves onto a stone wall, counter '6 000+' runs up.",
-    "Clue 2: the Yallı dancers petroglyph (real photo if Commons has it; else line drawing) — figures hold hands, a little bounce.",
-    "Visible 3-2-1 (≈3 s, tick SFX — non-melodic).",
-    "Reveal: a small stone hits the big one, sound-wave rings ripple out across the screen; name plate 'QAVAL DAŞ'. SFX: thud/knock only — DO NOT synthesize a tambourine jingle (tonal/music-like → NO MUSIC rule).",
-    "Science beat: cutaway of the rock with tiny holes glowing.",
-    "Payoff: the petroglyph dancers start moving in rhythm to the knocks, then cut to 'BU GÜN DƏ' with a yallı chain silhouette."
-   ],
-   "context_check": "(1) Guess is fair, not a trick: the clues (rock art, dancers) point to music. (2) Size 'about 2 m' = 4 sources. (3) Cause is 'thought to be' → 'alimlər bunu … ilə izah edir'. (4) Yallı link is hedged in both sources → 'ehtimal olunur'. (5) No age of the stone/carvings (sources conflict). (6) Not the same fact as 2 Nov (Gobustan 6 000+ engravings) — that number is only clue 1; nor 22 Nov (Heyerdahl/boats).",
-   "language_check": "qaval (AZ word for tambourine), ipucu, ehtimal olunur, yallı — everyday AZ. 'Ona daşla vursan, nə olar?' natural spoken form.",
-   "sources": [
-    "https://amp.cnn.com/cnn/travel/article/gobustan-petroglyphs-gaval-dash-singing-stone",
-    "https://atlasobscura.com/places/musical-stone-gobustan",
-    "https://en.wikipedia.org/wiki/Gobustan_State_Historical_and_Cultural_Reserve",
-    "https://artsandculture.google.com/asset/gaval-dash-gobustan-rock-art-cultural-landscape/8wEeTHCT3onh9w?hl=en"
-   ],
-   "photo": {
-    "path": "fetch/img/2026-11-27_2_qavaldash_a.jpg",
-    "credit": "Foto: Elnur Neciyev / Wikimedia Commons, CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Qaval_da%C5%9F%C4%B1.jpg",
-    "license": "CC BY-SA 4.0",
-    "size": [
-     1920,
-     1440
+  "facts": [
+    {
+      "n": 1,
+      "type": "reel",
+      "slot": "13:00",
+      "static": true,
+      "voiced": false,
+      "format": "fact",
+      "cat": "Memarlıq / Sənətkarlıq",
+      "subject": "Palace of Shaki Khans (Şəki Xan Sarayı), Şəki. Its shebeke (şəbəkə) windows — small pieces of coloured glass set into a wooden lattice — are assembled WITHOUT NAILS OR GLUE (Wikipedia, Euronews 14 Jul 2017, azerbaijan.travel 10 Jul 2019, History Hit — 4 sources agree). Build year: 1797 (Wikipedia infobox 'completed 1797', construction started 1789/1790; Euronews; History Hit) vs 1762 (azerbaijan.travel; Wikipedia 250th anniversary 2012) → we say '18-ci əsrin sonunda' (true for both 1762 and 1797), never a single year. Two storeys, 32 × 8.5 m outside, 3 rooms in a row per floor (Wikipedia only → not used). UNESCO: 'Historic Centre of Sheki with the Khan's Palace' inscribed 7 Jul 2019 at the 43rd session of the World Heritage Committee, held in Baku (Wikipedia; azerbaijan.travel: session opened 30 Jun 2019 in Baku). Euronews (single source, NOT used): 14 000+ pieces, 6 months per m², restoration with tweezers, Murano glass.",
+      "title": "Şəki Xan Sarayı: 0 mismar, 0 yapışqan",
+      "reel_hook": "0 MİSMAR, 0 YAPIŞQAN: ŞƏKİ XAN SARAYININ PƏNCƏRƏLƏRİ",
+      "hook_options": [
+        "0 MİSMAR, 0 YAPIŞQAN: ŞƏKİ XAN SARAYININ PƏNCƏRƏLƏRİ",
+        "MİNLƏRLƏ ŞÜŞƏ PARÇASI, BİR DƏNƏ DƏ MİSMAR YOX",
+        "200 İLDƏN ÇOX AYAQDADIR — MİSMARSIZ, YAPIŞQANSIZ",
+        "ŞƏKİDƏKİ BU PƏNCƏRƏNİ NƏ SAXLAYIR?",
+        "UNESCO ONU ELƏ BAKIDA SİYAHIYA SALDI"
+      ],
+      "hook_pick_reason": "Number-first (0 + 0) + surprise + names the palace in frame 0 (ALWAYS NAME IT). The 'UNESCO voted in Baku' twist is saved for the payoff.",
+      "reel_beats": [
+        "Şəki Xan Sarayı 18-ci əsrin sonunda tikilib. Onun ən məşhur hissəsi pəncərələridir — «şəbəkə».",
+        "Şəbəkədə kiçik rəngli şüşə parçaları taxta qəfəsə bir-bir yerləşdirilir.",
+        "Bu pəncərələrdə nə mismar var, nə də yapışqan. Taxta hissələr bir-birinə keçir və şüşəni özləri tutur.",
+        "Günəş düşəndə rəngli şüşələr otağın divarlarına və döşəməsinə rəng saçır."
+      ],
+      "payoff": "Ən maraqlısı: 2019-cu ildə Şəkinin tarixi mərkəzi Xan Sarayı ilə birlikdə UNESCO-nun Dünya İrsi siyahısına daxil edildi. Qərar elə Bakıda keçirilən sessiyada verildi.",
+      "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+      "send_line": "📩 Şəkiyə getmək istəyən dostuna göndər 🪟",
+      "caption": "Şəki Xan Sarayı: 0 mismar, 0 yapışqan 🪟\n\nŞəki Xan Sarayı 18-ci əsrin sonunda tikilib. Onun məşhur «şəbəkə» pəncərələrində kiçik rəngli şüşə parçaları taxta qəfəsə bir-bir yerləşdirilir — nə mismar, nə də yapışqan istifadə olunur. Ən maraqlısı: 2019-cu ildə Şəkinin tarixi mərkəzi Xan Sarayı ilə birlikdə UNESCO-nun Dünya İrsi siyahısına daxil edildi — qərar elə Bakıda verildi.\n\n📩 Şəkiyə getmək istəyən dostuna göndər 🪟\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nFoto: Dario Tortora, Ludvig14, Gulustan, Interfase / Wikimedia Commons (CC BY-SA)\nMənbə: UNESCO, Euronews\n\n#bilirdinizmi #şəki #xansarayı #şəbəkə #azərbaycan",
+      "first_comment": "Şəki Xan Sarayını görmüsən? Bəli yoxsa hələ yox? 👇",
+      "youtube_title": "Şəki Xan Sarayı: mismarsız, yapışqansız pəncərələr 🪟 #shorts",
+      "context_check": "(1) 'No nails/glue' is about the SHEBEKE windows (all 4 sources), not the whole building — we say 'bu pəncərələrdə'. (2) Build year disputed (1762 vs 1797) → '18-ci əsrin sonunda'. (3) Beat 3 mechanism: sources say pieces are fitted/locked without nails or glue; 'taxta hissələr bir-birinə keçir' = interlocking (Wikipedia Shabaka: wooden pieces fitted together) — 20:45 build may simplify to 'hissələr bir-birinə bərkidilir'. (4) Beat 4 is descriptive (coloured light) — no number, safe. (5) UNESCO 2019 inscription in Baku: Wikipedia + azerbaijan.travel. (6) 14 000 pieces / 6 months per m² are Euronews-only → kept out.",
+      "language_check": "şəbəkə, qəfəs, mismar, yapışqan = everyday AZ. 'rəng saçır' natural. Sentences ≤ 15 words except payoff sentence 1 (16) — fine for a static card; split if the layout needs.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Palace_of_Shaki_Khans",
+        "https://www.euronews.com/2017/07/14/the-shebeki-at-sheki-khans-palace-in-azerbaijan",
+        "https://azerbaijan.travel/press-media/press-releases/unesco-inscribes-azerbaijans-historic-centre-of-sheki-with-the-khans-palace-to-the-world-heritage-site-list",
+        "https://www.historyhit.com/locations/palace-of-sheki-khans/",
+        "https://whc.unesco.org/en/list/1549"
+      ],
+      "photo": {
+        "path": "fetch/img/2026-11-27_1_shebeke_a.jpg",
+        "credit": "Foto: Dario Tortora / Wikimedia Commons, CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Shebeke_in_Shaki_Khan%27s_Palace.jpg",
+        "license": "CC BY-SA 2.0",
+        "size": [
+          1920,
+          1369
+        ],
+        "cy": 0.5,
+        "full": true,
+        "alts": [
+          "fetch/img/2026-11-27_1_sheki_e.jpg (palace facade in garden; Ludvig14 / Wikimedia Commons, CC BY-SA 4.0) — good 2nd image / hook background",
+          "fetch/img/2026-11-27_1_shebeke_b.jpg (wooden lattice windows close-up; Gulustan / Wikimedia Commons, CC BY-SA 3.0)",
+          "fetch/img/2026-11-27_1_sheki_b.jpg / _c / _d (portrait details of the facade with shebeke; Interfase / Wikimedia Commons, CC BY-SA 4.0)",
+          "fetch/img/2026-11-27_1_sheki_a.jpg (full facade; Interfase / Wikimedia Commons, CC BY-SA 4.0)",
+          "fetch/img/2026-11-27_1_shebeke_c.jpg (full facade; Gulustan / Wikimedia Commons, CC BY-SA 3.0)"
+        ],
+        "checked": "26 Nov 10:20: looked at all 8 on a contact sheet. a = interior, rows of bright coloured shebeke windows (blue/red/yellow) — the hero shot (landscape → crop the centre for 9:16; the three lower windows make a strong vertical). sheki_e = palace front with trees. No watermarks/people."
+      }
+    },
+    {
+      "n": 2,
+      "type": "reel",
+      "slot": "18:30 backup",
+      "motion": true,
+      "fps": 60,
+      "voiced": "Arif",
+      "format": "guess",
+      "cat": "Mədəniyyət / Qədim tarix",
+      "subject": "Qaval daş (Gaval Dash, 'tambourine stone'), Gobustan State Historical and Cultural Reserve. A ~2 m long flat rock that gives a ringing, tambourine-like sound when struck with smaller stones (Atlas Obscura, CNN Travel, Wikipedia, Google Arts & Culture — all agree on 2 m and the sound). Cause: thought to be microscopic holes in the rock from the dry climate and natural gas (CNN + Wikipedia; Atlas: 'climate + natural gas'). It rests free on smaller stones (CNN only → visual, not voice). One of four 'singing stones' in the reserve (CNN, Wikipedia). Yallı link: a famous Gobustan petroglyph is thought to show Yallı dancers; the stone 'may have been used' for their ritual sounds (CNN + Atlas Obscura, both hedged) → 'ehtimal olunur'. Visitors can still play it (CNN; Atlas implies). Gobustan: 6 000+ rock carvings (Wikipedia; used 2 Nov with 2 sources), UNESCO 2007 (Wikipedia + Google A&C). Age of carvings disputed (5 000–20 000 years Wikipedia vs 'more than two million years' CNN) → no age in voice.",
+      "title": "Qobustandakı bu daşa vursan nə olur?",
+      "reel_hook": "QOBUSTANDA 2 METRLİK DAŞ: ONA DAŞLA VURSAN NƏ OLUR? Sənin cavabın? 👇",
+      "hook_options": [
+        "QOBUSTANDA 2 METRLİK DAŞ: ONA DAŞLA VURSAN NƏ OLUR? Sənin cavabın? 👇",
+        "BU DAŞ MİNİLLİKLƏRDİR «ÇALINIR». NECƏ? 👇",
+        "6 000 QAYA RƏSMİ ARASINDA BİR SİRLİ DAŞ",
+        "QOBUSTANIN 4 «OXUYAN» DAŞI: BİRİ ƏN MƏŞHURUDUR",
+        "DAŞ, YOXSA MUSİQİ ALƏTİ? SƏNİN CAVABIN? 👇"
+      ],
+      "hook_pick_reason": "GUESS recipe: the question + 'Sənin cavabın? 👇' on frame 0, with a number (2 m) and the place named (Qobustan). The stone's own name gives the answer away, so it is revealed right after the 3-2-1 (≈ 2nd–3rd sentence, still inside ALWAYS NAME IT's spirit: place named in sentence 1, object named at the reveal).",
+      "reel_beats": [
+        "İpucu 1: Qobustan qayalarında 6 000-dən çox qədim rəsm var.",
+        "İpucu 2: Rəsmlərin birində əl-ələ verib rəqs edən insanlar görünür.",
+        "3… 2… 1… Cavab: daş qaval kimi səslənir! Adı da elə budur — Qaval daş.",
+        "Alimlər bunu daşın içindəki çox kiçik boşluqlarla izah edir. Bunlar quru iqlim və təbii qazın təsiri ilə yaranıb."
+      ],
+      "payoff": "Ən maraqlısı: ehtimal olunur ki, qayadakı yallı rəqsi elə bu daşın səsi altında oynanırdı. Yallını isə biz bu gün də oynayırıq.",
+      "voice_texts": [
+        "Qobustanda iki metrlik bir daş var. Ona daşla vursan, nə olar? Sənin cavabın?",
+        "Üç, iki, bir…",
+        "Daş qaval kimi səslənir! Adı da elə budur: Qaval daş.",
+        "Səbəb: daşın içindəki çox kiçik boşluqlar.",
+        "Ehtimal olunur ki, qayadakı yallı rəqsi bu səsin altında oynanırdı.",
+        "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
+      ],
+      "voice_word_count": 49,
+      "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+      "send_line": "📩 Qobustana getməmiş dostuna göndər 🥁",
+      "caption": "Qaval daş: Qobustanda «çalınan» daş 🥁\n\nQobustanda təxminən 2 metr uzunluğunda bir daş var. Ona kiçik daşla vuranda qaval kimi səslənir — adı da buradandır. Alimlər bunu daşın içindəki çox kiçik boşluqlarla izah edir: quru iqlim və təbii qazın təsiri. Ehtimal olunur ki, qayalarda təsvir olunan yallı rəqsi bu daşın səsi altında oynanırdı. Qobustan 2007-ci ildən UNESCO-nun Dünya İrsi siyahısındadır.\n\n📩 Qobustana getməmiş dostuna göndər 🥁\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nSəs: elevenlabs.io\nFoto: Elnur Neciyev / Wikimedia Commons (CC BY-SA 4.0)\nMənbə: CNN, Atlas Obscura\n\n#bilirdinizmi #qobustan #qavaldaş #yallı #azərbaycan",
+      "first_comment": "Sən Qaval daşı çalmısan? Necə səslənir? 👇",
+      "youtube_title": "Qobustanda çalınan daş: Qaval daş 🥁 #shorts",
+      "visual_ideas": [
+        "Frame 0: the stone (real photo, slow zoom) + big question text, '?' pulsing; corner counter 'İPUCU 0/2'.",
+        "Clue 1: rock-carving style figures (code-drawn petroglyph lines) scratch themselves onto a stone wall, counter '6 000+' runs up.",
+        "Clue 2: the Yallı dancers petroglyph (real photo if Commons has it; else line drawing) — figures hold hands, a little bounce.",
+        "Visible 3-2-1 (≈3 s, tick SFX — non-melodic).",
+        "Reveal: a small stone hits the big one, sound-wave rings ripple out across the screen; name plate 'QAVAL DAŞ'. SFX: thud/knock only — DO NOT synthesize a tambourine jingle (tonal/music-like → NO MUSIC rule).",
+        "Science beat: cutaway of the rock with tiny holes glowing.",
+        "Payoff: the petroglyph dancers start moving in rhythm to the knocks, then cut to 'BU GÜN DƏ' with a yallı chain silhouette."
+      ],
+      "context_check": "(1) Guess is fair, not a trick: the clues (rock art, dancers) point to music. (2) Size 'about 2 m' = 4 sources. (3) Cause is 'thought to be' → 'alimlər bunu … ilə izah edir'. (4) Yallı link is hedged in both sources → 'ehtimal olunur'. (5) No age of the stone/carvings (sources conflict). (6) Not the same fact as 2 Nov (Gobustan 6 000+ engravings) — that number is only clue 1; nor 22 Nov (Heyerdahl/boats).",
+      "language_check": "qaval (AZ word for tambourine), ipucu, ehtimal olunur, yallı — everyday AZ. 'Ona daşla vursan, nə olar?' natural spoken form.",
+      "sources": [
+        "https://amp.cnn.com/cnn/travel/article/gobustan-petroglyphs-gaval-dash-singing-stone",
+        "https://atlasobscura.com/places/musical-stone-gobustan",
+        "https://en.wikipedia.org/wiki/Gobustan_State_Historical_and_Cultural_Reserve",
+        "https://artsandculture.google.com/asset/gaval-dash-gobustan-rock-art-cultural-landscape/8wEeTHCT3onh9w?hl=en"
+      ],
+      "photo": {
+        "path": "fetch/img/2026-11-27_2_qavaldash_a.jpg",
+        "credit": "Foto: Elnur Neciyev / Wikimedia Commons, CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Qaval_da%C5%9F%C4%B1.jpg",
+        "license": "CC BY-SA 4.0",
+        "size": [
+          1920,
+          1440
+        ],
+        "cy": 0.45,
+        "full": true,
+        "checked": "26 Nov 10:20: Commons file 'Qaval daşı.jpg' — flat rock resting on smaller stones in the Gobustan desert, matches CNN's description (free-standing on smaller stones). REJECTED: 2026-11-27_2_gobustan_a.jpg has a '© havin_hp' watermark — never use. Commons also has 'Qaval daşı (Yanardağ).jpg' (a different stone, not used). Photo story needs more: 15:23/20:45 may queue Commons 'Gobustan petroglyphs', 'Yalli petroglyph Gobustan', 'Gobustan dancers'."
+      }
+    }
+  ],
+  "pending_schedule": null,
+  "metricool": {
+    "13:00 Şəki Xan Sarayı (static, silent, IG REEL)": 443388240,
+    "18:30 Xəzər duzsuzlaşdırma (GUESS, animated 60 fps, Arif)": 444262052
+  },
+  "tiktok": {
+    "13:00 Şəki Xan Sarayı": 443388258,
+    "18:30 Xəzər duzsuzlaşdırma (GUESS, animated 60 fps, Arif)": 444262075
+  },
+  "youtube": {
+    "13:00 Şəki Xan Sarayı": 443388283,
+    "18:30 Xəzər duzsuzlaşdırma (GUESS, animated 60 fps, Arif)": 444262094
+  },
+  "media": {
+    "13:00 Şəki Xan Sarayı": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-27_1300_sheki_shebeke_silent.mp4",
+    "18:30 Xəzər duzsuzlaşdırma (GUESS, animated 60 fps, Arif)": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-27_1830_xezer_duzsuzlasdirma.mp4"
+  },
+  "ig_type": "REEL",
+  "scheduled_check": "26 Nov 20:51: getScheduledPosts 27 Nov was empty before creating; 3 posts created (IG/TT/YT 13:00)",
+  "build_1300": {
+    "spec": "out/2026-11-27/1_reel_spec.json",
+    "duration_s": 29.4,
+    "fps": 30,
+    "audio": "silent, volumedetect max -91 dB",
+    "photos": "6 Commons photos (shebeke_a hook, sheki_e, shebeke_b, sheki_c, shebeke_a, sheki_a, sheki_d)",
+    "fixes": "v2: non-breaking spaces so '0 MİSMAR'/'0 YAPIŞQAN' and the CTA 'bir fakt!' never split"
+  },
+  "trend": {
+    "n": "T",
+    "type": "reel",
+    "format": "animated_1830",
+    "content_format": "guess",
+    "post_format": "guess",
+    "cat": "Elm / Su / Xəzər",
+    "picked_at": "09:15–10:10 Baku 27 Nov (1st trend check)",
+    "rule_note": "Fri = GUESS THE ANSWER animated day (3 NEW FORMATS test to 2 Dec). Freshest big AZ-angle story with a guessable number: Azerbaijan's FIRST large-scale Caspian seawater desalination plant got its financing approved (ADB, 24 Nov; reported 24–26 Nov by report.az, trend.az, news.az, 1news.az, oc-media). FRESHNESS CAVEAT: news broke 24 Nov morning (~72 h ago) — slightly outside 24–48 h; picked because nothing fresher from 26–27 Nov had a real fact angle (scan below). 15:23 MUST swap if a runner-up confirms. Neutral national/economic news (AZ POLITICS RULE ok: no criticism, no praise words). Not sports, not space (week 23–29 Nov already has 3 sports). Not football → no TikTok swap; tiktok_swap false.",
+    "subject": "Caspian Sea Water Desalination Project: seawater reverse-osmosis plant, contracted capacity 300 000 m³/day, peak up to 330 000 m³/day (all 5 sources agree). Supplies Baku and the Absheron Peninsula (report, trend, news.az, 1news). Total cost $407 million (report, news.az, oc-media, 1news). 25-year PPP: design, build, finance, operate, maintain (report, trend, news.az, 1news). Developer ACWA Power (Saudi Arabia) (report, oc-media, 1news, news.az); EPC HDEC (PowerChina) with Spain's Savener. Offtaker: 'Böyük Şəhərlərin Birləşmiş Su Təchizatı Xidməti' (United Water Supply Services of Major Cities). 'First large-scale desalination plant' + 'first PPP in AZ water sector' (report, trend, news.az, 1news). ADB amount CONFLICT: $165M (70+70+25; report, news.az, oc-media) vs $140M (trend citing ADB, 1news) → never say an ADB amount in voice; AIIB earlier $45M (4 sources) → not needed. Location Sumgait = oc-media only → NOT in voice. Start/completion year: not stated anywhere → don't say. Pilot: Xıdırlı (Salyan) 2013, 1 000 → 2 000 m³/day = oc-media only → NOT in voice unless 15:23 finds a 2nd source (then '150 dəfə böyük' = 300 000 / 2 000, our arithmetic). Scale: 300 000 m³ ÷ 2 500 m³ (Olympic pool, 50×25×2 m) = 120 pools a day (our arithmetic; 'təxminən 120'). Caspian salinity ≈ 12.8 ‰ average (Britannica) vs ocean ≈ 35 ‰ → 'okeandan təxminən 3 dəfə az duzlu' (12.8×3≈38; general ocean figure).",
+    "context_check": "(1) Financing approved ≠ plant built: say 'tikiləcək' / 'maliyyə təsdiqlənib', never 'açıldı' or a finish date. (2) No ADB dollar figure (sources disagree); total $407M is safe (4 sources). (3) 'İlk böyük' — a small pilot existed (Xıdırlı 2013), so ALWAYS 'ilk BÖYÜK', never 'ilk'. (4) Brine/environment risks exist in ADB docs (Substantial E&S risk) — we make no 'eco-friendly' claims. (5) Don't claim % of Baku's water need or population served — no source. (6) Neutral tone, no 'tarixi nailiyyət'-type praise.",
+    "reel_hook": "XƏZƏRİN SUYU KRANA GƏLƏCƏK: GÜNDƏ NƏ QƏDƏR? Sənin cavabın? 👇",
+    "hook_options": [
+      "XƏZƏRİN SUYU KRANA GƏLƏCƏK: GÜNDƏ NƏ QƏDƏR? Sənin cavabın? 👇",
+      "GÜNDƏ 120 OLİMPİYA HOVUZU: XƏZƏRDƏN İÇMƏLİ SU",
+      "300 000 KUBMETR: AZƏRBAYCANDA İLK BÖYÜK DUZSUZLAŞDIRMA ZAVODU",
+      "DƏNİZ SUYUNU İÇMƏK OLARMI? BAKIDA CAVAB 407 MİLYON DOLLARDIR",
+      "XƏZƏR OKEANDAN 3 DƏFƏ AZ DUZLUDUR — VƏ BU SU BAKIYA GƏLƏCƏK"
     ],
-    "cy": 0.45,
-    "full": true,
-    "checked": "26 Nov 10:20: Commons file 'Qaval daşı.jpg' — flat rock resting on smaller stones in the Gobustan desert, matches CNN's description (free-standing on smaller stones). REJECTED: 2026-11-27_2_gobustan_a.jpg has a '© havin_hp' watermark — never use. Commons also has 'Qaval daşı (Yanardağ).jpg' (a different stone, not used). Photo story needs more: 15:23/20:45 may queue Commons 'Gobustan petroglyphs', 'Yalli petroglyph Gobustan', 'Gobustan dancers'."
-   }
+    "hook_pick_reason": "GUESS recipe (question + 'Sənin cavabın? 👇' on frame 0), names the subject (Xəzər) in frame 0; the shocking number (300 000 m³ = ~120 Olympic pools a day) is the reveal after 3-2-1; the Caspian-is-3×-less-salty-than-the-ocean line is the twist/payoff. Option 2 is the number-first fallback if the 15:23 build drops the GUESS format.",
+    "reel_beats": [
+      "İpucu 1: Azərbaycanda ilk böyük dəniz suyu duzsuzlaşdırma zavodu tikiləcək. Su Bakıya və Abşerona veriləcək.",
+      "İpucu 2: Layihənin dəyəri 407 milyon dollardır. Zavodu 25 il ərzində özəl şirkət işlədəcək.",
+      "3… 2… 1… Cavab: gündə 300 000 kubmetr içməli su! Bu, təxminən 120 Olimpiya hovuzu deməkdir.",
+      "Lazım olanda zavod gündə 330 000 kubmetrə qədər su verə biləcək. Maliyyə noyabrın 24-də təsdiqləndi."
+    ],
+    "payoff": "Ən maraqlısı: Xəzər okeandan təxminən 3 dəfə az duzludur. Amma yenə də içmək olmur — əvvəlcə duzunu təmizləmək lazımdır.",
+    "twist": "Everyone calls it a sea, but the Caspian is ~3× less salty than the ocean — still undrinkable, hence the plant. Loop: '…duzunu təmizləmək lazımdır' → hook 'Xəzərin suyu krana gələcək'.",
+    "voice_texts": [
+      "Xəzərin suyu krana gələcək. Gündə nə qədər? Sənin cavabın?",
+      "Üç, iki, bir…",
+      "Gündə üç yüz min kubmetr! Təxminən yüz iyirmi Olimpiya hovuzu.",
+      "Bu, Azərbaycanda ilk böyük duzsuzlaşdırma zavodu olacaq. Su Bakıya və Abşerona veriləcək.",
+      "Maraqlısı: Xəzər okeandan üç dəfə az duzludur. Amma yenə içmək olmur.",
+      "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
+    ],
+    "voice_word_count": 50,
+    "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+    "send_line": "📩 Abşeronda yaşayan dostuna göndər 💧",
+    "caption": "Xəzərin suyu krana gələcək: gündə 300 000 kubmetr 💧\n\nAzərbaycanda ilk böyük dəniz suyu duzsuzlaşdırma zavodu tikiləcək. Zavod gündə 300 000 kubmetr (lazım olanda 330 000-ə qədər) içməli su verəcək — bu, təxminən 120 Olimpiya hovuzu deməkdir. Su Bakıya və Abşeron yarımadasına veriləcək. Layihənin dəyəri 407 milyon dollardır, zavodu 25 il ərzində özəl şirkət (ACWA Power) işlədəcək. Maliyyə 24 noyabrda təsdiqləndi. Ən maraqlısı: Xəzər okeandan təxminən 3 dəfə az duzludur, amma yenə də içmək olmur.\n\n📩 Abşeronda yaşayan dostuna göndər 💧\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nSəs: elevenlabs.io\nMənbə: report.az, trend.az, Britannica\n\n#bilirdinizmi #xəzər #bakı #içməlisu #azərbaycan",
+    "first_comment": "Sən neçə təxmin etmişdin? 👇 Xəzər suyunu dadmısan?",
+    "youtube_title": "Xəzərin suyu krana gələcək: gündə 300 000 kubmetr 💧 #shorts",
+    "visual_ideas": [
+      "Frame 0: a kitchen tap on the left, a wave of Caspian water on the right; big text 'XƏZƏRİN SUYU KRANA GƏLƏCƏK' + 'GÜNDƏ NƏ QƏDƏR? 👇'.",
+      "Clues as two cards sliding in with a small counter 'İPUCU 1/2 → 2/2' (progress counter); map outline of Absheron with Baku pin lighting up.",
+      "3-2-1 countdown big digits with a tick SFX (non-melodic).",
+      "Reveal: a running counter 0 → 300 000 m³ while Olympic pools (blue rectangles) fill up and stack in a grid 1 → 120.",
+      "Peak: the counter nudges to 330 000 with a small 'PİK' stamp.",
+      "Twist: two salt shakers / two beakers — 'OKEAN ~35 q/l' vs 'XƏZƏR ~13 q/l', salt grains drop, the Caspian one has a third; then a filter (reverse-osmosis membrane) squeezes salt out, a glass fills.",
+      "PHOTO STORY: real photos — Caspian shore (Commons search queued: fetch/img/2026-11-27_T_s_caspian.json), Baku Boulevard sea, a desalination plant (generic RO plant, Commons, labelled 'nümunə' so no one thinks it is ours), Absheron map; ACWA Power/ADB press photo only with credit. 6–8 images. Subtitle bar fixed (VIEWER FEEDBACK 24 Nov).",
+      "End card CTA + loop back to the tap."
+    ],
+    "sources": [
+      "https://report.az/en/finance/azerbaijan-s-first-major-caspian-sea-desalination-plant-receives-additional-165m",
+      "https://www.trend.az/azerbaijan/4250412.html",
+      "https://news.az/news/azerbaijan-to-build-major-caspian-sea-desalination-plant-with-adb-support",
+      "https://1news.az/en/news/20261124141509682-Caspian-Sea-water-to-be-desalinated-140-million-allocated",
+      "https://oc-media.org/funding-for-caspian-sea-desalination-plant-approved-amid-growing-concern-in-azerbaijan-over-water-security/",
+      "https://www.britannica.com/question/How-salty-is-the-Caspian-Sea"
+    ],
+    "source_scan": "09:15–10:00 27 Nov: apa.az (front page 25–27 Nov), news.az, trend.az (AZ list + sports), jam-news live digest 25–27 Nov, arena.az (Conference League MD4 26 Nov), report.az via search, Google-style searches 'Azərbaycan xəbərlər 26 noyabr', 'azərbaycanlı dünyada ilk', 'qızıl medal noyabr 2026'. World: Binance $6.3B hack (old, ~1 Nov; resumed withdrawals; past Bitcoin reels flopped) → no; tanker mine blasts off Oman (conflict) → no. Fresh but weak: Estonian FM in Baku, AZ–Lithuania strategic partnership (25–26 Nov, protocol only), Tartar + Masallı youth & sports capitals 2028, non-oil exports +136% (unclear base), AZAL 2025 report. Skipped: Fira Cəlilova dacha break-in (crime/private), M4.3 Şamaxı–Ağsu quake (no damage; tragedy rules), AZ citizens in Russian army deaths (war). AZ ANGLE scan for world stories: Conference League MD4 → Zamiq Əliyev (Egnatia) and Murad Məmmədov (Pafos) played.",
+    "runners_up": [
+      {
+        "story": "Qaşım Maqomedov (taekwondo, −58 kg) at the World Taekwondo Grand Prix Final, Astana, 27–29 Nov (trend.az 4251166, AZ Taekwondo Federation).",
+        "use": "15:23: if he has WON a medal today (check worldtaekwondo.org results + report.az/apa.az = 2 sources), swap — a GP Final medal is bigger news (sports = 4th this week, allowed: biggest news wins). Real photos: federation/WT Flickr (credit)."
+      },
+      {
+        "story": "Egnatia (Albania) with Azerbaijani Zamiq Əliyev — 'historic win' over Lincoln Red Imps in Conference League MD4, 26 Nov (arena.az 23:59 headline; score not read).",
+        "use": "Only if 15:23 confirms score + his role (goal/assist) from 2 sources; football → TikTok FOOTBALL SWAP would then apply (TikTok keeps the desalination GUESS)."
+      }
+    ],
+    "tiktok_swap": false,
+    "freshness_note": "Story date 24 Nov (financing approval); still being covered 25–26 Nov (trend.az 25 Nov 09:23, oc-media updated 26 Nov). ~72 h — honest flag for the 15:23 re-check.",
+    "status": "picked",
+    "photos_found": [
+      "fetch/img/2026-11-27_T_baku_pano.jpg (Baku from Upland Park, sea + Flame Towers; Dan Lundberg / Wikimedia Commons, CC BY-SA 2.0)",
+      "fetch/img/2026-11-27_T_baku_esa.jpg (Baku & Absheron coast from space; ESA, CC BY-SA 3.0 IGO)",
+      "15:23: add a generic RO desalination plant photo (Commons, labelled 'nümunə') + Caspian shore; ACWA/ADB press photo only with credit"
+    ]
+  },
+  "reel_1830": {
+    "topic": "GUESS THE ANSWER: Azərbaycanda ilk böyük Xəzər suyu duzsuzlaşdırma zavodu — gündə 300 000 kubmetr (≈120 Olimpiya hovuzu); maliyyə 24 noyabr 2026-da təsdiqləndi (ADB)",
+    "format": "guess",
+    "content_format": "guess",
+    "tiktok_swap": false,
+    "picked_at": "14:55 Baku 27 Nov (2nd trend check by 14:47 task): kept the 09:10 pick. Searches: 'Azərbaycan xəbərlər 27 noyabr 2026' (apa/trend: Naxçıvan summit, banks ESG reporting, ex-official released — nothing bigger/usable), 'Azerbaijan news November 27 2026' (Estonian FM, NGO rules, IDP returns, parliament — protocol/politics), runner-up 1 Maqomedov GP Final Astana: only pre-event articles (trend.az 4251163, day.az, futbolinfo), no medal yet → no swap; runner-up 2 Egnatia/Zamiq Əliyev: score/role not confirmed by 2 sources → no swap. Freshness caveat stays (~72 h).",
+    "sources": [
+      "https://report.az/en/finance/azerbaijan-s-first-major-caspian-sea-desalination-plant-receives-additional-165m",
+      "https://www.trend.az/azerbaijan/4250412.html",
+      "https://news.az/news/azerbaijan-to-build-major-caspian-sea-desalination-plant-with-adb-support",
+      "https://1news.az/en/news/20261124141509682-Caspian-Sea-water-to-be-desalinated-140-million-allocated",
+      "https://oc-media.org/funding-for-caspian-sea-desalination-plant-approved-amid-growing-concern-in-azerbaijan-over-water-security/",
+      "https://www.britannica.com/question/How-salty-is-the-Caspian-Sea",
+      "https://acwapower.com/en/what-we-do/projects/caspian-seawater-desalination-project/",
+      "https://www.aiib.org/en/projects/details/2026/approved/azerbaijan-caspian-sea-desalination-project.html"
+    ],
+    "fact_check": "300 000 m³/day: report.az + trend.az + news.az + 1news + ACWA project page. 'İlk böyük': report + trend + news.az + 1news. 120 pools = 300 000 / 2 500 m³ (our arithmetic, 'təxminən'). Caspian ≈12.8‰ vs ocean ≈35‰ (Britannica) → 'təxminən üç dəfə'.",
+    "context_check": "Financing approved, not built → 'tikiləcək', no finish date. 'ilk BÖYÜK' (pilot Xıdırlı existed). No ADB amount (sources disagree). Salinity ratio ≈2.7 → 'təxminən üç dəfə'. Neutral tone, no praise words (AZ POLITICS RULE).",
+    "hooks": [
+      "XƏZƏRİN SUYU KRANA GƏLƏCƏK: GÜNDƏ NƏ QƏDƏR? Sənin cavabın? 👇",
+      "GÜNDƏ 120 OLİMPİYA HOVUZU: XƏZƏRDƏN İÇMƏLİ SU",
+      "300 000 KUBMETR: AZƏRBAYCANDA İLK BÖYÜK DUZSUZLAŞDIRMA ZAVODU",
+      "DƏNİZ SUYUNU İÇMƏK OLARMI? BAKIDA CAVAB 407 MİLYON DOLLARDIR",
+      "XƏZƏR OKEANDAN 3 DƏFƏ AZ DUZLUDUR — VƏ BU SU BAKIYA GƏLƏCƏK"
+    ],
+    "hook_pick": "XƏZƏRİN SUYU KRANA GƏLƏCƏK: GÜNDƏ NƏ QƏDƏR? Sənin cavabın? 👇",
+    "hook_pick_reason": "GUESS recipe (question + 'Sənin cavabın? 👇' on frame 0), names the subject (Xəzər) in frame 0; the shocking number (300 000 m³ = ~120 Olympic pools a day) is the reveal after 3-2-1; the Caspian-is-3×-less-salty-than-the-ocean line is the twist/payoff. Option 2 is the number-first fallback if the 15:23 build drops the GUESS format.",
+    "voice_text": "Xəzərin suyu krana gələcək. Azərbaycanda ilk böyük duzsuzlaşdırma zavodu tikiləcək. Gündə nə qədər su verəcək? Sənin cavabın? Üç, iki, bir… Gündə üç yüz min kubmetr! Təxminən yüz iyirmi Olimpiya hovuzu. Xəzər okeandan təxminən üç dəfə az duzludur. Amma yenə də içmək olmur. Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+    "voice_word_count": 50,
+    "language_check": "Section L read-through: short sentences (≤8 words), numbers written out, 'duzsuzlaşdırma zavodu' (report.az AZ term), 'kubmetr', 'Olimpiya hovuzu', 'içmək olmur' (spoken), no Türkiye-Turkish forms. Subject named in sentences 1–2 (Xəzər, duzsuzlaşdırma zavodu). Changes vs 09:10 voice_texts: plant named by sentence 2 (ALWAYS NAME IT), 'Su Bakıya və Abşerona veriləcək' dropped to fit 40–50 words (stays on screen/caption), 'təxminən üç dəfə' for accuracy.",
+    "caption_credit": "Səs: elevenlabs.io",
+    "voice": "arif",
+    "arif_mp3": "reels/arif/2026-11-27_1830.mp3",
+    "arif_raw_mp3": "reels/arif/2026-11-27_1830_raw.mp3",
+    "arif_credits": 318,
+    "words_json": "reels/arif/2026-11-27_1830.words.json",
+    "arif_note": "Generated ~14:57 Baku on the first try; eleven_v4, voice ZQJv3hwvRAIC7fvWZ1Qr, 1 generation, 318 credits, raw 23.88 s → slowed atempo 0.92 = 25.94 s. Scribe transcript matches voice_text word for word. Flow EizmFldRFfHVol7b8w2a.",
+    "status": "scheduled 18:30 IG REEL / TikTok / YT short (isAiGenerated/isAigc/isAiGeneratedContent true)",
+    "metricool_ids": {
+      "instagram": 444262052,
+      "tiktok": 444262075,
+      "youtube": 444262094
+    },
+    "scheduled_check": "27 Nov ~15:49 Baku: getScheduledPosts 27 Nov 14:00-24:00 empty before creating -> 3 new posts",
+    "build": {
+      "dir": "reels/2026-11-27_1830",
+      "duration_s": 27.0,
+      "fps": 60,
+      "size_mb": 12.7,
+      "loudness": "-14.1 LUFS, -1.1 dBTP",
+      "sfx_db": -9,
+      "music": "none",
+      "photos": 13,
+      "photo_note": "13 different Wikimedia Commons photos; 2 RO desalination plants labelled 'nümunə şəkil' (Baku plant not built yet); Tap_water_1.jpg rejected (author watermark); Baku Aquatic Palace photo cropped below the venue sign",
+      "critique": "3 rounds, docs/critique.md; final scores hook 8, readability 8, motion 8, variety 8, accuracy 9, sync 8"
+    },
+    "caption": "Xəzərin suyu krana gələcək: gündə 300 000 kubmetr 💧\n\nAzərbaycanda ilk böyük dəniz suyu duzsuzlaşdırma zavodu tikiləcək. Zavod gündə 300 000 kubmetr (lazım olanda 330 000-ə qədər) içməli su verəcək — bu, təxminən 120 Olimpiya hovuzu deməkdir. Su Bakıya və Abşeron yarımadasına veriləcək. Layihənin dəyəri 407 milyon dollardır, zavodu 25 il ərzində özəl şirkət (ACWA Power) işlədəcək. Maliyyə 24 noyabrda təsdiqləndi. Ən maraqlısı: Xəzər okeandan təxminən 3 dəfə az duzludur, amma yenə də içmək olmur.\n\nSən neçə təxmin etmişdin? 👇\n\n📩 Abşeronda yaşayan dostuna göndər 💧\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nSəs: elevenlabs.io\nFoto (Wikimedia Commons): AlixSaz, Dan Lundberg, James Grellier, Blueye (zavod şəkilləri — nümunə), Vien Hoang, Doggo19292, NASA, ESA, Prezidentin Mətbuat Xidməti, Ahl Baku, Petar Milošević, Saidaa444, Samir Rəsulov (CC BY / CC BY-SA / CC0 / PD)\nMənbə: report.az, trend.az, news.az, Britannica\n\n#bilirdinizmi #xəzər #bakı #içməlisu #azərbaycan",
+    "first_comment": "Sən neçə təxmin etmişdin? 👇 Xəzər suyunu dadmısan?",
+    "photo_credits": [
+      "AlixSaz CC BY-SA 4.0 (Surf on the embankment of Baku Boulevard)",
+      "Dan Lundberg CC BY-SA 2.0 (Pano Baku)",
+      "James Grellier CC BY-SA 3.0 (Reverse osmosis desalination plant)",
+      "Blueye CC BY-SA 3.0 (Reverse Osmosis Plant)",
+      "Vien Hoang CC0 (Tap)",
+      "Doggo19292 CC0 (Tap water filling water bottle)",
+      "NASA MODIS PD (Caspian Sea 2016-12-15)",
+      "ESA (Earth from Space: Baku)",
+      "Presidential Press and Information Office CC BY 4.0 (Baku Aquatics Centre 1)",
+      "Ahl Baku CC BY-SA 4.0 (Baku Aquatic Palace, Olympic Pool)",
+      "Petar Milošević CC BY-SA 4.0 (Dead Sea salt crystals)",
+      "Saidaa444 CC BY-SA 4.0 (Caspian sea-Baku)",
+      "Samir Rəsulov PD (Baku Bulvar)"
+    ],
+    "agency_photos": []
   }
- ],
- "pending_schedule": null,
- "metricool": {
-  "13:00 Şəki Xan Sarayı (static, silent, IG REEL)": 443388240
- },
- "tiktok": {
-  "13:00 Şəki Xan Sarayı": 443388258
- },
- "youtube": {
-  "13:00 Şəki Xan Sarayı": 443388283
- },
- "media": {
-  "13:00 Şəki Xan Sarayı": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-27_1300_sheki_shebeke_silent.mp4"
- },
- "ig_type": "REEL",
- "scheduled_check": "26 Nov 20:51: getScheduledPosts 27 Nov was empty before creating; 3 posts created (IG/TT/YT 13:00)",
- "build_1300": {
-  "spec": "out/2026-11-27/1_reel_spec.json",
-  "duration_s": 29.4,
-  "fps": 30,
-  "audio": "silent, volumedetect max -91 dB",
-  "photos": "6 Commons photos (shebeke_a hook, sheki_e, shebeke_b, sheki_c, shebeke_a, sheki_a, sheki_d)",
-  "fixes": "v2: non-breaking spaces so '0 MİSMAR'/'0 YAPIŞQAN' and the CTA 'bir fakt!' never split"
- },
- "trend": {
-  "n": "T",
-  "type": "reel",
-  "format": "animated_1830",
-  "content_format": "guess",
-  "post_format": "guess",
-  "cat": "Elm / Su / Xəzər",
-  "picked_at": "09:15–10:10 Baku 27 Nov (1st trend check)",
-  "rule_note": "Fri = GUESS THE ANSWER animated day (3 NEW FORMATS test to 2 Dec). Freshest big AZ-angle story with a guessable number: Azerbaijan's FIRST large-scale Caspian seawater desalination plant got its financing approved (ADB, 24 Nov; reported 24–26 Nov by report.az, trend.az, news.az, 1news.az, oc-media). FRESHNESS CAVEAT: news broke 24 Nov morning (~72 h ago) — slightly outside 24–48 h; picked because nothing fresher from 26–27 Nov had a real fact angle (scan below). 15:23 MUST swap if a runner-up confirms. Neutral national/economic news (AZ POLITICS RULE ok: no criticism, no praise words). Not sports, not space (week 23–29 Nov already has 3 sports). Not football → no TikTok swap; tiktok_swap false.",
-  "subject": "Caspian Sea Water Desalination Project: seawater reverse-osmosis plant, contracted capacity 300 000 m³/day, peak up to 330 000 m³/day (all 5 sources agree). Supplies Baku and the Absheron Peninsula (report, trend, news.az, 1news). Total cost $407 million (report, news.az, oc-media, 1news). 25-year PPP: design, build, finance, operate, maintain (report, trend, news.az, 1news). Developer ACWA Power (Saudi Arabia) (report, oc-media, 1news, news.az); EPC HDEC (PowerChina) with Spain's Savener. Offtaker: 'Böyük Şəhərlərin Birləşmiş Su Təchizatı Xidməti' (United Water Supply Services of Major Cities). 'First large-scale desalination plant' + 'first PPP in AZ water sector' (report, trend, news.az, 1news). ADB amount CONFLICT: $165M (70+70+25; report, news.az, oc-media) vs $140M (trend citing ADB, 1news) → never say an ADB amount in voice; AIIB earlier $45M (4 sources) → not needed. Location Sumgait = oc-media only → NOT in voice. Start/completion year: not stated anywhere → don't say. Pilot: Xıdırlı (Salyan) 2013, 1 000 → 2 000 m³/day = oc-media only → NOT in voice unless 15:23 finds a 2nd source (then '150 dəfə böyük' = 300 000 / 2 000, our arithmetic). Scale: 300 000 m³ ÷ 2 500 m³ (Olympic pool, 50×25×2 m) = 120 pools a day (our arithmetic; 'təxminən 120'). Caspian salinity ≈ 12.8 ‰ average (Britannica) vs ocean ≈ 35 ‰ → 'okeandan təxminən 3 dəfə az duzlu' (12.8×3≈38; general ocean figure).",
-  "context_check": "(1) Financing approved ≠ plant built: say 'tikiləcək' / 'maliyyə təsdiqlənib', never 'açıldı' or a finish date. (2) No ADB dollar figure (sources disagree); total $407M is safe (4 sources). (3) 'İlk böyük' — a small pilot existed (Xıdırlı 2013), so ALWAYS 'ilk BÖYÜK', never 'ilk'. (4) Brine/environment risks exist in ADB docs (Substantial E&S risk) — we make no 'eco-friendly' claims. (5) Don't claim % of Baku's water need or population served — no source. (6) Neutral tone, no 'tarixi nailiyyət'-type praise.",
-  "reel_hook": "XƏZƏRİN SUYU KRANA GƏLƏCƏK: GÜNDƏ NƏ QƏDƏR? Sənin cavabın? 👇",
-  "hook_options": [
-   "XƏZƏRİN SUYU KRANA GƏLƏCƏK: GÜNDƏ NƏ QƏDƏR? Sənin cavabın? 👇",
-   "GÜNDƏ 120 OLİMPİYA HOVUZU: XƏZƏRDƏN İÇMƏLİ SU",
-   "300 000 KUBMETR: AZƏRBAYCANDA İLK BÖYÜK DUZSUZLAŞDIRMA ZAVODU",
-   "DƏNİZ SUYUNU İÇMƏK OLARMI? BAKIDA CAVAB 407 MİLYON DOLLARDIR",
-   "XƏZƏR OKEANDAN 3 DƏFƏ AZ DUZLUDUR — VƏ BU SU BAKIYA GƏLƏCƏK"
-  ],
-  "hook_pick_reason": "GUESS recipe (question + 'Sənin cavabın? 👇' on frame 0), names the subject (Xəzər) in frame 0; the shocking number (300 000 m³ = ~120 Olympic pools a day) is the reveal after 3-2-1; the Caspian-is-3×-less-salty-than-the-ocean line is the twist/payoff. Option 2 is the number-first fallback if the 15:23 build drops the GUESS format.",
-  "reel_beats": [
-   "İpucu 1: Azərbaycanda ilk böyük dəniz suyu duzsuzlaşdırma zavodu tikiləcək. Su Bakıya və Abşerona veriləcək.",
-   "İpucu 2: Layihənin dəyəri 407 milyon dollardır. Zavodu 25 il ərzində özəl şirkət işlədəcək.",
-   "3… 2… 1… Cavab: gündə 300 000 kubmetr içməli su! Bu, təxminən 120 Olimpiya hovuzu deməkdir.",
-   "Lazım olanda zavod gündə 330 000 kubmetrə qədər su verə biləcək. Maliyyə noyabrın 24-də təsdiqləndi."
-  ],
-  "payoff": "Ən maraqlısı: Xəzər okeandan təxminən 3 dəfə az duzludur. Amma yenə də içmək olmur — əvvəlcə duzunu təmizləmək lazımdır.",
-  "twist": "Everyone calls it a sea, but the Caspian is ~3× less salty than the ocean — still undrinkable, hence the plant. Loop: '…duzunu təmizləmək lazımdır' → hook 'Xəzərin suyu krana gələcək'.",
-  "voice_texts": [
-   "Xəzərin suyu krana gələcək. Gündə nə qədər? Sənin cavabın?",
-   "Üç, iki, bir…",
-   "Gündə üç yüz min kubmetr! Təxminən yüz iyirmi Olimpiya hovuzu.",
-   "Bu, Azərbaycanda ilk böyük duzsuzlaşdırma zavodu olacaq. Su Bakıya və Abşerona veriləcək.",
-   "Maraqlısı: Xəzər okeandan üç dəfə az duzludur. Amma yenə içmək olmur.",
-   "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
-  ],
-  "voice_word_count": 50,
-  "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
-  "send_line": "📩 Abşeronda yaşayan dostuna göndər 💧",
-  "caption": "Xəzərin suyu krana gələcək: gündə 300 000 kubmetr 💧\n\nAzərbaycanda ilk böyük dəniz suyu duzsuzlaşdırma zavodu tikiləcək. Zavod gündə 300 000 kubmetr (lazım olanda 330 000-ə qədər) içməli su verəcək — bu, təxminən 120 Olimpiya hovuzu deməkdir. Su Bakıya və Abşeron yarımadasına veriləcək. Layihənin dəyəri 407 milyon dollardır, zavodu 25 il ərzində özəl şirkət (ACWA Power) işlədəcək. Maliyyə 24 noyabrda təsdiqləndi. Ən maraqlısı: Xəzər okeandan təxminən 3 dəfə az duzludur, amma yenə də içmək olmur.\n\n📩 Abşeronda yaşayan dostuna göndər 💧\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nSəs: elevenlabs.io\nMənbə: report.az, trend.az, Britannica\n\n#bilirdinizmi #xəzər #bakı #içməlisu #azərbaycan",
-  "first_comment": "Sən neçə təxmin etmişdin? 👇 Xəzər suyunu dadmısan?",
-  "youtube_title": "Xəzərin suyu krana gələcək: gündə 300 000 kubmetr 💧 #shorts",
-  "visual_ideas": [
-   "Frame 0: a kitchen tap on the left, a wave of Caspian water on the right; big text 'XƏZƏRİN SUYU KRANA GƏLƏCƏK' + 'GÜNDƏ NƏ QƏDƏR? 👇'.",
-   "Clues as two cards sliding in with a small counter 'İPUCU 1/2 → 2/2' (progress counter); map outline of Absheron with Baku pin lighting up.",
-   "3-2-1 countdown big digits with a tick SFX (non-melodic).",
-   "Reveal: a running counter 0 → 300 000 m³ while Olympic pools (blue rectangles) fill up and stack in a grid 1 → 120.",
-   "Peak: the counter nudges to 330 000 with a small 'PİK' stamp.",
-   "Twist: two salt shakers / two beakers — 'OKEAN ~35 q/l' vs 'XƏZƏR ~13 q/l', salt grains drop, the Caspian one has a third; then a filter (reverse-osmosis membrane) squeezes salt out, a glass fills.",
-   "PHOTO STORY: real photos — Caspian shore (Commons search queued: fetch/img/2026-11-27_T_s_caspian.json), Baku Boulevard sea, a desalination plant (generic RO plant, Commons, labelled 'nümunə' so no one thinks it is ours), Absheron map; ACWA Power/ADB press photo only with credit. 6–8 images. Subtitle bar fixed (VIEWER FEEDBACK 24 Nov).",
-   "End card CTA + loop back to the tap."
-  ],
-  "sources": [
-   "https://report.az/en/finance/azerbaijan-s-first-major-caspian-sea-desalination-plant-receives-additional-165m",
-   "https://www.trend.az/azerbaijan/4250412.html",
-   "https://news.az/news/azerbaijan-to-build-major-caspian-sea-desalination-plant-with-adb-support",
-   "https://1news.az/en/news/20261124141509682-Caspian-Sea-water-to-be-desalinated-140-million-allocated",
-   "https://oc-media.org/funding-for-caspian-sea-desalination-plant-approved-amid-growing-concern-in-azerbaijan-over-water-security/",
-   "https://www.britannica.com/question/How-salty-is-the-Caspian-Sea"
-  ],
-  "source_scan": "09:15–10:00 27 Nov: apa.az (front page 25–27 Nov), news.az, trend.az (AZ list + sports), jam-news live digest 25–27 Nov, arena.az (Conference League MD4 26 Nov), report.az via search, Google-style searches 'Azərbaycan xəbərlər 26 noyabr', 'azərbaycanlı dünyada ilk', 'qızıl medal noyabr 2026'. World: Binance $6.3B hack (old, ~1 Nov; resumed withdrawals; past Bitcoin reels flopped) → no; tanker mine blasts off Oman (conflict) → no. Fresh but weak: Estonian FM in Baku, AZ–Lithuania strategic partnership (25–26 Nov, protocol only), Tartar + Masallı youth & sports capitals 2028, non-oil exports +136% (unclear base), AZAL 2025 report. Skipped: Fira Cəlilova dacha break-in (crime/private), M4.3 Şamaxı–Ağsu quake (no damage; tragedy rules), AZ citizens in Russian army deaths (war). AZ ANGLE scan for world stories: Conference League MD4 → Zamiq Əliyev (Egnatia) and Murad Məmmədov (Pafos) played.",
-  "runners_up": [
-   {
-    "story": "Qaşım Maqomedov (taekwondo, −58 kg) at the World Taekwondo Grand Prix Final, Astana, 27–29 Nov (trend.az 4251166, AZ Taekwondo Federation).",
-    "use": "15:23: if he has WON a medal today (check worldtaekwondo.org results + report.az/apa.az = 2 sources), swap — a GP Final medal is bigger news (sports = 4th this week, allowed: biggest news wins). Real photos: federation/WT Flickr (credit)."
-   },
-   {
-    "story": "Egnatia (Albania) with Azerbaijani Zamiq Əliyev — 'historic win' over Lincoln Red Imps in Conference League MD4, 26 Nov (arena.az 23:59 headline; score not read).",
-    "use": "Only if 15:23 confirms score + his role (goal/assist) from 2 sources; football → TikTok FOOTBALL SWAP would then apply (TikTok keeps the desalination GUESS)."
-   }
-  ],
-  "tiktok_swap": false,
-  "freshness_note": "Story date 24 Nov (financing approval); still being covered 25–26 Nov (trend.az 25 Nov 09:23, oc-media updated 26 Nov). ~72 h — honest flag for the 15:23 re-check.",
-  "status": "picked",
-  "photos_found": [
-   "fetch/img/2026-11-27_T_baku_pano.jpg (Baku from Upland Park, sea + Flame Towers; Dan Lundberg / Wikimedia Commons, CC BY-SA 2.0)",
-   "fetch/img/2026-11-27_T_baku_esa.jpg (Baku & Absheron coast from space; ESA, CC BY-SA 3.0 IGO)",
-   "15:23: add a generic RO desalination plant photo (Commons, labelled 'nümunə') + Caspian shore; ACWA/ADB press photo only with credit"
-  ]
- },
- "reel_1830": {
-  "topic": "GUESS THE ANSWER: Azərbaycanda ilk böyük Xəzər suyu duzsuzlaşdırma zavodu — gündə 300 000 kubmetr (≈120 Olimpiya hovuzu); maliyyə 24 noyabr 2026-da təsdiqləndi (ADB)",
-  "format": "guess",
-  "content_format": "guess",
-  "tiktok_swap": false,
-  "picked_at": "14:55 Baku 27 Nov (2nd trend check by 14:47 task): kept the 09:10 pick. Searches: 'Azərbaycan xəbərlər 27 noyabr 2026' (apa/trend: Naxçıvan summit, banks ESG reporting, ex-official released — nothing bigger/usable), 'Azerbaijan news November 27 2026' (Estonian FM, NGO rules, IDP returns, parliament — protocol/politics), runner-up 1 Maqomedov GP Final Astana: only pre-event articles (trend.az 4251163, day.az, futbolinfo), no medal yet → no swap; runner-up 2 Egnatia/Zamiq Əliyev: score/role not confirmed by 2 sources → no swap. Freshness caveat stays (~72 h).",
-  "sources": [
-   "https://report.az/en/finance/azerbaijan-s-first-major-caspian-sea-desalination-plant-receives-additional-165m",
-   "https://www.trend.az/azerbaijan/4250412.html",
-   "https://news.az/news/azerbaijan-to-build-major-caspian-sea-desalination-plant-with-adb-support",
-   "https://1news.az/en/news/20261124141509682-Caspian-Sea-water-to-be-desalinated-140-million-allocated",
-   "https://oc-media.org/funding-for-caspian-sea-desalination-plant-approved-amid-growing-concern-in-azerbaijan-over-water-security/",
-   "https://www.britannica.com/question/How-salty-is-the-Caspian-Sea",
-   "https://acwapower.com/en/what-we-do/projects/caspian-seawater-desalination-project/",
-   "https://www.aiib.org/en/projects/details/2026/approved/azerbaijan-caspian-sea-desalination-project.html"
-  ],
-  "fact_check": "300 000 m³/day: report.az + trend.az + news.az + 1news + ACWA project page. 'İlk böyük': report + trend + news.az + 1news. 120 pools = 300 000 / 2 500 m³ (our arithmetic, 'təxminən'). Caspian ≈12.8‰ vs ocean ≈35‰ (Britannica) → 'təxminən üç dəfə'.",
-  "context_check": "Financing approved, not built → 'tikiləcək', no finish date. 'ilk BÖYÜK' (pilot Xıdırlı existed). No ADB amount (sources disagree). Salinity ratio ≈2.7 → 'təxminən üç dəfə'. Neutral tone, no praise words (AZ POLITICS RULE).",
-  "hooks": [
-   "XƏZƏRİN SUYU KRANA GƏLƏCƏK: GÜNDƏ NƏ QƏDƏR? Sənin cavabın? 👇",
-   "GÜNDƏ 120 OLİMPİYA HOVUZU: XƏZƏRDƏN İÇMƏLİ SU",
-   "300 000 KUBMETR: AZƏRBAYCANDA İLK BÖYÜK DUZSUZLAŞDIRMA ZAVODU",
-   "DƏNİZ SUYUNU İÇMƏK OLARMI? BAKIDA CAVAB 407 MİLYON DOLLARDIR",
-   "XƏZƏR OKEANDAN 3 DƏFƏ AZ DUZLUDUR — VƏ BU SU BAKIYA GƏLƏCƏK"
-  ],
-  "hook_pick": "XƏZƏRİN SUYU KRANA GƏLƏCƏK: GÜNDƏ NƏ QƏDƏR? Sənin cavabın? 👇",
-  "hook_pick_reason": "GUESS recipe (question + 'Sənin cavabın? 👇' on frame 0), names the subject (Xəzər) in frame 0; the shocking number (300 000 m³ = ~120 Olympic pools a day) is the reveal after 3-2-1; the Caspian-is-3×-less-salty-than-the-ocean line is the twist/payoff. Option 2 is the number-first fallback if the 15:23 build drops the GUESS format.",
-  "voice_text": "Xəzərin suyu krana gələcək. Azərbaycanda ilk böyük duzsuzlaşdırma zavodu tikiləcək. Gündə nə qədər su verəcək? Sənin cavabın? Üç, iki, bir… Gündə üç yüz min kubmetr! Təxminən yüz iyirmi Olimpiya hovuzu. Xəzər okeandan təxminən üç dəfə az duzludur. Amma yenə də içmək olmur. Bəyən və izlə — hər gün bilmədiyin bir fakt!",
-  "voice_word_count": 50,
-  "language_check": "Section L read-through: short sentences (≤8 words), numbers written out, 'duzsuzlaşdırma zavodu' (report.az AZ term), 'kubmetr', 'Olimpiya hovuzu', 'içmək olmur' (spoken), no Türkiye-Turkish forms. Subject named in sentences 1–2 (Xəzər, duzsuzlaşdırma zavodu). Changes vs 09:10 voice_texts: plant named by sentence 2 (ALWAYS NAME IT), 'Su Bakıya və Abşerona veriləcək' dropped to fit 40–50 words (stays on screen/caption), 'təxminən üç dəfə' for accuracy.",
-  "caption_credit": "Səs: elevenlabs.io",
-  "voice": "arif",
-  "arif_mp3": "reels/arif/2026-11-27_1830.mp3",
-  "arif_raw_mp3": "reels/arif/2026-11-27_1830_raw.mp3",
-  "arif_credits": 318,
-  "words_json": "reels/arif/2026-11-27_1830.words.json",
-  "arif_note": "Generated ~14:57 Baku on the first try; eleven_v4, voice ZQJv3hwvRAIC7fvWZ1Qr, 1 generation, 318 credits, raw 23.88 s → slowed atempo 0.92 = 25.94 s. Scribe transcript matches voice_text word for word. Flow EizmFldRFfHVol7b8w2a."
- }
 }

@@ -1,0 +1,309 @@
+{
+ "source": "ElevenLabs scribe (eleven_scribe_v1) on the raw generation, times scaled by 1/0.92 to match the slowed file (atempo 0.92). Transcript matches voice_text word for word.",
+ "audio": "reels/arif/2026-11-27_1830.mp3",
+ "duration_s": 25.94,
+ "phrases": [
+  {
+   "text": "Xəzərin suyu krana gələcək.",
+   "start": 0.0,
+   "end": 2.174
+  },
+  {
+   "text": "Azərbaycanda ilk böyük duzsuzlaşdırma zavodu tikiləcək.",
+   "start": 2.261,
+   "end": 6.087
+  },
+  {
+   "text": "Gündə nə qədər su verəcək?",
+   "start": 6.13,
+   "end": 8.174
+  },
+  {
+   "text": "Sənin cavabın?",
+   "start": 8.217,
+   "end": 9.478
+  },
+  {
+   "text": "Üç, iki, bir…",
+   "start": 9.565,
+   "end": 12.174
+  },
+  {
+   "text": "Gündə üç yüz min kubmetr!",
+   "start": 12.217,
+   "end": 14.435
+  },
+  {
+   "text": "Təxminən yüz iyirmi Olimpiya hovuzu.",
+   "start": 14.478,
+   "end": 17.13
+  },
+  {
+   "text": "Xəzər okeandan təxminən üç dəfə az duzludur.",
+   "start": 17.174,
+   "end": 20.666
+  },
+  {
+   "text": "Amma yenə də içmək olmur.",
+   "start": 20.725,
+   "end": 22.522
+  },
+  {
+   "text": "Bəyən və izlə hər gün bilmədiyin bir fakt!",
+   "start": 22.551,
+   "end": 26.0
+  }
+ ],
+ "words": [
+  {
+   "text": "Xəzərin",
+   "start": 0.0,
+   "end": 0.522
+  },
+  {
+   "text": "suyu",
+   "start": 0.609,
+   "end": 0.87
+  },
+  {
+   "text": "krana",
+   "start": 0.957,
+   "end": 1.304
+  },
+  {
+   "text": "gələcək.",
+   "start": 1.348,
+   "end": 2.174
+  },
+  {
+   "text": "Azərbaycanda",
+   "start": 2.261,
+   "end": 3.13
+  },
+  {
+   "text": "ilk",
+   "start": 3.304,
+   "end": 3.478
+  },
+  {
+   "text": "böyük",
+   "start": 3.565,
+   "end": 3.826
+  },
+  {
+   "text": "duzsuzlaşdırma",
+   "start": 3.913,
+   "end": 4.696
+  },
+  {
+   "text": "zavodu",
+   "start": 4.783,
+   "end": 5.13
+  },
+  {
+   "text": "tikiləcək.",
+   "start": 5.188,
+   "end": 6.087
+  },
+  {
+   "text": "Gündə",
+   "start": 6.13,
+   "end": 6.522
+  },
+  {
+   "text": "nə",
+   "start": 6.696,
+   "end": 6.783
+  },
+  {
+   "text": "qədər",
+   "start": 6.87,
+   "end": 7.101
+  },
+  {
+   "text": "su",
+   "start": 7.13,
+   "end": 7.217
+  },
+  {
+   "text": "verəcək?",
+   "start": 7.304,
+   "end": 8.174
+  },
+  {
+   "text": "Sənin",
+   "start": 8.217,
+   "end": 8.522
+  },
+  {
+   "text": "cavabın?",
+   "start": 8.565,
+   "end": 9.478
+  },
+  {
+   "text": "Üç,",
+   "start": 9.565,
+   "end": 10.348
+  },
+  {
+   "text": "iki,",
+   "start": 10.435,
+   "end": 11.391
+  },
+  {
+   "text": "bir…",
+   "start": 11.565,
+   "end": 12.174
+  },
+  {
+   "text": "Gündə",
+   "start": 12.217,
+   "end": 12.783
+  },
+  {
+   "text": "üç",
+   "start": 12.87,
+   "end": 13.043
+  },
+  {
+   "text": "yüz",
+   "start": 13.13,
+   "end": 13.217
+  },
+  {
+   "text": "min",
+   "start": 13.304,
+   "end": 13.478
+  },
+  {
+   "text": "kubmetr!",
+   "start": 13.565,
+   "end": 14.435
+  },
+  {
+   "text": "Təxminən",
+   "start": 14.478,
+   "end": 15.13
+  },
+  {
+   "text": "yüz",
+   "start": 15.174,
+   "end": 15.478
+  },
+  {
+   "text": "iyirmi",
+   "start": 15.522,
+   "end": 15.826
+  },
+  {
+   "text": "Olimpiya",
+   "start": 15.913,
+   "end": 16.348
+  },
+  {
+   "text": "hovuzu.",
+   "start": 16.391,
+   "end": 17.13
+  },
+  {
+   "text": "Xəzər",
+   "start": 17.174,
+   "end": 17.565
+  },
+  {
+   "text": "okeandan",
+   "start": 17.652,
+   "end": 18.261
+  },
+  {
+   "text": "təxminən",
+   "start": 18.304,
+   "end": 18.957
+  },
+  {
+   "text": "üç",
+   "start": 19.043,
+   "end": 19.217
+  },
+  {
+   "text": "dəfə",
+   "start": 19.261,
+   "end": 19.565
+  },
+  {
+   "text": "az",
+   "start": 19.652,
+   "end": 19.739
+  },
+  {
+   "text": "duzludur.",
+   "start": 19.826,
+   "end": 20.666
+  },
+  {
+   "text": "Amma",
+   "start": 20.725,
+   "end": 20.957
+  },
+  {
+   "text": "yenə",
+   "start": 21.043,
+   "end": 21.304
+  },
+  {
+   "text": "də",
+   "start": 21.334,
+   "end": 21.391
+  },
+  {
+   "text": "içmək",
+   "start": 21.435,
+   "end": 21.826
+  },
+  {
+   "text": "olmur.",
+   "start": 21.87,
+   "end": 22.522
+  },
+  {
+   "text": "Bəyən",
+   "start": 22.551,
+   "end": 22.957
+  },
+  {
+   "text": "və",
+   "start": 23.043,
+   "end": 23.13
+  },
+  {
+   "text": "izlə",
+   "start": 23.217,
+   "end": 23.565
+  },
+  {
+   "text": "hər",
+   "start": 23.971,
+   "end": 24.174
+  },
+  {
+   "text": "gün",
+   "start": 24.261,
+   "end": 24.522
+  },
+  {
+   "text": "bilmədiyin",
+   "start": 24.609,
+   "end": 25.13
+  },
+  {
+   "text": "bir",
+   "start": 25.217,
+   "end": 25.304
+  },
+  {
+   "text": "fakt!",
+   "start": 25.391,
+   "end": 26.0
+  }
+ ]
+}

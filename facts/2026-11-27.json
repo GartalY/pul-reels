@@ -277,6 +277,11 @@
   "voice_word_count": 50,
   "language_check": "Section L read-through: short sentences (≤8 words), numbers written out, 'duzsuzlaşdırma zavodu' (report.az AZ term), 'kubmetr', 'Olimpiya hovuzu', 'içmək olmur' (spoken), no Türkiye-Turkish forms. Subject named in sentences 1–2 (Xəzər, duzsuzlaşdırma zavodu). Changes vs 09:10 voice_texts: plant named by sentence 2 (ALWAYS NAME IT), 'Su Bakıya və Abşerona veriləcək' dropped to fit 40–50 words (stays on screen/caption), 'təxminən üç dəfə' for accuracy.",
   "caption_credit": "Səs: elevenlabs.io",
-  "voice": "pending"
+  "voice": "arif",
+  "arif_mp3": "reels/arif/2026-11-27_1830.mp3",
+  "arif_raw_mp3": "reels/arif/2026-11-27_1830_raw.mp3",
+  "arif_credits": 318,
+  "words_json": "reels/arif/2026-11-27_1830.words.json",
+  "arif_note": "Generated ~14:57 Baku on the first try; eleven_v4, voice ZQJv3hwvRAIC7fvWZ1Qr, 1 generation, 318 credits, raw 23.88 s → slowed atempo 0.92 = 25.94 s. Scribe transcript matches voice_text word for word. Flow EizmFldRFfHVol7b8w2a."
  }
 }

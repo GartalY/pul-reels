@@ -273,8 +273,8 @@
   ],
   "hook_pick": "XƏZƏRİN SUYU KRANA GƏLƏCƏK: GÜNDƏ NƏ QƏDƏR? Sənin cavabın? 👇",
   "hook_pick_reason": "GUESS recipe (question + 'Sənin cavabın? 👇' on frame 0), names the subject (Xəzər) in frame 0; the shocking number (300 000 m³ = ~120 Olympic pools a day) is the reveal after 3-2-1; the Caspian-is-3×-less-salty-than-the-ocean line is the twist/payoff. Option 2 is the number-first fallback if the 15:23 build drops the GUESS format.",
-  "voice_text": "Xəzərin suyu krana gələcək. Azərbaycanda ilk böyük duzsuzlaşdırma zavodu tikiləcək. Gündə nə qədər su verəcək? Sənin cavabın? Üç, iki, bir… Gündə üç yüz min kubmetr! Təxminən yüz iyirmi Olimpiya hovuzu. Maraqlısı: Xəzər okeandan təxminən üç dəfə az duzludur. Amma yenə də içmək olmur. Bəyən və izlə — hər gün bilmədiyin bir fakt!",
-  "voice_word_count": 51,
+  "voice_text": "Xəzərin suyu krana gələcək. Azərbaycanda ilk böyük duzsuzlaşdırma zavodu tikiləcək. Gündə nə qədər su verəcək? Sənin cavabın? Üç, iki, bir… Gündə üç yüz min kubmetr! Təxminən yüz iyirmi Olimpiya hovuzu. Xəzər okeandan təxminən üç dəfə az duzludur. Amma yenə də içmək olmur. Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+  "voice_word_count": 50,
   "language_check": "Section L read-through: short sentences (≤8 words), numbers written out, 'duzsuzlaşdırma zavodu' (report.az AZ term), 'kubmetr', 'Olimpiya hovuzu', 'içmək olmur' (spoken), no Türkiye-Turkish forms. Subject named in sentences 1–2 (Xəzər, duzsuzlaşdırma zavodu). Changes vs 09:10 voice_texts: plant named by sentence 2 (ALWAYS NAME IT), 'Su Bakıya və Abşerona veriləcək' dropped to fit 40–50 words (stays on screen/caption), 'təxminən üç dəfə' for accuracy.",
   "caption_credit": "Səs: elevenlabs.io",
   "voice": "pending"

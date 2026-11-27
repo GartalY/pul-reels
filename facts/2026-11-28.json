@@ -1,6 +1,6 @@
 {
  "date": "2026-11-28",
- "status": "planned",
+ "status": "13:00 scheduled (static Voyager Golden Record muğam, no voice, silent track, IG REEL); 18:30 animated Arif reel = 14:47/15:23 tasks",
  "format": "v4",
  "content_format": "quality_reset_2026-11-12",
  "planned_note": "Planned in the 2026-11-27 09:10 run. Sat 28 Nov (no format-test day): 13:00 = static photo+words reel from facts[0] (Voyager Golden Record — Azerbaijani mugham 25.9 bn km away, NASA photos, no voice, silent track, IG normal REEL). 18:30 = animated Arif trend reel (28 Nov 09:10 pick); if no fresh AZ story, facts[1] = alphabet 3 changes (animated). Categories: music/space (facts[0]) + history/language (facts[1]) — both AZ (MANDATE DECISION 2026-11-11); space count week 23–29 Nov = 1 (this), sports = 3 (Sabah–Barça ×2, boxing). No carousels/quizzes/stories.",
@@ -129,5 +129,27 @@
    ]
   }
  ],
- "pending_schedule": null
+ "pending_schedule": null,
+ "metricool": {
+  "13:00 Voyager Qızıl Val — Azərbaycan muğamı (static, silent, IG REEL)": 444620107
+ },
+ "tiktok": {
+  "13:00 Voyager muğam": 444620356
+ },
+ "youtube": {
+  "13:00 Voyager muğam": 444620377
+ },
+ "media": {
+  "13:00 Voyager muğam": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-28_1300_voyager_mugam_silent.mp4"
+ },
+ "ig_type": "REEL",
+ "scheduled_check": "27 Nov 20:51: getScheduledPosts 28 Nov was empty before creating; 3 posts created (IG/TT/YT 13:00)",
+ "build_1300": {
+  "spec": "out/2026-11-28/1_reel_spec.json",
+  "duration_s": 29.4,
+  "fps": 30,
+  "audio": "silent, volumedetect max -91 dB",
+  "photos": "6 NASA/Commons images: golden_cover (hook), golden_plating, golden_mount, balaban_b, voyager_portrait (crop of 2026-10-19_4_voyager.jpg, NASA PD), golden_cover_zoom (payoff)",
+  "fixes": "v2: payoff photo balaban_a dropped — its 9:16 centre crop showed only the museum label text; replaced with a zoomed crop of the record cover. NBSP in numbers and CTA."
+ }
 }

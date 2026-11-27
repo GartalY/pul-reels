@@ -1,0 +1,32 @@
+{
+ "hook": "25,9 MİLYARD KM UZAQDA BİR AZƏRBAYCAN MUĞAMI UÇUR",
+ "beats": [
+  "1977-ci ildə NASA iki «Voyager» kosmik gəmisinə qızıl suyuna çəkilmiş bir val qoydu — «Qızıl Val».",
+  "Valda 55 dildə salam və 27 musiqi var.",
+  "Onlardan biri Azərbaycan muğamıdır — iki balabanda ifa olunur.",
+  "Noyabrın 17–18-də «Voyager 1» Yerdən 1 işıq günü uzaqlaşdı. Bu, təxminən 25,9 milyard kilometrdir.",
+  "Yəni oradan Yerə işıq da düz bir günə çatır.",
+  "Ən maraqlısı: «Voyager 1» insanın düzəltdiyi ən uzaq cisimdir. Muğamımız da onunla birlikdə hələ də uzaqlaşır!"
+ ],
+ "pills": [
+  "QIZIL VAL",
+  "55 DİL, 27 MUSİQİ",
+  "AZƏRBAYCAN MUĞAMI",
+  "25,9 MİLYARD KM",
+  "1 İŞIQ GÜNÜ",
+  "ƏN MARAQLISI"
+ ],
+ "photo_beats": {
+  "0": "fetch/img/2026-11-28_1_golden_plating.jpg",
+  "1": "fetch/img/2026-11-28_1_golden_mount.jpg",
+  "2": "fetch/img/2026-11-28_1_balaban_b.jpg",
+  "3": "fetch/img/2026-11-28_1_voyager_portrait.jpg",
+  "5": "fetch/img/2026-11-28_1_golden_cover_zoom.jpg"
+ },
+ "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+ "seed": 28,
+ "cy": 0.5,
+ "full": true,
+ "hook_bg": true,
+ "hook_s": 2.6
+}

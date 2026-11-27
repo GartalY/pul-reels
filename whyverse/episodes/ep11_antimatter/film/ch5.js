@@ -6,7 +6,7 @@
   const W = G.W, H = G.H;
   const book = (ctx, x, y, s, col, label, k, rot = 0) => { if (k <= 0.01) return; P.at(ctx, x, y, s * ease.outBack(clamp(k), 1.8), rot, () => { P.iRect(ctx, -90, -120, 180, 240, 10, col, { shade: 0.4 }); P.iRect(ctx, -70, -120, 14, 240, 0, 'rgba(0,0,0,0.18)'); G.text(ctx, label, 10, 10, { size: 30, fam: 'Inter', weight: 900, color: C.pap, align: 'center', boil: 0 }); }); };
 
-  P.cardShot('c5', 5, 'The rule breakers', (ctx, t) => { book(ctx, 1600, 860, 0.8, C.ink, 'RULES', P.dk(t, S.CH.c5.t0 + 0.3, 0.4), -0.08); book(ctx, 1780, 870, 0.8, C.acc, 'RULES', P.dk(t, S.CH.c5.t0 + 0.5, 0.4), 0.12); });
+  P.cardShot('c5', 5, 'The rule breakers', (ctx, t) => { book(ctx, 1600, 960, 0.6, C.ink, 'RULES', P.dk(t, S.CH.c5.t0 + 0.3, 0.4), -0.08); book(ctx, 1760, 968, 0.6, C.acc, 'RULES', P.dk(t, S.CH.c5.t0 + 0.5, 0.4), 0.12); });
 
   // S1 — Andrei Sakharov, 1967: three things must be true
   P.shot(ev.c5_s1, (ctx, t) => {

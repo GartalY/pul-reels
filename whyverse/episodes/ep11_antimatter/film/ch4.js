@@ -6,7 +6,7 @@
   const W = G.W, H = G.H;
   const photon = (ctx, x, y, s, t, a = 1, seed = 0) => { const pts = []; for (let j = 0; j <= 8; j++) pts.push([x - 24 * s + j * 6 * s, y + Math.sin(j * 1.9 + t * 6 + seed) * 7 * s]); P.art(ctx, [pts], 1, { color: C.yel, lw: 5 * s, a }); P.art(ctx, [pts.map((p) => [p[0] + 2, p[1] + 2])], 1, { color: C.acc, lw: 1.6 * s, a: a * 0.5 }); };
 
-  P.cardShot('c4', 4, 'One in a billion', (ctx, t) => { for (let i = 0; i < 40; i++) { const x = 1480 + (i % 8) * 50, y = 760 + Math.floor(i / 8) * 50; P.part(ctx, x, y, 14, i === 22 ? 'e' : 'p', { k: P.dk(t, S.CH.c4.t0 + 0.3 + i * 0.02, 0.3), sign: false, a: i === 22 ? 1 : 0.25 }); } });
+  P.cardShot('c4', 4, 'One in a billion', (ctx, t) => { for (let i = 0; i < 24; i++) { const x = 1480 + (i % 8) * 50, y = 920 + Math.floor(i / 8) * 50; P.part(ctx, x, y, 14, i === 13 ? 'e' : 'p', { k: P.dk(t, S.CH.c4.t0 + 0.3 + i * 0.02, 0.3), sign: false, a: i === 13 ? 1 : 0.25 }); } });
 
   // S1 — compare surviving matter with leftover light: the answer is tiny
   P.shot(ev.c4_s1, (ctx, t) => {

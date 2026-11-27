@@ -5,7 +5,7 @@
   const { U, G, Ch, P, Data, SCORE: S } = globalThis; const { clamp, lerp, ease } = U; const { ev, L } = S; const C = P.C;
   const W = G.W, H = G.H;
 
-  P.cardShot('c6', 6, 'The hunt for the missing piece', (ctx, t) => { const x = 1700 + Math.sin(t * 1.3) * 60, y = 880; P.art(ctx, [P.circPts(x, y, 90, 40)], P.dk(t, S.CH.c6.t0 + 0.3, 0.5), { lw: 10 }); P.line(ctx, x + 64, y + 64, x + 140, y + 140, C.ink, 18, P.dk(t, S.CH.c6.t0 + 0.5, 0.3)); });
+  P.cardShot('c6', 6, 'The hunt for the missing piece', (ctx, t) => { const x = 1700 + Math.sin(t * 1.3) * 60, y = 950; P.art(ctx, [P.circPts(x, y, 90, 40)], P.dk(t, S.CH.c6.t0 + 0.3, 0.5), { lw: 10 }); P.line(ctx, x + 64, y + 64, x + 140, y + 140, C.ink, 18, P.dk(t, S.CH.c6.t0 + 0.5, 0.3)); });
 
   // S1 — suspect #1: the neutrino, a ghost passing through everything; its difference not measured yet
   P.shot(ev.c6_s1, (ctx, t) => {

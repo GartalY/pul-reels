@@ -7,7 +7,7 @@
   const W = G.W, H = G.H;
   const hAtom = (ctx, x, y, s, t, k = 1, a = 1) => { if (k <= 0.01) return; ctx.save(); ctx.globalAlpha *= a; P.art(ctx, [P.circPts(x, y, 40 * s, 30, 0, 6.283, 24 * s)], k, { color: C.acc, lw: 3 }); P.part(ctx, x, y, 14 * s, 'pbar', { k, sign: false }); const q = t * 3 + x * 0.01; P.part(ctx, x + Math.cos(q) * 40 * s, y + Math.sin(q) * 24 * s, 7 * s, 'p', { k, sign: false }); ctx.restore(); };
 
-  P.cardShot('c3', 3, 'How to hold nothing', (ctx, t) => { P.trap(ctx, 1690, 860, 0.38, t, { k: P.dk(t, S.CH.c3.t0 + 0.3, 0.8) }); });
+  P.cardShot('c3', 3, 'How to hold nothing', (ctx, t) => { P.trap(ctx, 1800, 970, 0.28, t, { k: P.dk(t, S.CH.c3.t0 + 0.3, 0.8) }); });
 
   // S1 — the trap: magnetic field + electric field + vacuum, the particle floats touching nothing
   P.shot(ev.c3_s1, (ctx, t) => {

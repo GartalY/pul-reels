@@ -11,7 +11,7 @@
       P.iPoly(ctx, body, C.yel, { curve: true, shade: 0.6, shadeColor: '#E39A1B', sp: 12 });
       P.art(ctx, [{ pts: body, closed: true }], 1, { color: C.ink, lw: 6 });
       P.art(ctx, [P.circPts(0, -60, 245, 30, Math.PI * 0.2, Math.PI * 0.8, 95).map((p) => [p[0], p[1] - 8])], 1, { color: C.ink2, lw: 3 });
-      P.iRect(ctx, 214, -96, 26, 40, 6, '#6B4F2A', { }); P.iEll(ctx, -226, -50, 12, 14, '#4A3A22');
+      P.iRect(ctx, 214, -58, 30, 34, 6, '#6B4F2A', { }); P.iEll(ctx, -226, -50, 12, 14, '#4A3A22');
     }, rot);
   };
   // cloud chamber: a dark glass box with dotted condensation tracks; 'wrong' track curls the other way (pink)

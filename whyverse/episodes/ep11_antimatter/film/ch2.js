@@ -29,7 +29,7 @@
   P.shot(ev.c2_s2, (ctx, t) => {
     P.bgLine(ctx, t, { corner: 0 });
     const tm = ev.c2_rel; const u = P.eio((t - ev.c2_g2 - 0.2) / Math.max(0.3, tm - ev.c2_g2 - 0.2)); const d = 230 * (1 - u);
-    if (t < tm + 0.05) { weight(ctx, 520 - d, 520, 1.1, 'ANTIMATTER', true, P.dk(t, ev.c2_g1 - 0.2, 0.4)); weight(ctx, 520 + d + 0, 520, 1.1, 'MATTER', false, P.dk(t, ev.c2_g2 - 0.2, 0.4)); }
+    if (t < tm + 0.05) { weight(ctx, 520 - d, 520, 1.1, 'ANTIMATTER', true, P.dk(t, ev.c2_s2 + 0.15, 0.4)); weight(ctx, 520 + d + 0, 520, 1.1, 'MATTER', false, P.dk(t, ev.c2_s2 + 0.4, 0.4)); P.ring(ctx, 520 - d, 520, t, ev.c2_g1, { r: 140, color: C.acc }); P.ring(ctx, 520 + d, 520, t, ev.c2_g2, { r: 140, color: C.ink }); }
     P.flash(ctx, 520, 520, t, tm, { r: 300, n: 12, seed: 4, dur: 1.5 });
     P.write(ctx, 'ENORMOUS.', 520, 200, t, ev.c2_enorm, { size: 80, weight: 900, color: C.acc });
     P.plant(ctx, 1320, 700, 1.0, t, { k: P.dk(t, Math.min(ev.c2_plant - 0.3, ev.c2_rel + 0.6), 0.7) });
@@ -42,9 +42,9 @@
   P.shot(ev.c2_s3, (ctx, t) => {
     P.bgLine(ctx, t);
     P.rslam(ctx, 'MYTH #2', 960, 200, t, ev.c2_myth, { size: 96 });
-    const fk = P.pop(t, ev.c2_fuel - 0.1, 0.4); if (fk > 0) P.at(ctx, 620, 560, fk, -0.06, () => { P.iPoly(ctx, [[0, -220], [70, -80], [70, 140], [-70, 140], [-70, -80]], C.ink, { shade: 0.5 }); P.iCirc(ctx, 0, -40, 34, C.pap);
+    const fk = P.pop(t, Math.min(ev.c2_fuel - 0.1, ev.c2_s3 + 0.35), 0.4); if (fk > 0) P.at(ctx, 620, 560, fk, -0.06, () => { P.iPoly(ctx, [[0, -220], [70, -80], [70, 140], [-70, 140], [-70, -80]], C.ink, { shade: 0.5 }); P.iCirc(ctx, 0, -40, 34, C.pap);
       P.iPoly(ctx, [[-70, 60], [-140, 160], [-70, 140]], C.acc); P.iPoly(ctx, [[70, 60], [140, 160], [70, 140]], C.acc); P.iPoly(ctx, [[-50, 140], [0, 260 + Math.sin(t * 20) * 14], [50, 140]], C.yel); G.text(ctx, 'SUPER FUEL?', 0, 360, { size: 48, fam: 'Inter', weight: 900, color: C.ink, align: 'center', boil: 0 }); });
-    const bk = P.pop(t, ev.c2_bomb - 0.1, 0.4); if (bk > 0) P.at(ctx, 1300, 580, bk, 0.05, () => { P.iCirc(ctx, 0, 0, 130, C.acc, { shade: 0.6 }); P.iRect(ctx, -30, -170, 60, 50, 6, C.ink); P.art(ctx, [[[0, -170], [30, -230], [70, -240]]], 1, { lw: 6 }); P.star(ctx, 74, -244, 26 + Math.sin(t * 18) * 5, C.yel); G.text(ctx, 'SUPER BOMB?', 0, 340, { size: 48, fam: 'Inter', weight: 900, color: C.ink, align: 'center', boil: 0 }); });
+    const bk = P.pop(t, Math.min(ev.c2_bomb - 0.1, ev.c2_s3 + 0.6), 0.4); if (bk > 0) P.at(ctx, 1300, 580, bk, 0.05, () => { P.iCirc(ctx, 0, 0, 130, C.acc, { shade: 0.6 }); P.iRect(ctx, -30, -170, 60, 50, 6, C.ink); P.art(ctx, [[[0, -170], [30, -230], [70, -240]]], 1, { lw: 6 }); P.star(ctx, 74, -244, 26 + Math.sin(t * 18) * 5, C.yel); G.text(ctx, 'SUPER BOMB?', 0, 340, { size: 48, fam: 'Inter', weight: 900, color: C.ink, align: 'center', boil: 0 }); });
     const rk = P.pop(t, ev.c2_check, 0.35); if (rk > 0) P.at(ctx, 960, 560, rk, -0.08, () => { P.iRect(ctx, -380, -80, 760, 160, 14, C.yel, { shade: 0.3 }); P.art(ctx, [P.rrPts(-380, -80, 760, 160, 14)], 1, { lw: 6 }); G.text(ctx, 'REALITY CHECK', 0, 30, { size: 84, fam: 'Inter', weight: 900, color: C.ink, align: 'center', boil: 0 }); });
   }, { in: { type: 'wipe', dir: 'up', dur: 0.45, color: C.acc } });
 

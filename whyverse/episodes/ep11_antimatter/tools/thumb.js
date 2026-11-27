@@ -1,23 +1,23 @@
-// Ep10 thumbnail (1920x1080 → 1280x720): line-art cover — "OZONE ✓ / CLIMATE ?" + a "COP31 FAILED" tag, the south-pole globe with the
-// coral hatched ozone hole, Ozzy pointing. Run: tools/thumb.sh
+// Ep11 thumbnail (1920x1080 → 1280x720): risograph cover — "WE SHOULDN'T EXIST." in two inks, an electron and a positron meeting in a
+// yellow flash, an "ANTIMATTER" tag, Elle pointing, WHYVERSE. Run: tools/thumb.sh
 (function () {
   const { U, G, Ch, P } = globalThis; const C = P.C;
-  G.setStyle('flat', { amp: 0, textBoil: 0, post: { paper: 0, grain: 0, vignette: 0.1 } });
+  G.setStyle('flat', { amp: 0, textBoil: 0, post: { paper: 0, grain: 0, vignette: 0.06 } });
   Studio.film({
     async init() { await Studio.loadFont('PatrickHand', 'fonts/PatrickHand-Regular.ttf', '400'); },
     draw(ctx) {
       const t = 3; P.bgLine(ctx, t);
-      P.globe(ctx, 1380, 560, 400, t, { lon0: 40, lat0: -70, k: 1, hole: 1, lw: 3 });
-      P.tag(ctx, 'COP31 FAILED', 360, 150, t, -5, 1e9, { size: 64, fill: C.ink, color: C.pap, rot: -0.04 });
-      G.text(ctx, 'OZONE', 90, 450, { size: 210, fam: 'Inter', weight: 900, color: C.ink, boil: 0 });
-      P.tick(ctx, 960, 340, 2.6, 1, { lw: 22 });
-      G.text(ctx, 'CLIMATE', 90, 700, { size: 210, fam: 'Inter', weight: 900, color: C.acc, boil: 0 });
-      G.text(ctx, '?', 1020, 710, { size: 260, fam: 'Inter', weight: 900, color: C.acc, boil: 0 });
-      P.underline(ctx, 90, 980, 740, 1, { lw: 14 });
-      G.text(ctx, 'Why the world fixed one, not the other', 100, 860, { size: 64, fam: 'PatrickHand', color: C.ink, boil: 0 });
-      Ch.ozzy(ctx, { x: 1700, y: 1080, s: 0.95, t, dir: -1, gesture: 'point', eyes: 'wide', mouth: 0.7, look: -1 });
-      P.brandPlanet(ctx, 130, 1000, 26, t, 1); G.text(ctx, 'WHYVERSE', 190, 1015, { size: 44, fam: 'Inter', weight: 900, color: C.ink, boil: 0 });
+      // the meeting: big electron + positron with the flash between them
+      P.flash(ctx, 1500, 560, 0.35, 0, { r: 330, n: 12, seed: 3, dur: 1.6 });
+      P.part(ctx, 1300, 560, 140, 'e'); P.part(ctx, 1720, 560, 140, 'p');
+      P.tag(ctx, 'ANTIMATTER', 330, 140, t, -5, 1e9, { size: 62, fill: C.acc, color: C.pap, rot: -0.04 });
+      P.rtext(ctx, "WE SHOULDN'T", 90, 420, { size: 160, align: 'left', off: [8, 7] });
+      P.rtext(ctx, 'EXIST.', 90, 610, { size: 210, align: 'left', top: C.acc, under: C.ink, off: [9, 8] });
+      G.text(ctx, 'So why does anything exist?', 100, 760, { size: 70, fam: 'PatrickHand', color: C.ink, boil: 0 });
+      Ch.elle(ctx, { x: 1180, y: 1080, s: 0.75, t, dir: -1, gesture: 'point', eyes: 'wide', mouth: 0.7, look: -1 });
+      P.brandPlanet(ctx, 130, 990, 30, t, 1); G.text(ctx, 'WHYVERSE', 200, 1008, { size: 50, fam: 'Inter', weight: 900, color: C.ink, boil: 0 });
+      P.paperPost(ctx, 1);
     },
-    post: { paper: 0, vignette: 0.1, grain: 0 }, fadeOut: 0,
+    post: { paper: 0, vignette: 0.06, grain: 0 }, fadeOut: 0,
   });
 })();

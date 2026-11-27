@@ -245,5 +245,38 @@
    "fetch/img/2026-11-27_T_baku_esa.jpg (Baku & Absheron coast from space; ESA, CC BY-SA 3.0 IGO)",
    "15:23: add a generic RO desalination plant photo (Commons, labelled 'nümunə') + Caspian shore; ACWA/ADB press photo only with credit"
   ]
+ },
+ "reel_1830": {
+  "topic": "GUESS THE ANSWER: Azərbaycanda ilk böyük Xəzər suyu duzsuzlaşdırma zavodu — gündə 300 000 kubmetr (≈120 Olimpiya hovuzu); maliyyə 24 noyabr 2026-da təsdiqləndi (ADB)",
+  "format": "guess",
+  "content_format": "guess",
+  "tiktok_swap": false,
+  "picked_at": "14:55 Baku 27 Nov (2nd trend check by 14:47 task): kept the 09:10 pick. Searches: 'Azərbaycan xəbərlər 27 noyabr 2026' (apa/trend: Naxçıvan summit, banks ESG reporting, ex-official released — nothing bigger/usable), 'Azerbaijan news November 27 2026' (Estonian FM, NGO rules, IDP returns, parliament — protocol/politics), runner-up 1 Maqomedov GP Final Astana: only pre-event articles (trend.az 4251163, day.az, futbolinfo), no medal yet → no swap; runner-up 2 Egnatia/Zamiq Əliyev: score/role not confirmed by 2 sources → no swap. Freshness caveat stays (~72 h).",
+  "sources": [
+   "https://report.az/en/finance/azerbaijan-s-first-major-caspian-sea-desalination-plant-receives-additional-165m",
+   "https://www.trend.az/azerbaijan/4250412.html",
+   "https://news.az/news/azerbaijan-to-build-major-caspian-sea-desalination-plant-with-adb-support",
+   "https://1news.az/en/news/20261124141509682-Caspian-Sea-water-to-be-desalinated-140-million-allocated",
+   "https://oc-media.org/funding-for-caspian-sea-desalination-plant-approved-amid-growing-concern-in-azerbaijan-over-water-security/",
+   "https://www.britannica.com/question/How-salty-is-the-Caspian-Sea",
+   "https://acwapower.com/en/what-we-do/projects/caspian-seawater-desalination-project/",
+   "https://www.aiib.org/en/projects/details/2026/approved/azerbaijan-caspian-sea-desalination-project.html"
+  ],
+  "fact_check": "300 000 m³/day: report.az + trend.az + news.az + 1news + ACWA project page. 'İlk böyük': report + trend + news.az + 1news. 120 pools = 300 000 / 2 500 m³ (our arithmetic, 'təxminən'). Caspian ≈12.8‰ vs ocean ≈35‰ (Britannica) → 'təxminən üç dəfə'.",
+  "context_check": "Financing approved, not built → 'tikiləcək', no finish date. 'ilk BÖYÜK' (pilot Xıdırlı existed). No ADB amount (sources disagree). Salinity ratio ≈2.7 → 'təxminən üç dəfə'. Neutral tone, no praise words (AZ POLITICS RULE).",
+  "hooks": [
+   "XƏZƏRİN SUYU KRANA GƏLƏCƏK: GÜNDƏ NƏ QƏDƏR? Sənin cavabın? 👇",
+   "GÜNDƏ 120 OLİMPİYA HOVUZU: XƏZƏRDƏN İÇMƏLİ SU",
+   "300 000 KUBMETR: AZƏRBAYCANDA İLK BÖYÜK DUZSUZLAŞDIRMA ZAVODU",
+   "DƏNİZ SUYUNU İÇMƏK OLARMI? BAKIDA CAVAB 407 MİLYON DOLLARDIR",
+   "XƏZƏR OKEANDAN 3 DƏFƏ AZ DUZLUDUR — VƏ BU SU BAKIYA GƏLƏCƏK"
+  ],
+  "hook_pick": "XƏZƏRİN SUYU KRANA GƏLƏCƏK: GÜNDƏ NƏ QƏDƏR? Sənin cavabın? 👇",
+  "hook_pick_reason": "GUESS recipe (question + 'Sənin cavabın? 👇' on frame 0), names the subject (Xəzər) in frame 0; the shocking number (300 000 m³ = ~120 Olympic pools a day) is the reveal after 3-2-1; the Caspian-is-3×-less-salty-than-the-ocean line is the twist/payoff. Option 2 is the number-first fallback if the 15:23 build drops the GUESS format.",
+  "voice_text": "Xəzərin suyu krana gələcək. Azərbaycanda ilk böyük duzsuzlaşdırma zavodu tikiləcək. Gündə nə qədər su verəcək? Sənin cavabın? Üç, iki, bir… Gündə üç yüz min kubmetr! Təxminən yüz iyirmi Olimpiya hovuzu. Maraqlısı: Xəzər okeandan təxminən üç dəfə az duzludur. Amma yenə də içmək olmur. Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+  "voice_word_count": 51,
+  "language_check": "Section L read-through: short sentences (≤8 words), numbers written out, 'duzsuzlaşdırma zavodu' (report.az AZ term), 'kubmetr', 'Olimpiya hovuzu', 'içmək olmur' (spoken), no Türkiye-Turkish forms. Subject named in sentences 1–2 (Xəzər, duzsuzlaşdırma zavodu). Changes vs 09:10 voice_texts: plant named by sentence 2 (ALWAYS NAME IT), 'Su Bakıya və Abşerona veriləcək' dropped to fit 40–50 words (stays on screen/caption), 'təxminən üç dəfə' for accuracy.",
+  "caption_credit": "Səs: elevenlabs.io",
+  "voice": "pending"
  }
 }

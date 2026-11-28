@@ -1,0 +1,145 @@
+{
+ "date": "2026-11-29",
+ "status": "planned",
+ "format": "v4",
+ "content_format": "quality_reset_2026-11-12",
+ "planned_note": "Planned in the 2026-11-28 09:10 run. Sun 29 Nov (no format-test day): 13:00 = static photo+words reel from facts[0] («Leyli və Məcnun» 1908 — first opera of the Muslim East; PD 1908 programme/poster + Hacıbəyov portrait; no voice, silent track, IG normal REEL). 18:30 = animated Arif trend reel (29 Nov 09:10 pick); if no fresh AZ story, facts[1] = ceyran 200 → 6 000 (animated, counter). Categories: music/history (facts[0]) + animals/nature (facts[1]) — both AZ (MANDATE DECISION 2026-11-11); neither sports nor space (week 23–29 Nov: sports 3, space 1). No carousels/quizzes/stories.",
+ "format_log": {
+  "13:00": "fact",
+  "18:30": "trend (backup facts[1] fact/animated)"
+ },
+ "facts": [
+  {
+   "n": 1,
+   "type": "reel",
+   "slot": "13:00",
+   "static": true,
+   "voiced": false,
+   "format": "fact",
+   "cat": "Musiqi / Tarix",
+   "subject": "«Leyli və Məcnun» (Üzeyir Hacıbəyov) — the first opera of the Muslim East. Premiere 12 January 1908 old style = 25 January new style (en.wikipedia Leyli and Majnun (opera) gives both; azertag + azer.com + Wikipedia Hajibeyov say '12 January 1908') at Tağıyev's theatre in Baku (all 4). Hacıbəyov born 18 Sep 1885 → 22 at the premiere (Wikipedia Hajibeyov 'at 22, in 1908'; azertag 'He was 22'); azer.com says 23 → wrong, ignore. 'First opera of the Muslim East / Islamic world' (Wikipedia ×3 pages, azertag, azer.com). Libretto from Füzuli's poem, many verses kept unchanged (Wikipedia + azertag). Majnun = Hüseynqulu Sarabski (Wikipedia ×2, azertag cast). Leyli sung by a MAN because women were not allowed on stage (azertag 'All the parts were played by men'; azer.com: religious authorities, women could not appear; Wikipedia cast lists a male singer, name spelled Abdurrahman/Abdurrahim/Abdulrahim Farajev → name NOT used). Single-source, NOT on cards: 2 000+ performances (Wikipedia only); tea-house waiter legend (azer.com, 'as the story goes'); Sarabski ~400 times as Majnun (Wikipedia Sarabski only). Premiere date: use '1908-ci ilin yanvarında' / '12 (25) yanvar 1908' to avoid calendar confusion.",
+   "title": "Müsəlman Şərqinin ilk operası",
+   "reel_hook": "1908: MÜSƏLMAN ŞƏRQİNİN İLK OPERASI — BƏSTƏKAR CƏMİ 22 YAŞINDA İDİ",
+   "hook_options": [
+    "1908: MÜSƏLMAN ŞƏRQİNİN İLK OPERASI — BƏSTƏKAR CƏMİ 22 YAŞINDA İDİ",
+    "22 YAŞLI BAKILI GƏNC MÜSƏLMAN ŞƏRQİNDƏ İLK OPERANI YAZDI",
+    "İLK «LEYLİ» KİŞİ İDİ: 1908-Cİ İLİN QƏRİBƏ PREMYERASI",
+    "118 İL ƏVVƏL BAKIDA: BÜTÜN ŞƏRQDƏ İLK OPERA",
+    "«LEYLİ VƏ MƏCNUN»: 1 OPERA, 0 QADIN AKTRİSA"
+   ],
+   "hook_pick_reason": "Number + superlative ('ilk', whole Muslim East) + emotion (only 22), names the subject in card 1 ('Leyli və Məcnun', Üzeyir Hacıbəyov — ALWAYS NAME IT). Twist saved for the last card: Leyli was sung by a man. Option 2 rejected: Hacıbəyov was born in Ağcabədi, not Baku.",
+   "reel_beats": [
+    "1908-ci ilin yanvarında Bakıda, Tağıyev teatrında Üzeyir Hacıbəyovun «Leyli və Məcnun» operası ilk dəfə səhnəyə çıxdı.",
+    "Bu, təkcə Azərbaycanın yox, bütün müsəlman Şərqinin ilk operası sayılır. Hacıbəyovun cəmi 22 yaşı var idi.",
+    "Mətni Füzulinin «Leyli və Məcnun» poemasından götürülüb — çox misralar olduğu kimi saxlanılıb. Məcnunu Hüseynqulu Sarabski oxudu.",
+    "Ən maraqlısı: Leylini də kişi oxudu! O vaxt qadınların səhnəyə çıxmasına icazə verilmirdi."
+   ],
+   "payoff": "Leylini də kişi oxudu — o vaxt qadınlar səhnəyə çıxa bilmirdi.",
+   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+   "send_line": "📩 Musiqi sevən dostuna göndər 🎭",
+   "caption": "«Leyli və Məcnun» — müsəlman Şərqinin ilk operası 🎭\n\n1908-ci ilin yanvarında (köhnə təqvimlə 12, yeni təqvimlə 25 yanvar) Bakıda, Tağıyev teatrında Üzeyir Hacıbəyovun «Leyli və Məcnun» operası ilk dəfə səhnəyə çıxdı. Bu, təkcə Azərbaycanın yox, bütün müsəlman Şərqinin ilk operası sayılır. Bəstəkarın cəmi 22 yaşı var idi. Mətn Füzulinin poemasından götürülüb, Məcnunu Hüseynqulu Sarabski oxuyub. Leylini isə kişi oxuyub — o vaxt qadınların səhnəyə çıxmasına icazə verilmirdi.\n\n📩 Musiqi sevən dostuna göndər 🎭\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nFoto: N. Litvintsev, 1913; 1908-ci il afişası (Wikimedia Commons, ictimai mülkiyyət)\nMənbə: AZƏRTAC, Azerbaijan International, Wikipedia\n\n#bilirdinizmi #ÜzeyirHacıbəyov #LeylivəMəcnun #opera #azərbaycan",
+   "first_comment": "Sən «Leyli və Məcnun»u səhnədə görmüsən? 👇",
+   "youtube_title": "Müsəlman Şərqinin ilk operası: «Leyli və Məcnun» 1908 🎭 #shorts",
+   "context_check": "(1) Calendar: 12 Jan (Julian) = 25 Jan (Gregorian) — cards say 'yanvarında', caption gives both. (2) Age 22, not 23 (born 18 Sep 1885). (3) 'İlk opera sayılır' (considered) — standard wording of all sources; no 'dünyada ilk'. (4) Born in Ağcabədi → don't call him 'bakılı'. (5) No singer name for Leyli (spelling conflicts). (6) Sources differ on 4 vs 5 acts → no act count. (7) Füzuli's century differs (15th/16th) → no century.",
+   "language_check": "Short sentences; titles in «»; 'müsəlman Şərqi' capital Ş; 'səhnəyə çıxdı' for the premiere; check 'icazə verilmirdi' (past continuous) is natural — yes.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Leyli_and_Majnun_(opera)",
+    "https://en.wikipedia.org/wiki/Uzeyir_Hajibeyov",
+    "https://azertag.az/en/xeber/_quotleyli_and_majnun_quot_first_opera_in_east-2058986",
+    "https://www.azer.com/aiweb/categories/magazine/54_folder/54_articles/54_leylimajnun.html",
+    "https://en.wikipedia.org/wiki/Huseyngulu_Sarabski"
+   ],
+   "photo": {
+    "path": "fetch/img/2026-11-29_1_hajibeyov1913.jpg",
+    "credit": "Foto: N. Litvintsev, 1913 (Wikimedia Commons, ictimai mülkiyyət)",
+    "source": "https://commons.wikimedia.org/wiki/File:Uzeyir_Hajibeyov_in_1913.jpg",
+    "license": "Public domain",
+    "size": [
+     956,
+     1924
+    ],
+    "cy": 0.3,
+    "full": true,
+    "alts": [
+     "fetch/img/2026-11-29_1_poster1908.jpg (1908 Russian-language poster: 'Театр Г. З. А. Тагиева … 12-го января 1908 … Лейли и Меджнун … Физули' — confirms date/venue; PD) — strong 2nd image",
+     "fetch/img/2026-11-29_1_program1908.jpg (first programme 1908, PD)",
+     "fetch/img/2026-11-29_1_sarabski.jpg (Sarabski as Majnun, PD, 305×470 — small, use ≤ half-frame)",
+     "fetch/img/2026-11-29_1_hajibeyov.jpg (Hacıbəyov late portrait, PD, 1660×2341 — older age, not for the '22' card)",
+     "fetch/img/2026-11-29_1_act4.jpg, _opera1908.jpg (early stage photos, PD, small)"
+    ],
+    "checked": "28 Nov 09:35: all viewed on a contact sheet. 1913 portrait = young Hacıbəyov (closest to the age in the story; FACES BEAT SYMBOLS), clean, no watermark (photographer's studio stamp at the bottom — crop above it). Poster/programme clean PD scans."
+   }
+  },
+  {
+   "n": 2,
+   "type": "reel",
+   "slot": "18:30 backup",
+   "motion": true,
+   "fps": 60,
+   "voiced": "Arif",
+   "format": "fact",
+   "cat": "Heyvanlar / Təbiət",
+   "subject": "Goitered gazelle (ceyran) in Azerbaijan: 'In the early 20th century up to 60,000 gazelles grazed in the plains of Azerbaijan' (IUCN 2017 only — WWF says 'tens of thousands' → voice says 'on minlərlə', the 60 000 only with 'IUCN-a görə' on screen). Low point: 'less than 200' in a 1961 aerial count (IUCN) / '200 specimens in the 1960s (Safarov, 1961)' (WWF) → '1961-ci ildə 200-dən az'. Shirvan State Reserve founded 1969 (Wikipedia Shirvan NP), National Park 5 Jul 2003, ~54 000 ha (Wikipedia 54 373,5 ha + WWF '54,000 h'). Recovery: Shirvan 'some 6,000 animals' (WWF) / '2,000 to 6,000' (IUCN 2017) → 'Şirvanda sayı 6 000-ə çatdı' (dated sources: say 'çatdı', not 'bu gün'). 200 → 6 000 = 30× (our arithmetic). Reintroduction from 2010 to Abşeron, Qobustan, Ağgöl, Acınohur etc. (WWF, IDEA, Wikipedia) — counts differ (≈150 vs 443) → no count. 'The 6 000 started from only 77 animals' = WWF only → NOT used unless the 20:45 build finds a 2nd source. Red Book of Azerbaijan (IDEA). Body 24–33 kg, horns 27–41 cm (IDEA only, not in voice).",
+   "title": "200 ceyrandan 6 000-ə",
+   "reel_hook": "200 CEYRAN QALMIŞDI: AZƏRBAYCAN ONLARI NECƏ XİLAS ETDİ?",
+   "hook_options": [
+    "200 CEYRAN QALMIŞDI: AZƏRBAYCAN ONLARI NECƏ XİLAS ETDİ?",
+    "ON MİNLƏRLƏ → 200: CEYRAN AZ QALA YOX OLMUŞDU",
+    "30 DƏFƏ ARTDI: ŞİRVANIN CEYRANLARI",
+    "1961-Cİ İL: BÜTÜN AZƏRBAYCANDA 200-DƏN AZ CEYRAN",
+    "6 000 CEYRAN — HAMISI 200-DƏN AZ HEYVANIN NƏSLİ"
+   ],
+   "hook_pick_reason": "Number-first (200) + emotion (almost extinct) + a question that promises the payoff (the comeback, 30×). Names the subject (ceyran, Azərbaycan) on frame 0. Data-style running counter fits the animated slot (counter falls 60 000 → 200, then climbs to 6 000).",
+   "reel_beats": [
+    "XX əsrin əvvəlində Azərbaycanın düzlərində on minlərlə ceyran otlayırdı (IUCN-a görə 60 000-ə qədər).",
+    "1961-ci ildə havadan aparılan sayım ölkədə 200-dən az ceyran qeydə aldı — növ az qala yox olmuşdu.",
+    "1969-cu ildə Şirvan qoruğu yaradıldı. Ceyranlar qorunmağa başladı və Şirvanda onların sayı 6 000-ə çatdı.",
+    "2010-cu ildən Şirvanın ceyranları Abşeron, Qobustan və başqa yerlərə yenidən buraxılır."
+   ],
+   "payoff": "200-dən 6 000-ə — təxminən 30 dəfə! Bu gün Abşeronda gördüyün ceyranlar da Şirvanın o kiçik sürüsündən gəlir.",
+   "payoff_note": "'Abşeronda gördüyün ceyranlar Şirvandan gəlir' — Wikipedia Shirvan NP + WWF both say Shirvan gazelles were reintroduced to Absheron; keep 'yenidən buraxılıb' wording if the 20:45/15:23 build wants it tighter.",
+   "twist": "Counter drops 60 000 → 200 then climbs 200 → 6 000 (30×). Loop: '…kiçik sürüsündən gəlir' → hook '200 ceyran qalmışdı'.",
+   "voice_texts": [
+    "İki yüz ceyran qalmışdı! Bəs sonra nə oldu?",
+    "Bir vaxtlar Azərbaycanın düzlərində on minlərlə ceyran otlayırdı.",
+    "Min doqquz yüz altmış birdə isə havadan sayım iki yüzdən az ceyran tapdı.",
+    "Şirvan qoruğu yaradıldı və orada ceyranların sayı altı minə çatdı.",
+    "Yəni təxminən otuz dəfə çox! İndi onlar Abşerona və Qobustana da qaytarılır.",
+    "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
+   ],
+   "voice_word_count": 50,
+   "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+   "send_line": "📩 Heyvan sevən dostuna göndər 🦌",
+   "caption": "Ceyran: 200-dən 6 000-ə 🦌\n\nXX əsrin əvvəlində Azərbaycanın düzlərində on minlərlə ceyran otlayırdı (IUCN-a görə 60 000-ə qədər). 1961-ci ildə havadan aparılan sayım isə 200-dən az ceyran qeydə aldı. 1969-cu ildə Şirvan qoruğu yaradıldı (2003-cü ildən Şirvan Milli Parkı) və orada ceyranların sayı 6 000-ə çatdı — təxminən 30 dəfə çox. 2010-cu ildən Şirvanın ceyranları Abşeron, Qobustan və başqa yerlərə yenidən buraxılır. Ceyran Azərbaycanın «Qırmızı kitab»ındadır.\n\n📩 Heyvan sevən dostuna göndər 🦌\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nSəs: elevenlabs.io\nFoto: Elşad İbrahimov / Wikimedia Commons (CC BY-SA 4.0); Naturefriends / Wikimedia Commons (CC BY-SA 4.0)\nMənbə: IUCN, WWF, Wikipedia\n\n#bilirdinizmi #ceyran #ŞirvanMilliParkı #təbiət #azərbaycan",
+   "first_comment": "Sən ceyranı canlı görmüsən? Harada? 👇",
+   "youtube_title": "Ceyran: 200-dən 6 000-ə — Şirvan Milli Parkı 🦌 #shorts",
+   "visual_ideas": [
+    "Frame 0: big '200' + a running counter falling 60 000 → 200 with gazelle icons disappearing from a grid; real photo of a Shirvan gazelle behind (CC BY-SA, Elşad İbrahimov).",
+    "1961: a small plane crossing the steppe with a scanning beam (aerial count).",
+    "1969: a fence/reserve gate stamp 'ŞİRVAN QORUĞU 1969'; counter climbs 200 → 6 000 as icons refill the grid; '×30' badge.",
+    "Map of Azerbaijan: arrows from Şirvan to Abşeron, Qobustan, Ağgöl (no counts).",
+    "Photos (PHOTO STORY): 2026-11-29_2_gazelle_a/b + Azerbaijani gazelle stamps 2014 (PD) + Shirvan steppe; subtitle bar fixed.",
+    "End: CTA, loop to '200'."
+   ],
+   "context_check": "(1) 60 000 is IUCN-only → voice says 'on minlərlə'. (2) <200 in 1961 is nationwide, 6 000 is Shirvan → don't say 'the whole country now has 6 000'. (3) Figures are from 2017/undated pages → 'çatdı', never 'bu gün 6 000'. (4) 'Persian gazelle' vs 'goitered gazelle' = same species (Gazella subgutturosa) — Azerbaijani 'ceyran' covers it. (5) No reintroduction count (sources differ). (6) '77 heyvandan başladı' NOT used (WWF only).",
+   "language_check": "'ceyran' lower case; 'XX əsr'; numbers in voice written out; 'havadan aparılan sayım' = aerial count; check 'qaytarılır' vs 'yenidən buraxılır' — both natural.",
+   "sources": [
+    "https://iucn.org/news/eastern-europe-and-central-asia/201703/reintroducing-goitered-gazelle-azerbaijan%E2%80%99s-once-lost-wildlife-heritage",
+    "https://wwf.panda.org/wwf_offices/azerbaijan/projects/gazelle",
+    "https://en.wikipedia.org/wiki/Shirvan_National_Park",
+    "https://ideacampaign.org/en/facts/ceyran-827"
+   ],
+   "photo": {
+    "path": "fetch/img/2026-11-29_2_gazelle_a.jpg",
+    "credit": "Foto: Elşad İbrahimov / Wikimedia Commons (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Female_goitered_gazelle,_Shirvan_National_Park,_Azerbaijan.jpg",
+    "license": "CC BY-SA 4.0",
+    "alts": [
+     "fetch/img/2026-11-29_2_gazelle_b.jpg (Naturefriends, CC BY-SA 4.0, Shirvan NP steppe with 2 gazelles)"
+    ],
+    "checked": "28 Nov 09:35: viewed; both clean, no watermarks. Stamp image download failed (HTML) — removed."
+   }
+  }
+ ],
+ "pending_schedule": null
+}

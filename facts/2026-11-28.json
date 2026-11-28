@@ -6,7 +6,7 @@
  "planned_note": "Planned in the 2026-11-27 09:10 run. Sat 28 Nov (no format-test day): 13:00 = static photo+words reel from facts[0] (Voyager Golden Record — Azerbaijani mugham 25.9 bn km away, NASA photos, no voice, silent track, IG normal REEL). 18:30 = animated Arif trend reel (28 Nov 09:10 pick); if no fresh AZ story, facts[1] = alphabet 3 changes (animated). Categories: music/space (facts[0]) + history/language (facts[1]) — both AZ (MANDATE DECISION 2026-11-11); space count week 23–29 Nov = 1 (this), sports = 3 (Sabah–Barça ×2, boxing). No carousels/quizzes/stories.",
  "format_log": {
   "13:00": "fact",
-  "18:30": "trend (backup facts[1] fact/animated)"
+  "18:30": "trend (Azıx-Tağlar, history; backup facts[1] alphabet)"
  },
  "facts": [
   {
@@ -151,5 +151,137 @@
   "audio": "silent, volumedetect max -91 dB",
   "photos": "6 NASA/Commons images: golden_cover (hook), golden_plating, golden_mount, balaban_b, voyager_portrait (crop of 2026-10-19_4_voyager.jpg, NASA PD), golden_cover_zoom (payoff)",
   "fixes": "v2: payoff photo balaban_a dropped — its 9:16 centre crop showed only the museum label text; replaced with a zoomed crop of the record cover. NBSP in numbers and CTA."
+ },
+ "trend": {
+  "n": "T",
+  "type": "reel",
+  "format": "animated_1830",
+  "content_format": "trend",
+  "post_format": "trend",
+  "cat": "Tarix / Arxeologiya",
+  "picked_at": "09:15–10:30 Baku 28 Nov (1st trend check)",
+  "rule_note": "Sat 28 Nov = no format-test day. Freshest AZ story with a strong FACT angle: on 27 Nov (trend.az 15:20, 1news.az 15:30, apa.az headline) PM Əli Əsədov approved the Əsasnamə of the 'Azıx-Tağlar Arxeoloji Parkı' State Reserve — the home of the Azıxantrop jaw (≈350–400 000 years). Neutral national/cultural news (AZ POLITICS RULE ok). History, not sports (sports quota 23–29 Nov already used: 3) and not space → no TikTok swap. Freshness: 27 Nov afternoon = within 24 h.",
+  "subject": "NEWS: 27 Nov 2026 Prime Minister Əli Əsədov signed the decision approving the regulations (Əsasnamə) of the 'Azıx-Tağlar Arxeoloji Parkı' Dövlət Qoruğu (trend.az + 1news.az; apa.az/en.apa.az headline same day). Status: state body with the status of a scientific-research institution, under the Ministry of Culture; land, monuments, water, subsoil, flora and fauna inside are removed from economic use (trend + 1news). The reserve itself was created by a presidential order reported 21 Oct 2026 (en.apa.az + azernews), covering the Azıx and Tağlar cave settlements in Xocavənd rayonu (both). FACT: Azıx mağarası discovered 1960 by the ANAS expedition of Məmmədəli Hüseynov (en.wikipedia Azykh Cave + Mammadali Huseynov). June 1968: a lower-jaw fragment found in the 5th layer (science.gov.az 'June 1968', '4th horizon of the 5th layer'; Wikipedia Huseynov '1968 … 5th stratum'; Azykhantrop page '1968'). It belonged to a young woman — 18–22 (Wikipedia Huseynov; science.gov.az D. Hajiyev study) / 18–20 (science.gov.az 1st paragraph) → we say 'təxminən 20 yaşlı'. Age 350–400 000 years (Wikipedia Huseynov + science.gov.az) BUT Wikipedia Azykhantrop infobox says 250 000 and text 'estimates 450 000–50 000' → always 'alimlərin hesablamasına görə'. Species: Heidelberg-type / close to Neanderthal (sources differ) → say 'qədim insan', name 'Azıxantrop'. Single-source (NOT in voice): 6 halls + 10 cultural layers (Huseynov page only); 1.19 million-year uranium date (Azykh Cave page only).",
+  "context_check": "(1) NEVER mention the occupation, the war, Armenian excavations 2002–2009 or anything conflict-related (AZ POLITICS RULE) — just 'Xocavənd rayonu'. (2) The 27 Nov news = regulations approved; the reserve was created earlier (Oct) → say 'əsasnaməsi təsdiqləndi', not 'yaradıldı'. (3) Age is an estimate with competing figures → 'alimlərin hesablamasına görə 350–400 min il'; never 'dünyanın ən qədim insanı' / 'Avropanın ən qədimi'. (4) Species disputed → no 'Homo erectus' claim in voice. (5) Woman's age: 'təxminən 20 yaşlı' covers 18–20 and 18–22. (6) No area in hectares (not in any source read).",
+  "reel_hook": "350 000 İL ƏVVƏL YAŞAYIB: AZIX MAĞARASINDAN TAPILAN ÇƏNƏ",
+  "hook_options": [
+   "350 000 İL ƏVVƏL YAŞAYIB: AZIX MAĞARASINDAN TAPILAN ÇƏNƏ",
+   "400 MİN İLLİK SİRR: AZIX MAĞARASI İNDİ DÖVLƏT QORUĞUDUR",
+   "AZƏRBAYCANIN ƏN QƏDİM SAKİNİ 20 YAŞLI BİR QADIN İMİŞ?",
+   "1968, 5-Cİ QAT: ARXEOLOQUN TAPDIĞI 350 000 İLLİK SÜMÜK",
+   "BU SÜMÜK 350 000 İLLİKDİR — VƏ SAHİBİ GƏNC QADIN OLUB"
+  ],
+  "hook_pick_reason": "Number-first (350 000 = the shocking number), names the subject (Azıx mağarası) in frame 0, promises a reveal (whose jaw?). Option 3 is tempting but 'ən qədim sakin' is not provable → rejected. Payoff saved for the end: the jaw belonged to a ~20-year-old woman.",
+  "reel_beats": [
+   "1968-ci ildə arxeoloq Məmmədəli Hüseynov Xocavənddəki Azıx mağarasının 5-ci qatında qədim insan çənəsinin bir parçasını tapdı.",
+   "Alimlərin hesablamasına görə, bu sümük 350–400 min il əvvəl yaşamış insana məxsusdur. Ona «Azıxantrop» adı verildi.",
+   "Mağara 1960-cı ildə Hüseynovun ekspedisiyası tərəfindən aşkar edilib. Azıx və Tağlar mağaraları indi bir qoruğun ərazisindədir.",
+   "Noyabrın 27-də «Azıx-Tağlar Arxeoloji Parkı» Dövlət Qoruğunun əsasnaməsi təsdiqləndi. Qoruq Mədəniyyət Nazirliyinə tabedir."
+  ],
+  "payoff": "Ən maraqlısı: alimlərə görə, bu çənə təxminən 20 yaşlı bir qadına məxsus olub.",
+  "twist": "Everyone imagines a 'caveman' — the oldest known human bone from Azerbaijan is from a young woman (~20). Loop: '…gənc bir qadına məxsus olub' → hook '350 000 il əvvəl yaşayıb'.",
+  "voice_texts": [
+   "Üç yüz əlli min il əvvəl yaşayıb! Azıx mağarasından tapılan çənə.",
+   "Min doqquz yüz altmış səkkizdə arxeoloq Məmmədəli Hüseynov onu mağaranın beşinci qatında tapdı.",
+   "Dünən Azıx-Tağlar Arxeoloji Parkı qoruğunun əsasnaməsi təsdiqləndi.",
+   "Ən maraqlısı: alimlərə görə, bu çənə təxminən iyirmi yaşlı bir qadına məxsus olub.",
+   "Bəyən və izlə — hər gün bilmədiyin bir fakt!"
+  ],
+  "voice_note": "'Dünən' is correct only for a 28 Nov post; if the 15:23 build slips to 29 Nov say 'Noyabrın iyirmi yeddisində'. Hook says 'üç yüz əlli min il' (lower bound of 350–400k) — keep 'alimlərə görə' in beat 4 and on screen ('alimlərin hesablamasına görə' small under the number).",
+  "voice_word_count": 46,
+  "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+  "send_line": "📩 Tarixi sevən dostuna göndər 🦴",
+  "caption": "Azıx mağarası: 350 000 il əvvəl yaşamış insanın çənəsi 🦴\n\n1968-ci ildə arxeoloq Məmmədəli Hüseynov Xocavənd rayonundakı Azıx mağarasının 5-ci qatında qədim insan çənəsinin bir parçasını tapdı. Alimlərin hesablamasına görə, bu sümük 350–400 min il əvvəl yaşamış, təxminən 20 yaşlı bir qadına məxsusdur və «Azıxantrop» adlanır (başqa hesablamalar da var). Noyabrın 27-də «Azıx-Tağlar Arxeoloji Parkı» Dövlət Qoruğunun əsasnaməsi təsdiqləndi — qoruq Azıx və Tağlar mağaralarını əhatə edir.\n\n📩 Tarixi sevən dostuna göndər 🦴\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nSəs: elevenlabs.io\nFoto: president.az (CC BY 4.0); DanielBoulanger, Asgarov Ruslan, Gulustan / Wikimedia Commons (CC BY-SA)\nMənbə: trend.az, 1news.az, apa.az, AMEA (science.gov.az)\n\n#bilirdinizmi #Azıxmağarası #Xocavənd #tarix #azərbaycan",
+  "first_comment": "Sizcə 350 000 il əvvəl Azıx mağarasında həyat necə olub? 👇",
+  "youtube_title": "Azıx mağarası: 350 000 illik çənə sümüyü 🦴 #shorts",
+  "visual_ideas": [
+   "Frame 0: big '350 000' with a year counter spinning backwards 2026 → −350 000; a cave mouth (photo) behind; subtitle bar fixed lower third (VIEWER FEEDBACK 24 Nov).",
+   "Progress counter in a corner: '1/4 → 4/4' (find → age → name → reserve).",
+   "Strata animation: 10 coloured earth layers slide in like cards, layer '5' lights up, a jaw-fragment shape (simple, instantly recognisable lower jaw outline) rises out of it with a soft dust-puff SFX.",
+   "Map of Azerbaijan, pin on Xocavənd, label 'Azıx' + 'Tağlar' (two dots) — neutral map, no front lines or borders drama.",
+   "Real photos (PHOTO STORY, 6–8): Azıx cave entrance/interior (Commons search queued fetch/img/2026-11-28_s_azykh.json), Məmmədəli Hüseynov portrait (Wikipedia/Commons if free), the jaw fragment (Google Arts & Culture / museum photo — credit), stone tools, the Xocavənd landscape; fill with documents (the reserve decision stamp '27.11.2026 · Əsasnamə təsdiq edildi').",
+   "Twist: silhouette of a young woman fades in over the jaw outline (silhouette, no face invented) + text 'TƏXMİNƏN 20 YAŞ'.",
+   "End card CTA, then loop to the counter '350 000'."
+  ],
+  "sources": [
+   "https://az.trend.az/azerbaijan/society/4251436.html",
+   "https://1news.az/az/news/20261127153019723-Azix-Taglar-qorugu-ile-bagli-qerar-verildi",
+   "https://en.apa.az/culture-policy/azerbaijan-approves-regulations-of-azikh-taghlar-archaeological-park-state-reserve-538956",
+   "https://en.apa.az/official-news/president-ilham-aliyev-signs-order-establishing-azikh-taghlar-archaeological-park-state-reserve-531424",
+   "https://www.azernews.az/nation/265975.html",
+   "https://science.gov.az/en/news/open/16024",
+   "https://en.wikipedia.org/wiki/Mammadali_Huseynov",
+   "https://en.wikipedia.org/wiki/Azykh_Cave",
+   "https://en.wikipedia.org/wiki/Azykhantrop"
+  ],
+  "source_scan": "09:15–10:30 28 Nov: apa.az (AZ front page 27–28 Nov), en.apa.az (27 Nov), lent.az (27 Nov), news.az (cached, stale), report.az via search (28 Nov: Hormuz mines, Lənkəran crash, EPL), newsprisma world archive 28 Nov; searches 'Azərbaycan xəbərlər 27 noyabr 2026', 'Azerbaijan news November 27 2026', 'Azerbaijani athlete gold November 2026', 'azərbaycanlı idmançı qızıl medal noyabr 2026', 'Qarabağ FK 26 Nov'. Sports: only European Deaf Wrestling 6 medals (trend.az) — sports quota used anyway. World: Hormuz mine incidents / Houthi missile (conflict → no), Washington airport wing clip (no injuries story, weak), Messi to play again in Argentina (lent.az 27 Nov; AZ-angle searches NOT yet run → 15:23 run them if it gets bigger). Skipped: Lənkəran crash, Fira Cəlilova case, NGO re-registration, Peace Bridge dialogue (conflict-adjacent politics).",
+  "runners_up": [
+   {
+    "story": "Azerbaijan to co-chair the CIS in 2027 and chair it in 2028 (CIS Sec-Gen Lebedev, apa.az 27 Nov 16:55)",
+    "note": "neutral national news; needs a 2nd source (report.az/azertag) and a fact angle (CIS founded 1991, 9 members, AZ last chaired …?) — weaker visually."
+   },
+   {
+    "story": "15 new kindergartens opened in Xocavənd, Ağdam and Xankəndi (en.apa.az 27 Nov 16:38)",
+    "note": "positive, but present ONLY as a neutral number story (no conflict framing); weak hook."
+   },
+   {
+    "story": "Messi will play again in Argentina (lent.az 27 Nov)",
+    "note": "world sports story; run AZ ANGLE searches ('Messi Azərbaycan', 'Messi Bakı') before using; sports quota is used → only if it becomes the day's dominant story."
+   }
+  ],
+  "tiktok_swap": false,
+  "freshness_note": "Decision signed/reported 27 Nov afternoon → posted 28 Nov 18:30 = ~27 h. 15:23 should still swap if something bigger with an AZ angle breaks.",
+  "status": "picked 09:10 run; 7 photos fetched + checked (photos_found)",
+  "photos_found": [
+   {
+    "path": "fetch/img/2026-11-28_T_azykh_f.jpg",
+    "what": "Azıx cave entrance in a gorge, snow",
+    "credit": "Foto: Prezidentin Mətbuat Xidməti / president.az (CC BY 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Azykh_cave_in_2021.jpg"
+   },
+   {
+    "path": "fetch/img/2026-11-28_T_azykh_e.jpg",
+    "what": "cave entrance with greenery",
+    "credit": "Foto: DanielBoulanger / Wikimedia Commons (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:La_grotte_d%27Azikh.jpg"
+   },
+   {
+    "path": "fetch/img/2026-11-28_T_azykh_d.jpg",
+    "what": "inside, light from the opening",
+    "credit": "Foto: DanielBoulanger / Wikimedia Commons (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Grotte_Azikh.jpg"
+   },
+   {
+    "path": "fetch/img/2026-11-28_T_azykh_b.jpg",
+    "what": "inside looking to the opening",
+    "credit": "Foto: Asgarov Ruslan / Wikimedia Commons (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Az%C4%B1x_ma%C4%9Faras%C4%B120211214_170042.jpg"
+   },
+   {
+    "path": "fetch/img/2026-11-28_T_azykh_a.jpg",
+    "what": "excavation scaffolding inside (landscape, vignetted)",
+    "credit": "Foto: Asgarov Ruslan / Wikimedia Commons (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Az%C4%B1x_ma%C4%9Faras%C4%B120211214_165835.jpg"
+   },
+   {
+    "path": "fetch/img/2026-11-28_T_jaw.jpg",
+    "what": "THE mandible fragment (small 273×183 — use ≤ 1/2 frame, sharpen lightly)",
+    "credit": "Foto: Gulustan / Wikimedia Commons (CC BY-SA 3.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Mandible_fragment_of_Homo_heidelbergensis_from_Azykh_cave.jpg"
+   },
+   {
+    "path": "fetch/img/2026-11-28_T_layers.jpg",
+    "what": "stratigraphy table of Azıx layers (AZ labels; layer V 'Orta Aşel') — base for the strata animation",
+    "credit": "Sefer ibrahim / Wikimedia Commons (public domain)",
+    "source": "https://commons.wikimedia.org/wiki/File:Az%C4%B1x_d%C3%BC%C5%9F%C9%99rg%C9%99sinin_%C3%A7%C3%B6k%C3%BCnt%C3%BCl%C9%99ri.jpg"
+   },
+   {
+    "path": "fetch/img/2026-11-28_T_plan.jpg",
+    "what": "cave plan outline",
+    "credit": "Ліонкінг, Sefer azeri / Wikimedia Commons (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Plan_of_Azykh_cave.jpg"
+   }
+  ],
+  "photo_note": "28 Nov 09:35: viewed all on a contact sheet. EXCLUDED: 2026-11-28_T_azykh_c.jpg (a private person standing in the cave). Also skipped on Commons: 'Ilham Aliyev in Azykh cave' (fine but not needed), Armenian-titled files (AZ POLITICS RULE: avoid). No Hüseynov portrait on Commons search — 15:23 may search 'Məmmədəli Hüseynov' once; else use the jaw + layers + 'M. Hüseynov' name card. 7 usable images ≥ 6 (MANY PHOTOS rule)."
  }
 }

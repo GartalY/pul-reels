@@ -70,3 +70,4 @@
 - 2026-11-28 (planned): Voyager Golden Record — Azerbaijani mugham on 2 balabans, 1 of 27 pieces, 55 languages; Voyager 1 one light-day ≈ 25.9 bn km on 17–18 Nov 2026 (13:00 static) · alphabet 3 changes in a century: Arabic → Latin 1929 → Cyrillic 1940 → Latin after independence, print by 1 Aug 2001, Alphabet & Language Day (18:30 animated backup)
 - 2026-11-28 trend (09:10 pick for 18:30): Azıx-Tağlar Arxeoloji Parkı reserve regulations approved 27 Nov (PM Əsədov) — Azıxantrop jaw, June 1968, M. Hüseynov, 5th layer, ~350–400 000 yrs (estimates differ), ~20-year-old woman
 - 2026-11-29 (planned): «Leyli və Məcnun» 1908 — first opera of the Muslim East, Hacıbəyov 22, Tağıyev theatre, Füzuli text, Leyli sung by a man (13:00 static) · ceyran: tens of thousands (IUCN 60 000) → <200 in 1961 → 6 000 in Shirvan (reserve 1969), ×30, reintroduced from 2010 (18:30 animated backup)
+- 2026-11-29 13:00: «Leyli və Məcnun» 1908 — Müsəlman Şərqinin ilk operası (static)

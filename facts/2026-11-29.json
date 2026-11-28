@@ -1,6 +1,6 @@
 {
  "date": "2026-11-29",
- "status": "planned",
+ "status": "13:00 scheduled (static «Leyli və Məcnun» 1908, no voice, silent track, IG REEL); 18:30 animated Arif reel = 14:47/15:23 tasks",
  "format": "v4",
  "content_format": "quality_reset_2026-11-12",
  "planned_note": "Planned in the 2026-11-28 09:10 run. Sun 29 Nov (no format-test day): 13:00 = static photo+words reel from facts[0] («Leyli və Məcnun» 1908 — first opera of the Muslim East; PD 1908 programme/poster + Hacıbəyov portrait; no voice, silent track, IG normal REEL). 18:30 = animated Arif trend reel (29 Nov 09:10 pick); if no fresh AZ story, facts[1] = ceyran 200 → 6 000 (animated, counter). Categories: music/history (facts[0]) + animals/nature (facts[1]) — both AZ (MANDATE DECISION 2026-11-11); neither sports nor space (week 23–29 Nov: sports 3, space 1). No carousels/quizzes/stories.",
@@ -37,7 +37,7 @@
    "payoff": "Leylini də kişi oxudu — o vaxt qadınlar səhnəyə çıxa bilmirdi.",
    "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
    "send_line": "📩 Musiqi sevən dostuna göndər 🎭",
-   "caption": "«Leyli və Məcnun» — müsəlman Şərqinin ilk operası 🎭\n\n1908-ci ilin yanvarında (köhnə təqvimlə 12, yeni təqvimlə 25 yanvar) Bakıda, Tağıyev teatrında Üzeyir Hacıbəyovun «Leyli və Məcnun» operası ilk dəfə səhnəyə çıxdı. Bu, təkcə Azərbaycanın yox, bütün müsəlman Şərqinin ilk operası sayılır. Bəstəkarın cəmi 22 yaşı var idi. Mətn Füzulinin poemasından götürülüb, Məcnunu Hüseynqulu Sarabski oxuyub. Leylini isə kişi oxuyub — o vaxt qadınların səhnəyə çıxmasına icazə verilmirdi.\n\n📩 Musiqi sevən dostuna göndər 🎭\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nFoto: N. Litvintsev, 1913; 1908-ci il afişası (Wikimedia Commons, ictimai mülkiyyət)\nMənbə: AZƏRTAC, Azerbaijan International, Wikipedia\n\n#bilirdinizmi #ÜzeyirHacıbəyov #LeylivəMəcnun #opera #azərbaycan",
+   "caption": "«Leyli və Məcnun» — müsəlman Şərqinin ilk operası 🎭\n\n1908-ci ilin yanvarında (köhnə təqvimlə 12, yeni təqvimlə 25 yanvar) Bakıda, Tağıyev teatrında Üzeyir Hacıbəyovun «Leyli və Məcnun» operası ilk dəfə səhnəyə çıxdı. Bu, təkcə Azərbaycanın yox, bütün müsəlman Şərqinin ilk operası sayılır. Bəstəkarın cəmi 22 yaşı var idi. Mətn Füzulinin poemasından götürülüb, Məcnunu Hüseynqulu Sarabski oxuyub. Leylini isə kişi oxuyub — o vaxt qadınların səhnəyə çıxmasına icazə verilmirdi.\n\n📩 Musiqi sevən dostuna göndər 🎭\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nFoto: N. Litvintsev, 1913; 1908-ci il afişası və proqramı, səhnə fotoları (Wikimedia Commons, ictimai mülkiyyət)\nMənbə: AZƏRTAC, Azerbaijan International, Wikipedia\n\n#bilirdinizmi #ÜzeyirHacıbəyov #LeylivəMəcnun #opera #azərbaycan",
    "first_comment": "Sən «Leyli və Məcnun»u səhnədə görmüsən? 👇",
    "youtube_title": "Müsəlman Şərqinin ilk operası: «Leyli və Məcnun» 1908 🎭 #shorts",
    "context_check": "(1) Calendar: 12 Jan (Julian) = 25 Jan (Gregorian) — cards say 'yanvarında', caption gives both. (2) Age 22, not 23 (born 18 Sep 1885). (3) 'İlk opera sayılır' (considered) — standard wording of all sources; no 'dünyada ilk'. (4) Born in Ağcabədi → don't call him 'bakılı'. (5) No singer name for Leyli (spelling conflicts). (6) Sources differ on 4 vs 5 acts → no act count. (7) Füzuli's century differs (15th/16th) → no century.",
@@ -141,5 +141,28 @@
    }
   }
  ],
- "pending_schedule": null
+ "pending_schedule": null,
+ "metricool": {
+  "13:00 «Leyli və Məcnun» 1908 (static, silent, IG REEL)": 445611074
+ },
+ "tiktok": {
+  "13:00 «Leyli və Məcnun»": 445611205
+ },
+ "youtube": {
+  "13:00 «Leyli və Məcnun»": 445611101
+ },
+ "media": {
+  "13:00 «Leyli və Məcnun»": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-29_1300_leyli_mecnun_silent.mp4"
+ },
+ "ig_type": "REEL",
+ "scheduled_check": "28 Nov 20:52: getScheduledPosts 29 Nov was empty and the JSON had no IDs before creating; 3 posts created (IG/TT/YT 13:00). TikTok first attempt rejected (title required) — nothing created; retried with tiktokData.title.",
+ "build_1300": {
+  "spec": "out/2026-11-29/1_reel_spec.json",
+  "prep": "out/2026-11-29/prep_photos.py",
+  "duration_s": 27.8,
+  "fps": 30,
+  "audio": "silent, volumedetect max -91 dB",
+  "photos": "6 PD images, no reuse: Hacıbəyov 1913 portrait (hook + name beat; cropped above the studio stamp), 1908 poster, 1908 programme, stage photo (opera1908, Füzuli beat), Sarabski as Məcnun, act 4 veiled-chorus photo (twist: Leyli sung by a man)",
+  "fixes": "v2: documents/stage photos placed in the upper area so the beat text box doesn't cover them; poster shortened to end above the box; act4 photo moved to the twist beat. Beats split into 7 short lines (pacing); CTA last on-screen line."
+ }
 }

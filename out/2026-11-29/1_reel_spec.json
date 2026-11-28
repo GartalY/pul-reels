@@ -1,0 +1,34 @@
+{
+ "hook": "1908: MÜSƏLMAN ŞƏRQİNİN İLK OPERASI — BƏSTƏKAR CƏMİ 22 YAŞINDA İDİ",
+ "beats": [
+  "Bu gəncin adı Üzeyir Hacıbəyovdur. Əsərin adı isə «Leyli və Məcnun».",
+  "1908-ci ilin yanvarında Bakıda, Tağıyev teatrında opera ilk dəfə səhnəyə çıxdı.",
+  "Bu, təkcə Azərbaycanın yox, bütün müsəlman Şərqinin ilk operası sayılır.",
+  "Mətni Füzulinin «Leyli və Məcnun» poemasından götürülüb. Çox misralar olduğu kimi saxlanılıb.",
+  "Məcnunu Hüseynqulu Sarabski oxudu.",
+  "Ən maraqlısı: Leylini də kişi oxudu!",
+  "Çünki o vaxt qadınların səhnəyə çıxmasına icazə verilmirdi."
+ ],
+ "pills": [
+  "ÜZEYİR HACIBƏYOV",
+  "1908, BAKI",
+  "İLK OPERA",
+  "FÜZULİ",
+  "MƏCNUN",
+  "ƏN MARAQLISI",
+  "1908-Cİ İL"
+ ],
+ "photo_beats": {
+  "1": "out/2026-11-29/p1_poster.jpg",
+  "2": "out/2026-11-29/p2_program.jpg",
+  "3": "out/2026-11-29/p5_opera.jpg",
+  "4": "out/2026-11-29/p3_sarabski.jpg",
+  "5": "out/2026-11-29/p4_act4.jpg"
+ },
+ "cta": "Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+ "seed": 29,
+ "cy": 0.5,
+ "full": true,
+ "hook_bg": true,
+ "hook_s": 3.0
+}

@@ -941,3 +941,8 @@ wv_1128_phone.jpg https://images.unsplash.com/photo-1511283408945-65a38c055808?i
 2026-11-28_W_playground.jpg https://images.unsplash.com/photo-1774879467955-28d1003cae31?fm=jpg&q=85&w=1600
 2026-11-28_W_skytree.jpg https://images.unsplash.com/photo-1637082583298-72aba42cdebf?fm=jpg&q=85&w=1600
 2026-11-28_W_temple.jpg https://images.unsplash.com/photo-1753800101893-7b4da978016f?fm=jpg&q=85&w=1600
+2026-11-28_W_shim1.jpg https://upload.wikimedia.org/wikipedia/commons/a/ac/Hakubun_Shimomura_20130110.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+2026-11-28_W_shim2.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Hakubun_shimomura_20211024.jpg/1920px-Hakubun_shimomura_20211024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+2026-11-28_W_diet.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/National_Diet_Building_-_Tokyo%2C_Japan_-_DSC06736.JPG/1920px-National_Diet_Building_-_Tokyo%2C_Japan_-_DSC06736.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+2026-11-28_W_ldp.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Headquarters_of_Liberal_Democratic_Party_%28Japan%29%2C_2024-09-15_%281%29.jpg/1920px-Headquarters_of_Liberal_Democratic_Party_%28Japan%29%2C_2024-09-15_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+2026-11-28_W_yen.jpg https://upload.wikimedia.org/wikipedia/commons/5/5f/10000_yen_banknote_%28Series_E%29%2C_obverse.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled

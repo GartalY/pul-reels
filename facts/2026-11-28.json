@@ -310,6 +310,16 @@
   "language_check": "Sən-form like the CTA; short sentences ≤ 11 words; 'X-a məxsus olmaq', 'mağarasından çıxıb' checked; numbers written out.",
   "voice_text": "Üç yüz əlli min illik çənə Azıx mağarasından çıxıb! Sahibi isə səni təəccübləndirəcək. Onu min doqquz yüz altmış səkkizdə arxeoloq Məmmədəli Hüseynov tapıb. Dünən Azıx-Tağlar Arxeoloji Parkı qoruğunun əsasnaməsi təsdiqləndi. Alimlərə görə, bu çənə təxminən iyirmi yaşlı bir qadına məxsus olub. Bəyən və izlə — hər gün bilmədiyin bir fakt!",
   "voice_word_count": 49,
-  "voice": "pending"
+  "voice": "arif",
+  "arif_mp3": "reels/arif/2026-11-28_1830.mp3",
+  "arif_raw_mp3": "reels/arif/2026-11-28_1830_raw.mp3",
+  "arif_credits": 338,
+  "arif_duration_raw": 22.48,
+  "arif_duration": 24.45,
+  "atempo": 0.92,
+  "words_json": "reels/arif/2026-11-28_1830.words.json",
+  "arif_flow_id": "qRC5VVdHhlwnfmgACPqg",
+  "arif_generated_at": "2026-11-28 ~14:55 Baku, first attempt",
+  "transcript_match": true
  }
 }

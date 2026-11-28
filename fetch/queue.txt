@@ -918,3 +918,11 @@ wv_1128_phone.jpg https://images.unsplash.com/photo-1511283408945-65a38c055808?i
 2026-11-28_s_azix2.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Az%C4%B1x
 2026-11-28_s_xocavend.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Xocav%C9%99nd
 2026-11-28_s_museum_az.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=National%20Museum%20of%20History%20of%20Azerbaijan%20stone%20tools
+2026-11-28_T_jaw2.jpg https://upload.wikimedia.org/wikipedia/commons/9/91/%D0%90%D0%B7%D1%8B%D1%85.jpg
+2026-11-28_T_maral.jpg https://upload.wikimedia.org/wikipedia/commons/f/f9/Az%C4%B1x_ma%C4%9Faras%C4%B1ndan_tap%C4%B1lm%C4%B1%C5%9F_maral_s%C3%BCm%C3%BCkl%C9%99ri.jpg
+2026-11-28_T_xocavend.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/The_village_of_Khojavend_in_the_Khojavend_district%2C_February_2026_%E2%80%94_1.jpg/1920px-The_village_of_Khojavend_in_the_Khojavend_district%2C_February_2026_%E2%80%94_1.jpg
+2026-11-28_T_azykh_g.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Az%C4%B1x_ma%C4%9Faras%C4%B120211214_172043.jpg/1920px-Az%C4%B1x_ma%C4%9Faras%C4%B120211214_172043.jpg
+2026-11-28_T_tools.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Stone_tools_of_Mousterian_period.jpg/1920px-Stone_tools_of_Mousterian_period.jpg
+2026-11-28_s_huswiki_az.json https://az.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages|images&piprop=original&titles=M%C9%99mm%C9%99d%C9%99li%20H%C3%BCseynov
+2026-11-28_s_huswiki_en.json https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages|images&piprop=original&titles=Mammadali%20Huseynov
+2026-11-28_s_huswiki_ru.json https://ru.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages|images&piprop=original&titles=%D0%93%D1%83%D1%81%D0%B5%D0%B9%D0%BD%D0%BE%D0%B2,%20%D0%9C%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0%D0%BB%D0%B8%20%D0%93%D1%83%D1%81%D0%B5%D0%B9%D0%BD%20%D0%BE%D0%B3%D0%BB%D1%8B

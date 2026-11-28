@@ -1,6 +1,6 @@
 # Ep11 — Why Didn't the Universe Destroy Itself? The Antimatter Mystery — NOTES
 
-status: DONE — scheduled YouTube Sat 28 Nov 2026 19:00 London / 23:00 Baku; cut Short YouTube/Instagram/TikTok Sun 29 Nov 23:00 London / Mon 30 Nov 03:00 Baku — Metricool YT 444999256; Short YT 444999378 / IG 444999391 / TT 444999409 (see ../../posts.json, PUBLISH.md)
+status: DONE — PUBLISHED Sat 28 Nov 2026 19:00 London / 23:00 Baku (https://www.youtube.com/watch?v=MWWVWTisiM8; thumbnail + .srt sent to Gartal 19:16 London); cut Short YouTube/Instagram/TikTok Sun 29 Nov 23:00 London / Mon 30 Nov 03:00 Baku — Metricool YT 444999256; Short YT 444999378 / IG 444999391 / TT 444999409 (see ../../posts.json, PUBLISH.md)
 
 - **Timing:** the run started Fri 27 Nov 20:24 London (Sat 28 Nov 00:24 Baku; VM clock = UTC, checked against pypi.org's HTTP Date). Baku "today" = Sat 28 Nov →
   long video Sat 19:00 London; the cut Short the day after at 23:00 London (never 19:00 Baku — the daily trend Short's slot).

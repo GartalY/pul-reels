@@ -927,3 +927,4 @@ wv_1128_phone.jpg https://images.unsplash.com/photo-1511283408945-65a38c055808?i
 2026-11-28_s_huswiki_en.json https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages|images&piprop=original&titles=Mammadali%20Huseynov
 2026-11-28_s_huswiki_ru.json https://ru.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages|images&piprop=original&titles=%D0%93%D1%83%D1%81%D0%B5%D0%B9%D0%BD%D0%BE%D0%B2,%20%D0%9C%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0%D0%BB%D0%B8%20%D0%93%D1%83%D1%81%D0%B5%D0%B9%D0%BD%20%D0%BE%D0%B3%D0%BB%D1%8B
 2026-11-28_s_husfile.json https://az.wikipedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url|size|extmetadata&titles=Fayl:Mammadali%20Huseynov%20in%20Azykh%20cave.jpg
+2026-11-28_T_huseynov.jpg https://upload.wikimedia.org/wikipedia/az/d/dd/Mammadali_Huseynov_in_Azykh_cave.jpg

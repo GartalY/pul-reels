@@ -1,0 +1,21 @@
+{
+  "hook": "21 MILLION",
+  "hook_sub": "US accounts' private AI chats are in a sale set for 1 December",
+  "beats": [
+    "Bankrupt Character.AI's proposed sale includes chats from 21 million+ US accounts.",
+    "Over 2.1 million of those accounts belong to minors.",
+    "Now 42 US states are asking the court to block the sale. The judge hasn't ruled yet."
+  ],
+  "credit": "Source: US state AG filings, 27 Nov 2026 · Photo: Rui Silvestre/Unsplash",
+  "cta": "Send this to the friend who tells AI everything",
+  "seed": 28,
+  "cy": 0.5,
+  "preview_at": [
+    0,
+    2,
+    5,
+    8,
+    11,
+    13.5
+  ]
+}

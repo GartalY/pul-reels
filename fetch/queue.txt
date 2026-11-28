@@ -934,3 +934,10 @@ wv_1128_phone.jpg https://images.unsplash.com/photo-1511283408945-65a38c055808?i
 2026-11-28_w_yen.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=10000%20yen%20banknote%20Japan
 2026-11-28_w_maternity.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600&gsrsearch=Japan%20maternity%20mark
 2026-11-28_w_shimomura_en.json https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages|images&piprop=original&titles=Hakubun%20Shimomura
+2026-11-28_W_shibuya.jpg https://images.unsplash.com/photo-1617617589533-cd2df13f04d7?fm=jpg&q=85&w=1600
+2026-11-28_W_oldtokyo.jpg https://images.unsplash.com/photo-1733224391891-994736448508?fm=jpg&q=85&w=1600
+2026-11-28_W_feet.jpg https://images.unsplash.com/photo-1510154221590-ff63e90a136f?fm=jpg&q=85&w=1600
+2026-11-28_W_hand.jpg https://images.unsplash.com/photo-1582486225644-aeacf6aa0b1b?fm=jpg&q=85&w=1600
+2026-11-28_W_playground.jpg https://images.unsplash.com/photo-1774879467955-28d1003cae31?fm=jpg&q=85&w=1600
+2026-11-28_W_skytree.jpg https://images.unsplash.com/photo-1637082583298-72aba42cdebf?fm=jpg&q=85&w=1600
+2026-11-28_W_temple.jpg https://images.unsplash.com/photo-1753800101893-7b4da978016f?fm=jpg&q=85&w=1600

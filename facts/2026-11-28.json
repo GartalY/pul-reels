@@ -320,6 +320,43 @@
   "words_json": "reels/arif/2026-11-28_1830.words.json",
   "arif_flow_id": "qRC5VVdHhlwnfmgACPqg",
   "arif_generated_at": "2026-11-28 ~14:55 Baku, first attempt",
-  "transcript_match": true
+  "transcript_match": true,
+  "content_format": "trend",
+  "tiktok_swap": false,
+  "status": "scheduled 18:30 IG REEL / TikTok / YT short (isAiGenerated/isAigc/isAiGeneratedContent true)",
+  "metricool_ids": {
+   "instagram": 445378191,
+   "tiktok": 445378206,
+   "youtube": 445378221
+  },
+  "scheduled_check": "28 Nov ~16:02 Baku: getScheduledPosts 28 Nov 15:00/16:00-24:00 empty before creating -> 3 new posts",
+  "media_url": "https://raw.githubusercontent.com/GartalY/pul-reels/bilirdinizmi-media/reels/2026-11-28_1830_azix_cene.mp4",
+  "caption": "Azıx mağarasından 350 000 illik çənə 🦴 Sahibi kim idi?\n\nDünən (27 noyabr) «Azıx-Tağlar Arxeoloji Parkı» Dövlət Qoruğunun əsasnaməsi təsdiqləndi. Qoruq Xocavənd rayonundakı Azıx və Tağlar mağaralarını əhatə edir.\n\nAzıx mağarasını 1960-cı ildə arxeoloq Məmmədəli Hüseynovun ekspedisiyası tapıb. 1968-ci ildə mağaranın 5-ci qatında qədim insan çənəsinin bir parçası tapıldı. Ona «Azıxantrop» adı verildi. Alimlərin hesablamasına görə, bu çənə 350–400 min illikdir. Ən maraqlısı: o, təxminən 20 yaşlı bir qadına məxsus olub.\n\nSən bunu bilirdin? 👇\n\n📩 Tarixi sevən dostuna göndər\n\n👉 Bəyən və izlə — hər gün bilmədiyin bir fakt!\n\nSəs: elevenlabs.io\nFoto (Wikimedia Commons): Gulustan (CC BY-SA 3.0), DanielBoulanger (CC BY-SA 4.0), Asgarov Ruslan (CC BY-SA 4.0), Azərbaycan Prezidentinin Mətbuat Xidməti (CC BY 4.0), Ліонкінг / Sefer azeri (CC BY-SA 4.0), Sefer azeri və Sefer ibrahim (ictimai mülkiyyət); M. Hüseynovun arxiv fotosu (ictimai mülkiyyət, az.wikipedia)\nMənbələr: trend.az, 1news.az, apa.az, science.gov.az, Wikipedia\n\n#AzıxMağarası #Azıxantrop #Xocavənd #Arxeologiya #AzərbaycanTarixi",
+  "first_comment": "Sən bunu bilirdin? 👇 Azıx mağarasını görmüsən?",
+  "caption_credit": "Səs: elevenlabs.io",
+  "photo_credits": [
+   "Gulustan CC BY-SA 3.0 (Азых.jpg — jaw in museum head mount)",
+   "Gulustan CC BY-SA 3.0 (Mandible fragment of Homo heidelbergensis from Azykh cave)",
+   "DanielBoulanger CC BY-SA 4.0 (La grotte d'Azikh; Grotte Azikh)",
+   "Asgarov Ruslan CC BY-SA 4.0 (Azıx mağarası 20211214 165835, 170042)",
+   "Press Service of the President of Azerbaijan CC BY 4.0 (Azykh cave in 2021; The village of Khojavend, February 2026 — 1)",
+   "Sefer ibrahim PD (Azıx düşərgəsinin çöküntüləri)",
+   "Ліонкінг / Sefer azeri CC BY-SA 4.0 (Plan of Azykh cave)",
+   "Sefer azeri PD (Azıx mağarasından tapılmış maral sümükləri)",
+   "PD archive photo, M. Hüseynov 'Археология Азербайджана (каменный век)', az.wikipedia (Mammadali Huseynov in Azykh cave)"
+  ],
+  "agency_photos": [],
+  "build": {
+   "dir": "reels/2026-11-28_1830",
+   "duration_s": 26.5,
+   "fps": 60,
+   "size_mb": 8.8,
+   "loudness": "-14.2 LUFS, -1.2 dBTP",
+   "sfx_db": -9,
+   "music": "none",
+   "photos": 12,
+   "photo_note": "12 different photos (11 Commons + 1 PD az.wiki); payoff woman = drawn silhouette; rejected 2 cave photos with a private person in frame and the president-visit photo; Hüseynov: only 1 photo of him found anywhere (PD archive, low-res 354 px) — filled with cave/documents, not the same face again",
+   "critique": "3 rounds, docs/critique.md; final scores hook 8, readability 8, motion 8, variety 8, accuracy 9, sync 8"
+  }
  }
 }

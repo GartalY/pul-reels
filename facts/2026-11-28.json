@@ -283,5 +283,33 @@
    }
   ],
   "photo_note": "28 Nov 09:35: viewed all on a contact sheet. EXCLUDED: 2026-11-28_T_azykh_c.jpg (a private person standing in the cave). Also skipped on Commons: 'Ilham Aliyev in Azykh cave' (fine but not needed), Armenian-titled files (AZ POLITICS RULE: avoid). No Hüseynov portrait on Commons search — 15:23 may search 'Məmmədəli Hüseynov' once; else use the jaw + layers + 'M. Hüseynov' name card. 7 usable images ≥ 6 (MANY PHOTOS rule)."
+ },
+ "reel_1830": {
+  "topic": "Azıx-Tağlar Arxeoloji Parkı Dövlət Qoruğunun əsasnaməsi 27 Nov 2026 təsdiqləndi (Nazirlər Kabineti); Azıx mağarasında 1968-ci ildə M. Hüseynovun tapdığı Azıxantrop çənəsi (alimlərin hesablamasına görə 350–400 min il; ~20 yaşlı qadın)",
+  "format": "trend",
+  "picked_at": "14:48 Baku 28 Nov — 2nd trend check (apa.az, trend.az, report.az headlines 28 Nov: orders/awards, diplomatic letters, a sports item in Armenia — sports quota used, nothing hotter with a fact angle) → morning pick kept",
+  "sources": [
+   "https://www.trend.az (27 Nov, Əsasnamə)",
+   "https://1news.az (27 Nov)",
+   "https://en.apa.az/official-news/president-ilham-aliyev-signs-order-establishing-azikh-taghlar-archaeological-park-state-reserve-531424",
+   "https://www.azernews.az/nation/265975.html",
+   "https://en.wikipedia.org/wiki/Mammadali_Huseynov",
+   "https://science.gov.az/en/news/open/16024",
+   "https://artsandculture.google.com/asset/fragment-of-human-azykhantrop-jaw/hgF3wUQszcMxpQ"
+  ],
+  "hooks": [
+   "Üç yüz əlli min illik çənə Azıx mağarasından çıxıb! Sahibi isə səni təəccübləndirəcək.",
+   "Dörd yüz min illik sirr: Azıx mağarası indi qoruqdur.",
+   "Bu sümük üç yüz əlli min illikdir — sahibi isə gənc qadın olub.",
+   "Min doqquz yüz altmış səkkiz, beşinci qat: arxeoloqun ən böyük tapıntısı.",
+   "Üç yüz əlli min il əvvəl yaşayıb — sümüyü isə Xocavənddə tapılıb!"
+  ],
+  "hook_pick": 0,
+  "hook_pick_reason": "Number first (350 000 = lower bound of the estimate), names Azıx mağarası in sentence 1, emotion/promise ('səni təəccübləndirəcək') with the payoff (young woman) saved for the end. Rejected 'ən böyük tapıntı' (not provable).",
+  "context_check": "No war/occupation/excavation-dispute mention (AZ POLITICS RULE); 'əsasnaməsi təsdiqləndi' not 'yaradıldı' (reserve created Oct); age hedged 'alimlərə görə' + 'təxminən iyirmi'; no species claim; 'Dünən' valid for a 28 Nov post only.",
+  "language_check": "Sən-form like the CTA; short sentences ≤ 11 words; 'X-a məxsus olmaq', 'mağarasından çıxıb' checked; numbers written out.",
+  "voice_text": "Üç yüz əlli min illik çənə Azıx mağarasından çıxıb! Sahibi isə səni təəccübləndirəcək. Onu min doqquz yüz altmış səkkizdə arxeoloq Məmmədəli Hüseynov tapıb. Dünən Azıx-Tağlar Arxeoloji Parkı qoruğunun əsasnaməsi təsdiqləndi. Alimlərə görə, bu çənə təxminən iyirmi yaşlı bir qadına məxsus olub. Bəyən və izlə — hər gün bilmədiyin bir fakt!",
+  "voice_word_count": 49,
+  "voice": "pending"
  }
 }

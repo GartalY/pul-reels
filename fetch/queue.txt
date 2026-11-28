@@ -911,3 +911,4 @@ search_nyse_2411.json https://commons.wikimedia.org/w/api.php?action=query&forma
 2026-11-29_2_gazelle_a.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Female_goitered_gazelle%2C_Shirvan_National_Park%2C_Azerbaijan.jpg/1920px-Female_goitered_gazelle%2C_Shirvan_National_Park%2C_Azerbaijan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 2026-11-29_2_gazelle_b.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Gazelle%2C_Shirvan_NP1.JPG/1920px-Gazelle%2C_Shirvan_NP1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 2026-11-29_2_stamps.jpg https://upload.wikimedia.org/wikipedia/commons/5/5d/Stamps_of_Azerbaijan%2C_2014-1151-1155.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+wv_1128_phone.jpg https://images.unsplash.com/photo-1511283408945-65a38c055808?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=2400
